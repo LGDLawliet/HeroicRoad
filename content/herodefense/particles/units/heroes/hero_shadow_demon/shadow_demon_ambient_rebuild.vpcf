@@ -1,0 +1,78 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_ABSORIGIN_FOLLOW"
+					m_vecOffset = [ 0.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "parent"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_head"
+					m_vecOffset = [ 0.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "parent"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_attack1"
+					m_vecOffset = [ 0.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "parent"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_attack2"
+					m_vecOffset = [ 0.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "parent"
+				},
+				{
+					m_iControlPoint = 4
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "eye_L"
+					m_vecOffset = [ 0.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "parent"
+				},
+				{
+					m_iControlPoint = 5
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "eye_R"
+					m_vecOffset = [ 0.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "parent"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/heroes/shadow_demon/shadow_demon.vmdl"
+				m_nModSpecificData = 396
+				m_sequenceName = "idle"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/units/heroes/hero_shadow_demon/shadow_demon_ambient_rebuild_hands_v3.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/units/heroes/hero_shadow_demon/shadow_demon_ambient_rebuild_head.vpcf"
+		},
+	]
+}

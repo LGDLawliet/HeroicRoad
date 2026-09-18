@@ -1,0 +1,108 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_nBehaviorVersion = 4
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 500.0, 500.0, 1.0 ]
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_StopAfterCPDuration"
+			m_flDuration = 2.0
+			m_bDestroyImmediately = true
+			m_bDisableOperator = true
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_ground_burn.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_ground.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_ring_flash.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_shockwave.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_ring.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_rings.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_embers_orbit.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_atmos_orbit.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_center.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ities_eclipse_arcs_parent.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_sphere_warp.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_sphere_lensflare.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_burst.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_beam_fat.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_sphere_burn.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_sphere_burn_b.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_blinkout_a.vpcf"
+			m_flDelay = 0.8
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_embers_orbit_models.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/soul_link/unlock2/ties_eclipse_area_elec.vpcf"
+		},
+	]
+}

@@ -1,0 +1,66 @@
+"DOTAAbilities"
+{
+    "item_hd_star_mace_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "item_lua"
+        "AbilityTextureName"       "item_star_mace"
+        "ScriptFile"               "items/item_hd_star_mace"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "AbilityCastPoint"         "0.0"
+        "AbilityCooldown"          "5"
+        "AbilityManaCost"          "0"
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"         "9000"
+        
+        "ItemQuality"              "common"
+        "ItemCastOnPickup"         "0"
+        "Model"                    "models/props_gameplay/mango.vmdl"
+        "ItemCost"                 "0"
+        "ItemPurchasable"          "0"
+        "ItemKillable"             "0"
+        "ItemKillable"             "0"
+        "ItemPermanent"            "0"
+        "ItemInitialCharges"       "2"
+        "ItemStackable"            "1"
+        "ItemShareability"         "ITEM_FULLY_SHAREABLE"
+        "ItemShopTags"             "consumable"
+        "ItemRequirements"
+        {
+        }
+        "AbilityValues"
+        {
+        }
+    }
+
+    "item_hd_occult_bracelet"
+	{
+        "BaseClass"                "item_lua"
+		"AbilityTextureName"					"item_occult_bracelet"
+		"ScriptFile"							"items/item_hd_occult_bracelet"
+		"AbilityBehavior"						"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"ItemCastOnPickup"						"0"
+		"Model"									"models/props_gameplay/red_box.vmdl"
+		"ItemCost"								"1000"
+		"ItemDroppable"							"1"
+		"ItemSellable"							"1"
+		"ItemShareability"						"ITEM_NOT_SHAREABLE"
+		"ItemPurchasable"						"0"
+		"ItemKillable"							"0"
+		"ItemAlertable"							"0"
+		"ItemPermanent"							"0"
+		"ItemStackable"							"0"
+		"AbilityValues"
+		{
+			"profic"							"12"
+            "mana_regen"                        "0.4"
+            "bonus_profic"                      "6"
+            "duration"                          "3"
+		}
+	}
+}

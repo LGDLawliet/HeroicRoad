@@ -1,0 +1,168 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Effect Proxies ----
+	F_USE_HERO_EFFECTS_PROXY 1
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Specular ----
+	F_SPECULAR_CUBE_MAP 1
+
+	//---- Tint Self Ilum ----
+	F_TINT_SELF_ILUM 1
+
+	//---- Translucency ----
+	F_ALPHA_TEST 1
+
+	//---- Blend To Full ----
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/creeps/evil_little_dragon/textures/character/t_armor_coloir.png"
+
+	//---- Detail 1 ----
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordScale "[8.000 8.000]"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "1.000"
+	TextureDetail2 "[1.000000 1.000000 1.000000 1.000000]"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "1.000"
+	g_flBloomShift "1.000"
+	g_flOverbrightFactor "1.000"
+	g_vBloomColor "[1.000000 0.200000 0.000000 1.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureDiffuseWarpMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureMetalnessMask "[0.687000 0.687000 0.687000 0.000000]"
+	TextureSelfIllumMask "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Mask 2 ----
+	TextureRimMask "[0.433000 0.433000 0.433000 0.000000]"
+	TextureSpecularExponent "[0.450000 0.450000 0.450000 0.000000]"
+	TextureSpecularMask "[0.980000 0.980000 0.980000 0.000000]"
+	TextureTintByBaseMask "[0.467000 0.467000 0.467000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "models/creeps/evil_little_dragon/textures/character/t_armor_normal.png"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[0.549020 0.549020 0.549020 0.000000]"
+
+	//---- Specular ----
+	g_flCubeMapScalar "1.029"
+	g_flSpecularExponent "32.000"
+	g_flSpecularScale "1.000"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureCubeMap "models/monster/element/molten/textures/molten_cube.png"
+
+	//---- Translucency ----
+	g_flAlphaTestReference "0.500"
+	TextureTranslucency "[1.000000 1.000000 1.000000 0.000000]"
+
+	Attributes
+	{
+		PreviewModel "models/creeps/evil_little_dragon/evil_little_dragon.vmdl"
+	}
+
+	DynamicParams
+	{
+		g_flBloomScale "speed = 0.3;\nmax = 1;\nvalue = speed*time()%(max*2);\nd = (value>max)?max*2-value:value;\nreturn d+0.5;"
+	}
+
+	UnusedVariables
+	{
+		"g_vDetail2TexCoordOffset" "[0.000 0.000]"
+		"g_vDetail2TexCoordScale" "[2.000 2.000]"
+		"g_flDetailBlendToFull" "0"
+		"g_flDetailBlendFactor" "0.949"
+		"g_flDetailTexCoordRotation" "54.66"
+		"g_vDetail1ColorTint" "[1.000000 1.000000 1.000000 0.000000]"
+		"g_vDetailTexCoordOffset" "[0.000 0.000]"
+		"TextureDetail" "materials/models/heroes/shadow_fiend/shadow_fiend_detail.psd"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+			"Overbright" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+		"Translucency"
+		{
+		}
+	}
+}

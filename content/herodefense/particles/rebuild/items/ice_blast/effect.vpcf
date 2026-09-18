@@ -1,0 +1,81 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf54:version{326b1595-45e8-4004-aa5a-3e08655ff51f} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_flConstantLifespan = 0.5
+	m_flNoDrawTimeToGoToSleep = 2.0
+	m_bShouldSort = false
+	m_nBehaviorVersion = 12
+	m_nFirstMultipleOverride_BackwardCompat = 4
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 425.0, 2.0, 1000.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_volumetric_ring.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_energy.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_sphere_shake.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_flash.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_fireworks.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_sphere.vpcf"
+			m_flDelay = 0.1
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_wind.vpcf"
+			m_flDelay = 0.1
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_shockwave.vpcf"
+			m_flDelay = 0.1
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_energy_sparks_core.vpcf"
+			m_flDelay = 0.2
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_shockwave_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ice_blast/effect_glass.vpcf"
+			m_flDelay = 0.4
+		},
+	]
+}

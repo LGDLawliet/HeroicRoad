@@ -1,0 +1,67 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf61:version{39d3ce1d-9442-4407-9b78-8317145b1732} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_bInfiniteBounds = true
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/ghost_purimn/sparks.vpcf"
+			m_bEndCap = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/ghost_purimn/dark_proj.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/ghost_purimn/light_proj.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hyakkiyakou/hyakkiyakou_army_edge_proj.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hyakkiyakou/hyakkiyakou_army_swirl.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/ghost_purimn/dark_edge.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/ghost_purimn/hot_edge.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hyakkiyakou/hyakkiyakou_army_glow.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hyakkiyakou/hyakkiyakou_army_radius_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hyakkiyakou/hyakkiyakou_army_embers.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/ghost_purimn/radius.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hyakkiyakou/hyakkiyakou_army_model.vpcf"
+			m_bDisableChild = true
+		},
+	]
+}

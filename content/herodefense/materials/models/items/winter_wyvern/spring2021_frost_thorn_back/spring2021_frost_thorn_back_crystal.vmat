@@ -1,0 +1,69 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "spring_meteor.vfx"
+
+	//---- Alpha Test Texture ----
+	F_ALPHA_TEST 1
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Reflection cube map ----
+	F_REFLECT_CUBE_MAP 1
+
+	//---- Refraction cube map ----
+	F_REFRACT_CUBE_MAP 1
+
+	//---- Tint Color Cyling ----
+	F_TINT_CYCLE 1
+
+	//---- Tint Mask ----
+	F_TINT_MASK 1
+
+	//---- Color ----
+	g_flTintMaskContrast "1.000"
+	g_flTintMaskCutOff "1.000"
+	g_vColorTint "[0.000000 0.000000 0.000000 1.000000]"
+	g_vColorTint2 "[0.992157 0.992157 0.992157 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "materials/models/items/winter_wyvern/spring2021_frost_thorn_back/body2_crystal_color.psd"
+	TextureTintMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- MeteorFX ----
+	g_flAlphaTestReference "0.528"
+	g_flCubeMapPowerReflect "1.000"
+	g_flCubeMapPowerRefract "3.152"
+	g_flCubeMapScalarReflect "11.308"
+	g_flCubeMapScalarRefract "1.522"
+	g_flMeteorBloom "0.105"
+	g_flReflectBumpStrength "0.246"
+	g_flReflectRimPower "32.971"
+	g_flReflectRimStrength "150.000"
+	g_flRefractBumpStrength "3.217"
+	g_flRefractInnerGlow "87.681"
+	g_flRefractionIndex "1.681"
+	g_flSaturation "0.739"
+	g_flTintCycleFresnel "0.280"
+	g_flTintCycleMask "3.986"
+	g_flTintCycleSpeed "0.435"
+	g_flTintCycleWorldScale "[0.002 0.002 0.000]"
+	TextureAlphaTest "materials/models/items/winter_wyvern/spring2021_frost_thorn_back/body2_crystal_trans.tga"
+	TextureCubeMapReflect "materials/models/items/weaver/crimson_pique/crimson_pique_glass_cube.psd"
+	TextureCubeMapRefract "materials/models/cubemaps/crimson_pique_glass_cube.psd"
+
+	//---- Normal Map ----
+	g_flBumpStrength "6.916"
+	TextureNormal "materials/models/items/winter_wyvern/spring2021_frost_thorn_back/body2_crystal_normal.psd"
+
+	//---- Self Illum ----
+	TextureSelfIllumMask "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularBloom "0.500"
+	g_flSpecularIntensity "4.268"
+	TextureBloom "[0.511000 0.511000 0.511000 0.000000]"
+	TextureReflectance "[0.675000 0.675000 0.675000 0.000000]"
+}

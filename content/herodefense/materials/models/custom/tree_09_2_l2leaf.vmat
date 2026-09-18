@@ -1,0 +1,32 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "global_lit_simple.vfx"
+
+	//---- Enable wind ----
+	F_ENABLE_WIND 1
+
+	//---- Translucent ----
+	F_ALPHA_TEST 1
+
+	//---- Color ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "materials/models/custom/tree_09_2_l2leaf_color.tga"
+
+	//---- Translucent ----
+	g_flAlphaTestReference "0.700"
+	TextureTranslucency "materials/models/custom/tree_09_2_l2leaf_trans.tga"
+
+	//---- Wind ----
+	g_flWindFlexibility "0.300"
+	g_flWindHighFrequencyEffects "0.300"
+	g_flWindLinearity "0.000"
+	g_flWindLowFrequencyEffects "0.000"
+	g_flWindSpeedMultiplier "0.300"
+	TextureWindMaskHigh "materials/default/default_mask.tga"
+	TextureWindMaskLow "materials/default/default_mask.tga"
+	TextureWindRandomNoise "[1.000000 1.000000 1.000000 1.000000]"
+}

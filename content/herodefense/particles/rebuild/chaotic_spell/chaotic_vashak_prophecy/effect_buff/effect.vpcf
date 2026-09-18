@@ -1,0 +1,65 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_gem_fx"
+					m_entityName = "self_with_wearables"
+				},
+				{
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_ray_fx"
+					m_entityName = "self_with_wearables"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/heroes/puck/puck.vmdl"
+				m_nModSpecificData = 370
+				m_sequenceName = "idle"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_vashak_prophecy/effect_buff/effect_gather.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_vashak_prophecy/effect_buff/effect_clouds.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_vashak_prophecy/effect_buff/effect_ring.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_vashak_prophecy/effect_buff/effect_ray.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_vashak_prophecy/effect_buff/effect_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_vashak_prophecy/effect_buff/effect_mist.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_vashak_prophecy/effect_buff/effect_gem_sparkle.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_vashak_prophecy/effect_buff/effect_gem_large.vpcf"
+			m_bDisableChild = true
+		},
+	]
+}

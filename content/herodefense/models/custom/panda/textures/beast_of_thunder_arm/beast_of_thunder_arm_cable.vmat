@@ -1,0 +1,17 @@
+"Layer0"
+{
+	"shader"	"cables.vfx"
+	"F_ADDITIVE_BLEND"	"1"
+	"F_DO_NOT_CAST_SHADOWS"	"1"
+	"F_DO_NOT_REFLECT"	"1"
+	"F_RENDER_BACKFACES"	"1"
+	"F_TRANSLUCENT"	"1"
+	"g_flOpacityScale"	"1"
+	"g_flOverbrightFactor"	"12"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureColor"	"materials/particle/tile/tile_noise_01.png"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/particle/tile/tile_noise_01_psd_670b38df.vtex"
+	}
+}

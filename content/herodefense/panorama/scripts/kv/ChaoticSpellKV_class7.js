@@ -1,0 +1,102 @@
+GameUI.CustomUIConfig().ChaoticSpellKV_class7 = {
+	"chaotic_fire_storm": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_reverse_gravity": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_mohrs_shield": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_spell_sequencing": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_aura_invisibility": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_ruby_reverse_radiation": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_regenerate": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_eurythmics": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_doom_execution": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_indomitable_will": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_taunt_constitution": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_pain_dullness": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_night_dance": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_live_in_peace_magic": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_summon_lightning_sphere_element": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_haste_grant": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_summon_healing_guard": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_queenbee_attack": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_tri_icemountain": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_blood_aura": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_vaccum": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_grow": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_more_arrow": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_frost_blast": {
+		"class_level": 7,
+		"weight": 100,
+	},
+	"chaotic_plasma_field_strong": {
+		"class_level": 7,
+		"weight": 100,
+	},
+};

@@ -1,0 +1,43 @@
+# Dependencies and local tooling
+node_modules/
+.vscode/
+.idea/
+*.code-workspace
+.dota2editor/
+
+# Credentials and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Personal archives (use the public example described in README.md)
+/game/herodefense/resource/作者存档.json
+/game/herodefense/scripts/vscripts/internal/local_archive_data.lua
+
+# Dota 2 Workshop Tools generated caches
+tools_asset_info.bin
+tools_thumbnail_cache.bin
+tools_thumbnail_cache.sqlite3*
+word_filter_cache_*.dat
+panorama_debugger.cfg
+
+# Logs, temporary files and editor backups
+*.log
+*.tmp
+*.bak
+*.dmp
+~$*.xlsx
+~$*.docx
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local publication reports and temporary checks
+/.publish-check/
+
+# Private development memo with an internal document link
+/game/herodefense/scripts/vscripts/player_artifact/备注.txt

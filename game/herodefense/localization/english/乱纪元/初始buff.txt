@@ -1,0 +1,298 @@
+"Map_Card_effect_level1"  "Low Tier"
+"Map_Card_effect_level2"  "Mid Tier"
+"Map_Card_effect_level3"  "High Tier"
+"DOTA_Tooltip_modifier_boss_rune" "Final Boss Reward"
+"DOTA_Tooltip_modifier_boss_rune_Description" "If you defeat the final boss, your total rune acquisition for this match will increase by %dMODIFIER_PROPERTY_TOOLTIP%%%."
+
+// Modifier Combination Rules:
+// Race Modifiers: 40 100 150 250 (1.25)
+// Hard Modifiers: 32 80 120 200 (1)
+// Medium Modifiers: 26 64 96 160 (0.8)
+// Easy Modifiers: 16 40 60 100 (0.5)
+// Maximum Progress: 1.8 * 2.5 * 3.5 (Val-Hard, Val-Race, Val-Race) = 1575%
+// Minimum Progress: 1.2 * 1.48 * 1.96 (Easy, Easy, Medium) = 305%
+
+// Final Progress:
+// Base: 20
+// Hard: 20 25 30 35
+// Medium: 16 20 24 28
+// Easy: 10 13 
+// Maximum Bonus: 20 + 25 + 30 + 35 (Val-Hard, Val-Race, Val-Race) = 110%
+// Minimum Progress: 20 + 10 + 13 + 24 (Easy, Easy, Medium) = 67%
+
+
+"diff_1"   "Easy"  
+"diff_1_info"   "<font color='#F5F5F5'>Suitable for new players</font><br><br>Monster Health: <hp>%<br>Monster Attack: <atk>%<br>Rune Progress: <rune>%<br>Victory Rune Bonus: <boss_rune>%"  
+
+"diff_2"   "Normal"  
+"diff_2_info"   "<font color='#87CEEB'>Suitable for players familiar with the game</font><br><br>Monster Health: <hp>%<br>Monster Attack: <atk>%<br>Rune Progress: <rune>%<br>Victory Rune Bonus: <boss_rune>%"  
+
+"diff_3"   "Hard"  
+"diff_3_info"   "<font color='#9370DB'>Suitable for players with runes and relics</font><br><br>Monster Health: <hp>%<br>Monster Attack: <atk>%<br>Rune Progress: <rune>%<br>Victory Rune Bonus: <boss_rune>%"  
+
+"diff_4"   "Nightmare"  
+"diff_4_info"   "<font color='#FA8072'>Suitable for players with many runes and relics</font><br><br><font color='#FA8072'>Monster has random buff</font><br>Monster Health: <hp>%<br>Monster Attack: <atk>%<br>Rune Progress: <rune>%<br>Victory Rune Bonus: <boss_rune>%"  
+
+"diff_5"   "Final"  
+"diff_5_info"   "<font color='#FF8C00'>This difficulty is not fair to you</font><br><br><font color='#ff8c00'>Monster has more random buff</font><br>Monster Health: <hp>%<br>Monster Attack: <atk>%<br>Rune Progress: <rune>%<br>Victory Rune Bonus: <boss_rune>%"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_1"  "Fragile Armor"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_1_Description"  "Starts with %start_incoming% layers of armor, each providing %each%%% damage reduction.<br>Loses %each% layers when taking damage, and takes %break_incoming%%% more damage after all layers are gone.\n<font color='#606060'>Corrupted: Taking damage removes 10x the amount of armor.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_1"  "Fragile Armor"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_1_Description" "Damage taken reduced by %dMODIFIER_PROPERTY_TOOLTIP%%%<br>Damage taken increased by %dMODIFIER_PROPERTY_TOOLTIP%%%"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_2"  "Blur"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_2_Description"  "Grants %evasion%%% evasion. Increases to %evasion_plus%%% if no heroes are within %radius% range."  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_2"  "Blur"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_2_Description" "Grants %dMODIFIER_PROPERTY_TOOLTIP%%% evasion"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_3"  "Mana Rebuke"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_3_Description"  "When damaged by an enemy ability, burns %mana%%% of their current mana and slows movement speed by %move_down%%%, lasting %duration% seconds.\n<font color='#606060'>Corrupted: No longer burns mana;<br>Spell Immune: Immune to the slow effect.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_3"  "Mana Rebuke"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_3_Description" "Counterspell triggered on ability damage"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_3_debuff"  "Mana Rebuke"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_3_debuff_Description" "Movement speed slowed, can be dispelled"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_4"  "Healing Nova"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_4_Description"  "Upon death, blesses up to %max% nearby allies within %radius% range, healing them for %heal%%% max health per second for %duration% seconds.\n<font color='#606060'>Corrupted: Does not heal during the first 5 seconds.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_4"  "Healing Nova"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_4_Description" "Death heals nearby allies over time"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_4_buff"  "Healing Nova"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_4_buff_Description" "Gradually restores health, can be dispelled"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_5"  "Mercy Kill"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_5_Description"  "Attacks have a %chance%%% chance to deal %crit%%% critical strike damage."  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_5"  "Mercy Kill"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_5_Description" "Attacks may deal critical strike damage"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_6"  "Agility"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_6_Description"  "Increases attack speed and movement speed by %speed%%%, and ignores unit collision radius."  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_6"  "Agility"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_6_Description" "Attack and movement speed increased, ignores unit collision"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_7"  "Butcher"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_7_Description"  "Basic attacks deal bonus damage equal to %cut%%% of the target's max health. If the target would die, instead heals self for %heal%%% of max health.\n<font color='#606060'>Corrupted: Damage cut in half; no healing if target survives.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_7"  "Butcher"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_7_Description" "Basic attacks deal true damage or heal based on target HP"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_8"  "Ghostly Backlash"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_8_Description"  "Enemies within %radius% that cast abilities are hit by ghostly rays that remove %hp%%% of their current health and %mana%%% of their current mana.\n<font color='#606060'>Corrupted: Detection radius halved;<br>Spell Immune: Health and mana removal halved.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_8"  "Ghostly Backlash"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_8_Description" "Enemies casting spells lose health and mana"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_9"  "Flesh Curse"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_9_Description"  "Basic attacks increase the target’s incoming damage by %incoming%%%, stacking up to %incoming_max%%%, lasting %duration% seconds.<br><br>On death, removes %stack% stacks of curse from all units within %radius% range.\n<font color='#606060'>Spell Immune: Duration reduced by 75%%.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_9"  "Flesh Curse"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_9_Description" "Attacks increase incoming damage over time"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_9_debuff"  "Flesh Curse"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_9_debuff_Description" "Incoming damage increased by %dMODIFIER_PROPERTY_TOOLTIP%%%, cannot be dispelled, effect mitigated when the caster dies"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_10"  "Hyper Dash"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_10_Description"  "Has a %chance%%% chance per second to activate Hyper Dash, during which movement speed never drops below %speed_min% and ignores unit collision and terrain for %duration% seconds."  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_10"  "Hyper Dash"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_10_Description" "Chance to dash forward with minimum movement speed maintained, ignoring unit collision and terrain"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_10_buff"  "Hyper Dash"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_10_buff_Description" "Movement speed never drops below a threshold, ignores unit collision and terrain"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_11"  "Might Makes Right"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_11_Description"  "Increases outgoing damage by %outgoing%%%, and reduces incoming damage by %incoming%%%. When killed, this buff transfers to the killer for %duration% seconds."  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_11"  "Might Makes Right"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_11_Description" "Powerful damage boost, transferable upon death"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_11_buff"  "Victory!"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_11_buff_Description" "Outgoing damage increased, incoming damage decreased"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_12"  "Void Form"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_12_Description"  "Becomes immune to physical damage when health drops below %line%%%, but attack power and magic resistance are reduced by %down%%%, lasting %duration% seconds.\n<font color='#606060'>Corrupted: Duration reduced by 30%%; Silenced: Duration reduced by 50%%.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_12"  "Void Form"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_12_Description" "Immune to physical damage at low health, but with reduced attack and magic resistance"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_12_buff"  "Void Form"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_12_buff_Description" "Physical immunity, reduced attack and magic resistance, can be dispelled"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_13"  "Frenzy Form"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_13_Description"  "Becomes spell immune when health drops below %line%%%, but attack power and armor are reduced by %down%%%, lasting %duration% seconds.\n<font color='#606060'>Corrupted: Duration reduced by 30%%; Silenced: Duration reduced by 50%%.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_13"  "Frenzy Form"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_13_Description" "Spell immunity at low health, but with reduced attack and armor"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_13_buff"  "Frenzy Form"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_13_buff_Description" "Spell immunity, reduced attack and armor, can be dispelled"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_14"  "Elemental Resistance Specialization"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_14_Description"  "Reduces elemental damage taken by %incoming%%%, but increases non-elemental damage taken by %incoming_2%%%.\n<font color='#606060'>Corrupted: No longer reduces elemental damage.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_14"  "Elemental Resistance Specialization"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_14_Description" "Reduces elemental damage, increases vulnerability to non-elemental damage"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_15"  "Paper Tiger"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_15_Description"  "Increases status resistance by %status%%%, but poison damage taken increases by %incoming%%%.\n<font color='#606060'>Corrupted: Poison damage taken further increased by 20%% [+].</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_15"  "Paper Tiger"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_15_Description" "Status resistance increased, but more vulnerable to poison"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_16"  "Rapid Cooldown"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_16_Description"  "Grants %cd%%% cooldown reduction."  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_16"  "Rapid Cooldown"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_16_Description" "Cooldown reduction increased"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_17"	"Ominous Ticker"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_17_Description"	"Starts with %start_stack% seconds after spawn, gaining %attack_speed% attack speed, %move% movement speed, and %no_armor% attack armor penetration per second.<br><br>After accumulating %line% stacks, outgoing damage increases by %outgoing%%% [×].\n<font color='#606060'>Corruption: The spawn timer and growth have a 40%% chance to stall for one second each second.</font>"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_17"	"Ominous Ticker"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_17_Description"	"Starts growing if not killed for a long time:<br><br>- Attack speed increased by %dMODIFIER_PROPERTY_TOOLTIP%<br>- Movement speed increased by %dMODIFIER_PROPERTY_TOOLTIP%<br>- Attack armor penetration increased by %fMODIFIER_PROPERTY_TOOLTIP%<br>- Outgoing damage increased by %dMODIFIER_PROPERTY_TOOLTIP%%%"  
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_18" "Keep Out"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_18_Description" "Grants immunity to damage originating from beyond %radius% range.\nCorrupted: Becomes 40%% damage reduction instead."
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_18" "Keep Out"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_18_Description" "Immune to damage from sources farther than the specified range."
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_19"  "Fatebound Resolve"  
+"DOTA_Tooltip_ability_chaotic_era_buffskill_19_Description"  "Upon death, continue fighting while continuously losing HP. Gain %attack_speed% bonus attack speed.nCorrupted: No attack speed bonus granted."  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_19"  "Fatebound Resolve"  
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_19_Description" "When you die, you go out with a bang—literally."
+///////////////////////Unique Modifiers/////////////////////////////
+"crazy_surf"   "Crazy Surf"
+"crazy_surf_info"   "Monster spawn rate increased by <value1>%, but their bounty rewards decreased by <value2>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"crazy_surf_hard"   "Val·Infernal Tide"
+"crazy_surf_hard_info"   "Monster spawn rate increased by <value1>%, but their bounty rewards decreased by <value2>% [×]<br><br>All players' damage dealt reduced by <value3>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"DOTA_Tooltip_modifier_crazy_surf_hard_debuff" "Val·Infernal Tide"
+"DOTA_Tooltip_modifier_crazy_surf_hard_debuff_Description" "Damage dealt reduced"
+
+"diviners_portent"  "Diviner's Omen"
+"diviners_portent_info"  "For the next <value1> rounds, monster attack power increases by <value2>%. After completing this phase, you can prioritize settling <value3> high-rarity runes at game settlement, prioritizing skills in use<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"super_elite"  "Elite Education"
+"super_elite_info"  "All monsters are considered elites, gaining 'Feast' and 'Tenacity,' with rune progress increased by <rune>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"DOTA_Tooltip_modifier_super_elite_debuff"                   "Elite Education"
+"DOTA_Tooltip_modifier_super_elite_debuff_Description"       "Maybe there’s no shortage of tutoring classes anywhere in the world."
+
+///////////////////////Queue Modifiers, Standard Values Refer to 'Are You a Spider?'/////////////////////////////
+"undeath_legion"  "Undead Legion"
+"undeath_legion_info"  "Insert <value1> squads of [Undead Zombies] into the initial monster queue, each squad containing <count> units. Their growth increases by <value2>%, rune progress increases by <value3>% [×], and choosing this modifier provides <value4> additional monster slots<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"queens_vanguard_army"  "Are You a Spider?"
+"queens_vanguard_army_info"  "Insert <value1> squads of [Bloodthirsty Ravagers] into the initial monster queue. Their growth and rune progress increase by <value2>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"horn_of_the_alhpa"  "Leader's Horn"
+"horn_of_the_alhpa_info"  "Insert <value1> squads of [Thirsty Vanguard] into the initial monster queue. Their growth and rune progress increase by <value2>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"continuous_stream_of_trees"  "Tree Root Octagon Cage"
+"continuous_stream_of_trees_info"  "Insert <value1> squads of [Cactus Boxers] into the initial monster queue. Their growth increases by <value2>%, rune progress increases by <value3>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+///////////////////////Easy Modifiers, Minimal Side Effects, Low Progress, Won't Appear on 3rd Selection, Val Version x1.6 Benefits/////////////////////////////
+"iron_fog_goldmine"  "Gold Mine Excavation"
+"iron_fog_goldmine_info"  "Gold earned from kills increases by <value1>%, and subsequent monster rune progress increases by <value2>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"greedy"  "Greed"
+"greedy_info"  "All heroes gain <value1> gold per level at the start of each round. Subsequent monster rune progress increases by <value2>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+// At game settlement, gain <value3> gold for each monster queue (requires surviving at least <value4> rounds. If this modifier is selected after those rounds, no gold reward will be given.)
+
+"smothering_tithe"  "Start a Small Loan"
+"smothering_tithe_info"  "Gain <gold> gold and incur <index>% team debt. Every <interval> seconds, <back>% of each surviving hero’s gold is deducted for repayment.<br><br>Upon full repayment, gain <value2> rare runes as a reward, and all heroes’ skill draws increase by <bonus><br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"HUD_ChaoticEra_smothering_tithe_success"  "Debt repaid. Runes will be awarded at settlement."
+"DOTA_HUD_tithe_info"   "Repayment time! {s:locstring_value2} paid <font color='#f0ffff'>{s:locstring_value}</font> gold!"
+"DOTA_HUD_tithe_final_info"   "Repayment complete! {s:locstring_value2} repaid a total of <font color='#f0ffff'>{s:locstring_value}</font> gold in this loan!"
+"DOTA_Tooltip_modifier_smothering_tithe_debuff"                   "Collaborative Usury"
+"DOTA_Tooltip_modifier_smothering_tithe_debuff_Description"       "Fixed percentage of gold deducted periodically"
+"DOTA_Tooltip_modifier_smothering_tithe_buff"                   "Repayment Certificate"
+"DOTA_Tooltip_modifier_smothering_tithe_buff_Description"       "Skill draw count increases by %dMODIFIER_PROPERTY_TOOLTIP%"
+
+///////////////////////Medium Modifiers/////////////////////////////
+"be_careful_at_night"  "Beware the Night"
+"be_careful_at_night_info"  "Subsequent monsters are enhanced:<br>Growth increases by <value1>%<br>Rune progress increases by <value2>% [×]<br><br>All players’ night vision decreases by <value3> points<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"be_careful_at_night_hard"  "Val·Pitch Darkness"
+"be_careful_at_night_hard_info"  "Subsequent monsters are enhanced:<br>Growth increases by <value1>%<br>Rune progress increases by <value2>% [×]<br><br>All players’ night vision decreases by <value3> points<br>All players’ damage dealt decreases by <value4>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"DOTA_Tooltip_modifier_be_careful_at_night_hard_debuff" "Val·Darkness Without Light"
+"DOTA_Tooltip_modifier_be_careful_at_night_hard_debuff_Description" "Night vision significantly reduced, damage dealt reduced"
+
+"imprint_of_nevermore"  "The Wager Agreement of the Soul Eater King"
+"imprint_of_nevermore_info"  "All heroes take <value1>% more damage. When any hero dies, all monsters in the queue gain <value2>% growth [×]. However, subsequent monster rune progress increases by <value3>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+///////////////////////Hard Modifiers/////////////////////////////
+"more_deadly"  "More Deadly"
+"more_deadly_info"  "Subsequent monsters are enhanced:<br>Growth increases by <value1>%<br>Rune progress increases by <value2>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"more_deadly_hard"  "Val·Fatal Threat"
+"more_deadly_hard_info"  "Subsequent monsters are enhanced:<br>Growth increases by <value1>%<br>Rune progress increases by <value2>% [×]<br><br>All players take <value3>% more damage<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"DOTA_Tooltip_modifier_more_deadly_hard_debuff" "Val·Fatal Threat"
+"DOTA_Tooltip_modifier_more_deadly_hard_debuff_Description" "Damage taken increased"
+
+"planar_bridge"  "Planar Bridge"
+"planar_bridge_info"  "All monsters gain stats and bounty growth for <value1> rounds, and subsequent monster rune progress increases by <value2>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"planar_bridge_hard"  "Val·Ultimate Gate"
+"planar_bridge_hard_info"  "All monsters gain stats and bounty growth for <value1> rounds, and subsequent monster rune progress increases by <value2>% [×]<br><br>All players deal <value3>% less damage [×]<br>All players take <value4>% more damage<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"DOTA_Tooltip_modifier_planar_bridge_hard_debuff" "Val·Ultimate Gate"
+"DOTA_Tooltip_modifier_planar_bridge_hard_debuff_Description" "Damage dealt reduced, damage taken increased"
+
+///////////////////////Race Modifiers/////////////////////////////
+"element_coming"  "Elemental Burst"  
+"element_coming_info"  "Subsequent elemental monsters are enhanced:<br>HP growth increases by <value1>%<br>Attack growth increases by <value2>%<br>Rune progress increases by <value3>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"element_coming_hard"  "Val·Elemental Apex"  
+"element_coming_hard_info"  "Subsequent elemental monsters are enhanced:<br>HP growth increases by <value1>%<br>Attack growth increases by <value2>%<br>Rune progress increases by <value3>% [×]<br><br>All players take <value4>% more damage<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"DOTA_Tooltip_modifier_element_coming_hard_debuff" "Val·Elemental Apex"
+"DOTA_Tooltip_modifier_element_coming_hard_debuff_Description" "Damage taken increased"
+
+"chaos_coming"  "Chaos Descends"  
+"chaos_coming_info"  "Subsequent chaos monsters are enhanced:<br>HP growth increases by <value1>%<br>Attack growth increases by <value2>%<br>Rune progress increases by <value3>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"chaos_coming_hard"  "Val·Starry Night"  
+"chaos_coming_hard_info"  "Subsequent chaos monsters are enhanced:<br>HP growth increases by <value1>%<br>Attack growth increases by <value2>%<br>Rune progress increases by <value3>% [×]<br><br>All players deal <value4>% less damage [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"DOTA_Tooltip_modifier_chaos_coming_hard_debuff" "Val·Starry Night"
+"DOTA_Tooltip_modifier_chaos_coming_hard_debuff_Description" "Damage dealt reduced"
+
+"weirding_wood"  "Weirding Wood"
+"weirding_wood_info"  "Subsequent plant monsters are enhanced:<br>HP growth increases by <value1>%<br>Attack growth increases by <value2>%<br>Rune progress increases by <value3>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"weirding_wood_hard"  "Val·Flowering Tree Binding"
+"weirding_wood_hard_info"  "Subsequent plant monsters are enhanced:<br>HP growth increases by <value1>%<br>Attack growth increases by <value2>%<br>Rune progress increases by <value3>% [×]<br><br>All players take <value4>% more damage<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"DOTA_Tooltip_modifier_weirding_wood_hard_debuff" "Val·Flowering Tree Descent"
+"DOTA_Tooltip_modifier_weirding_wood_hard_debuff_Description" "Damage taken increased"
+
+"nega_coming"  "Raging Sea Tide"
+"nega_coming_info"  "Subsequent Naga monsters are enhanced:<br>HP growth increases by <value1>%<br>Attack growth increases by <value2>%<br>Rune progress increases by <value3>% [×]<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+
+"nega_coming_hard"  "Val·Surging Storm"
+"nega_coming_hard_info"  "Subsequent Naga monsters are enhanced:<br>HP growth increases by <value1>%<br>Attack growth increases by <value2>%<br>Rune progress increases by <value3>% [×]<br><br>All players lose <value4>% armor<br><br>Final boss victory reward increases by <boss_rune>% [+]"
+"DOTA_Tooltip_modifier_nega_coming_hard_debuff" "Val·Surging Storm"
+"DOTA_Tooltip_modifier_nega_coming_hard_debuff_Description" "Armor reduced"
+
+//////////////////////Unused Modifiers////////////////////////////
+// "heroic_obelisk"  "Heroic Obelisk"
+// "heroic_obelisk_info"  "At round <value1>, an obelisk appears in the center of the map. The obelisk can withstand <value2> attacks. If destroyed before lasting <value6> seconds, all heroes lose <value7> attributes. If it lasts the required time, every <value3> seconds grants all heroes <value4> attribute bonuses, up to <value5>."
+
+// "curse_contract"  "Curse Contract"
+// "curse_contract_info"  "All damage dealt is reduced by <value1>%. If the game reaches round <value2>, earn <value3>% rare runes based on the number of mythic runes accumulated during the game, with a minimum of <value4> and a maximum of <value5>."
+
+// "death_aura"  "Death Field"
+// "death_aura_info"  "Heroes' healing effectiveness is reduced by <value1>%. Every second, normal rune generation progress increases by <value2>. Positive effects activate after <value3> rounds."
+
+// "super_normal"  "Super Legion"
+// "super_normal_info"  "Monsters with original spawn intervals ≤ <value1> seconds gain <value2>% HP and attack growth, and their rare rune progress bonus increases by <value3>%."
+
+// "ritual_of_summoning"  "Summoning Ritual"
+// "ritual_of_summoning_info"  "Summon [Abyss Lord] at round <wave>. Upon defeating it..."
+
+// "stone_skin"  "Stone Skin"
+// "stone_skin_info"  "You and enemies gain Stone Skin, increasing defense by <value1> and physical resistance by <value2>%."
+
+// "hell_lava_golem"  "Hell Lava Golem"
+// "hell_lava_golem_info"  "At round <wave>, add a [Lava Golem] squad. Its growth is <value1>% of its original, and its rune progress contribution is <value2>% of its original. Upon death, it splits into two smaller golems with <value3>% of its attributes and <value4>% of its bounty."
+
+// "raphaels_hospitality"  "Raphael's Hospitality"
+// "raphaels_hospitality_info"  "(Must be activated before round 23.) At game end, you must have earned at least <value1> mythic runes (Immortal runes count as 5 mythic runes), or you lose all mythic and above runes. If completed, you gain <value2> mythic runes."
+// "HUD_ChaoticEra_raphaels_debuff"  "Contract failed. Raphael took away your high-tier runes."
+// "HUD_ChaoticEra_raphaels_buff"  "Raphael contract succeeded. You gained some rewards in exchange."
+// "HUD_ChaoticEra_raphaels_select_fail"  "Too late. Raphael refuses to make a contract with you."
+
+// "destiny_fade"  "Fading Destiny"
+// "destiny_fade_info"  "You cannot see the names or appearances of monsters in the draft queue, but gain <value1>% rune progress bonus."
+
+// "training_center"  "Training Center"
+// "training_center_info"  "A square training area appears on the map. Fighting here reduces damage by <value1>%, but for each hero present, rune generation speed increases by <value2>%."
+
+// "immortal_ceremony"  "Immortal Ceremony"
+// "immortal_ceremony_info"  "All undead gain <value1>% more undead state effects. Additionally, undead rune progress has a <value2>% chance to generate <value3>% extra benefits."
+
+// "ultimate_pain"  "Ultimate Pain"
+// "ultimate_pain_info"  "After <value1> minutes, everyone takes <value2>% more damage, but for every minute survived..."
+
+// "iron_fog_goldmine_easy"  "Val·Endless Gold Mine"
+// "iron_fog_goldmine_easy_info"  "Gold earned from kills increases by <value1>%. Rune progress for subsequent monsters increases by <value2>% [×]<br><br>All players gain <value3> gold per second during combat."

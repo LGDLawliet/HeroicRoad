@@ -1,0 +1,69 @@
+
+"DOTA_Tooltip_ability_creeps_spell_flame_of_the_splitter"	"分裂者的烈焰"
+"DOTA_Tooltip_ability_creeps_spell_flame_of_the_splitter_Description"	"火元素死亡时将死亡之火附着到击杀者身上，并在状态创建%duration%秒后爆炸，造成火元素全额攻击力*%damage_index%的物理伤害。每次叠加不会刷新倒计时，但会使伤害变为目前的%damage_mul%倍。<br><br>如果被附着火焰的人使用’急行’，可以将火焰甩开并掉落到出发点%radius%范围内最近的友军身上（但如果没有其他友军则甩不开）。"
+"DOTA_Tooltip_ability_creeps_spell_flame_of_the_splitter_Lore"	"已死之焰，或许能在造就其死亡者之间产生’分裂’。"
+"DOTA_Tooltip_modifier_creeps_spell_flame_of_the_splitter_debuff"                                       "分裂者的烈焰"
+"DOTA_Tooltip_modifier_creeps_spell_flame_of_the_splitter_debuff_Description"                   "将受到火元素攻击力x%dMODIFIER_PROPERTY_TOOLTIP%的伤害"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_creeps_spell_earth_return"	"回归大地"
+"DOTA_Tooltip_ability_creeps_spell_earth_return_Description"	"冲撞期间将不会受到伤害，如果命中了敌方单位，那么可以将敌人的%damage_to_heal_hero%/%damage_to_heal_basic%%(英雄/普通单位)当前生命转化等额的治疗效果，同时转化为%heal_to_shield%%%的护盾效果，持续%duration%秒。<br><br>当土元素死亡时，会将此前获取到的所有治疗效果转变为一个雕像，雕像拥有治疗值等同的生命值，每次最多受到最大生命值%max_damage_taken%%%的伤害，在雕像被摧毁前，此前被撞击的英雄将被减少%attribute_reduce_per_hit%*被撞击次数的全属性。"
+"DOTA_Tooltip_ability_creeps_spell_earth_return_Lore"	"失去灵气的石子重回大地，只不过会以另一种方式报答你的'恩情'"
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_earth_return_shield"                                       "回归大地"
+"DOTA_Tooltip_modifier_creeps_spell_earth_return_shield_Description"                   "抵挡伤害"
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_earth_return_debuff"                                       "回归大地"
+"DOTA_Tooltip_modifier_creeps_spell_earth_return_debuff_Description"                   "全属性减少%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%"
+
+
+"DOTA_Tooltip_ability_creeps_spell_bear_cave_ursa_fury_swipes"	"怒意狂击"
+"DOTA_Tooltip_ability_creeps_spell_bear_cave_ursa_fury_swipes_Description"              "每次攻击增加%bonus_per_attack%攻击力/移速/攻速（最大%bonus_max%点），持续%duration%秒。每次攻击都会召唤一个跑得极快的小熊，继承%attribute%%%的生命与攻击力。<br><br>小熊拥有怒意狂击技能，但是不能继续召唤新的小熊。"
+"DOTA_Tooltip_modifier_creeps_spell_bear_cave_ursa_fury_swipes_buff"    "怒意狂击"
+"DOTA_Tooltip_modifier_creeps_spell_bear_cave_ursa_fury_swipes_buff_Description"        "攻击力、攻击速度和移动速度提高"
+"npc_dota_creature_bear_cave_ursa"						"熊穴漫步者"
+
+//长尾传送门-act1
+"DOTA_Tooltip_ability_creep_act1_treasure"	"守门人的考验"
+"DOTA_Tooltip_ability_creep_act1_treasure_Description"    "<h1>被动：魂之指引</h1>关卡中，守门人会首个出现，在多人模式下，它会出现在世界的中央。<br><br>在%time%秒内击杀守门人会使全体友军英雄获得随机数量的金币，每多一名玩家，他的最大生命值就会提高。超出限时后守门人将回归本源离场，同时对所有玩家叠加一层'魂灯'，使其受到的伤害增加%incoming%%%，造成的伤害降低%outgoing%%% [×]，持续%duration%秒\n<h1>被动：弱毒体质</h1>守门人的中毒抗性减少%poison_res%%%，被中毒的单位伤害时，也会额外受到%poison_res%%%的伤害。"
+"DOTA_Tooltip_ability_creep_act1_treasure_Lore" 	    "你到底是锋刃，还是锈铁？"
+"DOTA_Tooltip_ability_creep_act1_treasure_Note0" 	    "4,6,8,9,14,18,19,20,25关不会出现守门人"
+"DOTA_Tooltip_ability_creep_act1_treasure_gold"	"基础奖励金币："
+"DOTA_Tooltip_ability_creep_act1_treasure_gold_min"	"每回合奖励金币成长最小值："
+"DOTA_Tooltip_ability_creep_act1_treasure_gold_max"	"每回合奖励金币成长最大值："
+"DOTA_Tooltip_modifier_creep_act1_treasure"	"守门人的考验倒计时"
+"DOTA_Tooltip_modifier_creep_act1_treasure_debuff"	"魂灯"
+"DOTA_Tooltip_modifier_creep_act1_treasure_debuff_Description"	"伤害降低，受伤增加"
+
+//长尾传送门-绝境战
+
+"DOTA_Tooltip_ability_supreme_spell_nevermore_basic"	"影之王"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_basic_Description"    "过多的灵魂汇聚成阴影之王，奈文摩尔初始处于无敌状态，持续%start_duration%秒。\n<h1>登场：收藏预定</h1>奈文摩尔在出场时会瞬移到地图中心，发动一次全屏攻击秒杀所有的召唤物，使全体英雄的生命值归一并对其施加吸血无效状态，持续%start_duration%秒。持续时间内恢复满生命值会解除这个状态，并使奈文摩尔的无敌时间减少%each_bingo%秒。\n<h1>终结：魂之挽歌</h1>奈文摩尔的战斗限制时间为%all_limit_time%秒，每增加一名玩家则减少%each_time_left%秒。时间结束若未能击败奈文摩尔则其瞬移至地图中心，在%end_channel_time%秒的引导后，发动团灭攻击。"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_basic_Lore" 	    "在我把你们加入我的收藏之前，先让我看看你们的能耐！"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_p0"	"收藏预定"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_p0_Description"	"在持续时间内迅速恢复至满生命值！"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_check"	"魂之挽歌倒计时"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_check_Description"	"你们的旅途注定终止.."
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_end_check"	"团灭倒计时"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_end_check_Description"	"欢迎加入收藏，把这里当成家吧.."
+
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal"	"灵魂收藏"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal_Description"    "<h1>被动：魂之指引</h1>奈文摩尔出场时，回收所有玩家身上的'魂灯'效果。每回收一个'魂灯'，他就会获得%incoming%%%伤害减免，至多达到%incoming_max%%%。\n<h1>被动：灵魂收藏家</h1>有单位死亡时，奈文摩尔会吸取其灵魂，回复%hp_get%%%最大生命值。英雄单位死亡时，回复效果增加%index%%%。\n<h1><font color='#F0FFFF'>觉醒：挽魂之躯</font></h1>生命值低于%tri_line%%%时进入锁血状态%tri_duration%秒，随后失去攻击能力，并持续对全场单位造成大量伤害，魔法免疫的单位受到的伤害减半。"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal_Lore" 	    "守门人已经证明你们只是废铁！"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal_damage"	"挽魂之躯每秒基础伤害：全额攻击力 x"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal_damage_pct"	"%挽魂之躯每秒额外伤害：目标最大生命值 x"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_normal"	"魂之指引"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_normal_Description"	"回收魂灯，受到的伤害降低"
+
+
+"DOTA_Tooltip_ability_supreme_spell_nevermore_p1"	"第一阶段：毁灭阴影"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_p1_Description"    "<h1>循环：毁灭阴影-XZ</h1>奈文摩尔每隔一段时间点名随机玩家，使其获得[点名预定-X]和[点名预定-Z]。<br><br>【毁灭阴影-X】在%p1_time%秒后受到%p1_together%% 最大生命值伤害，其周围%radius%范围内的其他玩家可以参与分摊使伤害等比降低。<br><br>【毁灭阴影-Z】在%p1_time%秒后对其周围的友方单位造成短暂的%p1_alone_incoming_up%% 易伤效果，使其对奈文摩尔造成的伤害降低%p1_alone_outgonging_down%% ，持续%p1_alone_duration%秒。\n<font color=\"#606060\">正确分摊毁灭阴影-X后，奈文摩尔丢失%p1_bingo_inmcoming_reduce%% 伤害减免；<h1>阶段结束：毁灭阴影</h1>毁灭阴影重复%p2_change_line%次后，第一阶段结束<br>全员规避毁灭阴影-Z后，奈文摩尔丢失%p1_bingo_inmcoming_reduce%% 伤害减免；</font>"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_p1_Lore" 	    "在我把你们加入我的收藏之前，先让我看看你们的能耐！"

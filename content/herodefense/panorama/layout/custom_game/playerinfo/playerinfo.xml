@@ -1,0 +1,2282 @@
+<root>
+    <styles>
+        <include src="s2r://panorama/styles/dotastyles.vcss_c"/>
+        <include src="s2r://panorama/styles/hudstyles.vcss_c"/>
+        <!-- <include src="s2r://panorama/styles/hud/dota_hud_spectre_arcana.vcss_c" /> -->
+        <include src="s2r://panorama/layout/custom_game/playerinfo/playerinfo.css"/>
+        <include src="s2r://panorama/layout/custom_game/playerinfo/gameinfo.css"/>
+        <include src="s2r://panorama/layout/custom_game/playerinfo/item_list.css"/>
+        <include src="s2r://panorama/layout/custom_game/playerinfo/achievement.css"/>
+        <include src="s2r://panorama/layout/custom_game/playerinfo/chaotic_era.css"/>
+        <include src="s2r://panorama/layout/custom_game/playerinfo/ending_panel.css"/>
+        <include src="s2r://panorama/layout/custom_game/playerinfo/player_artifact.css"/>
+
+        <include src="s2r://panorama/styles/custom_game/common_hd.css"/>
+    </styles>
+
+    <scripts>
+
+        <include src="file://{resources}/scripts/custom_game/common.js" />
+        <include src="s2r://panorama/layout/custom_game/playerinfo/playerinfo.js" />
+
+        <!-- <include src="s2r://panorama/layout/custom_game/playerinfo/panorama_arcode.js" /> -->
+        <include src="s2r://panorama/layout/custom_game/playerinfo/achievement.js" />
+        <include src="s2r://panorama/layout/custom_game/playerinfo/chaotic_era.js" />
+        <include src="s2r://panorama/layout/custom_game/playerinfo/chaotic_player_artifact.js" />
+    
+    </scripts>
+    <snippets>
+
+
+        <snippet name="general_spell">
+            <Panel class="single_general_spell">
+                <Button id="single_general_spellButton">
+                    <Panel id="single_general_spellImage">
+                        <DOTAAbilityImage id="single_general_spell" abilityname = "Advanced_Blur"/>
+                    </Panel>
+                </Button>
+                <Label class="spell_info_label" text="{s:spellName}"/>
+                <Label id="spell_type_label" class="spell_info_label" text="{s:spelltype}" html="true"  hittest="true" />
+            </Panel>
+        </snippet>
+
+
+        <!-- 商品画布 -->
+        <snippet name="ShopGood">
+            <Panel class="SingleShopGoodPanel_root">
+                <Panel class="SingleShopGoodPanel">
+                
+                    <Button id="SingleShopGoodPanelButton" onactivate="BuyShopGood()">
+                        <Panel id="HeroBorder"/>
+                        <Panel id="SingleShopGoodImage">
+                            <Label class="ShopGoodCostIndicator" id="ShopGoodCostTypoe2" text="-0%"/>
+                            <DOTAAbilityImage id="SingleShopGoodPictureImage"/>
+                            
+                        </Panel>
+                    </Button>
+
+                    <Label class="ShopGoodCostIndicator" id="ShopGoodCostTypoe" text=""/>
+                </Panel>
+                <Panel id="bonus_info">
+                    <Panel id="bonus_info_icon"></Panel>
+                    <Label id="ShopGoodCostTypoe3" text="100"/>
+                    <Label id="ShopGoodCostTypoe4" text=""/>
+                </Panel>
+            </Panel>
+
+        </snippet>
+
+
+        <!-- 特权画布 -->
+        <snippet name="vipinfo">
+            <Panel class="SinglevipinfoPanel_root">
+                <Panel class="SinglevipinfoPanel">
+        
+                    <Button id="SinglevipinfoPanelButton" >
+                        <Panel id="HeroBorder"/>
+                        <Panel id="SinglevipinfoImage">
+                            <DOTAAbilityImage  id="SinglevipinfoPictureImage"/>
+                        </Panel>
+                        
+                    </Button>
+                
+                    <Label class="VIPinfoIndicator" text="#DOTA_HUD_vip_info_endday">
+                        <!-- <DOTAScenePanel hittest="false"  id="VIPinfoPostGameBG" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/> -->
+                    
+                    </Label >
+                    <Label class="VIPinfoIndicator" id="endday"> 
+                        <!-- <DOTAScenePanel hittest="false"  id="VIPinfoPostGameBG" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/> -->
+                        
+                    </Label >
+                
+                
+                </Panel>
+            </Panel>
+        </snippet>
+
+
+        <!-- 奖励画布 -->
+        <snippet name="Bonusinfo">
+            <Panel class="SingleBonusinfoPanel_root">
+                <Panel class="SingleBonusinfoPanel">
+        
+                    <Button id="SingleBonusInfoPanelButton" >
+                        <!-- <Panel id="HeroBorder"/> -->
+                        <Panel id="SingleBonusinfoImage">
+                            <DOTAAbilityImage  id="SingleBonusinfoPictureImage"/>
+                        </Panel>
+                        
+                    </Button>
+                
+                    <Label id="BonusinfoIndicator_reliableExp" text="#DOTA_HUD_Bonus_exp">
+                        <!-- <DOTAScenePanel hittest="false"  id="VIPinfoPostGameBG" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/> -->
+                    </Label >
+                    <Label id="BonusinfoIndicator_gold" text="#DOTA_HUD_Bonus_gold">
+                        <!-- <DOTAScenePanel hittest="false"  id="VIPinfoPostGameBG" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/> -->
+                    </Label >
+
+                    <Label id="BonusinfoIndicator_platinum" text="#DOTA_HUD_Bonus_platinum">
+                        <!-- <DOTAScenePanel hittest="false"  id="VIPinfoPostGameBG" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/> -->
+                    </Label >
+
+                    <!-- <Label class="BonusinfoIndicator" id="endday"> 
+                        <DOTAScenePanel hittest="false"  id="VIPinfoPostGameBG" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                        
+                    </Label > -->
+                
+                
+                </Panel>
+            </Panel>
+        </snippet>
+
+        <!-- 经验书 -->
+        <snippet name="BonusSpellBook">
+            <Panel class = "SingleBonusSpellBookPanel SpellHidden" hittest="false" >
+                <Label id="playerGameBonus_inside_text" text="#DOTA_CUSTOM_PlayerGetSpellsBook"/>
+                <Label id="playerGameBonus_inside_text2" text="/"/>
+                <DOTAAbilityImage  id="playerGameBonus_inside_Ability_picture"/>
+                <Label id="playerGameBonus_inside_text3" text="#DOTA_CUSTOM_BONUS_INFO_EXP"/>
+                <Label id="playerGameBonus_inside_text4" text="/"  onmouseover="DOTAShowTextTooltip('#DOTA_CUSTOM_BONUS_INFO_max_level_info')" onmouseout="DOTAHideTextTooltip()" />
+            </Panel>
+        </snippet>
+
+
+        <snippet name="ItemList">
+            <Panel class="SingleItemList" id="itemList1" >
+                <DOTAItemImage class="DropSelectItemImage" id="SingleItemImage"  />
+            </Panel>
+        </snippet>
+
+
+
+
+
+        <!-- 技能特效画布 -->
+        <snippet name="spellParticle">
+            <Panel class="SingleSpellParticlePanel">
+                <Button id="SingleSpellParticlePanelButton">
+                    <Panel id="HeroBorder"/>
+                    <Panel id="SingleSpellImage">
+                        <DOTAAbilityImage  id="SingleSpellParticleImage"/>
+                    </Panel>
+                </Button>
+
+                <Button id="ParticleButton2">
+                    <Label id="ParticleButtonLabel2" text="endDay"/>
+                </Button>
+                <Button id="ParticleButton">
+                    <Label id="ParticleButtonLabel" text=""/>
+                </Button>
+                <!-- <Label class="CpCostIndicator" id = "leveltext" text="#DOTA_HUD_Spells_Menu_level"/>
+                <Label class="CpCostIndicator" id="SpellLevel"/> -->
+            </Panel>
+        </snippet>
+
+
+
+        <!-- 成就 -->
+        <snippet name="SingleAchievementSnippet">
+            <Panel class="SingleAchievement">
+                <Panel class="SingleAchievementanel">
+                    <Panel id="AchievementSpace"></Panel>
+                    <Panel id="SingleAchievementImage">
+                        <Panel id="RelicImage"  >
+                            <Panel id="RelicImageMain"  >
+                                <Panel id="RelicImageColored" >
+                                    <Panel id="RelicImageInternal1"> </Panel>
+                                    <Panel class="RelicImageShadow"> </Panel>
+                                </Panel>
+                                <Panel id="RelicImageOverlay"  >
+                                    <Panel id="RelicImageInternal2"> </Panel>
+                                    <Panel class="RelicImageShadow"> </Panel>
+                                </Panel>
+                            </Panel>
+                            <Panel id="RelicImageBorder" ></Panel>
+                            <Panel id="RelicGlow" ></Panel>
+                        </Panel>
+                    </Panel>
+
+
+                    <Panel id="AchievementLeft">
+                        <Label id="AchievementTitle" text=""/>
+                        <Panel class="horizontalSpace"></Panel>
+                        <Label id="AchievementInfo" text=""/>
+                        <Panel class="horizontalSpace"></Panel>
+                        <Label id="AchievementInfo2" text=""/>
+                    
+                    </Panel>
+
+                    <Panel id="Achievement_Progress" hittest="true" class="Visible">
+                        <Panel id="AchievementBar_Progress" hittest="true" class="Visible">
+                            <Panel id="AchievementBar_Progress_Left" hittest="false" class="Visible">
+                                <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                            </Panel>
+                            <Panel id="AchievementBar_Progress_Right" hittest="false" class="Visible"></Panel>
+                            <Label id="AchievementBar_Progress_text" text="0/0"/>
+                        </Panel>
+                        <Panel id="AchievementBonusRoot" hittest="true" class="Visible">
+                            <Label id="AchievementBonusTitle" text="#DOTA_HUD_Achievement_bonus"/>
+                            <Panel class="horizontalSpace"></Panel>
+                            <Label class="AchievementBonus"  id="AchievementBonus_1" text="#DOTA_HUD_Achievement_bonus_1"/>
+                            <Label class="AchievementBonus"  id="AchievementBonus_2" text="#DOTA_HUD_Achievement_bonus_2"/>
+                            <Label class="AchievementBonus"  id="AchievementBonus_3" text="#DOTA_HUD_Achievement_bonus_3"/>
+                            <Label class="AchievementBonus"  id="AchievementBonus_4" text="#DOTA_HUD_Achievement_bonus_4"/>
+                            <Label class="AchievementBonus"  id="AchievementBonus_5" text="#DOTA_HUD_Achievement_bonus_5" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_secret_info')" onmouseout="DOTAHideTextTooltip()"/>
+                        </Panel>
+
+                        
+
+                    </Panel>
+
+                    <Panel id="Achievement_State" hittest="true" class="Visible">
+                        <Panel id="Achievement_StateInfo">
+                            <!-- <Panel id="Achievement_StateInfoIcon"> </Panel> -->
+                            <Label id="Achievement_StateInfoText" text=""/>
+                            <!-- <Panel id="Achievement_StateInfoIcon_right"> </Panel> -->
+                        </Panel>
+                        <Panel class="horizontalSpace" ></Panel>
+                        <Button id="GetAchievementBonusButton" class="" >
+                            <Label id="GeneralGoodsButtonLabel" text="#DOTA_HUD_Achievement_bonus_get"/>
+                        </Button>
+                    </Panel>
+        
+                </Panel>
+            </Panel>
+        </snippet>
+        <snippet name="SingleAchievementSnippet_space">
+            <Panel class="SingleAchievement_space">
+
+            </Panel>
+        </snippet>
+
+        <snippet name="single_AchievementBroadcastSnippet">
+            <Panel id="" class="single_AchievementBroadcast showAchievement">
+                <DOTAScenePanel hittest="false"  id="BackgroundFX2" map="scenes/gold_achievement" camera="camera2" />
+                <Panel id="AchievementBroadcast">
+                    <Panel id="SingleAchievementImage_inside">
+                        <Panel id="SingleAchievementImage_small">
+                            <Panel id="RelicImage" class="showAchievement" tabindex="auto" >
+                                <Panel id="RelicImageMain" tabindex="auto" >
+                                    <Panel id="RelicImageColored" >
+                                        <Panel id="RelicImageInternal1"> </Panel>
+                                        <Panel class="RelicImageShadow"> </Panel>
+                                    </Panel>
+                                    <Panel id="RelicImageOverlay"  >
+                                        <Panel id="RelicImageInternal2"> </Panel>
+                                        <Panel class="RelicImageShadow"> </Panel>
+                                    </Panel>
+                                </Panel>
+                                <DOTAScenePanel hittest="false"  id="BackgroundFX" map="scenes/gold_achievement" camera="default" />
+                                <Panel id="RelicImageBorder" tabindex="auto" ></Panel>
+                                <Panel id="RelicGlow" tabindex="auto" ></Panel>
+                                
+                                <!-- <DOTAScenePanel hittest="false"  id="BackgroundFX" map="scenes/hud/versus_dire" camera="default" /> -->
+                            </Panel>
+                           
+                        </Panel>
+                        <Panel id="AchievementBroadcast_player">
+                            <DOTAAvatarImage id="AchievementBroadcast_playerAvatar" accountid="324420892" />  
+                            <DOTAUserName id="AchievementBroadcast_userName" accountid="324420892" /> 
+                            <Label id="AchievementBroadcast_info" text="#DOTA_HUD_Achievement_Broadcast_1"/>
+                            
+                        </Panel>
+                        
+                    </Panel>
+                </Panel>
+               
+            </Panel>
+        </snippet>
+
+
+        <snippet name="Single_Rune_Snippet">
+            <Panel class="runeRoot">
+                <Panel id="Single_Rune_Image">
+                    <Panel id="RuneImageMain"  >
+                        <Panel id="first_layer" class="RuneImageColored RuneImageLayer"  >
+                            <!-- <Image id="RuneImageInternal"  > -->
+                            <!-- </Image> -->
+                            <DOTAAbilityImage  id="RuneImageInternal"   abilityname="chaotic_ray_of_sickness"  />
+                            <Panel class="RuneImageShaow RuneImageLayer"  >
+                            </Panel>
+                            <!-- <DOTAScenePanel hittest="false"  id="runeImageScenes" map="scenes/rune_image_default" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false"/> -->
+
+                        </Panel>
+                        <Panel id="second_layer" class="RuneImageLayer"  >
+                            <!-- <DOTAScenePanel hittest="false"  id="runeImageScenes" map="scenes/rune_image_default" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false"/> -->
+                        </Panel>
+                        <Panel id="RuneImageOverlay" class="RuneImageColored RuneImageLayer"   >
+                            <Image id="RuneImageInternal2"  >
+                            </Image>
+                            <Panel class="RuneImageShaow RuneImageLayer"  >
+                            </Panel>
+                        </Panel>
+                        <Panel class="RuneImageBottomShade"  >
+                        </Panel>
+                        <Panel class="RuneImageShine"  >
+                        </Panel>
+                    </Panel>
+                    <Panel id="RuneImageBorder"  >
+                    </Panel>
+                    <Label id="RuneLevelLabel" text="不朽" html="true" />
+                    <Panel id="RuneGlow"  ></Panel>
+                    <!-- <Panel id="RuneHighLight"  ></Panel> -->
+                </Panel>
+            </Panel>
+            
+        </snippet>
+
+
+
+        <snippet name="Single_Rune_Container">
+            <Panel class="runeContainerRoot">
+                <Panel id="runeContainer">
+
+                </Panel>
+                <Button id="RuneLockButton" onmouseover="DOTAShowTextTooltip('#HUD_LOCK_Rune_INFO')" onmouseout="DOTAHideTextTooltip()"/>
+                <Panel id="itemInfoContainer" hittest="true" >
+                    <Panel id="StatusLabelContainer">
+                        <Label id="StatusLabel0"  text="#HUD_Rune_state_1" ></Label>
+                        <Label id="StatusLabel1"  text="#HUD_Rune_state_2" ></Label>
+                    </Panel>
+                    <Button id="ActionButton">
+                        <Label id="ActionButtonLabel"  text="#HUD_Rune_state_3" > </Label>
+                    </Button>
+
+                </Panel>
+
+            </Panel>
+        </snippet>
+
+        <snippet name="single_runeBonusEditOption">
+            <Panel class="single_runeBonusEditOption">
+                <Label class = 	"left_note" text="{s:bonus}" html = "true"/>
+                <Label class = 	"middle_note" text="{s:header}" html = "true"/>
+                <Label class = 	"right_note" text="({s:bonus_interval})" html = "true"/>
+                <RadioButton id="runeBonusRadioButton" selected="false"  group="runeBonusSwap" class="runeBonusRadioButton" onselect="" ></RadioButton>
+            </Panel>
+        </snippet>
+        <snippet name="single_runeDelContainer">
+            <Panel class="singleRuneDelRoot">
+                <Panel id="runeContainer"/>
+                <DOTASettingsCheckbox id="RuneChecking"  />
+                <!-- ondeselect="$.Msg('aaa');" -->
+            </Panel>
+
+        </snippet>
+
+        <snippet name="singleButton">
+           <Button class="generalHDButton" >
+                <Label id="textInfo"  text=""/>
+            </Button>
+
+        </snippet>
+
+
+                
+        <snippet name="playerArtifact_Single">
+            <Panel class = "playerArtifact_root">
+                <DOTAScenePanel hittest="false"  id="artifactBase" map="scenes/artifact_base" camera="default_camera" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+                
+                <Panel id="playerArtifact_image">
+                    <Panel id="playerArtifact_icon"></Panel>
+                    <Panel id="playerArtifact_background"></Panel>
+                </Panel>
+                <Panel id="ArtifactBottomBlock">
+
+                    <Label id="artifact_level" text="LV{s:level}" />
+                    <Label id="artifact_lock" text="#HUD_player_artifact_lock" />
+                    <Label text="{s:artifactName}" />
+                    <Panel id="ArtifactButtonList" >
+                        <Button id="GetArtifactButton" class="ArtifactActionButton" >  
+                            <Label text="#HUD_player_artifact_TakeThis" />
+                            <Panel id="AurumIcon"   hittest="true" />
+                            <Label id="aurum_cost" class="editCost" text="{s:aurumCost}" ></Label>
+                            
+                        </Button> 
+                        <Button id="BuyArtifactButton" class="ArtifactActionButton" >  
+                            <Label text="#HUD_player_artifact_BuyThis" />
+                            <Panel id="PlatinumIcon"   hittest="true" />
+                            <Label id="platinum_cost" class="editCost" text="{s:platinumCost}" ></Label>
+                            
+                        </Button> 
+                    </Panel>
+                </Panel>
+               
+            </Panel>
+        </snippet>
+
+
+
+    </snippets>
+
+
+
+    <Panel hittest="false" class="playerinfoMenuRoot">
+
+        <!-- 技能图鉴窗口 -->
+        <Panel id="playerSpellslibraryMenuwindowROOT" onactivate="" hittest="true" class="Visible mainMenuDesign">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+            
+            </Panel>
+            <!-- class不知道为啥没用 只能切换了 -->
+            <DOTAScenePanel hittest="false"  id="playerSpellslibraryMenuwindowPostGameBG1" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+
+
+
+
+            <Label id="playerSpellslibraryMenuwindowTitle"  class="playerInfoTitle" text="#DOTA_HUD_playerSpellslibraryMenuwindowTitle" />
+            <!-- 关闭该窗口按钮 -->
+            <Button id="CloseplayerSpellslibraryMenuwindowButton" onactivate="CloseAllPanel();">  </Button> 
+             <!--给出技能种类分类按钮  -->
+             <!-- 物理 -->
+             <Button id="PhysicalSpellsButton" class="generalHDButton" onactivate="OpenPhysicalSpellsMenu();">
+                <Label id="PhysicalSpellsButtonLabel" text="#DOTA_HUD_PhysicalSpells_Button"/>
+            </Button>
+
+            <!-- 魔法 -->
+             <Button id="MagicalSpellsButton" class="generalHDButton" onactivate="OpenMagicalSpellsMenu();">
+                <Label id="MagicalSpellsButtonLabel" text="#DOTA_HUD_MagicalSpells_Button"/>
+            </Button>
+            <!-- 魔法 -->
+            <!-- <Button id="MagicalSpellsButton" onactivate="OpenMagicalSpellsMenu();">
+                <Label id="MagicalSpellsButtonLabel" text="#DOTA_HUD_MagicalSpells_Button"/>
+            </Button> -->
+            <!-- 召唤 -->
+            <Button id="SummonSpellsButton" class="generalHDButton" onactivate="OpenSummonSpellsMenu();">
+                <Label id="SummonSpellsButtonLabel" text="#DOTA_HUD_SummonSpells_Button"/>
+            </Button>
+            <!-- 防御 -->
+            <Button id="DefenseSpellsButton" class="generalHDButton" onactivate="OpenDefenseSpellsMenu();">
+                <Label id="DefenseSpellsButtonLabel" text="#DOTA_HUD_DefenseSpells_Button"/>
+            </Button>
+            <!-- 辅助 -->
+            <Button id="AssistSpellsButton" class="generalHDButton" onactivate="OpenAssistSpellsMenu();">
+                <Label id="AssistSpellsButtonLabel" text="#DOTA_HUD_AssistSpells_Button"/>
+            </Button>
+            <!-- 其他 -->
+            <Button id="OtherSpellsButton" class="generalHDButton" onactivate="OpenOtherSpellsMenu();">
+                <Label id="OtherSpellsButtonLabel" text="#DOTA_HUD_OtherSpells_Button"/>
+            </Button>
+
+            <!-- 左边的技能窗口 -->
+            <Panel id="SpellsWindowPanel" hittest="true" class="Visible">
+
+            </Panel>
+
+            <!-- 右边的技能详细说明窗口 -->
+            <Panel id="SpellsinfoWindowPanel" hittest="true" class="Visible">
+                <!-- 显示当前的可分配经验 -->
+                <Panel id="Spellsinfo_exp_WindowPanel" hittest="false" class="Visible">
+
+
+
+                    <Button id="SpellNextPage" onactivate="GetNextSpellPage();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_CheckSpell_NextPage')" onmouseout="DOTAHideTextTooltip()"></Button>
+                    <!-- 存放当前查看的技能 -->
+                    <Panel id="Spellsinfo_detail" hittest="true" class="Visible">
+                        <!-- 技能的等级数据面板 -->
+                        <Panel id="Spellsinfo_levelInfo" hittest="true" class="Visible">
+                            <Panel id="exp_window" hittest="false" class="Visible">
+                                <Button id="Spellsinfo_exp_icon" >  </Button>
+                                <Label id="Spellsinfo_exp" text="#DOTA_HUD_Spellsinfo_exp"/>
+                                <Label id="Spellsinfo_exp_number" text=""/>
+                            </Panel>
+                            <Panel id="Spellsinfo_levelInfo_inside" hittest="true" class="Visible">
+                                <!-- 技能名 -->
+                                <Panel id="Spellsinfo_Header">
+                                    <Panel id="Spellsinfo_Header_BG">  </Panel>
+                                    <Label id="spell_info_name" text="" />
+                                    <Label id="spell_info_level" text=""/>
+
+                                    <Button id="GetexpButton" hittest="true"  onactivate="UpgradeSpell();" oncontextmenu="UpgradeSpell_lv5();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_upgrade_advanced_spell_info')" onmouseout="DOTAHideTextTooltip()" >
+                                        <Panel id="GetexpButton_BG" >  </Panel>
+                                        <Label id="GetexpButtonLabel" text="#DOTA_HUD_Getexp_Button"/>
+                                    </Button>
+                                    <Panel id="Spells_info_ExpBar_Progress" hittest="true" class="Visible">
+                                        <Panel id="Spells_info_ExpBar_Progress_Left" hittest="false" class="Visible">
+                                            <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                                        </Panel>
+                                         <!-- 经验进度条 -->
+                                        <Panel id="Spells_info_ExpBar_Progress_Right" hittest="false" class="Visible"></Panel>
+                                        <Label id="spell_info_level_progress_text" text="0/0"/>
+                                    </Panel>
+                                </Panel>
+
+                                <!-- 详细信息 -->
+                                <Panel id="Spells_info_inside" hittest="false" class="Visible">
+                                    <Panel id="Spells_info_BG">  </Panel>
+                                    <Label id="spell_info_inside_text" hittest="false"  html = "true" text="#DOTA_Tooltip_ability_base"/>
+                                    <Label id="spell_info_inside_text_2" hittest="false"  html = "true" text="#DOTA_Tooltip_ability_next"/>
+                                </Panel>
+
+                            </Panel>
+                          
+                    
+                        </Panel>
+
+                        <!-- 技能的特效选择面板 -->
+                        <Panel id="Spellsinfo_ParticleInfo" hittest="true" class="">
+
+
+                        </Panel>
+                    </Panel>
+
+                </Panel>
+
+            </Panel>
+
+        </Panel>
+
+        <!-- 环类技能表 -->
+        <Panel id="playerChaoticEraSpellslibraryMenuwindowROOT" onactivate="" hittest="true" class="Visible mainMenuDesign">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+            
+            </Panel>
+            <!-- class不知道为啥没用 只能切换了 -->
+            <!-- <DOTAScenePanel hittest="false"  id="playerSpellslibraryMenuwindowPostGameBG1" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+            <Label class="playerInfoTitle" text="#DOTA_HUD_chaoticEraSpellslibraryMenuwindowTitle" />
+            <!-- 关闭该窗口按钮 -->
+            <Button id="CloseplayerSpellslibraryMenuwindowButton" onactivate="CloseAllPanel();">  </Button> 
+            <!-- 左边的父级分类 -->
+            <Panel id="ChaoticEra_subdivision_left_block">
+                <Button id="ChaoticEraSpellButton_1" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('1');">  
+                     <Label text="#HUD_Spell_level_1" />
+                </Button> 
+                <Button id="ChaoticEraSpellButton_2" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('2');">  
+                     <Label text="#HUD_Spell_level_2" />
+                </Button> 
+
+                <Button id="ChaoticEraSpellButton_3" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('3');">  
+                     <Label text="#HUD_Spell_level_3" />
+                </Button> 
+                <Button id="ChaoticEraSpellButton_4" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('4');">  
+                     <Label text="#HUD_Spell_level_4" />
+                </Button> 
+
+                <Button id="ChaoticEraSpellButton_5" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('5');">  
+                     <Label text="#HUD_Spell_level_5" />
+                </Button> 
+
+                <Button id="ChaoticEraSpellButton_6" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('6');">  
+                     <Label text="#HUD_Spell_level_6" />
+                </Button> 
+                 <Button id="ChaoticEraSpellButton_7" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('7');">  
+                     <Label text="#HUD_Spell_level_7" />
+                </Button> 
+                 <Button id="ChaoticEraSpellButton_8" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('8');">  
+                     <Label text="#HUD_Spell_level_8" />
+                </Button> 
+                 <Button id="ChaoticEraSpellButton_9" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('9');">  
+                     <Label text="#HUD_Spell_level_9" />
+                </Button> 
+                 <Button id="ChaoticEraSpellButton_10" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('10');">  
+                     <Label text="#HUD_Spell_level_10" />
+                </Button> 
+                <!-- <Button id="ChaoticEraSpellButton_111" class="ChaoticEraSpellButton" onactivate="OpenChaoticSpellList('11');">  
+                     <Label text="#HUD_Spell_level_11" />
+                </Button>  -->
+            </Panel>
+
+            <!-- 上面的子类别分类 -->
+            <Panel id = "ChaoticEra_middle_block">
+                <Panel id="ChaoticEra_subdivision_Top_block">
+                    <!-- <Panel class="ChaoticEra_subdivision_Top_single_block">
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_skill" text="#EraListSubdivision_checking_Skill"  onselect="ChaoticEraListSubdivisionOn('skill')" ondeselect="ChaoticEraListSubdivisionOff('skill')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_spell" text="#EraListSubdivision_checking_Spell"  onselect="ChaoticEraListSubdivisionOn('spell')" ondeselect="ChaoticEraListSubdivisionOff('spell')"/>
+                    </Panel>
+
+                    <Panel class="ChaoticEra_subdivision_Top_single_block">
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_active" text="#EraListSubdivision_checking_active"      onselect="ChaoticEraListSubdivisionOn('active')" ondeselect="ChaoticEraListSubdivisionOff('active')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_passive" text="#EraListSubdivision_checking_passive"    onselect="ChaoticEraListSubdivisionOn('passive')" ondeselect="ChaoticEraListSubdivisionOff('passive')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_aoe" text="#EraListSubdivision_checking_aoe"            onselect="ChaoticEraListSubdivisionOn('aoe')" ondeselect="ChaoticEraListSubdivisionOff('aoe')"/>
+                    </Panel>
+                
+
+                    <Panel class="ChaoticEra_subdivision_Top_single_block">
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_Abjuration" text="#EraListSubdivision_checking_Abjuration"          onselect="ChaoticEraListSubdivisionOn('Abjuration')" ondeselect="ChaoticEraListSubdivisionOff('Abjuration')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_Conjuration" text="#EraListSubdivision_checking_Conjuration"        onselect="ChaoticEraListSubdivisionOn('Conjuration')" ondeselect="ChaoticEraListSubdivisionOff('Conjuration')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_Divination" text="#EraListSubdivision_checking_Divination"          onselect="ChaoticEraListSubdivisionOn('Divination')" ondeselect="ChaoticEraListSubdivisionOff('Divination')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_Enchantment" text="#EraListSubdivision_checking_Enchantment"        onselect="ChaoticEraListSubdivisionOn('Enchantment')" ondeselect="ChaoticEraListSubdivisionOff('Enchantment')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_checking_Evocation" text="#EraListSubdivision_checking_Evocation"   onselect="ChaoticEraListSubdivisionOn('Evocation')" ondeselect="ChaoticEraListSubdivisionOff('Evocation')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_Illusion" text="#EraListSubdivision_checking_Illusion"              onselect="ChaoticEraListSubdivisionOn('Illusion')" ondeselect="ChaoticEraListSubdivisionOff('Illusion')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_Necromancy" text="#EraListSubdivision_checking_Necromancy"          onselect="ChaoticEraListSubdivisionOn('Necromancy')" ondeselect="ChaoticEraListSubdivisionOff('Necromancy')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_Transmutation" text="#EraListSubdivision_checking_Transmutation"    onselect="ChaoticEraListSubdivisionOn('Transmutation')" ondeselect="ChaoticEraListSubdivisionOff('Transmutation')"/>
+                        <DOTASettingsCheckbox class="SubdivisonCheckingBox" selected="true" id="EraListSubdivision_checking_Universal" text="#EraListSubdivision_checking_Universal"            onselect="ChaoticEraListSubdivisionOn('Universal')" ondeselect="ChaoticEraListSubdivisionOff('Universal')"/>
+                    </Panel> -->
+
+
+
+                </Panel>
+
+                <Panel id="ChaoticEra_spellList">
+
+                </Panel>
+            </Panel>
+
+
+            <!-- 右边的符石窗口 -->
+            <Panel id = "ChaoticEra_right_block">
+                <!-- 上面的符石列表 -->
+                <Panel id = "ChaoticEra_rune_content_root">
+                    <Panel id = "ChaoticEra_rune_content_background">
+
+                    </Panel>
+                    <Panel id = "ChaoticEra_rune_content">
+ 
+                    </Panel>
+                </Panel>
+                <!-- 下面的功能选项 -->
+                <Panel id = "ChaoticEra_rune_Modify_root">
+                    <Panel id = "ChaoticEra_rune_content_background"></Panel>
+                    <Panel id = "ChaoticEra_rune_Modify">
+                        <Panel id = "ChaoticEra_rune_ModifyButtonList">
+                            <Button id="ChaoticEraRuneModify_Button_1" class="ChaoticEraRuneModifyButton" onactivate="OpenRuneModify('1');">  
+                                <Label text="#HUD_Rune_Modify_1" />
+                            </Button> 
+                            <!-- <Button id="ChaoticEraRuneModify_Button_2" class="ChaoticEraRuneModifyButton" onactivate="OpenRuneModify('2');">  
+                                <Label text="#HUD_Rune_Modify_2" />
+                            </Button>  -->
+                            <Button id="ChaoticEraRuneModify_Button_3" class="ChaoticEraRuneModifyButton" onactivate="OpenRuneModify('3');">  
+                                <Label text="#HUD_Rune_Modify_3" />
+                            </Button> 
+                            <Button id="ChaoticEraRuneModify_Button_4" class="ChaoticEraRuneModifyButton hidden" onactivate="OpenRuneModify('4');">  
+                                <Label text="#HUD_Rune_Modify_4" />
+                            </Button> 
+                        </Panel>
+                    </Panel>
+                </Panel>
+            </Panel>
+
+            <!-- 符石的魔改 -->
+            <Panel id = "ChaoticEra_Rune_modifyBlockRoot"  onactivate="ToggleModifyBlock();" >
+                <Panel id = "ChaoticEra_Rune_modifyBlockContent" onactivate="">
+                    <Label class="playerInfoTitle" text="#HUD_Rune_Modify_Title" />
+                    <Panel id="runeContainer_Modify">
+
+                    </Panel>
+                    <Panel id = "ChaoticEra_rune_EditButtonList">
+                        <Button id="ChaoticEraRuneEditButton1" class="ChaoticEraRuneModifyButton" onactivate="Switch_EditBonus_value();"  onmouseover="DOTAShowTextTooltip('#HUD_Rune_Edit_1_info')" onmouseout="DOTAHideTextTooltip()"  >  
+                            <Label text="#HUD_Rune_Edit_1" />
+                        </Button> 
+                        <!-- <Button class="ChaoticEraRuneModifyButton" onactivate="Switch_EditType();"    onmouseover="DOTAShowTextTooltip('#HUD_Rune_Edit_2_info')" onmouseout="DOTAHideTextTooltip()">  
+                            <Label text="#HUD_Rune_Edit_2" />
+                        </Button>  -->
+                    </Panel>
+                    <Panel id="CurrencyWindowPanel_runeEdit" hittest="false" class="Visible">
+                        <!-- 存放可靠经验 -->
+                        <Panel id="ReliableExperienceCurrencyPanel"  hittest="false" class="Visible">
+                            <Panel id="ReliableExperienceCurrencyIcon" hittest="true" class="Visible">     </Panel>
+                            <Label id="ReliableExperienceCurrency_number" text="10001"/>
+                        </Panel>
+                        <!-- 存放金币 -->
+                        <Panel id="GoldCurrencyPanel" hittest="false" class="Visible">
+                            <Panel id="GoldCurrencyIcon"   hittest="true" class="Visible">     </Panel>
+                            <Label id="GoldCurrency_number" text="1000"/>
+                        </Panel>
+                        <!-- 存放白金Platinum -->
+                        <Panel id="PlatinumCurrencyPanel" hittest="false" class="Visible">
+                            <Panel id="PlatinumCurrencyIcon" hittest="true" class="Visible">     </Panel>
+                            <Label id="PlatinumCurrency_number" text="1000"/>
+                        </Panel>
+                    </Panel>
+                    <!-- 词条表 -->
+                    <Panel id = "rube_BonusEdit_kv_Content">
+                        <Panel id="bonusList_content">
+
+
+
+                        </Panel>
+                        <Label id="runeEditCount_label"   html="true"  text="#HUD_Rune_Modify_Count_Label"/>
+                        <!-- 消耗选项 -->
+                        <Panel id="runeEditButtonList">
+                            <Button id="runeEdit_1" class="runeEditCostButton"  >  
+                                <Label id="exp_cost" class="editCost" text="1000" ></Label>
+                                <Panel class="InlinePanel" id="InlinePanel_exp"/>
+                            </Button> 
+                            <Button id="runeEdit_2" class="runeEditCostButton"  >  
+                                <Label id="aurum_cost" class="editCost" text="100" ></Label>
+                                <Panel class="InlinePanel" id="InlinePanel_aurum"/>
+                            </Button>
+                            <Button id="runeEdit_3" class="runeEditCostButton" >  
+                                <Label id="platinum_cost" class="editCost" text="10" ></Label>
+                                <Panel class="InlinePanel" id="InlinePanel_platinum"/>
+                            </Button>                       
+                        </Panel>
+                    </Panel>
+                </Panel>
+
+                <Panel id="runeModifyConfirmPanel">
+					<Label text="#HUD_Rune_Modify_warning_1"/>
+				
+					<Panel id="buttomList">
+						<Button id="button_Comfirm"  onactivate="ConfirmRuneModify()">
+							<Label text="#DOTA_HUD_Confirm" />
+							
+						</Button>
+
+						<Button  id="button_Cancle" onactivate="CancleConfirmRuneModify()" >
+							<Label text="#DOTA_HUD_Cancle" />
+						</Button>
+					</Panel>
+
+				</Panel>
+
+
+            </Panel>
+
+            <!-- 符石分解 -->
+            <Panel id = "ChaoticEra_Rune_DelBlockRoot"  onactivate="ToggleDelBlock();" >
+                <Panel id = "ChaoticEra_Rune_DelBlockContent" onactivate="">
+                    <Label class="playerInfoTitle" text="#HUD_Rune_Del_Title" />
+                    <Panel id = "ChaoticEra_rune_DelButtonList">
+                        <Button class="ChaoticEraRuneModifyButton" onactivate="RuneDelFliter(1);"  onmouseover="DOTAShowTextTooltip('#HUD_Del_Fliter_Info')" onmouseout="DOTAHideTextTooltip()"  >  
+                            <Label text="#HUD_Level1" html="true" />
+                        </Button> 
+                        <Button class="ChaoticEraRuneModifyButton" onactivate="RuneDelFliter(2);"    onmouseover="DOTAShowTextTooltip('#HUD_Del_Fliter_Info')" onmouseout="DOTAHideTextTooltip()">  
+                            <Label text="#HUD_Level2" html="true" />
+                        </Button> 
+                        <Button class="ChaoticEraRuneModifyButton" onactivate="RuneDelFliter(3);"    onmouseover="DOTAShowTextTooltip('#HUD_Del_Fliter_Info')" onmouseout="DOTAHideTextTooltip()">  
+                            <Label text="#HUD_Level3" html="true" />
+                        </Button> 
+                        <Button class="ChaoticEraRuneModifyButton" onactivate="RuneDelFliter(4);"    onmouseover="DOTAShowTextTooltip('#HUD_Del_Fliter_Info')" onmouseout="DOTAHideTextTooltip()">  
+                            <Label text="#HUD_Level4" html="true" />
+                        </Button> 
+                        <Button class="ChaoticEraRuneModifyButton" onactivate="RuneDelFliter(5);"    onmouseover="DOTAShowTextTooltip('#HUD_Del_Fliter_Info')" onmouseout="DOTAHideTextTooltip()">  
+                            <Label text="#HUD_Level5" html="true" />
+                        </Button> 
+                    </Panel>
+                    <Panel id="CurrencyWindowPanel_runeEdit" hittest="false" class="Visible">
+                        <!-- 存放可靠经验 -->
+                        <Panel id="ReliableExperienceCurrencyPanel"  hittest="false" class="Visible">
+                            <Panel id="ReliableExperienceCurrencyIcon" hittest="true" class="Visible">     </Panel>
+                            <Label id="ReliableExperienceCurrency_number" text="10001"/>
+                        </Panel>
+                        <!-- 存放金币 -->
+                        <Panel id="GoldCurrencyPanel" hittest="false" class="Visible">
+                            <Panel id="GoldCurrencyIcon"   hittest="true" class="Visible">     </Panel>
+                            <Label id="GoldCurrency_number" text="1000"/>
+                        </Panel>
+                        <!-- 存放白金Platinum -->
+                        <Panel id="PlatinumCurrencyPanel" hittest="false" class="Visible">
+                            <Panel id="PlatinumCurrencyIcon" hittest="true" class="Visible">     </Panel>
+                            <Label id="PlatinumCurrency_number" text="1000"/>
+                        </Panel>
+                    </Panel>
+                    <!-- 符石列表 -->
+                    <Panel id = "rube_BonusEdit_Content">
+            
+                    </Panel>
+                    <!-- 分解收获 -->
+                    <Panel id="delReturnContent">
+                        <Label class="del_return" text="#HUD_Rune_Del_return" />
+                        <Button id="runeDel_1" class="runeDelCostButton"  >  
+                            <Label id="exp_cost" class="DelCost" text="{s:exp}" ></Label>
+                            <Panel class="InlinePanel" id="InlinePanel_exp"/>
+                        </Button> 
+                        <Button id="runeDel_2" class="runeDelCostButton"  >  
+                            <Label id="aurum_cost" class="DelCost" text="{s:aurum}" ></Label>
+                            <Panel class="InlinePanel" id="InlinePanel_aurum"/>
+                        </Button>
+
+                        <Button id="runeDel_3" class="runeDelCostButton_confirm" onactivate="ConfirmDelRune();"   >  
+                            <Label  class="confirm_button" text="#DOTA_HUD_Confirm" ></Label>
+                        </Button>
+                    </Panel>
+                </Panel>
+            </Panel>
+
+        </Panel>
+
+        <Panel id="playerArtifactMenuwindowROOT" onactivate="" hittest="true" class="Visible mainMenuDesign">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+            
+            </Panel>
+            <Label class="playerInfoTitle" text="#DOTA_HUD_playerArtifactTitle" />
+            <!-- 关闭该窗口按钮 -->
+            <Button id="CloseplayerSpellslibraryMenuwindowButton" onactivate="CloseAllPanel();">  </Button> 
+             <Panel id="ChaoticEra_playerArtifact_left_block">
+                <Button id="ChaoticEraArtifactButton_1" class="ChaoticEraSpellButton" onactivate="OpenArtifactList('1');">  
+                     <Label text="#HUD_Level1"  html="true" />
+                </Button> 
+                <Button id="ChaoticEraArtifactButton_2" class="ChaoticEraSpellButton" onactivate="OpenArtifactList('2');">  
+                     <Label text="#HUD_Level2"  html="true" />
+                </Button> 
+
+                <Button id="ChaoticEraArtifactButton_3" class="ChaoticEraSpellButton" onactivate="OpenArtifactList('3');">  
+                     <Label text="#HUD_Level3" html="true"  />
+                </Button> 
+                <Button id="ChaoticEraArtifactButton_4" class="ChaoticEraSpellButton" onactivate="OpenArtifactList('4');">  
+                     <Label text="#HUD_Level4"  html="true" />
+                </Button> 
+
+                <Button id="ChaoticEraArtifactButton_5" class="ChaoticEraSpellButton" onactivate="OpenArtifactList('5');">  
+                     <Label text="#HUD_Level5" html="true"  />
+                </Button> 
+                <Button id="ChaoticEraArtifactButton_6" class="ChaoticEraSpellButton" onactivate="OpenArtifactList('6');">  
+                     <Label text="#HUD_Level6" html="true"  />
+                </Button> 
+            </Panel>
+
+            <Panel id = "ChaoticEra_artifactBlock">
+              
+               
+            </Panel>
+
+        </Panel>
+
+
+        <!-- 商城界面 -->
+        <Panel id="playerGameShopMenuwindowROOT"  onactivate="" hittest="true" class="Visible mainMenuDesign">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+            
+            </Panel>
+            <DOTAScenePanel hittest="false"  id="playerGameShopMenuwindowPostGameBG1" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+            <!-- <DOTAScenePanel hittest="false"  id="playerGameShopMenuwindowPostGameBG2" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+            <DOTAScenePanel hittest="false"  id="playerGameShopMenuwindowPostGameBG3" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+            <DOTAScenePanel hittest="false"  id="playerGameShopMenuwindowPostGameBG4" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+            <DOTAScenePanel hittest="false"  id="playerGameShopMenuwindowPostGameBG5" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+
+            <Label id="playerGameShopMenuwindowTitle" text="#DOTA_HUD_playerGameShopMenuwindowTitle" />
+            <!-- 关闭该窗口按钮 -->
+            <Button id="CloseplayerSpellslibraryMenuwindowButton" onactivate="CloseAllPanel();">  </Button> 
+
+             <!-- 一般 -->
+
+            <!-- 特权 -->
+            <Button id="VIPGoodsButton" class="generalHDButton"  onactivate="OpenVIPGoodsMenu();">
+                <Label id="VIPGoodsButtonLabel" text="#DOTA_HUD_VIPGoods_Button"/>
+            </Button>
+
+            <!-- 特殊技能 -->
+            <Button id="SpecialSpellGoodsButton" class="generalHDButton"  onactivate="OpenSpecialSpellGoodsMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Special_spell_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label id="SpecialSpellGoodsButtonLabel" text="#DOTA_HUD_SpecialSpellGoods_Button"/>
+            </Button>
+
+            <!-- 每周黑市BlackMarket -->
+            <Button id="BlackMarketButton" class="generalHDButton"  onactivate="OpenBlackMarketMenu();">
+                <Label id="BlackMarketButtonLabel" text="#DOTA_HUD_BlackMarket_Button"/>
+            </Button>
+
+            <!-- 其他 -->
+            <Button id="OtherGoodsButton" class="generalHDButton"   onactivate="OpenOtherGoodsMenu();">
+                <Label id="OtherGoodsButtonLabel" text="#DOTA_HUD_OtherGoods_Button"/>
+            </Button>
+
+
+
+
+
+            <!-- 货币数据窗口 -->
+            <Panel id="CurrencyWindowPanel" hittest="false" class="Visible">
+                <!-- 存放可靠经验 -->
+                <Panel id="ReliableExperienceCurrencyPanel"  hittest="false" class="Visible">
+                    <Panel id="ReliableExperienceCurrencyIcon" hittest="true" class="Visible">     </Panel>
+                    <Label id="ReliableExperienceCurrency_number" text="10001"/>
+                </Panel>
+
+                <!-- 存放金币 -->
+                <Panel id="GoldCurrencyPanel" hittest="false" class="Visible">
+                    <Panel id="GoldCurrencyIcon"   hittest="true" class="Visible">     </Panel>
+                    <Label id="GoldCurrency_number" text="1000"/>
+                </Panel>
+
+                <!-- 存放白金Platinum -->
+                <Panel id="PlatinumCurrencyPanel" hittest="false" class="Visible">
+                    <Panel id="PlatinumCurrencyIcon" hittest="true" class="Visible">     </Panel>
+                    <Label id="PlatinumCurrency_number" text="1000"/>
+                </Panel>
+            </Panel>
+
+            <Panel id="GoodsWindowPanel" hittest="true" class="Visible">
+
+            </Panel>
+
+
+        </Panel>
+
+
+        <!-- 购买商品确认-->
+        <Panel id="Buy_GOODS_Confirm_Panel" hittest="true" class="Visible">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+            </Panel>
+            <Panel id="content">
+
+                <Label id="Confirm_text_1" text="#DOTA_HUD_Confirm_Panel"/>
+                <Label id="Confirm_text_2" text="高阶aaa" html = "true"  />
+                <Button id="Buy_GOODS_Confirm_Button_yes" class="generalHDButton"  onactivate="Buy_GOODS_Confirm_yes();">
+                    <Label id="Buy_GOODS_Confirm_ButtonLabel_yes" text="#DOTA_HUD_Confirm"/>
+                </Button>
+
+                <Button id="Buy_GOODS_Confirm_Button_no"  class="generalHDButton"  onactivate="Buy_GOODS_Confirm_no();">
+                    <Label id="Buy_GOODS_Confirm_ButtonLabel_no" text="#DOTA_HUD_Cancle"/>
+                </Button>
+            </Panel>
+        </Panel>
+
+        <!-- 功能按钮列表 --> 
+        <Panel id="playerButtonManagerMenuOpen" hittest="false" onactivate="" class="Visible">
+            <Button id="playerSpellslibraryMenuOpenButton" onactivate="OpenplayerSpellslibraryMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_PlayerInfo_info1')" onmouseout="DOTAHideTextTooltip()">  </Button>
+            <Button id="playerChaoticEraSpellslibraryMenuOpenButton" onactivate="OpenChaoticEraLibraryMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_PlayerInfo_info7')" onmouseout="DOTAHideTextTooltip()">  </Button>
+            <Button id="playerArtifactMenuOpenButton" onactivate="OpenPlayerArtifactMenu('true','false');" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_PlayerInfo_info8')" onmouseout="DOTAHideTextTooltip()">  </Button>
+           
+            <Button id="playerShopMenuOpenButton" onactivate="OpenplayerShopMenu();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_PlayerInfo_info2')" onmouseout="DOTAHideTextTooltip()">  </Button>
+            <Button id="playerParticleMenuOpenButton" onactivate="OpenplayerParticleMenu();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_PlayerInfo_info3')" onmouseout="DOTAHideTextTooltip()"> </Button>   
+            <Button id="playerinfoMenuOpenButton" onactivate="OpenplayerinfoMenu();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_PlayerInfo_info4')" onmouseout="DOTAHideTextTooltip()">    </Button>
+            <Button id="playerAchievementMenuOpenButton" onactivate="OpenAchievementMenu();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_PlayerInfo_info6')" onmouseout="DOTAHideTextTooltip()">    </Button>
+       
+            <Button id="playerSettingMenuOpenButton" onactivate="OpenSettingMenu();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_PlayerInfo_info5')" onmouseout="DOTAHideTextTooltip()">    </Button>
+          
+        </Panel>
+
+
+        <!-- 结算窗口 -->
+        <Panel id="playerGameBonusMenuwindowROOT" hittest="true" class="Visible">
+            <DOTAScenePanel hittest="false"  id="PostGameBGBONUS2" map="scenes/game_settlement" camera="camera1" light="light1" renderdeferred="false" deferredalpha="false" antialias="true" particleonly="false" />
+
+		
+
+            <DOTAScenePanel hittest="false"  id="SettlementBG" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+          
+            <Panel id="playerGameBonusMenuwindow" hittest="false" class="Visible">
+               
+                <Panel id="TitleAndClose">
+                    <Label id="playerGameBonusMenuwindowTitle" text="#DOTA_HUD_playerGameBonusMenuwindow" />
+                    <Button id="CloseplayerGameBonusMenuwindowButton" onactivate="CloseplayerGameBonusMenuwindow();">  </Button> 
+
+                </Panel>
+              
+                <Panel id="playerBonusSpellBookRoot" hittest="true" class="Visible">
+
+                </Panel>
+                <Panel id="playerBonusRuneContent" hittest="true">
+
+                </Panel>
+
+                
+              
+                <Panel id="playerGameBonus_info_inside_exp" hittest="false" class="Visible">
+                    <Label id="playerGameBonus_inside_exp_text" text="#DOTA_CUSTOM_BONUS_INFO_bonus_EXP"/>
+                    <Label id="playerGameBonus_inside_exp_text2" text="0"/>
+                </Panel>
+    
+                <Panel id="playerGameBonus_info_inside_gold" hittest="false" class="Visible">
+                    <Label id="playerGameBonus_inside_gold_text" text="#DOTA_CUSTOM_BONUS_INFO_bonus_gold"/>
+                    <Label id="playerGameBonus_inside_gold_text2" text="0"/>
+                </Panel>
+
+                <!-- <DOTAScenePanel hittest="false"  id="PostGameBGBONUS" map="backgrounds/accept_popup_test" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+
+            </Panel>
+
+
+            <!-- <DOTAScenePanel hittest="false"  id="PostGameBGBONUS" map="backgrounds/accept_popup_test" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+
+         
+
+        </Panel>
+        
+
+        <!-- 个人信息窗口 -->
+        <Panel id="playerInfowindowROOT" onactivate="" hittest="true" class="Visible mainMenuDesign">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+            
+            </Panel>
+           
+            <DOTAScenePanel hittest="false"  id="playerInfoGoodsWindowPanelPostGameBG" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+
+            <Label id="playerInfowindowTitle" text="#DOTA_HUD_playerInfowindowTitle" />
+            <!-- 关闭该窗口按钮 -->
+            <Button id="CloseplayerSpellslibraryMenuwindowButton" onactivate="CloseAllPanel();">  </Button> 
+
+             <!-- 一般 -->
+            <Button id="GeneralPlayerInfoButton" class="generalHDButton" onactivate="OpenGeneralInfoMenu();">
+                <Label id="GeneralGoodsButtonLabel" text="#DOTA_HUD_GeneralGoods_Button"/>
+            </Button>
+            <!-- 特权 -->
+            <Button id="VIPPlayerInfoButton" class="generalHDButton" onactivate="OpenVIPInfoMenu();">
+                <Label id="VIPGoodsButtonLabel" text="#DOTA_HUD_VIPInfo_Button"/>
+            </Button>
+            <Button id="CheckBonusButton" class="generalHDButton" onactivate="CheckPlayerBonus();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_CheckBonus_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label id="CheckBonusButtonLabel" text="#DOTA_HUD_CheckBonusButton_Button"/>
+            </Button>
+
+            <Button id="CheckGameInfoButton" class="generalHDButton" onactivate="CheckGameInfo();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_CheckGame_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label id="CheckBonusButtonLabel" text="#DOTA_HUD_CheckGame_Button"/>
+            </Button>
+            <Button id="CheckTalentButton" class="generalHDButton" onactivate="CheckTalent();">
+                <Label id="CheckTalentButtonLabel" text="#DOTA_HUD_Talent_Menu"/>
+                <Button id="CheckTalentMarketButton" onactivate="CheckTalentMarket();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_CheckTalentMarket')" onmouseout="DOTAHideTextTooltip()">
+                </Button>
+            </Button>
+            <Button id="CheckItemButton" class="generalHDButton" onactivate="CheckItem();">
+                <Label id="CheckItemButtonLabel" text="#DOTA_HUD_Item_Menu"/>
+            </Button>
+            <Button id="CheckHDGameInfoButton" class="generalHDButton" onactivate="CheckHDGameInfo();">
+                <Label id="CheckItemButtonLabel" text="#DOTA_HUD_Game_Info"/>
+            </Button>
+
+
+            
+
+
+            <!-- 个人信息 -->
+            <Panel id="playerInfoGoodsWindowPanel" onactivate="" hittest="true" class="">
+           
+
+                    <Panel id="playerinfo_detail" hittest="false" class="Visible">
+                        <Panel id="GetCDKBonus" hittest="false" class="Visible">
+                            <TextEntry id="GetCDKText" text="lawliet"  class="GetCDKText" />
+                            <Button id="GetCDKBonusButton" class="generalHDButton"  onactivate="GetCDKBonus()">
+                                <Label id="cdkBonusLabel" text="#DOTA_HUD_CDK_GET_BONUS" />
+                            </Button>
+                        </Panel>
+
+
+
+                        <!-- 技能名 -->
+                        <Panel id="playerinfo_header" hittest="false" class="Visible">
+                            <Label class = "PlayerInfo_text" id="PlayerInfo_text_1" text="" html = "true" />
+                            <Label class = "PlayerInfo_text" id="PlayerInfo_text_2" text="" html = "true" />
+                            <Label class = "PlayerInfo_text" id="PlayerInfo_text_3" text="" html = "true" />
+                            <Label class = "PlayerInfo_text" id="PlayerInfo_text_4" text="" html = "true" />
+                        </Panel>
+                        <!-- 三种原石 -->
+                        <Panel id="corePanel1" class="CorePaenlRoot">
+                            <Panel class="GetCoreButton_root">
+                                <Button id="GetCoreButton" oncontextmenu="GetCore(1)">
+                                    <Panel id="SingleSpellImage">
+                                        <DOTAAbilityImage   abilityname="core_number_1" class="corePanel" onmouseover="DOTAShowAbilityTooltip('core_number_1')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    </Panel>
+                                    <Label id = "coreLabel1" class="CoreInfo"  text="#DOTA_HUD_core_count"/>
+                                </Button>
+                                
+                            </Panel>
+
+                        </Panel>
+                        <Panel id="corePanel2" class="CorePaenlRoot">
+                            <Panel class="GetCoreButton_root">
+                                <Button id="GetCoreButton" oncontextmenu="GetCore(2)">
+                                    <Panel id="SingleSpellImage">
+                                        <DOTAAbilityImage   abilityname="core_number_2" class="corePanel" onmouseover="DOTAShowAbilityTooltip('core_number_2')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    </Panel>
+                                    <Label id = "coreLabel2" class="CoreInfo"  text="#DOTA_HUD_core_count"/>
+                                </Button>
+                                
+                            </Panel>
+                        </Panel>
+                        <Panel id="corePanel3" class="CorePaenlRoot">
+                            <Panel class="GetCoreButton_root">
+                                <Button id="GetCoreButton" oncontextmenu="GetCore(3)">
+                                    <Panel id="SingleSpellImage">
+                                        <DOTAAbilityImage   abilityname="core_number_3" class="corePanel" onmouseover="DOTAShowAbilityTooltip('core_number_3')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    </Panel>
+                                    <Label id = "coreLabel3" class="CoreInfo"  text="#DOTA_HUD_core_count"/>
+                                </Button>
+                                
+                            </Panel>
+                        </Panel>
+
+                    </Panel>
+
+                    <Panel id="playerinfo_vip" hittest="false" class="Visible">
+
+
+                    </Panel>
+
+                    <Panel id="GameContestinfo" hittest="true" class="Visible">
+                        <Button id="NextPage" onactivate="GetNextGameInfo();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_CheckGame_info')" onmouseout="DOTAHideTextTooltip()"></Button>
+                        <!-- 最左排名图标 -->
+                        <Panel id="SpeedContestinfo" hittest="false" class="Visible">
+                            <Label id="SpeedContestTitle" hittest="false"  text="#DOTA_HUD_GameContestinfo_Title"   />
+                            <!-- <Button id="ContestInfoButton"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Contest_rule')" onmouseout="DOTAHideTextTooltip()">  </Button> -->
+                            <Button id="ContestInfoButton"  onmouseover="DOTAShowAbilityTooltip('game_info_Contest_rule')" onmouseout="DOTAHideAbilityTooltip()">  </Button>
+
+
+                            <!-- <Button id="ContestInfoButton"  onmouseover="ShowInfohover()" onmouseout="CloseInfohover()">  </Button> -->
+
+                            
+                            <Panel id="Rank" hittest="true" class="Visible">
+                                <Label id="RankTitle" text="#DOTA_HUD_GameContestinfo_RankTitle"/>
+                                <Panel   id="Rank1" hittest="true" class="RankClass"></Panel>
+                                <Panel   id="Rank2" hittest="true" class="RankClass"></Panel>
+                                <Panel   id="Rank3" hittest="true" class="RankClass"></Panel>
+                                <Panel   id="Rank4" hittest="true" class="RankClass"></Panel>
+                                <Panel   id="Rank5" hittest="true" class="RankClass"></Panel>
+                                <Panel   id="Rank6" hittest="true" class="RankClass"></Panel>
+                                <Panel   id="Rank7" hittest="true" class="RankClass"></Panel>
+                                <Panel   id="Rank8" hittest="true" class="RankClass"></Panel>
+                                <Panel   id="Rank9" hittest="true" class="RankClass"></Panel>
+                                <Panel   id="Rank10" hittest="true" class="RankClass"></Panel>
+                            </Panel>
+                            
+                        </Panel>
+
+                        <!-- 单人赛区 -->
+                        <Panel id="Rank_player_1" hittest="false" class="Visible">
+                            <Label id="RankTitle" text="#DOTA_HUD_GameContestinfo_Title_player_1"/>
+                            <Panel   id="PlayerRank1" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank2" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="301648513" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank3" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank4" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="165310709" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank5" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="170141144" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank6" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="433933607" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank7" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank8" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank9" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank10" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+
+                
+                            <Panel   id="PlayerRank11" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank12" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank13" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank14" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank15" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+          
+                        </Panel>
+
+                        <!-- 双人赛区 -->
+                        <Panel id="Rank_player_2" hittest="false" class="Visible">
+                            <Label id="RankTitle" text="#DOTA_HUD_GameContestinfo_Title_player_2"/>
+                            <Panel   id="PlayerRank1" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank2" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank3" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank4" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank5" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank6" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank7" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank8" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />   
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank9" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank10" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+ 
+          
+                            <Panel   id="PlayerRank11" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />   
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank12" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank13" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank14" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank15" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            
+                        </Panel>
+
+                        <!-- 三人赛区 -->
+                        <Panel id="Rank_player_3" hittest="false" class="Visible">
+                            <Label id="RankTitle" text="#DOTA_HUD_GameContestinfo_Title_player_3"/>
+                            <Panel   id="PlayerRank1" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank2" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank3" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank4" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank5" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank6" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank7" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank8" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />   
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank9" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank10" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank11" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />   
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank12" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank13" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank14" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank15" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+
+                        </Panel>
+                        <!-- 四人赛区 -->
+                        <Panel id="Rank_player_4" hittest="false" class="Visible">
+                            <Label id="RankTitle" text="#DOTA_HUD_GameContestinfo_Title_player_4"/>
+                            <Panel   id="PlayerRank1" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank2" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank3" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank4" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank5" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank6" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank7" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank8" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />   
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank9" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank10" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+
+                            <Panel   id="PlayerRank11" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank12" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank13" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank14" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank15" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+
+                        </Panel>
+                        <!-- 五人赛区 -->
+                        <Panel id="Rank_player_5" hittest="false" class="Visible">
+                            <Label id="RankTitle" text="#DOTA_HUD_GameContestinfo_Title_player_5"/>
+                            <Panel   id="PlayerRank1" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank2" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank3" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank4" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank5" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank6" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank7" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank8" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />   
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank9" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />   
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/>
+                            </Panel>
+                            <Panel   id="PlayerRank10" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank11" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank12" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank13" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank14" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+                            <Panel   id="PlayerRank15" hittest="true" class="PlayerRankClass">
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" /> 
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <DOTAAvatarImage  class="PlayerImage" accountid="324420892" />  
+                                <Label class="RankInfo" text="105m55s" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_GetInfo')" onmouseout="DOTAHideTextTooltip()"/> 
+                            </Panel>
+
+                        </Panel>
+                    </Panel>
+
+                    <Panel id="playerinfo_item" hittest="true" class="">
+                        <Panel id="item_list_root" class="item_list_root"  hittest="true">
+                            <Panel id="item_list_level_1"  hittest="false" class="item_list_level">
+                                <Label class = "itemList_Title" text="LEVEL1" html = "true" />
+                                <Panel id="itemList" hittest="false" class="Visible">
+                                    <Panel id="physical_weapon" hittest="false" class="Visible"></Panel>
+                                    <Panel id="magical_weapon" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="armor" hittest="false" class="Visible"></Panel>
+                                    <Panel id="subsidiarity" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="special" hittest="false" class="Visible"> </Panel>
+                                </Panel>
+                            </Panel>
+                            <Panel id="item_list_level_2"  hittest="true" class="item_list_level">
+                                <Label class = "itemList_Title" text="LEVEL2" html = "true" />
+                                <Panel id="itemList" hittest="false" class="Visible">
+                                    <Panel id="physical_weapon" hittest="false" class="Visible"></Panel>
+                                    <Panel id="magical_weapon" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="armor" hittest="false" class="Visible"></Panel>
+                                    <Panel id="subsidiarity" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="special" hittest="false" class="Visible"> </Panel>
+                                </Panel>
+                            </Panel>
+                            <Panel id="item_list_level_3"  hittest="true" class="item_list_level">
+                                <Label class = "itemList_Title" text="LEVEL3" html = "true" />
+                                <Panel id="itemList" hittest="false" class="Visible">
+                                    <Panel id="physical_weapon" hittest="false" class="Visible"></Panel>
+                                    <Panel id="magical_weapon" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="armor" hittest="false" class="Visible"></Panel>
+                                    <Panel id="subsidiarity" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="special" hittest="false" class="Visible"> </Panel>
+                                </Panel>
+                            </Panel>
+                            <Panel id="item_list_level_4"  hittest="true" class="item_list_level">
+                                <Label class = "itemList_Title" text="LEVEL4" html = "true" />
+                                <Panel id="itemList" hittest="false" class="Visible">
+                                    <Panel id="physical_weapon" hittest="false" class="Visible"></Panel>
+                                    <Panel id="magical_weapon" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="armor" hittest="false" class="Visible"></Panel>
+                                    <Panel id="subsidiarity" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="special" hittest="false" class="Visible"> </Panel>
+                                </Panel>
+                            </Panel>
+                            <Panel id="item_list_level_5"  hittest="true" class="item_list_level">
+                                <Label class = "itemList_Title" text="LEVEL5" html = "true" />
+                                <Panel id="itemList" hittest="false" class="Visible">
+                                    <Panel id="physical_weapon" hittest="false" class="Visible"></Panel>
+                                    <Panel id="magical_weapon" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="armor" hittest="false" class="Visible"></Panel>
+                                    <Panel id="subsidiarity" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="special" hittest="false" class="Visible"> </Panel>
+                                </Panel>
+                            </Panel>
+                            <Panel id="item_list_level_6"  hittest="true" class="item_list_level">
+                                <Label class = "itemList_Title" text="LEVEL6" html = "true" />
+                                <Panel id="itemList" hittest="false" class="Visible">
+                                    <Panel id="physical_weapon" hittest="false" class="Visible"></Panel>
+                                    <Panel id="magical_weapon" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="armor" hittest="false" class="Visible"></Panel>
+                                    <Panel id="subsidiarity" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="special" hittest="false" class="Visible"> </Panel>
+                                </Panel>
+                            </Panel>
+                            <Panel id="item_list_level_7"  hittest="true" class="item_list_level">
+                                <Label class = "itemList_Title" text="#HUD_chaotic_item" html = "true" />
+                                <Panel id="itemList" hittest="false" class="Visible">
+                                    <Panel id="physical_weapon" hittest="false" class="Visible"></Panel>
+                                    <Panel id="magical_weapon" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="armor" hittest="false" class="Visible"></Panel>
+                                    <Panel id="subsidiarity" hittest="false" class="Visible"> </Panel>
+                                    <Panel id="special" hittest="false" class="Visible"> </Panel>
+                                </Panel>
+                            </Panel>
+                        </Panel>
+                        
+
+                    </Panel>
+
+            </Panel>
+
+
+            <!-- 玩家成绩数据 -->
+            <Panel id="SpecificTeamDataRoot" hittest="true" class="">
+                <Panel class="hd_genaral_Background">
+                    <Panel class="hd_genaral_Background_layer2">
+                        <Panel class="hd_genaral_Background_layer3">
+                        </Panel>
+                    </Panel>
+                
+                </Panel>
+                <!-- <DOTAParticleScenePanel hittest="true" id = "TeamDataFxPanel" class="BackgroundFX SceneLoaded" camera = "default_camera" map ="scebes/dota_ui_particle_scene_panel_empty"  /> -->
+                <!-- <DOTAScenePanel hittest="false"  id="TeamDataFxPanel" map="scenes/battlepass_fall2021/bp_2021_dashboard" camera="hero_camera" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" /> -->
+                <DOTAScenePanel hittest="true"  id="TeamDataFxPanel2" map="scenes/dashboard_background_last_match" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+                <Button id="ClosePlayerDataButton" onactivate="ClosePlayerData();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_return')" onmouseout="DOTAHideTextTooltip()">  </Button>
+                <Panel id="SpecificTeamDataPanel" hittest="true" class="Visible">
+
+                    <!-- 一名玩家的数据 -->
+                    <Panel class="SpecificHeroDataPanel" hittest="false">
+                        <!-- 玩家头像 -->
+                        <DOTAAvatarImage  class="HeroDataPlayerImage" accountid="324420892" /> 
+                         <!--英雄头像  -->
+                         <Panel class="PlayerHeroImageSinglePanel" hittest="false">
+                            <DOTAHeroImage heroname="npc_dota_hero_earth_spirit" class="HeroImage"/>
+                            <Label class="playerHeroLevel" text="25"/>
+                        </Panel>
+
+                        <Panel class="PlayerSpellAndItemDataPanel" hittest="false">
+                            <!-- 技能 -->
+                            <Panel class="PlayerSpellDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="1"/>
+                                </Panel>
+                                                          
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                               
+                            </Panel>
+                            <!-- 道具 -->
+                            <Panel class="PlayerItemDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />                         
+
+                                
+                            </Panel>
+                        </Panel>
+                       
+      
+                        
+  
+                    </Panel>
+                    <Panel class="SpecificHeroDataPanel" hittest="true">
+                        <!-- 玩家头像 -->
+                        <DOTAAvatarImage  class="HeroDataPlayerImage" accountid="324420892" /> 
+                         <!--英雄头像  -->
+                         <Panel class="PlayerHeroImageSinglePanel" hittest="false">
+                            <DOTAHeroImage heroname="npc_dota_hero_earth_spirit" class="HeroImage"/>
+                            <Label class="playerHeroLevel" text="25"/>
+                        </Panel>
+                        <Panel class="PlayerSpellAndItemDataPanel" hittest="true">
+                            <!-- 技能 -->
+                            <Panel class="PlayerSpellDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                                          
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                               
+                            </Panel>
+                            <!-- 道具 -->
+                            <Panel class="PlayerItemDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />                         
+
+                                
+                            </Panel>
+                        </Panel>
+                       
+      
+                        
+  
+                    </Panel>
+                    <Panel class="SpecificHeroDataPanel" hittest="false">
+                        <!-- 玩家头像 -->
+                        <DOTAAvatarImage  class="HeroDataPlayerImage" accountid="324420892" /> 
+                         <!--英雄头像  -->
+                         <Panel class="PlayerHeroImageSinglePanel" hittest="false">
+                            <DOTAHeroImage heroname="npc_dota_hero_earth_spirit" class="HeroImage"/>
+                            <Label class="playerHeroLevel" text="25"/>
+                        </Panel>
+                        <Panel class="PlayerSpellAndItemDataPanel" hittest="false">
+                            <!-- 技能 -->
+                            <Panel class="PlayerSpellDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                                          
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                               
+                            </Panel>
+                            <!-- 道具 -->
+                            <Panel class="PlayerItemDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />                         
+
+                                
+                            </Panel>
+                        </Panel>
+                       
+      
+                        
+  
+                    </Panel>
+                    <Panel class="SpecificHeroDataPanel" hittest="false">
+                        <!-- 玩家头像 -->
+                        <DOTAAvatarImage  class="HeroDataPlayerImage" accountid="324420892" /> 
+                         <!--英雄头像  -->
+                         <Panel class="PlayerHeroImageSinglePanel" hittest="false">
+                            <DOTAHeroImage heroname="npc_dota_hero_earth_spirit" class="HeroImage"/>
+                            <Label class="playerHeroLevel" text="25"/>
+                        </Panel>
+                        <Panel class="PlayerSpellAndItemDataPanel" hittest="false">
+                            <!-- 技能 -->
+                            <Panel class="PlayerSpellDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                                          
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                               
+                            </Panel>
+                            <!-- 道具 -->
+                            <Panel class="PlayerItemDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />                         
+
+                                
+                            </Panel>
+                        </Panel>
+                       
+      
+                        
+  
+                    </Panel>
+                    <Panel class="SpecificHeroDataPanel" hittest="false">
+                        <!-- 玩家头像 -->
+                        <DOTAAvatarImage  class="HeroDataPlayerImage" accountid="324420892" /> 
+                         <!--英雄头像  -->
+                         <Panel class="PlayerHeroImageSinglePanel" hittest="false">
+                            <DOTAHeroImage heroname="npc_dota_hero_earth_spirit" class="HeroImage"/>
+                            <Label class="playerHeroLevel" text="25"/>
+                        </Panel>
+                        <Panel class="PlayerSpellAndItemDataPanel" hittest="false">
+                            <!-- 技能 -->
+                            <Panel class="PlayerSpellDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                                          
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                                <Panel class="PlayerSpellSinglePanel" hittest="false">
+                                    <DOTAAbilityImage abilityname="player_spell_info_none" class="singlePlayerSpell" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()"/>
+                                    <Label class="playerSpellLevel" text="25"/>
+                                </Panel>
+                               
+                            </Panel>
+                            <!-- 道具 -->
+                            <Panel class="PlayerItemDataPanel" hittest="false">
+                                <!-- 单个技能面板 包含图片与等级 -->
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />
+                                <DOTAItemImage itemname="item_hd_none" class="singlePlayerItem" />                         
+
+                                
+                            </Panel>
+                        </Panel>
+                       
+      
+                        
+  
+                    </Panel>
+
+
+                </Panel>
+            </Panel>
+
+            <Panel id="GameInfoWindowPanel" onactivate="" hittest="true" class="">
+           
+
+                    <Panel id="page_1" hittest="false" class="Visible">
+                        <Panel id="title_info">
+                            <Label id="title"  hittest="true" text="#HUD_Game_Info_title"></Label>
+                            <Label id="info"  hittest="true" text="#HUD_Game_Info"></Label>
+                
+                        </Panel>
+                        <Panel id="buttonList">
+                            
+
+                        </Panel>
+
+                    </Panel>
+
+
+            </Panel>
+            
+
+
+        </Panel>
+
+        <Panel id="SettingWindowRoot"  hittest="false">
+            <Panel id="SettingWindowBack3" hittest="true" onactivate="CloseSetting();" ></Panel>
+            <Panel id="SettingWindowPanel" class="mainMenuDesign" hittest="true" onactivate="Donothing();">
+                
+                <Label id="SettingWindowLabel"  hittest="true" text="#DOTA_HUD_settind_title"></Label>
+                
+                <Button id="CloseSettingWindowButton" onactivate="CloseSetting();">  </Button> 
+                <Panel id="SettingWindow" hittest="true">
+                    <DOTASettingsSlider id="cameraSliderPanel" direction="horizontal" percentage="false" convar="dota_clip_builder_bitrate" class="HorizontalSlider" value = "1200"  min="1200" max="3000" text="#DOTA_HUD_settind_Camera" onvaluechanged="UpdateCameraDistance();" />
+                    <DOTASettingsSlider id="timeScaleSliderPanel" direction="horizontal" percentage="false" convar="dota_clip_builder_bitrate" class="HorizontalSlider" value = "100"  min="10" max="100" text="#TimeScalce_panel" onvaluechanged="UpdateTimeScale();"   onmouseover="DOTAShowTextTooltip('#TimeScalce_info')" onmouseout="DOTAHideTextTooltip()"                                                  />
+                    <Button id="SendTimeScaleChange" onactivate="SendTimeChange();"  onmouseover="DOTAShowTextTooltip('#TimeScalce_send_info')" onmouseout="DOTAHideTextTooltip()" >
+                        <Label id="SendTimeScaleChangeButtonLabel" text="#TimeScalce_send"/>
+                    </Button>
+                    <!-- <Panel id="SettingWindow_HELP" hittest="true" onactivate="">
+                        <Label hittest="false" id="SettingWindow_HELP_" text="#DOTA_HUD_Change_Time_Scale"/>
+                    </Panel> -->
+
+
+                </Panel>
+
+               
+            </Panel>
+
+
+
+
+
+
+        </Panel>
+
+        <Panel id="TimeScale_Panel_Root" class = "TimeScale_Panel_Root"  hittest="true">
+            <!-- 标题 -->
+            <Label hittest="false" id="SendData_confirm_title" text="#DOTA_HUD_Change_Time_Scale"/>
+            <!-- 确认按钮 -->
+            <Panel id="SendData_Confirm_panel" onactivate = "ConfirmChangeTimeScale()"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Change_Time_Scale_Yes_Info')" onmouseout="DOTAHideTextTooltip()" >
+                <Label class="SendData_Confirm_Label" text="#DOTA_HUD_Change_Time_Scale_Yes"></Label>
+            </Panel>
+            <!-- 取消按钮 -->
+            <Panel id="SendData_Cancle_panel" onactivate = "CancleChangeTimeScale()"   >
+              <Label class="SendData_Confirm_Label" text="#DOTA_HUD_Change_Time_Scale_No"></Label>
+            </Panel>
+        </Panel>
+
+
+        <!-- 特效仓库 -->
+        <Panel id="playerParticleMenuwindowROOT" onactivate="Donothing();"  hittest="true" class="Visible mainMenuDesign">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+            
+            </Panel>
+            <DOTAScenePanel hittest="false"  id="playerParticleMenuwindowROOTPostGameBG1" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+          
+            <Label id="playerGameShopMenuwindowTitle" text="#DOTA_HUD_PlayerInfo_info3" />
+            <!-- 关闭该窗口按钮 -->
+            <Button id="CloseplayerSpellslibraryMenuwindowButton" onactivate="CloseAllPanel();">  </Button> 
+
+             <!-- 一般 -->
+            <Button id="AttachParticlButton" class="generalHDButton"  onactivate="OpenParticleMenu('2001');">
+                <Label id="GeneralGoodsButtonLabel" text="#DOTA_HUD_Particle_type_1"/>
+            </Button>
+            <Button id="MeleeAttackParticlButton" class="generalHDButton" onactivate="OpenParticleMenu('2002');">
+                <Label id="GeneralGoodsButtonLabel" text="#DOTA_HUD_Particle_type_2"/>
+            </Button>
+            <Button id="RangeAttackParticlButton" class="generalHDButton" onactivate="OpenParticleMenu('2003');">
+                <Label id="GeneralGoodsButtonLabel" text="#DOTA_HUD_Particle_type_3"/>
+            </Button>
+
+            <!-- 商品窗口 -->
+            <Panel id="ParticleWindowPanel" onactivate="Donothing();" hittest="true" class="Visible">
+
+            </Panel>
+
+
+        </Panel>
+        
+
+        <!-- 成就页面 -->
+        <Panel id="playerAchievementMenuwindowROOT" onactivate="Donothing();"  hittest="true" class="Visible mainMenuDesign">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+            
+            </Panel>
+            <DOTAScenePanel hittest="false"  id="playerAchievementMenuwindowROOTPostGameBG1" map="testbackground" camera="camera2" light="light" renderdeferred="false" antialias="true" Achievementonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+          
+            <Label id="playerGameShopMenuwindowTitle" text="#DOTA_HUD_PlayerInfo_info6" />
+            <!-- 关闭该窗口按钮 -->
+            <Button id="CloseplayerSpellslibraryMenuwindowButton" onactivate="CloseAllPanel();">  </Button> 
+
+             <!-- 一般 -->
+            <Button id="CheckAchievementButton1" class="generalHDButton"   onactivate="CheckAchievement('1');">
+                <Label id="GeneralGoodsButtonLabel" text="#DOTA_HUD_Achievement_type_1"/>
+            </Button>
+            <Button id="CheckAchievementButton2" class="generalHDButton"  onactivate="CheckAchievement('2');">
+                <Label id="GeneralGoodsButtonLabel" text="#DOTA_HUD_Achievement_type_2"/>
+            </Button>
+            <Button id="CheckAchievementButton3" class="generalHDButton"  onactivate="CheckAchievement('3');">
+                <Label id="GeneralGoodsButtonLabel" text="#DOTA_HUD_Achievement_type_3"/>
+            </Button>
+            <Button id="CheckAchievementButton4" class="generalHDButton"  onactivate="CheckAchievement('4');">
+                <Label id="GeneralGoodsButtonLabel" text="#DOTA_HUD_Achievement_type_4"/>
+            </Button>
+
+            <!-- 商品窗口 -->
+            <Panel id="AchievementWindowPanel" onactivate="Donothing();" hittest="true" class="Visible">
+
+            </Panel>
+
+
+        </Panel>
+
+
+        <Panel id="AchievementBroadcast_root" hittest="false" class="Visible">
+          
+           
+        </Panel>
+
+
+
+        <!-- 图片预载入 -->
+        <Panel class="playerinfoMenuPrecache" hittest="true">
+            <Image src="file://{images}/custom_game/icon_options.png"/>
+
+            <Image src="file://{images}/spells_menu/platinum.png"/>
+            <Image src="file://{images}/interface/room_difficulty_6.png"/>
+            <Image src="file://{images}/custom_game/background/black_background_covers.png"/>
+
+            <Image src="file://{images}/hud/item_tooltip_active.psd"/>
+            <Image src="file://{images}/hud/item_tooltip_passive.psd"/>
+            <Image src="file://{images}/hud/item_tooltip_use.psd"/>
+            <Image src="file://{images}/custom_game/dna.png"/>
+            <Image src="file://{images}/custom_game/hero_relic_glow_rare.png"/>
+            <Image src="file://{images}/custom_game/chaotic_era/chaotic_era_library_icon.png"/>
+
+            
+            
+        </Panel>
+    </Panel>
+</root>

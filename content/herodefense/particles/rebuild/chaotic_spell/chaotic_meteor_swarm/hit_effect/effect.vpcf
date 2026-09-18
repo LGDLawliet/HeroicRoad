@@ -1,0 +1,88 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_projected.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_scorch.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_flash_shrink.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_icon_dark.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_icon_ring.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_icon_rays.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_icon.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_ring.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_smoke.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_ring_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_ring_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_flame_ring.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_flame_ring_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_rays.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_sparks_lrg.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_sparks_sml.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_embers.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_embers_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_light.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_meteor_swarm/hit_effect/effect_flare.vpcf"
+		},
+	]
+}

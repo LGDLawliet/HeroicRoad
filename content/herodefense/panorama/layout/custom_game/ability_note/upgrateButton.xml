@@ -1,0 +1,20 @@
+
+<root>
+	<scripts>
+	</scripts>
+
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/ability_note/ability_note.css" />
+	</styles>
+
+
+	<Panel class="spell_upgrate_root">
+		<Button id="upgrateTab">
+			<Panel id="upgrateButton">
+				<Panel id="upgrateIcon">
+				
+				</Panel>
+			</Panel>
+		</Button>
+	</Panel>
+</root>

@@ -1,0 +1,243 @@
+#playerArtifactMenuwindowROOT {
+  width: 100%;
+  height: 100%;
+  align: right bottom;
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+  background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  visibility: collapse;
+}
+#playerArtifactMenuwindowROOT.Visible {
+  visibility: visible;
+}
+#ChaoticEra_playerArtifact_left_block {
+  horizontal-align: left;
+  width: 200px;
+  height: 100%;
+  margin-top: 50px;
+  /* background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex"); */
+  /* background-size: 100%; */
+  border-right: 5px solid #000000;
+  border-radius: 5px;
+  flow-children: down;
+  border-brush: gradient(linear, 0% 0%, 0% 100%, from(#f7e7b573), to(#f7e7b519));
+}
+#ChaoticEra_artifactBlock {
+  horizontal-align: left;
+  margin-top: 50px;
+  margin-left: 200px;
+  width: 85%;
+  height: 100%;
+  flow-children: right-wrap;
+  overflow: squish scroll;
+}
+.playerArtifact_root {
+  width: 300px;
+  height: 400px;
+  margin-right: 5px;
+}
+.playerArtifact_root #playerArtifact_image {
+  width: 300px;
+  height: 300px;
+  margin: 5px;
+}
+.playerArtifact_root #playerArtifact_image #playerArtifact_icon {
+  width: 100%;
+  height: 100%;
+  background-image: url('s2r://panorama/images/custom_game/chaotic_era/PlayerArtifact/Verity_Transparent_Effects.png');
+  background-size: 100% 100%;
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+}
+.playerArtifact_root #playerArtifact_image #playerArtifact_icon:hover {
+  brightness: 2;
+}
+.playerArtifact_root #artifactBase {
+  width: 300px;
+  height: 300px;
+  pre-transform-scale2d: 2.2;
+  horizontal-align: center;
+  vertical-align: bottom;
+  z-index: 100;
+  border-radius: 4px;
+  hue-rotation: 0deg;
+  transition-property: hue-rotation, opacity, wash-color, pre-transform-scale2d;
+  transition-duration: 3.32s, 1.5s, 3.9s;
+  transition-timing-function: ease-in;
+  /* visibility: collapse; */
+  pre-transform-scale2d: 1;
+  z-index: -1;
+}
+.playerArtifact_root #artifact_lock {
+  visibility: collapse;
+}
+.playerArtifact_root.lock #playerArtifact_image {
+  brightness: 0.02;
+  saturation: 0.2;
+  blur: gaussian(2px);
+}
+.playerArtifact_root.lock #artifactBase {
+  brightness: 0.2;
+}
+.playerArtifact_root.lock #artifact_level {
+  visibility: collapse;
+}
+.playerArtifact_root.lock #artifact_lock {
+  font-family: defaultFont;
+  font-size: 25px;
+  text-shadow: -1px -1px -1px #000, 2px 2px 2px #fff;
+  text-overflow: shrink;
+  align: center bottom;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#e4e4e42f), to(#685f583b));
+  visibility: visible;
+}
+.playerArtifact_root #ArtifactBottomBlock {
+  flow-children: down;
+  vertical-align: bottom;
+  width: 100%;
+  brightness: 2;
+  border-radius: 30px;
+}
+.playerArtifact_root #ArtifactBottomBlock.rarity1 {
+  background-color: gradient(radial, 50% 160%, 0% 0%, 100% 160%, from(#1f1f1f), to(rgba(5, 2, 94, 0)));
+}
+.playerArtifact_root #ArtifactBottomBlock.rarity2 {
+  background-color: gradient(radial, 50% 160%, 0% 0%, 100% 160%, from(#28302e), to(rgba(5, 2, 94, 0)));
+}
+.playerArtifact_root #ArtifactBottomBlock.rarity3 {
+  background-color: gradient(radial, 50% 160%, 0% 0%, 100% 160%, from(#254152), to(rgba(5, 2, 94, 0)));
+}
+.playerArtifact_root #ArtifactBottomBlock.rarity4 {
+  background-color: gradient(radial, 50% 160%, 0% 0%, 100% 160%, from(#190a26), to(rgba(5, 2, 94, 0)));
+}
+.playerArtifact_root #ArtifactBottomBlock.rarity5 {
+  background-color: gradient(radial, 50% 160%, 0% 0%, 100% 160%, from(#4a3f31), to(rgba(5, 2, 94, 0)));
+}
+.playerArtifact_root #ArtifactBottomBlock.rarity6 {
+  background-color: gradient(radial, 50% 160%, 0% 0%, 100% 160%, from(#374a31), to(rgba(5, 2, 94, 0)));
+}
+.playerArtifact_root #ArtifactBottomBlock #artifact_level {
+  font-family: defaultFont;
+  font-size: 25px;
+  text-shadow: -1px -1px -1px #000, 2px 2px 2px #fff;
+  text-overflow: shrink;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#8d7d4a), to(#7b4417));
+}
+.playerArtifact_root #ArtifactBottomBlock > Label {
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 22px;
+  height: 30px;
+  text-shadow: -1px -1px -1px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center bottom;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+.playerArtifact_root #ArtifactBottomBlock #ArtifactButtonList {
+  flow-children: right;
+  horizontal-align: center;
+  vertical-align: bottom;
+  border-bottom: 1px solid #4b4b4b10;
+  border-radius: 10px;
+}
+.playerArtifact_root #ArtifactBottomBlock #BuyArtifactButton.chaoticGetMode {
+  width: 190px;
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton {
+  padding: 6px 16px;
+  background-color: gradient(linear, 0% 0%, 0% 100%, from(#1220282f), to(#0e162022));
+  border: 1px solid #4b4b4b4e;
+  border-radius: 3px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+  background-image: url("s2r://panorama/images/events/muerta/circular_texture_png.vtex");
+  background-size: cover;
+  background-img-opacity: 0.1;
+  flow-children: right;
+  height: 50px;
+  width: 150px;
+  margin-right: 10px;
+  margin-left: 3px;
+  margin-top: 3px;
+  ui-scale: 70%;
+  opacity: 0;
+  width: 0px;
+  horizontal-align: center;
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton.chaoticGetMode {
+  opacity: 0.6;
+  width: 150px;
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton .editCost.redColored {
+  color: #fd4141;
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton:hover {
+  brightness: 2;
+  opacity: 1;
+  box-shadow: #0e394d 0px 0px 10px 0px;
+  background-color: gradient(linear, 0% 0%, 0% 100%, from(#122028), to(#0E1620));
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton:active {
+  brightness: 3;
+  pre-transform-scale2d: 1.1;
+  box-shadow: #0e394d 0px 0px 15px 0px;
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton.Active {
+  brightness: 3;
+  /* pre-transform-scale2d:1.1; */
+  /* margin-left: 10px; */
+  transform: translateX(10px) translateY(0px);
+  opacity: 1;
+  box-shadow: #0e394d 0px 0px 15px 0px;
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton > Label {
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 20px;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  text-overflow: shrink;
+  text-align: center;
+  vertical-align: middle;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton #AurumIcon {
+  width: 45px;
+  height: 45px;
+  /* margin-right: 20px; */
+  /* transform: translateY( -2px ); */
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("s2r://panorama/images/compendium/compendiumcoins_ti5_png.vtex");
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton #PlatinumIcon {
+  width: 45px;
+  height: 45px;
+  /* margin-right: 20px; */
+  /* transform: translateY( -2px ); */
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("s2r://panorama/images/spells_menu/platinum.png");
+}
+.playerArtifact_root #ArtifactBottomBlock .ArtifactActionButton .editCost {
+  font-size: 26px;
+  font-weight: normal;
+  color: #8BFFD8;
+  horizontal-align: left;
+  vertical-align: middle;
+  text-transform: uppercase;
+  text-overflow: shrink;
+  text-shadow: 0px 1px 4px #000000;
+  letter-spacing: 1px;
+  transition-property: transform;
+  transition-duration: 0.05s;
+  transition-timing-function: ease;
+  /* height: 50px; */
+  width: 150px;
+  text-align: right;
+  /* vertical-align: center; */
+}

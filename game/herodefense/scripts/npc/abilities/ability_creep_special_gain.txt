@@ -1,0 +1,1395 @@
+"DOTAAbilities"
+{
+    "creep_special_gain_Energy_Gain"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "necrolyte/apostle_of_decay_icons/necrolyte_heartstopper_aura"
+        "ScriptFile"               "special_gain/creep_special_gain_Energy_Gain"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/new_effect/creep_gain_effect/energy_gain_body_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_hp_max"        "200"
+            "each_incoming_up"    "1"
+        }
+    }
+    "creep_special_gain_Damage_Gain"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "ember_spirit_sleight_of_fist"
+        "ScriptFile"               "special_gain/creep_special_gain_Damage_Gain"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/econ/items/juggernaut/jugg_arcana/juggernaut_arcana_v2_body_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_damage"    "35"
+        }
+    }
+    "creep_special_gain_Armor_Gain"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "miniboss_unyielding_shield"
+        "ScriptFile"               "special_gain/creep_special_gain_Armor_Gain"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/econ/events/ti7/golden_treasure_ti7_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+            "incoming_down"        "15"
+            "break_incoming_up"    "20"
+        }
+    }
+    "creep_special_gain_Shrink"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "tiny_grow"
+        "ScriptFile"               "special_gain/creep_special_gain_Shrink"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/econ/events/ti7/golden_treasure_ti7_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_armor"    "75"
+            "bonus_move"     "150"
+        }
+    }
+    "creep_special_gain_nihility"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "pugna_decrepify"
+        "ScriptFile"               "special_gain/creep_special_gain_nihility"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "25"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "PositiveGainIndex1"       "100"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_pugna/pugna_decrepify.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"          "5"
+            "magic_res_down"    "30"
+        }
+    }
+    "creep_special_gain_cleave"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "sven_great_cleave"
+        "ScriptFile"               "special_gain/creep_special_gain_cleave"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_sven/sven_spell_great_cleave_crit.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_axe_culling_blade"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "axe_culling_blade"
+        "ScriptFile"               "special_gain/creep_special_gain_axe_culling_blade"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_axe/axe_culling_blade_kill.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Expansion_flame"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "warlock_rain_of_chaos"
+        "ScriptFile"               "special_gain/creep_special_gain_Expansion_flame"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_axe/axe_culling_blade_kill.vpcf"
+            "particle"    "particles/rebuild/spell/expansion_flame/flame.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Magic_Conversion"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "ancient_apparition/aa_2021_immortal_ability_icon/aa_2021_immortal_chilling_touch"
+        "ScriptFile"               "special_gain/creep_special_gain_Magic_Conversion"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_phase"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "phantom_lancer_phantom_edge"
+        "ScriptFile"               "special_gain/creep_special_gain_phase"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_morphling/morphling_ambient_new_.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_insulator"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "miniboss_reflect"
+        "ScriptFile"               "special_gain/creep_special_gain_insulator"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/econ/items/earthshaker/earthshaker_ti9/earthshaker_ti9_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+            "incoming_down"        "15"
+            "break_incoming_up"    "20"
+        }
+    }
+    "creep_special_gain_heal_suppression_aura"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "necrolyte_ghost_shroud"
+        "ScriptFile"               "special_gain/creep_special_gain_heal_suppression_aura"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/econ/items/earthshaker/earthshaker_ti9/earthshaker_ti9_ambient.vpcf"
+            "particle"    "particles/units/heroes/hero_necrolyte/necrolyte_spirit.vpcf"
+            "particle"    "particles/status_fx/status_effect_necrolyte_spirit.vpcf"
+            "particle"    "particles/items4_fx/spirit_vessel_damage.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_heal"    "30"
+            "radius"        "550"
+        }
+    }
+    "creep_special_gain_earthshaker_echo_slam"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "earthshaker/earthshaker_arcana/earthshaker_echo_slam"
+        "ScriptFile"               "special_gain/creep_special_gain_earthshaker_echo_slam"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/new_effect/new_effect/new_hd_anti_cleve.vpcf"
+        }
+        "AbilityValues"
+        {
+            "radius"    "300"
+            "line"  "6"
+        }
+    }
+    "creep_special_gain_Invalidation_of_split_attack"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "enigma_demonic_conversion_alt"
+        "ScriptFile"               "special_gain/creep_special_gain_Invalidation_of_split_attack"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "100"
+        "NegativeGainIndex1"       "100"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/new_effect/new_effect/invalidation_of_split_attack.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Invalidation_of_life_steal"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "life_stealer_open_wounds"
+        "ScriptFile"               "special_gain/creep_special_gain_Invalidation_of_life_steal"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "100"
+        "NegativeGainIndex1"       "100"
+        "precache"
+        {
+            "particle"    "particles/rebuild/econ/items/invoker/invoker_ti6/invoker_deafening_blast_disarm_ti6_debuff.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Invalidation_of_Shield"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "spectre/spectre_arcana/spectre_haunt_single"
+        "ScriptFile"               "special_gain/creep_special_gain_Invalidation_of_Shield"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "100"
+        "NegativeGainIndex1"       "100"
+        "debuffMinDuration1"       "0.01"
+        "precache"
+        {
+            "particle"    "particles/rebuild/spell_gain/invoker_deafening_blast_disarm_ti6_debuff.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Invalidation_of_health_regen"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "pudge_eject"
+        "ScriptFile"               "special_gain/creep_special_gain_Invalidation_of_health_regen"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE | DOTA_ABILITY_BEHAVIOR_AURA"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_necrolyte/necrolyte_spirit_2_rebuild.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Invalidation_magic"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "queen_of_pain/arcana/queenofpain_scream_of_pain_alt2"
+        "ScriptFile"               "special_gain/creep_special_gain_Invalidation_magic"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "100"
+        "NegativeGainIndex1"       "100"
+        "precache"
+        {
+            "particle"    "particles/new_effect/new_effect/invalidation_magic.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_fake_message"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "dark_seer_wall_of_replica"
+        "ScriptFile"               "special_gain/creep_special_gain_fake_message"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "100"
+        "NegativeGainIndex1"       "100"
+        "precache"
+        {
+            "particle"    "particles/new_effect/new_effect/fake_message.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Painful_last_wish"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "witch_doctor_voodoo_switcheroo"
+        "ScriptFile"               "special_gain/creep_special_gain_Painful_last_wish"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "100"
+        "NegativeGainIndex1"       "100"
+        "precache"
+        {
+            "particle"    "particles/rebuild/painful_last_wish/debuff.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_anti_time_arua"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "faceless_void_time_dilation"
+        "ScriptFile"               "special_gain/creep_special_gain_anti_time_arua"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "550"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/new_effect/new_effect/anti_time_arua.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_heal_death_delay"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "skeleton_king/aspect_year_beast_icons/skeleton_king_bone_guard"
+        "ScriptFile"               "special_gain/creep_special_gain_heal_death_delay"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "120"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_skeletonking/wraith_king_ghosts_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_hp_max"          "100"
+            "bonus_attack_speed"    "75"
+            "bonus_move"            "75"
+            "duration"              "3"
+            "death_hp_down"         "20"
+        }
+    }
+    "creep_special_gain_gods_bless"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "chen_penitence"
+        "ScriptFile"               "special_gain/creep_special_gain_gods_bless"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_chen/chen_divine_favor.vpcf"
+        }
+        "AbilityValues"
+        {
+            "radius"          "500"
+            "max"             "5"
+            "heal_lose_hp"    "10"
+            "duration"        "4"
+        }
+    }
+    "creep_special_gain_soul_transfer"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lone_druid/ld_2021_immortal_ability_icon/ld_2021_immortal_spirit_link"
+        "ScriptFile"               "special_gain/creep_special_gain_soul_transfer"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "500"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/new_effect/new_effect/new_hd_soul_move.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_health"    "2"
+            "bonus_damage"    "10"
+            "radius"          "300"
+        }
+    }
+    "creep_special_gain_mana_gain"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "skywrath_mage_ancient_seal"
+        "ScriptFile"               "special_gain/creep_special_gain_mana_gain"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_visage/visage_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_spell_damage_gain"    "35"
+        }
+    }
+    "creep_special_gain_good_climber"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "weaver_shukuchi"
+        "ScriptFile"               "special_gain/creep_special_gain_good_climber"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/econ/items/broodmother/brood_ti9/brood_ti9_legs_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Perseverance"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lone_druid_spirit_bear_demolish"
+        "ScriptFile"               "special_gain/creep_special_gain_Perseverance"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_silencer/silencer_last_word_status_ring_edge.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Perseverance2"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lone_druid_spirit_bear_demolish"
+        "ScriptFile"               "special_gain/creep_special_gain_Perseverance2"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_silencer/silencer_last_word_status_ring_edge.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_status"            "40"
+            "incoming_down"           "25"
+            "incoming_down_summon"    "30"
+        }
+    }
+    "creep_special_gain_bloodseeker_bloodrage"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "venomancer/veno_2021_immortal_arms_ability_icon/veno_2021_immortal_poison_sting"
+        "ScriptFile"               "special_gain/creep_special_gain_bloodseeker_bloodrage"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "30"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "80"
+        "NegativeGainIndex1"       "50"
+        
+        "precache"
+        {
+            "particle"    "particles/econ/items/invoker/invoker_ti6/invoker_deafening_blast_disarm_ti6_debuff.vpcf"
+            "particle"    "particles/units/heroes/hero_sandking/sandking_caustic_finale_explode.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"           "2"
+            "radius"             "200"
+            "active_duration"    "4"
+        }
+    }
+    "creep_special_gain_StatusGain_reduce"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "phantom_lancer/pl_fall20_immortal_ability_icon/pl_fall20_immortal_doppelwalk"
+        "ScriptFile"               "special_gain/creep_special_gain_StatusGain_reduce"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "100"
+        "NegativeGainIndex1"       "100"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/econ/items/silencer/silencer_ti10_immortal_shield/silencer_ti10_immortal_curse_debuff_body.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_StatusNegativeGain_reduce"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "bane_nightmare_end"
+        "ScriptFile"               "special_gain/creep_special_gain_StatusNegativeGain_reduce"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "100"
+        "NegativeGainIndex1"       "100"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/econ/items/sand_king/sandking_ti7_arms/sandking_ti7_caustic_finale_debuff.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_LifeStealGain_reduce"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "bloodseeker/bloodseeker_ti_immortal/bloodseeker_thirst_alt"
+        "ScriptFile"               "special_gain/creep_special_gain_LifeStealGain_reduce"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "100"
+        "NegativeGainIndex1"       "100"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_huskar/huskar_inner_fire_debuff.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_last_word"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "naga_siren/naga_2021_immortal_ability_icon/naga_2021_immortal_song_of_the_siren_cancel"
+        "ScriptFile"               "special_gain/creep_special_gain_last_word"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"    "80"
+        "NegativeGainIndex1"       "50"
+        "precache"
+        {
+            "particle"    "particles/generic_gameplay/generic_silenced.vpcf"
+            "particle"    "particles/econ/items/silencer/silencer_ti6/silencer_last_word_status_ti6_ring_edge.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"         "10"
+            "bonus_mp_cost"    "70"
+        }
+    }
+    "creep_special_gain_death_poison"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "viper/ti8_immortal_tail/viper_nethertoxin_immortal"
+        "ScriptFile"               "special_gain/creep_special_gain_death_poison"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/generic_gameplay/generic_silenced.vpcf"
+            "particle"    "particles/econ/items/silencer/silencer_ti6/silencer_last_word_status_ti6_ring_edge.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"    "16"
+            "radius"      "400"
+            "poison"      "2"
+        }
+    }
+    "creep_special_gain_back"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_borrowed_time"
+        "ScriptFile"               "special_gain/creep_special_gain_back"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "120"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"   "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_borrowed_time.vpcf"
+            "particle"    "particles/status_fx/status_effect_abaddon_borrowed_time.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_borrowed_time_heal.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"    "2"
+            "hp_line"     "30"
+            "max_line"    "50"
+        }
+    }
+    "creep_special_gain_saurian_fasciculus"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "shadow_shaman/shadow_shaman_fall20_immortal/shadow_shaman_fall20_immortal_shackles"
+        "ScriptFile"               "special_gain/creep_special_gain_saurian_fasciculus"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "1000"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/econ/items/shadow_shaman/ss_fall20_tongue/shadowshaman_shackle_net_fall20.vpcf"
+            "particle"    "particles/econ/items/silencer/silencer_ti6/silencer_last_word_status_ti6_ring_edge.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_shallow_grave"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "dazzle_shallow_grave"
+        "ScriptFile"               "special_gain/creep_special_gain_shallow_grave"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/econ/items/dazzle/dazzle_ti6/dazzle_ti6_shallow_grave.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"    "2.5"
+        }
+    }
+    "creep_special_gain_enraged"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "life_stealer_rage_immortal"
+        "ScriptFile"               "special_gain/creep_special_gain_enraged"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "20"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "PositiveGainIndex1"       "50"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_life_stealer/life_stealer_rage.vpcf"
+            "particle"    "particles/status_fx/status_effect_life_stealer_rage.vpcf"
+        }
+        "AbilityValues"
+        {
+            "enrage_attack_speed_bonus"    "50"
+            "enrage_movespeed_bonus"       "100"
+            "enrage_model_scale_bonus"     "50"
+            "duration"                     "4"
+            "hp_line"                      "40"
+        }
+    }
+    "creep_special_gain_life_essence"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "granite_golem_hp_aura"
+        "ScriptFile"               "special_gain/creep_special_gain_life_essence"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/econ/items/witch_doctor/wd_ti10_immortal_weapon/wd_ti10_immortal_ambient.vpcf"
+            "particle"    "particles/units/heroes/hero_rubick/rubick_nullfield_defensive_tsest.vpcf"
+        }
+        "AbilityValues"
+        {
+            "hp_max_index"    "50"
+        }
+    }
+    "creep_special_gain_vengefulspirit_command_aura"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "oracle_purifying_flames"
+        "ScriptFile"               "special_gain/creep_special_gain_vengefulspirit_command_aura"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PURE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "StateResistanceIndex1"    "110"
+        "NegativeGainIndex1"       "50"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_oracle/oracle_purifyingflames_hit.vpcf"
+            "particle"    "particles/units/heroes/hero_vengeful/vengeful_venge_aura_cast.vpcf"
+        }
+        "AbilityValues"
+        {
+            "hp_damage"    "7.5"
+            "duration"     "2"
+        }
+    }
+    "creep_special_fear_alone"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "meepo_megameepo"
+        "ScriptFile"               "special_gain/creep_special_fear_alone"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AbilityValues"
+        {
+            "move_down"              "60"
+            "incoming_down"          "75"
+            "outgoing_up"            "75"
+            "noman_incoming_down"    "50"
+            "noman_outgoing_up"      "50"
+            "radius"                 "250"
+        }
+    }
+    "creep_special_gain_super"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "roshan_bash"
+        "ScriptFile"               "special_gain/creep_special_gain_super"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/rebuild/particle_effect/attach_92/effect_lv2_buff_beams.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_hp_max"       "75"
+            "bonus_armor"        "20"
+            "bonus_magic_res"    "40"
+            "move_down"          "10"
+            "death_gold"         "130"
+        }
+    }
+    "creep_special_gain_life_stealer_feast"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "life_stealer_feast"
+        "ScriptFile"               "special_gain/creep_special_gain_life_stealer_feast"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/econ/items/lifestealer/ls_ti9_immortal/ls_ti9_open_wounds_swoop_parent.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_counterspell"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "antimage_counterspell"
+        "ScriptFile"               "special_gain/creep_special_gain_counterspell"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "25"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_antimage/antimage_manavoid.vpcf"
+            "particle"    "particles/econ/items/zeus/zeus_ti8_immortal_arms/zeus_ti8_immortal_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+            "ability_res"    "25"
+        }
+    }
+    "creep_special_gain_counterspell_reflect"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lone_druid_savage_roar_bear"
+        "ScriptFile"               "special_gain/creep_special_gain_counterspell_reflect"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_antimage/antimage_manavoid.vpcf"
+            "particle"    "particles/units/heroes/hero_oracle/oracle_ambient_armor.vpcf"
+            "particle"    "particles/items_fx/immunity_sphere.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_counterspell_reflect_clone"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lone_druid_savage_roar_bear"
+        "ScriptFile"               "special_gain/creep_special_gain_counterspell_reflect"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_antimage/antimage_manavoid.vpcf"
+            "particle"    "particles/units/heroes/hero_oracle/oracle_ambient_armor.vpcf"
+            "particle"    "particles/items_fx/immunity_sphere.vpcf"
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "creep_special_gain_Rage"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "troll_warlord_rampage"
+        "ScriptFile"               "special_gain/creep_special_gain_Rage"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "CanBeBreak1"              "1"
+        "precache"
+        {
+            "particle"    "particles/econ/courier/courier_red_horn/courier_red_horn_ambient.vpcf"
+        }
+        "AbilityValues"
+        {
+            "blade_dance_crit_chance"    "20"
+            "blade_dance_crit_mult"      "220"
+        }
+    }
+    "creep_special_gain_Agility_Gain"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "spirit_breaker_empowering_haste"
+        "ScriptFile"               "special_gain/creep_special_gain_Agility_Gain"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/new_effect/status/new_status_effect_soul_11.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_attack_speed"    "30"
+            "bonus_move"            "20"
+        }
+    }
+    "creep_special_gain_eva_Gain"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "phantom_assassin_blur"
+        "ScriptFile"               "special_gain/creep_special_gain_eva_Gain"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/basic_extend/status_effect_blur_creeps.vpcf"
+        }
+        "AbilityValues"
+        {
+            "evasion"    "50"
+        }
+    }
+    "creep_special_gain_pierce_the_veil"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "muerta_pierce_the_veil"
+        "ScriptFile"               "special_gain/creep_special_gain_pierce_the_veil"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AbilityValues"
+        {
+        }
+    }
+
+    "creep_special_gain_act1_angry"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "furbolg_enrage_attack_speed"
+        "ScriptFile"               "special_gain/creep_special_gain_act1_angry"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        //"SpellDispellableType"     "SPELL_DISPELLABLE_YES_STRONG"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_sven/sven_spell_warcry.vpcf"
+        }
+        "AbilityValues"
+        {
+            "attack_speed"    "15"
+            "move"       "10"
+            "duration"     "15"
+            "radius"                     "300"
+        }
+    }
+
+    "creep_special_gain_act1_oil"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "furbolg_enrage_attack_speed"
+        "ScriptFile"               "special_gain/creep_special_gain_act1_oil"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "StateResistanceIndex1"     "80"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_sven/sven_spell_warcry.vpcf"
+        }
+        "AbilityValues"
+        {
+            "attack_speed"    "20"
+            "move"       "5"
+            "duration"     "15"
+            "radius"                     "400"
+        }
+    }
+}

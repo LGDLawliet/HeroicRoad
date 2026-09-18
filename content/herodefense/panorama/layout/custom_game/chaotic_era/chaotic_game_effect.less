@@ -1,0 +1,488 @@
+
+
+
+#global_game_effect_cardRoot{
+    width: 100%;
+    height: 100%;
+    background-color: #000000c9;
+    opacity: 0;
+    &.show{
+        opacity: 1;
+        #HideButton{
+            opacity: 1;
+        }
+    }
+    #ChaoticEra_GameEffect_Header{
+        horizontal-align: center;
+        margin-top: 120px;
+        // margin-bottom: 200px;
+        flow-children: right;
+        #fellomenBossIcon{
+          width: 80px;
+          height: 80px;
+          background-image: url("file://{images}/custom_game/chaotic_era/hud/card_back_selection_8000.png");
+          background-position: 50% 50%;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+        }
+    
+        Label {
+          align: center center;
+          font-size: 50px;
+        
+        
+          padding-top: 4px;
+          min-height: 28px;
+          color: #d6d6d6;
+          padding-left: 8px;
+          padding-right: 8px;
+          padding-bottom: 8px;
+          font-weight: normal;
+          letter-spacing: 0px;
+          font-family:Gulim, MingLiU;
+          text-shadow: 0px 0px 10px 2 #91484856 0;
+        }
+      
+    }
+
+
+    #ChaoticEra_GameEffect_Body {
+        align: center center;
+        max-width: 1855px;
+        height: 800px;
+        overflow: squish scroll;
+        flow-children: right-wrap;
+        // margin-bottom: 0px;
+        transform: translateX(2000px) translateY(0px);
+        opacity: 0;
+        transition-property: transform, pre-transform-scale2d;
+        transition-duration: 0.2s;
+        margin-bottom: 0px;
+        &.show{
+          transform: translateX(00px) translateY(0px);
+          opacity: 1;
+        }
+      
+      
+    }
+    
+    &.hidden{
+        background-color: none;
+        opacity: 1;
+        #ChaoticEra_GameEffect_Header{
+            opacity: 0;
+        }
+        #ChaoticEra_GameEffect_Body{
+            transform: translateX(2000px) translateY(0px);
+            opacity: 0;
+        }
+        #HideButton{
+            transform:rotateZ( -90deg ) translateX( 20px ) translateY( 0px );
+            pre-transform-scale2d: 0.7;
+        }
+    }
+    
+    #HideButton{
+        align: right center;
+        opacity: 0;
+        // margin-right: 1150px;
+        // background-image: url("s2r://panorama/images/control_icons/arrow_double_psd.vtex");
+        background-image: url("s2r://panorama/images/custom_game/chaotic_era/arrow_top_png.vtex");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        z-index: 5;
+        // horizontal-align: right;
+        wash-color:  rgb(132, 150, 173);
+        transform: rotateZ( 0deg );
+        // transform:rotateZ( 180deg ) translateX( 20px ) translateY( 0px );
+
+        z-index: 10;
+        border-radius: 50%;
+        opacity:0.7;
+        height: 130px;
+        width: 130px;
+        transition-property:transform, wash-color,margin-right,pre-transform-scale2d; 
+        transition-duration: 0.5s, 0.4s, 0.1s;
+        transition-timing-function: ease-in-out;
+        margin-top: 400px;
+
+
+        // opacity: 1.0;
+        transform: rotateZ( 90deg ) translateX( 20px ) translateY( 0px ) translateX( -100px ) translateY( 0px );
+        // box-shadow: rgb(0, 0, 0)0px 0px 5px 0px;
+        pre-transform-scale2d:0.95;
+        &:hover {
+            brightness: 2.4;
+        }
+    }
+
+}
+
+
+.ChaoticEraBuffCardRoot{
+
+    align: center center;
+    ui-scale: 45%;
+    z-index: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    width: 600px;
+    height: 958px;
+    &.level2 .ChaoticEraBuffCard{
+        #buff_main_page{
+            box-shadow: #f3a321 0px 0px 15px 0px; 
+        }
+    }
+    &.level3 .ChaoticEraBuffCard{
+        #buff_main_page{
+            box-shadow: #f32121 0px 0px 15px 0px; 
+        }
+    }
+    .ChaoticEraBuffCard{
+        align: center center;
+        ui-scale: 100%;
+        z-index: 0;
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-top: 10px;
+        margin-bottom: 100px;
+        width: 600px;
+        height: 808px;
+        border-radius: 15px;
+      
+      
+      
+       
+        transform: rotateX(3deg);
+        animation-name: wobble;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        transition-property: transform, pre-transform-scale2d;
+        transition-duration: 0.3s;
+        &:hover{
+            pre-transform-scale2d: 1.01;
+            transform: rotateX(0deg);
+            animation-name: none;
+        }
+
+        #buff_main_page{
+            
+            width: 500px;
+            height: 758px;
+            align: center center;
+            background-image: url("file://{images}/custom_game/chaotic_era/hud/background_deck_editor_tab_buy_cards.png");
+            background-size: 100% 100%;
+            border:1px solid rgb(47, 28, 63);
+            background-color: rgba(0, 0, 0,1);
+            border-radius: 15px;
+            box-shadow: #000000 0px 0px 10px 0px;
+            
+            #buffCardBG {
+                width: 500px;
+                height: 758px;
+                align: center center;
+                /* margin-top: 20px; */
+                #buffCardTopBarBG{
+                    width: 100%;
+                    height: 70px;
+                  
+                    
+                    background-image: url("file://{images}/custom_game/chaotic_era/hud/draft_results_bg.png");
+                    background-size: cover;
+                    z-index: 1;
+                    
+                    // border-bottom: 5px solid #090211; 
+                    border-radius: 5px;
+                    border:2px solid rgb(0, 0, 0);
+                    border-bottom:0px solid rgb(47, 28, 63);
+                    #buffCardNameTitle {
+
+                        text-shadow: 0px 0px 0.2px 0.2 #fcfcfc;
+                        horizontal-align: center;
+                        vertical-align: center;
+                        text-overflow: shrink;
+                        font-family: titleFont;
+                        /* color: gradient(linear, 0% 0%, 0% 80%, from(#dfecee), to(#3b8ab8)); */
+                        color: white;
+                        font-size: 48px;
+                    }
+                }
+            }
+
+            #buffCardImage{
+                margin-top: -5px;
+                width: 99%;
+                height: 400px;
+                vertical-align: top;
+                margin-top: 70px;
+                horizontal-align: center;
+                background-color: rgba(0, 0, 0,1);
+                /* border: 1px solid #000000; */
+                border-radius: 10px;
+                border-left: 2px solid #000000;
+                border-right: 2px solid #000000;
+                // z-index: ;
+              
+                background-image: url("file://{images}/custom_game/chaotic_era/hud/game_effect/crazy_surf.png");
+                background-size: 500px 100%;
+                // border: 5px solid #090211; 
+               
+
+            }
+            #buffCardBottomBlock{
+                vertical-align: bottom;
+                width: 100%;
+                height: 290px;
+                background-image: url("file://{images}/custom_game/chaotic_era/hud/bg_long2.png");
+                background-size: 100% 100%;
+                // border: 1px solid #2b2b2b;
+                border-top: 2px solid #fbfbfb;
+                // border-brush: gradient(linear, 0% 0%, 25% 100%, from(#5a585273), to(#d7d7d6b0));
+                border-brush: gradient( linear, 0% 0%, 0% 100%, from( #7a756673 ), to( #c5b688b0 ) ); 
+                padding: 20px;
+                border-radius: 4px;
+                > Label{
+                    // text-shadow: 0px 0px 0.2px 0.2 #fcfcfc;
+                    horizontal-align: center;
+                    // vertical-align: center;
+                    text-overflow: shrink;
+                    font-family: titleFont;
+                    color: rgb(176, 176, 176);
+                    font-family: defaultFont;
+                    font-size: 37px;
+                    text-shadow: 2px 2px 4px 2 #00000090;
+                }
+            }
+        }
+
+        #buff_main_page_cover{
+            width: 500px;
+            height: 757px;
+            align: center center;
+            background-image: url("file://{images}/custom_game/chaotic_era/hud/card_tier_2.png");
+            background-size: 120% 100%;
+            background-position: 40% 50%;
+            opacity: 0.1;
+
+        }
+    }
+
+    #selectProgress_root{
+        width: 100%;
+        height: 100px;
+        vertical-align: bottom;
+        horizontal-align: center;
+        margin-bottom: 30px;
+        // background-color: black;
+        #selectProgress {
+            width: 60%;
+            height: 20px;
+            vertical-align: top;
+            horizontal-align: center;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            border-radius: 10px;
+            border-left: 3px solid #000000;
+            #selectProgress_Right{
+                background-color:gradient( linear, 0% 0%, 0% 100%, from( #101932 ), color-stop( 0.2, #313644 ), color-stop( .5, #162244), to( #141518 ) );
+                background-size: 100% 100%;
+                width:100%;
+                height:100%;
+                border-radius:0px;
+                brightness:1;
+            }
+            #selectProgress_Left{
+                /* background-color:gradient( linear, 0.0% 50.0%, 80.0% 50.0%, color-stop( 0.0, #000E3DFF ), color-stop( 0.80, #003983FF ), color-stop( 0.90, #0431A3FF ), color-stop( 1.0, #0199C7CC ) ); */
+                width:0%;
+                height:100%;
+                border-radius:10px;
+                brightness:1;
+                opacity: 0.5;
+                z-index: 1;
+                background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/right_bar_backer_battlestats.png");
+                background-size: 300% 100%;
+                wash-color: rgba(170, 119, 212, 0.879);
+                brightness: 8;
+                transition-property:width,wash-color;
+                transition-duration: 1s;
+                transition-timing-function: ease-in-out;
+                align: left bottom;
+            }
+        }
+        #selectProgresss:hover {
+            brightness: 2;
+        }
+
+        #playerSelected {
+            align: center bottom;
+            height: 50px;
+            width: 70%;
+            flow-children: right-wrap;
+            margin-left: 5px;
+            border-left: 4px solid #1e1e1e;
+            // border-right: 1px solid #000000;
+            // margin-right: 15px;
+          }
+    }
+    transform: translateX(500px) translateY(00px);
+    opacity: 0;
+    transition-property: transform, opacity;
+    transition-duration: 0.4s;
+    &.show{
+        transform: translateX(00px) translateY(0px);
+        opacity: 1;
+    }
+}
+
+
+
+
+
+
+#player_artifact_cardRoot{
+    width: 100%;
+    height: 100%;
+    // background-color: #000000c9;
+    opacity: 0;
+    &.show{
+        opacity: 1;
+        #HideButton{
+            opacity: 1;
+        }
+    }
+    #ChaoticEra_Artifact_Header{
+        horizontal-align: left;
+        margin-top: 100px;
+        margin-left: 250px;
+        flow-children: right;
+        Label {
+          align: center center;
+          font-size: 50px;
+          padding-top: 4px;
+          min-height: 28px;
+          color: #d6d6d6;
+          padding-left: 8px;
+          padding-right: 8px;
+          padding-bottom: 8px;
+          font-weight: normal;
+          letter-spacing: 0px;
+          font-family:Gulim, MingLiU;
+          text-shadow: 0px 0px 10px 2 #488f9156 0;
+        }
+      
+    }
+
+
+    #ChaoticEra_Artifact_Body {
+        align: left top;
+        max-width: 1755px;
+        height: 800px;
+        overflow: squish scroll;
+        margin-left: 150px;
+        margin-top: 0px;
+        flow-children: right-wrap;
+        // margin-bottom: 0px;
+        transform: translateX(2000px) translateY(0px);
+        opacity: 0;
+        transition-property: transform, pre-transform-scale2d;
+        transition-duration: 0.2s;
+        margin-bottom: 0px;
+        &.show{
+          transform: translateX(00px) translateY(0px);
+          opacity: 1;
+        }
+      
+      
+    }
+    
+    &.hidden{
+        background-color: none;
+        opacity: 1;
+        #ChaoticEra_Artifact_Header{
+            opacity: 0;
+        }
+        #ChaoticEra_Artifact_Body{
+            transform: translateX(2000px) translateY(0px);
+            opacity: 0;
+        }
+        #HideButton{
+            transform:rotateZ( -90deg ) translateX( 20px ) translateY( 0px );
+            pre-transform-scale2d: 0.8;
+        }
+    }
+    
+    #HideButton{
+        align: right top;
+        opacity: 0;
+        // margin-right: 1150px;
+        // background-image: url("s2r://panorama/images/control_icons/arrow_double_psd.vtex");
+        background-image: url("s2r://panorama/images/custom_game/chaotic_era/arrow_top_png.vtex");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        z-index: 5;
+        // horizontal-align: right;
+        wash-color:  rgb(132, 150, 173);
+        /* transform: translateX( 0px ) translateY( 0px ); */
+        /* pre-transform-scale2d: 1, -1; */
+        // margin-top: 100px;
+        transform: rotateZ( 0deg );
+        z-index: 10;
+        border-radius: 50%;
+        opacity:0.7;
+        height: 100px;
+        width: 100px;
+        transition-property:transform, wash-color,margin-right,pre-transform-scale2d; 
+        transition-duration: 0.5s, 0.4s, 0.1s;
+        transition-timing-function: ease-in-out;
+        margin-top: 300px;
+
+
+        // opacity: 1.0;
+        transform:rotateZ( 90deg ) translateX( 20px ) translateY( 0px ) translateX( -50px ) translateY( 0px );
+        // box-shadow: rgb(0, 0, 0)0px 0px 5px 0px;
+        pre-transform-scale2d:0.95;
+        &:hover {
+            brightness: 2.4;
+        }
+    }
+
+    .ChaoticEraBuffCardRoot{
+        ui-scale: 50%;
+        margin-left: 10px;
+        margin-right: 10px;
+        #selectProgress_root{
+            opacity: 0;
+        }
+        .ChaoticEraBuffCard{
+            margin-left: 0px;
+            margin-right: 0px;
+        }
+    }
+
+}
+
+
+
+
+
+
+
+
+
+@keyframes 'wobble' {
+    25% {
+      transform: rotateX(3deg) rotateY(3deg) rotateZ(1deg);
+    }
+    75% {
+      transform: rotateX(-3deg) rotateY(-3deg) rotateZ(-1deg);
+    }
+}
+
+
+
+
+

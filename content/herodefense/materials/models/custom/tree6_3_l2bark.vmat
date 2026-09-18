@@ -1,0 +1,5 @@
+"Layer0"
+{
+	"Shader"		"global_lit_simple.vfx"
+	"TextureColor"		"materials/models\custom/tree6_3_l2bark_color.png"
+}

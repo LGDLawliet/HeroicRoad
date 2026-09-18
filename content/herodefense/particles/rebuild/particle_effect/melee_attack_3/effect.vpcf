@@ -1,0 +1,59 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf61:version{39d3ce1d-9442-4407-9b78-8317145b1732} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_flConstantRadius = 300.0
+	m_ConstantColor = [ 0, 0, 0, 255 ]
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "absorigin"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_attack2"
+					m_entityName = "parent"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/heroes/grimstroke/grimstroke.vmdl"
+				m_sequenceName = "da_cast1_masters_hand"
+				m_hitboxSetName = "default"
+				m_bAnimationNonLooping = true
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/melee_attack_3/effect_rope_splatter.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/melee_attack_3/effect_dark_spray.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/melee_attack_3/effect_spray.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/melee_attack_3/effect_rope.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/melee_attack_3/effect_pause.vpcf"
+			m_flDelay = 0.45
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/melee_attack_3/effect_ember.vpcf"
+		},
+	]
+}

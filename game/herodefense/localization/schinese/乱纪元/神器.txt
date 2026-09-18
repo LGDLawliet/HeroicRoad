@@ -1,0 +1,299 @@
+"GetRune_info1"  "{s:player_name}通过<font color=\"#c092fd\">{s:locstring_value}</font>为队伍奖励添置了一枚-<font color=\"#8bb6ff\">稀有符石</font>"
+"GetRune_info2"  "{s:player_name}通过<font color=\"#c092fd\">{s:locstring_value}</font>为队伍奖励添置了一枚-<font color=\"#c092fd\">神话符石</font>"
+"GetRune_info3"  "{s:player_name}通过<font color=\"#c092fd\">{s:locstring_value}</font>为队伍奖励添置了一枚-<font color=\"#f0ad4e\">不朽符石</font>"
+
+"New_Artifact_Init" "{s:player_name}选择了神器-<font color=\"#c092fd\">{s:locstring_value}</font>"
+
+"HUD_Alert_Artifact_1" "<font color='%sColor1'>%sPlayer1</font> 拥有神器：<font color='%sColor2'>%sArtifactName</font>"
+
+"taken_from_tomorrow"   "取自明日"
+"taken_from_tomorrow_info"   "立刻提升你的等级<value1>级"
+
+"blacksmith_craftsmanship"   "铁匠技艺"
+"blacksmith_craftsmanship_info"   "视你的商店等级为加<value1>的商店(可以突破最大等级限制)"
+
+"arcane_mark"   "秘法印记"
+"arcane_mark_info"   "所有塑能法术的效用提升<value1>%(带☆数值)"
+
+"thunder"   "雷霆"
+"thunder_info"   "宙斯的神器，你在造成雷属性伤害时，如果该技能的当前冷却时间大于<value2>秒，则有<value3>%几率减少其冷却时间<value4>%，每秒至多触发<value5>次"
+
+"antiaircraft_gun"   "架高炮"
+"antiaircraft_gun_info"   "仅远程：你的攻击距离提升<value1>，你每远离攻击目标<value2>距离，你的最终攻击伤害就提高<value3>%"
+
+"occult_epiphany"   "秘学顿悟"
+"occult_epiphany_info"   "释放冷却时间大于<value1>秒的技能后，回复<value2>点魔法值"
+
+"artifact_frozen"   "冰心来使"
+"artifact_frozen_info"   "每个冰属性技能为你提供<value1>%的最大魔法恢复和<value2>%冷却缩减"
+
+"super_ice"   "极冰水晶杖"
+"super_ice_info"   "冰属性伤害总增<ice_outgoing>%，敌人的移动速度低于<line>点时提高至<ice_outgoing_plus>% [×]"
+
+"elite_resist"   "坚毅反击"
+"elite_resist_info"   "受到来自精英的伤害降低<incoming>%，并在受到其伤害后获得<attack>%全额攻击力，持续<duration>秒"
+
+"storm_comes"   "风暴降至"
+"storm_comes_info"   "每秒积攒<stack>层'风暴降至'，至多<stack_max>层。每层使你的下一次雷属性伤害总增<outgoing>% [×]，增伤效果粘滞<duration>秒"
+"DOTA_Tooltip_modifier_storm_comes"                   "风暴降至"
+"DOTA_Tooltip_modifier_storm_comes_Description"       "下一次雷属性伤害提高" 
+
+"allseeing_oness_favor"   "全视者恩泽"
+"allseeing_oness_favor_info"   "生命恢复提高<bonus_health_regen>%，获得一个修饰词：指定怪物队列每秒遭受等同于你生命恢复x<damage_index>%的圣属性魔法伤害"
+"HUD_allseeing_oness_favor_Info" "被生成后每秒遭受等同于你生命恢复x<damage_index>%的圣属性魔法伤害"
+"DOTA_Tooltip_modifier_allseeing_oness_favor_debuff"                   "全视者恩泽"
+"DOTA_Tooltip_modifier_allseeing_oness_favor_debuff_Description"       "受到持续伤害" 
+
+"mygo_power"   "迷途之子"
+"mygo_power_info"   "全属性增加<atb>点，生命值增加<hp>点，魔法值增加<mp>点，攻击力增加<attack>点，技能增强增加<spell>%。<br>每拥有一个除'急行'或英雄天赋外的技能，全部效果降低<stack>%"
+
+"chaos_lucky"   "混沌幸运"
+"chaos_lucky_info"   "每过<interval>秒，你对敌人的下一次伤害会在<outgoing_min>%到<outgoing_max>%中随机 [×]，如果随机结果为负面，则立刻刷新其触发间隔。伤害变更有短暂粘滞时间"
+
+"bullshit"   "屁话连篇"
+"bullshit_info"   "你通过聊天窗口输出的任何信息都可以激励你的队友，使其获得<value1>点全属性加成，独立叠加持续<value2>秒，最多<value3>层有效。但注意，一旦你未能成功续上增益状态，你的队友会永久性扣除<value4>点全属性。可以通过帮助禁用避免队友的屁话影响。对某个目标造成<value5>次失败后你无法再影响他。"
+"HUD_Bullshit_info"  "{s:player_name}要开始用屁话来激励你们了！"
+"DOTA_Tooltip_modifier_bullshit_debuff"                   "屁话连篇"
+"DOTA_Tooltip_modifier_bullshit_debuff_Description"       "全属性被减少了" 
+"DOTA_Tooltip_modifier_bullshit_buff"                   "屁话连篇"
+"DOTA_Tooltip_modifier_bullshit_buff_Description"       "你被队友的屁话激励了" 
+
+"bullshit2"   "屁话连篇·改"
+"bullshit2_info"   "你通过聊天窗口输出的任何信息都可以削弱你周围<value6>范围内的所有敌人，使其获得减少<value1>%伤害，独立叠加持续<value2>秒，最多<value3>层有效。但注意，一旦你在<value4>秒内没有输出任何信息，你的全属性将被扣除<value5>点"
+"HUD_Bullshit2_info"  "{s:player_name}要开始用屁话来震慑敌人了！"
+"HUD_Bullshit2_info2"  "{s:player_name}不说屁话被诅咒了！"
+"DOTA_Tooltip_modifier_bullshit2"                   "屁话连篇·改"
+"DOTA_Tooltip_modifier_bullshit2_Description"       "你必须保持输出屁话" 
+"DOTA_Tooltip_modifier_bullshit2_debuff"                   "屁话连篇·改"
+"DOTA_Tooltip_modifier_bullshit2_debuff_Description"       "全属性被减少了" 
+"DOTA_Tooltip_modifier_bullshit2_target_debuff"                   "屁话连篇·改"
+"DOTA_Tooltip_modifier_bullshit2_target_debuff_Description"       "被减少了伤害" 
+
+"artifact_oil"   "油腻"
+"artifact_oil_info"   "一个火属性技能在你周围<distance>范围内被释放时，你对周围<radius>范围内的敌人造成你当前生命值x<health_damage>%的火属性魔法伤害，最短触发间隔为<cooldown>秒。"
+
+"artifact_ashe"   "余火"
+"artifact_ashe_info"   "释放冷却时间大于<cooldown_require>秒的火属性环技能时，对目标处周围<radius>范围内的敌人造成主属性×环数×<damage_index>的火属性魔法伤害。若在触发后的<duration>秒内击杀了任意敌人，则永久成长<bonus_damage>%火属性伤害 [+]。最短触发间隔为<cooldown>秒。"
+"DOTA_Tooltip_modifier_artifact_ashe"                   "余火"
+"DOTA_Tooltip_modifier_artifact_ashe_Description"       "火属性伤害提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+"pharmacist"   "药剂专家"
+"pharmacist_info"   "商店药剂享受<cost_reduction>%折扣，使用的药剂有额外<bonus_gain>%效果，但对于与技能相关的类型（如加速药剂）没有效果。"
+
+"tactical_delay"   "战术延缓"
+"tactical_delay_info"   "失败倒计时的初始时间提升<delay>秒（多个效果同时存在则仅有<bonus_gain>%效果）"
+
+"soul_devouring"   "噬魂"
+"soul_devouring_info"   "你每击杀一个单位，针对这种单位造成的伤害就可以提高<bonus_damage>%，最多提高<bonus_max>%，对于精英单位的效果为<boss_gain>倍"
+
+"best_backup"   "最佳后背"
+"best_backup_info"   "本局与你一起游玩的队友，如果任意其一在下一场乱纪元模式下仍然存在，那么你的初始全属性提升<bonus_attribute>"
+
+"DOTA_Tooltip_modifier_best_backup_bonus"                   "最佳后背"
+"DOTA_Tooltip_modifier_best_backup_bonus_Description"       "全属性提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+"HUD_best_backup_info"  "{s:player_name}认为你们是他的最佳后背，下一次也要一起战斗。"
+"HUD_best_backup_info2"  "{s:player_name}遇到了他的最佳后背队友，因此初始全属性获得了提升。"
+
+// "artifact_wish"   "向星星许愿"
+// "artifact_wish_info"   "你进行一次许愿，根据你当前的符石得分获取奖励，得分越高奖励越好。存在以下奖励：金币，全属性加成，黄金与可靠经验，稀有符石，神话符石。符石奖励对所有玩家生效，但只会成功一次。"
+
+"grinding_technique"   "研磨技艺"
+"grinding_technique_info"   "近战攻击在每次回合结算时，拥有<armor_ignore>点护甲穿透效果，但每经过<interval>秒会损失<lose>点，在下一次回合结算时重置（每2分钟）"
+
+"bolt_of_damocles"   "达摩克斯霹雳"
+"bolt_of_damocles_info"   "当进入怪物数量警戒线时，立即触发达摩克斯霹雳，以你为中心<radius>范围内的敌人都将被眩晕<stun_duration>秒，对其造成最大生命值<health_damage>%的纯粹伤害，触发一次后需要等待<cooldown_time>分钟才会完成冷却。如果有多人拥有此效果，那么每次触发后需要至少经过<interval>秒后才会触发下一次。"
+"DOTA_Tooltip_modifier_bolt_of_damocles"                   "达摩克斯霹雳"
+
+"artifact_god_strength"   "神之力量"
+"artifact_god_strength_info"   "将你的力量放射出去，你周围<radius>范围内的友方英雄会获得攻击力加成，其值等同于你力量的<bonus_damage>%，但最多不超过<bonus_max>"
+"DOTA_Tooltip_modifier_artifact_god_strength_buff"                   "神之力量"
+"DOTA_Tooltip_modifier_artifact_god_strength_buff_Description"       "攻击力增加%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"secret_excavation"   "秘密出土"
+"secret_excavation_info"   "获得随机一颗阿哈利姆原石，有较低几率可以获得队伍符石奖励"
+
+"avernus_mist"   "魔霭迷雾"
+"avernus_mist_info"   "每回合（2分钟）开始时，所有友方英雄获得迷雾护盾，可以抵挡相当于你最大生命值<shield_index>%的伤害"
+"DOTA_Tooltip_modifier_avernus_mist_shield"                   "魔霭迷雾"
+"DOTA_Tooltip_modifier_avernus_mist_shield_Description"       "抵挡受到的伤害" 
+
+"defending_the_weak"   "捍卫弱者"
+"defending_the_weak_info"   "每隔<interval>秒，使你周围<radius>范围内一个全属性最少的友军英雄获得<bonus_armor>点防御力与<bonus_attribute>全属性，持续<duration>秒，可以叠加"
+"DOTA_Tooltip_modifier_defending_the_weak_buff"                   "被捍卫"
+"DOTA_Tooltip_modifier_defending_the_weak_buff_Description"       "防御力提升%dMODIFIER_PROPERTY_TOOLTIP%,全属性提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+"DOTA_Tooltip_modifier_defending_the_weak"                   "捍卫弱者"
+
+"curse_of_decline"   "衰退诅咒"
+"curse_of_decline_info"   "精英级的敌人的血量将减少<health_reduction>%(多个同时存在减法叠加)"
+
+"iron_tree_branches_guard"   "铁树枝干守卫"
+"iron_tree_branches_guard_info"   "每次刷新商店都会出现<cost>价格的铁树枝干，购买后永久增加你<bonus_attribute>全属性"
+
+"divine_intervention"   "神圣干预"
+"divine_intervention_info"   "使你在接下来的<duration>秒获得<damage_reduction_active>%的伤害减免，过期后仅有<damage_reduction>%减免效果"
+"DOTA_Tooltip_modifier_divine_intervention"                   "神圣干预"
+"DOTA_Tooltip_modifier_divine_intervention_Description"       "减免%dMODIFIER_PROPERTY_TOOLTIP%%%伤害" 
+
+"power_stealing"   "窃取力量"
+"power_stealing_info"   "怪物被生成时，你可以窃取攻击力，减少目标(等同于你<bonus_damage>%的全额攻击力)的基础攻击力，但最多不会超过你的基础攻击力的<reduction_max>%，将减少值的<bonus_rate>%转化为临时攻击力加成，独立叠加持续<duration>秒"
+"DOTA_Tooltip_modifier_power_stealing_buff"                   "窃取力量"
+"DOTA_Tooltip_modifier_power_stealing_buff_Description"       "攻击力提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"aghanims_sanctum"   "阿哈利姆圣所"
+"aghanims_sanctum_info"   "立即使你的高阶技能的高阶等级提升<level_upgrade>（但不会超过25级），并获得<bonus_level>个级别的加成"
+
+"at_any_cost"   "不惜代价"
+"at_any_cost_info"   "你受到额外<bonus_incoming_damage>%的伤害，但你的火属性伤害提升<bonus_flame_damage>%"
+
+"artifact_prescient"   "先见之明"
+"artifact_prescient_info"   "立即获得<count>次抽取技能的机会"
+
+"payday"   "发薪日"
+"payday_info"   "你的金币变为当前的<bonus>倍"
+
+"demon_revelation"   "恶魔启示"
+"demon_revelation_info"   "获得<count>次神器选择机会，但扣除<attribute_reduction>全属性"
+"DOTA_Tooltip_modifier_demon_revelation"                   "恶魔启示"
+"DOTA_Tooltip_modifier_demon_revelation_Description"       "全属性减少%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"cut_the_crap"   "废话少说"
+"cut_the_crap_info"   "无论你的商店等级是多少，会有至少<level8_chance>%几率抽取到八环技能，至少<level9_chance>%几率抽取到九环技能"
+
+"the_omexe_arena"   "欧梅克斯竞技场"
+"the_omexe_arena_info"   "每经过<interval>秒，获得<bonus_attribute>全属性提升，死亡后会重置"
+"DOTA_Tooltip_modifier_the_omexe_arena"                   "欧梅克斯竞技场"
+"DOTA_Tooltip_modifier_the_omexe_arena_Description"       "全属性增加%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"artifact_challenger"   "挑战者"
+"artifact_challenger_info"   "你对精英级别的敌人造成伤害提升<bonus_damage>%，但对其他敌人造成伤害减少<damage_reduction>%"
+
+"smash_armor"   "粉碎防御"
+"smash_armor_info"   "获得一个修饰词，可以指定一个怪物的护甲减少<armor_reduction>，魔法抗性减少<magical_reduction>%"
+"HUD_smash_armor_Info" "护甲减少<armor_reduction>，魔法抗性减少<magical_reduction>%"
+"DOTA_Tooltip_modifier_smash_armor_debuff"                   "粉碎防御"
+"DOTA_Tooltip_modifier_smash_armor_debuff_Description"       "防御力减少%dMODIFIER_PROPERTY_TOOLTIP%，魔法抗性减少%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+
+"revtel_investments"   "瑞文泰尔的资产"
+"revtel_investments_info"   "获得<count>个修饰词，可以指定一个怪物，使其赏金提高<bonus_bounty>%"
+"HUD_revtel_investments_Info" "赏金提高<bonus_bounty>%（成立后会反映在预览面板）"
+"DOTA_Tooltip_modifier_revtel_investments"                   "瑞文泰尔的资产"
+"DOTA_Tooltip_modifier_revtel_investments_Description"       "剩余修饰词数" 
+
+"admission_notice"   "入学通知书"
+"admission_notice_info"   "你本局的属性伤害减少<damage_reduction>%，但在完成游戏后永久提升你的属性伤害<bonus_damage>%(必须至少持有<wave_require>回合)，最多累加至<bonus_damage_max>%，此后再次拿到此神器则转变为当局增加<bonus_damage_2>%的属性伤害"
+"DOTA_Tooltip_modifier_admission_notice"                   "入学通知书"
+"DOTA_Tooltip_modifier_admission_notice_Description"       "属性伤害减少%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+"DOTA_Tooltip_modifier_admission_notice_buff"                   "学习成果"
+"DOTA_Tooltip_modifier_admission_notice_buff_Description"       "来自神器[入学通知书]的效果，属性伤害增加%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+"personal_tutor"   "个人导师"
+"personal_tutor_info"   "使随机一名当局队友成为你的导师，在接下来的<count>局游戏里与其共同游玩乱纪元模式可以获得<bonus_rune>%符石加成效果（重复激活会重新生成导师，并重置次数）"
+"HUD_personal_tutor_info"  "{s:player_name}选择了{s:player_name2}作为他的导师。"
+"HUD_personal_tutor_info2"  "{s:player_name}遇到了他的导师，因此为此局提供了符石生成进度加成。"
+"DOTA_Tooltip_modifier_personal_tutor"                   "个人导师"
+"DOTA_Tooltip_modifier_personal_tutor_Description"       "符文生成加成提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+"forgotten_individuals"   "被遗忘的个体"
+"forgotten_individuals_info"   "获得<count>个修饰词，指定一个怪物，使其在接下来<duration>秒被遗忘，不会被生成，不会产生赏金，但仍旧会增加符石进度"
+"HUD_forgotten_individuals_Info" "被遗忘<duration>秒，只会产生符石进度，不会被生成"
+"DOTA_Tooltip_modifier_forgotten_individuals"                   "被遗忘的个体"
+"DOTA_Tooltip_modifier_forgotten_individuals_Description"       "剩余修饰词数" 
+
+"bloodthirsty_sword"   "饮血剑"
+"bloodthirsty_sword_info"   "失去吸血效果，每次击杀敌人增加<bonus_attribute>点全属性，获得<bonus_max>全属性加成后恢复吸血效果，并不再增长"
+"DOTA_Tooltip_modifier_bloodthirsty_sword"                   "饮血剑"
+"DOTA_Tooltip_modifier_bloodthirsty_sword_Description"       "全属性提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+// "extinction_starfall"   "天绝星落"
+// "extinction_starfall_info"   "每当一个怪物被生成时，有<chance>几率在战场随机地点召唤一颗陨石，对命中的敌人造成伤害与眩晕效果"
+
+"excessive_consumption"   "超前消费"
+"excessive_consumption_info"   "立即获得<bonus_gold>金币，但将产生<gold_rate>%债务，在下一次乱纪元游戏会按照每<interval>秒当前金币<gold_reduction>%的比例偿还债务，直到还清所有负债"
+"DOTA_Tooltip_modifier_excessive_consumption_debuff"                   "超前消费"
+"DOTA_Tooltip_modifier_excessive_consumption_debuff_Description"       "有未还清的债务" 
+
+"golden_ticket"   "金券"
+"golden_ticket_info"   "你接下来购买的<count>件商品返还<gold_reduction>%金币消耗(仅物品，不包含药剂)"
+"DOTA_Tooltip_modifier_golden_ticket"                   "金券"
+"DOTA_Tooltip_modifier_golden_ticket_Description"       "有剩余的打折机会" 
+
+"gift_of_the_grand_mage"   "大魔导师的馈赠"
+"gift_of_the_grand_mage_info"   "获得两种魔方之谜各<count>个，有较低几率可以获得队伍符石奖励"
+
+"out_of_nothing"   "无中生有"
+"out_of_nothing_info"   "获得<count1>次神器选择机会，<count2>次技能选择机会和<count3>次技能升阶机会"
+
+"glass_cannon"   "充能型玻璃大炮"
+"glass_cannon_info"   "获得<stack>层'玻璃制品'，每层使你造成的伤害和受到的伤害总增<bonus_damage>% [×]。<br>死亡时损失<stack_down>层'玻璃制品'。"
+"DOTA_Tooltip_modifier_glass_cannon"                   "玻璃制品"
+"DOTA_Tooltip_modifier_glass_cannon_Description"       "伤害和受伤总增%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+// "close_combat"   "近身作战"
+// "close_combat_info"   "你的攻击伤害在靠近敌人<distance_require>时，其最终伤害获得<bonus_damage>%的增幅"
+
+"roller_compacted"   "碾压"
+"roller_compacted_info"   "对于非精英敌人，你对其伤害提升<bonus_damage>%"
+
+"fat_rat"   "小鼠肥肥"
+"fat_rat_info"   "金币奖励提升<bonus_gold>%"
+
+"domination_helmet"   "统御头盔"
+"domination_helmet_info"   "召唤增强提升<summon_gain>%，同时你召唤出的生物的攻击将具备<armor_ignore>护甲穿透"
+
+"super_dark"   "暗夜赐福"
+"super_dark_info"   "伤害总增<outgoing>%，同时你造成的暗属性伤害额外总增<dark_damage>% [×]"
+
+"super_attack"   "村好剑"
+"super_attack_info"   "基础攻击力增加<bonus_attack>点，并获得<bonus_attack_pct>%全额攻击力 [+]"
+
+
+// "artifact_molt"   "蜕皮"
+// "artifact_molt_info"   ""
+
+
+
+
+
+
+// 超级富商   当你的金币超过50000后，会将10000金币转化为一个稀有符石，每次转化后增加2000金币需求
+
+// 造势   一旦怪物数量低于最大数量的50%，你可以保持不攻击，不施法，不移动的状态来营造凉了的势，在10秒后可以成功造势，造势成功将使你增加1点全属性，最多可叠加40点。你可以在下一局乱纪元获得50%的初始属性奖励。
+
+
+// https://artifact.huijiwiki.com/wiki/Card/01/10300
+// 战斗训练 
+
+
+
+
+// https://artifact.huijiwiki.com/wiki/Card/01/10425
+// 胜利时刻 最终boss得能力提升<bonus_gain>，其带来得奖励也会提高
+
+// https://artifact.huijiwiki.com/wiki/Card/01/10091
+// 瑞文泰尔护卫队 你召唤得生物额外获得攻击力继承，与你得持有金币相关
+
+
+
+
+
+
+
+
+
+// https://artifact.huijiwiki.com/wiki/Card/01/10033
+// 回音击 获得特殊药水，可以释放一次回音击，每回合会获得一瓶
+
+
+
+
+
+// https://artifact.huijiwiki.com/wiki/Card/01/10315
+// 灭绝  仅一次
+
+
+
+

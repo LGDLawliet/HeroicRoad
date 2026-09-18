@@ -1,0 +1,119 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero_fluid.vfx"
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Reflection cube map ----
+	F_REFLECT_CUBE_MAP 1
+
+	//---- Refraction cube map ----
+	F_REFRACT_CUBE_MAP 1
+
+	//---- Tint Mask ----
+	F_TINT_MASK 1
+
+	//---- Base Settings ----
+	g_flEdgeErosion "0.350"
+	g_flEdgeSharpness "2.5001"
+	g_flRimLightSharpness "5.893"
+	g_flRimLightStrength "42.169"
+	g_flTintMaskContrast "1.000"
+	g_flTintMaskCutOff "1.000"
+	g_vColorTint "[0.301961 0.827451 0.243137 0.000000]"
+	g_vColorTint2 "[0.133333 0.807843 0.345098 0.000000]"
+	g_vMinLightColor "[0.772549 0.772549 0.772549 0.000000]"
+	g_vRimLightColor "[0.713726 0.850980 0.666667 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[5.000 5.000]"
+	TextureColor "materials/models/heroes/terrorblade/terrorblade_detail.psd"
+	TextureTintMask "materials/default/default_mask.tga"
+	TextureTranslucency "materials/default/default_trans.tga"
+
+	//---- Displacement ----
+	g_flInflateStrength "0.000"
+	TextureDisplacementMask "[0.169000 0.169000 0.169000 0.000000]"
+
+	//---- Masks ----
+	g_flSpecularBloom "7.326"
+	g_flSpecularIntensity "5.331"
+	TextureBloom "[1.000000 1.000000 1.000000 0.000000]"
+	TextureReflectance "[0.802000 0.802000 0.802000 0.000000]"
+	TextureSelfIllumMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Normal Map ----
+	g_flBumpStrength "0.000"
+	TextureNormal "materials/example/blend/lava_ground_02/lava_ground_02_normal.png"
+
+	//---- Reflection ----
+	g_flCubeMapPowerReflect "1.000"
+	g_flCubeMapScalarReflect "4.000"
+	g_flReflectBumpStrength "1.000"
+	g_flReflectRimPower "3.000"
+	g_flReflectRimStrength "3.000"
+	TextureCubeMapReflect "materials/models/cubemaps/crimson_pique_glass_cube.psd"
+
+	//---- Refraction ----
+	g_flCubeMapPowerRefract "1.000"
+	g_flCubeMapScalarRefract "3.000"
+	g_flCubeRefractTransparency "1.000"
+	g_flRefractBumpStrength "1.000"
+	g_flRefractInnerGlow "1.000"
+	g_flRefractionIndex "1.400"
+	TextureCubeMapRefract "materials/models/cubemaps/crimson_pique_glass_cube.psd"
+
+	//---- Spiral Effect ----
+	g_flSpiralAlphaMax "0.000"
+	g_flSpiralAlphaMin "0.000"
+	g_flSpiralBumpStrength "0.302"
+	g_flSpiralDisplacementStrength "4.000"
+	g_flSpiralInflateScale "1.176"
+	g_flSpiralInflateSpeed "-4.706"
+	g_flSpiralInflateVariance "3.000"
+	g_flSpiralOverlaySpeedMultiple "0.700"
+	g_vSpiralDisplacementOffset "[-0.006 -0.006 0.027]"
+	g_vSpiralDisplacementSpeed "-2.500"
+	g_vSpiralUVScale "[1.000 0.500]"
+	g_vSpiralUVSpeed "[-1.500 -0.350]"
+	TextureSpiralAlpha "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpiralNormal "materials/fluid_test/fluid_test_normal.png"
+	TextureSpiralOverlayAlpha "materials/default/default_trans.tga"
+	TextureSpiralOverlayColor "materials/example/water_2.tif"
+
+	Attributes
+	{
+		PreviewModel "models/monster/cyclops/cyclops.vmdl"
+	}
+
+
+	VariableState
+	{
+		"Base Settings"
+		{
+		}
+		"Displacement"
+		{
+		}
+		"Masks"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Reflection"
+		{
+		}
+		"Refraction"
+		{
+		}
+		"Spiral Effect"
+		{
+		}
+	}
+}

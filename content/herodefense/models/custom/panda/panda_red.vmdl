@@ -1,0 +1,349 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc32:version{c5dcef98-b629-46ab-88e3-a17c005c935e} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						disabled = true
+						remaps = 
+						[
+							{
+								from = "materials/models/heroes/pudge/pudge2_armleft.vmat"
+								to = "models/eom/override_hero/pudge/pudge_soul_override.vmat"
+							},
+							{
+								from = "materials/models/heroes/pudge/pudge2_body.vmat"
+								to = "models/eom/override_hero/pudge/pudge_soul_override.vmat"
+							},
+							{
+								from = "materials/models/heroes/pudge/pudge2_chopper.vmat"
+								to = "models/eom/override_hero/pudge/pudge_soul_override.vmat"
+							},
+							{
+								from = "materials/models/heroes/pudge/pudge2_hair.vmat"
+								to = "models/eom/override_hero/pudge/pudge_soul_override.vmat"
+							},
+							{
+								from = "materials/models/heroes/pudge/pudge2_hook.vmat"
+								to = "models/eom/override_hero/pudge/pudge_soul_override.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+					{
+						_class = "DefaultMaterialGroup"
+						disabled = true
+						remaps = 
+						[
+							{
+								from = "materials/models/heroes/storm_spirit/storm_spirit_base.vmat"
+								to = "models/custom/panda/textures/base_mesh/storm_spirit_base.vmat"
+							},
+							{
+								from = "materials/models/items/storm_spirit/beast_of_thunder_arm/beast_of_thunder_arm.vmat"
+								to = "models/custom/panda/textures/beast_of_thunder_arm/beast_of_thunder_arm.vmat"
+							},
+							{
+								from = "materials/models/items/storm_spirit/beast_of_thunder_armor/beast_of_thunder_armor.vmat"
+								to = "models/custom/panda/textures/beast_of_thunder_armor/beast_of_thunder_armor.vmat"
+							},
+							{
+								from = "materials/models/items/storm_spirit/beast_of_thunder_head/beast_of_thunder_head.vmat"
+								to = "models/custom/panda/textures/beast_of_thunder_head/beast_of_thunder_head.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "materials/models/heroes/storm_spirit/storm_spirit_base.vmat"
+								to = "models/custom/panda/textures/base_mesh/storm_spirit_base.vmat"
+							},
+							{
+								from = "materials/models/items/storm_spirit/beast_of_thunder_arm/beast_of_thunder_arm.vmat"
+								to = "models/custom/panda/textures/beast_of_thunder_arm/beast_of_thunder_arm_red.vmat"
+							},
+							{
+								from = "materials/models/items/storm_spirit/beast_of_thunder_armor/beast_of_thunder_armor.vmat"
+								to = "models/custom/panda/textures/beast_of_thunder_armor/beast_of_thunder_red_armor.vmat"
+							},
+							{
+								from = "materials/models/items/storm_spirit/beast_of_thunder_head/beast_of_thunder_head.vmat"
+								to = "models/custom/panda/textures/beast_of_thunder_head/beast_of_thunder_red_head.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/custom/panda/storm_spirit_base_mesh.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						filename = "models/custom/panda/wear/panda_armor.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						filename = "models/custom/panda/wear/panda_hand.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						filename = "models/custom/panda/wear/panda_head.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimIncludeModel"
+						model = "models/heroes/storm_spirit/storm_spirit.vmdl"
+					},
+					{
+						_class = "AnimBindPose"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "spine_2"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "wrist_r"
+						relative_origin = [ -9.0, 0.000002, -0.000009 ]
+						relative_angles = [ 0.0, 0.000002, -0.000005 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_eye_r"
+						parent_bone = "head_1"
+						relative_origin = [ 2.0, 8.5, -3.5 ]
+						relative_angles = [ 0.0, 0.000002, -0.000005 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_eye_l"
+						parent_bone = "head_1"
+						relative_origin = [ 2.0, 8.5, 3.5 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_hand_l"
+						parent_bone = "wrist_l"
+						relative_origin = [ 8.4, -1.9, 1.2 ]
+						relative_angles = [ -60.0, 124.900002, -125.5 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_hand_r"
+						parent_bone = "wrist_r"
+						relative_origin = [ -9.5, 1.04, -1.98 ]
+						relative_angles = [ 58.0, -69.0, -66.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_hat"
+						parent_bone = "ssbeastofthunderhat_2"
+						relative_origin = [ -11.0, 13.88, -0.149 ]
+						relative_angles = [ -0.67, -33.75, 89.300003 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "root_0"
+								parent_bone = "root_0"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -25.496481, -21.315487, -23.739708 ]
+								hitbox_maxs = [ 53.803474, 29.206093, 23.739731 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "knee_r"
+								parent_bone = "knee_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -32.457588, -16.412352, -11.44047 ]
+								hitbox_maxs = [ 16.517899, 9.734861, 12.743889 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "knee_l"
+								parent_bone = "knee_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -16.517941, -9.734869, -12.743822 ]
+								hitbox_maxs = [ 32.45755, 16.412336, 11.440527 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "head_1"
+								parent_bone = "head_1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.324303, -8.078162, -9.946293 ]
+								hitbox_maxs = [ 23.487038, 13.609693, 9.946287 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "elbow_l"
+								parent_bone = "elbow_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.501389, -7.418913, -5.926437 ]
+								hitbox_maxs = [ 23.740356, 7.571667, 8.935509 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "elbow_r"
+								parent_bone = "elbow_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -23.740292, -7.571661, -8.936852 ]
+								hitbox_maxs = [ 9.501442, 7.418985, 5.926556 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "root_01"
+								parent_bone = "root_0"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -25.496481, -39.559704, -43.006084 ]
+								hitbox_maxs = [ 41.046547, 51.275166, 40.788853 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "lower"
+					},
+				]
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "particle_cfg"
+						game_keys = 
+						{
+							name = resource:"models/custom/panda/fx/ambient_hand/effect.vpcf"
+							config = "game"
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "particle_cfg"
+						game_keys = 
+						{
+							name = resource:"models/custom/panda/fx/ambient_head/effect.vpcf"
+							config = "game"
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

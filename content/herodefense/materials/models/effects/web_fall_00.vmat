@@ -1,0 +1,17 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"F_RENDER_BACKFACES"	"1"
+	"F_ALLOW_LIGHTING_ON_TRANSLUCENT"	"1"
+	"F_TRANSLUCENT"	"1"
+	"g_flOpacityScale"	"1"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"TextureColor"	"materials/models/effects/web_fall_00_color.png"
+	"TextureTranslucency"	"materials/models/effects/web_fall_00_d65b1588_trans.png"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/models/effects/web_fall_00_color_psd_d65b1588.vtex"
+	}
+}

@@ -1,0 +1,60 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_entityName = "parent"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/heroes/invoker_kid/invoker_kid_trainer_dragon.vmdl"
+				m_sequenceName = "forge_spirit_idle"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect_kid/invoker_kid_forge_spirit_ambient_spawn_scorch_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect_kid/invoker_kid_forge_spirit_ambient_spawn_scorch.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect_kid/invoker_kid_forge_spirit_ambient_fire.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect_kid/invoker_kid_forge_spirit_ambient_spawn_bloom.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect_kid/invoker_kid_forge_spirit_ambient_spawn_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect_kid/invoker_kid_forge_spirit_ambient_spawn_flames.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect_kid/invoker_kid_forge_spirit_ambient_spawn_flames_b.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect_kid/invoker_kid_forge_spirit_ambient_spawn_embers.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect_kid/invoker_kid_forge_spirit_ambient_light.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/ambient/effect/invoker_forge_spirit_death.vpcf"
+			m_bEndCap = true
+			m_bDisableChild = true
+		},
+	]
+}

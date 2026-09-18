@@ -1,0 +1,129 @@
+#potionBagRoot {
+  width: 350px;
+  height: 680px;
+  align: right center;
+  opacity: 0;
+  transform: translateX(500px) translateY(0px);
+  transition-property: opacity, transform;
+  transition-duration: 0.2s, 0.1s, 0.05s;
+  transition-timing-function: ease-in-out;
+}
+#potionBagRoot #chaoticEra_potionBag {
+  width: 100%;
+  height: 100%;
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_profile.png");
+  background-size: 150% 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-img-opacity: 0.9;
+}
+#potionBagRoot #chaoticEra_potionBag > Label {
+  color: #ffffffff;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 34px;
+  height: 46px;
+  width: 100%;
+  text-shadow: 2px 2px 4px 2 #00000090;
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 11px;
+  text-align: center;
+  padding-top: 6px;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+  z-index: 3;
+}
+#potionBagRoot .CloseButton {
+  width: 40px;
+  height: 40px;
+  align: right top;
+  margin-right: 40px;
+  background-image: url("s2r://panorama/images/hud/reborn/disconnect_x_psd.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 10;
+  border-radius: 50%;
+  z-index: 3;
+  wash-color: rgba(71, 46, 133, 0.902);
+  saturation: 0.1;
+}
+#potionBagRoot .CloseButton:hover {
+  brightness: 2;
+}
+#potionBagRoot .CloseButton:active {
+  brightness: 1.5;
+}
+#potionBagRoot.show {
+  transform: translateX(0px) translateY(0px);
+  opacity: 1;
+}
+#potionBagRoot #chaotc_era_itemListPanel {
+  width: 100%;
+  height: 100%;
+  margin-top: 35px;
+  flow-children: down-wrap;
+  overflow: squish scroll;
+}
+.singlePotion {
+  height: 100px;
+  width: 70px;
+  margin: 3px;
+  margin-top: 5px;
+  background-color: #000000;
+}
+.singlePotion.select {
+  brightness: 3;
+  box-shadow: #a7afb4 0px 0px 10px 0px;
+  z-index: 5;
+}
+.singlePotion #potion_Iamge {
+  width: 70px;
+  height: 70px;
+  border: 2px solid #050505;
+  background-color: rgba(0, 0, 0, 0.6);
+  horizontal-align: center;
+}
+.singlePotion #potion_Iamge .potion_Background {
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.singlePotion #potion_Iamge #potionImage {
+  width: 100%;
+  height: 100%;
+}
+.singlePotion #potion_Iamge .potion_cover {
+  width: 100%;
+  height: 100%;
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/ability_bevel_overlay.png");
+  background-size: 120% 120%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.singlePotion #potion_info {
+  height: 30px;
+  width: 70px;
+  align: center bottom;
+}
+.singlePotion #potion_info #potion_info_background {
+  height: 100%;
+  width: 100%;
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/sell_unit_button_dragging.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  wash-color: #4e455b;
+}
+.singlePotion #potion_info > Label {
+  color: #ffffffff;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 30px;
+  height: 20px;
+  text-shadow: 2px 2px 4px 2 #00000090;
+  text-overflow: shrink;
+  align: center center;
+  text-align: center;
+  padding: 2px;
+  color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#463e64));
+}

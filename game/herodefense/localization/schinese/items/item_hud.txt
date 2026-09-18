@@ -1,0 +1,15 @@
+
+
+
+"HUD_GAME_SHOP_Item_type_consumables"  "消耗品"
+"HUD_GAME_SHOP_Item_type_Equipment"  "装备"
+
+
+"HUD_GAME_SHOP_Item_type_All"  "商品列表"
+
+"HUD_GAME_SHOP_Item_type_EraSpecial"  "纪元特供"
+
+
+
+"HUD_Potion_regen"  "恢复品"
+"HUD_Potion_Buff"  "灵药"

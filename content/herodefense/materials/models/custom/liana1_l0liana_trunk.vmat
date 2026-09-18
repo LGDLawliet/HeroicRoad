@@ -1,0 +1,5 @@
+"Layer0"
+{
+	"Shader"		"global_lit_simple.vfx"
+	"TextureColor"		"materials/models\custom/liana1_l0liana_trunk_color.tif"
+}

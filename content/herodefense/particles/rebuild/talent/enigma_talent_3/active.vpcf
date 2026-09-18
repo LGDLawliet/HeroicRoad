@@ -1,0 +1,83 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf59:version{6cf97bfa-52a0-441a-87f0-856fb7aaa129} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 255.0, 255.0, 255.0 ]
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/active_cracks_lighten.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/active_ground_mark.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/active_ring_wave.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/active_end.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_nebula.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_star_perimeter.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ring_spiral.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_star_perimeter.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_flare.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_galaxy.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ring.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_flare_c.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/active_shock_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_streak_start.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ring_spiral.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_spiral_arm.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/active_streaks.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/2stars_crash_ring_spiral.vpcf"
+		},
+	]
+}

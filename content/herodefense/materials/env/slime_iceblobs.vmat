@@ -1,0 +1,68 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "ice_surface_dota.vfx"
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Color ----
+	g_flTexCoordScale "0.003"
+	g_vTexCoordOffset "[0.059 0.194 0.325]"
+	TextureColor "materials/models/heroes/ancient_apparition/ancientapparition_detail.psd"
+
+	//---- Interior ----
+	g_flInteriorAmbientLightScale "0.407"
+	g_flInteriorDirectLightScale "0.000"
+	g_flInteriorRefractBlur "0.000"
+	g_flInteriorRefractStrength "0.402"
+	g_vInteriorLightTint "[0.945098 0.945098 0.945098 0.000000]"
+	g_vInteriorMixParams "[0.550 0.205 5.003]"
+	g_vInteriorRefractTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Normal Map ----
+	g_flBumpStrength "1.810"
+	g_flFresnelBumpStrength "2.198"
+	TextureNormal "materials/default/default_normal.tga"
+
+	//---- Specular ----
+	g_flEnvironmentMapBoost "6.121"
+	g_flSpecularExponent "16.000"
+	g_flSpecularScale "1.000"
+	g_vEnvironmentMapTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureEnvironmentMap "materials/models/cubemaps/glossy_terrorblade_cube.tga"
+	TextureSpecularMask "[0.308000 0.308000 0.308000 0.000000]"
+
+	//---- Translucency ----
+	TextureTranslucency "[0.400000 0.400000 0.400000 0.000000]"
+
+	DynamicParams
+	{
+		g_vTexCoordOffset "\nfrac(float3(0.1,.08,.8)*time())"
+	}
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+		"Interior"
+		{
+			"Lighting" 0
+			"Mix" 0
+			"Refract" 0
+		}
+		"Normal Map"
+		{
+		}
+		"Specular"
+		{
+		}
+		"Translucency"
+		{
+		}
+	}
+}

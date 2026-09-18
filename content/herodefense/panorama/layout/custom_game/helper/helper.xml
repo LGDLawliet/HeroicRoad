@@ -1,0 +1,89 @@
+<root>
+    <styles>
+        <include src="s2r://panorama/styles/dotastyles.vcss_c"/>
+        <include src="s2r://panorama/styles/hudstyles.vcss_c"/>
+        <!-- <include src="s2r://panorama/styles/hud/dota_hud_spectre_arcana.vcss_c" /> -->
+        <!-- <include src="s2r://panorama/layout/custom_game/playerinfo/playerinfo.css"/> -->
+        <include src="s2r://panorama/layout/custom_game/helper/helper.css"/>
+        <include src="s2r://panorama/styles/custom_game/common_hd.css"/>
+
+
+        
+    </styles>
+
+    <scripts>
+
+        <!-- <include src="s2r://panorama/layout/custom_game/playerinfo/playerinfo.js" /> -->
+        <include src="s2r://panorama/layout/custom_game/helper/helper.js" />
+
+    
+    </scripts>
+    <snippets>
+    
+
+        <snippet name="wheel_image">
+            <Panel class="helper_root">
+                <Panel id = "helper_id" >
+                    <Button id="helperButton">
+                        <Panel id="SingleSpellImage">
+                            <DOTAAbilityImage id="SingleSpellPictureImage"/>
+                        </Panel>
+                    </Button>
+                    <Label id="sound_hero_name" text="name"/>
+                </Panel>
+            </Panel>
+        </snippet>
+
+        <snippet name="wheel_single_sound">
+            <Panel class="single_helper_root">
+                <Panel id = "single_sound_event" hittest="true" >
+                    <Button id="single_sound_event_icon" class="Visible">
+                    </Button>
+                    <Panel id = "single_sound_Lable" >
+                        <Label id="single_sound_event_text"  html = "true"  text="你懂个锤子！"/>
+                
+                    </Panel>
+                </Panel>
+            </Panel>
+        </snippet>
+
+
+    </snippets>
+
+
+
+    <Panel hittest="false" class="HelperMenuRoot">
+
+    
+        <!--Button class ="HD_Hover_Brightness" id="helper_button" onactivate="OpenWheelMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Wheel_info_5')" onmouseout="DOTAHideTextTooltip()">  </Button>-->
+        <Button class ="HD_Hover_Brightness" id="helper_button" onactivate="OpenWheelMenu();" onmouseover="DOTAShowTextTooltip('乱纪元圣物版本指南')" onmouseout="DOTAHideTextTooltip()">  </Button>
+
+        <Panel id="helper_menu_background" onactivate="CloseWheelMenu();" hittest="true" class="Visible mainMenuDesign">
+            <Panel id="helper_menu" onactivate="" hittest="true" class="Visible">
+                <Button id="helper_right_button" class="helper_button" onactivate="ChangePage('right');">
+                </Button>
+                <Button id="helper_left_button" class="helper_button" onactivate="ChangePage('left');">
+                </Button>
+                
+                <Panel id="helper_schinese_1" class="Visible_helper" ></Panel> 
+                <Panel id="helper_schinese_2" class="Visible_helper" ></Panel> 
+                <Panel id="helper_schinese_3" class="Visible_helper" ></Panel> 
+                <Panel id="helper_schinese_4" class="Visible_helper" ></Panel> 
+
+            </Panel>
+
+        </Panel>
+       
+
+
+
+
+        <!-- 图片预载入 -->
+        <Panel class="playerinfoMenuPrecache" hittest="true">
+      
+            <!-- <Image src="file://{images}/spells_menu/platinum.png"/> -->
+
+
+        </Panel>
+    </Panel>
+</root>

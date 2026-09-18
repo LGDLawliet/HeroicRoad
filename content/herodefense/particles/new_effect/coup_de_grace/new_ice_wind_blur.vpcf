@@ -1,0 +1,138 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf31:version{593cd181-a1d6-4c6f-9a8c-0534e8d44db0} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 64
+	m_BoundingBoxMin = [ -12.0, -12.0, -10.0 ]
+	m_BoundingBoxMax = [ 12.0, 12.0, 10.0 ]
+	m_ConstantColor = [ 255, 255, 255, 60 ]
+	m_nGroupID = 3
+	m_flMaxDrawDistance = 2000.0
+	m_bShouldSort = false
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 4
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 0.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flEmitRate = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 350.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_RandomRadius"
+			m_flRadiusMin = 128.0
+			m_flRadiusMax = 304.0
+			m_flOpTimeOffsetMax = 1.0
+		},
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMin = 0.1
+			m_fLifetimeMax = 0.05
+			m_flOpTimeOffsetMax = 1.0
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+			m_flOpTimeOffsetMax = 1.0
+		},
+		{
+			_class = "C_INIT_CreateWithinSphere"
+			m_nControlPointNumber = -1
+		},
+		{
+			_class = "C_INIT_InitialVelocityNoise"
+			m_vecOutputMin = [ -64.0, -64.0, -64.0 ]
+			m_vecOutputMax = [ 64.0, 64.0, 64.0 ]
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin = [ -16.0, -16.0, 0.0 ]
+			m_OffsetMax = [ 16.0, 16.0, 160.0 ]
+			m_nControlPointNumber = -1
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_OFF"
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+			m_fDrag = 0.05
+			m_flOpTimeOffsetMax = 1.0
+		},
+		{
+			_class = "C_OP_Spin"
+			m_nSpinRateDegrees = 400
+			m_fSpinRateStopTime = 1.0
+			m_flOpTimeOffsetMax = 1.0
+		},
+		{
+			_class = "C_OP_Decay"
+			m_flOpTimeOffsetMax = 1.0
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+			m_flFadeInTime = 0.5
+		},
+		{
+			_class = "C_OP_FadeOutSimple"
+			m_flFadeOutTime = 0.5
+		},
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+			m_nField = "16"
+			m_Rate = -8.0
+		},
+		{
+			_class = "C_OP_OscillateVector"
+			m_RateMin = [ -12.0, -12.0, -12.0 ]
+			m_RateMax = [ 12.0, 12.0, 12.0 ]
+			m_FrequencyMax = [ 9.0, 9.0, 9.0 ]
+		},
+		{
+			_class = "C_OP_LockToBone"
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			m_bDisableZBuffering = true
+			m_bRefract = true
+			m_flRefractAmount = 0.0075
+			m_nRefractBlurRadius = 3
+			m_nRefractBlurType = "BLURFILTER_BOX"
+			m_bGammaCorrectVertexColors = false
+			m_nOrientationType = "PARTICLE_ORIENTATION_WORLD_Z_ALIGNED"
+			m_flAnimationRate = 1.45
+			m_flOpTimeOffsetMax = 1.0
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/warp_ripple_normal.vtex"
+				},
+			]
+			m_OutlineColor = [ 255, 255, 255 ]
+		},
+	]
+}

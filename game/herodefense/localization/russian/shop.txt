@@ -1,0 +1,202 @@
+"DOTA_Tooltip_ability_buy_core_5"	"<font color=\"#f0ad4e\">Vein Excavation</font><br>"
+"DOTA_Tooltip_ability_buy_core_5_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Obtain some certain random type of Aghanim's core<br><br>Obtain 5 identical core(random type from 1 to 3)</font>"
+"DOTA_Tooltip_ability_buy_core_20"	"<font color=\"#f0ad4e\">Vein Excavation</font><br>"
+"DOTA_Tooltip_ability_buy_core_20_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Obtain some certain random type of Aghanim's core<br><br>Obtain 20 identical core(random type from 1 to 3)</font>"
+"DOTA_Tooltip_ability_buy_core_5_2"	"<font color=\"#f0ad4e\">Vein Excavation</font><br>"
+"DOTA_Tooltip_ability_buy_core_5_2_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Obtain some certain random type of Aghanim's core<br><br>Obtain 5 identical core(random type from 1 to 3)</font>"
+"DOTA_Tooltip_ability_buy_core_20_2"	"<font color=\"#f0ad4e\">Vein Excavation</font><br>"
+"DOTA_Tooltip_ability_buy_core_20_2_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Obtain some certain random type of Aghanim's core<br><br>Obtain 20 identical core(random type from 1 to 3)</font>"
+
+"DOTA_Tooltip_ability_Shop_fool"	"傻力·永久"
+"DOTA_Tooltip_ability_Shop_fool_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">傻子的专属特权<br><br>效果1:每回合结算时50％几率额外提升一级<br>效果2:每回合金币奖励提升10％<br>效果3:初始全属性+15<br>效果4:技能伤害+20％<br>效果5:Magic resistance+15％</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_1"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_1_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 1500 reliable exp</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_2"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_2_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 4000 reliable exp</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_3"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_3_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 10 000 reliable exp</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_4"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_4_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 25 000 reliable exp</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_5"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_5_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 60 000 reliable exp</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_1"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_1_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 1500 reliable exp</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_2"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_2_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 4000 reliable exp</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_3"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_3_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 10 000 reliable exp</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_4"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_4_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 25 000 reliable exp</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_5"	"Опыт"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_5_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получите определенное количество reliable exp<br><br>Получите 60 000 reliable exp</font>"
+
+
+
+"DOTA_Tooltip_ability_Shop_king_of_sleeping"	"睡王·永久"
+"DOTA_Tooltip_ability_Shop_king_of_sleeping_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">睡王的专属特权<br>降低攻击速度与移动速度，但提升百分比伤害值. </font>"
+
+"DOTA_Tooltip_ability_Shop_king_of_challenge"	"无尽苦难"
+"DOTA_Tooltip_ability_Shop_king_of_challenge_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">陷于无尽的苦难之中而无法重回物质位面. <br>随机奖励属性:</font><br><font color=\"#f0ad4e\">1.全属性加6</font><br><font color=\"#f0ad4e\">2.技能伤害加4％</font><br><font color=\"#f0ad4e\">3.Magic resistance加8％</font><br><font color=\"#f0ad4e\"><br></font><br>Input（-sethide1）can hide the buff<font color=\"#f0ad4e\"><br></font>"
+
+"DOTA_Tooltip_ability_Shop_king_of_bug"	"мастер ошибок"
+"DOTA_Tooltip_ability_Shop_king_of_bug_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><br><font color=\"#f0ad4e\">Благословение от трех братьев, единственный титул, три брата будут накапливать очки reliable exp за каждую найденную ошибку.</font><br><font color=\"#f0ad4e\">награда:</font><br><font color=\"#f0ad4e\">1. Добавлены все атрибуты (2.5+уровень улучшения*0.5), до 20</font><br><font color=\"#f0ad4e\">2. Увеличены награды подарочных наборов (10% + уровень улучшения)</font><br><font color=\"#f0ad4e\">Однако наличие бонуса в этом пакете зависит от того, помню ли я добавление бонусной логики.<br></font><br><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+
+
+"DOTA_Tooltip_ability_GoodsInfo_01"	"<font color=\"#5bc0de\">Reliable Experience</font>"
+"DOTA_Tooltip_ability_GoodsInfo_01_Description"	"<font color=\"#5bc0de\">Как его получить:</font><br><font color=\"#f0ad4e\">1.Когда игра будет пройдена, она будет дана в соответствии со сложностью и количеством пройденных уровней.</font><br><font color=\"#f0ad4e\">2. В конце игры получается конвертация книги умений полностью прокачанных умений.</font><br><font color=\"#f0ad4e\">3. Получить его в торговом центре.</font><br>"
+"DOTA_Tooltip_ability_GoodsInfo_02"	"<font color=\"#f0ad4e\">Aurum</font>"
+"DOTA_Tooltip_ability_GoodsInfo_02_Description"	"<font color=\"#5bc0de\">Как его получить:</font><br><font color=\"#f0ad4e\">1.Когда игра будет пройдена, она будет дана в соответствии со сложностью и количеством пройденных уровней</font><br><font color=\"#f0ad4e\">2. Получить его в торговом центре.</font><br>"
+"DOTA_Tooltip_ability_GoodsInfo_03"	"<font color=\"#ababab\">Platinum</font>"
+"DOTA_Tooltip_ability_GoodsInfo_03_Description"	"<font color=\"#5bc0de\">Как его получить:</font><br><font color=\"#f0ad4e\">1.Приобретение активности.</font>"
+
+
+
+
+"DOTA_Tooltip_ability_Shop_old_player"	"Спасибо автору"
+"DOTA_Tooltip_ability_Shop_old_player_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Эксклюзивные привилегии для БЕТА-игроков<br><br>Старт даст низкоуровневый сундук с сокровищами, который можно подарить другим.</font>"
+"DOTA_Tooltip_ability_Shop_first_N8"	"Достичь вершины"
+"DOTA_Tooltip_ability_Shop_first_N8_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Эта привилегия предоставляется первому игроку N8 с одним проходом.<br><br>Добавьте 6 ко всем исходным атрибутам.</font><br><font color=\"#f0ad4e\">Введите (-sethide1), чтобы скрыть состояние</font>"
+
+"DOTA_Tooltip_ability_Shop_Novice_tutor"	"Начинающий Репетитор"
+"DOTA_Tooltip_ability_Shop_Novice_tutor_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Только те, кого можно назвать учителями, могут получить это звание.<br><br>Защита увеличена на 2, а сопротивление магии увеличено на 5%.</font><br><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_Publicity_Ambassador"	"Продвигающий посол"
+"DOTA_Tooltip_ability_Shop_Publicity_Ambassador_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Это звание могут получить только те, кто внес весомый вклад в продвижение игры.<br><br>Увеличивает начальную скорость восстановления здоровья на 4.</font><br><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_noob"	"Отношение ямы"
+"DOTA_Tooltip_ability_Shop_noob_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Это отстой для вас.<br><br>Добавьте 1 ко всем атрибутам</font><br><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+
+
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_2"	"Aurum 2"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_2_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получить немного aurum<br><br>Получите 160 Aurum</font>"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_3"	"Aurum 3"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_3_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получить немного aurum<br><br>Получите 350 Aurum</font>"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_4"	"Aurum 4"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_4_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получить немного aurum<br><br>Получите 800 Aurum</font>"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_5"	"Aurum 5"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_5_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получить немного aurum<br><br>Получите 1900 Aurum</font>"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_1"	"Aurum 1"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_1_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Получить немного aurum<br><br>Получите 60 Aurum</font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_3"	"Компенсация вознаграждение"
+"DOTA_Tooltip_ability_Shop_bonus_info_3_Description"	"<font color=\"#5bc0de\">описание:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Обычно это из-за бага, приведшего к потере части выручки, или просто автор хочет дать вам какое-то вознаграждение, но ленится задавать отдельную тему.</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_none"	"Награда пуста"
+"DOTA_Tooltip_ability_Shop_bonus_info_none_Description"	"<font color=\"#5bc0de\">описание:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Вознаграждение под вашим именем не было запрошено.</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_2"	"Компенсация вознаграждение"
+"DOTA_Tooltip_ability_Shop_bonus_info_2_Description"	"<font color=\"#5bc0de\">описание:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Обычно это из-за бага, приведшего к потере части выручки, или просто автор хочет дать вам какое-то вознаграждение, но ленится задавать отдельную тему.</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_1"	"Компенсация вознаграждение"
+"DOTA_Tooltip_ability_Shop_bonus_info_1_Description"	"<font color=\"#5bc0de\">описание:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Обычно это из-за бага, приведшего к потере части выручки, или просто автор хочет дать вам какое-то вознаграждение, но ленится задавать отдельную тему.</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_4"	"Компенсация вознаграждение"
+"DOTA_Tooltip_ability_Shop_bonus_info_4_Description"	"<font color=\"#5bc0de\">описание:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Обычно это из-за бага, приведшего к потере части выручки, или просто автор хочет дать вам какое-то вознаграждение, но ленится задавать отдельную тему.</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_5"	"Компенсация вознаграждение"
+"DOTA_Tooltip_ability_Shop_bonus_info_5_Description"	"<font color=\"#5bc0de\">описание:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Обычно это из-за бага, приведшего к потере части выручки, или просто автор хочет дать вам какое-то вознаграждение, но ленится задавать отдельную тему.</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_6"	"Компенсация вознаграждение"
+"DOTA_Tooltip_ability_Shop_bonus_info_6_Description"	"<font color=\"#5bc0de\">описание:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Обычно это из-за бага, приведшего к потере части выручки, или просто автор хочет дать вам какое-то вознаграждение, но ленится задавать отдельную тему.</font><font color=\"#f0ad4e\"><br></font>"
+
+
+"DOTA_Tooltip_ability_Shop_Dove_of_peace"	"Голубь мира"
+"DOTA_Tooltip_ability_Shop_Dove_of_peace_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Те, кто слушал автора, перестаньте спорить.<br><br>Все атрибуты плюс 2.</font><br><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+
+
+
+
+"DOTA_Tooltip_ability_Shop_tool"	"Человек инструмент"
+"DOTA_Tooltip_ability_Shop_tool_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Инструмент автора, обычно помогающий автору в каких-то делах.<br><br>Скорость передвижения увеличена на 3%, скорость атаки увеличена на 15.</font><br><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_adviser"	"Сторонники"
+"DOTA_Tooltip_ability_Shop_adviser_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Предложение автора сделал много хороших предложений.<br><br>Начальный интеллект увеличивается на 6.</font><br><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_endless"	"Бесконечные 500 волн героев"
+"DOTA_Tooltip_ability_Shop_endless_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Несколько бедолаг, которые прошли 500 волн, но так и не встретились со скрытым уровнем.<br><br>Бонуса нет, но ваше присутствие немного увеличит вероятность появления скрытых уровней выше N5.</font><br><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Shop_The_blessing_of_good_luck"	"Благословения африканцев"
+"DOTA_Tooltip_ability_Shop_The_blessing_of_good_luck_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Награды за новогоднюю групповую активность.<br><br>Риск Шанс на успех первых десяти бросков костей увеличивается до 99%, а после десяти бросков до 96%.</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_noob2"	"и еда и развлечения"
+"DOTA_Tooltip_ability_Shop_noob2_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Авторская милость.<br><br>Добавьте 7 ко всем исходным атрибутам.</font><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+
+
+"DOTA_Tooltip_ability_Shop_buy_spell_by_platinum2"	"Понимание навыков"
+"DOTA_Tooltip_ability_Shop_buy_spell_by_platinum2_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><br><font color=\"#f0ad4e\">Случайным образом получите 50 книг навыков.</font><br><br><font color=\"#f0ad4e\">Уведомление:</font><br><font color=\"#d9534f\"></font><font color=\"#f0ad4e\"><br>Могут возникать дубликаты, дубликаты книг навыков будут преобразованы в</font> reliable exp<font color=\"#f0ad4e\">，Навыки, которые были полностью прокаченны, также будут преобразованы в</font> reliable exp<font color=\"#f0ad4e\">。</font><br><font color=\"#f0ad4e\">>Only the abilities in the settlement ability pool will appear, and the abilities in the special class will not appear, small changes to get BOSS spells.<br>(Новые добавленные навыки появляются сначала в списке специальных навыков, а затем добавляются в обычный список через некоторое время)</font>"
+"DOTA_Tooltip_ability_Shop_buy_spell_by_platinum"	"Ability comprehension"
+"DOTA_Tooltip_ability_Shop_buy_spell_by_platinum_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><br><font color=\"#f0ad4e\">Случайным образом получите 10 книг навыков.</font><br><br><font color=\"#f0ad4e\">Уведомление:</font><br><font color=\"#d9534f\"></font><font color=\"#f0ad4e\"><br>Могут возникать дубликаты, дубликаты книг навыков будут преобразованы в</font> reliable exp<font color=\"#f0ad4e\">，Навыки, которые были полностью прокаченны, также будут преобразованы в</font> reliable exp<font color=\"#f0ad4e\">。</font><br><font color=\"#f0ad4e\">>Only the abilities in the settlement ability pool will appear, and the abilities in the special class will not appear, small changes to get BOSS spells.<br>(Новые добавленные навыки появляются сначала в списке специальных навыков, а затем добавляются в обычный список через некоторое время)</font>"
+"DOTA_Tooltip_ability_Shop_old_player"	"作者的感谢"
+"DOTA_Tooltip_ability_Shop_old_player_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">BETA测试玩家的专属特权<br><br>开局将赠送一个可以赠予他人的低级宝箱. </font>"
+"DOTA_Tooltip_ability_Shop_first_N8"	"Reach The Peak Of Perfectio"
+"DOTA_Tooltip_ability_Shop_first_N8_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">此特权给予第一位单通N8的玩家. <br><br>初始全属性加6. </font><br><font color=\"#f0ad4e\">输入（-sethide1）可隐藏状态</font>"
+
+
+"DOTA_Tooltip_ability_Shop_Athenas_blessing"	"Athena's blessing"
+"DOTA_Tooltip_ability_Shop_Athenas_blessing_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">How can there be so many female players in my game?<br><br>move speed + 5％</font><font color=\"#f0ad4e\"><br></font><br>Input（-sethide1）can hide the buff<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_water"	"The blessing of chatterbox"
+"DOTA_Tooltip_ability_Shop_water_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">The activity of the discord has made a great contribution to you.<br><br>Mana regen +1</font><font color=\"#f0ad4e\"><br></font><br>Input（-sethide1）can hide the buff<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_Bullshit"	"Bullshit Man"
+"DOTA_Tooltip_ability_Shop_Bullshit_Description"	"<font color=\"#5bc0de\">Эффект: </font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">The activity of the dicord has made a great contribution to you.In addition, you are a fart brother, for which you get a unique title.<br><br>mana regen +1</font><font color=\"#f0ad4e\"><br></font><br>Input（-sethide1）can hide the buff<font color=\"#f0ad4e\"><br></font>"
+
+
+
+
+"DOTA_Tooltip_ability_Shop_bonus_info_contest_1"	"Сезонная награда"
+"DOTA_Tooltip_ability_Shop_bonus_info_contest_1_Description"	"<font color=\"#5bc0de\">описание:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Ваши невостребованные сезонные награды.<br></font>"
+
+
+"DOTA_Tooltip_ability_Shop_sendBug_man"	"Награда за самоторможение 1ур."
+"DOTA_Tooltip_ability_Shop_sendBug_man_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Пожертвовав своей собственной рутиной супермодели в обмен на баланс игры, он был вознагражден.<br><br>Добавьте 5 ко всем атрибутам.</font><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_sendBug_man_2"	"Награда за самоторможение 2ур."
+"DOTA_Tooltip_ability_Shop_sendBug_man_2_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Пожертвовав своей собственной рутиной супермодели в обмен на баланс игры, он был вознагражден.<br><br>Добавьте 6 ко всем атрибутам.</font><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_sendBug_man_3"	"Награда за самоторможение 3ур."
+"DOTA_Tooltip_ability_Shop_sendBug_man_3_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Пожертвовав своей собственной рутиной супермодели в обмен на баланс игры, он был вознагражден.<br><br>Добавьте 7 ко всем атрибутам.</font><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_sendBug_man_4"	"Награда за самоторможение 4ур."
+"DOTA_Tooltip_ability_Shop_sendBug_man_4_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Пожертвовав своей собственной рутиной супермодели в обмен на баланс игры, он был вознагражден.<br><br>Добавьте 8 ко всем атрибутам.</font><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_sendBug_man_5"	"Награда за самоторможение 5ур."
+"DOTA_Tooltip_ability_Shop_sendBug_man_5_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Пожертвовав своей собственной рутиной супермодели в обмен на баланс игры, он был вознагражден.<br><br>Добавьте 10 ко всем атрибутам.</font><font color=\"#f0ad4e\"><br></font><br>Введите (-sethide1), чтобы скрыть состояние<font color=\"#f0ad4e\"><br></font>"
+
+
+"DOTA_Tooltip_ability_core_number_1"	"<font color=\"#f0ad4e\">The first Core of Aghanim</font><br>"
+"DOTA_Tooltip_ability_core_number_1_Description"	"Первый глубокий смысл навыков может быть разблокирован.<br><br>Щелкните правой кнопкой мыши, чтобы выковать, вам нужно внутриигровое (7000/13000/19000) золотых монет для ковки, прежде чем вы сможете его использовать<br>В каждом раунде можно получить только 3 готовых необработанных камня путем ковки, и все игроки делят одинаковое количество раз."
+"DOTA_Tooltip_ability_core_number_2"	"<font color=\"#f0ad4e\">The second Core of Aghanim</font><br>"
+"DOTA_Tooltip_ability_core_number_2_Description"	"Вторая тайна навыка может быть разблокирована.<br><br>Щелкните правой кнопкой мыши, чтобы выковать, вам нужно внутриигровое (7000/13000/19000) золотых монет для ковки, прежде чем вы сможете его использовать<br>В каждом раунде можно получить только 3 готовых необработанных камня путем ковки, и все игроки делят одинаковое количество раз."
+"DOTA_Tooltip_ability_core_number_3"	"<font color=\"#f0ad4e\">The third Core of Aghanim</font><br>"
+"DOTA_Tooltip_ability_core_number_3_Description"	"Третью тайну навыка можно разблокировать.<br><br>Щелкните правой кнопкой мыши, чтобы выковать, вам нужно внутриигровое (7000/13000/19000) золотых монет для ковки, прежде чем вы сможете его использовать<br>В каждом раунде можно получить только 3 готовых необработанных камня путем ковки, и все игроки делят одинаковое количество раз."
+
+"DOTA_Tooltip_ability_Shop_ban_fellOmen"	"Сильная рука BP"
+"DOTA_Tooltip_ability_Shop_ban_fellOmen_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><br><font color=\"#d9534f\">Он будет действителен в течение 30 дней после покупки, повторные покупки будут продлены, полномочия на покупку недействительны и игру необходимо перезапустить.</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">'Шанс двух запрещенных записей на сложности Байсян увеличивается на единицу каждая, и это срабатывает только один раз в команде.</font><br>"
+
+"DOTA_Tooltip_ability_Shop_Refresh_Chaoticera_spell"	"Accurate RE hand"
+"DOTA_Tooltip_ability_Shop_Refresh_Chaoticera_spell_Description"	"<font color=\"#5bc0de\">Effect: </font><br><font color=\"#5bc0de\">----------------------------------</font><br><font color=\"#d9534f\">Lasts 30 days, extended if purchase repeatly.need to restart the game.</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">The spell reroll chances in Chaotic Era mod plus 1, the free reroll chances plus 2.</font><br>"
+
+
+
+"DOTA_Tooltip_ability_Shop_Fast_learning"	"Быстрое обучение"
+"DOTA_Tooltip_ability_Shop_Fast_learning_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><br><font color=\"#d9534f\">Он будет действителен в течение 30 дней после покупки и будет продлеваться при повторных покупках.</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Награда за общий опыт при заселении увеличивается на 20% (но не влияет на опыт конвертации навыков полного уровня).</font><br>"
+
+"DOTA_Tooltip_ability_Exchange_for_platinum_01"	"<font color=\"#5cb85c\">100 platinum</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_01_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------<br></font><font color=\"#f0ad4e\">Получить</font><font color=\"#337ab7\">100</font><font color=\"#f0ad4e\">platinum.</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_02"	"<font color=\"#5cb85c\">200 platinum</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_02_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------<br></font><font color=\"#f0ad4e\">Получить</font><font color=\"#337ab7\">200</font><font color=\"#f0ad4e\">platinum.</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_03"	"<font color=\"#5cb85c\">500 platinum</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_03_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------<br></font><font color=\"#f0ad4e\">Получить</font><font color=\"#337ab7\">500</font><font color=\"#f0ad4e\">platinum.</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_04"	"<font color=\"#5cb85c\">1000 platinum</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_04_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------<br></font><font color=\"#f0ad4e\">Получить</font><font color=\"#337ab7\">1000</font><font color=\"#f0ad4e\">platinum.</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_05"	"<font color=\"#5cb85c\">2000 platinum</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_05_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------<br></font><font color=\"#f0ad4e\">Получить</font><font color=\"#337ab7\">2000</font><font color=\"#f0ad4e\">platinum.</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_06"	"<font color=\"#5cb85c\">4000 platinum</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_06_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------<br></font><font color=\"#f0ad4e\">Получить</font><font color=\"#337ab7\">4000</font><font color=\"#f0ad4e\">platinum.</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_07"	"<font color=\"#5cb85c\">10000 platinum</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_07_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------<br></font><font color=\"#f0ad4e\">Получить</font><font color=\"#337ab7\">10000</font><font color=\"#f0ad4e\"platinum.</font>"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Shop_Alchemy"	"Алхимия"
+"DOTA_Tooltip_ability_Shop_Alchemy_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><br><font color=\"#d9534f\">Он будет действителен в течение 30 дней после покупки и будет продлеваться при повторных покупках.</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Aurum награды  увеличены на 20%.</font><br>"
+"DOTA_Tooltip_ability_Shop_Metallurgy"	"Металлургия"
+"DOTA_Tooltip_ability_Shop_Metallurgy_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><br><font color=\"#d9534f\">Он будет действителен в течение 30 дней после покупки и будет продлеваться при повторных покупках.</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Будет добавлен дополнительный вариант расчета круглых предметов, которые будут выбираться случайным образом среди других предметов (но есть определенный шанс, что тот же самый предмет будет выбран случайным образом).</font>"
+"DOTA_Tooltip_ability_Shop_Metallurgy_2"	"Металлургия Постоянство"
+"DOTA_Tooltip_ability_Shop_Metallurgy_2_Description"	"<font color=\"#5bc0de\">Эффект:</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">Будет добавлен дополнительный вариант расчета круглых предметов, которые будут выбираться случайным образом среди других предметов (но есть определенный шанс, что тот же самый предмет будет выбран случайным образом).</font>"
+"DOTA_Tooltip_ability_Shop_king_of_translation"	"God of translation, the Sleepless, King connecting the world"
+"DOTA_Tooltip_ability_Shop_king_of_translation_Description"	"<font color=\"#5bc0de\">效果：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><br><font color=\"#f0ad4e\">INT 20+wave</font><br><font color=\"#f0ad4e\">STR 20+wave</font><br><font color=\"#f0ad4e\">AGI 20+wave</font><br><font color=\"#f0ad4e\">Damage lifesteal 10％</font><br><font color=\"#f0ad4e\">Magic crit 200％    （20％）</font><br><font color=\"#f0ad4e\">ability enhancement  20％+wave</font><br><font color=\"#f0ad4e\">magic resist 25％</font><br><font color=\"#f0ad4e\">cooldown abilities  20％</font><br><font color=\"#f0ad4e\">Mana regen +10+wave*0.5</font><br><font color=\"#f0ad4e\">HP Regen +  30+wave</font><br><font color=\"#f0ad4e\">HP 1300</font><br><font color=\"#f0ad4e\">waves end bonus gold： +15％</font><br><font color=\"#f0ad4e\">armor  +10</font><br><font color=\"#f0ad4e\">movement speed +50  +10％</font><br><font color=\"#f0ad4e\">ability range 400</font><br><font color=\"#f0ad4e\">levelup when even rounds</font>"

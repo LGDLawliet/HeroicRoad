@@ -1,0 +1,105 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Enable wind ----
+	F_ENABLE_WIND 1
+
+	//---- Translucency ----
+	F_TRANSLUCENT 1
+
+	//---- Blend To Full ----
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[5.000 5.000]"
+	TextureColor "[1.000000 1.000000 1.000000 1.000000]"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "models/rebuild/particles/chaotic_globe_of_invulnerabilit_ball/bane_specularwarp_specwarp_psd_f2ffaaf5.png"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "[0.625000 0.625000 0.625000 0.000000]"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "0.000"
+	g_flBloomShift "0.000"
+	g_flOverbrightFactor "1.000"
+	g_vBloomColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "models/custom/hd_props/legendary_forge/kit/textures/ground/t_darwf_peeble_normal.png"
+
+	//---- Rim ----
+	g_flRimLightScale "2.000"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "32.000"
+	g_flSpecularScale "15.209"
+	g_vSpecularColor "[0.905882 1.000000 0.905882 0.000000]"
+
+	//---- Translucency ----
+	TextureTranslucency "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Wind ----
+	g_flWindFlexibility "0.596"
+	g_flWindHighFrequencyEffects "2.115"
+	g_flWindLowFrequencyEffects "3.077"
+	g_flWindSpeedMultiplier "1.798"
+	TextureWindMaskHigh "[0.000000 0.000000 0.000000 0.000000]"
+	TextureWindMaskLow "[0.100000 0.100000 0.100000 0.000000]"
+	TextureWindRandomNoise "[0.000000 0.000000 0.000000 0.000000]"
+
+	Attributes
+	{
+		PreviewModel "models/heroes/mars/mars_shield.vmdl"
+	}
+
+	UnusedVariables
+	{
+		"g_vDetail2TexCoordOffset" "[0.000 0.000]"
+		"g_vDetail2TexCoordScale" "[1.000 1.000]"
+		"g_flColorWarpBlendFactor" "0"
+		"TextureColorWarp3D" ""
+		"g_flDiffuseWarpBlendToFull" "0"
+		"TextureDiffuseWarp" ""
+		"g_bDiffuseWarpMaskSelectsWarpTopOrBottom" "1"
+		"TextureSpecularWarp" ""
+		"g_flAlphaTexCoordRotation" "0"
+		"g_vAlphaTexCoordOffset" "[0.000 0.000]"
+		"g_vAlphaTexCoordScale" "[1.000 1.000]"
+		"g_flNormalTexCoordRotation" "0"
+		"g_vNormalTexCoordOffset" "[0.000 0.000]"
+		"g_vNormalTexCoordScale" "[1.000 1.000]"
+		"TextureFresnelColorWarp3D" "materials/default/default_colorwarp3D_z000.tga"
+		"TextureDetailMask" "[0.490000 0.490000 0.490000 0.000000]"
+		"TextureDiffuseWarpMask" "[0.000000 0.000000 0.000000 0.000000]"
+		"TextureMetalnessMask" "[1.000000 1.000000 1.000000 0.000000]"
+		"TextureSelfIllumMask" "[0.486000 0.486000 0.486000 0.000000]"
+		"TextureRimMask" "[1.000000 1.000000 1.000000 0.000000]"
+		"TextureSpecularExponent" "[1.000000 1.000000 1.000000 0.000000]"
+		"TextureSpecularMask" "[1.000000 1.000000 1.000000 0.000000]"
+		"TextureTintByBaseMask" "[1.000000 1.000000 1.000000 0.000000]"
+		"g_flCubeMapScalar" "20"
+		"TextureCubeMap" "models/monster/element/holy/textures/holy_cube.png"
+	}
+}

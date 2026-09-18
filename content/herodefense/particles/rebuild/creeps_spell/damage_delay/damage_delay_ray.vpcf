@@ -1,0 +1,192 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_flConstantRadius = 72.0
+	m_ConstantColor = [ 255, 96, 96, 255 ]
+	m_nConstantSequenceNumber = 6
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 7
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 62
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMin = 1.0
+			m_fLifetimeMax = 1.0
+		},
+		{
+			_class = "C_INIT_RandomRadius"
+			m_flRadiusMin = 75.0
+			m_flRadiusMax = 100.0
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMin = [ 255, 230, 171, 255 ]
+			m_ColorMax = [ 255, 192, 125, 255 ]
+		},
+		{
+			_class = "C_INIT_RandomTrailLength"
+			m_flMaxLength = 20.0
+			m_flMinLength = 10.0
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+		},
+		{
+			_class = "C_INIT_CreateOnModel"
+		},
+		{
+			_class = "C_INIT_CreateWithinSphere"
+			m_vecDistanceBiasAbs = [ 0.0, 0.0, 2.0 ]
+			m_vecDistanceBias = [ 1.0, 1.0, -1.0 ]
+			m_fRadiusMax = -80.0
+			m_fRadiusMin = -80.0
+			m_fSpeedMin = 500.0
+			m_fSpeedMax = 500.0
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_INIT_RandomAlpha"
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin = [ 0.0, 0.0, 95.0 ]
+			m_OffsetMax = [ 0.0, 0.0, 95.0 ]
+			m_bDisableOperator = true
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+		},
+		{
+			_class = "C_OP_SpinUpdate"
+		},
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+			m_nField = 10
+			m_Rate = -20.0
+			m_flEndTime = 99999997952.0
+		},
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+			m_Rate = -200.0
+			m_flEndTime = 99999997952.0
+		},
+		{
+			_class = "C_OP_OscillateScalar"
+			m_RateMin = 0.5
+			m_RateMax = 2.0
+			m_FrequencyMin = 0.5
+			m_FrequencyMax = 2.0
+			m_flEndTime_min = 999999.0
+			m_flEndTime_max = 999999.0
+		},
+		{
+			_class = "C_OP_SetPerChildControlPoint"
+			m_nFirstControlPoint = 3
+			m_bSetOrientation = true
+		},
+		{
+			_class = "C_OP_ClampScalar"
+			m_nFieldOutput = 7
+			m_flOutputMin = 0.1
+		},
+		{
+			_class = "C_OP_PositionLock"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_LockToBone"
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderTrails"
+			m_flOverbrightFactor = 2.0
+			m_flMaxLength = 300.0
+			m_flLengthFadeInTime = 0.25
+			m_bIgnoreDT = true
+			m_nHSVShiftControlPoint = 62
+			m_flRadiusScale = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.5
+			}
+			m_flTailAlphaScale = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.0
+			}
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/particle_cone_gradient_2.vtex"
+					m_TextureControls = 
+					{
+						m_flFinalTextureScaleV = 
+						{
+							m_nType = "PF_TYPE_LITERAL"
+							m_flLiteralValue = -1.0
+						}
+						m_flFinalTextureOffsetV = 
+						{
+							m_nType = "PF_TYPE_LITERAL"
+							m_flLiteralValue = 1.0
+						}
+					}
+				},
+			]
+			m_nOutputBlendMode = "PARTICLE_OUTPUT_BLEND_MODE_ADD"
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/damage_delay/damage_delay_base.vpcf"
+		},
+	]
+}

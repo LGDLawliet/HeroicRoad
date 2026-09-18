@@ -1,0 +1,44 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "global_lit_simple.vfx"
+
+	//---- 2-Sided Rendering ----
+	F_RENDER_BACKFACES 1
+
+	//---- Enable wind ----
+	F_ENABLE_WIND 1
+
+	//---- Flip direction of travelling wind ----
+	F_FLIP_TRAVELLING_WIND 1
+
+	//---- Translucent ----
+	F_TRANSLUCENT 1
+
+	//---- Wind that follows object Z ----
+	F_TRAVELLING_WIND_OBJECT_Z 1
+
+	//---- Color ----
+	g_vColorTint "[0.047059 0.729412 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.520 0.253]"
+	g_vTexCoordScale "[4.267 1.707]"
+	TextureColor "materials/example/water_2.tif"
+
+	//---- Translucent ----
+	g_flOpacityScale "0.069"
+	TextureTranslucency "materials/default/default_trans.tga"
+
+	//---- Wind ----
+	g_flTravellingWindMagnitude "200.000"
+	g_flTravellingWindSpeed "0.990"
+	g_flTravellingWindWavelength "200.000"
+	g_flWindFlexibility "1.000"
+	g_flWindHighFrequencyEffects "5.000"
+	g_flWindLinearity "1.000"
+	g_flWindLowFrequencyEffects "4.396"
+	g_flWindSpeedMultiplier "0.693"
+	TextureWindMaskHigh "materials/default/default_mask.tga"
+	TextureWindMaskLow "materials/default/default_mask.tga"
+	TextureWindRandomNoise "materials/example/water_2.tif"
+}

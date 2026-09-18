@@ -1,0 +1,225 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf60:version{cd92a366-0b0d-4811-a18d-f6d472d19709} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 15
+	m_flMaxRecreationTime = -1.0
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			m_flOverbrightFactor = 10.0
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/yellowflare2.vtex"
+				},
+			]
+			m_nOutputBlendMode = "PARTICLE_OUTPUT_BLEND_MODE_ADD"
+			m_nFogType = "PARTICLE_FOG_GAME_DEFAULT"
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+			m_fDrag = 0.2
+			m_flOpEndFadeInTime = 2.0
+			m_flOpStartFadeOutTime = 0.25
+			m_flOpEndFadeOutTime = 1.0
+		},
+		{
+			_class = "C_OP_SetPerChildControlPoint"
+			m_nFirstControlPoint = 3
+			m_nNumControlPoints = 5
+		},
+		{
+			_class = "C_OP_FadeAndKill"
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flEndScale = 0.2
+			m_flStartScale = 7.0
+			m_flBias = 0.75
+		},
+		{
+			_class = "C_OP_OscillateVector"
+			m_flOpStartFadeInTime = 0.1
+			m_flOpEndFadeInTime = 0.15
+			m_flOpStartFadeOutTime = 0.35
+			m_flOpEndFadeOutTime = 0.75
+			m_RateMin = [ -150.0, -150.0, -150.0 ]
+			m_RateMax = [ 150.0, 150.0, 150.0 ]
+			m_FrequencyMin = [ 0.2, 0.2, 0.2 ]
+			m_FrequencyMax = [ 2.0, 2.0, 2.0 ]
+			m_flEndTime_min = 8.0
+			m_flEndTime_max = 8.0
+			m_flOscMult = 1.0
+			m_nField = 2
+		},
+		{
+			_class = "C_OP_Decay"
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			m_bDisableOperator = false
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ALWAYS_ON"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+			m_nOutputField = 1
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMin = [ 184, 149, 95, 255 ]
+			m_ColorMax = [ 50, 107, 55, 255 ]
+		},
+		{
+			_class = "C_INIT_CreateWithinSphereTransform"
+			m_fSpeedMax = 500.0
+			m_fSpeedMin = 250.0
+			m_TransformInput = 
+			{
+				m_nType = "PT_TYPE_CONTROL_POINT"
+				m_nControlPoint = 5
+				m_nControlPointRangeMax = 0
+			}
+		},
+		{
+			m_bDisableOperator = false
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ALWAYS_ON"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 5.0
+				m_flRandomMax = 25.0
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+			}
+			m_nOutputField = 3
+		},
+		{
+			_class = "C_INIT_VelocityRandom"
+			m_LocalCoordinateSystemSpeedMin = [ -150.0, -150.0, 0.0 ]
+			m_LocalCoordinateSystemSpeedMax = [ 150.0, 150.0, 0.0 ]
+		},
+		{
+			_class = "C_INIT_PositionPlaceOnGround"
+			m_flMaxTraceLength = 512.0
+			m_flOffset = 15.0
+			m_nTraceMissBehavior = "PARTICLE_TRACE_MISS_BEHAVIOR_TRACE_END"
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_flStartTime = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.0
+			}
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 15.0
+			}
+		},
+	]
+	m_Constraints = 
+	[
+		{
+			_class = "C_OP_ConstrainDistanceToPath"
+			m_flMaxDistance0 = 150.0
+			m_flMaxDistanceMid = 150.0
+			m_flMaxDistance1 = 0.0
+			m_flTravelTime = 0.5
+			m_PathParameters = 
+			{
+				m_nStartControlPointNumber = 5
+				m_nEndControlPointNumber = 1
+				m_nBulgeControl = 2
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_rope.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_rope.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_rope.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_rope.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_smoke.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_damage_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/goldenseed_soil_a_grow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_afromhand.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/goldenseed_soil_a_growhand.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_afromhand.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_afromhand.vpcf"
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_vecCP1Pos = [ 0.0, 0.0, -50.0 ]
+			m_nCP1 = 5
+			m_transformInput = 
+			{
+				m_nType = "PT_TYPE_CONTROL_POINT"
+				m_nControlPoint = 1
+			}
+		},
+	]
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 4
+}

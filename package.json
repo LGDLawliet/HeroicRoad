@@ -1,0 +1,39 @@
+{
+	"scripts": {
+		"wearables": "node scripts/wearables.js"
+
+	},
+	"dependencies": {
+		"@demon673/webpack-panorama": "^0.4.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.18.2",
+		"@babel/preset-env": "^7.18.2",
+		"@babel/preset-react": "^7.17.12",
+		"@demon673/react-panorama": "0.2.8",
+		"@moddota/panorama-types": "^1.22.0",
+		"@types/classnames": "^2.3.1",
+		"@types/react": "^16.14.26",
+		"babel-loader": "^8.2.5",
+		"classnames": "^2.3.2",
+		"dota-lua-types": "^4.3.1",
+		"file-loader": "^6.2.0",
+		"find-steam-app": "^1.0.2",
+		"fork-ts-checker-webpack-plugin": "^5.2.1",
+		"glob": "^7.2.0",
+		"less": "^3.13.1",
+		"less-loader": "^7.3.0",
+		"luaparse": "0.2.1",
+		"npm-run-all": "^4.1.5",
+		"picomatch": "^2.3.0",
+		"rd": "^2.0.1",
+		"react": "^16.14.0",
+		"replace-in-file-webpack-plugin": "^1.0.6",
+		"ts-loader": "^8.3.0",
+		"typescript": "^4.9.5",
+		"typescript-to-lua": "^0.34.0",
+		"webpack": "^5.77.0",
+		"webpack-cli": "^4.9.1",
+		"webpack-sources": "^2.3.1"
+	}
+}

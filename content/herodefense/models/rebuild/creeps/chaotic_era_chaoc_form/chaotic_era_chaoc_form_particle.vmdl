@@ -1,0 +1,1590 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc32:version{c5dcef98-b629-46ab-88e3-a17c005c935e} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "model"
+						filename = "models/rebuild/creeps/chaotic_era_chaoc_form/chaotic_era_chaoc_form_base.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimBindPose"
+						name = "bind_pose"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+					},
+					{
+						_class = "AnimIncludeModel"
+						disabled = true
+						model = "models/heroes/brewmaster/brewmaster_earthspirit.vmdl"
+					},
+					{
+						_class = "AnimIncludeModel"
+						disabled = true
+						model = "models/creeps/darkreef/gaoler/darkreef_gaoler.vmdl"
+					},
+					{
+						_class = "AnimIncludeModel"
+						model = "models/items/warlock/golem/warlock_the_infernal_master_golem/warlock_the_infernal_master_golem.vmdl"
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "BoneMarkupList"
+				bone_cull_type = "None"
+				primary_root_bone = ""
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "djinn_hub1_spine1_T2"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "djinn_hub1_spine1_arm2_hand"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack2"
+						parent_bone = "djinn_hub1_spine1_arm1_hand"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "Head_1"
+						parent_bone = "djinn_hub1_spine1_spine1_chain21"
+						relative_origin = [ -7.21896, 0.0, -4.26849 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "wrist_R"
+						parent_bone = "djinn_hub1_spine1_arm2_hand"
+						relative_origin = [ -25.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "wrist_L"
+						parent_bone = "djinn_hub1_spine1_arm1_hand"
+						relative_origin = [ 25.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_hand_left_fx"
+						parent_bone = "djinn_hub1_spine1_arm1_handBlend"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_eye_l_fx"
+						parent_bone = "djinn_hub1_spine1_spine1"
+						relative_origin = [ 5.330704, -16.791336, -5.653411 ]
+						relative_angles = [ 0.0, 0.0, -0.000229 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_eye_r_fx"
+						parent_bone = "djinn_hub1_spine1_spine1"
+						relative_origin = [ 5.3307, -16.7913, 5.65341 ]
+						relative_angles = [ 0.0, 0.0, -0.000229 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_tail_fx"
+						parent_bone = "djinn_hub1_chain19"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack3"
+						parent_bone = "djinn_hub1_spine1_arm1_hand"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 180.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "select_low"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -101.198898, -93.520302, -97.4879 ]
+								hitbox_maxs = [ 99.670776, 93.522797, 78.428497 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "select_high"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -15.0934, -43.786499, -44.484924 ]
+								hitbox_maxs = [ 107.423065, 44.705399, 33.284901 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -107.866859, -52.2929, -43.799534 ]
+								hitbox_maxs = [ 15.6284, 52.295399, 34.520088 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "head"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_spine1_spine1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.11171, -23.749365, -19.024958 ]
+								hitbox_maxs = [ 19.148041, 14.402438, 14.502084 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "hands"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_spine1_arm1_hand"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -6.320793, -34.5098, -23.586933 ]
+								hitbox_maxs = [ 50.748634, 9.96039, 20.863199 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_spine1_arm2_hand"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -8.815865, -28.055361, -30.0226 ]
+								hitbox_maxs = [ 63.584202, 16.968918, 27.329399 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "feet"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_chain14"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -18.489767, -22.6429, -25.287252 ]
+								hitbox_maxs = [ 46.38628, 13.2644, 30.096231 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_chain15"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -30.042122, -46.392551, -37.354702 ]
+								hitbox_maxs = [ 13.4149, 7.316105, 20.722065 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "trail"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain111"
+								parent_bone = "djinn_hub1_chain111"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.709465, -10.137014, -11.25613 ]
+								hitbox_maxs = [ 58.697006, 10.814148, -4.35405 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain112"
+								parent_bone = "djinn_hub1_chain112"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -13.211739, -3.538559, -5.514771 ]
+								hitbox_maxs = [ 26.986198, 1.836823, 8.854454 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain113"
+								parent_bone = "djinn_hub1_chain113"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.589149, -6.75045, -3.712677 ]
+								hitbox_maxs = [ 11.716644, 3.614967, 9.620781 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain110"
+								parent_bone = "djinn_hub1_chain110"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -21.308212, -9.753441, -2.081909 ]
+								hitbox_maxs = [ 38.06715, 10.574312, 13.801315 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain19"
+								parent_bone = "djinn_hub1_chain19"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.806169, -15.132294, -14.047268 ]
+								hitbox_maxs = [ 25.99111, 10.816841, 4.54385 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain18"
+								parent_bone = "djinn_hub1_chain18"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.887257, -14.379913, -23.638466 ]
+								hitbox_maxs = [ 48.086472, 10.808876, 17.992188 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain17"
+								parent_bone = "djinn_hub1_chain17"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.30364, -10.883545, -15.366879 ]
+								hitbox_maxs = [ 50.227848, 12.338194, 7.318001 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain16"
+								parent_bone = "djinn_hub1_chain16"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.021786, -9.79903, -12.297459 ]
+								hitbox_maxs = [ 45.801998, 3.994911, 13.075203 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain15"
+								parent_bone = "djinn_hub1_chain15"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -16.828533, -13.674911, -18.244928 ]
+								hitbox_maxs = [ 44.116894, 6.178703, 17.244595 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain14"
+								parent_bone = "djinn_hub1_chain14"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -17.744623, -19.565304, -17.297682 ]
+								hitbox_maxs = [ 44.310287, 2.467161, 16.302795 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_chain13"
+								parent_bone = "djinn_hub1_chain13"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -33.779953, -23.607378, -13.828209 ]
+								hitbox_maxs = [ 25.730455, 8.398524, 22.890762 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "hand_vfx"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger11"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger11"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.787254, -7.098137, -9.530174 ]
+								hitbox_maxs = [ 14.819118, 6.397972, 26.859509 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger12"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger12"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -10.067909, -11.855238, -5.955484 ]
+								hitbox_maxs = [ 14.779621, 4.794144, 11.873503 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger21"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger21"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -16.579338, -11.803944, -12.07328 ]
+								hitbox_maxs = [ 21.630768, 14.479099, 11.758301 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger22"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger22"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -10.846756, -16.166985, -5.22271 ]
+								hitbox_maxs = [ 12.814245, 3.544725, 8.390802 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger31"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger31"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -21.149445, -17.112867, -17.599392 ]
+								hitbox_maxs = [ 26.119415, 5.720886, 15.19458 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger32"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger32"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -13.66958, -15.564896, -5.664844 ]
+								hitbox_maxs = [ 16.649387, 4.389084, 5.756528 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger41"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger41"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -23.130478, -9.933331, -16.35503 ]
+								hitbox_maxs = [ 24.719437, 8.729591, 16.957767 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger42"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger42"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -8.567318, -5.515503, -7.692131 ]
+								hitbox_maxs = [ 14.199482, 4.107979, 4.461367 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger51"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger51"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -21.398777, -14.037601, -16.424364 ]
+								hitbox_maxs = [ 22.471756, 7.410986, 9.433895 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_hand_finger52"
+								parent_bone = "djinn_hub1_spine1_arm2_hand_finger52"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -13.55551, -7.270504, -5.664125 ]
+								hitbox_maxs = [ 12.259518, 5.118267, 5.266193 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger11"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger11"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -18.509605, -8.435829, -26.866688 ]
+								hitbox_maxs = [ 9.99762, 7.709835, 9.523018 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger12"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger12"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -10.064445, -11.831215, -11.880722 ]
+								hitbox_maxs = [ 14.783096, 4.818214, 5.948294 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger31"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger31"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -21.145199, -17.111595, -15.16899 ]
+								hitbox_maxs = [ 26.123631, 5.722213, 17.625015 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger21"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger21"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -16.566479, -11.7966, -11.737728 ]
+								hitbox_maxs = [ 21.643623, 14.486385, 12.093853 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger22"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger22"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -10.848831, -16.153469, -8.370039 ]
+								hitbox_maxs = [ 12.812101, 3.558279, 5.243454 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger52"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger52"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -13.549618, -7.275028, -5.239775 ]
+								hitbox_maxs = [ 12.265461, 5.113731, 6.420843 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger41"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger41"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -23.130405, -9.935936, -16.931202 ]
+								hitbox_maxs = [ 24.719494, 8.72702, 16.381565 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger51"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger51"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -21.396461, -14.04369, -9.40715 ]
+								hitbox_maxs = [ 22.474079, 7.404871, 16.451077 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger42"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger42"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -8.566696, -11.577511, -4.434717 ]
+								hitbox_maxs = [ 14.200119, 4.105125, 4.708652 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_hand_finger32"
+								parent_bone = "djinn_hub1_spine1_arm1_hand_finger32"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -13.668102, -15.561386, -6.658228 ]
+								hitbox_maxs = [ 16.650892, 4.392609, 5.690409 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "body_vfx"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1"
+								parent_bone = "djinn_hub1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.109581, -52.163628, -28.06551 ]
+								hitbox_maxs = [ 46.403648, 47.361107, 35.43364 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub2"
+								parent_bone = "djinn_hub1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ 40.143669, -52.163628, -31.752262 ]
+								hitbox_maxs = [ 101.959785, 47.361107, 33.466221 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_lower1"
+								parent_bone = "djinn_hub1_spine1_arm2_lower1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -26.368774, -20.606279, -22.260811 ]
+								hitbox_maxs = [ 70.998535, 23.008614, 27.926254 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_upper1"
+								parent_bone = "djinn_hub1_spine1_arm2_upper1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -17.913025, -27.250847, -23.129997 ]
+								hitbox_maxs = [ 67.406059, 25.332047, 29.666084 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_lower1"
+								parent_bone = "djinn_hub1_spine1_arm1_lower1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -26.373703, -39.273178, -27.930908 ]
+								hitbox_maxs = [ 71.001396, 23.004898, 22.255013 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm1_upper1"
+								parent_bone = "djinn_hub1_spine1_arm1_upper1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -39.723263, -43.713585, -12.972263 ]
+								hitbox_maxs = [ 54.520714, 30.478867, 12.74794 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_clavicle"
+								parent_bone = "djinn_hub1_spine1_arm2_clavicle"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -19.743858, -14.442749, 0.703323 ]
+								hitbox_maxs = [ 32.988907, 62.87661, 47.385025 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_arm2_clavicle1"
+								parent_bone = "djinn_hub1_spine1_arm2_clavicle"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -19.743858, -8.258522, -16.437668 ]
+								hitbox_maxs = [ 37.934917, 44.707832, 60.090927 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain21"
+								parent_bone = "djinn_hub1_spine1_spine1_chain21"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -6.951725, -19.563278, -25.536335 ]
+								hitbox_maxs = [ 17.216419, 7.320557, 25.536324 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain11"
+								parent_bone = "djinn_hub1_spine1_spine1_chain11"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.602295, -10.770187, -13.425285 ]
+								hitbox_maxs = [ 23.364456, 36.992188, 8.849701 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain15_tip"
+								parent_bone = "djinn_hub1_spine1_spine1_chain15_tip"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -0.5, -0.5 ]
+								hitbox_maxs = [ 0.5, 0.5, 0.5 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain15"
+								parent_bone = "djinn_hub1_spine1_spine1_chain15"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.591782, -3.853256, -1.057106 ]
+								hitbox_maxs = [ 27.724701, 20.463943, 3.475334 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain13"
+								parent_bone = "djinn_hub1_spine1_spine1_chain13"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -11.274094, -20.981445, -5.9879 ]
+								hitbox_maxs = [ 26.916084, 7.78537, 8.327095 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain14"
+								parent_bone = "djinn_hub1_spine1_spine1_chain14"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -8.503815, -14.811602, -5.793594 ]
+								hitbox_maxs = [ 41.525177, 3.458289, 9.127625 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain21_chain12"
+								parent_bone = "djinn_hub1_spine1_spine1_chain21_chain12"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.259247, -10.681004, -5.644661 ]
+								hitbox_maxs = [ 15.272934, 5.706589, 6.126251 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain21_chain12_tip"
+								parent_bone = "djinn_hub1_spine1_spine1_chain21_chain12_tip"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -0.5, -0.5 ]
+								hitbox_maxs = [ 0.5, 0.5, 0.5 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1"
+								parent_bone = "djinn_hub1_spine1_spine1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -32.580856, -21.863102, -49.313034 ]
+								hitbox_maxs = [ 42.670792, 56.124989, 48.868164 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_t1"
+								parent_bone = "djinn_hub1_spine1_spine1_t1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -2.434067, -16.602268 ]
+								hitbox_maxs = [ 34.075684, 16.865067, 16.602306 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain31"
+								parent_bone = "djinn_hub1_spine1_spine1_chain31"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.227127, -2.720898, -5.864381 ]
+								hitbox_maxs = [ 14.99971, 2.777435, 6.078131 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain21_chain11"
+								parent_bone = "djinn_hub1_spine1_spine1_chain21_chain11"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.129211, -7.252007, -5.070599 ]
+								hitbox_maxs = [ 18.875946, 4.634483, 5.577633 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain12"
+								parent_bone = "djinn_hub1_spine1_spine1_chain12"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.5215, -8.39827, -8.433144 ]
+								hitbox_maxs = [ 41.148438, 17.857483, 6.658379 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub1_spine1_spine1_chain41"
+								parent_bone = "djinn_hub1_spine1_spine1_chain41"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.229156, -2.726091, -6.077808 ]
+								hitbox_maxs = [ 14.99971, 2.77224, 5.8647 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "djinn_hub3"
+								parent_bone = "djinn_hub1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.961967, -52.163628, -31.123564 ]
+								hitbox_maxs = [ 40.590668, 47.361107, 29.853071 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "WeightListList"
+				children = 
+				[
+					{
+						_class = "WeightList"
+						name = "trail"
+						disabled = true
+						default_weight = 0.0
+						weights = 
+						[
+							{
+								bone = "djinn_hub1_chain14"
+								weight = 1.0
+							},
+							{
+								bone = "djinn_hub1_chain15"
+								weight = 1.0
+							},
+							{
+								bone = "sven_ti7_blade"
+								weight = 0.0
+							},
+							{
+								bone = "sven_ti7_blade_tip"
+								weight = 0.0
+							},
+							{
+								bone = "sven_ti7_side_l"
+								weight = 0.0
+							},
+							{
+								bone = "wrist_l"
+								weight = 0.0
+							},
+						]
+						master_morph_weight = -1.0
+						morph_weights = [  ]
+					},
+				]
+				disabled = true
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "materials/models/items/warlock/golem/warlock_the_infernal_master_golem/warlock_the_infernal_master_golem.vmat"
+								to = "models/rebuild/creeps/chaotic_era_chaoc_form/textures/chaoc_form_evil_2.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "Softbody"
+				children = 
+				[
+					{
+						_class = "ClothChain"
+						root_bone = "djinn_hub1_chain14"
+						chain = 
+						{
+							joints = 
+							[
+								{
+									joint_name = "djinn_hub1_chain14"
+									simulate = false
+									goal_strength = 0.6
+								},
+								{
+									joint_name = "djinn_hub1_chain15"
+									joint_parent = "djinn_hub1_chain14"
+									goal_strength = 0.6
+								},
+								{
+									joint_name = "djinn_hub1_chain16"
+									joint_parent = "djinn_hub1_chain15"
+									goal_strength = 0.5
+								},
+								{
+									joint_name = "djinn_hub1_chain17"
+									joint_parent = "djinn_hub1_chain16"
+									goal_strength = 0.5
+								},
+								{
+									joint_name = "djinn_hub1_chain18"
+									joint_parent = "djinn_hub1_chain17"
+									goal_strength = 0.5
+								},
+								{
+									joint_name = "djinn_hub1_chain19"
+									joint_parent = "djinn_hub1_chain18"
+									goal_strength = 0.45
+								},
+								{
+									joint_name = "djinn_hub1_chain110"
+									joint_parent = "djinn_hub1_chain19"
+									goal_strength = 0.45
+								},
+								{
+									joint_name = "djinn_hub1_chain111"
+									joint_parent = "djinn_hub1_chain110"
+									goal_strength = 0.45
+								},
+								{
+									joint_name = "djinn_hub1_chain112"
+									joint_parent = "djinn_hub1_chain111"
+									goal_strength = 0.4
+								},
+								{
+									joint_name = "djinn_hub1_chain113"
+									joint_parent = "djinn_hub1_chain112"
+									goal_strength = 0.4
+								},
+								{
+									joint_name = "djinn_hub1_chain113_tip"
+									joint_parent = "djinn_hub1_chain113"
+									goal_strength = 0.4
+								},
+							]
+							attrs = 
+							{
+								joint_name = 
+								{
+									display = "Joint Name"
+									show = true
+									ui_order = 1
+									default = ""
+									lock = true
+								}
+								joint_parent = 
+								{
+									display = "Parent Joint"
+									show = false
+									ui_order = 2
+									default = ""
+								}
+								simulate = 
+								{
+									display = "Simulate"
+									show = true
+									ui_order = 3
+									default = true
+								}
+								allow_rotation = 
+								{
+									display = "Allow Rotation"
+									show = false
+									ui_order = 4
+									default = true
+								}
+								stretch_spring = 
+								{
+									display = "Stretch Spring"
+									show = false
+									ui_order = 5
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								child_sibling_spring = 
+								{
+									display = "Spring Between Children"
+									show = false
+									ui_order = 6
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								bend_spring = 
+								{
+									display = "Bend Spring"
+									show = false
+									ui_order = 7
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								torsion_spring = 
+								{
+									display = "Torsion Spring"
+									show = false
+									ui_order = 8
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								world_collision = 
+								{
+									display = "World Collision"
+									show = false
+									ui_order = 9
+									default = false
+								}
+								goal_strength = 
+								{
+									display = "Goal Strength"
+									show = true
+									ui_order = 10
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								goal_damping = 
+								{
+									display = "Goal Damping"
+									show = false
+									ui_order = 11
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								drag = 
+								{
+									display = "Extra Drag"
+									show = false
+									ui_order = 12
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								mass = 
+								{
+									display = "Mass"
+									show = false
+									ui_order = 13
+									default = 1.0
+									min = 0.0
+								}
+								gravity_z = 
+								{
+									display = "Gravity"
+									show = true
+									ui_order = 14
+									default = 1.0
+								}
+								collision_radius = 
+								{
+									display = "Collision Radius"
+									show = true
+									ui_order = 15
+									default = 0.0
+									min = 0.0
+								}
+								lock_translation = 
+								{
+									display = "Lock Translation"
+									show = false
+									ui_order = 16
+									default = false
+								}
+								suspender = 
+								{
+									display = "Suspender Spring"
+									show = false
+									ui_order = 17
+									default = 0.0
+								}
+								antishrink = 
+								{
+									display = "Antishrink Strength"
+									show = false
+									ui_order = 18
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								stray_radius = 
+								{
+									display = "Stray Radius"
+									show = false
+									ui_order = 19
+									default = 0.0
+									min = 0.0
+								}
+								stray_radius_stretchiness = 
+								{
+									display = "Stray Radius Stretchiness"
+									show = false
+									ui_order = 20
+									default = 0.0
+									min = 0.0
+								}
+								friction = 
+								{
+									display = "Friction"
+									show = false
+									ui_order = 21
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								vertex_map = 
+								{
+									display = "Vertex Map"
+									show = false
+									ui_order = 22
+									default = ""
+									verify = "vertex_map"
+								}
+								end_effector = 
+								{
+									display = "End Effector"
+									show = false
+									ui_order = 23
+									default = 0.0
+									lock_default_value = true
+								}
+								stiff_hinge = 
+								{
+									display = "Stiff Hinge"
+									show = false
+									ui_order = 24
+									default = 0.0
+									min = 0.0
+									max = 1.0
+									lock_root2 = true
+								}
+								stiff_hinge_angle = 
+								{
+									display = "Stiff Hinge Angle"
+									show = false
+									ui_order = 25
+									default = 0.0
+									min = 0.0
+									max = 180.0
+									lock_root2 = true
+								}
+								motion_bias = 
+								{
+									display = "Motion Bias"
+									show = false
+									ui_order = 26
+									default = 0.0
+									min = -1.0
+									max = 1.0
+									lock_root = true
+								}
+								extra_iterations = 
+								{
+									display = "Extra Iterations"
+									show = false
+									ui_order = 27
+									default = 0
+									min = 0
+									max = 1000
+								}
+								twist_relax = 
+								{
+									display = "Twist Relax"
+									show = false
+									ui_order = 28
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								extrude_sides = 
+								{
+									display = "Extrude Sides"
+									show = false
+									ui_order = 29
+									default = 0
+									min = 0
+									max = 4
+								}
+								extrude_radius = 
+								{
+									display = "Extrude Radius"
+									show = false
+									ui_order = 30
+									default = 5.0
+									min = 0.0
+								}
+								extrude_twist = 
+								{
+									display = "Extrude Twist"
+									show = false
+									ui_order = 31
+									default = 0.0
+								}
+							}
+							selection = [  ]
+							version = 1
+						}
+					},
+					{
+						_class = "ClothChain"
+						root_bone = "djinn_hub1_spine1_spine1_chain11"
+						chain = 
+						{
+							joints = 
+							[
+								{
+									joint_name = "djinn_hub1_spine1_spine1_chain11"
+									simulate = false
+									goal_strength = 0.5
+								},
+								{
+									joint_name = "djinn_hub1_spine1_spine1_chain12"
+									joint_parent = "djinn_hub1_spine1_spine1_chain11"
+									goal_strength = 0.4
+									gravity_z = -50.0
+								},
+								{
+									joint_name = "djinn_hub1_spine1_spine1_chain13"
+									joint_parent = "djinn_hub1_spine1_spine1_chain12"
+									goal_strength = 0.4
+									gravity_z = -50.0
+								},
+								{
+									joint_name = "djinn_hub1_spine1_spine1_chain14"
+									joint_parent = "djinn_hub1_spine1_spine1_chain13"
+									goal_strength = 0.3
+									gravity_z = -50.0
+								},
+								{
+									joint_name = "djinn_hub1_spine1_spine1_chain15"
+									joint_parent = "djinn_hub1_spine1_spine1_chain14"
+									goal_strength = 0.3
+									gravity_z = -50.0
+								},
+								{
+									joint_name = "djinn_hub1_spine1_spine1_chain15_tip"
+									joint_parent = "djinn_hub1_spine1_spine1_chain15"
+									goal_strength = 0.2
+									gravity_z = -50.0
+								},
+							]
+							attrs = 
+							{
+								joint_name = 
+								{
+									display = "Joint Name"
+									show = true
+									ui_order = 1
+									default = ""
+									lock = true
+								}
+								joint_parent = 
+								{
+									display = "Parent Joint"
+									show = false
+									ui_order = 2
+									default = ""
+								}
+								simulate = 
+								{
+									display = "Simulate"
+									show = true
+									ui_order = 3
+									default = true
+								}
+								allow_rotation = 
+								{
+									display = "Allow Rotation"
+									show = false
+									ui_order = 4
+									default = true
+								}
+								stretch_spring = 
+								{
+									display = "Stretch Spring"
+									show = false
+									ui_order = 5
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								child_sibling_spring = 
+								{
+									display = "Spring Between Children"
+									show = false
+									ui_order = 6
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								bend_spring = 
+								{
+									display = "Bend Spring"
+									show = false
+									ui_order = 7
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								torsion_spring = 
+								{
+									display = "Torsion Spring"
+									show = false
+									ui_order = 8
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								world_collision = 
+								{
+									display = "World Collision"
+									show = false
+									ui_order = 9
+									default = false
+								}
+								goal_strength = 
+								{
+									display = "Goal Strength"
+									show = true
+									ui_order = 10
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								goal_damping = 
+								{
+									display = "Goal Damping"
+									show = false
+									ui_order = 11
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								drag = 
+								{
+									display = "Extra Drag"
+									show = false
+									ui_order = 12
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								mass = 
+								{
+									display = "Mass"
+									show = false
+									ui_order = 13
+									default = 1.0
+									min = 0.0
+								}
+								gravity_z = 
+								{
+									display = "Gravity"
+									show = true
+									ui_order = 14
+									default = 1.0
+								}
+								collision_radius = 
+								{
+									display = "Collision Radius"
+									show = true
+									ui_order = 15
+									default = 0.0
+									min = 0.0
+								}
+								lock_translation = 
+								{
+									display = "Lock Translation"
+									show = false
+									ui_order = 16
+									default = false
+								}
+								suspender = 
+								{
+									display = "Suspender Spring"
+									show = false
+									ui_order = 17
+									default = 0.0
+								}
+								antishrink = 
+								{
+									display = "Antishrink Strength"
+									show = false
+									ui_order = 18
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								stray_radius = 
+								{
+									display = "Stray Radius"
+									show = false
+									ui_order = 19
+									default = 0.0
+									min = 0.0
+								}
+								stray_radius_stretchiness = 
+								{
+									display = "Stray Radius Stretchiness"
+									show = false
+									ui_order = 20
+									default = 0.0
+									min = 0.0
+								}
+								friction = 
+								{
+									display = "Friction"
+									show = false
+									ui_order = 21
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								vertex_map = 
+								{
+									display = "Vertex Map"
+									show = false
+									ui_order = 22
+									default = ""
+									verify = "vertex_map"
+								}
+								end_effector = 
+								{
+									display = "End Effector"
+									show = false
+									ui_order = 23
+									default = 0.0
+									lock_default_value = true
+								}
+								stiff_hinge = 
+								{
+									display = "Stiff Hinge"
+									show = false
+									ui_order = 24
+									default = 0.0
+									min = 0.0
+									max = 1.0
+									lock_root2 = true
+								}
+								stiff_hinge_angle = 
+								{
+									display = "Stiff Hinge Angle"
+									show = false
+									ui_order = 25
+									default = 0.0
+									min = 0.0
+									max = 180.0
+									lock_root2 = true
+								}
+								motion_bias = 
+								{
+									display = "Motion Bias"
+									show = false
+									ui_order = 26
+									default = 0.0
+									min = -1.0
+									max = 1.0
+									lock_root = true
+								}
+								extra_iterations = 
+								{
+									display = "Extra Iterations"
+									show = false
+									ui_order = 27
+									default = 0
+									min = 0
+									max = 1000
+								}
+								twist_relax = 
+								{
+									display = "Twist Relax"
+									show = false
+									ui_order = 28
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								extrude_sides = 
+								{
+									display = "Extrude Sides"
+									show = false
+									ui_order = 29
+									default = 0
+									min = 0
+									max = 4
+								}
+								extrude_radius = 
+								{
+									display = "Extrude Radius"
+									show = false
+									ui_order = 30
+									default = 5.0
+									min = 0.0
+								}
+								extrude_twist = 
+								{
+									display = "Extrude Twist"
+									show = false
+									ui_order = 31
+									default = 0.0
+								}
+							}
+							selection = [  ]
+							version = 1
+						}
+					},
+				]
+				stiffness_on_ragdoll = 0.0
+				cloth_sleep_enabled = false
+				cloth_per_bone_scale_enabled = false
+				cloth_enable_empty_model = false
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "particle_cfg"
+						game_keys = 
+						{
+							name = resource:"models/rebuild/creeps/chaotic_era_chaoc_form/particles/ambient/lightning_1/effectbits.vpcf"
+							config = "preview"
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "particle_cfg"
+						game_keys = 
+						{
+							name = resource:"models/rebuild/creeps/chaotic_era_chaoc_form/particles/ambient/lightning_2/effectbolt_cable.vpcf"
+							config = "preview"
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "particle_cfg"
+						game_keys = 
+						{
+							name = resource:"models/rebuild/creeps/chaotic_era_chaoc_form/particles/ambient/lightning_3/effectbolt_cable.vpcf"
+							config = "preview"
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

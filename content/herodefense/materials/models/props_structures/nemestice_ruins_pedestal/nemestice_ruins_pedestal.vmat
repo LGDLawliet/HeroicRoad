@@ -1,0 +1,36 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "global_lit_simple.vfx"
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Specular ----
+	F_SPECULAR 1
+
+	//---- Tint Mask ----
+	F_TINT_MASK 1
+
+	//---- Color ----
+	g_vColorTint "[0.886275 0.717647 0.525490 1.000000]"
+	g_vColorTint2 "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "materials/models/props_structures/nemestice_ruins_pedestal/nemestice_ruins_pedestal_color.psd"
+	TextureTintMask "materials/models/props_structures/nemestice_ruins_pedestal/nemestice_ruins_pedestal_mask.psd"
+
+	//---- Normal Map ----
+	g_flBumpStrength "1.000"
+	TextureNormal "materials/default/default_normal.tga"
+
+	//---- Self Illum ----
+	TextureSelfIllumMask "[0.500000 0.500000 0.500000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularBloom "0.000"
+	g_flSpecularIntensity "0.250"
+	TextureBloom "[0.105000 0.105000 0.105000 0.000000]"
+	TextureReflectance "materials/models/props_structures/nemestice_ruins_pedestal/nemestice_ruins_pedestal_specmask.tga"
+}

@@ -1,0 +1,449 @@
+#GameContestinfo{
+    /* 加入滚动 */
+   /* overflow:squish scroll;   */
+   /* overflow-y:hidden; */
+   /* flow-children: right-wrap; */
+   /* 标记位置  */
+   height: 100%;
+   width: 100%;
+   z-index: 5;
+   /* flow-children: right-wrap; */
+   /* background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123)); */
+   /* box-shadow: rgb(88, 88, 88) 0px 0px 5px 0px; */
+   /* margin-top: 150px; */
+   /* margin-left: 10px; */
+
+}
+#GameContestinfo {
+    visibility: collapse;
+}
+#GameContestinfo.Visible {
+    visibility: visible;
+}
+
+#RankTitle,
+#SpeedContestTitle{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 34px;
+    height: 46px;
+    width: 100%;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: 0px;
+  /* box-shadow: rgb(14, 57, 77) 0px 0px 5px 0px; */
+    text-align: center;
+    /* padding-top: 6px; */
+    /* background-color:gradient( linear, 0% 50%, 80% 50%, from( #0f565f ), color-stop( 0.8, #0e3d5c ), color-stop( .9, #0b1d5a), to( #111111 )); */
+    color: gradient(linear, 0% 0%, 0% 90%, from(#878b8b), to(#aabec4));
+    z-index: 5;
+    brightness: 0.9;
+}
+
+#ContestInfoButton{
+    align: center top;
+    margin-left: 350px;
+    background-image: url("s2r://panorama/images/hud/reborn/aghsstatus_shard_on_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 5;
+    padding: 20px;
+    border-radius: 70%;
+    brightness: 0.4;
+}
+#ContestInfoButton:hover{
+    brightness: 1.9;
+}
+
+
+#SpeedContestinfo{
+    height: 100%;
+    width: 100%;
+
+}
+
+
+#Rank{
+    height: 95%;
+    width: 6%;
+    margin-top: 5%;
+    flow-children: down-wrap;
+}
+
+
+
+#Rank_player_1{
+    height: 95%;
+    width: 10%;
+    margin-top: 5%;
+    margin-left:7%;
+    flow-children: down-wrap;
+}
+#Rank_player_2{
+    height: 95%;
+    width: 10%;
+    margin-top: 5%;
+    margin-left: 20%;
+    flow-children: down-wrap;
+}
+#Rank_player_3{
+    height: 95%;
+    width: 15%;
+    margin-top: 5%;
+    margin-left: 35%;
+    flow-children: down-wrap;
+}
+#Rank_player_4{
+    height: 95%;
+    width: 15%;
+    margin-top: 5%;
+    margin-left: 55%;
+    flow-children: down-wrap;
+}
+#Rank_player_5{
+    height: 95%;
+    width: 20%;
+    margin-top: 5%;
+    margin-left: 75%;
+    flow-children: down-wrap;
+}
+
+#RankTitle{
+    font-size: 20px;
+    height: 3%;
+}
+
+.RankClass {
+    align: center top;
+    /* horizontal-align:center; */
+    /* margin-left: 40%; */
+    height: 40px;
+    margin-top: 1%;
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    /* background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_5_png.vtex"); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 0;
+    padding: 20px;
+    border-radius: 100%;
+}
+.PlayerRankClass{
+    height: 40px;
+    width: 100%;
+    margin-top: 1%;
+    flow-children: right-wrap;
+}
+.PlayerImage{
+    height: 50px;
+    width: 42px;
+    box-shadow: rgba(40, 65, 75, 0.263) 0px 0px 10px 0px;
+
+}
+
+
+.RankInfo{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 34px;
+    height: 40px;
+    width: 100%;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center center;
+    margin-bottom: 0px;
+  /* box-shadow: rgb(14, 57, 77) 0px 0px 5px 0px; */
+    text-align: center;
+    /* padding-top: 6px; */
+    /* background-color:gradient( linear, 0% 50%, 80% 50%, from( rgb(65, 65, 65) ), color-stop( 0.8, #3f3f3f ), color-stop( .9, #0b1d5a), to( #111111 )); */
+    color: gradient(linear, 0% 0%, 0% 90%, from(#005374), to(#aabec4));
+    z-index: 5;
+    brightness: 0.9;
+}
+
+
+
+
+
+#Rank1 {
+    /* background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_5_png.vtex"); */
+    background-image: url("s2r://panorama/images/rank_tier_icons/rank8c_psd.vtex");
+    
+
+}
+#Rank2 {
+    /* background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_4_png.vtex"); */
+    background-image: url("s2r://panorama/images/rank_tier_icons/rank8b_psd.vtex");
+}
+#Rank3 {
+    /* background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_3_png.vtex"); */
+    background-image: url("s2r://panorama/images/rank_tier_icons/rank8_psd.vtex");
+}
+#Rank4 {
+    /* background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_2_png.vtex"); */
+    background-image: url("s2r://panorama/images/rank_tier_icons/rank7_psd.vtex");
+}
+#Rank5 {
+    /* background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_1_png.vtex"); */
+    background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_5_png.vtex");
+}
+#Rank6 {
+    /* background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_0_png.vtex"); */
+       background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_4_png.vtex");
+}
+#Rank7 {
+    /* background-image: url("s2r://panorama/images/badges/international_2017_battle_pass_badge_4_png.vtex"); */
+    background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_3_png.vtex");
+}
+#Rank8 {
+    /* background-image: url("s2r://panorama/images/badges/international_2017_battle_pass_badge_3_png.vtex"); */
+        background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_2_png.vtex");
+}
+
+#Rank9 {
+    /* background-image: url("s2r://panorama/images/badges/international_2017_battle_pass_badge_2_png.vtex"); */
+    background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_1_png.vtex");
+}
+#Rank10 {
+    /* background-image: url("s2r://panorama/images/badges/international_2017_battle_pass_badge_1_png.vtex"); */
+    background-image: url("s2r://panorama/images/hero_badges/hero_badge_rank_0_png.vtex");
+}
+
+
+
+
+#RankBGFX{
+    width: 100%;
+    height: 100%;
+    pre-transform-scale2d: 2.2;
+    /* blur: gaussian(3px); */
+    horizontal-align: center;
+    vertical-align: middle;
+    /* opacity: 0; */
+    z-index: 100;
+    /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+	border-radius: 4px;
+	hue-rotation:0deg;
+    wash-color: #000000;
+    transition-property: hue-rotation,opacity, wash-color, pre-transform-scale2d;
+    transition-duration: 2.32s, 1.5s, 2.9s;
+    transition-timing-function: ease-in;
+    /* visibility: collapse; */
+    pre-transform-scale2d: 1;
+
+}
+#RankBGFX.SceneLoaded{wash-color: rgb(255, 255, 255);}
+
+
+#NextPage {
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/right_arrow_double_active.png");
+    /* background-image: url("s2r://panorama/images/control_icons/icon_hero_next_arrow_png.vtex"); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 50px;
+    height: 46px;
+    horizontal-align:right;
+    vertical-align: bottom;
+    transform: scaleX(1);
+    wash-color:#4e5152;
+    margin-bottom: 10px;
+    margin-right:10px;
+
+    transition-property:wash-color,transform,margin-left ;
+    transition-duration:0.3s ;
+    transition-timing-function:ease-in-out;
+    saturation:0.5;
+}
+
+#NextPage:hover{
+    wash-color:#9db1b7;
+    margin-left: 0px;
+}
+#NextPage:active{
+    brightness: 0.5;
+}
+
+
+
+.TeamDataFxPanel{
+    width: 50%;
+    height: 50%;
+}
+
+
+
+#SpecificTeamDataRoot{
+    width: 100%;
+    height: 87%;
+    align: right bottom;
+    transition-property: opacity;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+
+
+
+}
+
+
+#TeamDataFxPanel2{
+    width: 100%;
+    height: 100%;
+
+    wash-color: #ffffff;
+    transition-property: opacity, wash-color, pre-transform-scale2d;
+    transition-duration: 0.32s, 1.5s, 1.9s;
+    transition-timing-function: ease-in;
+    pre-transform-scale2d: 1;
+    blur: gaussian(5px);
+    wash-color: rgb(0, 0, 0);
+    opacity: 0.01;
+}
+#TeamDataFxPanel2.SceneLoaded{wash-color: rgba(17, 0, 58, 0.283);}
+
+
+#SpecificTeamDataPanel{
+    width: 100%;
+    height: 100%;
+    flow-children: down-wrap;
+}
+
+.SpecificHeroDataPanel{
+    width: 70%;
+    height: 18%;
+    margin-top: 5px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 4px 0px inset;
+    /* background-color: rgba(43, 43, 43, 0.55);  */
+    flow-children: right-wrap;
+
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/player_panel_active.png");
+    background-size: 120% 125%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-img-opacity: 0.13;
+    border:1px solid rgba(33, 0, 89, 0.2);
+}
+
+.HeroDataPlayerImage{
+    width: 100px;
+    height: 100px;
+    align: left center;
+    box-shadow: rgb(0, 0, 0) 0px 0px 18px 5px;
+    margin-left: 1%;
+}
+.HeroImage{
+    width: 80px;
+    height: 50px;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-right:3px;
+    align: left center;
+}
+
+/* 玩家技能面板 */
+.PlayerSpellDataPanel{
+    width: 70%;
+    height: 40%;
+    align: left center;
+    flow-children: right-wrap;
+}
+
+.PlayerSpellSinglePanel{
+    width: 50px;
+    height: 70px;
+    flow-children: down-wrap;
+}
+.PlayerHeroImageSinglePanel{
+    width: 80px;
+    height: 70px;
+    align: left center;
+    flow-children: down-wrap;
+}
+.singlePlayerSpell{
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+}
+
+.playerHeroLevel,
+.playerSpellLevel{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 14px;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center center;
+    text-align: center;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#aabec4));
+    brightness: 0.9;
+}
+
+/* 玩家道具面板 */
+.PlayerItemDataPanel{
+    width: 70%;
+    height: 40%;
+    align: left center;
+    flow-children: right-wrap;
+}
+
+.singlePlayerItem{
+    width: 50px;
+    height: 40px;
+    margin-left: 5px;
+}
+
+.PlayerSpellAndItemDataPanel{
+    width: 70%;
+    height: 100%;
+    flow-children: down-wrap;
+}
+
+
+#ClosePlayerDataButton{
+    align: right top;
+    margin-right: 1%;
+    margin-top: 10px;
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    background-image: url("s2r://panorama/images/control_icons/quit_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index:5;
+    padding: 20px;
+    /* border-radius: 50%; */
+    wash-color:#818181;
+    pre-transform-scale2d: 1;
+    transition-property: brightness,wash-color;
+    transition-duration: 0.32s, 0.5s, 0.7s;
+    transition-timing-function: ease-in;
+}
+
+#ClosePlayerDataButton:hover{
+    brightness:1.9;
+    wash-color:#bd5e5e;
+}
+
+#SpecificTeamDataRoot {
+    /* visibility: collapse; */
+    opacity: 0;
+}
+#SpecificTeamDataRoot.Visible {
+    /* visibility: visible; */
+    opacity: 1;
+}
+
+.SpecificHeroDataPanel {
+    visibility: collapse;
+}
+.SpecificHeroDataPanel.Visible {
+    visibility: visible;
+}
+
+.PlayerRankClass {
+    visibility: collapse;
+}
+.PlayerRankClass.Visible {
+    visibility: visible;
+}

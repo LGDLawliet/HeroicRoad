@@ -1,0 +1,260 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc32:version{c5dcef98-b629-46ab-88e3-a17c005c935e} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "l_test1"
+						filename = "models/rebuild/earthspirit/earthspirit_base_mesh.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimBindPose"
+						name = "bind_pose"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+					},
+					{
+						_class = "AnimIncludeModel"
+						model = "models/heroes/brewmaster/brewmaster_earthspirit.vmdl"
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "BoneMarkupList"
+				bone_cull_type = "None"
+				primary_root_bone = ""
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "root"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "thumb_0_r"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "root1"
+								parent_bone = "root"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -32.930649, -36.12365, -51.313507 ]
+								hitbox_maxs = [ 33.130676, 36.12368, 28.434633 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "neck1"
+								parent_bone = "neck1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.694252, -22.195766, -16.698608 ]
+								hitbox_maxs = [ 12.198151, 22.195744, 22.448158 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "righthip0_jnt"
+								parent_bone = "righthip0_jnt"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -60.307518, -19.411083, -28.516632 ]
+								hitbox_maxs = [ 6.555719, 31.779278, 32.602669 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "lefthip0_jnt"
+								parent_bone = "lefthip0_jnt"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -6.555695, -31.779285, -32.602654 ]
+								hitbox_maxs = [ 51.88932, 19.411037, 28.516644 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "clavicle_r"
+								parent_bone = "clavicle_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.085831, -22.688477, -17.00058 ]
+								hitbox_maxs = [ 15.7561, 28.378166, 13.50634 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "clavicle_l"
+								parent_bone = "clavicle_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.616142, -28.378199, -13.506401 ]
+								hitbox_maxs = [ 42.085831, 22.688459, 17.000473 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spine1"
+								parent_bone = "spine1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.597923, -31.851376, -31.157352 ]
+								hitbox_maxs = [ 31.390396, 31.851368, 27.358967 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "wrist_r"
+								parent_bone = "wrist_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -18.643959, -6.565672, -9.953629 ]
+								hitbox_maxs = [ 0.5, 5.937323, 8.866776 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "elbow_l"
+								parent_bone = "elbow_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.923462, -14.477142, -16.706566 ]
+								hitbox_maxs = [ 40.481468, 13.338402, 19.037201 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "elbow_r"
+								parent_bone = "elbow_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.481625, -13.338451, -19.037575 ]
+								hitbox_maxs = [ 12.92337, 14.477081, 16.706184 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "wrist_l"
+								parent_bone = "wrist_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -5.93697, -8.866898 ]
+								hitbox_maxs = [ 18.644077, 6.566059, 9.953526 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "WeightListList"
+				children = 
+				[
+					{
+						_class = "WeightList"
+						name = "trail"
+						default_weight = 0.0
+						weights = 
+						[
+							{
+								bone = "sven_ti7_blade"
+								weight = 0.0
+							},
+							{
+								bone = "sven_ti7_blade_tip"
+								weight = 0.0
+							},
+							{
+								bone = "sven_ti7_side_l"
+								weight = 0.0
+							},
+							{
+								bone = "wrist_l"
+								weight = 0.0
+							},
+						]
+						master_morph_weight = -1.0
+						morph_weights = [  ]
+					},
+				]
+				disabled = true
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "materials/models/heroes/brewmaster/earthspirit_body_color.vmat"
+								to = "models/rebuild/earthspirit/earthspirit_override_materials.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

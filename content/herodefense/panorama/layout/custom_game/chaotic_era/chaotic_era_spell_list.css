@@ -1,0 +1,237 @@
+#ChaoticEraSpellsListPanel {
+  height: 350px;
+  /* background-color: rgba(35, 35, 43, 0.8); */
+  padding-bottom: 10px;
+  border-radius: 4px;
+  align: center top;
+  margin-top: 100px;
+  /* background-blur: gaussian(105); */
+  transition-property: width, transform, opacity;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+  min-width: 700px;
+  opacity: 0;
+  transform: translateX(0px) translateY(200px);
+}
+#ChaoticEraSpellsListPanel.show_state {
+  opacity: 1;
+  transform: translateX(0px) translateY(0px);
+}
+#ChaoticEraSpellsListPanel #ChaoticEraSpellsList_BG {
+  width: 100%;
+  height: 100%;
+  background-image: url("s2r://panorama/images/dota_plus/dota_plus_background_texture_large_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  /* opacity: 0.99; */
+  saturation: 0.5;
+  border: 2px solid #181818;
+  /* border-right:4px solid rgb(24, 24, 24); */
+  /* border-bottom:0px solid white; */
+  border-brush: gradient(linear, 0% 0%, 0% 100%, from(#C2CED4), to(#727D81));
+}
+#ChaoticEraSpellsListPanel #ChaoticEraSpellsList_Title {
+  height: 36px;
+  width: 100%;
+}
+#ChaoticEraSpellsListPanel #ChaoticEraSpellsList_Title #ChaoticEraSpellsList_TitleBG {
+  height: 100%;
+  width: 100%;
+  background-image: url("s2r://panorama/images/dota_plus/weekly_reward_button_psd.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  saturation: 0.5;
+  wash-color: rgba(0, 0, 0, 0.705);
+}
+#ChaoticEraSpellsListPanel #ChaoticEraSpellsList_Title #ChaoticEraSpellsLisTitle {
+  color: #ffffffff;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 24px;
+  height: 36px;
+  width: 100%;
+  text-shadow: 2px 2px 4px 2 #00000090;
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 8px;
+  text-align: center;
+  padding-top: 6px;
+}
+#ChaoticEraSpellsListPanel #ChaoticEraSpellsListContainer {
+  max-width: 1500px;
+  height: 190px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 60px;
+  align: center top;
+  flow-children: right-wrap;
+  overflow: squish scroll;
+}
+#ChaoticEraSpellsListPanel #chaotic_era_spellList_buttonList {
+  align: center bottom;
+  flow-children: right;
+}
+#ChaoticEraSpellsListPanel #chaotic_era_spellList_buttonList .golden {
+  box-shadow: rgba(249, 255, 164, 0.475) 0px 0px 3px 0px;
+  background-color: gradient(linear, 0% 0%, 0% 100%, from(#21221c), to(#5f6533));
+  border-brush: gradient(linear, 0% 0%, 0% 100%, from(#f7e7b573), to(#f7e7b5b0));
+}
+#ChaoticEraSpellsListPanel #chaotic_era_spellList_buttonList .blue {
+  box-shadow: rgba(164, 241, 255, 0.475) 0px 0px 3px 0px;
+  background-color: gradient(linear, 0% 0%, 0% 100%, from(#1c1f22), to(#335865));
+  border-brush: gradient(linear, 0% 0%, 0% 100%, from(#b5f3f773), to(#b5ecf7b0));
+}
+#ChaoticEraSpellsListPanel #chaotic_era_spellList_buttonList .red {
+  background-color: gradient(linear, 0% 0%, 0% 100%, from(#221d1c), to(#653333));
+  border-brush: gradient(linear, 0% 0%, 0% 100%, from(#f7d1b573), to(#f7c0b5b0));
+}
+#ChaoticEraSpellsListPanel #chaotic_era_spellList_buttonList #rerollSpellButton1 {
+  opacity: 0;
+  width: 0px;
+}
+#ChaoticEraSpellsListPanel #chaotic_era_spellList_buttonList #rerollSpellButton1.show {
+  width: 200px;
+  opacity: 1;
+}
+#ChaoticEraSpellsListPanel #chaotic_era_spellList_buttonList #rerollSpellButton2 {
+  opacity: 0;
+  width: 0px;
+}
+#ChaoticEraSpellsListPanel #chaotic_era_spellList_buttonList #rerollSpellButton2.show {
+  width: 200px;
+  opacity: 1;
+}
+#ChaoticEraSpellsList_Mask {
+  width: 100%;
+  height: 100%;
+}
+#ChaoticEraSpellsList_Mask.hidden {
+  opacity: 0;
+}
+.single_general_spell {
+  flow-children: down;
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-top: 10px;
+  padding: 2px;
+  background-color: rgba(28, 28, 28, 0.99);
+  border-radius: 5px;
+  /* border:2px solid rgb(87, 87, 87); */
+  border: 2px solid #61604f;
+  border-brush: gradient(linear, 0% 0%, 0% 100%, from(#C2CED4), to(#727D81));
+  transition-property: brightness, box-shadow;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
+.single_general_spell.active {
+  box-shadow: #351f48 0px 0px 30px 0px;
+  brightness: 2;
+}
+#single_general_spellButton {
+  border-radius: 5px;
+  border: 2px solid #313131;
+}
+#single_general_spellButton:hover {
+  brightness: 2.4;
+}
+.spell_info_label {
+  align: center center;
+  color: #e1e1e1;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  height: 17px;
+  font-family: titleFont;
+  /* width: fill-parent-flow(1.0); */
+  text-overflow: shrink;
+  letter-spacing: 0.5px;
+  text-shadow: 2px 2px 0px 1 #00000090;
+  /* text-transform: uppercase; */
+  font-weight: semi-bold;
+  box-shadow: #141414 0px 0px 3px 0px;
+}
+.generalChaoticEraButton {
+  background-color: gradient(linear, 0% 0%, 0% 100%, from(#1c1c22), to(#131422));
+  border: 1px solid #545454;
+  border-brush: gradient(linear, 0% 0%, 0% 100%, from(#f7e7b573), to(#f7e7b519));
+  width: 200px;
+  transition-property: brightness;
+  border-radius: 3px;
+  padding: 10px 28px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+  transition-property: brightness, pre-transform-scale2d;
+  transition-duration: 0.1s;
+  transition-timing-function: ease-in-out;
+  margin: 20px;
+}
+.generalChaoticEraButton:hover {
+  brightness: 2;
+}
+.generalChaoticEraButton:active {
+  brightness: 3;
+  pre-transform-scale2d: 1.1;
+}
+.generalChaoticEraButton > Label {
+  color: #FFFFFF;
+  font-size: 15px;
+  text-align: center;
+  text-overflow: shrink;
+  opacity: 0.8;
+}
+#ConfirmSpellListButton {
+  opacity: 0.3;
+}
+#ConfirmSpellListButton.active {
+  opacity: 1;
+}
+.GeneralButtonLabel {
+  font-weight: semi-bold;
+  horizontal-align: center;
+  vertical-align: middle;
+  text-shadow: 0px 1px 6px #00000088;
+  letter-spacing: 1px;
+  height: 20px;
+}
+#ShowSpellsListButton {
+  width: 100px;
+  height: 70px;
+  /* box-shadow: 0px 2px 8px rgba(0, 0, 0, 1); */
+  align: center center;
+  margin-top: 450px;
+  z-index: -1;
+  opacity: 0;
+  pre-transform-scale2d: 0;
+  transition-property: pre-transform-scale2d, opacity;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
+#ShowSpellsListButton.show_state {
+  opacity: 1;
+  pre-transform-scale2d: 1;
+}
+/* s2r://panorama/images/custom_game/chaotic_era/arrow_top.png */
+#ShowSpellsListButton:hover {
+  brightness: 2;
+  pre-transform-scale2d: 1.1;
+}
+#ShowSpellsListButton #ShowSpellsListButtonLabel {
+  color: #FFFFFF;
+  font-size: 15px;
+  text-align: center;
+  text-overflow: shrink;
+  opacity: 0.8;
+  font-weight: semi-bold;
+  horizontal-align: center;
+  vertical-align: top;
+  text-shadow: 0px 1px 6px #00000088;
+  letter-spacing: 1px;
+  height: 20px;
+}
+#ShowSpellsListButton_image {
+  width: 100%;
+  height: 50px;
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/arrow_top_png.vtex");
+  background-size: 100% 100%;
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  margin-top: 20px;
+}

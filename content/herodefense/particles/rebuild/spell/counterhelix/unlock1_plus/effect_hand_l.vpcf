@@ -1,0 +1,40 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+		},
+	]
+	m_nBehaviorVersion = 12
+	m_nFirstMultipleOverride_BackwardCompat = 4
+	m_ConstantColor = [ 255, 0, 0, 255 ]
+	m_ConstantNormal = [ 1.0, 0.0, 0.0 ]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/counterhelix/unlock1_plus/effect_hand_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/counterhelix/unlock1_plus/effect_hand_ember.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/counterhelix/unlock1_plus/effect_hand_fire.vpcf"
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_vecCP1Pos = [ 0.0, 0.0, 0.0 ]
+			m_nHeadLocation = 2
+		},
+		{
+			_class = "C_OP_SetControlPointOrientation"
+			m_nHeadLocation = 2
+		},
+	]
+}

@@ -1,0 +1,605 @@
+/* @import url("file://{resources}styles/battle_pass/international2018/bp_international2018_shared.css"); */
+
+
+.CustomHudRoot
+{
+    width: 100%;
+    height: 100%;
+}
+
+.CustomHudContents
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+#RoomDiscoverPanel
+{
+	height: 260px;
+	width: 800px;
+
+	horizontal-align: middle;
+	vertical-align: top;
+
+	margin-top: 60px;
+}
+
+#RoomDiscoverLabels
+{
+	width: 100%;
+	height: 100%;
+	flow-children: down;
+	margin-left: 180px;
+	text-transform: uppercase;
+}
+
+#RoomDiscoverStrip
+{
+	width: 0px;
+	horizontal-align: center;
+    
+	vertical-align: middle;
+	
+	margin-top: 40px;
+    padding: 10px 0 4px 0;
+	pre-transform-scale2d: 0.8;
+	background-color: gradient( linear, 0% 0%, 100% 0%, from( #00000000 ), color-stop(0.2, #00000090), color-stop(0.4, #000000EF), color-stop(0.6, #000000EF), color-stop(0.8, #00000090), to( #00000000 ) );	
+	
+	transition-property: width, pre-transform-scale2d, opacity;
+	transition-duration: 0.32s;
+	transition-timing-function: ease-in-out;
+}
+
+.RoomText
+{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.RoomDifficulty
+{
+    margin-top: 10px;
+    horizontal-align: center;
+}
+
+#RoomDiscoverPanel.Visible #RoomDiscoverStrip
+{
+	width: 700px;
+	pre-transform-scale2d: 1;
+	transition-delay: .12s;
+}
+
+#RoomDiscoverPanel.Visible
+{
+	visibility: visible;
+}
+
+
+#RoomDiscoverLabel,
+#EncounterNameLabel
+{
+	text-transform: uppercase;
+	horizontal-align: left;
+	vertical-align: center;
+	text-align: center;
+	
+	transition-property: pre-transform-scale2d, opacity, color, transform;
+	transition-duration: .22s;
+	transition-delay: .12s;
+	transition-timing-function: ease-out;	
+}
+
+.EncounterLabelHeader
+{
+	text-shadow: 0px 6px 0px 2.0 #000000;
+    text-transform: uppercase;
+}
+
+#RoomDiscoverPanel.Visible #RoomDiscoverLabel
+{
+	opacity: 1;
+	pre-transform-scale2d: 1;
+	transition-delay: 0s;
+}
+
+#EncounterNameLabel
+{
+	text-transform: uppercase;
+}
+
+#RoomDiscoverPanel.Visible #RoomDiscoverLabel
+{
+	opacity: 1;
+	color: white;
+	transform: translateX( 0px );
+	transition-delay: 0s;
+}
+
+/* 动画 */
+#EncounterArt
+{
+    background-size: cover;
+	width: 256px;
+	height: 64px;
+	margin-top: 175px;
+	margin-left: 0px;
+	opacity: 0;
+	pre-transform-scale2d: .2;
+	horizontal-align: center;
+	
+	transition-property: width, pre-transform-scale2d, opacity;
+	transition-duration: .32s;
+	transition-timing-function: ease-in-out;	
+}
+
+/* 图片 */
+#RoomDiscoverPanel.Visible #EncounterArt
+{
+	opacity: 1;
+	pre-transform-scale2d: 1;
+}
+
+#RoomDiscoverPanel.Difficulty1 #EncounterArt
+{ 
+	background-image: url("s2r://panorama/images/interface/room_difficulty_1.png");	
+}
+
+#RoomDiscoverPanel.Difficulty2 #EncounterArt
+{ 
+	background-image: url("s2r://panorama/images/interface/room_difficulty_5.png");	
+}
+
+#RoomDiscoverPanel.Difficulty3 #EncounterArt
+{ 
+	background-image: url("s2r://panorama/images/interface/room_difficulty_6.png");	
+}
+
+#RoomDiscoverPanel.Difficulty4 #EncounterArt
+{ 
+	background-image: url("s2r://panorama/images/interface/room_difficulty_4.png");	
+}
+
+.EncounterLabelHeader
+{
+	width: 100%;
+    height: 35px;
+    text-overflow: clip;
+    text-align: center;
+    text-shadow: 1px 1px 2px 2.0 #00000011;
+    color: gradient( linear, 0% 0%, 0% 100%, from( #ffffff ), to( #05dbeb ) );	
+  	text-transform: uppercase;
+   	font-size: 30px;
+}
+
+
+
+/* -----------------波数显示----------------------------------- */
+
+
+.WaveRootPanel
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+#WaveDiscoverPanel
+{
+	height: 560px;
+	width: 800px;
+	horizontal-align: middle;
+	vertical-align: top;
+	margin-top: -7px;
+	margin-left: 80%;
+}
+
+#WaveEncounterNameLabel
+{
+	width: 100%;
+	height: 100%;
+	flow-children: down;
+	/* margin-left: 180px; */
+	/* text-transform: uppercase; */
+}
+
+#WaveDiscoverStrip
+{
+	width: 800px;
+	height: 40px;
+	horizontal-align: center;
+    
+	vertical-align: top;
+	margin-left: 00px;
+	margin-top: 32px;
+    padding: 10px 0 4px 0;
+	pre-transform-scale2d: 0.8;
+	background-color: gradient( linear, 0% 0%, 100% 0%, from( #00000000 ), color-stop(0.2, #00000090), color-stop(0.4, #000000EF), color-stop(0.6, #000000EF), color-stop(0.8, #00000090), to( #00000000 ) );	
+	
+	transition-property: width, pre-transform-scale2d, opacity;
+	transition-duration: 0.32s;
+	transition-timing-function: ease-in-out;
+}
+
+#WaveDiscoverStrip2 {
+    visibility: collapse;
+}
+#WaveDiscoverStrip2.Visible {
+    visibility: visible;
+}
+#WaveDiscoverStrip2
+{
+	width: 800px;
+	height: 40px;
+	horizontal-align: center;
+    
+	vertical-align: top;
+	margin-left: 00px;
+	margin-top: 64px;
+    padding: 10px 0 4px 0;
+	pre-transform-scale2d: 0.8;
+	background-color: gradient( linear, 0% 0%, 100% 0%, from( #00000000 ), color-stop(0.2, #00000090), color-stop(0.4, #000000EF), color-stop(0.6, #000000EF), color-stop(0.8, #00000090), to( #00000000 ) );	
+	
+	transition-property: width, pre-transform-scale2d, opacity;
+	transition-duration: 0.32s;
+	transition-timing-function: ease-in-out;
+}
+
+#WaveEncounterNameLabel2
+{
+	text-transform: uppercase;
+	horizontal-align: left;
+	vertical-align: center;
+	text-align: left;
+	/* opacity:0.3; */
+	color: rgb(181, 204, 235);
+	font-size: 20px;
+	transition-property: pre-transform-scale2d, opacity, color, transform;
+	transition-duration: .22s;
+	transition-delay: .12s;
+	transition-timing-function: ease-out;	
+}
+
+
+
+
+.WaveRoomText
+{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+#WaveEncounterNameLabel
+{
+	text-transform: uppercase;
+	horizontal-align: left;
+	vertical-align: center;
+	text-align: left;
+	/* opacity:0.3; */
+	color: rgb(181, 204, 235);
+	font-size: 20px;
+	/* transition-property: pre-transform-scale2d, opacity, color, transform; */
+	transition-duration: .22s;
+	transition-delay: .12s;
+	transition-timing-function: ease-out;	
+}
+
+
+/* 动画 */
+/* #EncounterArt
+{
+    background-size: cover;
+	width: 256px;
+	height: 64px;
+	margin-top: 175px;
+	margin-left: 0px;
+	opacity: 0;
+	pre-transform-scale2d: .2;
+	horizontal-align: center;
+	
+	transition-property: width, pre-transform-scale2d, opacity;
+	transition-duration: .32s;
+	transition-timing-function: ease-in-out;	
+} */
+
+
+
+.WaveEncounterLabelHeader
+{
+	width: 100%;
+    height: 35px;
+    text-overflow: clip;
+    text-align: center;
+    text-shadow: 1px 1px 2px 2.0 #00000011;
+    color: gradient( linear, 0% 0%, 0% 100%, from( #ffffff ), to( #4f5757 ) );	
+  	text-transform: uppercase;
+   	font-size: 30px;
+}
+
+
+
+#WaveDiscoverStrip3 {
+    visibility: collapse;
+}
+#WaveDiscoverStrip3.Visible {
+    visibility: visible;
+}
+#WaveDiscoverStrip3
+{
+	width: 800px;
+	height: 40px;
+	horizontal-align: center;
+    
+	vertical-align: top;
+	margin-left: 00px;
+	margin-top: 64px;
+    padding: 10px 0 4px 0;
+	pre-transform-scale2d: 0.8;
+	background-color: gradient( linear, 0% 0%, 100% 0%, from( #00000000 ), color-stop(0.2, #00000090), color-stop(0.4, #000000EF), color-stop(0.6, #000000EF), color-stop(0.8, #00000090), to( #00000000 ) );	
+	
+	transition-property: width, pre-transform-scale2d, opacity;
+	transition-duration: 0.32s;
+	transition-timing-function: ease-in-out;
+}
+/* WaveDiscoverStrip4 写一个差不多的 */
+#WaveDiscoverStrip4 {
+	visibility: collapse;
+}
+#WaveDiscoverStrip4.Visible {
+	visibility: visible;
+}
+#WaveDiscoverStrip4
+{
+	width: 800px;
+	height: 40px;
+	horizontal-align: center;
+	
+	vertical-align: top;
+	margin-left: 00px;
+	margin-top: 96px;
+	padding: 10px 0 4px 0;
+	pre-transform-scale2d: 0.8;
+	background-color: gradient( linear, 0% 0%, 100% 0%, from( #00000000 ), color-stop(0.2, #00000090), color-stop(0.4, #000000EF), color-stop(0.6, #000000EF), color-stop(0.8, #00000090), to( #00000000 ) );	
+	
+	transition-property: width, pre-transform-scale2d, opacity;
+	transition-duration: 0.32s;
+	transition-timing-function: ease-in-out;
+}
+
+
+
+
+#WaveEncounterNameLabel3
+{
+	text-transform: uppercase;
+	horizontal-align: left;
+	vertical-align: center;
+	text-align: left;
+	/* opacity:0.3; */
+	color: rgb(181, 204, 235);
+	font-size: 20px;
+	transition-property: pre-transform-scale2d, opacity, color, transform;
+	transition-duration: .22s;
+	transition-delay: .12s;
+	transition-timing-function: ease-out;	
+}
+#WaveEncounterNameLabel4
+{
+	text-transform: uppercase;
+	horizontal-align: left;
+	vertical-align: center;
+	text-align: left;
+	/* opacity:0.3; */
+	color: rgb(181, 204, 235);
+	font-size: 20px;
+	transition-property: pre-transform-scale2d, opacity, color, transform;
+	transition-duration: .22s;
+	transition-delay: .12s;
+	transition-timing-function: ease-out;	
+}
+
+
+
+
+#EndGameButton {
+    align: right top;
+    width: 200px;
+    background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 0;
+    padding: 15px;
+    border-radius: 5px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+}
+
+
+#EndGameButton {
+    margin-right: 600px;
+    /* margin-bottom: 960px; */
+}
+
+#EndGameButton:hover {
+    box-shadow: rgb(231, 252, 252)0px 0px 10px 0px;
+    brightness: 2.4;
+}
+#EndGameButtonLabel{
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 23px;
+    width: 100%;
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; /* 雕刻 */
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: -3px;
+    text-align: center;
+    color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+
+
+
+#WaveDiscoverStrip0
+{
+	width: 800px;
+	height: 40px;
+	horizontal-align: center;
+    
+	vertical-align: top;
+	margin-left: 00px;
+	margin-top: 00px;
+    padding: 10px 0 4px 0;
+	pre-transform-scale2d: 0.8;
+	background-color: gradient( linear, 0% 0%, 100% 0%, from( #00000000 ), color-stop(0.2, #00000090), color-stop(0.4, #000000EF), color-stop(0.6, #000000EF), color-stop(0.8, #00000090), to( #00000000 ) );	
+	
+	transition-property: width, pre-transform-scale2d, opacity;
+	transition-duration: 0.32s;
+	transition-timing-function: ease-in-out;
+}
+
+
+#WaveEncounterNameLabel0
+{
+	text-transform: uppercase;
+	horizontal-align: left;
+	vertical-align: center;
+	text-align: left;
+	/* opacity:0.3; */
+	color: rgb(181, 204, 235);
+	font-size: 20px;
+	transition-property: pre-transform-scale2d, opacity, color, transform;
+	transition-duration: .22s;
+	transition-delay: .12s;
+	transition-timing-function: ease-out;	
+}
+
+
+
+
+#SendData_Panel_Root{
+	width: 25%;
+    height: 20%;
+	margin-top: 20%;
+	/* margin-left: 50%; */
+	horizontal-align: right;
+	/* background-image: url("s2r://panorama/images/battlepass/spring2021/weeklyquests/hiddenbg_week08_psd.vtex"); */
+	background-image: url("s2r://panorama/images/backgrounds/gallery_background_png.vtex");
+	
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-position: 100% 100%; */
+	box-shadow: rgb(0, 0, 0)0px 0px 10px 0px;
+	opacity: 0.0;
+	transform: translateX( 120px ) translateY( -100px );
+	pre-transform-scale2d:0.95;
+    z-index: 5;
+	transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+	transition-duration: 0.6s, 0.4s, 0.3s;
+	transition-timing-function: ease-in-out;
+	border:2px solid rgb(23, 23, 23);
+}
+
+
+#SendData_Panel_Root.show{
+	opacity: 1.0;
+	transform: translateX( 0px ) translateY( 0px );
+	pre-transform-scale2d:1;
+	/* wash-color: #33cccc; */
+}
+
+
+#SendData_confirm_title{
+    color: rgb(145, 145, 145);
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 20px;
+    height: 25px;
+    width: 100%;
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; /* 雕刻 */
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: 0px;
+    box-shadow: rgb(0, 0, 0)0px 0px 5px 0px;
+    text-align: center;
+    /* padding-top: 6px; */
+    background-color:gradient( linear, 0% 20%, 90% 20%, from( #000000 ), color-stop( 0.95, rgb(0, 0, 0) ),  to( #000000 ));
+    color: gradient(linear, 0% 0%, 0% 90%, from(#878b8b), to(#5d696d));
+    z-index: 5;
+    brightness: 1.9;
+    /* background-image: url("s2r://panorama/images/hud/reborn/bg_scoreboard_psd.vtex"); */
+	/* background-image: url("s2r://panorama/images/backgrounds/dashboard_background_png.vtex"); */
+    /* background-blur: 5px; */
+    /* blur: gaussian(30px); */
+    /* background-position:center top; */
+    background-size: 100%;
+    /* background-position:center top; */
+    background-repeat: no-repeat;
+}
+
+
+
+#SendData_Confirm_panel{
+    /* z-index: 2; */
+    margin-top: 40%;
+    margin-left: 5%;
+    /* margin: 300px; */
+    /* align: center; */
+    align: left top;
+    height: 70px;
+    width: 150px;
+    background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    box-shadow: rgb(0, 0, 0)0px 0px 10px 0px;
+    padding: 15px;
+    border-radius: 5px;
+    wash-color: #acacac; 
+    transition-property: brightnessr,box-shadow;
+    transition-duration: 0.4s, 0.3s, 0.1s;
+    transition-timing-function: ease-in-out;
+    brightness: 0.9;
+}
+
+#SendData_Confirm_panel:hover{
+    brightness: 2.2;
+    box-shadow: rgb(69, 100, 102)0px 0px 10px 0px;
+}
+
+#SendData_Cancle_panel{
+
+    align: right top;
+    margin-top: 40%;
+    margin-right: 5%;
+    height: 70px;
+    width: 150px;
+    background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    box-shadow: rgb(0, 0, 0)0px 0px 10px 0px;
+    padding: 15px;
+    border-radius: 5px;
+    wash-color: #acacac; 
+    transition-property: brightnessr,box-shadow;
+    transition-duration: 0.4s, 0.3s, 0.1s;
+    transition-timing-function: ease-in-out;
+    brightness: 0.9;
+}
+#SendData_Cancle_panel:hover{
+    brightness: 2.2;
+    box-shadow: rgb(69, 100, 102)0px 0px 10px 0px;
+}
+.SendData_Confirm_Label{
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 30px;
+    width: 100%;
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; /* 雕刻 */
+    text-overflow: shrink;
+    align: center top;
+    /* margin-bottom: -3px; */
+    text-align: center;
+    /* z-index: 0; */
+    color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}

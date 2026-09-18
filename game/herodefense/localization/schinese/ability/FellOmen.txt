@@ -1,0 +1,246 @@
+
+
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Bad_1"	"<font color=\"#f0ad4e\">第一噩相：奥尼克斯的剑魂</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_1_Description"	"类型：增幅<br><br>说明：新生的野怪将提升一些基础攻击力。<br><br>值= 基础攻击力* (%bonus%+%bonus_stack%*Y)%%<br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_1_Lore"	"被称为武之巅的大恶魔奥尼克斯掌握无数兵器的使用方法，有传言在他使用过的武器中寄宿着灵魂。"
+"DOTA_Tooltip_ability_FellOmen_Bad_2"	"<font color=\"#f0ad4e\">第二噩相：焦土恶魔的热忱</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_2_Lore"	"来自低于的火焰恶魔会将烈焰带往人间，焚烧所遇的一切。"
+"DOTA_Tooltip_ability_FellOmen_Bad_2_Description"	"类型：增幅<br><br>说明：新生的野怪在处于白天下获得魔法抗性加成。（加成不会超过50%%）<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_3"	"<font color=\"#f0ad4e\">第三噩相：同族相食</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_3_Lore"	"恶魔向往着强者，而最强的恶魔们往往吸收了无数同类的能量，据说位于顶端是被称为'十刃'的存在。"
+"DOTA_Tooltip_ability_FellOmen_Bad_3_Description"	"类型：增幅<br><br>说明：新生的野怪死亡后被1500范围内的随机友军吞噬，自身的生命值，攻击力，防御力的一定百分比将被继承。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br>Y =额外半相数（黑色数字）"
+
+"DOTA_Tooltip_ability_FellOmen_Bad_4"	"<font color=\"#f0ad4e\">第四噩相：嗜血恶魔的饥渴</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_4_Description"	"类型：增幅<br><br>说明：新生的野怪攻击低生命值的敌人时获得攻击速度加成。<br><br>值= （1-目标生命值百分比）*(%bonus%+%bonus_stack%*Y)<br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_4_Lore"	"那些最为残暴的生物往往是嗜血的恶魔，任何受伤的猎物都逃不过它们的追杀。"
+"DOTA_Tooltip_ability_FellOmen_Bad_5"	"<font color=\"#f0ad4e\">第五噩相：脑虫女王的余音</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_5_Description"	"类型：增幅<br><br>说明：新生的野怪在被击杀时将沉默且破坏加害者一段时间。（最多为3秒）<br><br>值= (%bonus%+%bonus_stack%*Y)<br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_5_Lore"	"上古神话怪物的脑虫女王在死前发出的脑电波至今还某些区域中传播，并让那些可怜的生物效忠于早已不存在的自己。英雄们以为脑虫早已灭绝，然而在这片大陆上，脑虫家族尚在的证据缺接连被发现。"
+"DOTA_Tooltip_ability_FellOmen_Bad_6"	"<font color=\"#f0ad4e\">第六噩相：死链</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_6_Description"	"类型：增幅<br><br>说明：新生的野怪每隔10秒有5%%几率将自己与1000范围内最为强壮的敌人链接，将自己所受到的伤害的一部分传递给目标，链接持续5秒，伤害将在状态结束后结算，此时如果目标魔免或自身已死亡那么将无效。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_6_Lore"	"死神有时候会眷顾那些较为强大的人。"
+
+"DOTA_Tooltip_ability_FellOmen_Bad_7"	"<font color=\"#f0ad4e\">第七噩相：远古石人</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_7_Description"	"类型：增幅<br><br>说明：新生的野怪生命值低于15%%时获得护甲与魔法抗性提升。（大部分精英怪与BOSS不会继承这个效果，其中魔法抗性不高于70%%）<br><br>值1= (%bonus%+%bonus_stack%*Y)%%<br>值2= (%bonus2%+%bonus_stack2%*Y)%% <br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_7_Lore"	"石头人是日光的产物，在吸收了万年的阳光精华后石头将孕育出灵魂。"
+"DOTA_Tooltip_ability_FellOmen_Bad_8"	"<font color=\"#f0ad4e\">第八噩相：梦魔</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_8_Description"	"类型：抑制<br><br>说明：所有英雄的初始状态抗性下降。<br><br>值= (%bonus%+%bonus_stack%*Y)%% <br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_8_Lore"	"每当夜晚到来，梦魔们将到处吸食生物们的美梦，并将其转变成可怕的噩梦留给睡梦中的可怜虫。"
+"DOTA_Tooltip_ability_FellOmen_Bad_9"	"<font color=\"#f0ad4e\">第九噩相：焦油</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_9_Description"	"类型：抑制<br><br>说明：新生的野怪死亡后会留下一团黏性油，对周围500范围的敌人造成移动速度与攻击速度降低，独立叠加持续6秒，仅受到状态抗性影响<br><br>值1= (%bonus%+%bonus_stack%*Y)%%<br>值2= (%bonus2%+%bonus_stack2%*Y) <br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_9_Lore"	"那些恶心的，滑溜溜的东西绝对是你不想遇见的敌人。"
+"DOTA_Tooltip_ability_FellOmen_Bad_10"	"<font color=\"#f0ad4e\">第十噩相：盛宴</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_10_Description"	"类型：抑制<br><br>说明：新生的野怪死亡后将恢复周围600范围内随机一个生命值不为满的友军的生命值，视为治疗。<br><br>值= 死者最大生命值*(%bonus%+%bonus_stack%*Y)%%<br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_10_Lore"	"即使死，也要死的有价值，为其他恶魔大军做出前行的贡献。"
+"DOTA_Tooltip_ability_FellOmen_Bad_11"	"<font color=\"#f0ad4e\">第十一噩相：分形</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_11_Description"	"类型：转换<br><br>说明：新生的野怪死亡后将使击杀者的主属性降低5点，将80%%转化为副属性，固定持续一段时间,主属性低于5时不生效。<br><br>值= (%bonus%+%bonus_stack%*Y)秒<br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_11_Lore"	"分形而一体，一体而多形。"
+"DOTA_Tooltip_ability_FellOmen_Bad_12"	"<font color=\"#f0ad4e\">第十二噩相：入魔</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_12_Description"	"类型：抑制<br><br>说明：新生的野怪死亡后将诅咒击杀者，击杀者的每次施法都会降低自身的技能伤害，持续15秒，被状态抗性影响。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_12_Lore"	"幽冥之灵体渴望着魔法，当有魔力产生时，它们将会让魔力汇聚之前抢先夺取。"
+"DOTA_Tooltip_ability_FellOmen_Bad_13"	"<font color=\"#f0ad4e\">第十三噩相：博弈</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_13_Description"	"类型：抑制<br><br>说明：新生的野怪攻击敌人时如果自身生命值大于50%%且目标生命值与生命值百分比皆低于自身，那么将消耗1%%的生命值使目标丢失1点全属性，持续一段时间。（大部分精英怪与BOSS不会继承这个效果）<br><br>值= (%bonus%+%bonus_stack%*Y)秒<br><br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_13_Lore"	"博弈论，又称为对策论、赛局理论等，既是现代数学的一个新分支，也是运筹学的一个重要学科。"
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Bad_14"	"<font color=\"#f0ad4e\">第十四噩相：智力窃取</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_14_Description"	"类型：抑制<br><br>说明：新生的野怪攻击英雄时有一定几率可以窃取目标1点智力，并永久性提升自身的技能伤害0.2%%，丢失的智力在80秒后归还。受到状态抗性与负面状态增强影响。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_14_Lore"	"再聪明的人，遇到沉默术士也会说不出话。"
+"DOTA_Tooltip_ability_FellOmen_Bad_15"	"<font color=\"#f0ad4e\">第十五噩相：我怒了</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_15_Description"	"类型：增幅<br><br>说明：野怪死亡时会大吼一声，使得周围300范围内的友军获得20%%的移动速度提升与20点攻击速度提升，持续一段时间，可以叠加。<br><br>值= (%bonus%+%bonus_stack%*Y)秒<br><br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_15_Lore"	"敢杀我？我队友会为我报仇！"
+"DOTA_Tooltip_ability_FellOmen_Bad_16"	"<font color=\"#f0ad4e\">第十六噩相：法力虚空</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_16_Description"	"类型：抑制<br><br>说明：野怪死亡时使击杀者附带一层标记，标记将存在一段时间，如果在标记持续期间施法，那么将失去所使用技能当前等级所需魔法消耗*（标记层数*0.1）的魔法，并受到等额伤害。受到状态抗性影响。<br><br>值= (%bonus%+%bonus_stack%*Y)秒<br><br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_16_Lore"	"魔法就像一个黑洞，无数法力都被其吸收到里面。"
+"DOTA_Tooltip_ability_FellOmen_Bad_17"	"<font color=\"#f0ad4e\">第十七噩相：感染</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_17_Description"	"类型：增幅<br><br>说明：野怪出生后每隔10秒有一定几率躲藏到周围500范围内一名友军身上，将使其可以突破移速闲置并获得30%%的移动速度加成与等同于自身攻击力的基础攻击力加成。一只野怪可以同时被多名友军感染，但被感染后的单位无法进行感染。（大部分精英怪与BOSS不会继承这个效果）<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_17_Lore"	"寄生寄生寄生……"
+"DOTA_Tooltip_ability_FellOmen_Bad_18"	"<font color=\"#f0ad4e\">第十八噩相：决斗</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_18_Description"	"类型：增幅<br><br>说明：野怪攻击的敌人必须在6秒内造成伤害大于10的还击，否则野怪将永久性提升一定的额外攻击力。可以叠加。<br>（大部分精英怪与BOSS仅受到30%%加成效果）<br><br>值= 基础攻击力*(%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_18_Lore"	"来与我决斗，胆小鬼！"
+"DOTA_Tooltip_ability_FellOmen_Bad_19"	"<font color=\"#f0ad4e\">第十九噩相：慢</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_19_Description"	"类型：抑制<br><br>说明：英雄急行的冷却时间增加一个比例。（位于常数减免后）<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_19_Lore"	"行人过往，车辆慢行。"
+"DOTA_Tooltip_ability_FellOmen_Bad_20"	"<font color=\"#f0ad4e\">第二十噩相：手刀</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_20_Description"	"类型：增幅<br><br>说明：野怪攻击时如果在目标身后，则有一定几率可以造成0.2秒的眩晕。（被状态抗性与负面状态增强影响）<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_20_Lore"	"咚的一下，敌人倒下。"
+"DOTA_Tooltip_ability_FellOmen_Bad_21"	"<font color=\"#f0ad4e\">第二十一噩相：投石</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_21_Description"	"类型：伤害<br><br>说明：在另一个世界的巨型怪物会不断朝着战场投掷作用范围为300的石块，对被砸中的敌人造成最大生命值一定百分比的纯粹伤害与1.5秒眩晕。（被状态抗性影响），石块将以随机英雄为中心的1000范围内一个随机点为目标。（间隔最少为7秒，如果玩家数大于4会丢出两颗石头）<br><br>间隔=(%bonus%-%bonus_stack%*Y)秒<br>值= (%bonus2%+%bonus_stack2%*Y)%%（最大50%%）<br><br><br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Bad_21_Lore"	"昔日的小石子已经变成了硕大的山体。"
+
+
+
+
+// 施法时有几率陷入沉默，需要任意友军进行一次施法才能解除。
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_1"	"<font color=\"#f0ad4e\">第一利相：缪菈之眼</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_1_Description"	"类型：增幅（召唤物概率继承）<br><br>说明：每隔5秒可以发动一次具有额外伤害的攻击(受到英雄冷却缩减影响)<br><br>值= 全额攻击力*(%bonus%+%bonus_stack%*Y)%%<br><br>召唤物继承概率= 技能冷却/%summon_index%*100%%"
+"DOTA_Tooltip_ability_FellOmen_Good_1_Lore"	"隐秘的女武神只需一眼就可以看破所有破绽。"
+"DOTA_Tooltip_ability_FellOmen_Good_2"	"<font color=\"#f0ad4e\">第二利相：傻相</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_2_Description"	"类型：增幅<br><br>说明：赋予英雄初始全属性提升<br><br>值= (%bonus%+%bonus_stack%*Y)<br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Good_2_Lore"	"被称为'傻之象征'的存在，即使大部分时候是一个拖油瓶，在某些时刻也可能带领团队走向胜利。"
+"DOTA_Tooltip_ability_FellOmen_Good_3"	"<font color=\"#f0ad4e\">第三利相：不落要塞</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_3_Description"	"类型：增幅<br><br>说明：英雄处于不移动状态下可以向周围500范围友军提供防御力加成。<br><br>值= (%bonus%+%bonus_stack%*Y)<br>Y =额外半相数（黑色数字）"
+"DOTA_Tooltip_ability_FellOmen_Good_3_Lore"	"不动如山，不落要塞。"
+"DOTA_Tooltip_ability_FellOmen_Good_4"	"<font color=\"#f0ad4e\">第四利相：活血赐福</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_4_Description"	"类型：增幅<br><br>说明：生命恢复速度获得提升。<br><br>值= 英雄力量*(%bonus%+%bonus_stack%*Y)%%<br>Y =额外半相数（黑色数字）<br><br>召唤物继承概率= 技能冷却/%summon_index%*100%%<br>（召唤物继承英雄的力量数值）"
+"DOTA_Tooltip_ability_FellOmen_Good_4_Lore"	"来自古龙顶端的龙之血，为生命的繁荣献出了一点力量。"
+"DOTA_Tooltip_ability_FellOmen_Good_5"	"<font color=\"#f0ad4e\">第五利相：卧龙</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_5_Description"	"类型：增幅<br><br>说明：获得技能冷却缩减。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br>Y =额外半相数（黑色数字）<br><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_5_Lore"	"草庐三顾屈英雄，慷慨南阳起卧龙。"
+"DOTA_Tooltip_ability_FellOmen_Good_6"	"<font color=\"#f0ad4e\">第六利相：凤雏</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_6_Description"	"类型：增幅<br><br>说明：生命值低于50%%每秒有一定几率恢复生命值，冷却30秒。（受到英雄冷却缩减影响）<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br>值=最大生命值* (%bonus2%+%bonus_stack2%*Y)%%<br>Y =额外半相数（黑色数字）<br><br>召唤物继承概率= 技能冷却/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_6_Lore"	"庞士元非百里才也，使处治中、别驾之任，始当展其骥足耳。"
+"DOTA_Tooltip_ability_FellOmen_Good_7"	"<font color=\"#f0ad4e\">第七利相：灵刃</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_7_Description"	"类型：增幅<br><br>说明：攻击距离获得提升一定百分比。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br>Y =额外半相数（黑色数字）<br>召唤物继承概率= 技能冷却/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_7_Lore"	"领悟圣堂的秘密，唯有已领悟之人的传承。"
+"DOTA_Tooltip_ability_FellOmen_Good_8"	"<font color=\"#f0ad4e\">第八利相：灵魂觉醒</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_8_Description"	"类型：增幅<br><br>说明：每回合开始时获得一定属性提升。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br>Y =额外半相数（黑色数字）<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_8_Lore"	"上古巨神在创世之初留下了许多神器，其中某些甚至能强化生物的灵魂。"
+"DOTA_Tooltip_ability_FellOmen_Good_9"	"<font color=\"#f0ad4e\">第九利相：暗惧者的时间泡沫</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_9_Description"	"类型：抑制<br><br>说明：新生的怪物增加一定的技能冷却时间。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br>Y =额外半相数（黑色数字）<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_9_Lore"	"虚空假面创造的时间泡沫可以延缓甚至暂停时间的流动，如果作为一名敌人那么将十分可怕。"
+"DOTA_Tooltip_ability_FellOmen_Good_10"	"<font color=\"#f0ad4e\">第十利相：回音之力</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_10_Description"	"类型：增幅<br><br>说明：获得攻击力提升。<br><br>值= 全额攻击力*(%bonus%+%bonus_stack%*Y)%%<br><br>Y =额外半相数（黑色数字）<br>召唤物继承概率= 技能冷却/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_10_Lore"	"回响在传播，力量在震荡。"
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_11"	"<font color=\"#f0ad4e\">第十一利相：回到过去</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_11_Description"	"类型：增幅<br><br>说明：受到致死伤害时，可以免疫此次伤害，并短暂进入0.5秒无敌时间转移到800距离外的一个位置。有一定冷却时间。（最短冷却时间为7秒）<br><br>值= (%bonus%-%bonus_stack%*Y)秒<br><br>Y =额外半相数（黑色数字）<br>召唤物继承概率= 技能冷却/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_11_Lore"	"来自暗惧者的传承，或许有朝一日，Ame的虚空将在某一个时间点夺得Ti冠军。"
+"DOTA_Tooltip_ability_FellOmen_Good_12"	"<font color=\"#f0ad4e\">第十二利相：探险家</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_12_Description"	"类型：增幅<br><br>说明：有一定几率可以使得结算与宝箱的道具奖励选项+1(值得一提的是重新随机并不会保留额外的选项且需要进入第一回合的战斗后才有效)<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br>Y =额外半相数（黑色数字）<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_12_Lore"	"每一名探险家都在追寻的某种东西，有的是名利，有的是冒险的刺激，有的则是宝物。"
+
+"DOTA_Tooltip_ability_FellOmen_Good_13"	"<font color=\"#f0ad4e\">第十三利相：勇士之赏</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_13_Description"	"类型：增幅<br><br>说明：游戏结算时的可靠经验与黄金奖励增加一定比例。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br>Y =额外半相数（黑色数字）<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_13_Lore"	"或许你将无缘登上顶峰，但最起码努力不会背叛你。"
+"DOTA_Tooltip_ability_FellOmen_Good_14"	"<font color=\"#f0ad4e\">第十四利相：奥术至尊</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_14_Description"	"类型：增幅<br><br>说明：施法距离与技能伤害提升一定比例。<br><br>值1= (%bonus%+%bonus_stack%*Y)<br>值2= (%bonus2%+%bonus_stack2%*Y)%%<br><br>Y =额外半相数（黑色数字）<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_14_Lore"	"拉比克可以学会其他人的技能，你在这场游戏里也可以做到相同的事。你需要做的就是寻找最适合你的一套组合。"
+"DOTA_Tooltip_ability_FellOmen_Good_15"	"<font color=\"#f0ad4e\">第十五利相：机遇</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_15_Description"	"类型：增幅<br><br>说明：概率事件触发几率提升一定比例。<br><br>值= (%bonus%+%bonus_stack%*Y)%%<br><br>Y =额外半相数（黑色数字）<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_15_Lore"	"知道什么时候该出手或者收手可以极大的影响你的命运。"
+
+
+
+
+
+
+
+
+
+"DOTA_HUD_Ban_Info"                   "<br>当词条种类大于2时，你可以禁止一种词条产生作用，该词条的等级会平分给其他词条；(噩相有+2补正，利相有+1补正)<br><br>噩相与利相各能禁止一个词条；<br><br><font color=\"#f0ad4e\">这个操作只能在第一回合开始前进行，所有玩家共享相同词条，共享相同的禁止机会。</font>"
+"DOTA_HUD_Ban_Info_confirm"           "你确认禁止此词条吗"
+"DOTA_HUD_Ban_failed_No_Chance"           "没有剩余禁止该类词条的机会"
+"DOTA_HUD_Ban_failed_toomuch"           "该相已经为最低数量了"
+"DOTA_HUD_Ban_failed_into_battle"           "已经不再处于准备阶段"
+"DOTA_HUD_Bonus_Attributes_failed_die"           "无法在死亡时设置属性分配"
+"DOTA_HUD_Spells_Menu_level"                   "技能等级"
+"DOTA_HUD_Player_Ban_Info"                   "{s:player_name}移除了一相：<font color=\"#f0ad4e\">{s:ability_name}</font>"
+"DOTA_HUD_FellOmen_Bonus_Attributes"           "属性分配"
+"DOTA_HUD_FellOmen_Send_Bonus_Attributes"           "完成操作"
+"DOTA_HUD_FellOmen_Send_Bonus_Attributes_failed"           "你需要分配完所有点数"
+"DOTA_HUD_FellOmen_Send_Bonus_Attributes_failed2"           "分配的点数超过可分配值"
+"DOTA_HUD_FellOmen_Send_Bonus_Attributes_success"                   "  {s:player_name}完成了属性分配"
+
+
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_str"           "力量"
+"DOTA_HUD_FellOmen_Bonus_Attributes_agi"           "敏捷"
+"DOTA_HUD_FellOmen_Bonus_Attributes_int"           "智力"
+"DOTA_HUD_FellOmen_Bonus_Attributes_spell_damage"           "技能伤害(%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_health"           "生命值"
+"DOTA_HUD_FellOmen_Bonus_Attributes_mana"           "魔法值"
+"DOTA_HUD_FellOmen_Bonus_Attributes_armor"           "护甲"
+"DOTA_HUD_FellOmen_Bonus_Attributes_attack_damage"           "基础攻击力"
+"DOTA_HUD_FellOmen_Bonus_Attributes_summon_intensity"           "召唤增强(%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_status_resistance"           "状态抗性(%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_HeallGain"           "治疗增强(%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_HeallReceiveGain"           "受到治疗效果(%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_LifeStealGain"           "吸血增强(%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_StatusNegativeGain"           "负面状态持续时间(%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_StatusGain"           "正面状态持续时间(%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_ability_point"           "技能点"
+"DOTA_HUD_FellOmen_Bonus_Attributes_outgoing"           "伤害增加(%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_incoming"           "伤害减免(%)"
+
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_point_cost"           "消耗：{s:point}"
+"DOTA_HUD_FellOmen_Bonus_Attributes_point"           "剩余可分配点数：{s:point}"
+"DOTA_HUD_FellOmen_Bonus_Attributes_description"           "初始获得百相层数两倍+5补正的属性点，可以自由分配属性。根据属性的不同消耗的属性点数各不相同，但消耗点数向上取整"
+"DOTA_Tooltip_modifier_FellOmen_Bad_6_effect"                   "死链"
+"DOTA_Tooltip_modifier_FellOmen_Bad_6_effect_Description"       "累计伤害值" 
+
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_9_effect"                   "焦油"
+"DOTA_Tooltip_modifier_FellOmen_Bad_9_effect_Description"       "降低移动速度与攻击速度" 
+"DOTA_Tooltip_modifier_FellOmen_Good_6"                   "凤雏"
+"DOTA_Tooltip_modifier_FellOmen_Good_6_Description"       "赋予生命恢复" 
+
+"DOTA_Tooltip_modifier_FellOmen_Good_1"                   "缪菈之眼"
+"DOTA_Tooltip_modifier_FellOmen_Good_1_Description"       "赋予攻击能力提升" 
+
+"DOTA_Tooltip_modifier_FellOmen_Good_4"                   "活血赐福"
+"DOTA_Tooltip_modifier_FellOmen_Good_4_Description"       "赋予生命恢复提升" 
+"DOTA_Tooltip_modifier_FellOmen_Good_7"                   "灵刃"
+"DOTA_Tooltip_modifier_FellOmen_Good_7_Description"       "赋予攻击距离提升" 
+"DOTA_Tooltip_modifier_FellOmen_Good_8"                   "灵魂觉醒"
+"DOTA_Tooltip_modifier_FellOmen_Good_8_Description"       "赋予全属性提升" 
+
+"DOTA_Tooltip_modifier_FellOmen_Good_10"                   "回音之力"
+"DOTA_Tooltip_modifier_FellOmen_Good_10_Description"       "赋予攻击力提升" 
+
+"DOTA_Tooltip_modifier_FellOmen_Good_3_effect"                   "不落要塞"
+"DOTA_Tooltip_modifier_FellOmen_Good_3_effect_Description"       "赋予防御力提升" 
+
+
+"DOTA_Tooltip_modifier_fellOmen_bonus_attributes"                   "属性分配"
+"DOTA_Tooltip_modifier_fellOmen_bonus_attributes_Description"       "获得以下属性提升：<br>%dMODIFIER_PROPERTY_TOOLTIP%力量<br>%dMODIFIER_PROPERTY_TOOLTIP%敏捷<br>%dMODIFIER_PROPERTY_TOOLTIP%智力<br>%dMODIFIER_PROPERTY_TOOLTIP%生命值<br>%dMODIFIER_PROPERTY_TOOLTIP%魔法值<br>%dMODIFIER_PROPERTY_TOOLTIP%护甲<br>%dMODIFIER_PROPERTY_TOOLTIP%攻击力<br>%dMODIFIER_PROPERTY_TOOLTIP%%%技能伤害" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_12_debuff"                   "入魔"
+"DOTA_Tooltip_modifier_FellOmen_Bad_12_debuff_Description"       "施法时降低技能伤害" 
+"DOTA_Tooltip_modifier_FellOmen_Bad_13_debuff"                   "博弈"
+"DOTA_Tooltip_modifier_FellOmen_Bad_13_debuff_Description"       "全属性下降" 
+
+
+
+"DOTA_Tooltip_modifier_FellOmen_Good_11"                   "回到过去"
+"DOTA_Tooltip_modifier_FellOmen_Good_11_Description"       "受到致命伤害时免除伤害并移动到随机位置" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_buff"                   "智力窃取"
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_buff_effect_Description"       "赋予技能伤害" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_debuff"                   "智力窃取"
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_debuff_Description"       "减少智力" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_15_effect"                   "我怒了"
+"DOTA_Tooltip_modifier_FellOmen_Bad_15_effect_Description"       "赋予攻击速度与移动速度提升" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_16_effect"                   "法力虚空"
+"DOTA_Tooltip_modifier_FellOmen_Bad_16_effect_Description"       "使用法术时会受到反噬" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_17_infest_effect"                   "被感染"
+"DOTA_Tooltip_modifier_FellOmen_Bad_17_infest_effect_Description"       "身体被某种生物寄生" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_effect"                   "决斗"
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_effect_Description"       "来打我！" 
+
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_buff"                   "决斗"
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_buff_Description"       "赋予攻击力提升" 
+
+

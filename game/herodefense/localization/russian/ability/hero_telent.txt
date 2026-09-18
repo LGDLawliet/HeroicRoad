@@ -1,0 +1,512 @@
+
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_antimage"	"Momentary Blink"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_antimage_Description"	"Gains %bonus_attack_speed% bonus attack speed and replaces move commands with blinks. Lasts %duration% seconds.\n<font color=\"#606060\">Blinks from this talent will evade all homing projectiles; <br>Blinks from this talent ignore entanglements.</font>"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_antimage_Lore"	"В своей встрече со Смертью Антимаг понял, как важно быть непредсказуемым."
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_monkey_king"	"Метод палочки"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_monkey_king_Description"	"Атака Короля обезьян может пробудить силу Золотого обруча Жуйи. Пассивно получаете бонус к дальности атаки 200.<br><br>При времени перезарядки умения не более 6 секунд дальность атаки будет увеличена на 200 единиц, и будет получен бонус Сила атаки 100+20*раундов."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_monkey_king_Lore"	"Золотая палочка-обруч может остро ощущать эмоции владельца и излучает силу, когда Сунь Укун показывает свой боевой дух."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_faceless_void"	"Сдвиг времени"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_faceless_void_Description"	"Когда Маска Бездны получает урон, превышающий Здоровье 5%% от себя, его временная точка смещается, а урон отменяется."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_faceless_void_Lore"	"Для обычных людей время необратимо, но для Маски Бездны Тёмного Страха время — это точка в двухмерном пространстве, которая может свободно перемещаться."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_sven_2"	"Large Sword of the Night Watcher"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_sven_2_Description"	"Sven interweaves the use of his Greatsword - Vigil, passively gaining %bonus_damage% * hero level points of attack damage. Upon cooldown completion, his attacks also strike up to %limit% additional enemies within a %radius% radius around the target (triggering attack effects). Each attack reduces this skill's cooldown by %CDreduce% seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_sven_2_Lore"	"The Knights of the Vigil were renowned for their skill in battle. The stories of Sven, Geeta the Wildblade, and Klemens have captured the imagination of so many... you can't throw a rock in the Gardens of Freth without hitting a group of school kids recreating their adventures. But playing a knight is easy... wielding one of their swords is far more challenging.— Jolixia, The Card Faun"
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_keeper_of_the_light"	"форма души"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_keeper_of_the_light_Description"	"Изаро заставляет свое тело светиться, увеличивая скорость применения на 40%% и увеличивая дальность применения на 300 единиц."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_keeper_of_the_light_Lore"	"Во вспышке света Изаро показал свою истинную и изначальную форму."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_tinker"	"пополнение"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_tinker_Description"	"Через 1 секунду после того, как механик применит обновляемое умение, если умение все еще находится на перезарядке, время восстановления умения будет сброшено, а перезарядку вместо этого поместит его на тинкера скилл."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_tinker_Lore"	"Здесь новая батарея, там несколько ракет, а Бош продолжает совершенствовать существующую технику."
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bane"	"Литье страха"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bane_Description"	"Bane's twisted nature grants him %bonus_nega%%% increased duration on negative effects, but at the cost of %posi_down%%% reduced duration on positive effects."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bane_Lore"	"Боль, вызванная источником неприятностей, подобна первой волне кого-то, выбирающего теневого демона 5-го уровня."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_oracle"	"Судьба переписать"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_oracle_Description"	"Оракул может оживлять союзников, не переходя в ослабленное состояние, а это значит, что вы можете оживлять сразу 4 союзников без штрафа."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_oracle_Lore"	"Тщательно интегрируя сложные навыки в свои руки, Оракул может управлять судьбой своих товарищей по команде."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_beastmaster"	"царь зверей"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_beastmaster_Description"	"Повелитель зверей изначально получает 20%% силы призыва и 10%% бонус времени призыва."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_beastmaster_Lore"	"Повелитель зверей является командиром всех зверей и имеет очень высокую склонность к призыву."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dark_seer"	"Стратегия"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dark_seer_Description"	"Dark Seer empowers all allied heroes with %bonus_spell_amp%%% increased spell amplification and healing amplification."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dark_seer_Lore"	"Темные мудрецы способны переломить ход битвы в свою пользу."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_mars"	"Half a blood Arena"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_mars_Description"	"Increases health regeneration speed of allies within 500 radius with Mars’ foot as the centre by %heal%% maximum health/sec."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_mars_Lore"	"Wherever Mars goes, it becomes a battlefield."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_magnataur"	"Гигантский рог"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_magnataur_Description"	"Magnus rushes towards a direction, goring enemy units on his massive tusk to the finish point, dealing damage equal to his STR*5+200, becoming invisible during his sprint."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_magnataur_Lore"	"Для потенциальных торговцев ценность рога получеловека-носорога пропорциональна ущербу, который может нанести рог."
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_phantom_assassin"	"Фантом"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_phantom_assassin_Description"	"В невидимость можно войти, когда в радиусе 400 есть союзники, которые не находятся в невидимости. Эта невидимость не будет снята атакой или произнесением заклинаний.<br><br>Требуется 3 секунды, чтобы войти в невидимость."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_phantom_assassin_Lore"	"На ходу и в тени познай свет."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_techies"	"взрывные работы"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_techies_Description"	"After 1 second of friendly heroes death, deals magic damage equal to 50%% of its own health to enemies within a 700 radius. Also reduces 50%% respawn time of Techies."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_techies_Lore"	"Куда мы идем?"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_silencer"  "Silencing Curse" 
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_silencer_Description"  "Silencer gains %bonus_int% Intelligence for each unit he kills, up to %int_index% times his base Intelligence." 
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_silencer_Lore"  "The Silencer extends silence, absorbing speech."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_tidehunter"	"Разрушатель"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_tidehunter_Description"	"Когда HP Tide Hunter падает ниже 50%%, он возвращается к своей первоначальной форме, получает бонусы к сопротивлению магии и эффектам на 40%%, а также увеличивает свою силу на 20%% на 20 секунд."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_tidehunter_Lore"	"Tidehunter в ярости сокрушил своих врагов."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_terrorblade"	"Разбитая душа"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_terrorblade_Description"	"When taking fatal damage, swaps health with a random allied hero who has a higher percentage of health than %line%% . The result of the health swap will not leave Terrorblade with less than %base%% of his maximum health."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_terrorblade_Lore"	"Вы хотите эту жизнь? Демоны-рейдеры украли именно то, что вам дороже всего."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_morphling"	"Остаток средств"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_morphling_Description"	"Increases attack range by %index%% of the percentage of time spent moving over the past %time% seconds.<br>Increases attack damage by %index%% of the percentage of time spent not moving over the past %time% seconds.\nBoth effects maintain a minimum of %min%% effectiveness."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_morphling_Lore"	"Морфлинг познал истинный смысл поддержания баланса через трансформацию за трансформацией."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_chaos_knight"	"Постановление"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_chaos_knight_Description"	"Chaos Knight's ability to use Chaos gives him a bonus attack damage, but this power is unstable, bonus varying from -50 to 120. "
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_chaos_knight_Lore"	"Chaos theory is a method that combines qualitative thinking and quantitative analysis. It’s used to discuss behaviours in dynamic systems (such as population movement, chemical reaction, climate changes, social behaviour, etc.) that must be explained and predicted by overall, continuous rather than single data relationships"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_meepo"	"Synthetic We Stand"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_meepo_Description"	"Meepo grants a ability point every 4 rounds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_meepo_Lore"	"Multi-line operation is too difficult, and sometimes it is not a bad thing to be integrated into one."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_witch_doctor"	"Hanging Pot To Help The World"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_witch_doctor_Description"	"Witch Doctor's expertise in medicine grants him a healing amplification of %heal_amp%% + %heal_amp_lvl%% * hero level."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_witch_doctor_Lore"	"Zharvakko has a unique understanding of medicine."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_jakiro"	"The Amalgamation Of Ice And Fire"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_jakiro_Description"	"Jakiro's Liquid Ice and Liquid Fire do not consume mana, and the cooldown of Liquid Fire is reduced by %fire_cd_reduce% seconds, while the cooldown of Liquid Ice is reduced by %ice_cd_reduce% seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_jakiro_Lore"	"Trapped within the armature of its monstrous body, the powers of ice and fire combine, and now no enemy is safe."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_enigma"	"Oblivion's Gaze"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_enigma_Description"	"When Enigma activates his Malefice, it deals an additional %damage%%% damage and has an increased area of effect by %radius%%. Moreover, its cooldown before reductions is shortened by %cd_reduce% seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_enigma_Lore"	"The malice from beyond the world cannot directly annihilate the surface realm, yet its impact remains fiercely potent."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_earthshaker"	"The Mountains Echoed"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_earthshaker_Description"	"Increase your strength by %str_bonus% points when allies cast spell and you gain Echo, independent stacking and lasting for 30 seconds"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_earthshaker_Lore"	"Frightens all armies and renowned in the world."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_slardar"	"Water Area"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_slardar_Description"	"Slardar gains phased movement ability, increasing movement speed by 30%% and will not be slowdown."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_slardar_Lore"	"Slardar will transform the ground beneath him into water and exert his power in the ocean."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pangolier"	"Rolling Thunder"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pangolier_Description"	"Pangolier rolled forward in a spell immune orb. Enemies will be knocked back when hit, then take damage equal to Pangolier's Full ATK*1.2, and be stunned for 1.5 second. Lasts 10 seconds"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pangolier_Lore"	"Where his ancestors sought only refuge, the Pangolier saw opportunity…"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pangolier_Note0"	"Note:If automatic casting is turned on. It can be casted when quickly issuing two move commands."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_weaver"	"Geminate Attack"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_weaver_Description"	"Permits Weaver to instantly perform %count% additional attacks, which can trigger non-splitting attack modifiers."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_weaver_Lore"	"Skitskurr's relationship with time is somewhat variable, causing his actions to be witnessed — and felt — more than once."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_weaver_Note0"	"Note:<br>Affected by Spit Shot disabled"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_storm_spirit"	"Overload"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_storm_spirit_Description"	"When cast, an electric charge is generated, which will be released in Storm Spirit’s next attack, dealing 150%% of magic damage to enemies within 350 radius around the target and reducing attack speed by 20 and movement speed by 60%% for 0.6 seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_storm_spirit_Lore"	"Pow! Zip! Zap!"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_storm_spirit_Note0"	"Note: Overload cannot be dispelled, but negative status can be dispelled with weak dispels.  <br>Skills with a cooldown of less than 3 seconds do not trigger"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_chen"	"Divine Favor"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_chen_Description"	"Chen's divine grace envelops friendly non-hero units within a %radius% radius, bestowing them with %incoming_down%%% damage reduction and enhancing their damage output by %bonus_outgoing%%%."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_chen_Lore"	"Chen's zeal is infectious, blessing his allies with vitality and compelling them to his side."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dark_willow"	"Bedlam"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dark_willow_Description"	"Jakiro orbits around Dark Willow, simultaneously launching magical missiles at a random enemy within a %radius% radius of himself every %interval% seconds, dealing damage equal to the total sum of his attributes multiplied by %atb_damage%%%.""DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dark_willow_Lore"	"You'll have to excuse my friend Jex. He's really into murder."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_windrunner"	"Ultimate Source Of Wind"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_windrunner_Description"	"Windrunner can surpass movement speed limits and traverse terrain, and she gains attack speed based on %move_attack_speed%%% of her current movement speed."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_windrunner_Lore"	"The feet born with wings can travel to from earth to heaven."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ancient_apparition"	"Fragility"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ancient_apparition_Description"	"Enemies within %radius% radius around Ancient Apparition have their movement speed slowed by %move_down%% and suffer a %damage_incoming%% reduction in damage mitigation."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ancient_apparition_Lore"	"Ancient storms of ice that flowed out of the Frozen Body of Kaldr froze the inhabitants of this world into monuments of his eternal power"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lina"	"Fiery Passion"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lina_Description"	"<h1>Passive: Soul Ignite</h1>Each time Lina casts a spell, she gains increased movement speed and reduced cast time, stacking independently for a certain duration.\n<font color='#F0FFFF'><h1>Awakening: Blazing Frenzy</h1></font><br>After continuously maintaining the maximum stacks of 'Soul Ignite' for %line% seconds in each combat round, Lina breaks through her movement speed cap and gains skill enhancement equivalent to %index%%% of her movement speed (up to a maximum of %max%%%), lasting until the end of the round."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lina_Lore"	"The dancing flames embody Lina's playful nature, showcasing her true fiery self."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lina_move"	"% Movement Speed per Stack:"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lina_speed"	"% Cast Time Reduction per Stack:"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lina_max_count"	"Maximum Stacks:"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lina_duration"	"Duration:"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lina_Note0"	"<font color='#606060'>Triggered by skills with a cooldown greater than 2 seconds;<br>The Awakening state is exited and progress reset at the start of each round.</font>"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_invoker"	"Invoker"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_invoker_Description"	"Invoker's super memory allows him to learn 1 more skill than others."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_invoker_Lore"	"A new era of knowledge begins."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_wisp"	"Affinity"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_wisp_Description"	"Io unleashes its Affinity Breath, granting all allied heroes %lifesteal%%% lifesteal from attack damage and %bonus_atb_perlvl% attribute gain per level."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_wisp_Lore"	"Io itself is the embodiment of the mysteries of the world."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_batrider"	"Arsonist"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_batrider_Description"	"When Batrider strikes, he ignites a Fuel Zone at the target location, dealing damage equal to the total sum of his attributes multiplied by %atb_damage%%% to enemies within a radius of %radius% every second, lasting for %duration% seconds.""DOTA_Tooltip_ability_heroTalent_npc_dota_hero_batrider_Lore"	"A molotov cocktail is the weapon of choice for Batrider."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bounty_hunter"	"Bounty"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bounty_hunter_Description"	"Increase gold by 20%% as the reward brought by the Suffering challenge (also valid for allies)"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bounty_hunter_Lore"	"Using his elevated senses of sight and smell, Gondar's hits have quite a good chance of success."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bloodseeker"	"Parched"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bloodseeker_Description"	"When entering a round with auto-cast enabled, Bloodseeker will start with only %hp%% of his maximum health, but will gain %suck%% lifesteal and %bonus_attack_speed% bonus attack speed for the duration of the round."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bloodseeker_Lore"	"Strygwyr becomes frenzied when blood is spilled."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_sniper"	"Assassinate"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_sniper_Description"	"Each attack has a %chance%% chance to trigger a Miniature Assassination, dealing %damage_index%% of Sniper's full attack damage as physical damage to the target."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_sniper_Lore"	"In order to fulfill the prophecy and return to his home town, Kardel must make another shot as perfect as the one on the day of his ancient test."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_gyrocopter"	"Side Gunner"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_gyrocopter_Description"	"Gyrocopter can store ammunition, accruing one attack every %time% seconds, up to a maximum of %max_count% stored attacks.\nWhen enemies are within attack range and auto-cast is enabled, fires attacks at the nearest enemy at a rate of %speed_interval% attacks per second, triggering non-splitting attack modifiers."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_gyrocopter_Lore"	"This newly rebuilt gyroplane is equipped with a spare machine gun that can automatically strafe approaching enemies."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_treant"	"Natural partner"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_treant_Description"	"Treant restores %heal%% of his max health to allies within 1000 radius at regular intervals."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_treant_Lore"	"The roots and tendrils of the Treant Protectors are far-reaching, stimulating the growth and rejuvenation of all of nature."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_undying"	"Flesh Golem"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_undying_Description"	"When health is above %ori_need%%, transform into [Blood Flesh Puppet]: Gain %status%% status resistance, %magic_resist%% magic resistance, and %armor% armor.<br><br>If not in [Blood Flesh Puppet] state, regenerate %hp_regen%% health per second."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_undying_Lore"	"The flesh of the recently dead add to the power of Dirge's plague"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_abaddon"	"Endless Malice"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_abaddon_Description"	"Upon taking damage, there is a %chance%% chance to unleash Malice upon up to %max_count% enemies within %radius%, dealing %base_damage% + Strength * %str_index% magical damage and healing Abaddon for the pre-tax value, guaranteed to trigger upon cooldown completion.\n<font color=\"#606060\">This talent can be triggered by damage from any source.</font>"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_abaddon_Lore"	"What should hurt, instead heals."
+
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_skeleton_king"	"Ture King"
+// "DOTA_Tooltip_ability_heroTalent_npc_dota_hero_skeleton_king_Description"	"skeleton regen health at 2%%maximum health/sec health while moving."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_skeleton_king_Description"	"Wraith King regenerates %heal%% of his maximum health/sec while moving. "
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_skeleton_king_Lore"	"Wraith King never walks normally, which enhances his regeneration ability."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_kunkka"	"Lord of the Ocean"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_kunkka_Description"	"Deals strength*%str_index% amount of damage to enemies in the 500 radius of the target in the next attack and stuns them %stun_duration% seconds as well."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_kunkka_Lore"	"The final ship of the Claddish Navy is nothing but a phantom, but it is all too real to the enemies of the Admiral."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_phoenix"	"Nirvana"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_phoenix_Description"	"In the state of automatic casting, ignores distance limit and allies rescue under week status. In this case, you will lose your life, but the allies will only need 10 seconds to respawn, and neither side will be weakened, and you will respawn in 20 seconds. (Unless you have other respawn skills, in which case reincarnation can't be reduced to 25 even if it is greater than 25 seconds)"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_phoenix_Lore"	"From its flames arise new beacons to wander infinity."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_doom_bringer"	"Lord of the All Demon"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_doom_bringer_Description"	"For every additional demon hero in the team, Doom Bringer will gain 5 armor, 20%% attack damage and 7% magic resistance."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_doom_bringer_Lore"	"Under the seven degrees of hell, only the Doom Bringer can move freely. All demons must submit to his feet, except of course the most lawless ones."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_doom_bringer_Note0"	"Note:<br>Name some demon Heroes: Chaos Knight, Underlord, Clinkz, Shadow Fiend, Terrorblade, Shadow Demon, Queen of Pain, Lion, Night Stalker."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_centaur"	"Strength Yearning"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_centaur_Description"	"Centaur gains bonus power equal to current level * 2.5."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_centaur_Lore"	"Each time the Warrunner increases his level, he will gain more power."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_axe"	"Eliminater"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_axe_Description"	"Enemies whose health is lower than 7%% or lower than their own maximum health* (number of rounds/50) cannot harm you."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_axe_Lore"	"Only one outcome for whoever dares to be the enemy of Axe, die."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_axe_Note0"	"Note:<br>Immune to half of damage from dead units."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pudge"	"Flesh Heap"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pudge_Description"	"When Pudge's allied hero dies, Pudge's strength will be permanently increased by 3 points (up to 20 + current rounds * 5 effective, but can ignore the upper limit and stack), and gain 6 temporary strength for 5 minutes, but up to 200."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pudge_Lore"	"The butcher gave the word ‘meat shield’ a new meaning."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pudge_Note0"	"Note:<br>Не отключается пассивным уничтожением."
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_pudge_effect2"                   "Flesh Heap"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_pudge_effect2_Description"       "Strength increased by %dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bristleback"	"Bristle Strengthening"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bristleback_Description"	"Bristleback initially learn level 3 Bristleback. Increase damage of middle and advanced Quill Spray by 30%%."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bristleback_Lore"	"The honor of law enforcers is tricky to maintain. So is his quill"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_bristleback_Note0"	"Note:None."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_earth_spirit"	"The blessing of the earth"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_earth_spirit_Description"	"All allies gain %bonus_armor% points of armor and %bonus_magic_resist%% Magic resistance, and twice the effects for yourself."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_earth_spirit_Lore"	"The Mother Earth grants you a unique ability."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ember_spirit"	"The blessing of the ash"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ember_spirit_Description"	"Each time one round is completed, stack a layer of 'Afterglow', each layer of which can save you once from death, restoring half of health, which is cost later"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ember_spirit_Lore"	"The Fire God grants you a unique ability."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_brewmaster"	"Drunken Divinity"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_brewmaster_Description"	"%damage_reduction%%% of damage taken is delayed to be resolved over %duration% seconds, but the resolved damage is only %damage_changing%%% of that amount.When kill units,amount reduced by %kill_reduce%%%.<br><font color='#606060'>This talent does not defer self-inflicted damage.</font>"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_brewmaster_Lore"	"Drink to the present, for tomorrow may never come!"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_brewmaster"              "Tipsy Torment"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_brewmaster_Description"  "Still receives %dMODIFIER_PROPERTY_TOOLTIP%%% of the damage"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_void_spirit"	"Ethereal Shield"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_void_spirit_Description"	"Gains a shield equal to the total sum of your attributes multiplied by %atb_shield%. Upon the shield's break, the talent goes on cooldown, during which Void Spirit gains %bonus_attack_pct%%% increased attack damage."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_void_spirit_Lore"	"Wanderers of the Ethereal understand how to harness its subtle currents."
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_void_spirit_break"	"Conflux of Currents"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_void_spirit_break_Description"   "Increases attack damage"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_spirit_breaker"	"Spirit Rend"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_spirit_breaker_Description"	"Break through the limit of movement speed and get %bonus_move% movespeed, attaches additional physical damage amounted of %move_index%%* movement speed in each attack."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_spirit_breaker_Lore"	"Spirit Breaker exist both in and out of the material world."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dawnbreaker"	"Soul of Star"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dawnbreaker_Description"	"Veralora's attacks bring forth order, with every %attack_need%th attack granting a %atb% bonus to all attributes, stacking independently for %duration% seconds (up to %count_need% stacks). Upon reaching the stack limit, she enters a [War God] state, gaining %phy_resist%% physical damage resistance and %attack_speed%% attack speed."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dawnbreaker_Lore"	"The arrival of the Primordial Light wiped out the creatures of the Primordial Night."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_snapfire"	"Lil' Shredder"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_snapfire_Description"	"Activate the cannon on the lizard mount to quickly launch 9 armor-piercing attacks, each of whic will ignore the target's 40 armor."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_snapfire_Lore"	"Beadie constantly tinkers with a design she first dreamed up plotting an exodus from her old gang."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_marci"	"Sidekick"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_marci_Description"	"Marci infuses lifesteal to herself and the nearest hero within 1000 radius. After the attack deals damage, restore the enemy’s health by 15%% of the damage."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_marci_Lore"	"Marci learned at a young age that the best asset in a scrap is a steady companion."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_marci_Note0"	"Note:<br>he lifesteal effect calculates the lifesteal enhancement of the attacker. When there are no allies around, Marci restores life for himself."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_alchemist"	"Super Greevil’s Greed"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_alchemist_Description"	"At the end of the round, gain an additional 5%% of the settlement rewards of other allies."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_alchemist_Lore"	"Hahaha, the money is all mine."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_night_stalker"	"Hunting point"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_night_stalker_Description"	"When night comes, Night Stalker can fly, at a minimum movement speed of 550 and its attack speed increased by 30%%. "
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_night_stalker_Lore"	"It is a humbling sight to see when the mightiest of warriors become afraid of the dark."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_sand_king"	"Soul of Sand"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_sand_king_Description"	"When Sand King has learn Epicenter, triggers one 80%% damage earthquake every 700 range (calculated every 0.85 seconds), and after each trigger increases cooldown by 1.5 seconds (affected by cooldown reduction) and does not trigger when the cooldown is greater than 10 seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_sand_king_Lore"	"This essential identity calls itself Crixalis, meaning 'Soul of the Sand,' but others know it as Sand King. "
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_life_stealer"	"Symbiont"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_life_stealer_Description"	"The Infest woun't cause silence to Lifestealer"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_life_stealer_Lore"	"With this infestation, N'aix consumes the life blood of the host, restoring him back to full unholy power."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_rattletrap"	"Overclocking"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_rattletrap_Description" "When Auto-Cast is enabled, the next refreshable ability receives a %cd_down%% reduction in cooldown time and incurs an additional %bonus_manacost%%% of its mana cost.\n<font color='#606060'>This talent's cooldown reduction ignores the standard cooldown reduction limit.</font>"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_rattletrap_Lore"	"What time is it?"
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_tusk"	"Walrus PUNCH!"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_tusk_Description"	"The next attack is a %cri_damage%% critical attack, suspending the target in the air for %fly_time% seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_tusk_Lore"	"It never matters who throws the first punch, only who throws the last."
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_juggernaut"	"ward off blows"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_juggernaut_Description"	"When attacked while in attacking state, negates this damage and gains [Eye Opening], lasting %duration% seconds.\n[Eye Opening]: Attack speed and attack range reach their maximum, lasting for %count% attacks."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_juggernaut_Lore"	"Juggernaut's superb swordsmanship allows him to deal with any attack."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_clinkz"	"Death Pact"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_clinkz_Description"	"When killing a unit, you can temporarily gain 10%% of the target's attack damage and 5%% of the target's health, but the attack damage will not exceed your basic attack damage, and the health value will not exceed five times the attack damage. Disappears after round or death."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_clinkz_Lore"	"Sutherex' bond of life and death has become a part of Clinkz, and his old bones are refreshed with repetition of the pact on lesser beings."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_clinkz_Note0"	"Note:<br>No matter how higher attack damage is, it’s maximum can only be 2,000."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_viper"	"Nethertoxin"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_viper_Description"	"Viper’s attack can cause Passive Disable effect for %duration% seconds. "
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_viper_Lore"	"Poison from the Nether Reaches turns wounds into fatalities, and fatigue into death."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_viper_Note0"	"Note:Не отключается пассивным уничтожением."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_drow_ranger"	"Precision Aura"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_drow_ranger_Description"	"Provides allied heroes within %radius% radius an equal amount of Agility as Drow Ranger's own %index%% base Agility +%agi_lvl% * hero level."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_drow_ranger_Lore"	"The arrival of the Drow Ranger brought a calm atmosphere to everyone present."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_razor"	"Eye of the Storm"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_razor_Description"	"Razor's next attack deals additional physical damage equal to Agility * %agi_index% and reduces the target's armor by %armor% points, stacking independently for %duration% seconds, up to %max_count% stacks."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_razor_Lore"	"Master the Lightning "
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_venomancer"	"Toxin mixing"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_venomancer_Description"	"Upon attacking, unleash a toxin that afflicts a random enemy within its attack range with a virulent poison, stacking independently for a duration of %duration% seconds, capping at %max_stack% stacks. \n[Virulent Poison]: Reduces movement speed by %move_down%, and with each stack, further decreases status resistance by an additional %status_down%."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_venomancer_Lore"	"Paralyzing Poison Sting has become more powerful under the research of Venomancer. "
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_riki"	"Secret Assassin"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_riki_Description"	"Riki has no collision volume. In auto-casting status, Riki always moves behind the target instantly before launching an attack. fixed cooldown of 0.1 second. "
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_riki_Lore"	"Riki comes for you."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_nyx_assassin"	"Vendetta"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_nyx_assassin_Description"	"Nyx Assassin will not be stunned or silenced at night, and attack damage will be increased by 30%%."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_nyx_assassin_Lore"	"The scarab kills for the glory of his queen."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_nyx_assassin_Note0"	"Note:<br>Excluding Infest"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_templar_assassin"	"Refraction"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_templar_assassin_Description"	"Lanaya's Refraction provides double primary attributes, does not lose its blocking performance due to excessive damage taken, and is not pierced by shield-breaking effects."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_templar_assassin_Lore"	"Manipulating her psionic veil, Lanaya bends nature's law to her will."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_vengefulspirit"	"Vengeful Spirit"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_vengefulspirit_Description"	"When an allied creep is killed by the enemy, the killer permanently receives %creep%%% increased damage, capping at %max%%%. Meanwhile, Vengeful Spirit gains an extra %creep% points to all attributes for %duration% seconds.<br><br>If the unit killed is a hero, the effect applies with a multiplier of %index% times."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_vengefulspirit_Lore"	"A bird unable to spread its wings, a chain bound to an endless cycle."
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_vengefulspirit_active"	"Avenger"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_vengefulspirit_active_Description"	"All attributes increased"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_arc_warden"	"Magnetic Field"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_arc_warden_Description"	"Allies within a 300 radius gain 20%% evasion and have a 10%% chance to evade all tracking projectiles every 0.5 seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_arc_warden_Lore"	"Time and space are of little consequence to one as old as Zet."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_naga_siren"	"Song of the Siren"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_naga_siren_Description"	"Activate Song of Siren when the cooldown of the skill completes under auto casting status. All allies enter invincible status and fall into sleep, they can move, but cannot cast spells, attack or use items for 7 seconds, during which 10%% of their maximum health is restored every second."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_naga_siren_Lore"	"Slithice's powerful voice enchants leagues of opponents, while calling her Slithereen kin in a time of need."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_troll_warlord"	"Fervor"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_troll_warlord_Description"	"Gains %attack_speed% attack speed per stack when continuously attacking the same target, stacking up to %max_count% times. Losing %lose_count% stacks when switching to a different target.\nStacks are not lost for %duration% seconds after killing an enemy."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_troll_warlord_Lore"	"If at first you don't succeed, strike, strike again."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_phantom_lancer"	"Phantom Rush"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_phantom_lancer_Description"	"When issuing an attack command against targets within %min_dis% to %max_dis% units, charges at a speed of %speed% and gains %bonus_agi%% bonus Agility for %duration% seconds after the attack."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_phantom_lancer_Lore"	"Azwraith knows that on the field of battle, speed can mean everything."
+
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lone_druid"	"Blessing of Nature"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lone_druid_Description"	"Passively grants healing amplification equal to your spell amplification.<br><br>When activated, blesses up to %limit% allied units within %radius%, healing them for %maxhp_heal%%% of their max health every %interval% seconds, lasting for %duration% seconds.<br><font color=\"#606060\">The cooldown of this talent's healing intervals is reduced by %cd_index%%% efficiency.</font>"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lone_druid_Lore"	"Great Druids can choose from many blessings, and the Blessing of Nature imbues continuous vitality."
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_lone_druid_active"	"Nature's Blessing"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_lone_druid_active_Description"  "Continuously being healed"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_hoodwink"	"Acorn Shot"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_hoodwink_Description"	"Store a chestnut at regular intervals and take it when attacking and cause additional physical damage of 100%% of full attack damage when hitting the target. The chestnut storage interval is 3 seconds, but reduce interval by 0.1 seconds for every 30 agilities and the shortest interval is 1 Second and chestnuts can be stored up to 20."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_hoodwink_Lore"	"Though she'll make do with almost anything, Oak and Ironwood acorns make the most effective projectiles -- and the bulk of Hoodwink's stash."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_hoodwink_Note0"	"Note:<br>affected by passive disable"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ursa"	"Fury Swipes"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ursa_Description"	"On attacking, applies [Furious Swipe] to the target for %duration% seconds, stacking up to %max_count% times.\n[Furious Swipe]: When attacked by Ursa, deals an additional %damage_index%% of Ursa's full attack damage as physical damage."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ursa_Lore"	"In nature, the wounded rarely survive the attacks of hungry predators."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_luna"	"Moon Glaives"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_luna_Description"	"Luna's Moonblade. Attacks bounce twice, but damage dealt by each bounce reduces 25%%."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_luna_Lore"	"Carefully sharpened, Luna's boomerang-like weapon cuts a wide swath through enemy numbers."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_luna_Note0"	"Note:<br>Damage is affected by spell enhancement, which triggers Lifesteal. <br>Disabled by cleave neutralization, does not apply to bonus attacks"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dragon_knight"	"Ancient dragon blood"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dragon_knight_Description"	"Increase the buffs brought by the dragon bloodline by 40%%. (Dragon skin spell damage resist effect, bonus basic health recovery armor)"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dragon_knight_Lore"	"Slyrak's blood still courses through Davion's veins, giving him twice the vitality of an ordinary knight."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dragon_knight_2"	"Dragon Soul"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dragon_knight_2_Description"	"The Dragonheart extends your Ancient Dragon Form duration by %bonus_time% seconds and increases your range by %bonus_attack_range%. Furthermore, [Lava Toxin] replaces the Azure Dragon Toxin within your Ancient Dragon Form.\n[Lava Toxin]: Deals %poison_damage_index%%% of your full attack power as physical damage per second; simultaneously reducing the target's armor by %reduce_armor% points per second (up to a maximum of %reduce_armor_max% points)."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dragon_knight_2_Lore"	"Slyrak is the father of fire. His breath is the hottest thing on the planet"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dawnbreaker_3"	"Stellar Hammer"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dawnbreaker_3_Description"	"Create several War Hammers attached to the weapon, giving your attack a %chance%% chance to generate a Star Breaker Smash effect. When the cooldown is complete, 100%% chance trigger."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dawnbreaker_3_Lore"	"Come and give it a try."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_mirana"	"Starstorm Bond"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_mirana_Description"	"Mirana summons stars to strike up to %limit% enemies within a %radius% radius, dealing damage equal to her level * %lvl_damage% and stunning them for %stun_duration% seconds. Unique effects are unlocked when these heroes are present:<br><br>Mars: Starstorm grants extreme attack speed to both sides for either %attack_speed_count% attacks or %incoming_duration% seconds.<br><br>Davion: Starstorm confers %incoming_down%%% damage reduction to both teams for %incoming_duration% seconds.<br><br>Luna: Starstorm initiates Eclipse for both, dealing %moon_hp_damage%%% of enemies' max HP as damage to up to %limit% foes within a %radius% radius.<br><br>Solo Combat: Attacks have a %chance_self%%% chance to trigger Starstorm individually."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_mirana_Lore"	"Mirana realizes that bonds are the truest treasures."
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_mirana_active_luna"	"Lunar Eclipse"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_mirana_active_luna_Description"  "The moon's hidden face strikes nearby foes."
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_mirana_active_dragon_knight"	"Davion's Dragon Blood"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_mirana_active_dragon_knight_Description" "Gains reduced damage taken."
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_mirana_active_marci"	"Marci's Frenzied Strikes"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_mirana_active_marci_Description" "Attacks at maximum speed."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_morphling_2"	"Wave Form"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_morphling_2_Description"	"Transforms into a surging wave, dealing %damage%% of your full attack power as physical damage to enemies in its path, while imparting [Tidal Stack] upon allies along the way: Each stack grants a %bonus_attack_speed% increase to attack speed and %bonus_move_speed% boost to movement speed, lasting for %duration% seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_morphling_2_Lore"	"A torrential flood takes enemies by force."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_medusa"	"Stone Gaze"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_medusa_Description"	"For enemies with a 500 radius, if they follow you for more than 3 seconds, the unit will be petrified for 2 seconds, during which takes an additional 30%% physical damage. The same unit will not trigger twice within 15 seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_medusa_Lore"	"The beauty of Medusa is legendary."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_broodmother"	"Spawn Spiderlings"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_broodmother_Description"	"A spider hatches at regular intervals, who inherits 50%% of full attack damage and 80%% max health,  lasting for 30 seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_broodmother_Lore"	"Arachnia continued to nurture her offspring, even on the battlefield. Newly hatched spiderlings quickly learn how to support their mother"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_broodmother_Note0"	"Note:<br>Affected by summon strength and summon duration enhancement."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_grimstroke"	"The trial of painting world"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_grimstroke_Description"	"Ink of Fate receives an additional chained cast, with a %once_chance%% chance to trigger an extra chained cast. This can occur up to three times, with the probability halving each time."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_grimstroke_Lore"	"Grimstroke completes his trials in the world of picture, giving a boost to his corrupting powers."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_zuus"	"Thunder"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_zuus_Description"	"Periodically shocks %count% random enemies across the entire map, dealing %int_damage% intelligence-based magical damage and stunning them for %stun_time% seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_zuus_Lore"	"Zeus retrieved his sceptre, and now he is more power"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_winter_wyvern"	"Ancient Wisdom"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_winter_wyvern_Description"	"During rounds 1-6, all allied heroes gain %bonus_int1% intelligence.<br><br>During rounds 7-12, all allied heroes gain %bonus_int2% intelligence.<br><br>After round 13, all allied heroes gain %bonus_int3% intelligence.<br><br>In addition, all allied heroes receive a spell amplification equal to %baseint_index%%% of their intelligence, with a minimum of %min%%%."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_winter_wyvern_Lore"	"Auroth's ancient lifespan has witnessed the rise and fall of worlds, and now is the time for this ancient wisdom to awaken."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lich"	"Dark Ritual"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lich_Description"	"Activate auto-casting, if mana is less than 40%%, sacrifice the nearest common unit within 800 radius to gain 20%% mana recovery."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lich_Lore"	"When the Lich is weak, he will choose to sacrifice his teammates in exchange for restore of health."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_puck"	"Half step to the Evolution"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_puck_Description"	"Punk enters a false evolution phase within 1 minute after the start of the round. In this phase, gain 300 points of bonus casting range, increase intelligence by 15%% and spell range by 30%%. (You can also enter this state again after completing the full cooldown period)"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_puck_Lore"	"Puck was in her infancy, but only because she suppressed her energy. At some point, she can unleash her potential to put her body in a pre-evolutionary state, which increase her powers, but she won't choose to complete the evolution because she still has an unfinished mission."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pugna"	"Annihilation"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pugna_Description"	"Keeps track of skill damage dealt. When the recorded damage reaches %int_need% times Intelligence, the next spell cast will detonate around self, dealing %damage_index%% of the recorded value as pure damage within a %radius% radius."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pugna_Lore"	"Pugna annihilates his enemies."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_pugna_Note0"	"Note:<br>Not record reflection, hp lost , no spell lifestal damage"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_disruptor"	"Thunder Strike"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_disruptor_Description"	"On the next attack, applies Lightning Overload to the target, striking it once every %interval% seconds for a total of %count% strikes. Each strike deals %int_damage% intelligence-based magical damage in a %radius% area around its position.\nEach attack reduces the current cooldown of this effect by %cd_index%% ."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_disruptor_Lore"	"Disruptor's charged coils occasionally overload, and a singed armor plate or tuft of fur is the enemy's result."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dazzle"	"Enlightenment from the Nothl Realm"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dazzle_Description"	"When an allied hero receives fatal damage, they gain [Nether Guidance] for %duration% seconds.<br><br>[Nether Guidance]: Prevents death and heals %hplose_heal%%% of lost health every second."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_dazzle_Lore"	"Only a seasoned acolyte of the Shadow can properly perform the rite of preventing death."
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_dazzle_effect"	"Nether Guidance"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_dazzle_effect_Description"	"Survives death and continues to receive healing"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_leshrac" "Void Desire" 
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_leshrac_Description"  "As a tormented soul, Leshrac's Void Desire reduces magic resistance by %magic_resist%% for all units" 
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_leshrac_Lore" "Leshrac yearns to drag everyone into the abyss of torment, allowing them to savor the suffering he has endured."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_rubick"	"Arcane Supremacy"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_rubick_Description"	"The Advanced spell learned by Rubick will take the current level +3 when calculating the base value bonus. (Does not affect the unlocking of special effects)"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_rubick_Lore"	"Not every Magister can become a Grand Magister."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_shadow_demon"  "Shadow Toxin" 
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_shadow_demon_Description"  "Shadow Demon inflicts [Shadow Toxin] on targets when dealing damage: reducing base attack damage by %atk_reduce%% and status resistance by %status_reduce%% for %duration% seconds." 
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_shadow_demon_Lore"  "Shadow Demon injects malevolent toxins into those he harms."
+
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_shadow_shaman"  "Ritual Magic: Polymorph" 
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_shadow_shaman_Description"  "Passive Effect: Upon killing a unit, randomly selects one within a %radius% radius around the target and transforms it into a harmless little animal for %duration% seconds.\nActive Use: Channels ritual magic, which is interrupted if attacked. Upon completion, polymorphs all enemies for %a_duration% seconds, during which they are immune to magic immunity, invincibility, and ignore all of the targets' status resistances." 
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_shadow_shaman_Lore"  "Rostam typically ends his performances by turning himself into a chicken; now he shares this humiliation with others."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_warlock"	"Shadow Word"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_warlock_Description"	"Designates a friendly hero, healing them for an amount equal to the Warlock's own Intelligence multiplied by %int_index% every %interval% seconds. If the designated ally's health falls below %double_line%%, the healing effect is doubled."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_warlock_Lore"	"Warlock arcane arts have a myriad of uses, allowing them to be powerful friendly enchantments or damaging curses."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_obsidian_destroyer"	"Arcane Orb"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_obsidian_destroyer_Description"	"Gains %mana_lvl% maximum mana per level. His attacks deal %mana_index%% of his maximum mana as pure damage."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_obsidian_destroyer_Lore"	"Harbinger's outworldly knowledge allows it to tap into the ebb and flow of all spiritual energy, infusing it into his being."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_crystal_maiden"	"Cooldown"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_crystal_maiden_Description"	"Every time a skill is released, reduce cooldown of other skills by 2 seconds, but the cooldown of yourself will be fixed for 3.8 seconds, but will not trigger after the cooldown is greater than 15 seconds (it cannot be refreshed by itself, and does not affect non-refreshable skills)"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_crystal_maiden_Lore"	"Rylai just standing there would cause the temperature to drop dramatically."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_crystal_maiden_Note0"	"Note:<br>Cant refresh items<br>Only enable when the spell cooldown more then 2.5s"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_queenofpain"	"Double pain"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_queenofpain_Description"	"Increase damage dealt by Queen of Pain by 28%%, but increase damage taken by her by 10%%. "
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_queenofpain_Lore"	"unparalleled pain."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_necrolyte"	"Domain of death"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_necrolyte_Description"	"Corrodes the body resistance of enemies within a %radius% radius,  reducing their status resistance and heal amp by %heal_amp%%."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_necrolyte_Lore"	"necrolyte brought the breath of death to the world."
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_visage"	"Soul Devourer Visage"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_visage_Description"	"Visage consumes the souls of units that perish within %radius% of him, gaining %bonus_attack% attack damage per soul and %max% all game, capping at %turn_max% souls absorbed per round.<br><br>Upon amassing %line1% souls, he gains an extra %bonus_attack_speed% attack speed.<br><br>At the threshold of %line2% souls absorbed, his attack range increases by %bonus_attack_range%.<br><br>When he has absorbed %line3% souls, his initial strike on a target inflicts extra %maxhp_damage%%% of their maximum health as Pure damage."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_visage_Lore"	"He embodies the underworld, he is death itself—Visage's gaze harvests souls from the shadows."
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_visage_aura"	"Soul Absorption"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_visage_aura_Description"    "Increases attack damage"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lion"	"Mana Drain"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lion_Description"	"When your current mana falls below %mana_line_self%% , you can enable autocast: Absorb mana from the nearest allied unit within a %radius% radius at a rate of %speed_int_index% points per second based on your Intelligence. The target loses half of the mana absorbed, until their mana drops below %mana_line_ally% points."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_lion_Lore"	"Lesser magi are nothing more than a source of magical restoration for the Demon Witch."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ogre_magi"	"Double Casting"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ogre_magi_Description"	"When casting a refreshable skill, there is a %chance%%  chance to refresh the cooldown of this spell."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_ogre_magi_Lore"	"Despite being largely incapacitated by his IQ, the Ogre Magi's success in battle is attributed to pure skill."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_enchantress"	"Friendship price"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_enchantress_Description"	"Reduce skill upgrade/upgrade cost by 20%%."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_enchantress_Lore"	"everyone loves me. "
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_furion"	"Tranquil"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_furion_Description"	"Increase Hp regeneration from all effects of all allies by %hp_regen_up%%."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_furion_Lore"	"Emerald green covers your head."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_primal_beast"	"Trample"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_primal_beast_Description"	"Primal Beast stomps over everything but cant attack. For every 140.0 units traveled, all enemies 400 range around the Beast receive damage. Deals 30%% multiplier of Primal Beast's attack damage. (Change auto cast status to on/off)"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_primal_beast_Lore"	"As the only member of his species to arrive on this world, locals can only speculate on the Beast's size relative to his kin. Such observation would prove easier of course if the subject didn't eat everything it sees and destroy most of what it doesn't."
+
+"Dota_Tooltip_ability_heroTalent_npc_dota_hero_storm_spirit_4" "Tiger Talisman of Storm's Wrath"
+"Dota_Tooltip_ability_heroTalent_npc_dota_hero_storm_spirit_4_Description" "Master of countless tempests, Storm Spirit causes his [Summon wind element] to inherit an additional %bonus_damage% of his full attack damage.<br><br>Upon cooldown completion, replaces [Summon wind element] in %CD_index% multiple cooldown duration."
+"Dota_Tooltip_ability_heroTalent_npc_dota_hero_storm_spirit_4_Lore" "If a storm can fell great trees, then a storm of them can lay waste to the jungle."
+"Dota_Tooltip_ability_heroTalent_npc_dota_hero_monkey_king_3" "Battling Artistry"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_monkey_king_3_Description" "Sun Wukong's mastery in battle enhances his attack range by %bonus_attack_range%. When autocast is enabled, the attack range bonus is lost, but his attack interval becomes %base_attack_time% seconds and he gains an additional %bonus_agi_lvl% agility growth per level.\n[Battle Momentum]: After attacking %attack_need% times, gain %attack_index%% full attack damage, %attack_index%% damage increase, and %Diff_effciency%% cleave effect within a radius of %cleave_radius% for %duration% seconds or until the next attack."
+"Dota_Tooltip_ability_heroTalent_npc_dota_hero_monkey_king_3_Lore" "Having braved eighty-one tribulations, the original intent remains unyielding."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_spirit_breaker_2" "Imaginary Submerged Navigation"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_spirit_breaker_2_Description" "Spirit Breaker has NO unit collision and NO movement speed limit, gaining 1 stack of [Imaginary Submerged Navigation] every %move_need% yards traveled, lasting %stacks_duration% seconds, stacking up to %max_stacks% layers.\n[Imaginary Submerged Navigation]: Grants %vision%% increased vision range and %bonus_move% bonus movement speed per layer. The next attack gains a split effect with a radius of (%bonus_range% * number of stacks), dealing (%bonus_range_damage%% * number of stacks) damage, followed by (%bonus_cri%% * number of stacks) critical damage, transitioning into the [Real Number Manifestation] state.<br><br>- Enters stealth for %inv_duration% seconds per second when stack count exceeds %mid_stacks%.\n[Real Number Manifestation]: Grants magic immunity, 100% status resistance, and invulnerability to damage while being stunned, lasting up to (%bonus_stun_duration% * [Imaginary Submerged Navigation] stacks) seconds."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_spirit_breaker_2_Lore" "Spirit Breaker navigates between the realms of real and imaginary numbers, unleashing devastation through a dimension-shifting strike."
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_imag" "Imaginary Submerged Navigation" 
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_imag_Description" "Increased movement speed, accumulating power" 
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_qed" "Real Number Manifestation" 
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_qed_Description" "Freshly emerged from the imaginary dimension, currently buffering"
+
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_muerta"	"Gun Slinger"
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_muerta_Description"	"Muerta's projectile speed increases to %pro_speed% points. When attacking, there is a %chance%% chance to attack an additional target within self attack range + %radius% radius around the primary target and within a 60° angle ahead of herself.\nIf no other units are present, the same target is attacked."
+"DOTA_Tooltip_ability_heroTalent_npc_dota_hero_muerta_Lore"	"Muerta will give her kindness to all her targets. Some of them will be blessed with good luck."
+
+
+"DOTA_HUD_TelentSelectTitle"  "Hero Talent Selection"

@@ -1,0 +1,252 @@
+"DOTAAbilities"
+{
+    "Primary_fiery_soul"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lina_fiery_soul"
+        "ScriptFile"               "skills/Primary_fiery_soul"
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "MaxLevel"                 "5"
+        "RequiredLevel"            "0"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+            "fiery_soul_attack_speed_bonus"    "20 25 30 35 40"
+            "fiery_soul_move_speed_bonus"      "3 4 5 6 7"
+            "fiery_soul_max_stacks"            "5"
+            "duration_tooltip"                 "10"
+        }
+    }
+    "Middle_fiery_soul"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lina_fiery_soul"
+        "ScriptFile"               "skills/Middle_fiery_soul"
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "MaxLevel"                 "3"
+        "RequiredLevel"            "0"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+            "fiery_soul_attack_speed_bonus"    "40 45 50"
+            "fiery_soul_move_speed_bonus"      "7 8 10"
+            "fiery_soul_max_stacks"            "5"
+            "duration_tooltip"                 "10"
+        }
+    }
+    "Advanced_fiery_soul"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lina_fiery_soul"
+        "ScriptFile"               "skills/Advanced_fiery_soul"
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "MaxLevel"                 "1"
+        "RequiredLevel"            "0"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+            "fiery_soul_attack_speed_bonus"    "50"
+            "fiery_soul_move_speed_bonus"      "10"
+            "fiery_soul_max_stacks"            "5"
+            "duration_tooltip"                 "10"
+            "advanced_level"                   "1"
+        }
+    }
+    "Primary_laguna_blade"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lina_laguna_blade"
+        "ScriptFile"               "skills/Primary_laguna_blade"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_4"
+        "AbilityCooldown"          "50"
+        "AbilityManaCost"          "200 250 300 350 400"
+        "AbilityCastRange"         "1000"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_lina/lina_spell_laguna_blade.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"          "600 750 900 1050 1300"
+            "bonus_damage"    "6 7.5 9 10.5 13"
+            "jump_count"      "6"
+        }
+    }
+    "Middle_laguna_blade"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lina_laguna_blade"
+        "ScriptFile"               "skills/Middle_laguna_blade"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_4"
+        "AbilityCooldown"          "50"
+        "AbilityManaCost"          "400 450 500"
+        "AbilityCastRange"         "1000"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_lina/lina_spell_laguna_blade.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"          "1300 1500 1700"
+            "bonus_damage"    "13 15 17"
+            "jump_count"      "6"
+        }
+    }
+    "Advanced_laguna_blade"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lina_laguna_blade"
+        "ScriptFile"               "skills/Advanced_laguna_blade"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_4"
+        "AbilityCooldown"          "50"
+        "AbilityManaCost"          "500"
+        "AbilityCastRange"         "1000"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_lina/lina_spell_laguna_blade.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"            "1900"
+            "bonus_damage"      "19"
+            "jump_count"        "6"
+            "advanced_level"    "1"
+        }
+    }
+    "Primary_dragon_slave"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lina_dragon_slave"
+        "ScriptFile"               "skills/Primary_dragon_slave"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_POINT"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CHANNEL_ABILITY_1"
+        "AbilityCooldown"          "15 14 13 12 11"
+        "AbilityManaCost"          "80 90 100 110 120"
+        "AbilityCastRange"         "100"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_lina/lina_spell_dragon_slave_impact.vpcf"
+            "particle"    "particles/units/heroes/hero_lina/lina_spell_dragon_slave.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"          "180 230 280 330 380"
+            "bonus_damage"    "1.5 1.7 1.9 2.1 2.3"
+            "range"           "700 800 900 1000 1100"
+        }
+    }
+    "Middle_dragon_slave"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "lina_dragon_slave_alt1"
+        "ScriptFile"               "skills/Middle_dragon_slave"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_POINT"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CHANNEL_ABILITY_1"
+        "AbilityCooldown"          "11"
+        "AbilityManaCost"          "120"
+        "AbilityCastRange"         "100"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_lina/lina_spell_dragon_slave_impact.vpcf"
+            "particle"    "particles/units/heroes/hero_lina/lina_spell_dragon_slave.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"          "380 480 580"
+            "bonus_damage"    "2.3 2.8 3.3"
+            "range"           "1100"
+        }
+    }
+    "Advanced_dragon_slave"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_elder_dragon_form_persona1"
+        "ScriptFile"               "skills/Advanced_dragon_slave"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_POINT"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CHANNEL_ABILITY_1"
+        "AbilityCooldown"          "11"
+        "AbilityManaCost"          "120"
+        "AbilityCastRange"         "100"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/rebuild/spell/dragon_slave/new_dragon_slave_headflame.vpcf"
+            "particle"    "particles/units/heroes/hero_lina/lina_spell_dragon_slave_impact.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"            "600"
+            "bonus_damage"      "3.5"
+            "range"             "1100"
+            "advanced_level"    "1"
+        }
+    }
+}

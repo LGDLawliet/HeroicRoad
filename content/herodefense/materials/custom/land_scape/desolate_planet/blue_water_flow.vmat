@@ -1,0 +1,126 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "multiblend.vfx"
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Specular ----
+	F_SPECULAR 1
+
+	//---- Global ----
+	g_flSpecularBloom "0.000"
+	g_flSpecularIntensity "1.000"
+
+	//---- Layer 0 ----
+	g_flTexCoordRotate0 "0.000"
+	g_flTexCoordScale0 "1.000"
+	g_vColorTint0 "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset0 "[0.221 0.000]"
+	g_vTexCoordScroll0 "[-0.050 -0.050]"
+	TextureBloom0 "[0.850000 0.850000 0.850000 0.000000]"
+	TextureColor0 "[0.450980 1.000000 0.905882 1.000000]"
+	TextureNormal0 "materials/custom/land_scape/desolate_planet/t_water_norm.png"
+	TextureReflectance0 "[0.626000 0.626000 0.626000 0.000000]"
+	TextureSelfIllumMask0 "materials/models/heroes/terrorblade/terrorblade_detail.psd"
+
+	//---- Layer 1 ----
+	g_flTexCoordRotate1 "0.000"
+	g_flTexCoordScale1 "1.000"
+	g_vColorTint1 "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset1 "[0.000 0.000]"
+	g_vTexCoordScroll1 "[-0.050 -0.050]"
+	TextureBloom1 "[0.000000 0.000000 0.000000 0.000000]"
+	TextureColor1 "materials/custom/land_scape/desolate_planet/lava_02_color.png"
+	TextureNormal1 "materials/default/default_normal.tga"
+	TextureReflectance1 "materials/default/default_refl.tga"
+	TextureRevealMask1 "materials/custom/land_scape/desolate_planet/lava_01_34ef93be_blend.png"
+	TextureSelfIllumMask1 "materials/default/default_selfillum.tga"
+
+	//---- Layer 2 ----
+	g_flTexCoordRotate2 "0.000"
+	g_flTexCoordScale2 "4.000"
+	g_vColorTint2 "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset2 "[0.000 0.000]"
+	g_vTexCoordScroll2 "[-0.050 -0.050]"
+	TextureBloom2 "[0.000000 0.000000 0.000000 0.000000]"
+	TextureColor2 "[1.000000 1.000000 1.000000 1.000000]"
+	TextureNormal2 "materials/default/default_normal.tga"
+	TextureReflectance2 "[0.100000 0.100000 0.100000 0.000000]"
+	TextureRevealMask2 "[0.500000 0.500000 0.500000 0.000000]"
+	TextureSelfIllumMask2 "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Layer 3 ----
+	g_flTexCoordRotate3 "0.000"
+	g_flTexCoordScale3 "1.000"
+	g_vColorTint3 "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset3 "[0.000 0.000]"
+	g_vTexCoordScroll3 "[-0.075 -0.075]"
+	TextureBloom3 "materials/custom/land_scape/desolate_planet/lava_01_selfillum_fed17248-b.png"
+	TextureColor3 "materials/custom/land_scape/desolate_planet/lava_01_color.png"
+	TextureNormal3 "materials/default/default_normal.tga"
+	TextureReflectance3 "[0.000000 0.000000 0.000000 0.000000]"
+	TextureRevealMask3 "materials/custom/land_scape/desolate_planet/lava_01_34ef93be_blend.png"
+	TextureSelfIllumMask3 "materials/default/default_selfillum.tga"
+
+	//---- Normal Map ----
+	g_flBumpStrength "2.466"
+
+	Attributes
+	{
+		dota.nav.walkable "1"
+	}
+
+	UnusedVariables
+	{
+		"g_flScrollWaveCycleSkip0" "0"
+		"g_flScrollWaveHeight0" "0.253"
+		"g_flScrollWaveOffsetSeconds0" "0"
+		"g_flScrollWaveSecondsPerCycle0" "6"
+		"g_flScrollWaveCycleSkip1" "0"
+		"g_flScrollWaveHeight1" "0"
+		"g_flScrollWaveOffsetSeconds1" "0"
+		"g_flScrollWaveSecondsPerCycle1" "6"
+		"g_flScrollWaveCycleSkip2" "0"
+		"g_flScrollWaveHeight2" "0"
+		"g_flScrollWaveOffsetSeconds2" "0"
+		"g_flScrollWaveSecondsPerCycle2" "6"
+		"g_flScrollWaveCycleSkip3" "0"
+		"g_flScrollWaveHeight3" "0"
+		"g_flScrollWaveOffsetSeconds3" "0"
+		"g_flScrollWaveSecondsPerCycle3" "6"
+	}
+
+
+	VariableState
+	{
+		"Global"
+		{
+			"_expanded" 0
+		}
+		"Layer 0"
+		{
+			"Texture Coords" 0
+		}
+		"Layer 1"
+		{
+			"_expanded" 0
+			"Texture Coords" 0
+		}
+		"Layer 2"
+		{
+			"_expanded" 0
+			"Texture Coords" 0
+		}
+		"Layer 3"
+		{
+			"_expanded" 0
+			"Texture Coords" 0
+		}
+		"Normal Map"
+		{
+		}
+	}
+}

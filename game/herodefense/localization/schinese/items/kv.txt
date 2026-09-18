@@ -1,0 +1,76 @@
+// "dota_ability_variable_health"				"生命值"					// $health
+"dota_ability_variable_health_pct"				"生命值 [+]"					// $health_pct
+// "dota_ability_variable_mana"				"魔法值"						// $mana
+// "dota_ability_variable_armor"				"护甲"						// $armor
+// "dota_ability_variable_damage"				"攻击力"					// $damage
+// "dota_ability_variable_str"					"力量"					// $str
+// "dota_ability_variable_int"					"智力"				// $int
+// "dota_ability_variable_agi"					"敏捷"					// $agi
+"dota_ability_variable_all"					"全属性"			// $all
+// "dota_ability_variable_primary_attribute"	"主属性"			// $primary_attribute
+// "dota_ability_variable_attack"				"攻击速度"				// $attack
+// "dota_ability_variable_hp_regen"			"生命恢复"		// $hp_regen
+// "dota_ability_variable_lifesteal"			"吸血"					// $lifesteal
+// "dota_ability_variable_mana_regen"			"魔法恢复"			// $mana_regen
+// "dota_ability_variable_mana_regen_aura"		"魔法恢复光环"	// $mana_regen_aura
+// "dota_ability_variable_spell_amp"			"技能增强"				// $spell_amp
+// "dota_ability_variable_debuff_amp"			"负面状态持续时间增强"			// $debuff_amp
+"dota_ability_variable_positive_amp"	"正面状态持续时间"			// $positive_amp
+// "dota_ability_variable_move_speed"			"移动速度"			// $move_speed
+// "dota_ability_variable_evasion"				"闪避"					// $evasion
+// "dota_ability_variable_spell_resist"		"魔法抗性"			// $spell_resist
+// "dota_ability_variable_spell_lifesteal"		"技能吸血"			// $spell_lifesteal
+// "dota_ability_variable_spell_lifesteal_creep"	"技能吸血（非英雄）"	// $spell_lifesteal_creep
+// "dota_ability_variable_spell_lifesteal_hero"	"技能吸血（英雄）"	// $spell_lifesteal_hero
+// "dota_ability_variable_selected_attrib"		"所选属性"		// $selected_attribute
+// "dota_ability_variable_attack_range"		"攻击距离<font color='#7d7d7d'>（仅对远程有效）</font>"	// $attack_range
+// "dota_ability_variable_attack_range_melee"	"攻击距离<font color='#7d7d7d'>（仅对近战有效）</font>"	// $attack_range_melee
+// "dota_ability_variable_cast_range"			"施法距离"				// $cast_range
+// "dota_ability_variable_status_resist"		"状态抗性"			// $status_resist
+// "dota_ability_variable_projectile_speed"	"弹道速度"			// $projectile_speed
+// "dota_ability_variable_manacost_reduction"	"魔法消耗降低"		// $manacost_reduction
+"dota_ability_variable_cooldown_reduction"	"冷却缩减"		// $cooldown_reduction 
+// "dota_ability_variable_max_mana_percentage"	"额外最大魔法值"			// $max_mana_percentage
+"dota_ability_variable_summon_intensity"	"召唤增强"			// $summon_intensity
+"dota_ability_variable_summon_time_intensity"	"召唤时间"			// $summon_time_intensity
+"dota_ability_variable_full_damage"				"全额攻击力"					// $full_damage
+"dota_ability_variable_all_attribute"				"全属性"					// $all_attribute
+"dota_ability_variable_probability"				"概率事件触发增强"					// $probability
+"dota_ability_variable_base_str"					"基础力量"					// $base_str
+"dota_ability_variable_base_int"					"基础智力"				// $base_int
+"dota_ability_variable_base_agi"					"基础敏捷"					// $base_agi
+"dota_ability_variable_base_all_attribute"				"基础全属性"					// $base_all_attribute
+"dota_ability_variable_heal_amp"				"治疗增强"					// $heal_amp
+"dota_ability_variable_heal_receive_amp"				"受到治疗增强"					// $heal_receive_amp
+"dota_ability_variable_base_damage"				"基础攻击力"					// $base_damage
+"dota_ability_variable_anti_attack_range"		"<font color=\"#d9534f\">攻击距离</font><font color='#7d7d7d'>（仅对远程有效）</font>"	// $anti_attack_range
+"dota_ability_variable_anti_attack_range_melee"		"<font color=\"#d9534f\">攻击距离</font><font color='#7d7d7d'>（仅对近战有效）</font>"	// $anti_attack_range_melee
+"dota_ability_variable_lifesteal_gain"			"吸血增强"					// $lifesteal_gain
+"dota_ability_variable_health_regeneration_amplification"			"生命恢复增强"					// $health_regeneration_amplification
+"dota_ability_variable_mana_regeneration_amplification"			"魔法恢复增强"					// $mana_regeneration_amplification
+"dota_ability_variable_outgoing_add"	"伤害增加 [+]"  //$outgoing_add
+"dota_ability_variable_outgoing_mult"	"伤害总增 [×]"  //$outgoing_mult
+"dota_ability_variable_incoming"	"伤害减免"  //$incoming
+"dota_ability_variable_elite_incoming"	"对精英伤害减免"  //$elite_incoming
+"dota_ability_variable_elite_outgoing_add"	"对精英伤害增加 [+]"  //$elite_outgoing_add
+"dota_ability_variable_elite_outgoing_mult"	"对精英伤害增加 [×]"  //$elite_outgoing_mult
+"dota_ability_variable_profic"	"精通"			// $profic
+"dota_ability_variable_maxhp_regen"	"最大生命恢复"			// $maxhp_regen
+"dota_ability_variable_maxmp_regen"	"最大魔法恢复"			// $maxmp_regen
+"dota_ability_variable_losthp_regen"	"已损失生命值恢复"			// $losthp_regen
+"dota_ability_variable_lostmp_regen"	"已损失魔法值恢复"			// $lostmp_regen
+"dota_ability_variable_vision"	"视野范围"			// $vision
+"dota_ability_variable_spell_amp"	"技能增强"			// $spell_amp
+"dota_ability_variable_red_str"					"<font color=\"#d9534f\">力量</font><font color='#7d7d7d'>"					// $red_str
+"dota_ability_variable_red_int"					"<font color=\"#d9534f\">智力</font><font color='#7d7d7d'>"				// $red_int
+"dota_ability_variable_red_agi"					"<font color=\"#d9534f\">敏捷</font><font color='#7d7d7d'>"					// $red_agi
+
+
+"dota_ability_variable_red_spell_resist"		"<font color=\"#d9534f\">魔法抗性</font><font color='#7d7d7d'>"			// $red_spell_resist
+
+
+"dota_ability_variable_armor_needlv"		"护甲（若圣物等级达标）"			// $armor_needlv
+"dota_ability_variable_maxhp_regen_needlv"		"最大生命恢复（若圣物等级达标）"			// $maxhp_regen_needlv
+"dota_ability_variable_maxmp_regen_needlv"		"最大魔法恢复（若圣物等级达标）"			// $maxmp_regen_needlv
+"dota_ability_variable_damage_needlv"		"攻击力（若圣物等级达标）"			// $damage_needlv
+"dota_ability_variable_spell_amp_needlv"		"技能增强（若圣物等级达标）"			// $spell_amp_needlv

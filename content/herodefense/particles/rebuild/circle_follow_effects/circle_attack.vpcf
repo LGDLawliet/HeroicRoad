@@ -1,0 +1,123 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf63:version{a6e6a69e-52d3-4527-8b9c-ff3bb91aca3e} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_flCullRadius = 80.0
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 1.0, 1.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 60
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 8.0, 229.0, 96.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 61
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_HSVShiftToCP"
+			m_DefaultHSVColor = [ 25, 50, 113, 255 ]
+		},
+		{
+			_class = "C_OP_StopAfterCPDuration"
+			m_flDuration = 
+			{
+				m_nType = "PF_TYPE_CONTROL_POINT_COMPONENT"
+				m_nControlPoint = 2
+				m_nVectorComponent = 0
+				m_nMapType = "PF_MAP_TYPE_MULT"
+				m_flMultFactor = 1.0
+			}
+		},
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_nCP1 = 0
+			m_vecCP1Pos = [ 0.0, 0.0, 10.0 ]
+			m_transformInput = 
+			{
+				m_nControlPoint = 3
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/units/heroes/hero_magnataur/magnataur_reverse_polarity_rebuild_b.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/units/heroes/hero_magnataur/magnataur_reverse_polarity_rebuild_c.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/units/heroes/hero_magnataur/magnataur_reverse_polarity_rebuild_d.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/circle_follow_effects/circle_attack_e.vpcf"
+		},
+		{
+			m_bEndCap = true
+			m_ChildRef = resource:"particles/rebuild/circle_follow_effects/circle_attack_f.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/circle_follow_effects/circle_attack_smoke.vpcf"
+		},
+		{
+			m_bEndCap = true
+			m_ChildRef = resource:"particles/rebuild/circle_follow_effects/circle_attack_g.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/circle_follow_effects/circle_attack_i.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/circle_follow_effects/circle_attack_shockwave.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/units/heroes/hero_magnataur/magnataur_reverse_polarity_rebuild_flare.vpcf"
+		},
+		{
+			m_bEndCap = true
+			m_ChildRef = resource:"particles/rebuild/circle_follow_effects/circle_attack_j.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/circle_follow_effects/circle_attack_field_lines.vpcf"
+			m_bDisableChild = true
+		},
+	]
+}

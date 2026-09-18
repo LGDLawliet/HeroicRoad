@@ -1,0 +1,97 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf59:version{6cf97bfa-52a0-441a-87f0-856fb7aaa129} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 5
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/items/huskar/husk_2022_immortal/husk_2022_immortal.vmdl"
+				m_nModSpecificData = 22716
+				m_sequenceName = "idle"
+				m_hitboxSetName = "default"
+				m_materialGroupName = "default"
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_light.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_dark_smoke.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_lava_splat.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionava_blast_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_cable_upwards.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_ground_cracks.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_formation.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_vertical_lightbeam.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_liquid_impact.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_flame_vertical.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_fire.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_impact_ring.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_embers.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_impact_lava_blob.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_lava_bubble_impact.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_directional_impact.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/spirit_breaker_2/explosionife_break_gold_sparkle_impact.vpcf"
+		},
+	]
+}

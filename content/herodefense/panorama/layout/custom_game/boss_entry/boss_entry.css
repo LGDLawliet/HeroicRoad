@@ -1,0 +1,47 @@
+.test{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    position: 820px 50px 0 ;
+}
+.div{
+    width: 400px;
+    height: 100px;
+}
+#div_boss{
+    background-color: blue;
+}
+#div_entry{
+    position: 0 100px 0;
+    background-color: green;
+}
+#boss_head_image{
+    width: 90px;
+    height: 90px;
+    background-color: red;
+    position: 150px 5px 0;
+}
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    position: 100px 0 0;
+}
+#box1{
+    position: 25px 25px 0;
+}
+#box2{
+    position: 85px 25px 0;
+}
+#box3{
+    position: 145px 25px 0;
+}
+#box4{
+    position: 205px 25px 0;
+}
+#box5{
+    position: 265px 25px 0;
+}
+#box6{
+    position: 325px 25px 0;
+}

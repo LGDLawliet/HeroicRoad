@@ -1,0 +1,62 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "water_dota.vfx"
+
+	//---- Flow ----
+	F_FLOW_NORMALS 1
+
+	//---- Color ----
+	g_vTexCoordScale "[0.000 0.000]"
+
+	//---- Flow ----
+	g_flFlowTimeScale "4.455"
+
+	//---- Flow Noise ----
+	g_flNoiseStrength "1.000"
+	g_flNoiseUvScale "0.5000"
+	TextureNoise "materials/default/default_noise.tga"
+
+	//---- Flow Normals ----
+	g_flNormalFlowLerpExp "1.000"
+	g_flNormalFlowTimeIntervalInSeconds "0.400"
+	g_flNormalFlowUvScrollDistance "0.250"
+	g_flNormalUvScale "108.911"
+	g_flWorldPositionScale "1.485"
+	TextureFlow "materials/models/heroes/undying/undying_tower_glow_detail.psd"
+
+	//---- Low End ----
+	g_flLowEndBaseBloom "0.343"
+	g_flLowEndBloomPower "3.564"
+	g_flLowEndBumpStrength "0.150"
+	g_flLowEndReflectionPower "0.010"
+	g_flLowEndSurfaceFactor "0.376"
+	g_flLowEndSurfaceMinimumColor "0.219"
+	g_flLowEndSurfaceOpacity "0.198"
+	g_vLowEndReflectionColor "[0.949020 0.478431 0.478431 0.000000]"
+	g_vLowEndReflectionDir "[0.000 0.333 1.000]"
+	g_vLowEndSurfaceColor "[0.501961 0.501961 0.501961 0.000000]"
+
+	//---- Normal Map ----
+	g_flBumpStrength "0.198"
+	TextureNormal "materials/example/water_2.tif"
+
+	//---- Reflections ----
+	g_flReflectance "0.673"
+	g_flReflectionAmount "1.000"
+	g_vReflectionTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Refractions ----
+	g_flRefractionAmount "0.158"
+	g_flWaterDepth "29.703"
+	g_vRefractionTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vWaterFogColor "[0.294118 0.039216 0.039216 0.000000]"
+
+	//---- Specular ----
+	g_flBaseBloom "0.451"
+	g_flBloomPower "0.297"
+	g_flReflectionPower "5.351"
+	g_vReflectionColor "[0.000000 1.000000 0.882353 0.000000]"
+	g_vReflectionDir "[-0.591 -0.289 1.000]"
+}

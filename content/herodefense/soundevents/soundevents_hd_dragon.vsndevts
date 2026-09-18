@@ -1,0 +1,112 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	Creep_Ancient_Dragon.Wings_fly = 
+		{
+			type = "dota_src1_3d"
+			volume_rand_min = -0.099976
+			volume_rand_max = 0.099976
+			volume = 0.899878
+			pitch_rand_min = -0.050000
+			pitch_rand_max = 0.050000
+			pitch = 1.200000
+			soundlevel = 75.000000
+			distance_max = 1500.000000
+			event_type = 1.000000
+			vsnd_files = 
+			[
+				"sounds/dragon/fly/wing_1.vsnd",
+				"sounds/dragon/fly/wing_2.vsnd",
+				"sounds/dragon/fly/wing_3.vsnd",
+
+			]
+			vsnd_duration = 0.734172
+		}
+	Creep_Ancient_Dragon.normal_1 = 
+		{
+			type = "dota_src1_3d"
+			volume_rand_min = -0.099976
+			volume_rand_max = 0.099976
+			volume = 0.899878
+			pitch_rand_min = -0.050000
+			pitch_rand_max = 0.050000
+			pitch = 1.200000
+			soundlevel = 75.000000
+			distance_max = 1500.000000
+			event_type = 1.000000
+			vsnd_files = 
+			[
+				"sounds/dragon/idle/long_6.vsnd",
+
+
+			]
+
+		}
+	Creep_Ancient_Dragon.ability1 = 
+		{
+			type = "dota_src1_3d"
+			volume_rand_min = -0.099976
+			volume_rand_max = 0.099976
+			volume = 2.599878
+			pitch_rand_min = -0.050000
+			pitch_rand_max = 0.050000
+			pitch = 1.00000
+			soundlevel = 75.000000
+			distance_max = 1500.000000
+			event_type = 1.000000
+			vsnd_files = 
+			[
+				"sounds/dragon/ability1.vsnd",
+
+
+			]
+
+		}
+			Creep_Ancient_Dragon.ability1_main = 
+		{
+			type = "dota_src1_3d"
+			volume_rand_min = -0.099976
+			volume_rand_max = 0.099976
+			volume = 2.599878
+			pitch_rand_min = -0.050000
+			pitch_rand_max = 0.050000
+			pitch = 1.00000
+			soundlevel = 75.000000
+			distance_max = 1500.000000
+			event_type = 1.000000
+			vsnd_files = 
+			[
+				"sounds/dragon/ability_1_main.vsnd",
+
+
+			]
+
+		}
+
+			Creep_Ancient_Dragon.die = 
+		{
+			type = "dota_src1_3d"
+			volume_rand_min = -0.099976
+			volume_rand_max = 0.099976
+			volume = 2.599878
+			pitch_rand_min = -0.050000
+			pitch_rand_max = 0.050000
+			pitch = 1.00000
+			soundlevel = 75.000000
+			distance_max = 1500.000000
+			event_type = 1.000000
+			vsnd_files = 
+			[
+				"sounds/dragon/die/die_1.vsnd",
+				"sounds/dragon/die/die_2.vsnd",
+				"sounds/dragon/die/die_3.vsnd",
+				"sounds/dragon/die/die_4.vsnd",
+				"sounds/dragon/die/die_5.vsnd",
+				"sounds/dragon/die/die_6.vsnd",
+				"sounds/dragon/die/die_7.vsnd",
+				"sounds/dragon/die/die_8.vsnd",
+
+
+			]
+
+		}
+}

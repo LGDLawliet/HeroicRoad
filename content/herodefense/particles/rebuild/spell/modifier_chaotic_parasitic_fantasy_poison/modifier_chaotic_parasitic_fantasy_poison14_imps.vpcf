@@ -1,0 +1,71 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 300.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 7
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 10
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 0.0, 0.0, 150.0 ]
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/items/enchantress/enchantress_2021_immortal/enchantress_2021_immortal.vmdl"
+				m_nModSpecificData = 9661
+				m_sequenceName = "idle"
+				m_hitboxSetName = "default"
+				m_materialGroupName = "0"
+			}
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_nCP1 = 10
+			m_vecCP1Pos = [ 0.0, 0.0, 150.0 ]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/modifier_chaotic_parasitic_fantasy_poison/modifier_chaotic_parasitic_fantasy_poisonimp.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/modifier_chaotic_parasitic_fantasy_poison/modifier_chaotic_parasitic_fantasy_poisonground_area.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/modifier_chaotic_parasitic_fantasy_poison/modifier_chaotic_parasitic_fantasy_poisonground_plants.vpcf"
+			m_bDisableChild = true
+		},
+	]
+}

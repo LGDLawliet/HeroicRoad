@@ -1,0 +1,95 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 1.0, 1.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_StopAfterCPDuration"
+			m_flDuration = 2.0
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/mk_arcana_fire_spring_projected.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/monkey_king_spring_fire_base.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/monkey_king_fire_arcana_spring_cracks.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/mk_arcana_fire_spring_explodebrightmatter.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/mk_arcana_spring_fire_ring_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/base/monkey_king_arcana_spring_shockwave.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/base/monkey_king_arcana_spring_embers.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/base/monkey_king_arcana_spring_ground_core.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/mk_arcana_fire_spring_ring_radial.vpcf"
+			m_flDelay = 0.15
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/mk_arcana_fire_spring_explodedarkmatter.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/mk_arcana_spring_fire_base_expandingb.vpcf"
+			m_flDelay = 0.25
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/mk_arcana_spring_fire_core_beam.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/fire/mk_arcana_fire_grnd.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/base/monkey_king_arcana_spring_ring_glyph_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/elder_dragon_form/unlock2/effect/base/monkey_king_arcana_spring_centglow.vpcf"
+		},
+	]
+}

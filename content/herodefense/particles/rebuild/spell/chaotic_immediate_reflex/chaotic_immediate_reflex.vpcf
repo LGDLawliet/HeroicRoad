@@ -1,0 +1,50 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/heroes/phantom_assassin/phantom_assassin.vmdl"
+				m_nModSpecificData = 137
+				m_sequenceName = "phantom_assassin_idle_alt1_anim"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/chaotic_immediate_reflex/chaotic_immediate_reflex_ground.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/chaotic_immediate_reflex/chaotic_immediate_reflex_ground_mod.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/chaotic_immediate_reflex/chaotic_immediate_reflex_smoke.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/chaotic_immediate_reflex/chaotic_immediate_reflex_embers.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/chaotic_immediate_reflex/chaotic_immediate_reflex_streak.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/chaotic_immediate_reflex/chaotic_immediate_reflex_flare.vpcf"
+		},
+	]
+}

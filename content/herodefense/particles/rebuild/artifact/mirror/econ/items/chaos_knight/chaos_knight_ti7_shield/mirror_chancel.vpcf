@@ -1,0 +1,39 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf61:version{39d3ce1d-9442-4407-9b78-8317145b1732} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 2
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/artifact/mirror/econ/items/chaos_knight/chaos_knight_ti7_shield/mirror_chancel1.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/artifact/mirror/econ/items/chaos_knight/chaos_knight_ti7_shield/mirror_chancei.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/artifact/mirror/econ/items/chaos_knight/chaos_knight_ti7_shield/mirror_chancel2.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/artifact/mirror/econ/items/chaos_knight/chaos_knight_ti7_shield/mirror_chancel0.vpcf"
+			m_bDisableChild = true
+		},
+	]
+}

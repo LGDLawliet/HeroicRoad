@@ -1,0 +1,31 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "global_lit_simple.vfx"
+
+	//---- Enable wind ----
+	F_ENABLE_WIND 1
+
+	//---- Wind that follows object X ----
+	F_TRAVELLING_WIND_OBJECT_X 1
+
+	//---- Color ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "materials/models/custom/tree_01bark_color.png"
+
+	//---- Wind ----
+	g_flTravellingWindMagnitude "2.000"
+	g_flTravellingWindSpeed "1.000"
+	g_flTravellingWindWavelength "108.000"
+	g_flWindFlexibility "0.528"
+	g_flWindHighFrequencyEffects "0.000"
+	g_flWindLinearity "0.427"
+	g_flWindLowFrequencyEffects "0.000"
+	g_flWindSpeedMultiplier "0.494"
+	TextureWindMaskHigh "materials/default/default_mask.tga"
+	TextureWindMaskLow "materials/default/default_mask.tga"
+	TextureWindRandomNoise "[1.000000 1.000000 1.000000 0.000000]"
+}

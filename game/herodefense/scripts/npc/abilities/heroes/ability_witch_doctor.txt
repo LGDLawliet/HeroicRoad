@@ -1,0 +1,99 @@
+"DOTAAbilities"
+{
+    "Primary_Voodoo_Restoration"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "witch_doctor_voodoo_restoration"
+        "ScriptFile"               "skills/Primary_Voodoo_Restoration"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_TOGGLE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "1"
+        "AbilityManaCost"          "30"
+        "AbilityCastRange"         "500"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_witchdoctor/witchdoctor_voodoo_restoration.vpcf"
+        }
+        "AbilityValues"
+        {
+            "mana_cost_tick"    "20 30 40 50 60"
+            "radius"            "500"
+            "basic_heal"        "20 30 40 50 60"
+            "bonus_heal"        "0.25 0.3 0.35 0.4 0.45"
+        }
+    }
+    "Middle_Voodoo_Restoration"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "witch_doctor_voodoo_restoration"
+        "ScriptFile"               "skills/Middle_Voodoo_Restoration"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_TOGGLE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "1"
+        "AbilityManaCost"          "30"
+        "AbilityCastRange"         "500"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_witchdoctor/witchdoctor_voodoo_restoration.vpcf"
+        }
+        "AbilityValues"
+        {
+            "mana_cost_tick"    "60 65 70"
+            "radius"            "500"
+            "basic_heal"        "70 80 90"
+            "bonus_heal"        "0.5 0.6 0.7"
+        }
+    }
+    "Advanced_Voodoo_Restoration"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "witch_doctor_voodoo_restoration"
+        "ScriptFile"               "skills/Advanced_Voodoo_Restoration"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_TOGGLE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.4"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "1"
+        "AbilityManaCost"          "30"
+        "AbilityCastRange"         "500"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_witchdoctor/witchdoctor_voodoo_restoration.vpcf"
+        }
+        "AbilityValues"
+        {
+            "mana_cost_tick"    "80"
+            "radius"            "500"
+            "basic_heal"        "100"
+            "bonus_heal"        "0.8"
+            "advanced_level"    "1"
+        }
+    }
+}

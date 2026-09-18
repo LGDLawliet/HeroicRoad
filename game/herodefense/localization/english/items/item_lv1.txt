@@ -1,0 +1,211 @@
+"DOTA_Tooltip_ability_item_hd_creed_of_omniscience_2"	"Omniscience · V2<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_creed_of_omniscience_2_Description"	"<h1>Passive: Knowledge</h1>Carry this item for round settlement. You can get 1 ability point reward every 6 rounds."
+"DOTA_Tooltip_ability_item_hd_creed_of_omniscience_2_Lore"	"Almighty God give me glory please!"
+"DOTA_Tooltip_ability_item_hd_creed_of_omniscience_2_Note0"	"Note:<br>The bonus of this item does not stack with the same item"
+"DOTA_Tooltip_modifier_item_hd_creed_of_omniscience_2"                   "Knowledge"
+
+
+"DOTA_Tooltip_ability_item_hd_artifact_ironwood_tree"	"Ironwood Tree<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_artifact_ironwood_tree_Description"	"Derived from artifact, it can enhance your all attributes."
+"DOTA_Tooltip_ability_item_hd_artifact_ironwood_tree_Lore"	"A plain and unremarkable branch."
+"DOTA_Tooltip_modifier_item_hd_artifact_ironwood_tree"                   "Ironwood Tree"
+"DOTA_Tooltip_modifier_item_hd_artifact_ironwood_tree_Description"       "All attribute increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+//Blight Stone
+"DOTA_Tooltip_ability_item_hd_blight_stone" "Blight Stone<font color=\"#777777\">- 1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_blight_stone_Lore" "A stone that strikes fear into the hearts of men, unearthed from the graves of the fallen."
+"DOTA_Tooltip_ability_item_hd_blight_stone_Description" "<h1>Passive: Armor Reduction Amplification</h1> Attacks reduce the targets' armor by %bonus_armor_reduce_enemy% for %debuff_duration% seconds. \nWhen holding <font color=\"#777777\">[Presence of the dark lord]</font>, additionally reduces the targets' armor by %bonus_armor_reduce_enemy_extra%."
+"DOTA_Tooltip_modifier_item_hd_blight_stone_active" "Blight"
+"DOTA_Tooltip_modifier_item_hd_blight_stone_active_Description" "Armor reduction"
+//Claw of Attack
+"DOTA_Tooltip_ability_item_hd_Claw_of_attack" "Claw of Attack<font color=\"#777777\">- 1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_Claw_of_attack_Lore" "The small dagger hidden inside is not to be underestimated."
+"DOTA_Tooltip_ability_item_hd_Claw_of_attack_bonus_damage" "+$base_damage"
+"DOTA_Tooltip_ability_item_hd_Claw_of_attack_Description" "<h1>Passive: Base Damage Amplification</h1> While holding <font color=\"#777777\">[Enchant totem]</font>, +%bonus_damage_extra% base damage."
+//Broom Handle
+"DOTA_Tooltip_ability_item_hd_broom_handle" "Broom Handle<font color=\"#777777\">- 1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_broom_handle_Lore" "An unusually dangerous creation from an apprentice wizard with a special fondness for brooms."
+"DOTA_Tooltip_ability_item_hd_broom_handle_bonus_damage" "+Attack Damage"
+"DOTA_Tooltip_ability_item_hd_broom_handle_bonus_attack_range" "+Attack Range<font color=\"#777777\">(Melee Only)</font>"
+"DOTA_Tooltip_ability_item_hd_broom_handle_bonus_armor" "+Armor"
+"DOTA_Tooltip_ability_item_hd_broom_handle_Description" "<h1>Passive: Melee Amplification</h1> While holding <font color=\"#777777\">[Great cleave]</font>, +%bonus_damage_extra% damage, +%bonus_armor_extra% armor."
+"DOTA_Tooltip_modifier_item_hd_broom_handle_active" "Momentum"
+"DOTA_Tooltip_modifier_item_hd_broom_handle_active_Description" "Gain a certain movement speed boost with each attack."
+//Glove
+"DOTA_Tooltip_ability_item_hd_gloves" "Gloves<font color=\"#777777\">- 1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_gloves_Lore" "A pair of magical gloves that seem to render weapons in hand weightless."
+"DOTA_Tooltip_ability_item_hd_gloves_bonus_attack_speed" "+Attack Speed"
+"DOTA_Tooltip_modifier_item_hd_gloves_debuff" "Enervation"
+"DOTA_Tooltip_modifier_item_hd_gloves_debuff_Description" "Each attack reduces a certain amount of attack damage."
+"DOTA_Tooltip_ability_item_hd_gloves_Description" "<h1>Passive: Attack Speed Amplification</h1> While holding <font color=\"#777777\">[Bloodthirst dagger]or[Poison sting]</font>, +%bonus_attack_speed_extra% attack speed."
+
+//quellinngg balde
+"DOTA_Tooltip_ability_item_hd_quelling_blade"	"Quelling Blade<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_quelling_blade_Lore"	"The axe of a fallen gnome."
+"DOTA_Tooltip_ability_item_hd_quelling_blade_bonus_damage"	"+Attack Damage:"
+"DOTA_Tooltip_ability_item_hd_quelling_blade_Description"	"<h1>Passive: Additional Damage Amplification</h1> Attacks have %prop_chance%%% chance to deal extra %damage_deal% damage. \nWhile holding <font color=\"#777777\">[Focus fire] or [Overpower]</font>, the chancei is increased to %prop_chance_override%%."
+
+
+// Wise Mask
+"DOTA_Tooltip_ability_item_hd_sobi_mask" "Sobi Mask<font color=\"#777777\">- 1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_sobi_mask_Lore" "A mask commonly used by mages and warlocks in various rituals."
+"DOTA_Tooltip_ability_item_hd_sobi_mask_bonus_armor" "+Armor"
+"DOTA_Tooltip_ability_item_hd_sobi_mask_bonus_mana_regeneration" "+$mana_regen"
+"DOTA_Tooltip_ability_item_hd_sobi_mask_Description" "<h1>Passive: Casting Resource Amplification</h1> While holding <font color=\"#777777\">[Arcane aura]</font>, +%bonus_mana_regeneration_extra% mana regeneration."
+
+// Recovery Ring
+"DOTA_Tooltip_ability_item_hd_Ring_of_Protection" "Recovery Ring<font color=\"#777777\">- 1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_Ring_of_Protection_Lore" "A gleaming ring that protects its wearer."
+"DOTA_Tooltip_ability_item_hd_Ring_of_Protection_bonus_armor" "+Armor"
+"DOTA_Tooltip_ability_item_hd_ring_of_protection_bonus_health_regeneration" "+Health Regeneration"
+"DOTA_Tooltip_ability_item_hd_Ring_of_Protection_Description" "<h1>Passive: Recovery Amplification</h1> While holding <font color=\"#777777\">[Static Shield]</font>, +%bonus_health_regeneration_extra% health regeneration."
+
+// Evil Resentment
+"DOTA_Tooltip_ability_item_hd_evil_resentment" "Evil Resentment<font color=\"#777777\">- 1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_evil_resentment_Lore" "A strong aura of resentment that enhances one aspect while weakening another."
+"DOTA_Tooltip_ability_item_hd_evil_resentment_bonus_damage" "+Attack Damage"
+"DOTA_Tooltip_ability_item_hd_evil_resentment_bonus_incomingdamage_per" "+% Incoming Damage"
+"DOTA_Tooltip_ability_item_hd_evil_resentment_Description"                "<h1>Passive: Berserker</h1> While holding <font color=\"#777777\">[Feast]</font>, +%bonus_damage_extra% damage."
+
+// Intelligence Mantle
+"DOTA_Tooltip_ability_item_hd_mantle" "Mantle<font color=\"#777777\">- 1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_mantle_Lore" "A beautiful mantle worn by queens of past generations, adorned with sapphires."
+"DOTA_Tooltip_ability_item_hd_mantle_bonus_int" "+$int"
+"DOTA_Tooltip_ability_item_hd_mantle_Description"   "<h1>Passive: Intellect Drain</h1> Lose %bonus_int_eachlvl% Intelligence per hero level."
+
+// Strength Gauntlets
+"DOTA_Tooltip_ability_item_hd_gauntlets" "Gauntlets<font color=\"#777777\">- 1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_gauntlets_Lore" "Leather gloves adorned with studs that bring beast-like strength."
+
+"DOTA_Tooltip_ability_item_hd_gauntlets_bonus_str" "+$str"
+"DOTA_Tooltip_ability_item_hd_gauntlets_Description"   "<h1>Passive: Strength Drain</h1> Lose %bonus_str_eachlvl% Strength per hero level."
+
+//Old Stick
+"DOTA_Tooltip_ability_item_hd_a_stick"	"Old Stick<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_a_stick_Description"	"<h1>Passive: Arcane Orb</h1>Fires an Orb to a random nearby enemy on any spell cast, dealing Int*1 damage.<<br><br>Radius:%cast_range%.\nWhile holding <font color=\"#777777\">[Arcane bolt]</font>,Fires an Orb to the enemy again after 0.5s"
+"DOTA_Tooltip_ability_item_hd_a_stick_Lore"	"The staff of a renowned sorceress, lost for countless millennia. "
+
+"DOTA_Tooltip_ability_item_hd_a_stick_bonus_summon_time"	"+%Summon Time"
+
+//老旧火枪
+"DOTA_Tooltip_ability_item_hd_snipers_firecracker"        "Old Firecracker of the Sniper<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_snipers_firecracker_Lore"        "Stolen from the home of a sniper by a thief, this gun has been rendered unusable by the ravages of time. However, bearing the title of a sniper, it can still fetch a good price."
+
+"DOTA_Tooltip_ability_item_hd_snipers_firecracker_bonus_attack_range"        "+Ranged Attack Range"
+"DOTA_Tooltip_ability_item_hd_snipers_firecracker_Description"        "<h1>Passive: Ranger Attack Amplification</h1> While holding <font color=\"#777777\">[Split shot]</font>, +%bonus_attack_range_extra% ranged attack range."
+
+//寒铁钢爪
+"DOTA_Tooltip_ability_item_hd_iron_talon"        "Iron Talon<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_iron_talon_Description"        "<h1>Passive: Multiple Attack Amplification</h1> Attacks have %chance%% chance to trigger an extra attack. \nWhile holding <font color=\"#777777\">[Necromastery]</font>, the chance is increased to %chance_override%% (does not trigger cleave)."
+"DOTA_Tooltip_ability_item_hd_iron_talon_Lore"        "A simple yet effective weapon designed to suppress the uprisings of the Hellbear."
+
+"DOTA_Tooltip_ability_item_hd_iron_talon_bonus_damage"        "+Damage"
+
+//仙灵饰品
+"DOTA_Tooltip_ability_item_hd_mysterious_hat"        "Mysterious Hat<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_mysterious_hat_Lore"        "A smaller accessory, imbued with fae luck to show gratitude for the inadvertent kindness of mortals."
+"DOTA_Tooltip_ability_item_hd_mysterious_hat_bonus_spell_damage_amplification"        "+%Spell Amplification"
+"DOTA_Tooltip_ability_item_hd_mysterious_hat_bonus_manacost_per"        "+%Mana Cost Reduction"
+"DOTA_Tooltip_ability_item_hd_mysterious_hat_Description" "<h1>Passive: Spell Amplification</h1> While holding <font color=\"#777777\">Magic blessing]</font>, +%bonus_spell_damage_amplification_extra%% spell amplification, +%bonus_manacost_per_extra%% mana cost reduction."
+
+//基恩镜片
+"DOTA_Tooltip_ability_item_hd_keen_optic"        "Keen Optic<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_keen_optic_Lore"        "Stolen from a workshop of a mechanic years ago, this practical lens has served many masters."
+
+"DOTA_Tooltip_ability_item_hd_keen_optic_bonus_spell_range"        "+Cast Range"
+"DOTA_Tooltip_ability_item_hd_keen_optic_bonus_mana_regeneration"        "+$mana_regen"
+"DOTA_Tooltip_ability_item_hd_keen_optic_Description" "<h1>Passive: Cast Range Amplification</h1> While holding <font color=\"#777777\">[Chaos form]</font>, +%bonus_spell_range_extra% cast range, +%bonus_mana_regeneration_extra% mana regeneration."
+
+//长爪护符
+"DOTA_Tooltip_ability_item_hd_amulet"        "Amulet of Claws<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_amulet_Lore"        "Magic is somewhat unusual in the woods, and its secrets are well guarded."
+
+"DOTA_Tooltip_ability_item_hd_amulet_bonus_cooldown"        "+%Cooldown Reduction"
+"DOTA_Tooltip_ability_item_hd_amulet_Description"   "<h1>Passive: Cooldown Reduction Amplification</h1> While holding <font color=\"#777777\">[Bad juju]</font>, +%bonus_cooldown_extra%% cooldown reduction."
+
+//奥术手套
+"DOTA_Tooltip_ability_item_hd_magic_hand"        "Magic Hand<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_magic_hand_Lore"        "Gloves blessed by the elves, which enhance one's affinity with natural elements."
+
+"DOTA_Tooltip_ability_item_hd_magic_hand_Description"        "<h1>Passive: Casting Speed Amplification</h1> While holding <font color=\"#777777\">[Split earth]</font>, -%bonus_casttime_extra%% cast point."
+
+//锁子甲
+"DOTA_Tooltip_ability_item_hd_chainmail_bonus_armor"        "+Armor"
+"DOTA_Tooltip_ability_item_hd_chainmail_Lore"        "Interwoven armor made of metal links."
+"DOTA_Tooltip_ability_item_hd_chainmail"        "Chainmail<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_chainmail_Description"    "<h1>Passive: Armor Amplification</h1> While holding <font color=\"#777777\">[Dragon blood]</font>, +%bonus_armor_extra% armor."
+
+//破碎背心
+"DOTA_Tooltip_ability_item_hd_chipped_vest"        "Chipped Vest<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_chipped_vest_Description"        "<h1>Passive: Return Amplification</h1> When attacked, deal %damage% physical damage back to the attacker. \nWhile holding <font color=\"#777777\">[Return]</font>, deal an additional %damage_extra% damage."
+"DOTA_Tooltip_ability_item_hd_chipped_vest_Lore"        "Looks thin but strangely comforting."
+
+
+//哥布林皮甲
+"DOTA_Tooltip_ability_item_hd_goblin_leather"        "Goblin Leather<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_goblin_leather_Description"        "<h1>Passive: Damage Reduction Amplification</h1> Reduce incoming damage by %damage_reduce%%.\n While holding <font color=\"#777777\">[Reactive armor]</font>, reduce incoming damage again by %damage_reduce_extra%%."
+"DOTA_Tooltip_ability_item_hd_goblin_leather_Lore"        "A tattered piece of equipment, formerly owned by a goblin."
+"DOTA_Tooltip_ability_item_hd_goblin_leather_Note0"        "Additional Note:<br>Damage reduced by this ability occurs after both armor and magic resistance reductions. It specifically refers to 'constant/percentage' damage 'reduction' happening before this ability, while the 'shield' damage reduction of skills like [Living Armor] happens after this ability."
+
+//刚背兽的刺针
+"DOTA_Tooltip_ability_item_hd_bristleback_single"        "Bristleback Single<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_bristleback_single_Description"        "<h1>Passive: Quill Counter</h1> When attacked, releases a quill towards the attacker, dealing %str_index%* Strength physical damage. While holding <font color=\"#777777\">[Bristle back]</font>, the damage of the quill is increased to %str_index_override%* Strength."
+"DOTA_Tooltip_ability_item_hd_bristleback_single_Lore"        "A quill from a quillboar, sharpened into an equipment that retaliates against enemies when attacked."
+
+
+//小恶魔心脏
+"DOTA_Tooltip_ability_item_hd_demons_heart_01"        "Demon's Heart<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_demons_heart_01_Lore"        "The heart removed from its body by a demon hunter, the demonic vitality still affecting the mortal world after the flesh's demise."
+
+"DOTA_Tooltip_ability_item_hd_demons_heart_01_bonus_heal_receive_amplification"        "+%Healing Received"
+"DOTA_Tooltip_ability_item_hd_demons_heart_01_bonus_regeneration_amplification"        "+%Health Regeneration Rate"
+"DOTA_Tooltip_ability_item_hd_demons_heart_01_Description" "<h1>Passive: Health Regeneration Amplification</h1> While holding <font color=\"#777777\">[tether]</font>, +%bonus_regeneration_amplification_extra% health regeneration."
+
+//海洋之心
+"DOTA_Tooltip_ability_item_hd_ocean_heart"        "Ocean Heart<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_ocean_heart_Description"        "<h1>Aura: Endless Vitality</h1> Provides %bonus_health_regeneration% health regeneration and %bonus_mana_regeneration% mana regeneration per second to allies within %aura_radius% range. \nWhile holding <font color=\"#777777\">[Overcharge]</font>, provides %bonus_health_regeneration_override% health regeneration and %bonus_mana_regeneration_override% mana regeneration per second."
+"DOTA_Tooltip_ability_item_hd_ocean_heart_Lore"        "A charm blessed by the Council of the Azure Sea."
+"DOTA_Tooltip_ability_item_hd_ocean_heart_Note0"        "Additional Note: Both the health and mana regeneration from Overload and this item are considered 'regeneration' type."
+
+//统御旗帜
+"DOTA_Tooltip_ability_item_hd_nian_flag_trap"        "Flag of Command<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_nian_flag_trap_Description"        "<h1>Aura: Might of the Flag</h1> Grants %bonus_move%% bonus movement speed and %bonus_attack_speed% bonus attack speed to allies within %aura_radius% range. \nWhile holding <font color=\"#777777\">[Inner beast]</font>, grants %bonus_move_override%% bonus movement speed and %bonus_attack_speed_override% bonus attack speed."
+"DOTA_Tooltip_ability_item_hd_nian_flag_trap_Lore"        "Why are banners so picturesque? The blood of heroes paints them red."
+
+
+//蜂王浆1
+"DOTA_Tooltip_ability_item_hd_cook_royal_jelly"        "Royal Jelly<font color=\"#777777\">-1st echelon Cooking</font>"
+"DOTA_Tooltip_ability_item_hd_cook_royal_jelly_Description"        "<h1>Consumable: Eat</h1> Permanently increases health regeneration and mana regeneration by 1 per second for all allied heroes. (Stackable)"
+"DOTA_Tooltip_ability_item_hd_cook_royal_jelly_Lore"        "Delicious cuisine from logistics."
+//蜂王浆2
+"DOTA_Tooltip_ability_item_hd_royal_jelly2"        "Royal Jelly<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_royal_jelly2_Description"        "<h1>Consumable: Eat</h1> Permanently increases health regeneration and mana regeneration by 1 per second for all allied heroes. (Stackable)"
+"DOTA_Tooltip_ability_item_hd_royal_jelly2_Lore"        "The product of countless toiling worker bees."
+
+//速度之鞋
+"DOTA_Tooltip_ability_item_hd_boots"        "Boots<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_boots_Lore"        "Run fast, need good shoes."
+
+"DOTA_Tooltip_ability_item_hd_boots_bonus_move"        "+Movement Speed"
+"DOTA_Tooltip_ability_item_hd_boots_Description"    "<h1>Passive: Movement Speed Amplification</h1> While holding <font color=\"#777777\">[Bolldoze]</font>, +%bonus_move_extra% movement speed."
+
+//玄冥盾牌
+"DOTA_Tooltip_ability_item_hd_buckler_active"        "Buckler of the Abyss<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_buckler_active_Description"        "<h1>Aura: Shield of Protection</h1> Grants %bonus_armor% armor to allies within %aura_radius% range. \nWhile holding <font color=\"#777777\">[Warcry]</font>, grants %bonus_armor_override% armor."
+"DOTA_Tooltip_ability_item_hd_buckler_active_Lore"        "A powerful shield that bestows upon its bearer the strength of heroes past, it can provide protection to the entire army in battle."
+"DOTA_Tooltip_modifier_item_hd_buckler_active"                   "Armor Arua"
+"DOTA_Tooltip_modifier_item_hd_buckler_active_Description"                   "Increase armor"
+
+//觉醒书
+
+"DOTA_Tooltip_ability_item_random_skill_for_novice" "Awakening Tome"
+"DOTA_Tooltip_ability_item_random_skill_for_novice_Description" "<h1>Passive: Temporary Awakening</h1> When activated, upgrades the first fully leveled intermediate skill after Quickening to an advanced level, granting it the effects of a level 25 advanced skill (requires 19000 or 26000 gold to purchase based on the price of the skill being upgraded). Disappears after use."
+"DOTA_Tooltip_ability_item_random_skill_for_novice_Lore" "Mercy from the Creator to the yet unawakened."
+"DOTA_Tooltip_modifier_item_random_skill_for_novice_active" "Temporary Awakening"
+"DOTA_Tooltip_modifier_item_random_skill_for_novice_active_Description" "One skill has already been awakened and cannot be awakened again. Removing the momentarily awakened skill will cause this effect to be nullified for the rest of the match."
+
+//精通
+"DOTA_Tooltip_ability_item_hd_madstone_bundle"	"Iron Branch<font color=\"#777777\"> - First Tier</font>"
+"DOTA_Tooltip_ability_item_hd_madstone_bundle_atb"	"+$all_attribute"
+"DOTA_Tooltip_ability_item_hd_madstone_bundle_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_madstone_bundle_Lore"	"The branch of an ironwood tree, capable of stimulating a person's potential to a certain extent."

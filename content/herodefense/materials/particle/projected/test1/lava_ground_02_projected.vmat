@@ -1,0 +1,64 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "projected_dota.vfx"
+
+	//---- Detail ----
+	F_DETAIL 1 // Add
+
+	//---- Enable Fog ----
+	F_FOG 1
+
+	//---- Height Features ----
+	F_HEIGHT_MAP 1
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Use Alpha Channel of Color Texture ----
+	F_USE_COLOR_TEXTURE_ALPHA_CHANNEL 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+
+	//---- Color ----
+	TextureColor "materials/example/blend/lava_ground_02/lava_ground_02_basecolor.png"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[0.925490 0.925490 0.925490 1.000000]"
+	g_vDetailTexCoordOffset "[-1.000 0.000]"
+	g_vDetailTexCoordScale "[3.000 3.000]"
+	TextureDetail "materials/models/heroes/phoenix/phoenix_fx_detail.psd"
+
+	//---- HeightMap ----
+	g_flErodeAlpha "0.604"
+	g_flHeightColorStrength "7.130"
+	g_flParallaxCenterValue "0.194"
+	g_flParallaxStrength "4.000"
+	g_vHeightColor "[1.000000 0.501961 0.200000 0.000000]"
+	TextureHeight "materials/example/blend/lava_ground_02/lava_ground_02_height.png"
+
+	//---- Mask 1 ----
+	TextureDetailMask "materials/example/blend/lava_ground_02/lava_ground_02_emissive.png"
+
+	//---- Normal Map ----
+	g_flBumpStrength "0.935"
+	TextureNormal "materials/example/blend/lava_ground_02/lava_ground_02_normal.png"
+
+	//---- Overbright ----
+	g_flOverbrightFactor "1.000"
+
+	SystemAttributes
+	{
+		PhysicsSurfaceProperties "Wood"
+	}
+
+	DynamicParams
+	{
+		g_vDetailTexCoordOffset "frac(float2(0.05,0.05)*time())\n"
+		g_flParallaxCenterValue "speed = 0.05;\nmax = 0.2;\nvalue = speed*time()%(max*2);\nd=(value>=max)?max*2-value:value;\nreturn d+0.1;"
+	}
+}

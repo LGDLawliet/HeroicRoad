@@ -1,0 +1,25 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "refract.vfx"
+
+	F_USE_REFRACTED_ALPHA 1
+
+	//---- Refraction ----
+	F_SECONDARY_NORMAL 1
+
+	//---- Refraction ----
+	g_flRefractScale "0.713"
+	TextureNormal "materials/models/heroes/windrunner/windrunner_fresnelwarpcolor.tga"
+	TextureNormal2 "materials/default/default_normal.tga"
+
+	//---- Texture Transform ----
+	g_vSecondaryTexCoordScale "[0.000 0.000]"
+	g_vTexCoordScale "[0.000 0.000]"
+
+	SystemAttributes
+	{
+		PhysicsSurfaceProperties "Wood"
+	}
+}

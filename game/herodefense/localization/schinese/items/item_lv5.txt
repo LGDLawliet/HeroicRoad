@@ -1,0 +1,1043 @@
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat"	"哈勒昆之帽<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_Description"	"<h1>被动：损伤规避</h1>受到自然的祝福，当你受到来自队友的伤害时，可以在5秒后恢复这一部分损伤的50%%，视为对己治疗。<br><br><h1>被动：宠爱</h1><br>触发'损伤规避的同时使自身在20秒内获得3点力量提升，独立叠加，最大有效为100。<br><br>属性加成效果有0.2秒冷却"
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_Lore"	"精灵王都的秘宝，据说只有被自然宠爱的人才能戴上这顶帽子。"
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_bonus_str"	"+$str"
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_bonus_health"	"+$health"
+
+"DOTA_Tooltip_modifier_item_hd_Harlequin_green_hat_active"                   "损伤规避"
+"DOTA_Tooltip_modifier_item_hd_Harlequin_green_hat_active_Description"       "延迟恢复生命值" 
+"DOTA_Tooltip_modifier_item_hd_Harlequin_green_hat_active2"                   "宠爱"
+"DOTA_Tooltip_modifier_item_hd_Harlequin_green_hat_active2_Description"       "赋予%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%点力量加成" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_philosopher_stone"	"魔化贤者石<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_philosopher_stone_Description"	"<h1>被动：代偿</h1>当你的魔法大于90%%时会将多余部分储存起来，最多可以储存你最大魔法10倍的魔力。当你的魔法低于50%%时会自动抽取储存的魔力，将你的魔力补充到50%%。"
+"DOTA_Tooltip_ability_item_hd_philosopher_stone_Lore"	"贤者石是一种神奇的物质，在炼金术中可以使你免去'代价'。这种物质的获取方法是杀死龙类后，从他们的体内取出。原本人类可以自己制作但制作方法已经遗失，只能从龙骨十字中提取。"
+"DOTA_Tooltip_ability_item_hd_philosopher_stone_Note0"	"额外的说明：<br>"
+"DOTA_Tooltip_ability_item_hd_philosopher_stone_bonus_mana"	"%+$mana"
+"DOTA_Tooltip_modifier_item_hd_philosopher_stone"                   "魔化贤者石"
+"DOTA_Tooltip_modifier_item_hd_philosopher_stone_Description"       "储存%dMODIFIER_PROPERTY_TOOLTIP%魔法" 
+
+"DOTA_Tooltip_ability_item_hd_eden_blacksmith"	"伊甸铁匠台<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_eden_blacksmith_Description"	"<h1>被动：传奇锻造</h1>携带这件物品时，每回合结算时有17%%几率获得一个超级宝箱。"
+"DOTA_Tooltip_ability_item_hd_eden_blacksmith_Lore"	"传说中的铁匠台，似乎可以用来打造什么厉害的东西。"
+"DOTA_Tooltip_ability_item_hd_eden_blacksmith_Note0"	"额外的说明：<br>队友携带也有效果，获得的宝箱可以赠送。"
+"DOTA_HUD_eden_blacksmith_platform_info"   "{s:player_name}利用<font color=\"#f0ad4e\">{s:locstring_value}</font>锻造了某件物品，并将其放置于<font color=\"#f0ad4e\">{s:locstring_value2}</font>中。"
+"DOTA_HUD_eden_blacksmith_platform_info2"   "匠神拒绝了{s:player_name}，洗把脸吧。"
+
+
+"DOTA_Tooltip_ability_item_hd_moirai_hat"	"莫伊莱之帽<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_moirai_hat_Description"	"<h1>被动：命运之慧</h1>每%atb_spell_amp%点主属性可以提供%fake_kv%%%技能增强，至多%spell_amp_max%%%。"
+"DOTA_Tooltip_ability_item_hd_moirai_hat_Lore"	"被命运三女神所祝福的帽子，可以令佩戴者拥有遇见短暂未来的能力。"
+"DOTA_Tooltip_ability_item_hd_moirai_hat_bonus_spell_amp"	"%+$spell_amp"
+
+"DOTA_Tooltip_ability_item_hd_book_of_death"	"撒旦之书<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_book_of_death_Description"	"<h1>主动：召唤仪式</h1>献祭自身所有魔力与法力召唤出来自荒邪之域的恶魔，将继承你所献出的(HP+MP)总和的生命值，并获得该值10%%的攻击力与该值0.3%%的防御力，持续100秒。<br>\n<h1>被动：撒旦奴役术</h1>被你奴役的恶魔或死灵将获得35%%的伤害增强。"
+"DOTA_Tooltip_ability_item_hd_book_of_death_Lore"	"撒旦所编著的一本禁书，里面记载着召唤出传说恶魔的仪式。"
+"DOTA_Tooltip_ability_item_hd_book_of_death_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_book_of_death_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_book_of_death_bonus_str"	"+$str"
+"DOTA_Tooltip_ability_item_hd_book_of_death_bonus_summon_intensity"	"%+$summon_intensity"
+"DOTA_Tooltip_modifier_item_hd_book_of_death_active"                   "撒旦奴役术"
+"DOTA_Tooltip_modifier_item_hd_book_of_death_active_Description"       "增加%dMODIFIER_PROPERTY_TOOLTIP%%%伤害" 
+
+
+"DOTA_Tooltip_ability_creeps_spell_demon_power_terrorblade"	"恶魔之力"
+"DOTA_Tooltip_ability_creeps_spell_demon_power_terrorblade_Description"	"攻击速度获得30%%提升。"
+"DOTA_Tooltip_ability_creeps_spell_demon_power_terrorblade_Lore"	"恶魔的血统将会极大的提升生物的肉体能力。"
+
+
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone"	"古代孔雀宝石<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone_Description"	"<h1>主动：魔力释放</h1><br>对一名敌人释放在宝石中的魔法能量，可以一瞬间对其造成智力*20+4000的伤害，拥有穿透属性，可以忽略目标的指向性技能吸收。<br>\n<h1>被动：魔力回收</h1><br>如果释放的魔法能量击杀了目标，永久提升自身3%%的技能伤害，但最多60%%。"
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone_Lore"	"在沉没宝库深处被发掘的神秘石块。石头的表面布满了神秘的蚀刻，散发出微弱的蓝光。"
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone_Note0"	"额外的说明：<br>即使失去道具，也不会丢失技能伤害效果。"
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone_bonus_int"	"+$int"
+"DOTA_Tooltip_modifier_item_hd_ancient_gemstone_buff"                   "魔力回收"
+"DOTA_Tooltip_modifier_item_hd_ancient_gemstone_buff_Description"       "增加%dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%技能伤害" 
+
+
+"DOTA_Tooltip_ability_item_hd_slark_double_blades"	"海牢双刀<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_slark_double_blades_Description"	"<h1>被动：能量转移</h1>每次攻击可以从目标身上吸收2点临时攻击力，独立叠加持续30秒，单个目标最多会被吸收100点攻击力，总吸收有效值不会超过400。"
+"DOTA_Tooltip_ability_item_hd_slark_double_blades_Lore"	"斯拉克使用过的武器，多年前，这对武器在一场战斗中丢失了，后来被发现于一只大海怪的肚子中。这对武器中还保留着其曾经主人的气息，有着某种特殊的能力。"
+"DOTA_Tooltip_ability_item_hd_slark_double_blades_bonus_agi"	"+$agi"
+
+
+
+"DOTA_Tooltip_modifier_item_hd_slark_double_blades_buff"                   "能量转移"
+"DOTA_Tooltip_modifier_item_hd_slark_double_blades_buff_Description"       "增加%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%点攻击力" 
+"DOTA_Tooltip_modifier_item_hd_slark_double_blades_debuff"                   "能量转移"
+"DOTA_Tooltip_modifier_item_hd_slark_double_blades_debuff_Description"       "减少%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%点攻击力" 
+
+
+
+
+// "DOTA_Tooltip_ability_item_hd_replica_of_venom"	"毒液的复制品"
+// "DOTA_Tooltip_ability_item_hd_replica_of_venom_Description"	"<h1>消耗：使用</h1>喝下瓶中的神奇生物，你将获得2种效果：<br>侵蚀：你的身心将不断被侵蚀，每秒扣除当前生命值的3%%。<br>毒液之手：攻击距离增加20%%，对于近战单位有双倍效果。"
+// "DOTA_Tooltip_ability_item_hd_replica_of_venom_Lore"	"装着一小部分毒液共生体的复制体的瓶子，你可以选择与其融合。但注意别被其吞没了你的思维。"
+// "DOTA_Tooltip_ability_item_hd_replica_of_venom_Note0"	"额外的说明：不可逆转，但可以通过某种手段移除'侵蚀'。"
+
+
+"DOTA_Tooltip_ability_item_hd_hermes_boots"	"赫尔墨斯之靴<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_hermes_boots_Description"	"<h1>主动：瞬间移动</h1>你可以瞬间移动到目标位置，即使你被眩晕了或死亡了也可以释放这个效果。<br><br>施法距离：1500<br><br>\n<h1>被动：闪跃</h1>你的急行施法距离将提升700，同时冷却时间降低至3秒。"
+"DOTA_Tooltip_ability_item_hd_hermes_boots_Lore"	"被速度之神所祝福过的鞋子，其脚下配备的古代矮人工匠技艺的弹簧更是使你能达到瞬间移动般的速度。"
+"DOTA_Tooltip_ability_item_hd_hermes_boots_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_hermes_boots_bonus_move_speed"	"+$move_speed"
+
+
+"DOTA_Tooltip_ability_item_hd_ice_ring"	"尤弥尔的霜冻戒<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_ice_ring_Description"	"<h1>主动：千年冰牢</h1>指定一名目标对其释放冰牢，冻结其15秒，目标期间无敌，可以对敌亦可对友释放，友军可以下达暂停指令解除冰封。<br><br>固定冷却时间：60秒"
+"DOTA_Tooltip_ability_item_hd_ice_ring_Lore"	"初始之时生活着巨人尤弥尔，沙砾不存海洋不在，遑论清凉波涛；脚下没有土地，头顶没有天空；只有一道混沌的鸿沟，无处生芳草。包尔的儿子让大地升起，造就了光辉的米德加尔特。——《诗体埃达——女占卜者的预言》，第3—4节"
+"DOTA_Tooltip_ability_item_hd_ice_ring_Note0"	"额外的说明：<br>不可驱散，不被增益或减免"
+"DOTA_Tooltip_ability_item_hd_ice_ring_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_ice_ring_bonus_mana"	"+$mana"
+"DOTA_Tooltip_modifier_item_hd_ice_ring_buff"                   "千年冰牢"
+"DOTA_Tooltip_modifier_item_hd_ice_ring_buff_Description"       "被困于无尽的冰之监牢" 
+
+// Then went all the powers to their judgement-seats,the all-holy gods, and thereon held council, who should of the dwarfs race create, from the sea-giant's blood and livid bones.
+
+"DOTA_Tooltip_ability_item_hd_fate_ring"	"命运改写指环<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_fate_ring_Description"	"<h1>消耗：命运改写</h1>最多可以移除20层风险骰子的负面效果，使用后戒指将破碎而无法再次使用。"
+"DOTA_Tooltip_ability_item_hd_fate_ring_Lore"	"戒身上刻着古代文字，并散发着金色的光芒。虽然人们起初不明白这枚戒指到底有什么能力，但当他们佩戴上戒指后，脑海里都会接收到一个信息,即为这枚戒指所能。"
+"DOTA_Tooltip_ability_item_hd_fate_ring_Note0"	"额外的说明：可赠与他人"
+
+
+// Meticulously extracted from the touch of starlight, the light of a black hole, and the sound of a vacuum , this silver liquid forms a swirling , spiral galaxy when left to settle.
+
+"DOTA_Tooltip_ability_item_hd_potion_of_planar"	"位面谐律药剂<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_potion_of_planar_Description"	"<h1>主动：饮用</h1>喝下药剂，你在15秒内将增加30%%的技能伤害，独立叠加，最多获得150%%加成。但在药效失效后你会受到精神损伤，减少双倍的技能伤害，独立叠加持续25秒。"
+"DOTA_Tooltip_ability_item_hd_potion_of_planar_Lore"	"从与星光的接触、黑洞中的光和真空中的声音里精心提取出来的这种银色液体，在静置时形成一个漩涡状的螺旋星系。神奇的是，这种液体即使你喝下一些后也会自动补充。"
+"DOTA_Tooltip_ability_item_hd_potion_of_planar_Note0"	"额外的说明：<br>不被增益影响"
+
+
+"DOTA_Tooltip_modifier_item_hd_potion_of_planar"                   "位面谐律药剂"
+"DOTA_Tooltip_modifier_item_hd_potion_of_planar_Description"       "增加%dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%技能伤害" 
+"DOTA_Tooltip_modifier_item_hd_potion_of_planar_debuff"                   "位面谐律药剂"
+"DOTA_Tooltip_modifier_item_hd_potion_of_planar_debuff_Description"       "减少%dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%技能伤害" 
+
+
+"DOTA_Tooltip_ability_item_hd_start_sword"	"星辰巨剑<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_start_sword_Description"	"<h1>被动：星辰之能</h1>携带这把武器每经过一个回合可以额外增加2%%的全额攻击力加成，最多获得10%%额外加成。"
+"DOTA_Tooltip_ability_item_hd_start_sword_Lore"	"有一种材料，只存在于极地，吸收了无尽日月星辰的能量后会散发出蓝色的荧光，这便是星辰金属。利用星辰金属铸造的武器的锋利度可以达到其他材料所无法到达的高度，轻轻一挥便可切断钢铁。"
+"DOTA_Tooltip_ability_item_hd_start_sword_Note0"	"额外的说明：<br>额外加成跟随英雄，不会因为卸下武器而重置。"
+"DOTA_Tooltip_ability_item_hd_start_sword_bonus_damage"	"%+$full_damage"
+
+
+"DOTA_Tooltip_ability_item_hd_thunder"	"雷之楔<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_thunder_Description"	"<h1>被动：引雷</h1>攻击时，有%chance%% 几率对敌人释放雷霆造成智力*%damage_index%点魔法伤害。\n<h1>被动：真霹实雳</h1>持有<font color=\"#777777\">[高阶雷击]</font>且其冷却完成时，引雷将被<font color=\"#777777\">[高阶雷击]</font>代替。\n<h1>被动：楔赋神权</h1>持有者的每点技能增强会提供%attack_speed_perspell%点攻击速度。\n<font color=\"#606060\"><i>这件装备释放高阶雷击时会使其进入冷却。</i></font>"
+"DOTA_Tooltip_ability_item_hd_thunder_Lore"	"宙斯的神器，可放出威力无穷的闪电，象征着至高无上的神权。"
+"DOTA_Tooltip_ability_item_hd_thunder_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_thunder_bonus_attack_speed"	"+攻击速度"
+"DOTA_Tooltip_ability_item_hd_thunder_bonus_spell_amp"	"%+技能增强"
+
+
+"DOTA_Tooltip_ability_item_hd_eagle_ring"	"鹰眼戒指<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_eagle_ring_Description"	"<h1>消耗：融合</h1>捏碎指环使一部分能量与自身融合，你的所有致命一击伤害将提高10%%（仅一次）\n<h1>被动：看破</h1>你的所有致命一击伤害将提高30%%（乘法）"
+"DOTA_Tooltip_ability_item_hd_eagle_ring_Lore"	"以侍奉“初始薪王”葛温的四骑士之一，“鹰眼”戈夫之名流传下来的戒指。"
+"DOTA_Tooltip_ability_item_hd_eagle_ring_Note0"	"额外的说明：<br>"
+"DOTA_Tooltip_ability_item_hd_eagle_ring_bonus_agi"	"+$agi"
+"DOTA_Tooltip_modifier_item_hd_eagle_ring_active"                   "鹰眼"
+"DOTA_Tooltip_modifier_item_hd_eagle_ring_active_Description"       "增加10%%暴击伤害" 
+
+
+"DOTA_Tooltip_ability_item_hd_galaxy_compass"	"银河罗盘<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_Description"	"<h1>被动：空指针拒绝</h1>游戏结算时你必定或额外获得一本高阶技能书。（仅对自身生效）<br>\n<h1>被动：位面占卜术</h1><br>使BOSS技能掉落概率提升30%%。（与其他玩家可叠加）"
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_Lore"	"整个星系都在这个指南针的曲面玻璃内，这个罗盘可以使你找到某些你未曾找到的东西。"
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_Note0"	"额外的说明：<br>"
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_bonus_probability"	"%+$probability"
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_bonus_all_attribute"	"+$all_attribute"
+
+
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood"	"尸山血海<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_Description"	"<h1>被动：血祭斩</h1>攻击有15%%几率挥出一道斩击，并造成四次伤口流血，其中一次为攻击目标，其余3次在目标400范围内随机抽取。流血独立叠加固定持续10秒，每秒将对目标造成你全额攻击力3%%的物理伤害。<br><br>固定冷却时间：0.3秒<br>\n<h1>被动：怨血</h1>你造成的流血伤害增加30%%。"
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_Lore"	"芦苇之地的大剑客“老翁”的武器。斩人无数的诅咒刀。据说“鲜血君王”蒙格在亲身体会老翁的剑与疯狂之后，说出了提案：我赐给你吧──那抚平渴望的修罗生存之道。"
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_Note0"	"额外的说明：<br>"
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_bonus_attack_speed"	"+$attack"
+"DOTA_Tooltip_modifier_item_hd_rivers_of_blood_debuff"                   "尸山血海"
+"DOTA_Tooltip_modifier_item_hd_rivers_of_blood_debuff_Description"       "每秒受到持续伤害" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_int_ring"	"魔导圣戒<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_int_ring_Description"	"<h1>被动：睿智之思</h1>每点智力将额外提供5点魔法值加成（最多5000），如果主属性为智力则每点智力额外提供0.3点基础攻击力加成（最多200）。"
+"DOTA_Tooltip_ability_item_hd_int_ring_Lore"	"匠神铸造的三枚圣戒之一，据说三枚戒指本为一体，因为其过于强力而被人为的分开了。其中象征着秩序与智慧的戒指是三戒之末，但如果没了它将无法正确的将能量进行排序。"
+"DOTA_Tooltip_ability_item_hd_int_ring_Note0"	"额外的说明：<br>全才英雄无法获得基础攻击力加成效果。"
+"DOTA_Tooltip_ability_item_hd_int_ring_bonus_int"	"%+$base_int"
+
+"DOTA_Tooltip_ability_item_hd_str_ring"	"烈焰圣戒<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_str_ring_Description"	"<h1>被动：神力之躯</h1>每点力量将额外提供8点生命值加成（最多5000），如果主属性为力量则每点力量额外提供0.3点基础攻击力加成（最多200）。"
+"DOTA_Tooltip_ability_item_hd_str_ring_Lore"	"匠神铸造的三枚圣戒之一，据说三枚戒指本为一体，因为其过于强力而被人为的分开了。其中象征着战争与力量的戒指是三戒最先打造的一枚，也是最为至关重要的的一枚，其蕴含的烈焰将熔铸万物。"
+"DOTA_Tooltip_ability_item_hd_str_ring_Note0"	"额外的说明：<br>全才英雄无法获得基础攻击力加成效果。"
+"DOTA_Tooltip_ability_item_hd_str_ring_bonus_str"	"%+$base_str"
+
+
+"DOTA_Tooltip_ability_item_hd_agi_ring"	"迅敏圣戒<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_agi_ring_Lore"	"匠神铸造的三枚圣戒之一，据说三枚戒指本为一体，因为其过于强力而被人为的分开了。其中象征着平衡与敏捷的戒指是三戒之中，调和着能量的平衡。"
+"DOTA_Tooltip_ability_item_hd_agi_ring_Description"	"<h1>被动：平衡之道</h1>每点敏捷将额外提供0.4点攻击速度加成，如果主属性为敏捷则每点敏捷额外提供0.3点基础攻击力加成（最多200）。"
+"DOTA_Tooltip_ability_item_hd_agi_ring_Note0"	"额外的说明：<br>全才英雄无法获得基础攻击力加成效果。"
+"DOTA_Tooltip_ability_item_hd_agi_ring_bonus_agi"	"%+$base_agi"
+
+"DOTA_Tooltip_ability_item_hd_mul_ring"	"全知圣戒<font color=\"#777777\">-第六梯队</font>"
+"DOTA_Tooltip_ability_item_hd_mul_ring_Description"	"<h1>被动：至尊</h1>每点力量提供10点生命值加成（最多8000）；每点敏捷将额外提供0.5点攻击速度加成；每点智力提供6点魔法加成（最多8000）；每点主属性额外提供0.4点基础攻击力加成（最多200）。"
+"DOTA_Tooltip_ability_item_hd_mul_ring_Lore"	"匠神铸造的至尊戒指，拥有着无穷无尽的能力，其上限会根据佩戴者的强弱而变化，因此弱者佩戴它将毫无用处。"
+"DOTA_Tooltip_ability_item_hd_mul_ring_Note0"	"额外的说明：<br>全才英雄取最高属性。"
+"DOTA_Tooltip_ability_item_hd_mul_ring_bonus_attrubute"	"%+$base_all_attribute"
+
+
+"DOTA_Tooltip_ability_item_hd_witch_crown"	"巫女头冠<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_witch_crown_Description"	"<h1>主动：强制豁免</h1>你可以忽略眩晕效果对自身施加一次强驱散，并且在此后3秒内获得持续强驱散效果。<br><br>\n<h1>被动：精神损伤</h1><br>如果你卸下装备，你的智力将永久扣除5点。"
+"DOTA_Tooltip_ability_item_hd_witch_crown_Lore"	"巫女公主所佩戴的头冠，其蕴含的的力量可以使佩戴者免去一些负面状态。"
+"DOTA_Tooltip_ability_item_hd_witch_crown_Note0"	"额外的说明：<br>"
+"DOTA_Tooltip_ability_item_hd_witch_crown_bonus_status_res"	"%+$status_resist"
+"DOTA_Tooltip_ability_item_hd_witch_crown_bonus_int"	"+$int"
+"DOTA_Tooltip_modifier_item_hd_witch_crown_debuff"                   "精神损伤"
+"DOTA_Tooltip_modifier_item_hd_witch_crown_debuff_Description"       "减少智力" 
+"DOTA_Tooltip_modifier_item_hd_witch_crown_active"                   "强制豁免"
+"DOTA_Tooltip_modifier_item_hd_witch_crown_active_Description"       "持续驱散" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_viigil_signet"	"守夜法印<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_viigil_signet_Description"	"<h1>被动：战响</h1>当你被攻击时，守夜法印可以在攻击者身上刻下一层法印刻痕。携带法印刻痕的敌人将受到层数*5%%的额外伤害，层数没有上限但最大额外伤害为35%%，每次受到伤害时消耗一层印记。"
+"DOTA_Tooltip_ability_item_hd_viigil_signet_Lore"	"守夜骑士团锻造武器的技艺毋庸置疑。这面纹章相传已见证十几次大战中百场的战斗，但是乍一看依然如新。"
+"DOTA_Tooltip_ability_item_hd_viigil_signet_Note0"	"额外的说明：<br>"
+"DOTA_Tooltip_ability_item_hd_viigil_signet_bonus_str"	"+$str"
+"DOTA_Tooltip_ability_item_hd_viigil_signet_bonus_armor"	"+$armor"
+"DOTA_Tooltip_modifier_item_hd_viigil_signet_debuff"                   "战响"
+"DOTA_Tooltip_modifier_item_hd_viigil_signet_debuff_Description"       "受到额外%dMODIFIER_PROPERTY_TOOLTIP%%%的伤害" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb"	"残日狱衣<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_Description"	"<h1>主动：狱火缠身</h1>消耗你20%%的生命值化为地狱之火，将获得伤害格挡能力，完全无效化伤害值小于你最大生命值1.5%%+200的伤害，同时每秒对你周围500范围内之多5名敌人造成你消耗生命值50%%的魔法伤害。<br><br>持续时间：15秒"
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_Lore"	"犹如披裹着太阳般高温，覆于身躯之上。若在毫无防备的状态下冒然接近装备者就会瞬间化作飞灰。"
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_Note0"	"额外的说明：<br>不会被护盾无效后禁用"
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_bonus_armor"	"+$armor"
+"DOTA_Tooltip_modifier_item_hd_remnant_sun_prison_garb_active"                   "狱火缠身"
+"DOTA_Tooltip_modifier_item_hd_remnant_sun_prison_garb_active_Description"       "完全免疫%dMODIFIER_PROPERTY_TOOLTIP%以下的伤害" 
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila"	"天鹰之盾<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_Description"	"<h1>被动：天鹰福佑</h1>周围友军提升10点护甲。40点攻击力与5点/秒的魔法恢复。<br><br>作用范围：1200"
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_Lore"	"天鹰早已死亡，不过仍有人在寻找这位著名的战争领袖留下的物品。— 卡牌牧神乔莉希亚"
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_Note0"	"额外的说明：<br>"
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_bonus_all_attribute"	"+$all_attribute"
+"DOTA_Tooltip_modifier_item_hd_shield_of_aquila_arua_effect"                   "天鹰福佑"
+"DOTA_Tooltip_modifier_item_hd_shield_of_aquila_arua_effect_Description"       "攻击+%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%<br>防御+%dMODIFIER_PROPERTY_TOOLTIP%<br>魔法恢复+%dMODIFIER_PROPERTY_MANA_REGEN_CONSTANT%" 
+
+
+
+// It was Pierpont who helped broker the Claszureme Treaty, ensuring that Faceless Void would not wreak havoc with our time stream. In exchange, the Sapphire Conclave agreed to enforce a strict crackdown on Chronomancy. Most hourglasses on this plane were confiscated, but every now and again one turns up... usually in the possession of a wizard too foolish to understand the consequences of his actions
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass"	"超维视界沙漏<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_Description"	"<h1>被动：时间操控</h1>当你受到大于最大生命值3%%的伤害时，你可以完全规避这次伤害，并消耗一点沙漏，沙漏点数每经过5秒会自动恢复一点，最多储存10点。"
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_Lore"	"皮尔庞特协助进行了超维视界条约的谈判，确保虚空假面不会对我们的时间流造成重大破坏。作为回报，蓝宝石教团同意对操纵时空实施严厉制裁。在这个时空里，多数沙漏都已遭到没收，但时不时，总会有一两个冒出来……通常是在哪个愚蠢至极、不懂后果的巫师手上。"
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_bonus_cooldown"	"%+$cooldown_reduction"
+"DOTA_Tooltip_modifier_item_hd_claszureme_hourglass_buff"                   "时间操控"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_seraphim_shield"	"炽天使护盾<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_Description"	"<h1>被动：充能反击</h1>受到来自正面100°的物理攻击时，可以吸收20%%的伤害储存起来（单次最多达到最大生命值的20%%），当储存值大于最大生命值的10%%后将对正面扇形区域发动一次盾反，对区域内至多七名敌人造成等于吸收伤害的物理伤害。<br><br>释放间隔：1秒"
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_Lore"	"并非每个人都适合正面冲突。"
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_Note0"	"额外的说明：<br>区域与神之谴责大致相同。"
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_bonus_health_regen"	"+$hp_regen"
+
+"DOTA_Tooltip_modifier_item_hd_seraphim_shield_buff"                   "充能反击"
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_rubick_cube"	"魔方之迷<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_rubick_cube_Description"	"<h1>消耗：研究</h1>解开魔方的奥秘，你需要有两个'魔方之谜'，解谜完成后你的可学习最大技能数量+1。"
+"DOTA_Tooltip_ability_item_hd_rubick_cube_Lore"	"拉比克发现了一个神秘的物质……"
+"DOTA_Tooltip_ability_item_hd_rubick_cube_Note0"	"额外的说明：<br>你可以使用队友的魔方"
+"DOTA_Tooltip_modifier_item_hd_rubick_cube_buff"                   "魔方之迷-解谜中"
+"DOTA_Tooltip_modifier_item_hd_rubick_cube_active"                   "魔方之迷-解谜完成"
+
+
+
+
+// Nestled in the Fields of Endless Carnage lies the city of Quoidge. An undead metropolis where slovenly butchers rub shoulders with the most proper of corpses. To the living, this cloak is grotesque. To dead, it's the height of fashion.
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage"	"戮尽斗篷<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_Description"	"<h1>被动：戮尽</h1>死灵的力量总是最为强大的，每次你从冥界苏生时，将在获得10点智力加成，可以叠加至100，持续180秒，每次死亡后将刷新持续时间。<br>\n<h1>被动：死者返生</h1>你被友军复活后不会被施加'虚弱'状态，且复活所需时间减少5秒。"
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_Lore"	"戮尽之地之上，坐落着囚尸岭，一座亡灵之都。在这里，邋遢的屠夫与穿着体面的尸体打交道。在活人眼里，这件斗篷诡异丑陋。但对死人来说，这可是最顶尖的时尚。"
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_Note0"	"额外的说明：<br>复活时间减少只生效于普通的复活。"
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_bonus_spell_amp"	"%+$spell_amp"
+"DOTA_Tooltip_modifier_item_hd_cloak_of_endless_carnage"                   "戮尽"
+
+
+
+// In the right hands, this orb can undermine the most well laid of plans... naturally Vanessa always keeps a few in her possession.
+"DOTA_Tooltip_ability_item_hd_obliterating_orb"	"抹灭法球<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_obliterating_orb_Description"	"<h1>被动：抹灭</h1>你在造成魔法伤害后，将对目标施加10%%-40%%的随机魔法抗性削减，削减效果固定持续5秒。"
+"DOTA_Tooltip_ability_item_hd_obliterating_orb_Lore"	"在专家手里，这颗法球能摧毁哪怕最完备的计划……当然，凡妮莎总会给自己留上几颗。"
+"DOTA_Tooltip_ability_item_hd_obliterating_orb_Note0"	"额外的说明：<br>对已携带削减效果的敌人不会触发被动效果，削减效果受到概率事件触发增强的增幅。"
+"DOTA_Tooltip_ability_item_hd_obliterating_orb_bonus_spell_amp"	"%+$spell_amp"
+
+"DOTA_Tooltip_modifier_item_hd_obliterating_orb_debuff"                   "抹灭"
+"DOTA_Tooltip_modifier_item_hd_obliterating_orb_debuff_Description"       "减少%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%魔法抗性" 
+
+
+
+
+
+// To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price.
+"DOTA_Tooltip_ability_item_hd_ristul_emblem"	"瑞斯托纹章<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_ristul_emblem_Description"	"<h1>被动：恶魔律法</h1>周围敌人将减少10点防御力与20%%魔法抗性，而你自身将受到双倍的效果。<br>作用范围：800"
+"DOTA_Tooltip_ability_item_hd_ristul_emblem_Lore"	"如果有人愿意迈进一个奉行恶魔礼仪与律令的世界，那么瑞斯托王廷很乐意为他们提供强大的力量……当然也不是免费的。"
+"DOTA_Tooltip_ability_item_hd_ristul_emblem_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_ristul_emblem_bonus_str"	"+$str"
+
+"DOTA_Tooltip_modifier_item_hd_ristul_emblem_debuff"                   "恶魔律法"
+"DOTA_Tooltip_modifier_item_hd_ristul_emblem_debuff_Description"       "魔法抗性:-%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%<br>护甲：-%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+
+
+
+
+
+// The warrior priests of the Rumusque Faithful are led by Lady Anshu, and their mere presence can bolster the hearts of the virtuous.
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments"	"鲁姆斯克法袍<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments_Description"	"<h1>被动：愈疗</h1>当你治疗一名友方英雄累计治疗量到达其最大生命值100%%时，将使其提升5%%的伤害，独立叠加持续30秒，最多有效40%%。"
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments_Lore"	"鲁姆斯克信徒中的战士祭司由安苏夫人领导，光是他们的存在就能鼓舞修道者之心。"
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments_bonus_heal_amp"	"%+$heal_amp"
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments_bonus_int"	"+$int"
+"DOTA_Tooltip_modifier_item_hd_rumusque_vestments_buff"                   "愈疗"
+"DOTA_Tooltip_modifier_item_hd_rumusque_vestments_buff_Description"       "赋予%dMODIFIER_PROPERTY_TOOLTIP%%%伤害增强" 
+
+
+
+
+// Some heroes have a greater flair for the dramatic than others.
+"DOTA_Tooltip_ability_item_hd_hero_cape"	"英雄披风<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_hero_cape_Description"	"<h1>被动：英雄之路</h1>你造成的技能伤害会提高18%%(非提高技能伤害)，以生命移除的方式造成，忽略所有抗性。"
+"DOTA_Tooltip_ability_item_hd_hero_cape_Lore"	"有些英雄就是比其他人更擅长上演戏剧性的一幕……"
+"DOTA_Tooltip_ability_item_hd_hero_cape_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_hero_cape_bonus_all_attribute"	"+$all"
+
+
+
+
+// Magic can be more fragile than most people think.
+"DOTA_Tooltip_ability_item_hd_demagicking_maul"	"祛魔之槌<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_demagicking_maul_Description"	"<h1>被动：祛魔</h1>你在攻击/被攻击时将以生命移除的方式削减目标/攻击来源的生命值，数值等同于你最大生命值的5%%/3%%。<br>\n<h1>被动：契约</h1><br>你的最大生命值增加50%%，但你的最大当前生命将被锁定至50%%（与10000取最小值）。"
+"DOTA_Tooltip_ability_item_hd_demagicking_maul_Lore"	"魔法可能比多数人以为的要脆弱得多。"
+"DOTA_Tooltip_ability_item_hd_demagicking_maul_Note0"	"额外的说明："
+
+
+
+
+
+
+// To bolster their numbers, the Sisters of the Veil often abduct children and train them in their ways. When they come of age, they are bestowed this, in preparation of their first kill.
+"DOTA_Tooltip_ability_item_hd_assassin_veil"	"刺客面纱<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_assassin_veil_Description"	"<h1>被动：刺客信条</h1>你的下一次暴击伤害将提高100%%（乘法）<br><br>冷却时间：5秒<br>\n<h1>被动：狂战士信条</h1><br>每次攻击可以减少5%%的冷却时间。"
+"DOTA_Tooltip_ability_item_hd_assassin_veil_Lore"	"为了壮大势力，幻纱姐妹会经常诱拐孩童并传以姐妹会之道。这些孩子在成人之时会被授予此面纱，准备进行生平第一次杀戮。"
+"DOTA_Tooltip_ability_item_hd_assassin_veil_Note0"	"额外的说明：<br>加成保持一帧时间"
+"DOTA_Tooltip_ability_item_hd_assassin_veil_bonus_damage"	"+$damage"
+"DOTA_Tooltip_modifier_item_hd_assassin_veil_active"                   "刺客信条"
+"DOTA_Tooltip_modifier_item_hd_assassin_veil_active_Description"       "提升100%%暴击伤害" 
+
+
+
+
+
+// Many characterise the Jasper Circle as a group of assassins for hire... this is a crude oversimplification. Lorlin Lasan's spy ring offers many services to those who can afford them, murder just happens to be the most popular.
+"DOTA_Tooltip_ability_item_hd_jasper_daggers"	"碧玉匕首<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_jasper_daggers_Description"	"<h1>被动：狂乱刺击</h1>当你在背后攻击一名敌人时，可以强制其进入1秒的眩晕，在这1秒内你的基础攻击间隔变为0.3秒。<br><br>冷却时间：对同一名敌人有5秒冷却"
+"DOTA_Tooltip_ability_item_hd_jasper_daggers_Lore"	"很多人说碧玉会不过是一群拿钱办事的刺客……这种说法未免也太简单粗暴了。洛琳·拉山的间谍网可以提供许多服务，只要顾客出得起价钱。刺杀只是最受欢迎的一种罢了。"
+"DOTA_Tooltip_ability_item_hd_jasper_daggers_Note0"	"额外的说明：<br>不同装备携带者对同一名敌人共享冷却。"
+"DOTA_Tooltip_ability_item_hd_jasper_daggers_bonus_agi"	"+$agi"
+"DOTA_Tooltip_modifier_item_hd_jasper_daggers_delay"                   "警惕背身"
+"DOTA_Tooltip_modifier_item_hd_jasper_daggers_delay_Description"       "不会被触发'狂乱刺击'" 
+
+
+// Long ago, the Apotheosis Blade was forged with a singular and wicked purpose: to let the wielder kill a god and assume its power. Today, it is but one of many accursed artifacts safely tucked away inside the Burnt Hall of Weeping Rose.
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade"	"封神之刃<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade_Description"	"<h1>被动：封神</h1>攻击可以忽略目标40%%的正向护甲。"
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade_Lore"	"许久以前，出于一个简单而邪恶的理由，而打造了封神之刃，那便是让持有之人弑神并获取其力量。如今，它不过是收纳到垂枝玫瑰的焦黑大殿中的众多被诅咒的神器之一。"
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade_bonus_damage"	"+$damage"
+
+
+
+
+
+
+// Rose Scepter
+"DOTA_Tooltip_ability_item_hd_rose_scepter"	"蔷薇权杖<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_rose_scepter_Description"	"<h1>主动：贫者的蔷薇</h1>在目标地点种下蔷薇，持续散发毒性，降低周围敌人的魔法抗性，并每秒造成一次魔法伤害。<br><br>持续时间：15秒<br>作用范围：600<br>魔法抗性降低：20%%（每有20%%技能伤害额外提供1%%，最多到达40%%）<br>伤害：施法者智力*1.5+最大魔法值的8%%"
+// The Poor Man's Rose is a low-budget and small mass destruction weapon with frightening destructive capabilities. It is cheap, can be mass-produced in short amounts of time, and is favored by small dictatorships.
+"DOTA_Tooltip_ability_item_hd_rose_scepter_Lore"	"贫者玫瑰是一种低成本的小型大规模杀伤性武器，具有可怕的破坏力。它便宜，可以在短时间内大量生产，因此受到独裁小国的青睐。"
+"DOTA_Tooltip_ability_item_hd_rose_scepter_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_rose_scepter_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_rose_scepter_bonus_spell_damage"	"%+$spell_amp"
+"DOTA_Tooltip_modifier_item_hd_rose_scepter_debuff"                   "贫者的蔷薇"
+"DOTA_Tooltip_modifier_item_hd_rose_scepter_debuff_Description"       "减少%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%魔法抗性" 
+
+"DOTA_Tooltip_ability_item_hd_siren_clothing"	"娜迦服装<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_siren_clothing_Description"	"<h1>被动：激流</h1>你的攻击有10%%触发一次激流，对周围300范围内的至多5名敌人造成全额攻击力*30%%的物理伤害，并削弱其10点护甲，持续1秒。<br><br>冷却时间：0.3秒<br>\n<h1>被动：娜迦族的怒火</h1><br>如果你本身不是娜迦族，同时有为娜迦的队友，只要你穿戴着这件服装便会额外受到25%%的伤害。"
+"DOTA_Tooltip_ability_item_hd_siren_clothing_Lore"	"由娜迦族的皮制成的服装，蕴含着大海的力量。但记住，除非你自身为娜迦，否则你将引起同为娜迦队友的愤怒。"
+"DOTA_Tooltip_ability_item_hd_siren_clothing_Note0"	"额外的说明：<br>如果拥有激流天赋会产生融合效果。"
+"DOTA_Tooltip_ability_item_hd_siren_clothing_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_siren_clothing_bonus_agi"	"+$agi"
+"DOTA_HUD_siren_clothing_info1"   "{s:player_name}:你是什么意思？"
+"DOTA_HUD_siren_clothing_info2"   "{s:player_name}:你胆子真大啊！"
+"DOTA_HUD_siren_clothing_info3"   "{s:player_name}:……#*%%##%%####%%！"
+"DOTA_HUD_siren_clothing_info4"   "{s:player_name}:你会后悔的！"
+"DOTA_Tooltip_modifier_item_hd_siren_clothing_caster_debuff"                   "娜迦族的怒火"
+"DOTA_Tooltip_modifier_item_hd_siren_clothing_caster_debuff_Description"       "额外受到%dMODIFIER_PROPERTY_TOOLTIP%%%伤害" 
+"DOTA_Tooltip_modifier_item_hd_siren_clothing_debuff"                   "激流"
+"DOTA_Tooltip_modifier_item_hd_siren_clothing_debuff_Description"       "护甲减少%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_rubick_cube2"	"魔方之迷V2<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_rubick_cube2_Description"	"<h1>消耗：研究</h1>解开魔方的奥秘，你需要有两个'魔方之谜V2'，解谜完成后你可以在中立物品栏装备物品。"
+"DOTA_Tooltip_ability_item_hd_rubick_cube2_Lore"	"拉比克发现了一个神秘的物质……"
+"DOTA_Tooltip_ability_item_hd_rubick_cube2_Note0"	"额外的说明：<br>你可以使用队友的魔方"
+"DOTA_Tooltip_modifier_item_hd_rubick_cube2_buff"                   "魔方之迷V2-解谜中"
+"DOTA_Tooltip_modifier_item_hd_rubick_cube2_active"                   "魔方之迷V2-解谜完成"
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_phoenix_ring"	"菲尼克斯之戒<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_Lore"	"凤凰涅槃时产生的烈焰所铸造的一枚戒指，守护着佩戴者远离死亡。"
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_Description"	"<h1>消耗：融合</h1>捏碎指环使一部分能量与自身融合，你将永久获得涅槃效果（仅一次）\n<h1>被动：涅槃</h1>魔瓶的效力增加100%%，同时每隔25秒你可以恢复一点魔瓶的能量点数。"
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_bonus_mana"	"+$mana"
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_Note0"	"额外的说明："
+"DOTA_Tooltip_modifier_item_hd_phoenix_ring"                   "涅槃"
+"DOTA_Tooltip_modifier_item_hd_phoenix_ring_active"                   "涅槃"
+
+
+
+"DOTA_Tooltip_ability_item_hd_book_of_death_2"	"亡者之书<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_Description"	"<h1>被动：亡魂操控</h1>与自身召唤的不死者建立一道特殊的连接，当召唤者周围1000范围内有任意单位死亡时，可以抽取其灵魂赋予给名下的所有召唤不死者物，使其全额攻击力提高4%%，最多叠加至100%%。"
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_Lore"	"凡妮莎想把它送去焦黑大殿。皮尔庞特想把它安全地锁在蓝宝石教团。是冰晶圣女建议将它留给傲洛斯的……虽然不情愿，他们都同意了。"
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_bonus_summon_intensity"	"%+$summon_intensity"
+
+"DOTA_Tooltip_modifier_item_hd_book_of_death_2_active"                   "亡魂操控"
+"DOTA_Tooltip_modifier_item_hd_book_of_death_2_active_Description"       "全额攻击力提升%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor"	"克拉肯之甲<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_Description"	"<h1>被动：北海巨妖之力</h1>在受到伤害时记录受到伤害的原始值（受到各项减免之前，包括护甲与魔法抗性），每隔15秒将这段时间受到伤害的15%%转化为无视护盾破坏的护盾。护盾持续10秒，但最多到达最大生命值的500%%。"
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_Lore"	"如果它缠绕住了最大的战舰，它可以将船推入洋底。"
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_bonus_armor"	"+$armor"
+"DOTA_Tooltip_modifier_item_hd_kraken_shell_armor_active"	"北海巨妖之盾"
+
+
+
+"DOTA_Tooltip_ability_item_hd_head_of_medusa"	"美杜莎之首<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_Description"	"<h1>主动：石化凝视</h1>可以瞬间石化周围800范围内的敌人(包括魔免)，并使其受到额外的物理伤害。<br><br><br>额外物理伤害：60%%<br>持续时间：5秒"
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_Lore"	"睥睨万物才是值得拥有的美貌—这才是能够改变世界的力量。"
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_bonus_agi"	"+$agi"
+
+"DOTA_Tooltip_modifier_item_hd_head_of_medusa_active"                   "石化凝视"
+"DOTA_Tooltip_modifier_item_hd_head_of_medusa_active_Description"       "额外受到%dMODIFIER_PROPERTY_INCOMING_PHYSICAL_DAMAGE_PERCENTAGE%%%物理伤害" 
+
+
+"DOTA_Tooltip_ability_item_hd_sven_mask"	"斯温的头盔<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_sven_mask_Description"	"<h1>被动：神力</h1>每隔1秒就积攒10%%的神力，当神力积攒到500%%开启爆发，在10秒内提高40%%的全额攻击力。每次攻击还将积攒1%%的神力。"
+"DOTA_Tooltip_ability_item_hd_sven_mask_Lore"	"守夜骑士最初的头盔，陪伴了斯温大半生的时间。在与主宰的战斗中伴随着主宰的觉醒，这顶头盔与在神之力量的影响下获得了新的力量。"
+"DOTA_Tooltip_ability_item_hd_sven_mask_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_sven_mask_bonus_damage"	"%+$full_damage"
+
+"DOTA_Tooltip_modifier_item_hd_sven_mask"                   "神力"
+"DOTA_Tooltip_modifier_item_hd_sven_mask_Description"       "积累能量" 
+
+"DOTA_Tooltip_modifier_item_hd_sven_mask_active"                   "神力爆发"
+"DOTA_Tooltip_modifier_item_hd_sven_mask_active_Description"       "攻击力提升%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_shisui"	"断水刃·止水<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_shisui_Description"	"<h1>被动：大坝谁修哈</h1>攻击有13%%几率操控水流，使目标防御力减少2点，独立叠加持续7秒，同时利用曲率加速下一次攻击的速度，可以提升800点。"
+"DOTA_Tooltip_ability_item_hd_shisui_Lore"	"可以轻松让水面断开的刀，其刀刃上附带着特殊的力量，可以使水流像曲率引擎一般向后褪去，因此熟练运用这把刀的人也可以操控水流。"
+"DOTA_Tooltip_ability_item_hd_shisui_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_shisui_bonus_attack_speed"	"+$attack"
+
+
+"DOTA_Tooltip_modifier_item_hd_shisui_debuff"                   "大坝谁修哈"
+"DOTA_Tooltip_modifier_item_hd_shisui_debuff_Description"       "防御力减少%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha"	"统领号角<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_Description"	"<h1>被动：统帅</h1>你的召唤物死亡后将会给你提供基础攻击力加成，数值=其攻击力的2%%，独立叠加持续50秒，但最多只提供200点基础攻击力加成。"
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_Lore"	"一年一度，断骨部落会有一批半人马被选中参与“伟大狩猎”。这趟远征的目的是要考验部落中最优秀的追踪者的技术与耐力。对这些男男女女们来说，没有什么荣誉比从雷肤兽领袖的头上斩获长角更高了。"
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_bonus_damage"	"+$base_damage"
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_bonus_attack_speed"	"+$attack"
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_bonus_summon_intensity"	"%+$summon_intensity"
+
+
+"DOTA_Tooltip_modifier_item_hd_horn_of_the_alpha_buff"                   "统帅"
+"DOTA_Tooltip_modifier_item_hd_horn_of_the_alpha_buff_Description"       "基础攻击力增加%dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_high_priest_robe"	"大祭司法袍<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_Description"	"<h1>被动：神圣协调</h1>治疗一个目标时，为其生成一个临时护盾，可以抵挡等同于治疗值20%%的伤害，持续10秒，最多叠加至目标最大生命值的10倍。"
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_Lore"	"传说中的大祭司所穿的法袍，在其去世后跟随其下葬。现在你又看见了这件法袍则说明盗墓已经发生了，那么大祭司生前所拥有的各种神器也会重新出现吧。"
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_heal_receive_amp"	"%+$heal_receive_amp"
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_heal_amp"	"%+$heal_amp"
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_bonus_int"	"+$int"
+
+"DOTA_Tooltip_modifier_item_hd_high_priest_robe_buff"                   "神圣协调"
+
+
+
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic"	"高级基恩镜片<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic_Lore"	"矮人工匠们的至高工艺结晶。"
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic_attack_range"	"+$attack_range"
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic_cast_range"	"+$cast_range"
+
+
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar"	"水蓝星之泪<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar_Lore"	"生命之星中提取的精华所铸造的戒指，蕴含着强大的自然之力。据说这枚戒指有着某种进阶用法，但是鲜为人知。"
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar_Description"	"<h1>主动：守护</h1>可以守护一名指定目标，当其受到致命伤害时，直接免疫伤害同时使其恢复到满血状态且可以进入2秒无敌状态。初始拥有5点能量，可以触发5次，没有能量点后转变为15%%触发几率。<br><br>同一个单位只能受到一枚戒指作用，重复使用没有效果。"
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar_bonus_health"	"+$health"
+
+
+
+"DOTA_Tooltip_modifier_item_hd_tears_of_aquastar_active"                   "守护"
+"DOTA_Tooltip_modifier_item_hd_tears_of_aquastar_active_Description"       "你被保护了" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer"	"折翼之锤<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_Description"	"<h1>被动：全视者</h1>攻击敌人时以目标为中心，对400范围内的友军造成治疗效果，治疗数值等于伤害的75%%。"
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_Lore"	"全视者祝福了这把战锤，使持有者获得力量，强化盟友，摧毁敌人。"
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_bonus_str"	"+$str"
+
+
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun"	"特斯拉高能炮<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun_Description"	"<h1>主动：高能轰击</h1>对指定方向一条直线上的敌人造成全额攻击力*%damage_preatk%的物理伤害，并降低被命中敌人%active_incoming%% 物理伤害减免，持续%duration%秒。\n<h1>被动：轻量轰击</h1>攻击时触发仅有%index%% 伤害的主动效果，至多%cd%秒触发一次。\n<h1>被动：炮击修正</h1>持有者的每点额外攻击距离会提供%range_damage%点攻击力。\n<font color=\"#606060\">这件装备的降低伤害减免在造成伤害之前。</font>"
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun_Lore"	"利用某种特殊材料而制造的能量武器，即使最为技艺高深的矮人工匠也无法理解这种工艺。"
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun_bonus_attack_range"	"+攻击距离（仅远程）"
+//"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun_attack_range"	"-$anti_attack_range"
+
+
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur"	"波格达格的幸运股骨<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_Description"	"<h1>被动：好运连连</h1>在施放一个可刷新技能后，有%refresh_chance%% 的几率马上刷新该技能。"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_Lore"	"再来一次！"
+
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_bonus_attack_speed"	"+$attack"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_probability"	"%+$probability"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_bonus_attribute"	"+$all_attribute"
+
+
+
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye"	"莱兹克之眼<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_Description"	"<h1>被动：邪祟之核</h1>获得%bonus_damage%% 所有伤害增加及%bonus_resist%% 伤害减免.\n<h1>开启：邪祟凝聚</h1>激发腐化之力，再次提升自身%bonus_damage_2%% 所有伤害，但受到的伤害增加%bonus_resist_2%%。"
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_Lore"	"腐化者的眼中存在着力量。"
+
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_bonus_attribute"	"+$all_attribute"
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_bonus_mana_regen"	"+$mana_regen"
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_bonus_health_regen"	"+$hp_regen"
+"DOTA_Tooltip_modifier_item_hd_siltbreaker_rhyzik_eye_active"	"汝已腐化"
+
+
+
+"DOTA_Tooltip_ability_item_hd_ultimate_scepter"	"阿哈利姆神杖<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_ultimate_scepter_Description"	"<h1>主动：阿哈利姆的祝福</h1>在5秒内使被动加成效果为2倍。<br>\n<h1>被动：福佑</h1>携带此物品时学习的高阶技能计算基础数值加成时取当前等级+4。"
+"DOTA_Tooltip_ability_item_hd_ultimate_scepter_Lore"	"这把权杖属于拥有半神之力的法师。"
+"DOTA_Tooltip_ability_item_hd_ultimate_scepter_Note0"	"额外的说明："
+
+"DOTA_Tooltip_modifier_item_hd_ultimate_scepter_active"                   "阿哈利姆的祝福"
+
+
+// Sometimes , even a star needs a little help to shine bright.
+"DOTA_Tooltip_ability_item_hd_selecter_terminal"	"选定者终端<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_selecter_terminal_Description"	"<h1>主动：选定</h1>指定一名友方英雄为试炼者，当其击杀了100个单位后，根据其主属性获得加成效果：<br><font color=\"#d9534f\">力量：</font>永久获得力量*3的生命加成。（多次达成可叠加到力量*10）<br><font color=\"#5cb85c\">敏捷：</font>永久获得敏捷*0.12的基础攻击力加成。（多次达成可叠加到敏捷*0.4）<br><font color=\"#5bc0de\">智力：</font>永久获得智力*0.04%%的技能伤害加成。（多次达成可叠加到智力*0.13%%）<br><br>注意：同一时刻只能选定一名友军。"
+"DOTA_Tooltip_ability_item_hd_selecter_terminal_Lore"	"有时，星星需要一点帮助才能闪耀。"
+"DOTA_Tooltip_ability_item_hd_selecter_terminal_Note0"	"额外的说明：<br>可以同时被多个终端选定。<br>全才英雄获得全部效果，但每次仅叠加50%%。"
+
+
+
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_active"                   "选定"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_str"                   "选定者终端"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_str_Description"       "生命值提升%dMODIFIER_PROPERTY_HEALTH_BONUS%" 
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_agi"                   "选定者终端"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_agi_Description"       "基础攻击力提升%dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE%" 
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_int"                   "选定者终端"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_int_Description"       "技能伤害提升%fMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%" 
+
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_str_all"                   "选定者终端"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_str_all_Description"       "生命值提升%dMODIFIER_PROPERTY_HEALTH_BONUS%" 
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_agi_all"                   "选定者终端"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_agi_all_Description"       "基础攻击力提升%dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE%" 
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_int_all"                   "选定者终端"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_int_all_Description"       "技能伤害提升%fMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%" 
+
+
+"DOTA_Tooltip_ability_item_hd_ritual_spear"	"仪式枪<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_ritual_spear_Description"	"<h1>主动：教堂之枪誓约</h1>激发仪式枪内的誓约之力，获得%bonus_attack_speed%点攻击速度，持续%duration%秒。\n<h1>被动：化身</h1>攻击时若处于教堂之枪誓约状态，有%chance%% 几率在敌人周围%random_radius%范围内降下落雷，落雷对周围%radius%范围内至多%limit%个敌人造成全额攻击力*%damage_index%点纯粹伤害。"
+"DOTA_Tooltip_ability_item_hd_ritual_spear_Lore"	"据说是过去费莲诺尔公主的骑士们\n各自持有的仪式枪碎片。\n\n这正是“教堂之枪”的名称由来。\n\n当教堂之枪遇上真正棘手的对手时，\n使用此物后，可以唤起过往的气势，\n召唤出一字排开，指向天的仪式枪。"
+"DOTA_Tooltip_ability_item_hd_ritual_spear_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_ritual_spear_bonus_atb"	"+全属性"
+"DOTA_Tooltip_modifier_item_hd_ritual_spear_active"     "教堂之枪誓约"
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1"	"活物的见闻<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_Description"	"<h1>被动：蜃影</h1>你召唤出的生物受到伤害时有15%%几率回复受到伤害的120%%的生命值。(不视为治疗)"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_Lore"	"记载着育母底栖魔鱼的记忆，包括历史的洪流，众神的故事，神秘事物，以及无数咒语。但书中的文字处于一种不断变化的状态，只有那些精明的人才能解开其中的奥秘，并发挥出其本来的力量。"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_summon_time_intensity"	"%+$summon_time_intensity"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_summon_intensity"	"%+$summon_intensity"
+// The pages of this book are littered with the shifting memories of all the aboleth broodmother's eyes have seen. This deluge of information includes historical occurrences, the gods, and all things arcane, in addition to several spells.
+// Unfortunately, the script is a shifting mire of letters that only the most astute can decipher.
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_helm_of_omni"	"全能之盔<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_helm_of_omni_Description"	"<h1>主动：全能赐福</h1>祝福一名目标英雄，携带这件物品每经过30秒即可使其增加1点全属性，最多到达50点。<br>\n<h1>被动：叛教者</h1>一旦你卸下这件装备，所有的祝福会变成反噬永久作用在你身上。"
+"DOTA_Tooltip_ability_item_hd_helm_of_omni_Lore"	"全能教会中的神器，只有最虔诚的教徒才能有幸触摸到这件物品。"
+"DOTA_Tooltip_ability_item_hd_helm_of_omni_Note0"	"额外的说明：<br>一顶头盔只能祝福一名友军，当你卸下任意头盔时则会受到惩罚。"
+"DOTA_Tooltip_ability_item_hd_helm_of_omni_bonus_health"	"+$health"
+
+"DOTA_Tooltip_modifier_item_hd_helm_of_omni_active"                   "全能赐福"
+"DOTA_Tooltip_modifier_item_hd_helm_of_omni_active_Description"       "全属性提升%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%" 
+"DOTA_Tooltip_modifier_item_hd_helm_of_omni_debuff"                   "叛教者"
+"DOTA_Tooltip_modifier_item_hd_helm_of_omni_debuff_Description"       "全属性减少%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_bottledthundertorm"	"瓶装球状闪电<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_bottledthundertorm_Description"	"<h1>消耗：融合</h1>饮下瓶中的液体，你将获得特殊的能力，只要你在0.06秒内移动超过300距离，即可在两点将产生闪电链，对线上的敌人造成主属性*6的魔法伤害。"
+"DOTA_Tooltip_ability_item_hd_bottledthundertorm_Lore"	"球状闪电是形成雷电的电动趋势，在半击穿空气时产生的空气离子球。某个高位面的法师将其制造的球状闪电封印入了一个瓶子中，长年累月下其竟然变成了可饮用的液体。"
+"DOTA_Tooltip_ability_item_hd_bottledthundertorm_Note0"	"额外的说明："
+"DOTA_Tooltip_modifier_item_hd_bottledthundertorm_active"                   "球状闪电"
+
+
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat"	"稻草人帽子<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_Description"	"<h1>主动：恐惧毒气</h1>开启光环效果，散播恐惧，使周围1000范围内敌人陷入恐惧中，此时每次对其造成一次大于100的攻击伤害则会使其额外受到0.5%%的攻击伤害，最多叠加至30%%。<br><br>持续时间：10秒<br>粘滞时间：2秒"
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_Lore"	"稻草人的主要武器是有他创造的“恐惧气体”。有了它，他可以制造出他的受害者们的最深的恐惧。"
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_bonus_mana"	"+$mana"
+
+"DOTA_Tooltip_modifier_item_hd_scarecrow_hat_aura_active"                   "恐惧毒气"
+
+"DOTA_Tooltip_modifier_item_hd_scarecrow_hat_debuff"                   "恐惧毒气"
+"DOTA_Tooltip_modifier_item_hd_scarecrow_hat_debuff_Description"       "额外受到%fMODIFIER_PROPERTY_INCOMING_PHYSICAL_DAMAGE_PERCENTAGE%%%物理伤害" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light"	"光暗头环<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_Description"	"<h1>切换：光暗两态</h1>可以随时切换至慧光态或暗影态，在慧光态下将获得20%%攻击速度提升，在暗影态下将获得35%%攻击力提升。"
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_Lore"	"被光之神与暗之神的力量各占据一半的头环，可以随时切换你所需要的力量。"
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_bonus_attack_speed"	"+$attack"
+
+
+"DOTA_Tooltip_modifier_item_hd_circlet_of_dark_and_light_light"                   "慧光态"
+"DOTA_Tooltip_modifier_item_hd_circlet_of_dark_and_light_light_Description"       "攻击速度提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+"DOTA_Tooltip_modifier_item_hd_circlet_of_dark_and_light_dark"                   "暗影态"
+"DOTA_Tooltip_modifier_item_hd_circlet_of_dark_and_light_dark_Description"       "攻击力提升%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord"	"统御头盔<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_Description"	"<h1>被动：支配</h1>你召唤的召唤物将拥有20%%的攻击吸血能力。"
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_Lore"	"死去的死灵法师留下的强大头盔。"
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_Note0"	"额外的说明：<br>计算召唤者的吸血增强。"
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_bonus_attribute"	"+$all"
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_summon_intensity"	"%+$summon_intensity"
+
+
+
+"DOTA_Tooltip_ability_item_hd_brain_worm"	"脑虫的大脑<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_brain_worm_Description"	"<h1>被动：破坏抑制</h1>当你被施加破坏后，使接下来的4秒免疫破坏效果，同时减少1点充能，充能点数每18秒回复一点，最多储存3点。"
+"DOTA_Tooltip_ability_item_hd_brain_worm_Lore"	"还残留着脑虫体液的大脑，虽然说恶心至极，但也是一件神器。"
+"DOTA_Tooltip_ability_item_hd_brain_worm_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_brain_worm_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_brain_worm_bonus_mana"	"+$mana"
+
+
+
+"DOTA_Tooltip_ability_item_hd_shivas_staff"	"希瓦的法杖<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_shivas_staff_Description"	"<h1>主动：冰暴术</h1>对目标区域400范围施加一次冰暴术，对区域内敌人造成1800+智力*18的魔法伤害，冻结1秒并使其在6秒内无法恢复生命值。"
+"DOTA_Tooltip_ability_item_hd_shivas_staff_Lore"	"据说曾经属于某位女神，至今仍保持大部分神力。"
+"DOTA_Tooltip_ability_item_hd_shivas_staff_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_shivas_staff_bonus_spell_damage"	"%+$spell_amp"
+
+"DOTA_Tooltip_modifier_item_hd_shivas_staff_debuff"                   "冰暴术"
+"DOTA_Tooltip_modifier_item_hd_shivas_staff_debuff_Description"       "禁疗" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction"	"断法头盔<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_Description"	"<h1>主动：魔邓肯裂解术</h1>以你为中心释放一个1000范围的反魔法脉冲，区域内所有单位将陷入10秒的无法回复魔法的状态，对于敌人还将完全无效化其技能伤害，且造成破坏效果，但只持续5秒。"
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_Lore"	"法师魔邓肯制造了这顶金光闪闪的头盔。如果他有制造其它断法头盔，那么那些头盔还没被人发现。"
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_bonus_magic_resist"	"%+$spell_resist"
+
+"DOTA_Tooltip_modifier_item_hd_helm_of_disjunction_debuff"                   "魔邓肯裂解术"
+"DOTA_Tooltip_modifier_item_hd_helm_of_disjunction_debuff_Description"       "无法恢复魔法" 
+"DOTA_Tooltip_modifier_item_hd_helm_of_disjunction_debuff2"                   "魔邓肯裂解术"
+"DOTA_Tooltip_modifier_item_hd_helm_of_disjunction_debuff2_Description"       "技能伤害极大幅度降低，被破坏被动" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_horn_of_winter"	"凛冬号角<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_Description"	"<h1>被动：凛冬之气</h1>当你召唤出任意召唤物时，以其为中心冰封周围300范围内的敌人0.5秒，并使敌人在接下来的6秒额外受到50%%的伤害。<br>\n<h1>被动：凛冬护甲</h1>你的召唤物可以获得15%%伤害减免效果。"
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_Lore"	"用永冻冰川上的万年冰晶作为素材制作的号角，可以呼唤冷冽之风赋予给你的军队。"
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_summon_intensity"	"%+$summon_intensity"
+
+"DOTA_Tooltip_modifier_item_hd_horn_of_winter_debuff"                   "凛冬之气"
+"DOTA_Tooltip_modifier_item_hd_horn_of_winter_debuff_Description"       "受到额外%dMODIFIER_PROPERTY_TOOLTIP%%%伤害" 
+
+"DOTA_Tooltip_modifier_item_hd_horn_of_winter_buff"                   "凛冬护甲"
+"DOTA_Tooltip_modifier_item_hd_horn_of_winter_buff_Description"       "受到伤害减少%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring"	"迷斯瑞恩之戒<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring_Description"	"<h1>被动：反护盾反制</h1>任何护盾破坏效果不再对你有效。"
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring_Lore"	"精灵的迷锁之神迷斯瑞恩·瑟勒特因帮助精灵创造和编织迷锁而衰落到半神力水平，为了恢复荣光，他创造了这件神器。\n在其创造过程的某一临界点，在马斯克和塔洛斯的协助下，犸拉袭击并封印了他的唯一化身，神器也因此失踪。"
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring_bonus_str"	"+$str"
+
+
+
+"DOTA_Tooltip_ability_item_hd_font_of_time"	"时光圣洗池<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_font_of_time_Description"	"<h1>主动：圣洗</h1>使用后将失去你一半的生命值，但在接下来的20秒你将获得40%%概率的完全规避伤害能力。（与被动效果不叠加）\n<h1>被动：圣洗入体</h1>被动获得15%%的完全规避效果。"
+"DOTA_Tooltip_ability_item_hd_font_of_time_Lore"	"在古人创造的所有神器中，这座伟大的圣洗池是其中最非凡而可怕的。水池中的水太过苦涩无法饮用。但如果你在满月的光线下观察圣洗池，将能看见穆尔霍兰德古代的场景，逼真到让你愿意发誓这一切都是真的。而它们确实如此。因为如果你专注于这个景象...抱歉，我不能说更多，因为我希望不要有人步我的后尘。"
+"DOTA_Tooltip_ability_item_hd_font_of_time_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_font_of_time_bonus_str"	"+$str"
+"DOTA_Tooltip_ability_item_hd_font_of_time_bonus_health"	"+$health"
+
+"DOTA_Tooltip_modifier_item_hd_font_of_time_active"                   "圣洗"
+"DOTA_Tooltip_modifier_item_hd_font_of_time_active_Description"       "提升完全规避伤害效果" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1"	"隐匿之主盾牌<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_Description"	"<h1>被动：高等反击</h1>每经过一段时间，你将获得15次反击伤害的机会，当你受到伤害时，对攻击来源施加防御力*25的物理伤害。<br>\n<h1>被动：高等物理防护</h1>你受到物理伤害后有10%%几率获得4点防御提升，持续7秒，最多获得40点加成。<br>\n<h1>被动：隐匿之主的支配</h1>携带这件物品每经过1分钟，你必须进行一次意志鉴定，有10%%几率受到支配，在接下来的1分钟你的魔法抗性将下降200%%。"
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_Lore"	"这盾是善良战胜邪恶的象征。凝视着这样的美丽，很容易忽略其中蕴含的可怕力量。"
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_red_spell_resist"	"%-$red_spell_resist"
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1_buff"                   "高等物理防护"
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1_buff_Description"       "护甲提高%dMODIFIER_PROPERTY_TOOLTIP%" 
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1_debuff"                   "隐匿之主的支配"
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1_debuff_Description"       "魔法抗性降低%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%" 
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1"                   "高等反击"
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_chrono_casket"	"时棺<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_chrono_casket_Description"	"\n<h1>主动：时间逆转</h1>可以瞬间移动至5秒前的位置。\n<h1>被动：生命逆转</h1>携带这件物品复活队友时，可以消耗1点充能使目标的复活时间减少至3秒，同时免除目标的虚弱惩罚。<br><br>初始拥有3点充能点数，每经过1回合可以恢复1点，最多保留6点。"
+"DOTA_Tooltip_ability_item_hd_chrono_casket_Lore"	"精美的宝石制成的首饰，其表面刻着一个时钟，象征着其与时间能力的关联。"
+"DOTA_Tooltip_ability_item_hd_chrono_casket_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_chrono_casket_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_chrono_casket_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_chrono_casket_cooldown_reduction"	"%+$cooldown_reduction"
+
+
+
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch"	"森林魔女的闪变胸针<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_Description"	"<h1>被动：闪变</h1>当有敌人欲对你施加普通攻击时，将其推远600距离。同一目标在20秒内只会受到一次作用（即使来源不同）。<br>\n<h1>被动：闪回</h1>触发'闪变'后你的'急行'的冷却时间将减少3秒。"
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_Lore"	"密林深处那最为神秘的魔女所制作出的胸针，拥有着变化莫测的能力，保护着魔女不受恶意侵袭。"
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_bonus_mana"	"+$mana"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer"	"占星千里<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_Description"	"<h1>主动：千里占星术</h1>在接下来的10秒，你的概率事件加成提升60%%，暴击伤害提高30%%，同时闪避加成提升至70%%。"
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_Lore"	"这件神器目前下落不明，而且自从第二次混沌分裂以来，也没有迹象表明神明选择了新的冠军。尽管如此，黑夜女神的追随者相信，在遥远的某个地方，占星千里正在引导一位新的恒星守望者穿越漆黑的星空之夜。"
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_bonus_evasion"	"%+$evasion"
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_bonus_all_attribute"	"+$all"
+"DOTA_Tooltip_modifier_item_hd_thousand_leagues_astrologer_active"                   "千里占星术"
+"DOTA_Tooltip_modifier_item_hd_thousand_leagues_astrologer_active_Description"       "获得概率事件加成，暴击伤害加成与闪避加成" 
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome"	"星空穹顶<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome_Description"	"<h1>主动：冥色穹顶</h1>制造一个黑色的穹顶覆盖住一个区域，区域内的友军将不会被敌人所感知，持续6秒。每个回合至多使用这个效果2次，但在无尽回合每经过120秒可以恢复一次使用机会。<br><br>如果回合开始时没有携带此装备，则无法恢复使用次数。\n<h1>技能命石：黑洞</h1>黑洞现在会同化施法者，使其在引导期间内无敌且魔法免疫。同时黑洞的范围扩大%radius_up%% ，内侧具有无限大的拉扯强度，外侧则具有轻微的推离效果。在黑洞中死亡的敌人将返还黑洞%cd_reduce%秒冷却时间。"
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome_Lore"	"一枚奇特的指环，其中心寄宿着一个小型黑洞，当你的手指穿过戒身时，黑洞将会悬浮在指尖之上。"
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome_bonus_int"	"+$int"
+
+
+"DOTA_Tooltip_ability_item_hd_argo_paw"	"阿尔戈之爪<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_argo_paw_Description"	"<h1>主动：奥术放逐</h1>放逐一个目标并禁止其造成伤害，持续%no_duration%秒。\n<h1>被动：奥术武器</h1>获得%attack_mp%% 最大魔法值的攻击附加伤害。<br><br>攻击后，对目标施加[星流]：每层使来自奥术武器的伤害翻倍，至多达到%attack_mp_max%% 最大魔法值。\n<h1>技能命石：奥术光环</h1>奥术光环不会再提供魔法恢复，而是在攻击时以%arcane_mp_index%% 效率恢复魔法值。"
+"DOTA_Tooltip_ability_item_hd_argo_paw_Lore"	"星流之拳是在第一次奥术复苏之后开发的，当时以奥术为中心的文明迅速崛起，开始将神圣和天体实体视为无关紧要和不必要的知识。由于对天界生物的怨恨，在凡人看来，天界生物与多年来一直在物质位面争斗的的恶魔并无二致，导致人们逐渐反对宗教团体，包括 Lirianyx 的追随者。"
+"DOTA_Tooltip_ability_item_hd_argo_paw_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_argo_paw_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_argo_paw_bonus_mana"	"+$mana"
+"DOTA_Tooltip_ability_item_hd_argo_paw_bonus_attack_speed"	"+$attack"
+"DOTA_Tooltip_modifier_item_hd_argo_paw_aura_attack_debuff"                   "星流"
+"DOTA_Tooltip_modifier_item_hd_argo_paw_aura_attack_debuff_Description"       "受到持有者的额外附加伤害" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_defiant_shell"	"不羁甲壳<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_defiant_shell_Description"	"<h1>被动：互换</h1>被攻击后会对伤害来源作出反击。"
+"DOTA_Tooltip_ability_item_hd_defiant_shell_Lore"	"等待添加。"
+"DOTA_Tooltip_ability_item_hd_defiant_shell_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_defiant_shell_bonusa_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_defiant_shell_bonus_all_attribute"	"+$all"
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_broken_promise"	"未现之诺<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_broken_promise_Description"	"<h1>主动：灵魂拘束</h1>将附着在剑上的灵体插入一名指定的友方英雄上，每当其造成伤害后可以转变20%%的能量到灵体上，当其到达你最大生命值的100%%+1000时会释放一次能量，以目标英雄为中心600范围内的敌人造成你当前魔法值50%%的伤害，每次触发将使能量需求提高30%%，独立叠加持续10秒。<br>\n<h1>被动：灵魂外衣</h1>被选择的友方英雄获得15点全属性加成。"
+"DOTA_Tooltip_ability_item_hd_broken_promise_Lore"	"为一个要求完美的贵族制作一把剑，一年的艰苦劳动是必需的。然而，由于对最终结果不满意，贵族一气之下将剑对准了工匠，剑中的魔法对这种背叛做出了激烈的反应。当尘埃落定时，这座被夷为平地的铁匠铺所剩下的一切都被打破了，永远被困在自己的毁灭之中。"
+"DOTA_Tooltip_ability_item_hd_broken_promise_bonus_str"	"-$red_str"
+"DOTA_Tooltip_ability_item_hd_broken_promise_bonus_mana"	"+$mana"
+"DOTA_Tooltip_ability_item_hd_broken_promise_Note0"	"额外的说明：<br>选择一名目标后无法再选择新的目标，一个目标只能被选择一次。"
+
+"DOTA_Tooltip_modifier_item_hd_broken_promise_target"                   "灵魂拘束"
+"DOTA_Tooltip_modifier_item_hd_broken_promise_target_Description"       "被附身" 
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_modular_armor"	"模块化装甲<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_modular_armor_Description"	"<h1>被动：自适应</h1>穿戴这件装甲不会给你带来任何的不便，你可以自由的搭配其他的任意装备。你每装备一件来自宝箱的防御类别的装备，这件装甲提供的属性加成就提高25%%。<br>当你携带3件防御类别的装备后，将解锁'自适应·二阶'<br>\n<h1>被动：自适应·二阶</h1>激发装甲上的电荷，被攻击时有20%%概率对其造成你最大生命值10%%的魔法伤害。<br>"
+"DOTA_Tooltip_ability_item_hd_modular_armor_Lore"	"模块化装甲是埃巴纳吉安·高尔夫修复项目的另一个副产品。盔甲由模块化的小块组成，可以将自己重新配置为几种配置，使其具有难以置信的多功能性，并使佩戴者能够适应各种情况。"
+"DOTA_Tooltip_ability_item_hd_modular_armor_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_modular_armor_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_modular_armor_bonus_health"	"+$health"
+// Modular armor is anotber byproduct of the Cabanagian Golem restoration project aside from the gauntlet. The armor consists of dozens of tiny parts tat can reconfigure themselves into several configurations, giving it incredible versatility and allowing the wearer to adapt to various situations . 
+
+"DOTA_Tooltip_modifier_item_hd_modular_armor"                   "自适应"
+"DOTA_Tooltip_modifier_item_hd_modular_armor_Description"       "揭露自适应的层数" 
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_modular_boots"	"模块化之靴<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_modular_boots_Description"	"<h1>被动：标准化抵抗</h1>不会被移速减缓效果影响。"
+"DOTA_Tooltip_ability_item_hd_modular_boots_Lore"	"模块化装甲是埃巴纳吉安·高尔夫修复项目的另一个副产品，除了挑战。盔甲由模块化的小块组成，可以将自己重新配置为几种配置，使其具有难以置信的多功能性，并使佩戴者能够适应各种情况。"
+"DOTA_Tooltip_ability_item_hd_modular_boots_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_modular_boots_bonus_move_speed"	"+$move_speed"
+
+
+
+
+// The Blood-Bug Barrier is an artificial symbiont created from the core of a Demogoblin . As a result of a complex process of arcane enchantment and bioengineering, the Biology Department of the Grand Archive managed to create a symbiont version of the ooze's core that allows a creature to bond with it and gain tbe ability to produce endoplasm and exoskeleton layer to protect the bost and the core from barm. 
+
+
+
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier"	"血咬屏障<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_Description"	"<h1>被动：血液屏障</h1>当你生命值大于80%%时，你可以将血液转化为护甲的屏障。当你生命值低于40%%时将自动从吸收的血液中恢复生命值。你可以储存最多你最大生命值*20的生命值，每储存你最大生命值100%%的生命值将获得3点护甲加成。"
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_Lore"	"血咬屏障是一种由恶魔核心产生的人造共生体。由于神秘魔法和生物工程的复杂过程，大档案馆的生物部成功地创造了一种共生体版本的软泥核心，使生物能够与之结合，并获得产生内质和外骨骼层的能力，以保护软泥和核心免受巴姆的伤害。"
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_Note0"	"额外的说明：<br>储存的血液绑定装备。"
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_bonus_health_regeneration_amplification"	"%+$health_regeneration_amplification"
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_bonus_lifesteal_gain"	"%+$lifesteal_gain"
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_bonus_health"	"+$health"
+
+"DOTA_Tooltip_modifier_item_hd_blood_bug_barrier"                   "血液屏障"
+"DOTA_Tooltip_modifier_item_hd_blood_bug_barrier_Description"       "储存了%dMODIFIER_PROPERTY_TOOLTIP%生命值，护甲增加%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude"	"灵魂灯笼<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude_Description"	"<h1>被动：灵魂收藏者</h1>击杀一名单位时可以将其灵魂收集到灯笼中，每个灵魂将提高2点基础攻击力加成，最多提供150点。<br>\n<h1>被动：灵魂置藏</h1>当你学习了高阶支配死灵后，灯笼里的灵魂将失效，但支配死灵的最大灵魂提升40，且死亡不再丢失灵魂。"
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude_Lore"	"灵魂之神打造的失落神器，万千灵魂被困在其中，当凡人接近时便会被无数幽灵之手拉向仇恨中。"
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude_bonus_damage"	"+$damage"
+"DOTA_Tooltip_modifier_item_hd_cantern_of_servitude"                   "灵魂收藏者"
+"DOTA_Tooltip_modifier_item_hd_cantern_of_servitude_Description"       "提供攻击力加成" 
+
+
+// 指向性技能可以突破敌人的法术抵抗效果
+
+//蝴蝶
+"DOTA_Tooltip_ability_item_hd_butterfly"	"蝴蝶<font color=\"#777777\">-第五梯队</font>"
+// "DOTA_Tooltip_ability_item_hd_butterfly_Description"	"<h1>被动：振翅</h1>每隔一段时间将获得双倍敏捷加成，持续3秒"
+"DOTA_Tooltip_ability_item_hd_butterfly_Lore"	"只有最强大最老练的战士才能携带蝴蝶，但它也提供无可比拟的战斗灵活力作为回报。"
+"DOTA_Tooltip_ability_item_hd_butterfly_Note0"	"额外的说明："
+"DOTA_Tooltip_ability_item_hd_butterfly_bonus_damage"	"+攻击力"
+"DOTA_Tooltip_ability_item_hd_butterfly_bonus_attack_speed"	"+攻击速度"
+"DOTA_Tooltip_ability_item_hd_butterfly_bonus_agi"	"+$agi"
+"DOTA_Tooltip_ability_item_hd_butterfly_bonus_evasion"	"+%闪避"
+"DOTA_Tooltip_ability_item_hd_butterfly_Description"	"<h1>被动：振翅</h1>每隔一段时间将获得一次全额敏捷加成，持续1秒"
+"DOTA_Tooltip_modifier_item_hd_butterfly_active"                   "振翅"
+"DOTA_Tooltip_modifier_item_hd_butterfly_active_Description"                   "赋予敏捷加成" 
+
+
+"DOTA_Tooltip_ability_item_hd_mjollnir"	"雷神之锤<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_mjollnir_Description"	"<h1>被动：能量充盈</h1>攻击时，获得%energy_get%点能量，能量到达%energy_max%时下次攻击获得%active_damage%% 全额攻击力加成。\n<h1>被动：挥指闪电</h1>触发能量充盈时，对敌人释放闪电造成全额攻击力*%damage_index%的魔法伤害，至多弹跳%limit%次，每次增加5%%伤害。"
+"DOTA_Tooltip_ability_item_hd_mjollnir_Lore"	"索尔的魔法之锤，由矮人名匠布鲁克和艾崔打造。"
+"DOTA_Tooltip_ability_item_hd_mjollnir_bonus_damage"	"+攻击力"
+"DOTA_Tooltip_ability_item_hd_mjollnir_bonus_attack_speed"	"+攻击速度"
+"DOTA_Tooltip_modifier_item_hd_mjollnir"	"能量充盈"
+
+
+
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player"	"幽魂胸针<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player_Description"	"<h1>切换：灵界子弹</h1>半步冥府，攻击时消耗%mana_cost%点魔法值，将攻击伤害转化为纯粹伤害，并获得攻击虚无单位的能力。\n<font color=\"#606060\"><i>这件装备的转化效果在开启越界时失效；<br>这件装备的转化后伤害对魔法免疫单位只有半额。</i></font>"
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player_Lore"	"天有绝海，地有冥府。"
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player_bonus_damage"	"+攻击力"
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player_bonus_projectile_speed"	"+弹道速度"
+"DOTA_Tooltip_modifier_item_hd_revenants_brooch_player"	"灵界子弹"
+
+
+"DOTA_Tooltip_ability_item_hd_rule_breaker"	"禁术卷轴·封印术<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_rule_breaker_Description"	"<h1>被动：对魔力封印</h1>对敌人造成技能伤害时，对其施加[封印预兆]。<br><br>[封印预兆]：进入狂暴时，消耗此状态造成%active_duration%秒眩晕并强制退出狂暴，随后的%duration%秒内无法被施加[封印预兆]。"
+"DOTA_Tooltip_ability_item_hd_rule_breaker_Lore"	"古老的八大禁术卷轴之一，使用的语言破译起来极为困难。"
+"DOTA_Tooltip_ability_item_hd_rule_breaker_bonus_spell_amp"	"%+技能增强"
+"DOTA_Tooltip_ability_item_hd_rule_breaker_bonus_cooldown"	"%+冷却缩减"
+"DOTA_Tooltip_modifier_item_hd_rule_breaker_active"	"封印预兆"
+"DOTA_Tooltip_modifier_item_hd_rule_breaker_cd"	"封印免疫"
+
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire"	"冰与火之歌<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire_Description"	"<h1>主动：直至死亡将二人分离</h1>不再进行二刀流攻击并同时触发强化双刀效果，二刀范围提高至%radius_active%，收刀间隔降低至%disarm_duration_active%秒，收刀伤害减免提高至%incoming_active%% ，持续%duration%秒。\n<h1>被动：冰火缠绵</h1>近战攻击方式转换为二刀流，适用%disarm_duration%秒收刀攻击间隔，并在收刀期间获得%incoming_down%% 伤害减免。<br><br>首刀攻击造成全额攻击力*%ice_damage%点伤害，并使敌人受伤增加%ice_bonus_incoming%% 。<br><br>二刀攻击将消耗首刀易伤，对目标及周围%radius%范围内敌人造成全额攻击力*%fire_damage%点伤害。\n<font color=\"#606060\">二刀流的强制攻击间隔受到%cd_index%% 冷却缩减影响；<br>无敌斩或集中火力无法使用二刀流。</font>"
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire_Lore"	"“你一直握着那两把刀做什么？”\n“一个让人悲伤的特别故事。”"
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire_bonus_damage"	"+攻击力"
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire_bonus_cooldown"	"%+冷却缩减"
+"DOTA_Tooltip_modifier_item_hd_song_of_ice_and_fire_active"	"直至死亡将二人分离"
+"DOTA_Tooltip_modifier_item_hd_song_of_ice_and_fire_active_Description"	"双刀合一，获得强化效果"
+
+"DOTA_Tooltip_ability_item_hd_poison_lokustra"	"洛库斯塔之匣<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_poison_lokustra_Description"	"<h1>主动：毒使防护</h1>将自身的中毒状态转为毒回复状态，不再受到伤害而是治疗自身，持续%duration%秒。\n<h1>光环：深邃恒久之毒</h1>周围%radius%范围内的敌人减少%poison_res_down%% 中毒伤害抗性，但其中毒伤害间隔增加%poison_interval_up%% 。"
+"DOTA_Tooltip_ability_item_hd_poison_lokustra_Lore"	"似乎传来不祥的光芒..."
+"DOTA_Tooltip_ability_item_hd_poison_lokustra_bonus_damage_topoison"	"%+对中毒敌人伤害增加"
+"DOTA_Tooltip_ability_item_hd_poison_lokustra_lifesteal_topoison"      "%+对中毒单位吸血"
+"DOTA_Tooltip_modifier_item_hd_poison_lokustra_spell"                   "毒使防护"
+"DOTA_Tooltip_modifier_item_hd_poison_lokustra_spell_Description"                   "中毒会治疗自身"
+"DOTA_Tooltip_modifier_item_hd_poison_lokustra_active"                   "深邃恒久之毒"
+"DOTA_Tooltip_modifier_item_hd_poison_lokustra_active_Description"                   "受到的中毒伤害巨幅增加，间隔巨幅增加"
+
+"DOTA_Tooltip_ability_item_hd_iron_part"	"铁树熔炉匠石<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_iron_part_Description"	"<h1>消耗：至高熔炼，铁树之心</h1>背包内前三格装备按照特定内容和序列排序时，使用铁树熔炉匠石将把他们熔炼为一件全新的至高装备。\n<font color=\"#606060\">一场游戏中仅能熔炼一次至高装备；<br>熔炼内容和顺序可以通过装备图鉴推断得出。</font>"
+"DOTA_Tooltip_ability_item_hd_iron_part_Lore"	"铁树枝干，一切的开始。"
+"DOTA_Tooltip_ability_item_hd_iron_part_bonus_atb"	"+全属性"
+
+
+"DOTA_Tooltip_ability_item_hd_bfury_plus"	"钢铁开辟之斧<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_bfury_plus_Description"	"<h1>被动：钢铁洪流</h1>普通攻击会对目标周围%cleave_radius%范围内的敌人造成%cleave_damage%% 溅射伤害。"
+"DOTA_Tooltip_ability_item_hd_bfury_plus_Lore"	"用真钢实铁打造出的战斧，具有强大的砍倒能力"
+"DOTA_Tooltip_ability_item_hd_bfury_plus_bonus_damage"	"+攻击力"
+"DOTA_Tooltip_ability_item_hd_bfury_plus_no_armor"	"+攻击护甲穿透"
+
+
+"DOTA_Tooltip_ability_item_hd_third_eye"	"墨菲之眼<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_third_eye_Description"	"<h1>被动：混沌浪潮</h1>每过%interval%秒，一条随机基础属性会双倍生效，另一条随机属性半额生效。"
+"DOTA_Tooltip_ability_item_hd_third_eye_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_third_eye_full_damage"	"%+$full_damage"
+"DOTA_Tooltip_ability_item_hd_third_eye_spell_amp"	"%+$spell_amp"
+"DOTA_Tooltip_ability_item_hd_third_eye_summon_intensity"	"%+$summon_intensity"
+"DOTA_Tooltip_ability_item_hd_third_eye_Lore"	"你相信我们的世界是始于混沌，终于混沌的吗？"
+"DOTA_Tooltip_modifier_item_hd_third_eye"	"混沌浪潮"
+"DOTA_Tooltip_modifier_item_hd_third_eye_Description" "获得%dMODIFIER_PROPERTY_TOOLTIP%%%精通<br>获得%dMODIFIER_PROPERTY_TOOLTIP%%%全额攻击力<br>获得%dMODIFIER_PROPERTY_TOOLTIP%%%技能增强<br>获得%dMODIFIER_PROPERTY_TOOLTIP%%%召唤增强"
+
+
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker"	"奇迹之鞋<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker_Description"	"<h1>被动：奇迹漫步</h1>获得相位移动状态。处于移动状态时，有%chance%%%几率使造成的伤害总增%outgoing%%% [×]。"
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker_move_speed"	"+$move_speed"
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker_evasion"	"%+$evasion"
+
+
+"DOTA_Tooltip_ability_item_hd_dandelion_amulet"	"纯净护符<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_dandelion_amulet_Description"	"<h1>被动：净化</h1>每隔一段时间对自身施加一次弱驱散，并清除自身<font color='#6481d9'>感电</font>、<font color='#CD5C5C'>灼伤</font>、<font color='#87CEEB'>冻伤</font>和<font color='#90EE90'>中毒</font>的%remove%%%。"
+"DOTA_Tooltip_ability_item_hd_dandelion_amulet_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_dandelion_amulet_positive_amp"	"%+$positive_amp"
+
+"DOTA_Tooltip_ability_item_hd_refresher"	"刷新球<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_refresher_Description"	"<h1>主动：刷新</h1>立刻刷新所有物品和技能的冷却时间。对于不可刷新的技能则减少其%cd%%%剩余冷却时间。"
+"DOTA_Tooltip_ability_item_hd_refresher_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_refresher_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_refresher_mana"	"+$mana"
+
+"DOTA_Tooltip_ability_item_hd_outworld_staff"	"殁世之杖<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_outworld_staff_Description"	"<h1>被动：禁忌精通</h1>魔法值高于%line%%%时，每秒损失%mana_cost%%%当前魔法值并额外获得%bonus_profic%%%精通和%bonus_spell_amp%%%技能增强。"
+"DOTA_Tooltip_ability_item_hd_outworld_staff_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_outworld_staff_spell_amp"	"%+$spell_amp"
+"DOTA_Tooltip_ability_item_hd_outworld_staff_mana"	"+$mana"
+
+"DOTA_Tooltip_ability_item_hd_disperser"	"净除之刃<font color=\"#777777\">-第五梯队</font>"
+"DOTA_Tooltip_ability_item_hd_disperser_Description"	"<h1>被动：净除</h1>每第%count%次普通攻击会对敌人施加<font color='#9370db'>驱散</font>。\n<h1>被动：自我洗涤</h1>生命值不低于%line%%%时，攻击命中会消耗自身%hp_cost%%%最大生命值并增加自身%bonus_profic%%%精通和%bonus_damage%%%攻击力，独立叠加持续%duration%秒。"
+"DOTA_Tooltip_ability_item_hd_disperser_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_disperser_lifesteal_gain"	"%-<font color='#f28b93'>吸血增强</font>"
+"DOTA_Tooltip_ability_item_hd_disperser_attack"	"%+$attack"
+"DOTA_Tooltip_modifier_item_hd_disperser"	"自我洗涤"
+"DOTA_Tooltip_modifier_item_hd_disperser_Description"	"总计获得%fMODIFIER_PROPERTY_TOOLTIP%%%精通<br>总计获得%fMODIFIER_PROPERTY_TOOLTIP%%%攻击力"

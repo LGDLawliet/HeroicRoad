@@ -1,0 +1,36 @@
+<!-- xml reconstructed by ValveResourceFormat: https://vrf.steamdb.info/ -->
+<root>
+
+	<scripts>
+
+	</scripts>
+	<styles>
+		<include src="s2r://panorama/styles/dotastyles.vcss_c" />
+
+		<include src="s2r://panorama/layout/custom_game/ability_note/ability_note.css" />
+	</styles>
+	<snippets>
+
+	</snippets>
+	<Panel class="Additional_note_root buffCheck hide">
+		<Label id="header" class = "additional_note_header" text="{s:header1}{s:header2}" html = "true"/>
+		<Panel id="buffCheckPanel">
+			<Panel  id="state_resitance" class="single_note_block">
+				<Label id="state_resitance_header" class = "left_note" text="#HUD_NOTE_DEBUFF_StateResistance" html = "true"/>
+				<Label id="state_resitance_info" class = "right_note" text="{s:value1}%" html = "true"/>
+			</Panel>
+			<Panel  id="NegativeGain" class="single_note_block">
+				<Label id="state_resitance_header" class = "left_note" text="#HUD_NOTE_DEBUFF_NegativeGain" html = "true"/>
+				<Label id="state_resitance_info" class = "right_note" text="{s:value2}%" html = "true"/>
+			</Panel>
+
+			<Label id="buff_max_duration" class = "duration_info" text="#HUD_NOTE_max_duration" html = "true"/>
+			<Label id="buff_min_duration" class = "duration_info" text="#HUD_NOTE_min_duration" html = "true"/>
+			
+			
+			<!-- <DOTASettingsCheckbox id="check_cdk_have_particle" class="buffCheckBox" text="#HUD_NOTE_DEBUFF_StateResistance"/>
+			<DOTASettingsCheckbox id="check_cdk_have_particle" class="buffCheckBox" text="#HUD_NOTE_DEBUFF_NegativeGain "/> -->
+		</Panel>
+		
+	</Panel>
+</root>

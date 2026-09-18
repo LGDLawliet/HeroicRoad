@@ -1,0 +1,169 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_flConstantRadius = 1.0
+	m_nConstantSequenceNumber1 = 10
+	m_ConstantColor = [ 237, 171, 227, 255 ]
+	m_nBehaviorVersion = 4
+	m_nFirstMultipleOverride_BackwardCompat = 5
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 45.0
+			}
+			m_nOutputField = 4
+		},
+		{
+			_class = "C_INIT_CreateWithinSphereTransform"
+			m_LocalCoordinateSystemSpeedMin = [ 0.0, 0.0, 50.0 ]
+			m_LocalCoordinateSystemSpeedMax = [ 0.0, 0.0, 50.0 ]
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.85
+			}
+			m_nOutputField = 1
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 7.0
+			}
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 180.0
+			}
+			m_nOutputField = 12
+		},
+		{
+			_class = "C_INIT_InitialVelocityNoise"
+			m_vecOutputMax = [ 64.0, 64.0, 64.0 ]
+			m_vecOutputMin = [ -64.0, -64.0, 16.0 ]
+			m_flNoiseScale = 3.0
+			m_bDisableOperator = true
+			m_TransformInput = 
+			{
+				m_nType = "PT_TYPE_INVALID"
+			}
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_flInput0 = 250.0
+				m_flInput1 = 350.0
+				m_flOutput0 = 1.0
+				m_flOutput1 = 1.5
+				m_nMapType = "PF_MAP_TYPE_REMAP"
+				m_nType = "PF_TYPE_CONTROL_POINT_COMPONENT"
+				m_nControlPoint = 1
+				m_nVectorComponent = 0
+			}
+			m_nSetMethod = "PARTICLE_SET_SCALE_INITIAL_VALUE"
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+		},
+		{
+			_class = "C_OP_ColorInterpolate"
+			m_ColorFade = [ 21, 0, 18, 255 ]
+			m_flFadeEndTime = 0.95
+		},
+		{
+			_class = "C_OP_FadeOutSimple"
+		},
+		{
+			_class = "C_OP_BasicMovement"
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flStartScale = 0.5
+			m_flEndScale = 1.5
+			m_flBias = 0.7
+		},
+		{
+			_class = "C_OP_SetControlPointsToModelParticles"
+			m_AttachmentName = "attach_eye_l"
+			m_nFirstControlPoint = 2
+			m_bAttachment = true
+		},
+		{
+			_class = "C_OP_SetControlPointsToModelParticles"
+			m_AttachmentName = "attach_eye_r"
+			m_nFirstControlPoint = 3
+			m_bAttachment = true
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderModels"
+			m_ModelList = 
+			[
+				{
+					m_model = resource:"particles/models/items/skywrath_mage/skywrath_ti9_immortal_back/skywrath_ti9_immortal_shard_c.vmdl"
+				},
+			]
+			m_bAnimated = true
+			m_bIgnoreNormal = true
+			m_bForceDrawInterlevedWithSiblings = true
+			m_bDisableShadows = true
+			m_ActivityName = "ACT_DOTA_IDLE"
+			m_bForceLoopingAnimation = true
+			m_modelInput = 
+			{
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_heimdallr_aura/effect_cast/chaotic_heimdallr_aura_start_ambient.vpcf"
+		},
+	]
+}

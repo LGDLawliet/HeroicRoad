@@ -1,0 +1,61 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "crystal.vfx"
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Separate interior cube map ----
+	F_SEPARATE_INTERIOR_CUBE_MAP 1
+
+	//---- Specular cube map ----
+	F_SPECULAR_CUBE_MAP 1
+
+	//---- Color ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "[0.431373 0.274510 0.772549 1.000000]"
+
+	//---- Normal Map ----
+	g_flBumpStrength "1.000"
+	TextureNormal "models/monster/element/air/textures/t_airelemental_armor_normal.png"
+
+	//---- Specular ----
+	g_flBloom "0.000"
+	g_flCubeMapScalarExterior "12.881"
+	g_flCubeMapScalarInterior "11.525"
+	g_flFresnelExponent "0.5"
+	g_flFresnelReflectance "0.331"
+	g_flSpecularIntensity "4.983"
+	TextureExteriorCubeMap "materials/models/cubemaps/crimson_pique_glass_cube.psd"
+	TextureInteriorCubeMap "materials/models/cubemaps/crimson_pique_glass_cube.psd"
+
+	//---- Translucent ----
+	g_flOpacityScale "0.450"
+	TextureTranslucency "materials/default/default_trans.tga"
+
+	Attributes
+	{
+		PreviewModel "models/monster/element/air/air_emental.vmdl"
+	}
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Specular"
+		{
+		}
+		"Translucent"
+		{
+		}
+	}
+}

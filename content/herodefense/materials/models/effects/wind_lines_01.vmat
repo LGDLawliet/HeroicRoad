@@ -1,0 +1,22 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"F_ALLOW_LIGHTING_ON_TRANSLUCENT"	"1"
+	"F_SCROLL_UV"	"1"
+	"F_ADDITIVE_BLEND"	"1"
+	"F_TRANSLUCENT"	"1"
+	"g_flScrollUvSpeed"	"2"
+	"g_flOpacityScale"	"1"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"g_vScrollUvDirection"	"[-1.000000 0.000000 0.000000 0.000000]"
+	"TextureScrollSpeed"	"materials/models/effects/water_edges_01_scroll.png"
+	"TextureColor"	"materials/models/effects/wind_lines_01_color.png"
+	"TextureTranslucency"	"materials/models/effects/wind_lines_01_6da3643b_trans.png"
+	"VRF Original Textures"
+	{
+		"g_tScrollSpeed"	"materials/models/effects/water_edges_01_scroll_tga_4c9c4ab0.vtex"
+		"g_tColor"	"materials/models/effects/wind_lines_01_color_psd_6da3643b.vtex"
+	}
+}

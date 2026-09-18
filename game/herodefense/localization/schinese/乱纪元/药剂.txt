@@ -1,0 +1,162 @@
+
+
+"HUD_PotionBagTitle"   "药剂背包"
+
+"HUD_Potion_count"  "剩余数：{s:count}"
+
+"HUD_Potion_Info_1"  "药剂不占用物品栏，会存放于药剂背包，可随时使用。"
+
+"HUD_Potion_Error_1"  "已无库存"
+"HUD_Potion_Error_2"  "死亡状态下无法使用"
+
+
+// 初级、中级、上级、圣级、王级、帝级、神级
+
+
+"hd_potion_healing_1"   "初级生命药剂"
+"hd_potion_healing_1_info"   "使用后将立即恢复你<value1>生命值，视为治疗。"
+"hd_potion_healing_2"   "中级生命药剂"
+"hd_potion_healing_2_info"   "使用后将立即恢复你<value1>生命值，视为治疗。"
+"hd_potion_healing_3"   "上级生命药剂"
+"hd_potion_healing_3_info"   "使用后将立即恢复你<value1>生命值，视为治疗。"
+"hd_potion_healing_4"   "圣级生命药剂"
+"hd_potion_healing_4_info"   "使用后将立即恢复你<value1>生命值，视为治疗，同时获得<duration>秒恢复强效状态，在恢复强效状态下你的生命恢复增强提升<value2>%。"
+"hd_potion_healing_5"   "王级生命药剂"
+"hd_potion_healing_5_info"   "使用后将立即恢复你<value1>生命值，视为治疗，同时获得<duration>秒恢复强效状态，在恢复强效状态下你的生命恢复增强提升<value2>%。"
+
+
+
+"DOTA_Tooltip_modifier_hd_potion_healing_4_bonus"                   "生命恢复强效"
+"DOTA_Tooltip_modifier_hd_potion_healing_4_bonus_Description"       "生命恢复增强提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+"DOTA_Tooltip_modifier_hd_potion_healing_5_bonus"                   "生命恢复强效"
+"DOTA_Tooltip_modifier_hd_potion_healing_5_bonus_Description"       "生命恢复增强提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+"hd_potion_regen_mana_1"   "初级魔力药剂"
+"hd_potion_regen_mana_1_info"   "使用后将立即恢复你<value1>魔法。"
+"hd_potion_regen_mana_2"   "中级魔力药剂"
+"hd_potion_regen_mana_2_info"   "使用后将立即恢复你<value1>魔法。"
+"hd_potion_regen_mana_3"   "上级魔力药剂"
+"hd_potion_regen_mana_3_info"   "使用后将立即恢复你<value1>魔法。"
+"hd_potion_regen_mana_4"   "圣级魔力药剂"
+"hd_potion_regen_mana_4_info"   "使用后将立即恢复你<value1>魔法，同时获得<duration>秒恢复强效状态，在恢复强效状态下你的魔法恢复增强提升<value2>%。"
+"hd_potion_regen_mana_5"   "王级魔力药剂"
+"hd_potion_regen_mana_5_info"   "使用后将立即恢复你<value1>魔法，同时获得<duration>秒恢复强效状态，在恢复强效状态下你的魔法恢复增强提升<value2>%。"
+
+
+"DOTA_Tooltip_modifier_hd_potion_regen_mana_4_bonus"                   "魔法恢复强效"
+"DOTA_Tooltip_modifier_hd_potion_regen_mana_4_bonus_Description"       "魔法恢复增强提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+"DOTA_Tooltip_modifier_hd_potion_regen_mana_5_bonus"                   "魔法恢复强效"
+"DOTA_Tooltip_modifier_hd_potion_regen_mana_5_bonus_Description"       "魔法恢复增强提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+
+"hd_potion_arcane_boost_1"  "初级奥术滋养灵药"
+"hd_potion_arcane_boost_1_info"  "使用后在接下来的<duration>秒内获得<value1>%魔法伤害增强"
+
+"DOTA_Tooltip_modifier_hd_potion_arcane_boost_1"                   "初级奥术滋养灵药"
+"DOTA_Tooltip_modifier_hd_potion_arcane_boost_1_Description"       "魔法伤害增加%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+// "hd_potion_arcane_boost_3"  "上级奥术滋养灵药"
+// "hd_potion_arcane_boost_3_info"  "使用后在接下来的<duration>秒内获得<value1>%魔法伤害增强"
+
+
+"hd_potion_lightning_speed_1"  "初级闪速灵药"
+"hd_potion_lightning_speed_1_info"  "使用后在接下来的<duration>秒内获得<value1>移速加成"
+
+
+"DOTA_Tooltip_modifier_hd_potion_lightning_speed_1"                   "初级闪速灵药"
+"DOTA_Tooltip_modifier_hd_potion_lightning_speed_1_Description"       "移动速度提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"hd_potion_colossus_1"  "巨像灵药"
+"hd_potion_colossus_1_info"  "使用后在接下来的<duration>秒内增大你的体型，你的攻击力获得<value1>常数提升与<value2>%百分比提升。"
+
+"DOTA_Tooltip_modifier_hd_potion_colossus_1"                   "巨像灵药"
+"DOTA_Tooltip_modifier_hd_potion_colossus_1_Description"       "攻击力提升%dMODIFIER_PROPERTY_TOOLTIP%，攻击力提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+"hd_potion_hill_giant_strength_1"  "山丘巨人灵药"
+"hd_potion_hill_giant_strength_1_info"  "使用后在接下来的<duration>秒获得<value1>力量提升。"
+
+"DOTA_Tooltip_modifier_hd_potion_hill_giant_strength_1"                   "山丘巨人灵药"
+"DOTA_Tooltip_modifier_hd_potion_hill_giant_strength_1_Description"       "力量提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"hd_potion_bloodlust_1"  "嗜血灵药"
+"hd_potion_bloodlust_1_info"  "使用后获得等同于最大生命值<value1>%的临时生命值(最大<value3>)，在临时生命值完全消耗前药剂都将生效并提供<value2>%攻击力加成。"
+"DOTA_Tooltip_modifier_hd_potion_bloodlust_1"                   "嗜血灵药"
+"DOTA_Tooltip_modifier_hd_potion_bloodlust_1_Description"       "获得临时生命值，攻击力提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+"hd_potion_speed_1"  "速度灵药"
+"hd_potion_speed_1_info"  "获得加速，目标的移动速度增加<bonus_move_speed>%，攻击速度增加<bonus_attack_speed>%，在进行短距离移动（距离为<distance>）时，将转变为瞬间移动(有<cooldown>冷却时间)，持续<duration>秒。<br><br>当加成结束后，目标将进入<debuff_duration>秒乏力状态，期间移动速度将被减少至最低。<br><br>如果你被以技能的方式施加了加速，那么灵药将刷新你的加速状态持续时间，并沿用技能状态的加成值，反之，技能将移除灵药的加成后添加技能的加成。"
+
+
+
+
+
+
+
+"hd_potion_permanent_vitality_1"  "永久活力药水"
+"hd_potion_permanent_vitality_1_info"  "使用后在接下来的<duration>秒获得等同于力量<value1>%的力量加成(不超过150)，并永久提升力量<value3>。"
+
+"DOTA_Tooltip_modifier_hd_potion_permanent_vitality_1"                   "活力激活"
+"DOTA_Tooltip_modifier_hd_potion_permanent_vitality_1_Description"       "力量提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+"DOTA_Tooltip_modifier_hd_potion_permanent_vitality_1_buff"                   "永久活力药水"
+"DOTA_Tooltip_modifier_hd_potion_permanent_vitality_1_buff_Description"       "力量提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+
+"hd_potion_permanent_agility_1"  "永久迅捷药水"
+"hd_potion_permanent_agility_1_info"  "使用后在接下来的<duration>秒获得等同于敏捷<value1>%的敏捷加成(不超过150)，并永久提升敏捷<value3>。"
+"DOTA_Tooltip_modifier_hd_potion_permanent_agility_1"                   "迅捷激活"
+"DOTA_Tooltip_modifier_hd_potion_permanent_agility_1_Description"       "敏捷提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+"DOTA_Tooltip_modifier_hd_potion_permanent_agility_1_buff"                   "永久迅捷药水"
+"DOTA_Tooltip_modifier_hd_potion_permanent_agility_1_buff_Description"       "敏捷提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+"hd_potion_permanent_wisdom_1"  "永久智慧药水"
+"hd_potion_permanent_wisdom_1_info"  "使用后在接下来的<duration>秒获得等同于智力<value1>%的智力加成(不超过150)，并永久提升智力<value3>。"
+
+"DOTA_Tooltip_modifier_hd_potion_permanent_wisdom_1"                   "智慧激活"
+"DOTA_Tooltip_modifier_hd_potion_permanent_wisdom_1_Description"       "智力提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+"DOTA_Tooltip_modifier_hd_potion_permanent_wisdom_1_buff"                   "永久智慧药水"
+"DOTA_Tooltip_modifier_hd_potion_permanent_wisdom_1_buff_Description"       "智力提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+
+"hd_potion_fly_1"  "飞行药剂"
+"hd_potion_fly_1_info"  "使用后在接下来的<duration>秒获得飞行能力，在飞行能力下你不受劣势地形影响。"
+
+
+
+"DOTA_Tooltip_modifier_hd_potion_fly_1"                   "飞行药剂"
+"DOTA_Tooltip_modifier_hd_potion_fly_1_Description"       "可以飞行" 
+
+
+
+
+
+
+
+"hd_potion_revive_1"  "苏生药剂"
+"hd_potion_revive_1_info"  "使用后你将获得一次复活机会，在死亡后<value1>秒后复活自己，这个药剂可以叠加使用。"
+
+
+"DOTA_Tooltip_modifier_hd_potion_revive_1"                   "苏生药剂"
+"DOTA_Tooltip_modifier_hd_potion_revive_1_Description"       "死亡后将重生" 
+
+

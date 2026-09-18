@@ -1,0 +1,211 @@
+<root>
+    <styles>
+        <include src="s2r://panorama/styles/dotastyles.vcss_c" />
+  
+        <include src="s2r://panorama/styles/hudstyles.vcss_c"/>
+        <include src="s2r://panorama/styles/hud/hud_reborn.vcss_c" />	
+        
+        <include src="s2r://panorama/layout/custom_game/game_wave/fellomen.css" />
+        <include src="s2r://panorama/layout/custom_game/game_wave/game_wave.css" />
+        <include src="s2r://panorama/styles/custom_game/common_hd.css"/>
+
+    </styles>
+  
+    <scripts>
+        <include src="s2r://panorama/layout/custom_game/game_wave/game_wave.js" />
+        <!-- <include src="s2r://panorama/scripts/util.vjs_c" /> -->
+        <!-- <include src="s2r://panorama/scripts/sequence_actions.vjs_c" /> -->
+    </scripts>
+
+    <snippets>
+
+      <snippet name="spell">
+          <Panel class="SingleSpellPanel SpellHidden">
+              <Button id="SingleSpellPanelButton" onmouseover="DOTAShowAbilityTooltip('player_spell_info_none')" onmouseout="DOTAHideAbilityTooltip()">
+                  <Panel id="HeroBorder"/>
+                  <Panel id="SingleSpellImage">
+                    
+                      <DOTAAbilityImage  id="SingleSpellPictureImage"/>
+                  </Panel>
+              </Button>
+              <Label class="CpCostIndicator" id = "leveltext" text="1"/>
+              <!-- <Label class="CpCostIndicator" id="SpellLevel"/> -->
+          </Panel>
+      </snippet>
+
+  </snippets>
+  
+    <Panel hittest="false" class="CustomHudRoot">
+      <Panel id="CavernHUDContents" hittest="false" class="CustomHudContents">
+          <Panel id="RoomDiscoverPanel" hittest="false">
+              <Panel id="RoomDiscoverStrip"  hittest="false">
+                <Label hittest="false" id="EncounterNameLabel" class="EncounterLabelHeader RoomText" text="ROUND NAME"/>
+              </Panel>
+              <Panel id="EncounterArt" hittest="false"/>
+            </Panel>
+
+
+
+
+
+      </Panel>
+
+      <Button id="CheckFellOmenBuff"  onactivate="CheckFellOmenBuff();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_CheckFellOmen')" onmouseout="DOTAHideTextTooltip()">    </Button>
+      <Panel id="FellOmenPanelRoot" hittest="false" onactivate="CloseFellOmenBuff();">
+        <Panel id="FellOmenPanelWindow" hittest="true" onactivate="Donothing();">
+          <Panel id="FellOmenPanelWindow_Bad" hittest="true">
+
+          </Panel>
+          <Panel id="FellOmenPanelWindow_Good" hittest="true">
+
+          </Panel>
+          
+        </Panel>
+      </Panel>
+
+
+      <Panel id="FellOmenBan_Panel_Root" class = "BanPanel Hidden"  hittest="true">
+        <Label hittest="false" id="FellOmenBan_confirm" text="#DOTA_HUD_Ban_Info_confirm"/>
+        <Panel id="FellOmen_Confirm_panel" onactivate = "ConfirmBan()"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Ban_Info')" onmouseout="DOTAHideTextTooltip()" >
+					<Label class="FellOmen_Confirm_Label" text="#DOTA_HUD_Confirm"></Label>
+
+				</Panel>
+        <Panel id="FellOmen_Cancle_panel" onactivate = "CancleBan()"   >
+          <Label class="FellOmen_Confirm_Label" text="#DOTA_HUD_Cancle"></Label>
+        </Panel>
+      </Panel>
+      <!-- 展开按钮 -->
+      <Button id="SetBonusAttributesButton" class = "FellOmenHidden"  onactivate="ChangingBonusAttributesStatus();" >    </Button>
+
+      <!-- 属性奖励窗口 -->
+      <Panel id="FellOmenBan_Bonus_Attributes_Panel_Root"  class = "Bonus_AttributesPanel"  hittest="false">
+        <Panel id="FellOmenBan_Bonus_Attributes_PanelWindow" class = "Bonus_AttributesPanel FellOmenHidden"  hittest="true">
+          
+          <Panel id="FellOmenBan_Bonus_Attributes_BackGround"  hittest="true">
+            <Panel class="hd_genaral_Background">
+      
+              <Panel class="hd_genaral_Background_layer2">
+                <Panel class="hd_genaral_Background_layer3">
+                </Panel>
+              </Panel>
+            </Panel>
+          </Panel>
+          <Label hittest="false" id="FellOmenBonus_title" text="#DOTA_HUD_FellOmen_Bonus_Attributes"/>
+          <Button id="SendBonusAttributes" class="generalHDButton" onactivate="SendBonusAttributes();" >   
+            <Label class="FellOmen_Confirm_Label" text="#DOTA_HUD_FellOmen_Send_Bonus_Attributes"></Label>
+          </Button>
+          
+          <Panel id="FellOmenBan_Bonus_Attributes"  hittest="true">
+            <Panel id="FellOmenBan_Bonus_Attributes_0"  hittest="true">
+              <Label id="Bonus_Attributes_Label_base" class = "Bonus_Attribues_Label_base" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_FellOmen_Bonus_Attributes_description')" onmouseout="DOTAHideTextTooltip()" />
+            </Panel>
+            <!-- 属性分配 -->
+            <Panel id="FellOmenBan_Bonus_Attributes_1" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+              <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_str" onmouseover="DOTAShowTextTooltip('1·1')" onmouseout="DOTAHideTextTooltip()"  />
+              <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="500" value="0" onvaluechanged="BonusAttributesQuantityChanged(1)" />
+              <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+            </Panel>
+
+            <Panel id="FellOmenBan_Bonus_Attributes_2" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+              <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_agi" onmouseover="DOTAShowTextTooltip('1·1')" onmouseout="DOTAHideTextTooltip()"  />
+              <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="500" value="0" onvaluechanged="BonusAttributesQuantityChanged(2)" />
+              <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+            </Panel>
+
+            <Panel id="FellOmenBan_Bonus_Attributes_3" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+              <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_int" onmouseover="DOTAShowTextTooltip('1·1')" onmouseout="DOTAHideTextTooltip()"  />
+              <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="500" value="0" onvaluechanged="BonusAttributesQuantityChanged(3)" />
+              <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+            </Panel>
+
+            <Panel id="FellOmenBan_Bonus_Attributes_4" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+              <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_health" onmouseover="DOTAShowTextTooltip('50·1')" onmouseout="DOTAHideTextTooltip()"  />
+              <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="10000" value="0" onvaluechanged="BonusAttributesQuantityChanged(4)" />
+              <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+            </Panel>
+
+            <Panel id="FellOmenBan_Bonus_Attributes_5" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+              <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_mana"  onmouseover="DOTAShowTextTooltip('40·1')" onmouseout="DOTAHideTextTooltip()" />
+              <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="10000" value="0" onvaluechanged="BonusAttributesQuantityChanged(5)" />
+              <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+            </Panel>
+
+            <Panel id="FellOmenBan_Bonus_Attributes_6" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+              <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_armor" onmouseover="DOTAShowTextTooltip('1·2')" onmouseout="DOTAHideTextTooltip()"  />
+              <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="500" value="0" onvaluechanged="BonusAttributesQuantityChanged(6)" />
+              <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+            </Panel>
+
+            <Panel id="FellOmenBan_Bonus_Attributes_7" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+              <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_attack_damage" onmouseover="DOTAShowTextTooltip('10·3')" onmouseout="DOTAHideTextTooltip()"  />
+              <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="500" value="0" onvaluechanged="BonusAttributesQuantityChanged(7)" />
+              <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+            </Panel>
+
+            <Panel id="FellOmenBan_Bonus_Attributes_8" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+              <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_spell_damage" onmouseover="DOTAShowTextTooltip('1·1')" onmouseout="DOTAHideTextTooltip()"  />
+              <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="500" value="0" onvaluechanged="BonusAttributesQuantityChanged(8)" />
+              <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost"  />
+            </Panel>
+
+
+            <Panel id="FellOmenBan_Bonus_Attributes_9" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+              <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_ability_point" onmouseover="DOTAShowTextTooltip('8/18/30/45/65/100')" onmouseout="DOTAHideTextTooltip()"  />
+              <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="6" value="0" onvaluechanged="BonusAttributesQuantityChanged(9)" />
+              <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+            </Panel>
+
+  
+
+
+
+          </Panel>
+        </Panel>
+
+      </Panel>
+
+      <!-- 提交数据用 -->
+      <Panel id="SendData_Panel_Root" class = "SendDataPanel"  hittest="true">
+        <!-- 标题 -->
+        <Label hittest="false" id="SendData_confirm_title" text="#DOTA_HUD_HiddenDate"/>
+        <!-- 确认按钮 -->
+        <Panel id="SendData_Confirm_panel" onactivate = "ConfirmSendData()"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Yes_Info')" onmouseout="DOTAHideTextTooltip()" >
+					<Label class="SendData_Confirm_Label" text="#DOTA_HUD_Yes"></Label>
+
+          
+
+				</Panel>
+        <!-- 取消按钮 -->
+        <Panel id="SendData_Cancle_panel" onactivate = "CancleSendData()"   >
+          <Label class="SendData_Confirm_Label" text="#DOTA_HUD_No"></Label>
+        </Panel>
+      </Panel>
+
+      <!-- 波数显示 -->
+      <Panel id="WaveRootPanel" hittest="false" >
+        <Panel id="WaveDiscoverPanel" hittest="false">
+          <Panel id="WaveDiscoverStrip0"  hittest="false">
+            <Label hittest="false" id="WaveEncounterNameLabel0" class="WaveEncounterLabelHeader WaveRoomText" text="#DOTA_HUD_game_info_difficult"/>
+          </Panel>
+            <Panel id="WaveDiscoverStrip"  hittest="false">
+              <Label hittest="false" id="WaveEncounterNameLabel" class="WaveEncounterLabelHeader WaveRoomText" text="RaaaaaaaOUND NAME"/>
+            </Panel>
+            <Panel id="WaveDiscoverStrip2"  hittest="false"   >
+              <Label hittest="true" id="WaveEncounterNameLabel2" class="WaveEncounterLabelHeader WaveRoomText" text="#DOTA_HUD_game_info_pre"        />
+            </Panel>
+            <Panel id="WaveDiscoverStrip3"  hittest="false">
+              <Label hittest="false" id="WaveEncounterNameLabel3" class="WaveEncounterLabelHeader WaveRoomText" text="#DOTA_HUD_game_info_ENDLESS_WAVE"/>
+            </Panel>
+            <!-- 计数 -->
+            <!-- <Panel id="WaveDiscoverStrip4"  hittest="false">
+              <Label hittest="false" id="WaveEncounterNameLabel4" class="WaveEncounterLabelHeader WaveRoomText" text="#DOTA_HUD_game_info_ENDLESS_WAVE_COUNT_CURRENT"/>
+            </Panel> -->
+            <Panel id="EncounterArt" hittest="false"/>
+
+
+          </Panel>
+      </Panel>
+
+      
+    </Panel>	
+  </root>

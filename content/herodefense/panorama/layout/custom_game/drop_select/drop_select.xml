@@ -1,0 +1,54 @@
+<root>
+	<styles>
+	   <include src="s2r://panorama/styles/dotastyles.vcss_c" />
+	   <include src="s2r://panorama/layout/custom_game/drop_select/drop_select.css" />
+	</styles>
+
+	<scripts>
+		<include src="s2r://panorama/scripts/custom_game/util.js" />
+		<include src="s2r://panorama/layout/custom_game/drop_select/drop_select.js" />
+	</scripts>
+
+	<!-- <snippets>
+		<snippet name="ItemChoiceContainer">
+			<Panel class="DropSelectItemImageBackGround">
+				<DOTAItemImage class="DropSelectItemImage" id="DropSelectItemImage" itemname="" />
+			</Panel>
+		</snippet>
+	</snippets> -->
+	
+	<Panel style="width:100%;height:100%;" hittest="false">
+		<Panel id="DropSelectRoot">
+			<Panel id="DropParticle"/>
+			<Label id="DropSelectTitle" text="#DOTA_HUD_DropSelectTitle" />
+			<!-- <Label id="DropSelectLabel" text="#DOTA_HUD_DropSelectTitle_message" /> -->
+			<Button id="RerollButton" onactivate="ReRollItemBonus();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_ReRollBonus')" onmouseout="DOTAHideTextTooltip()" />
+			<Panel id="DropSelectItemContainer">
+
+				
+				
+				<Panel class="DropSelectItemImageBackGround" id="DropSelectContainer1" >
+					<DOTAItemImage class="DropSelectItemImage" id="DropSelectItemImage1"  />
+				</Panel>
+				<Panel class="DropSelectItemImageBackGround" id="DropSelectContainer2" >
+					<DOTAItemImage class="DropSelectItemImage" id="DropSelectItemImage2"  />
+				</Panel>
+				<Panel class="DropSelectItemImageBackGround" id="DropSelectContainer3" >
+					<DOTAItemImage class="DropSelectItemImage" id="DropSelectItemImage3"  />
+				</Panel>
+				<Panel class="DropSelectItemImageBackGround" id="DropSelectContainer4" >
+					<DOTAItemImage class="DropSelectItemImage" id="DropSelectItemImage4" />
+				</Panel>
+				<Panel class="DropSelectItemImageBackGround" id="DropSelectContainer5" >
+					<DOTAItemImage class="DropSelectItemImage" id="DropSelectItemImage5" />
+				</Panel>
+				<Panel class="DropSelectItemImageBackGround" id="DropSelectContainer6" >
+					<DOTAItemImage class="DropSelectItemImage" id="DropSelectItemImage6"  />
+				</Panel>
+				<Panel class="DropSelectItemImageBackGround" id="DropSelectContainer7" >
+					<DOTAItemImage class="DropSelectItemImage" id="DropSelectItemImage7"  />
+				</Panel>
+			</Panel>
+		</Panel>
+	</Panel>
+</root>

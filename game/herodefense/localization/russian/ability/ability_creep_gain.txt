@@ -1,0 +1,148 @@
+
+
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain"	"Cпециализация Атаки"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_Description"	"Увеличена сила атаки"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_Note0"	"Доп. инфа:<br>Увеличение силы атаки не является базовой силой атаки и не повлияет на урон навыка с силой атаки в качестве коэффициента."
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_bonus_health"	"%Бонус здоровья:"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_bonus_regeneration_amplification"	"%Бонус к скорости реген. здоровья:"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_clone_bonus_health"	"%Бонус здоровья:"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_clone_bonus_regeneration_amplification"	"%Бонус к скорости реген. здоровья:"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_bonus_damage"	"%Увеличение силы атаки:"
+"DOTA_Tooltip_ability_creep_special_gain_Rage"	"Сердитый"
+"DOTA_Tooltip_ability_creep_special_gain_Rage_Description"	"Атаки имеют шанс нанести критический удар."
+"DOTA_Tooltip_ability_creep_special_gain_Rage_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_Rage_blade_dance_crit_chance"	"%Крит шанс: "
+"DOTA_Tooltip_ability_creep_special_gain_Rage_blade_dance_crit_mult"	"%Критический урон:"
+
+"DOTA_Tooltip_ability_creep_special_gain_Shrink"	"Черепаха"
+"DOTA_Tooltip_ability_creep_special_gain_Shrink_Description"	"Значительно увеличивает защиту, но относительная скорость передвижения снижается."
+"DOTA_Tooltip_ability_creep_special_gain_Shrink_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_Shrink_bonus_armor"	"Бонус защиты:"
+"DOTA_Tooltip_ability_creep_special_gain_Shrink_bonus_move"	"<font color=\"#d9534f\">Снижение скорости передвижения:</font>"
+
+"DOTA_Tooltip_ability_creep_special_gain_phase"	"Фаза"
+"DOTA_Tooltip_ability_creep_special_gain_phase_Description"	"Этот юнит игнорирует объем столкновений и не замедляется."
+"DOTA_Tooltip_ability_creep_special_gain_phase_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura"	"Аура разрушения"
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_Description"	"Исцеление ближайших врагов уменьшено."
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_bonus_magic_resistance"	"%Бонус сопротивления магии:"
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_bonus_heal"	"%Получено уменьшенное исцеление:"
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_radius"	"Радиус: "
+
+
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain"	"Специализация Магии"
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain_Description"	"Магические способности были улучшены."
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain_bonus_health"	"%Унаследует здоровья:"
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain_bonus_damage"	"%Унаследует базовую силу атаки:"
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain_bonus_armor"	"%Унаследование брони:"
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain_bonus_spell_damage_gain"	"%Урон навыков:"
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave"	"Крест"
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave_Description"	"При получении смертельного урона войдет в состояние тонкого погребения, не умрет, а минимальное значение здоровья равно 1, но на него может подействовать эффект мгновенной смерти.<br><br>Фиксированное время восстановления: 10 секунд"
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave_bonus_spell_damage_gain"	"%Урон навыков:"
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave_duration"	"Длительность:"
+
+"DOTA_Tooltip_ability_creep_special_gain_good_climber"	"Альпинист"
+"DOTA_Tooltip_ability_creep_special_gain_good_climber_Description"	"Движением местности можно пренебречь, в то время как фазовое движение возможно."
+"DOTA_Tooltip_ability_creep_special_gain_good_climber_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_good_climber_bonus_spell_damage_gain"	"%Урон навыков:"
+"DOTA_Tooltip_ability_creep_special_gain_good_climber_bonus_move"	"Бонус к скорости передвижения:"
+
+"DOTA_Tooltip_ability_creep_special_gain_saurian_fasciculus"	"Бондаж"
+"DOTA_Tooltip_ability_creep_special_gain_saurian_fasciculus_Description"	"Время от времени враг в радиусе 1000 соединяется со своими союзниками, притягивая друг друга и замедляясь на 10%% на 5 секунд.<br><br>Интервал срабатывания: 25 секунд"
+"DOTA_Tooltip_ability_creep_special_gain_saurian_fasciculus_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_modifier_creep_special_gain_saurian_fasciculus"	"Бондаж"
+"DOTA_Tooltip_ability_creep_special_gain_Perseverance"	"Упорство"
+"DOTA_Tooltip_ability_creep_special_gain_Perseverance_Description"	"Сопротивление эффектам увеличено на 40%%."
+"DOTA_Tooltip_ability_creep_special_gain_Perseverance_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+
+
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_life_stealer_feast"	"Праздник"
+"DOTA_Tooltip_ability_creep_special_gain_life_stealer_feast_Description"	"Поглощает 2%% максимального здоровья цели при атаке."
+"DOTA_Tooltip_ability_creep_special_gain_life_stealer_feast_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_life_stealer_feast_Note0"	"Доп. инфа:<br>Улучшается под действием вампиризма."
+
+"DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect"	"Сопротивление заклинаниям"
+"DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect_Description"	"Когда здоровье ниже 15%%, на него больше не будут влиять направленные умения."
+"DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_StatusGain_reduce"	"Blessing Ruin"
+"DOTA_Tooltip_ability_creep_special_gain_StatusGain_reduce_Description"	"Next attack will reduce target's Positive state duration gain by 35%%, can be stacked, last 7 seconds.<br><br>Fixed cooldown:25 seconds"
+"DOTA_Tooltip_ability_creep_special_gain_StatusGain_reduce_Lore"	"By absorbing the natural breath, creatures's properties were increased."
+"DOTA_Tooltip_ability_creep_special_gain_StatusNegativeGain_reduce"	"Cause Ruin"
+"DOTA_Tooltip_ability_creep_special_gain_StatusNegativeGain_reduce_Description"	"Next attack will reduce target's Negative state duration gain by 35%%, can be stacked, last 7 seconds.<br><br>Fixed cooldown:25 seconds"
+"DOTA_Tooltip_ability_creep_special_gain_StatusNegativeGain_reduce_Lore"	"By absorbing the natural breath, creatures's properties were increased."
+"DOTA_Tooltip_ability_creep_special_gain_LifeStealGain_reduce"	"Lifesteal Ruin"
+"DOTA_Tooltip_ability_creep_special_gain_LifeStealGain_reduce_Description"	"Next attack will reduce target's lifesteal gain by 50%%, can be stacked, last 5 seconds.<br><br>Fixed cooldown:25 seconds"
+"DOTA_Tooltip_ability_creep_special_gain_LifeStealGain_reduce_Lore"	"By absorbing the natural breath, creatures's properties were increased."
+
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_split_attack"	"Стрела"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_split_attack_Description"	"After receiving damage, if the attacker is within it's own 400 yard range, it will invalidate the attacker's Split Arrow effect for 0.5 seconds."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_split_attack_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_split_attack_radius"	"Радиус: "
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_life_steal"	"Обнуление потребления здоровья"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_life_steal_Description"	"Каждые 4 атаки могут полностью отключить эффект вампиризма цели на 1 секунду."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_life_steal_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_life_steal_radius"	"Радиус: "
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_Shield"	"Прорыв щита"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_Shield_Description"	"Каждая атака сводит на нет эффект щита цели на 0,3 секунды."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_Shield_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_Shield_Note0"	"Доп. инфа:Отключает эффекты щита, аналогичные Световому щиту"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_health_regen"	"Запрет на лечение"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_health_regen_Description"	"Юнитам в радиусе 400 более 6 секунд будет запрещено восстанавливать здоровье любым способом."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_health_regen_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_health_regen_Note0"	"Доп. инфа:Эффекты восстановления все еще можно рассчитать в False Promise."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_magic"	"Магическая ответная реакция"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_magic_Description"	"Каждый раз, когда наносится магический урон, каждые 2%% вашего собственного урона здоровью будут уменьшать повышение навыка преступника на 1%% на 10 секунд."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_magic_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_magic_Note0"	"Доп. инфа:Он не вступит в силу, когда сумма разового урона не достигнет 2%% от значения здоровья."
+"DOTA_Tooltip_ability_creep_special_gain_fake_message"	"Дезинформация"
+
+
+"DOTA_Tooltip_ability_creep_special_gain_fake_message_Description"	"Входит в виртуальное состояние каждые 15 секунд на 1 секунду (сопровождается подсказкой о спецэффекте до 2-х секунд).Если в это время цель запускает физическую атаку на себя, обезоруживает цель на 5 секунд."
+"DOTA_Tooltip_ability_creep_special_gain_fake_message_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_anti_time_arua"	"Антивременное поле"
+"DOTA_Tooltip_ability_creep_special_gain_anti_time_arua_Description"	"Каждые 25 секунд открывается антивременное поле, увеличивающее время восстановления всех умений, находящихся на перезарядке, на 2 секунды каждую секунду для врагов в радиусе 500 единиц в течение 5 секунд."
+"DOTA_Tooltip_ability_creep_special_gain_anti_time_arua_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_anti_time_arua_Note0"	"Доп. инфа:<br>Антивременное царство можно очистить."
+"DOTA_Tooltip_ability_creep_special_gain_Painful_last_wish"	"Болезненная воля"
+"DOTA_Tooltip_ability_creep_special_gain_Painful_last_wish_Description"	"Смерть проклинает цель, увеличивая урон цели на 5%% на 60 секунд."
+"DOTA_Tooltip_ability_creep_special_gain_Painful_last_wish_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+
+
+"DOTA_Tooltip_ability_creep_special_gain_Expansion_flame"	"Расширение пламени"
+"DOTA_Tooltip_ability_creep_special_gain_Expansion_flame_Description"	"Наносит магический урон, равный 2%% от Атаки, врагам в радиусе 100 каждую секунду, но если цель находится в состоянии иммунитета к магии, урон уменьшается на 90%%, но преобразуется в чистый урон. А площадь воздействия увеличивается на 6 единиц в секунду. Если урон превышает текущее здоровье цели более чем в пять раз, вызывает мгновенную смерть."
+"DOTA_Tooltip_ability_creep_special_gain_Expansion_flame_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+
+"DOTA_Tooltip_ability_creep_special_gain_cleave"	"Раздельная атака"
+"DOTA_Tooltip_modifier_creep_special_gain_cleave"	"Раздельная атака"
+"DOTA_Tooltip_ability_creep_special_gain_cleave_Description"	"Эффект атаки разделяется на 50%% на расстоянии 700."
+"DOTA_Tooltip_ability_creep_special_gain_cleave_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_cleave_Note0"	"Note:<br>would be disable by anti split"
+
+"DOTA_Tooltip_ability_creep_special_gain_Magic_Conversion"	"Магическая атака"
+"DOTA_Tooltip_ability_creep_special_gain_Magic_Conversion_Description"	"Получите брошь мертвеца, с вероятностью 8%% вызывающую использование этого предмета каждую секунду. Во время действия эффекта в первую очередь будут атакованы отряды героев Ничтожества."
+"DOTA_Tooltip_ability_creep_special_gain_Magic_Conversion_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+
+
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain"	"Blur"
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain_Description"	"Has a chance to evade enemy attacks。"
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain_evasion"	"%Evasion:"
+
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_pierce_the_veil"	"Pierce The Veil"
+"DOTA_Tooltip_ability_creep_special_gain_pierce_the_veil_Description"	"Convert the attack into 10%% magical attack damage that can attack ethereal units, causing only 20%% damage to magic immune enemies."
+"DOTA_Tooltip_ability_creep_special_gain_pierce_the_veil_Lore"	"Поглощение дыхания природы усиливает атрибуты существа."
+"DOTA_Tooltip_ability_creep_special_gain_pierce_the_veil_Note0"	"Note:<br>After 400 rounds, creeps has a 30%% chance to learn this ability."

@@ -1,0 +1,40 @@
+<!-- xml reconstructed by ValveResourceFormat: https://vrf.steamdb.info/ -->
+<root>
+	<scripts>
+		<include src="s2r://panorama/scripts/custom_game/util.js" />
+		  <include src="file://{resources}/scripts/custom_game/common.js" />
+		<include src="s2r://panorama/layout/custom_game/ability_note/ability_note.js" />
+	</scripts>
+
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/ability_note/ability_note.css" />
+	</styles>
+
+
+
+
+	<snippets>
+		<snippet name="spell_upgrate">
+			<Panel class="spell_upgrate_root">
+				<Button id="upgrateTab">
+					<Panel id="upgrate_Button">
+						<Panel id="upgrateIcon">
+						
+						</Panel>
+					</Panel>
+				</Button>
+			</Panel>
+		</snippet>
+	</snippets>
+
+
+
+	<!-- <Panel style="visibility: collapse;" /> -->
+	<Panel class="abilityNote" hittest="false">
+       	<Panel id="defaultRoot" hittest="false">
+       
+
+		</Panel>
+
+	</Panel>
+</root>

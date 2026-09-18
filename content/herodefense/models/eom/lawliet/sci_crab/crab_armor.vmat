@@ -1,0 +1,140 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 1 // Add
+	F_DETAIL_2 2 // Add Self Illum
+
+	//---- Effect Proxies ----
+	F_USE_HERO_EFFECTS_PROXY 1
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.074"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/eom/lawliet/sci_crab/textures/skin1/t_scifi_crab_armor_basecolor_skin1.png"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[1.000 1.000]"
+	TextureDetail "models/eom/lawliet/sci_crab/textures/skin1/t_scifi_crab_armor_emissive_skin1.png"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.000"
+	g_vDetail2TexCoordOffset "[0.000 0.000]"
+	g_vDetail2TexCoordScale "[1.000 1.000]"
+	TextureDetail2 ""
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "1.000"
+	g_flBloomShift "0.170"
+	g_vBloomColor "[1.000000 0.000000 0.000000 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "materials/default/default_detailmask.tga"
+	TextureDiffuseWarpMask "materials/default/default_diffusemask.tga"
+	TextureMetalnessMask "models/eom/lawliet/sci_crab/textures/skin1/t_scifi_crab_armor_metallrough_skin1.png"
+	TextureSelfIllumMask "models/eom/lawliet/sci_crab/textures/skin1/t_scifi_crab_armor_emissive_skin1.png"
+
+	//---- Mask 2 ----
+	TextureRimMask "[0.472000 0.472000 0.472000 0.000000]"
+	TextureSpecularExponent "materials/default/default_specexp.tga"
+	TextureSpecularMask "materials/default/default_specmask.tga"
+	TextureTintByBaseMask "materials/default/default_basetintmask.tga"
+
+	//---- Normal Map ----
+	TextureNormal "models/eom/lawliet/sci_crab/textures/skin1/t_scifi_crab_armor_normal_skin1.png"
+
+	//---- Rim ----
+	g_flRimLightScale "1.036"
+	g_vRimLightColor "[1.000000 0.678431 0.678431 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "32.000"
+	g_flSpecularScale "1.000"
+	g_vSpecularColor "[0.933333 0.992157 1.000000 0.000000]"
+
+	Attributes
+	{
+		PreviewModel "models/eom/lawliet/sci_crab/sco_crab.vmdl"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+	}
+}

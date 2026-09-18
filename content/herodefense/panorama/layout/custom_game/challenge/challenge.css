@@ -1,0 +1,602 @@
+.challengeRoot {
+    width: 100%;
+    height: 100%;
+}
+
+#challengePanel{
+    align: right top;
+    z-index: 55;
+    height: 100px;
+    width: 100px;
+    margin-top: 70px;
+    margin-right: 30px;
+}
+#challengePanel.hidden{
+    opacity: 0;
+}
+
+#herochallengePanel{
+    height: 50px;
+    width: 280px;
+
+    margin-left: 25%;
+    border-radius: 4px;
+    align: center top;
+    flow-children: right-wrap;
+}
+
+
+
+#challengeMenuOpenButton:hover{
+    /* box-shadow: rgb(24, 163, 6)0px 0px 10px 0px; */
+    brightness: 1.8;
+    pre-transform-scale2d: 1;
+}
+
+#challengeMenuOpenButtonBG {
+    width: 100px;
+    height: 100px;
+    opacity-mask: url("file://{images}/masks/softedge_box_irregular.png");
+}
+
+
+
+
+
+
+#challengeMenuwindowROOT{
+    width: 100%;
+    height: 100%;
+    opacity: 0.0;
+    transform: translateX( 120px ) translateY( -60px );
+    pre-transform-scale2d:0.95;
+    wash-color: #33cccc;
+    transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+    transition-duration: 0.6s, 0.4s, 0.5s;
+    transition-timing-function: ease-in-out;
+
+
+}
+
+
+#challengeMenuwindowROOT.show{
+    opacity: 1.0;
+    transform: translateX( 0px ) translateY( 0px );
+    pre-transform-scale2d:1;
+    wash-color: #ffffff;
+}
+
+#challengeMenuwindowROOT {
+    visibility: collapse;
+}
+#challengeMenuwindowROOT.Visible {
+    visibility: visible;
+}
+#SettingWindowBack {
+    visibility: collapse;
+}
+#SettingWindowBack.Visible {
+    visibility: visible;
+}
+
+
+
+
+#challengeMenuwindow{
+    width: 75%;
+    height: 75%;
+    align: center center;
+    /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+    background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+    /* background-image: url("s2r://panorama/images/backgrounds/reward_screencap_background_fall20_psd.vtex"); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: rgb(27, 47, 54) 0px 0px 10px 0px;
+
+}
+
+#SettingWindowBack{
+    width: 100%;
+    height: 100%;
+    align: left bottom;
+    /* background-color: #555555; */
+    /* blur: gaussian(30px); */
+    z-index:-1;
+}
+/* 
+#challengeMenuwindow_icon {
+
+    margin-left:180px;
+
+    background-image: url("s2r://panorama/images/banners/dw_mo_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 0;
+    padding: 100px;
+} */
+
+
+#challengeMenuwindow_icon {
+    /* align: center center; */
+    width: 60%;
+    height: 100%;
+    /* margin-left:0px; */
+    /* margin-bottom:40%; */
+    /* margin-bottom: 38px; */
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    /* background-image: url("s2r://panorama/images/banners/singleitemtreasure/singletreasure_icon_png.vtex"); */
+    /* background-image: url("s2r://panorama/images/banners/dw_mo_psd.vtex"); */
+    /* background-size: 100%; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    z-index: 0;
+    /* padding: 100px; */
+}
+
+
+#PostGameBG1{
+    width: 50%;
+    height: 50%;
+    /* pre-transform-scale2d: 2.2; */
+    /* blur: gaussian(3px); */
+    margin-bottom:80%;
+    margin-left:5%;
+    /* horizontal-align: center; */
+    /* vertical-align: middle; */
+    /* opacity: 0; */
+    wash-color: #050A07;
+    transition-property: opacity, wash-color, pre-transform-scale2d;
+    transition-duration: 0.32s, 1.5s, 1.9s;
+    transition-timing-function: ease-in;
+}
+#PostGameBG1.SceneLoaded{wash-color: rgb(255, 255, 255);}
+
+
+
+
+
+
+
+
+#challengeMenuwindow_icon2 {
+    align: right top;
+    margin-right:-5%;
+    margin-bottom:10%;
+    width: 50%;
+    height: 100%;
+    /* margin-bottom: 38px; */
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    /* background-image: url("s2r://panorama/images/banners/singleitemtreasure/singletreasure_icon_png.vtex"); */
+    /* background-image: url("s2r://panorama/images/cavern/style_unlock_spirit_breaker_v1_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center; */
+    z-index: 0;
+    /* padding: 100px; */
+    /* border-radius: 100%; */
+}
+
+#challengeMenuwindow_icon3 {
+    align: center top;
+    margin-right:00px;
+    margin-top:0px;
+    /* margin-bottom: 38px; */
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    /* background-image: url("s2r://panorama/images/banners/singleitemtreasure/singletreasure_icon_png.vtex"); */
+    background-image: url("s2r://panorama/images/leaf_pages/halloween2015/tip3_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 0;
+    padding: 100px;
+    /* border-radius: 100%; */
+}
+
+#challengeMenuwindow_icon4 {
+    /* align: left bottom; */
+    margin-left:-80px;
+    margin-top:540px;
+    /* margin-bottom: 38px; */
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    /* background-image: url("s2r://panorama/images/banners/singleitemtreasure/singletreasure_icon_png.vtex"); */
+    background-image: url("s2r://panorama/images/events/aghanim/aghs_tutorial_png.vtex");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 1;
+    padding: 300px;
+    /* border-radius: 100%; */
+}
+
+
+#challengeMenuwindow_icon5 {
+    align: right bottom;
+    width: 30%;
+    height: 50%;
+    margin-right:5%;
+    /* margin-bottom:20px; */
+    /* margin-bottom: 38px; */
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    /* background-image: url("s2r://panorama/images/banners/singleitemtreasure/singletreasure_icon_png.vtex"); */
+    /* background-image: url("s2r://panorama/images/trophies/international2017_battle_pass_level_3_png.vtex"); */
+    /* background-size: 50%; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    z-index: 1;
+    /* padding: 200px; */
+    /* border-radius: 100%; */
+}
+
+
+/* #challengeMenuwindow_icon5 {
+    align: right bottom;
+    margin-right:5%;
+    margin-bottom:20px;
+    background-image: url("s2r://panorama/images/trophies/international2017_battle_pass_level_3_png.vtex");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 1;
+    padding: 200px;
+
+} */
+
+#PostGameBG2{
+    width: 50%;
+    height: 50%;
+    /* pre-transform-scale2d: 2.2; */
+    /* blur: gaussian(3px); */
+    /* margin-bottom:80%; */
+    margin-left:35%;
+    margin-top:35%;
+    /* horizontal-align: center; */
+    /* vertical-align: middle; */
+    /* opacity: 0; */
+    wash-color: #050A07;
+    transition-property: opacity, wash-color, pre-transform-scale2d;
+    transition-duration: 0.32s, 1.5s, 1.9s;
+    transition-timing-function: ease-in;
+}
+#PostGameBG2.SceneLoaded{wash-color: rgb(255, 255, 255);}
+
+
+
+
+
+#playerChallengeMenuwindowTitle{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 34px;
+    height: 46px;
+    width: 100%;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: 11px;
+
+    text-align: center;
+    padding-top: 6px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: gradient(linear, 0% 0%, 0% 90%, from(#7dcadd), to(#3e6461));
+}
+
+
+
+#ShowinfoButton {
+    align: right bottom;
+    margin-right: 30%;
+    margin-bottom: 905px;
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    background-image: url("s2r://panorama/images/hud/reborn/ping_icon_default_psd.vtex");
+    /* background-image: url("s2r://panorama/images/hud/heroview_icon_png.vtex"); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 5;
+    padding: 12px;
+    border-radius: 50%;
+    background-img-opacity: 0.2;
+}
+
+
+#challengewindow{
+    width: 100%;
+    height: 100%;
+    margin-top: 130px;
+    flow-children: right-wrap;
+
+}
+
+
+
+/* 道具外框 */
+.challengeSelectItemImageBackGround{
+    width: 300px;
+    height: 300px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+    flow-children: down;
+  
+    
+}
+
+/* 选择的hover */
+.challengeSelectItemImageBackGround:hover{
+    brightness: 1.8;
+}
+
+
+
+.challengeSelectItemImage{
+    margin-top: 5%;
+    width: 70%;
+    height: 70%;
+    align: center center;
+    border-radius: 3px;
+    box-shadow: rgba(55, 55, 55, 0.409)0px 0px 10px 0px;
+    border:1px solid rgb(0, 0, 0);
+    transition: box-shadow 0.3s ease-in-out 0s;
+    opacity-mask: url("s2r://panorama/images/masks/sequence/flamereveal/129_png.vtex");
+    /* perspective: 1000; */
+    brightness: 0.7;
+    saturation:0.8;
+}
+
+
+.Button_on {
+    box-shadow: rgba(172, 99, 255, 0.05)0px 0px 30px 0px;
+    brightness: 3.4;
+    saturation:1;
+    
+}
+
+
+.CpCostIndicator {
+    width: 70%;
+    height: 10%;
+    
+    align: center bottom;
+}
+
+
+
+#Challenge_Level{
+    margin-top:3%;
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 34px;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center top;
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.3); */
+    color: gradient(linear, 0% 0%, 0% 90%, from(#7dcadd), to(#3e6461));
+}
+#Challenge_Level1,
+#Challenge_Level2,
+#Challenge_Level3,
+#Challenge_Level4,
+#Challenge_Level5{
+    margin-top:3%;
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 34px;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center top;
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.3); */
+    /* color: gradient(linear, 0% 0%, 0% 90%, from(#fd9b7d), to(#f5f77d)); */
+    opacity: 0.85;
+}
+#Challenge_Level1{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#0abce9), to(#0dada0));
+}
+
+#Challenge_Level2{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#62d316), to(#f5f77d));
+}
+
+#Challenge_Level3{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#d49d05), to(#f5f77d));
+}
+
+#Challenge_Level4{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#d49d05), to(#f7817d));
+}
+
+#Challenge_Level5{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ff0000), to(#f7817d));
+}
+
+
+
+#Challenge_COST{
+    /* margin-top:3%; */
+    height: 7%;
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 14px;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center top;
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.3); */
+    color: gradient(linear, 0% 0%, 0% 90%, from(#fd9b7d), to(#f5f77d));
+    opacity: 0.85;
+}
+#Challenge_BONUS{
+    /* margin-top:3%; */
+    height: 7%;
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 14px;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center top;
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.3); */
+    color: gradient(linear, 0% 0%, 0% 90%, from(#fd9b7d), to(#f5f77d));
+    opacity: 0.85;
+}
+
+
+.text_aliign_left{
+    
+    text-align:left;
+}
+
+
+
+
+
+#challengeInfoRoot {
+   
+    width: 350px;
+    height: 330px;
+    margin-left: 100px;
+    /* margin-right: 20px; */
+    margin-top: 40px;
+    border-radius: 3px;
+
+    /* background-image: url("s2r://panorama/images/banners/singleitemtreasure/singletreasure_icon_png.vtex"); */
+    /* background-image: url("file://{images}/custom_game/singletreasure_icon.png"); */
+    /* background-size: 75%; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    /* z-index: 0; */
+    /* padding: 100px; */
+    flow-children: right-wrap;
+}
+
+.Challenge_info{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 15px;
+    height: 18px;
+    width: 100%;
+    text-shadow: 2px 2px 4px 2 #36515590;
+    text-overflow: shrink;
+    align: left top;
+    /* margin-bottom: 2px; */
+
+    text-align: left;
+    /* padding-top: 6px; */
+    background-color: rgba(0, 0, 0, 0.3);
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e6461));
+    border-bottom:1px solid rgb(48, 48, 48);
+}
+
+
+
+
+#PostGameBG3{
+    width: 50%;
+    height: 50%;
+    pre-transform-scale2d:1;
+    /* blur: gaussian(3px); */
+    margin-bottom:60%;
+    margin-left:40%;
+    /* horizontal-align: center; */
+    /* vertical-align: middle; */
+    /* opacity: 0; */
+    wash-color: #050A07;
+    transition-property: opacity, wash-color, pre-transform-scale2d;
+    transition-duration: 0.32s, 1.5s, 1.9s;
+    transition-timing-function: ease-in;
+}
+#PostGameBG3.SceneLoaded{wash-color: rgb(255, 255, 255);}
+
+
+
+
+/* 道具外框 */
+.ChallengeBackGround{
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    /* margin-left: 5%; */
+    /* margin-right: 20px; */
+    /* margin-bottom: 10px; */
+    /* border-radius: 3px; */
+    /* background-color: gradient(linear, 0% 0%, 0% 80%, from(#ffffff), to(#777777)); */
+    /* box-shadow: rgba(221, 224, 224, 0) 50px 15px 50px 50px; */
+    /* box-shadow: rgb(243, 243, 243)0px 0px 10px 0px; */
+    transition: box-shadow 0.2s ease-in-out 0s;
+    flow-children: down;
+    /* visibility: collapse; */
+    
+}
+
+/* #ChallengeBackGround.Visible {
+    visibility: visible;
+} */
+
+.HerochallengeImage{
+    /* margin-top: 0px; */
+    width: 70%;
+    height: 70%;
+    align: center center;
+    border-radius: 3px;
+    /* box-shadow: rgb(49, 97, 143)0px 0px 10px 0px; */
+    transition: box-shadow 0.3s ease-in-out 0s;
+    
+}
+
+
+
+
+.class_index0 {     
+    box-shadow: rgb(49, 97, 143)0px 0px 8px 0px;
+}
+.class_index1 {     
+    box-shadow: rgb(91, 143, 49)0px 0px 8px 0px;
+}
+
+.class_index2 {     
+    box-shadow: rgb(221, 210, 52)0px 0px 8px 0px;
+}
+
+.class_index3 {     
+    box-shadow: rgb(218, 97, 27)0px 0px 8px 0px;
+}
+
+.class_index4 {     
+    box-shadow: rgb(223, 14, 14)0px 0px 8px 0px;
+}
+
+
+
+.class_bigger {     
+    pre-transform-scale2d: 0.8;
+}
+
+.class_normal {     
+    pre-transform-scale2d: 0.9;
+}
+
+
+
+#RerollButton{
+    /* margin-left: 40%; */
+    margin-bottom: 38px;
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    background-image: url("s2r://panorama/images/hud/reborn/aghsstatus_scepter_on_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: left;
+    z-index: 0;
+    padding: 20px;
+    border-radius: 50%;
+    visibility: collapse;
+}
+
+#RerollButton:hover {
+    /* box-shadow: rgb(255, 255, 255)0px 0px 10px 0px; */
+    brightness: 2.4;
+}

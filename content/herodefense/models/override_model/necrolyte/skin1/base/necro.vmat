@@ -1,0 +1,152 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 2 // Add Self Illum
+
+	//---- Effect Proxies ----
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Translucency ----
+	F_ALPHA_TEST 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/override_model/necrolyte/skin1/base/necro_color.png"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[0.984314 0.074510 0.074510 1.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[2.000 2.000]"
+	TextureDetail "[1.000000 1.000000 1.000000 1.000000]"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.000"
+	TextureDetail2 "materials/default/default_detail2.tga"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "[0.000000 0.000000 0.000000 0.000000]"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "0.856"
+	g_flBloomShift "0.000"
+	g_flOverbrightFactor "1.000"
+	g_vBloomColor "[1.000000 0.094118 0.094118 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "models/override_model/necrolyte/skin1/base/necro_detailmask.png"
+	TextureDiffuseWarpMask "[0.000000 0.000000 0.000000 0.000000]"
+	TextureMetalnessMask "[0.000000 0.000000 0.000000 0.000000]"
+	TextureSelfIllumMask "models/override_model/necrolyte/skin1/base/necro_63c03a80_selfillummask.png"
+
+	//---- Mask 2 ----
+	TextureRimMask "models/override_model/necrolyte/skin1/base/necro_5cdfa850_rimmask.png"
+	TextureSpecularExponent "models/override_model/necrolyte/skin1/base/necro_detailmask.png"
+	TextureSpecularMask "models/override_model/necrolyte/skin1/base/necro_specmask.png"
+	TextureTintByBaseMask "models/override_model/necrolyte/skin1/base/necro_5cdfa850_basetintmask.png"
+
+	//---- Normal Map ----
+	TextureNormal "models/override_model/necrolyte/skin1/base/necro_normal.png"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "30.000"
+	g_flSpecularScale "4.000"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Translucency ----
+	g_flAlphaTestReference "0.500"
+	TextureTranslucency "[1.000000 1.000000 1.000000 0.000000]"
+
+	DynamicParams
+	{
+		g_flDetailTexCoordRotation "return time()*12;"
+		g_vDetailTexCoordOffset "return float2(-.25,time()*.382);"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+			"Overbright" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+		"Translucency"
+		{
+		}
+	}
+}

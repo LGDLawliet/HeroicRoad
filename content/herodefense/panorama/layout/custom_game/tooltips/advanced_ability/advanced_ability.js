@@ -1,0 +1,277 @@
+function donothing(params) {
+    
+}
+var CustomUIConfig = GameUI.CustomUIConfig();
+var self = $.GetContextPanel();
+
+let PlayerCount = 0;
+let challenge_difficulty = 0;
+let game_round = 0;
+let configData;
+
+
+function setupTooltip()
+{
+ 
+    let data =   JSON.parse(self.GetAttributeString("data", ''));  
+    if (data.type==ADVANCED_ABILITY_INFO_CHALLENGE) {
+        SetUpChallengeInfo(data);
+        return;
+    }
+    // $.Msg(data);
+   
+    // $.Msg(data.type);
+    // let data = self.GetAttributeString("data", '').split(",");
+
+
+}
+
+function SetUpChallengeInfo(data) {
+
+    const Header =  $("#Header");
+    const AbilityTarget =  $("#AbilityTarget");
+    const AbilityDescriptionContainer =  $("#AbilityDescriptionContainer");
+
+    let spilitSTR = data.name.split("_");
+    // 这确实有点落后 但不好改太多了
+    let challengeName = spilitSTR[0] +"_"+ spilitSTR[1];
+    let challengeLevel = spilitSTR[2];
+
+    let challengeKV = CustomUIConfig.ChallengeInfo_KV[challengeName];
+    if (challengeKV==null) {
+        $.Msg("Error：没有找到KV ",challengeName)
+        return
+    }
+
+
+
+
+    let challengeTitle = $.Localize("#DOTA_Tooltip_"+challengeName+"_Name");
+    var challenge_description = $.Localize("#DOTA_Tooltip_"+challengeName+"_Description");
+    if (challengeLevel==5 && challengeKV.speical_level5 && challengeKV.speical_level5==1) {
+        // 特殊5级描述
+        challenge_description = $.Localize("#DOTA_Tooltip_"+challengeName+"_Description_5");
+    }
+   
+    challenge_description = ReplaceChallengeSpecial(challengeKV.AbilityValues,challenge_description,challengeLevel);
+  
+
+    // $.Msg(challengeTitle);
+    // $.Msg(challenge_description);
+    // $.Msg(challengeTitle);
+    Header.FindChildTraverse("AbilityName").text = challengeTitle;
+    Header.FindChildTraverse("AbilityLevel").text =  $.Localize("#DOTA_HUD_Challenge_level")+"  " + $.Localize("#DOTA_HUD_Challenge_level_"+challengeLevel);
+
+
+    AbilityTarget.SetDialogVariable("value1",  $.Localize("#DOTA_Tooltip_ChallengeInfo_type_"+challengeKV.Localize_type));
+    AbilityTarget.FindChildTraverse("ChallengeType").SetHasClass("hidden", false);
+
+    AbilityDescriptionContainer.RemoveAndDeleteChildren();
+    $("#AbilityDescriptionOuterContainer").SetHasClass("hidden",false);
+    let targetPanel = $.CreatePanel("Panel", AbilityDescriptionContainer, "defaultDescription");
+    targetPanel.BLoadLayoutSnippet("DescriptionBlock"); //载入模块
+    targetPanel.FindChildInLayoutFile("single_DescriptionLabel").text = $.Localize("#DOTA_Tooltip_ChallengeInfo_info_2") +  challenge_description;
+
+    let bonus_count = challengeKV.special_bonus_count || 0;
+    // $.Msg("bonus_count=",bonus_count);
+    let bonus_info = $.Localize("#DOTA_Tooltip_ChallengeInfo_info_3");
+    if (bonus_count>=1) {
+        for (let index = 1; index <= bonus_count; index++) {
+            if (index==1) {
+                if (challengeKV.use_special_in_bonus1 && challengeKV.use_special_in_bonus1==1) {
+                    bonus_info = bonus_info + "<br>" +index+"."+$.Localize("#DOTA_Tooltip_"+challengeName+"_Bonus_1_"+challengeLevel);
+                    continue;
+                }
+            }
+            bonus_info = bonus_info + "<br>" +index+"."+$.Localize("#DOTA_Tooltip_"+challengeName+"_Bonus_"+index);
+           
+            
+        }
+    }
+    if (challengeKV.Localize_type=="Elite_Challenge") {
+
+        // 在描述下插入属性
+        let targetPanel = $.CreatePanel("Panel", AbilityDescriptionContainer, "boss_attribute");
+        targetPanel.BLoadLayoutSnippet("DescriptionBlock"); //载入模块
+        // targetPanel.FindChildInLayoutFile("single_DescriptionLabel").text = $.Localize("#DOTA_Tooltip_ChallengeInfo_info_2") +  challenge_description;
+
+        let health = challengeKV.elite_base_health + (1+game_round)*challengeKV.elite_bonus_health*challengeLevel;
+        let atk = challengeKV.elite_base_atk + (1+game_round) * challengeKV.elite_bonus_atk*challengeLevel;
+        let armor = challengeKV.elite_base_armor+ challengeKV.elite_bonus_armor*challengeLevel;
+        let bossInfo = $.Localize("#DOTA_Tooltip_Boss_health") + ToColor(health,"#c7c1c1");
+        bossInfo = bossInfo+ "<br>" + $.Localize("#DOTA_Tooltip_Boss_atk") + ToColor(atk,"#c7c1c1");
+        bossInfo = bossInfo+ "<br>" + $.Localize("#DOTA_Tooltip_Boss_armor") + ToColor(armor,"#c7c1c1");
+        targetPanel.FindChildInLayoutFile("single_DescriptionLabel").text = bossInfo;
+
+        bonus_count++;
+        // 对于boss挑战 附加两个词条
+        bonus_info = bonus_info + "<br>" +bonus_count+"."+$.Localize("#DOTA_Tooltip_Bonus_Boss_1");
+        bonus_count++;
+        bonus_info = bonus_info + "<br>" +bonus_count+"."+$.Localize("#DOTA_Tooltip_Bonus_Boss_2");
+
+        let boss_bonus_gold = GetValueWithLevel(challengeKV.boss_bonus_gold,challengeLevel);
+        let boss_spell_index = GetValueWithLevel(challengeKV.boss_spell_index,challengeLevel);
+
+        // 受到人数与试炼难度影响
+        let book_index = 1;
+        let gold_bonus_index = 1;
+        if (configData) {
+            if (PlayerCount>=1) {
+                book_index = book_index * Number(configData.BONUS_INDEX_FROM_CHALLENGE_BY_PLAYER_COUNT__SpellBook[PlayerCount])
+                gold_bonus_index = gold_bonus_index * Number(configData.BONUS_GOLD_INDEX_FROM_CHALLENGE_BOSS[PlayerCount])
+            }
+            if (challenge_difficulty>=1) {
+                book_index = book_index * Number(configData.BONUS_INDEX_FROM_CHANLLENGE_DIFFICULTY__SpellBook[challenge_difficulty])
+            }
+            book_index = book_index.toFixed(2);  
+            gold_bonus_index = gold_bonus_index.toFixed(2);  
+        }
+
+        
+
+        bonus_info = ReplaceKeyWithValue(bonus_info,"boss_bonus_gold",Number(boss_bonus_gold*gold_bonus_index).toFixed(0));
+        bonus_info = ReplaceKeyWithValue(bonus_info,"boss_spell_index",Number(boss_spell_index*book_index).toFixed(2));
+    }
+
+
+
+
+    // ReplaceKeyWithValue(challenge_description,key,value)
+
+
+    bonus_info =  ReplaceChallengeSpecial(challengeKV.AbilityValues,bonus_info,challengeLevel);
+
+    let bonusPanel = $.CreatePanel("Panel", AbilityDescriptionContainer, "bonus_info");
+    bonusPanel.BLoadLayoutSnippet("DescriptionBlock"); //载入模块
+    bonusPanel.FindChildInLayoutFile("single_DescriptionLabel").text = bonus_info;
+    // $.Msg(bonus_info);
+
+
+
+
+    // 再添加一个金币奖励
+    if (challengeKV.exp_bonus || challengeKV.aurum_bonus) {
+
+        // 金币与经验奖励会受到
+        let index = 1;
+        if (configData) {
+            if (PlayerCount>=1) {
+                index = index * Number(configData.BONUS_INDEX_FROM_CHALLENGE_BY_PLAYER_COUNT[PlayerCount])
+            }
+            if (challenge_difficulty>=1) {
+                index = index * Number(configData.BONUS_INDEX_FROM_CHANLLENGE_DIFFICULTY[challenge_difficulty])
+            }
+            index = index.toFixed(2);  
+        }
+        
+        
+        let bonusPanel = $.CreatePanel("Panel", AbilityDescriptionContainer, "bonus_info_exp_N_aurum");
+        bonusPanel.BLoadLayoutSnippet("DescriptionBlock_BonusResource"); //载入模块
+        // bonusPanel.FindChildInLayoutFile("single_DescriptionLabel").text = bonus_info;
+        if (challengeKV.exp_bonus) {
+            bonusPanel.SetDialogVariable("exp_bonus",  Number(GetValueWithLevel(challengeKV.exp_bonus,challengeLevel)*index).toFixed(0)   );
+            bonusPanel.FindChildInLayoutFile("bonus_block_exp").SetHasClass("hidden",false);
+        }else{
+            bonusPanel.FindChildInLayoutFile("bonus_block_exp").SetHasClass("hidden",true);
+        }
+        if (challengeKV.aurum_bonus) {
+            bonusPanel.SetDialogVariable("aurum_bonus",  Number(GetValueWithLevel(challengeKV.aurum_bonus,challengeLevel)*index).toFixed(1)   );
+            bonusPanel.FindChildInLayoutFile("bonus_block_aurum").SetHasClass("hidden",false);
+        }else{
+            bonusPanel.FindChildInLayoutFile("bonus_block_aurum").SetHasClass("hidden",true);
+            // 
+        }
+        if (challengeKV.bonus_type) {
+            if (challengeKV.bonus_type==1) {
+                bonusPanel.SetDialogVariable("bonus_target", $.Localize("#DOTA_Tooltip_EACH_PLAYER"));
+            }
+            
+        }else{
+            bonusPanel.SetDialogVariable("bonus_target", $.Localize("#DOTA_Tooltip_ALL_PLAYER"));
+        }
+        
+    }
+    
+}
+
+function ReplaceChallengeSpecial(specialValue,challenge_description,level) {
+    for (let key in specialValue){
+        let v = specialValue[key];
+        // $.Msg(typeof(v));
+        if (typeof(v)=="string"){
+            let value = v.split(" ");
+            challenge_description = challenge_description.replace(('<' + key + '>'), value[Math.min(level-1,value.length)].toString());
+        }else{
+            challenge_description = challenge_description.replace(('<' + key + '>'), v.toString());
+        }
+       
+    }
+    return challenge_description;
+}
+
+function ReplaceKeyWithValue(challenge_description,key,value) {
+    challenge_description = challenge_description.replace(('<' + key + '>'), value.toString());
+    return challenge_description;
+}
+
+function GetValueWithLevel(specialValue,level) {
+    if (typeof(specialValue)=="string"){
+        let value = specialValue.split(" ");
+        return value[Math.min(level-1,value.length)];
+    }else{
+        return specialValue;
+    }
+   
+}
+
+
+
+function UpdateCommonNetTable(tableName, tableKeyName, table) {
+	var localPlayerID = Players.GetLocalPlayer();
+
+	if (Players.IsSpectator(localPlayerID)) {
+        // 如果是观战的情况下就把切换ID到点击的单位身上
+		localPlayerID = -1;
+		if (Players.GetLocalPlayerPortraitUnit() != -1) {
+			localPlayerID = Entities.GetPlayerOwnerID(Players.GetLocalPlayerPortraitUnit());
+		}
+	}
+    if (table==null) {
+        return;
+    }
+
+    if (tableKeyName=="hd_game_mode") {
+        PlayerCount =Math.floor( Number(table.player_count));
+    }
+
+
+    if (tableKeyName == "base_bonus_congig") {
+        configData = table;
+    }
+    if (tableKeyName == "game_round") {
+        // configData
+        game_round =Math.floor( Number(table.value));
+    }
+
+    
+}
+
+
+
+// .toFixed(0)
+
+(function () {
+
+    CustomUIConfig.SubscribeNetTableListener("game_config", UpdateCommonNetTable);
+	UpdateCommonNetTable("game_config", "base_bonus_congig", CustomNetTables.GetTableValue("game_config", "base_bonus_congig"));
+	UpdateCommonNetTable("game_config", "hd_game_mode", CustomNetTables.GetTableValue("game_config", "hd_game_mode"));
+
+	UpdateCommonNetTable("game_config", "game_round", CustomNetTables.GetTableValue("game_config", "game_round"));
+
+	// $.Schedule(0.1, Update);
+})()
+
+
+
+
+

@@ -1,0 +1,42 @@
+"dota_ability_variable_all"					"All Attributes"			// $all
+"dota_ability_variable_summon_intensity"	"Summon Strength"			// $summon_intensity
+"dota_ability_variable_summon_time_intensity"	"Summon Time"			// $summon_time_intensity
+"dota_ability_variable_full_damage"				"Full Attack Damage"					// $full_damage
+"dota_ability_variable_all_attribute"				"All Attributes"					// $all_attribute
+"dota_ability_variable_probability"				"Probability Event Trigger AMP"					// $all_probability
+"dota_ability_variable_base_str"					"Base STR"					// $base_str
+"dota_ability_variable_base_int"					"Base INT"				// $base_int
+"dota_ability_variable_base_agi"					"Base Agi"					// $base_agi
+"dota_ability_variable_base_all_attribute"				"Base All Attributes"					// $base_all_attribute
+"dota_ability_variable_heal_amp"				"Heal AMP"					// $heal_amp
+"dota_ability_variable_heal_receive_amp"				"Heal Receive AMP"					// $heal_receive_amp
+
+"dota_ability_variable_positive_amp"	"Positive Amp"			// $positive_amp
+
+"dota_ability_variable_base_damage"				"Basic Attack Damage"					// $base_damage
+
+"dota_ability_variable_spell_amp"	"Spell Amp"			// $spell_amp
+"dota_ability_variable_profic"	"Proficiency"			// $profic
+"dota_ability_variable_anti_attack_range"		"<font color=\"#d9534f\">Attack Range</font><font color='#7d7d7d'>(Range Attacker Only)</font>"	// $anti_attack_range
+"dota_ability_variable_anti_attack_range_melee"		"<font color=\"#d9534f\">Attack Range</font><font color='#7d7d7d'>(Melee Only)</font>"	// $anti_attack_range_melee
+
+"dota_ability_variable_red_spell_resist"		"<font color=\"#d9534f\">Magic Resistance</font><font color='#7d7d7d'>"			// $red_spell_resist
+"dota_ability_variable_red_str"					"<font color=\"#d9534f\">Strength</font><font color='#7d7d7d'>"					// $red_str
+"dota_ability_variable_red_int"					"<font color=\"#d9534f\">Intelligence</font><font color='#7d7d7d'>"				// $red_int
+"dota_ability_variable_red_agi"					"<font color=\"#d9534f\">Agility</font><font color='#7d7d7d'>"					// $red_agi
+"dota_ability_variable_lifesteal_gain"			"Lifesteal AMP"					// $lifesteal_gain
+"dota_ability_variable_health_regeneration_amplification"			"Health Regeneration Amplification"					// $health_regeneration_amplification
+"dota_ability_variable_mana_regeneration_amplification"			"Mana  Regeneration Amplification"					// $mana_regeneration_amplification
+"dota_ability_variable_outgoing_add"	"Damage UP [+]"  //$outgoing_add
+"dota_ability_variable_outgoing_mult"	"Damage UP [×]"  //$outgoing_mult
+"dota_ability_variable_incoming"	"Take damage down"  //$incoming
+"dota_ability_variable_elite_incoming"	"Take damage down from ELITE"  //$elite_incoming
+"dota_ability_variable_elite_outgoing_add"	"Damage UP to ELITE[+]"  //$elite_outgoing_add
+"dota_ability_variable_elite_outgoing_mult"	"Damage UP to ELITE[×]"  //$elite_outgoing_mult
+"dota_ability_variable_health_pct"				"Max Health [+]"					// $health_pct
+
+"dota_ability_variable_armor_needlv"		"Armor (artifact level require)"			// $armor_needlv
+"dota_ability_variable_maxhp_regen_needlv"		"Maximum Health Regeneration (artifact level require)"			// $maxhp_regen_needlv
+"dota_ability_variable_maxmp_regen_needlv"		"Maximum Mana Regeneration (artifact level require)"			// $maxmp_regen_needlv
+"dota_ability_variable_damage_needlv"		"Attack Damage (artifact level require)"			// $damage_needlv
+"dota_ability_variable_spell_amp_needlv"		"Spell Amplification (artifact level require)"			// $spell_amp_needlv

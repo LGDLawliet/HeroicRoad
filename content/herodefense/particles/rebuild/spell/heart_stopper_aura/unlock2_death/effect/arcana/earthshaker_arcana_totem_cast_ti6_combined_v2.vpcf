@@ -1,0 +1,28 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nMaxParticles = 0
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/heart_stopper_aura/unlock2_death/effect/totem_ti6/earthshaker_totem_ti6_cast.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/heart_stopper_aura/unlock2_death/effect/arcana/earthshaker_arcana_totem_cast_v2_embers_end.vpcf"
+		},
+	]
+}

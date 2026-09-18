@@ -1,0 +1,26 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "refract.vfx"
+
+	F_USE_REFRACTED_ALPHA 1
+
+	//---- Refraction ----
+	g_flRefractScale "0.030"
+	TextureNormal "models/effects/vengeful_spirit_diffusewarp_psd_7154201a.png"
+
+	//---- Texture Transform ----
+	g_vTexCoordScale "[1.000 1.000]"
+
+
+	VariableState
+	{
+		"Refraction"
+		{
+		}
+		"Texture Transform"
+		{
+		}
+	}
+}

@@ -1,0 +1,134 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Effect Proxies ----
+	F_USE_HERO_EFFECTS_PROXY 1
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Specular ----
+	F_SPECULAR_CUBE_MAP 1
+
+	//---- Tint Self Ilum ----
+	F_TINT_SELF_ILUM 1
+
+	//---- Blend To Full ----
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/monsters/monster00123/textures/monster00123_body1_color.png"
+
+	//---- Detail 1 ----
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordScale "[1.000 1.000]"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.000"
+	TextureDetail2 "[1.000000 1.000000 1.000000 1.000000]"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "models/monsters/monster00123/textures/fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "models/monsters/monster00123/textures/fresnelwarprim.tga"
+	TextureFresnelWarpSpec "models/monsters/monster00123/textures/fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "0.000"
+	g_flBloomShift "0.000"
+	g_vBloomColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureDiffuseWarpMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureMetalnessMask "models/monsters/monster00123/textures/monster00123_body_metalnessmask.png"
+	TextureSelfIllumMask "models/monsters/monster00123/textures/monster00123_body_selfillummask.png"
+
+	//---- Mask 2 ----
+	TextureRimMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularExponent "[0.500000 0.500000 0.500000 0.000000]"
+	TextureSpecularMask "[0.500000 0.500000 0.500000 0.000000]"
+	TextureTintByBaseMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "models/monsters/monster00123/textures/monster00123_body_normal.png"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[0.545098 0.545098 0.545098 0.000000]"
+
+	//---- Specular ----
+	g_flCubeMapScalar "4.000"
+	g_flSpecularExponent "32.000"
+	g_flSpecularScale "1.000"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureCubeMap "models/monsters/monster00123/textures/monster00123_cube.psd"
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+	}
+}

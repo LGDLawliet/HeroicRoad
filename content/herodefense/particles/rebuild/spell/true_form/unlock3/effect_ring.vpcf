@@ -1,0 +1,67 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 60
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 8.0, 229.0, 96.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 61
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_HSVShiftToCP"
+			m_DefaultHSVColor = [ 234, 164, 44, 255 ]
+		},
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_vecCP1Pos = [ 75.0, 0.0, 0.0 ]
+			m_nCP1 = 7
+			m_bSetOnce = true
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/true_form/unlock3/effect_start_proj.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/true_form/unlock3/effect_start_ring.vpcf"
+		},
+		{
+			m_bEndCap = true
+			m_ChildRef = resource:"particles/rebuild/spell/true_form/unlock3/effect_start_endcap.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/true_form/unlock3/effect_ring_aura.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/true_form/unlock3/effect_rays.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/true_form/unlock3/effect_ring_dust.vpcf"
+		},
+	]
+}

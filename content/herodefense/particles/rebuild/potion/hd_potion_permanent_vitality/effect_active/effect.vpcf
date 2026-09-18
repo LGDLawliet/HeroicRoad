@@ -1,0 +1,189 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 3
+	m_ConstantColor = [ 94, 198, 167, 255 ]
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 4
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 4
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 5
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_vecCP1Pos = [ -90.0, 0.0, 0.0 ]
+			m_nCP1 = 2
+		},
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_vecCP1Pos = [ 90.0, 0.0, 0.0 ]
+			m_nCP1 = 3
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 2.0
+			}
+			m_bDisableOperator = true
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 10.0
+			}
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+			m_nOutputField = 7
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.1
+			}
+			m_nOutputField = 1
+		},
+		{
+			_class = "C_INIT_CreateSequentialPath"
+			m_flNumToAssign = 2.0
+			m_PathParams = 
+			{
+				m_nEndControlPointNumber = 2
+				m_nStartControlPointNumber = 3
+			}
+		},
+		{
+			_class = "C_INIT_InitialVelocityNoise"
+			m_vecOutputMax = [ 50.0, 50.0, 20.0 ]
+			m_vecOutputMin = [ -50.0, -50.0, -50.0 ]
+			m_flNoiseScale = 6.0
+			m_flNoiseScaleLoc = 0.04
+			m_TransformInput = 
+			{
+				m_nType = "PT_TYPE_INVALID"
+			}
+		},
+		{
+			_class = "C_INIT_InitialVelocityNoise"
+			m_vecOutputMin = [ 0.0, 0.0, 200.0 ]
+			m_vecOutputMax = [ 0.0, 0.0, 200.0 ]
+			m_TransformInput = 
+			{
+				m_nType = "PT_TYPE_INVALID"
+			}
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_FadeAndKill"
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+		},
+		{
+			_class = "C_OP_SpinUpdate"
+		},
+		{
+			_class = "C_OP_ColorInterpolate"
+			m_ColorFade = [ 74, 19, 155, 255 ]
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flStartScale = 2.0
+			m_flEndScale = 2.0
+			m_flBias = 0.9
+		},
+		{
+			_class = "C_OP_PositionLock"
+		},
+		{
+			_class = "C_OP_MovementRotateParticleAroundAxis"
+			m_flRotRate = 360.0
+		},
+		{
+			_class = "C_OP_SetChildControlPoints"
+			m_nNumControlPoints = 2
+			m_nFirstControlPoint = 4
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/particle_glow_02.vtex"
+				},
+			]
+			m_bDisableOperator = true
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/potion/hd_potion_permanent_vitality/effect_active/effect_init.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/potion/hd_potion_permanent_vitality/effect_active/effect_trail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/potion/hd_potion_permanent_vitality/effect_active/effect_glyph.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/potion/hd_potion_permanent_vitality/effect_active/effect_pulse.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/potion/hd_potion_permanent_vitality/effect_active/effect_trail2.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/potion/hd_potion_permanent_vitality/effect_active/effect_glyphtrail.vpcf"
+		},
+	]
+}

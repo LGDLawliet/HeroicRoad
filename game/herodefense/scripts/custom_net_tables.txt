@@ -1,0 +1,39 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	custom_net_tables =
+	[
+		"playerSpellLevelInfo",   //储存技能信息 key为  玩家ID(int)_技能名   value 为等级
+		"spell_info",             //储存一些需要传到客户端的信息
+		// "player",
+		"fellOmenInfo",             //储存百相等级
+		"common",
+		"spell_data",   //储存技能的一些数据
+		"game_data", //游戏数据 如北京时间
+
+
+		"game_config",  //游戏配置信息  将那些固定的数据 与只在载入时产生变化的数据放到这
+
+		"chaoticEraData",  //乱纪元用的数据
+		"RuneData",  //符石数据
+		"equipment_slot",  //神器
+		"artifactParentRecord", //parent有时候会获取不到 因此用云文档来传输
+		
+	]
+}
+
+
+
+
+
+// 备份
+		// "relics",
+		// "dps",
+		// "boss",
+		// "respawns_remaining",
+		// "revive_state",
+		// "zone_scores",
+		// "player_zone_locations", 
+		// "zone_names",
+		// "vips",
+		// "crypt_holdout",
+		// "playerInfo",

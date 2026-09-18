@@ -1,0 +1,5 @@
+"Layer0"
+{
+	"Shader"		"global_lit_simple.vfx"
+	"TextureColor"		"materials/models\custom/shrooomtree_1_l2_bark_color.png"
+}

@@ -1,0 +1,5533 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	GameStart.DireAncient = 
+	{
+		type = "dota_null_start"
+	}
+	GameStart.RadiantAncient = 
+	{
+		type = "dota_null_start"
+	}
+	awolnation_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	awolnation_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	deadmau5_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	dsadowski_02.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jboberg_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jbrice_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	jlin_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mhawken_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	mlange_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	terrorblade_arcana.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	thefatrat_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_dota_001.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti10.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti4.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti5.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti6.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti7.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti8.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti9.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	yaskar_01.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti11.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti12.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti13.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti14.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti15.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti16.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti17.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti18.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti19.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti20.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti21.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti22.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti23.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti24.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti25.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti26.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti27.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti28.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti29.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.stinger.respawn = 
+	{
+		type = "dota_music_respawn"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_ti30.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+
+
+	valve_2024_1.music.ui_startup = 
+	{
+		type = "dota_update_ui_startup"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.ui_main = 
+	{
+		type = "dota_update_ui_main"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.ui_hero_select = 
+	{
+		type = "dota_update_hero_select"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.roshan = 
+	{
+		type = "dota_update_roshan"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.roshan_end = 
+	{
+		type = "dota_update_roshan_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2024_1.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+
+
+
+
+
+	valve_2021.music.ui_startup = 
+	{
+		type = "dota_update_ui_startup"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.ui_main = 
+	{
+		type = "dota_update_ui_main"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.ui_hero_select = 
+	{
+		type = "dota_update_hero_select"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.countdown = 
+	{
+		type = "dota_update_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.battle_end_countdown = 
+	{
+		type = "battle_end_countdown"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.laning_01_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.laning_01_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.laning_01_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.laning_02_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.laning_02_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.laning_02_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.laning_03_layer_01 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.laning_03_layer_02 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.laning_03_layer_03 = 
+	{
+		type = "dota_update_music_3layer"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.battle_01_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.battle_02_end = 
+	{
+		type = "dota_update_battle_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.battle_03_end = 
+	{
+		type = "dota_update_battle_end"
+	vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.roshan = 
+	{
+		type = "dota_update_roshan"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.roshan_end = 
+	{
+		type = "dota_update_roshan_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.smoke = 
+	{
+		type = "dota_update_smoke"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.smoke_end_hero = 
+	{
+		type = "dota_update_smoke_end_hero"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.smoke_end_tower = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.smoke_end_creep = 
+	{
+		type = "dota_update_smoke_end"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.ganked_sml = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.ganked_med = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.ganked_lg = 
+	{
+		type = "dota_update_ganked_music"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+	valve_2021.music.killed = 
+	{
+		type = "dota_update_killed"
+		vsnd_files = "sounds/music/null.vsnd"
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

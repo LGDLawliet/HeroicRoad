@@ -1,0 +1,101 @@
+
+
+
+
+
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack"	"Lightning"
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_Description"	"Release several lightning bolts, forming a lightning beam in a specific direction. The lightning beam will damage and electrify enemies it hits, increasing the incoming lightning damage."
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_Lore"	"Barr's basic attack is already a miracle for mortals."
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_Note0"	"Note: Deals %immunity_damage_index%%% damage to magic immune units.."
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_base_damage"	"Base Damage:"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_bonus_damage"	"Bonus Damage: Full ATK x "
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_lightning_bonus_damage"	"%Electric Shock Effect:"
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_barr_thunder_debuff"              "Electric Shock"
+"DOTA_Tooltip_modifier_creeps_spell_barr_thunder_debuff_Description"  "Electric Damage Taken Increased by %dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+
+
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword"	"Thunderstorm"
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_Description"	"Locates all heroes' current positions and charges in a random order, performing a slashing attack. Deals lightning physical damage to enemies along the path and inflicts electrification."
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_Lore"	"A means of swiftly moving using lightning, but due to Bal's divine power, even simple movements have a tremendous impact on mortals."
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_Note0"	"Note: Deals %immunity_damage_index%%% damage to magic immune units.."
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_base_damage"	"Base Damage:"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_bonus_damage"	"Bonus Damage: Full ATK x "
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_lightning_bonus_damage"	"%Electric Shock Effect:"
+
+
+
+
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element"	"Arclight Spirit"
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_Description"	"Barr will summon two Arclight Sprites that inherit some of its attributes. The Arclight Sprites will guard around Barr and release lightning beams at regular intervals, dealing damage and Electric Shock to enemies. Additionally, based on the damage dealt, they will heal Barr."
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_Lore"	"Barr's tail harbors the element of lightning. In crucial moments, he can summon Lightning Sprites to aid him in battle."
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_Note0"	"Note: Deals %immunity_damage_index%%% damage to magic immune units."
+
+
+
+
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_bonus_health"	"%Inherits Health:"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_bonus_armor"	"%Inherits Armor:"
+
+
+
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_base_damage"	"Base Damage:"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_bonus_damage"	"Bonus Damage: Full ATK x "
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_interval"	"Release Interval: "
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_healing_index"	"%Damage to Heal: "
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_lightning_bonus_damage"	"%Electric Shock Effect:"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_creeps_spell_greater_resistance"	"Greater Resistance"
+
+"DOTA_Tooltip_ability_creeps_spell_greater_resistance_Description"	"Immune to stun, silence, immobilize, and various other negative effects."
+"DOTA_Tooltip_ability_creeps_spell_greater_resistance_Lore"	"Resistance commonly possessed by legendary creatures, providing advanced resistance against various negative effects."
+
+
+
+"DOTA_Tooltip_ability_creep_act1_treasure"	"Gatekeeper's Test"
+"DOTA_Tooltip_ability_creep_act1_treasure_Description"    "<h1>Passive: Soul Guidance</h1>In the level, the Gatekeeper will be the first to appear. In multiplayer mode, it will appear in the center of the world.<br><br>Killing the Gatekeeper within %time% seconds will grant all allied heroes a random amount of gold. For each additional player. If the time limit is exceeded, the Gatekeeper will return to its origin and leave, while applying a stack of 'Soul Lamp' to all players, increasing the damage they take by %incoming%%% and reducing the damage they deal by %outgoing%%% [×], lasting for %duration% seconds.<br><h1>Passive: Weak Poison Resistance</h1>The Gatekeeper's poison resistance is reduced by %poison_res%%%. When poisoned units take damage, they also receive an additional %poison_res%%% damage."
+"DOTA_Tooltip_ability_creep_act1_treasure_Lore" 	    "Are you the blade or the rusted iron?"
+"DOTA_Tooltip_ability_creep_act1_treasure_Note0" 	    "The Gatekeeper will not appear in levels 4, 6, 8, 9, 14, 18, 19, 20, and 25."
+"DOTA_Tooltip_ability_creep_act1_treasure_gold"	"Base Reward Gold:"
+"DOTA_Tooltip_ability_creep_act1_treasure_gold_min"	"Minimum Gold Growth per Round:"
+"DOTA_Tooltip_ability_creep_act1_treasure_gold_max"	"Maximum Gold Growth per Round:"
+"DOTA_Tooltip_modifier_creep_act1_treasure"	"Gatekeeper's Test Countdown"
+"DOTA_Tooltip_modifier_creep_act1_treasure_debuff"	"Soul Lamp"
+"DOTA_Tooltip_modifier_creep_act1_treasure_debuff_Description"	"Deals less damage and takes more damage"
+
+"DOTA_Tooltip_ability_supreme_spell_nevermore_basic"	"King of Shadows"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_basic_Description"    "An excess of souls converge to form the King of Shadows. Nevermore is initially invincible for %start_duration% seconds.\n<h1>Entrance: Reservation for the Collection</h1>Upon entering, Nevermore teleports to the center of the map, instantly killing all summons with a full-screen attack, setting all heroes' health to 1 and applying a lifesteal immunity status, lasting for %start_duration% seconds. If any hero's health is fully restored during this time, the status is removed, and Nevermore's invincibility duration is reduced by %each_bingo% seconds.\n<h1>Finale: Requiem of Souls</h1>Nevermore has a combat limit of %all_limit_time% seconds, which is reduced by %each_time_left% seconds for each additional player. If he is not defeated by the end of this time, he will teleport to the center of the map, and after channeling for %end_channel_time% seconds, he will unleash an attack that wipes out the entire team."
+"DOTA_Tooltip_ability_supreme_spell_nevermore_basic_Lore" 	    "Before I add you to my collection, let me see what you are capable of!"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_p0"	"Reservation for the Collection"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_p0_Description"	"Rapidly restore to full health within the duration!"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_check"	"Requiem of Souls Countdown"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_check_Description"	"Your journey is destined to end.."
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_end_check"	"Team Wipe Countdown"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_basic_end_check_Description"	"Welcome to the collection, make yourself at home.."
+
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal"	"Soul Collection"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal_Description"    "<h1>Passive: Soul Guidance</h1>When Nevermore enters, he recovers all 'Soul Lamp' effects from all players. For each 'Soul Lamp' recovered, he gains %incoming%%% damage reduction, up to a maximum of %incoming_max%%%.<br><h1>Passive: Soul Collector</h1>When a unit dies, Nevermore absorbs its soul, restoring %hp_get%%% of his maximum health. When a hero unit dies, the restoration effect is increased by %index%%%.<br><h1><font color='#F0FFFF'>Awakening: Corpse of Souls</font></h1>When health is below %tri_line%%%, he enters a lock health state for %tri_duration% seconds, then loses his attack capability and continuously deals massive damage to all units on the field. Magic immune units take half damage."
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal_Lore" 	    "The Gatekeeper has proven that you are just scrap metal!"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal_damage"	"Base Damage per Second of Corpse of Souls: Full Attack Power x"
+"DOTA_Tooltip_ability_supreme_spell_nevermore_normal_damage_pct"	"Additional Damage per Second of Corpse of Souls: Target's Maximum Health x"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_normal"	"Soul Guidance"
+"DOTA_Tooltip_modifier_supreme_spell_nevermore_normal_Description"	"Recovers Soul Lamps, reducing incoming damage"

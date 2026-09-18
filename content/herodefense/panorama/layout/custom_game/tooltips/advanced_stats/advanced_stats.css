@@ -1,0 +1,91 @@
+#Contents.unitStatsRoot {
+  background-color: black;
+  flow-children: down;
+  padding: 0px;
+  border: 0px;
+  background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#AdvancedAttributeContainer {
+  width: 540px;
+  height: 200px;
+  flow-children: right;
+  
+}
+#AdvancedAttribute1 {
+  width: 50%;
+  height: 100%;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+  padding: 4px;
+  background-image: url("s2r://panorama/images/hud/reborn/hud_custom_ti11/ability_bg_psd.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+#AdvancedAttribute2 {
+  width: 50%;
+  height: 100%;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+  padding: 4px;
+  background-image: url("s2r://panorama/images/hud/reborn/hud_custom_ti11/ability_bg_psd.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.ContainerHeader {
+  font-family: TitleFont;
+  font-size: 25px;
+  horizontal-align: center;
+  color: white;
+  letter-spacing: 2px;
+  font-weight: bold;
+  color: #656565;
+  margin-bottom: 5px;
+  text-align: center;
+  width: 100%;
+  box-shadow:rgba(0, 0, 0,1) 0px 0px 102px 0px;
+}
+.StatRow {
+  height: 20px;
+}
+.StatName {
+  font-weight: normal;
+  horizontal-align: left;
+  font-size: 16px;
+  margin-left: 8px;
+  color: #a2a2a2;
+  text-overflow: shrink;
+  max-width: 150px;
+}
+.BaseValue {
+  color: white;
+  text-align: left;
+  margin-left: 154px;
+  font-size: 16px;
+  text-overflow: shrink;
+}
+.AdditionalValue {
+  width: fill-parent-flow(1);
+  margin-left: 0px;
+  text-overflow: shrink;
+}
+.BonusValue {
+  color: #3ed038;
+  font-size: 16px;
+  text-overflow: shrink;
+}
+.NegativeValue .BonusValue {
+  color: red;
+}
+.NoBonus .BonusValue {
+  visibility: collapse;
+}

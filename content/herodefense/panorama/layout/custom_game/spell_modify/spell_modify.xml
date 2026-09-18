@@ -1,0 +1,103 @@
+<root>
+    <styles>
+		<include src="s2r://panorama/layout/custom_game/spell_modify/spell_modify.css"/>
+	
+	</styles>
+	
+	<scripts>
+		<include src="s2r://panorama/layout/custom_game/spell_modify/spell_modify.js"/>
+	</scripts>
+	
+
+    <snippets>
+
+        <!-- 技能画布2 -->
+        <snippet name="spell">
+            <Panel class="SingleSpellPanel">
+                <Button id="SingleSpellPanelButton">
+                    <Panel id="HeroBorder"/>
+                    <Panel id="SingleSpellImage">
+                        <DOTAAbilityImage id="SingleSpellPictureImage"/>
+                    </Panel>
+                </Button>
+            </Panel>
+        </snippet>
+
+
+        <snippet name="modifyOption">
+            <Panel class="SinglemodifyOptionPanel">
+                <Panel id="spellModify" class="spellModifyClass" hittest="true">
+                    <Label id="Bonus_Attributes_Label" class = "Bonus_Attribues_Label_base" text="attribute" />
+                    <!-- <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="500" value="0" onvaluechanged="BonusAttributesQuantityChanged(1)" /> -->
+                    <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="500" value="0"  />
+                  </Panel>
+            </Panel>
+        </snippet>
+
+
+
+
+    
+
+
+
+    </snippets>
+
+
+
+	
+    <Panel hittest="false" class="spell_modifyRoot">
+
+        <Panel id="spell_modifyPanel" hittest="false" class="Visible">
+            <Button id="spell_modifyMenuOpenButton" onactivate="Openspell_modifyMenu();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_spell_modify')" onmouseout="DOTAHideTextTooltip()">  </Button>
+        </Panel>
+
+
+
+        <Panel id="spell_modifyMenuwindowROOT" hittest="false" class="">
+            <Panel id="spell_modifyMenuwindow" hittest="false" class="">
+                <Button id="ClosePanelButton" onactivate="ClosePanel();">  </Button> 
+
+                <Label id="spell_modifyTitle" text="#DOTA_HUD_spell_modify_title" />
+                <Panel id="spell_modify_SpellList" hittest="true" class="">
+                </Panel>
+                <Panel id="spell_modify_OptionList" hittest="true" class="">
+
+                    <Label id="spell_modifyInfo_currentPoint" text="#DOTA_HUD_spell_modify_current_point" />
+                    <Panel id="spell_modify_OptionList_content" hittest="true" class="">
+
+                       
+                    </Panel>
+
+                    <Button id="SendBonusAttributes"  onactivate="SendBonusAttributes();" >   
+                        <Label class="Confirm_Label" text="#DOTA_HUD_spell_modify_send"></Label>
+                      </Button>
+                </Panel>
+         
+
+
+
+            </Panel>
+     
+            
+
+            
+         
+
+
+
+        </Panel>
+ 
+
+
+
+
+
+
+
+
+    </Panel>
+	
+
+
+</root>

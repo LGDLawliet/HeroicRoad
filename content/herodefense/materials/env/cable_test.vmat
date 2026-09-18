@@ -1,0 +1,18 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "cables.vfx"
+
+	//---- Color ----
+	g_vColorTint "[0.964706 1.000000 0.000000 0.000000]"
+	TextureColor "[1.000000 1.000000 1.000000 1.000000]"
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+	}
+}

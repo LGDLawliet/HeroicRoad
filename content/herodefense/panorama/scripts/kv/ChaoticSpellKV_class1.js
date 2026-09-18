@@ -1,0 +1,90 @@
+GameUI.CustomUIConfig().ChaoticSpellKV_class1 = {
+	"chaotic_ray_of_sickness": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_burning_hands": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_witch_bolt": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_bless": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_armor_of_agathys": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_shield_of_faith": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_heroism": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_Grease": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_false_life": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_ice_knife": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_magic_missile": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_fog_cloud": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_breath_focus": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_rune3_tir": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_rune4_nef": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_vashak_prophecy": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_summon_the_beast_king_guard": {
+		"class_level": 1,
+		"weight": 300,
+	},
+	"chaotic_stealth": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_holy_slash": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_tri_heal": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_guardian_block": {
+		"class_level": 1,
+		"weight": 100,
+	},
+	"chaotic_strong_hit": {
+		"class_level": 1,
+		"weight": 100,
+	},
+};

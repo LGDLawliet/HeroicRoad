@@ -1,0 +1,70 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf45:version{73c3d623-a141-4df2-b548-41dd786e6300} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nMaxParticles = 0
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_dark.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_graphic.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_target.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_rings.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_dust.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_flash.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_caustic.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_burst.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_leaves_burst.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_leaves.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_streaks.vpcf"
+			m_flDelay = 0.5
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_swirl.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/sharpshooter/effect_rays.vpcf"
+		},
+	]
+}

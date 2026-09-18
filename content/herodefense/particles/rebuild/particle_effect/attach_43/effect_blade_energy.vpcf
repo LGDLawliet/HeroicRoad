@@ -1,0 +1,180 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 32
+	m_flConstantRadius = 18.0
+	m_flConstantLifespan = 0.25
+	m_ConstantColor = [ 255, 255, 255, 150 ]
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 7
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_nCP1 = 4
+			m_bUseWorldLocation = true
+			m_vecCP1Pos = [ 0.0, 0.0, 0.0 ]
+			m_bSetOnce = true
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_SetControlPointOrientation"
+			m_nCP = 4
+			m_bUseWorldLocation = true
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_SetControlPointFromObjectScale"
+			m_nCPOutput = 5
+			m_bDisableOperator = true
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flEmitRate = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 5.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_InitFromCPSnapshot"
+			m_nControlPointNumber = 6
+			m_nAttributeToRead = 0
+			m_nLocalSpaceCP = 4
+			m_bRandom = true
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_INIT_CreateOnModel"
+		},
+		{
+			_class = "C_INIT_RandomRadius"
+			m_flRadiusMax = 35.0
+			m_flRadiusMin = 25.0
+		},
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMin = 1.0
+			m_fLifetimeMax = 2.0
+		},
+		{
+			_class = "C_INIT_RandomSequence"
+			m_nSequenceMax = 2
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+		},
+		{
+			_class = "C_INIT_RandomAlpha"
+			m_nAlphaMin = 150
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMin = [ 156, 87, 217, 255 ]
+			m_ColorMax = [ 104, 66, 255, 255 ]
+		},
+		{
+			_class = "C_INIT_PositionWarp"
+			m_nControlPointNumber = 4
+			m_nScaleControlPointNumber = 5
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_INIT_DistanceToCPInit"
+			m_flInputMin = 40.0
+			m_flInputMax = 65.0
+			m_nFieldOutput = 16
+			m_flOutputMin = 1.0
+			m_flOutputMax = 0.0
+			m_nStartCP = 4
+			m_nSetMethod = "PARTICLE_SET_SCALE_INITIAL_VALUE"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_INIT_DistanceToCPInit"
+			m_flInputMin = 50.0
+			m_flInputMax = 65.0
+			m_flOutputMin = 1.0
+			m_flOutputMax = 0.25
+			m_nStartCP = 4
+			m_nSetMethod = "PARTICLE_SET_SCALE_INITIAL_VALUE"
+			m_bDisableOperator = true
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_MovementRigidAttachToCP"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flEndScale = 2.5
+		},
+		{
+			_class = "C_OP_FadeOutSimple"
+			m_flFadeOutTime = 0.5
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			VisibilityInputs = 
+			{
+				m_flCameraBias = -5.0
+			}
+			m_flOverbrightFactor = 6.0
+			m_flAnimationRate = 0.5
+			m_flDepthBias = -5.0
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/water/caustic/caustic.vtex"
+				},
+			]
+			m_nOutputBlendMode = "PARTICLE_OUTPUT_BLEND_MODE_ADD"
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/attach_43/effect_blade_magic.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/attach_43/effect_blade_elec.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/attach_43/effect_blade_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/particle_effect/attach_43/effect_blade_edge.vpcf"
+		},
+	]
+}

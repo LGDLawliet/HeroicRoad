@@ -1,0 +1,131 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_nInitialParticles = 1
+	m_flConstantRadius = 0.0
+	m_nConstantSequenceNumber = 1
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_StatusEffect"
+			m_flDetail2Scale = 1.0
+			m_flColorWarpIntensity = 0.0
+			m_nDetail2Combo = "DETAIL_2_COMBO_CROSSFADE"
+			m_flRimLightScale = 8.0
+			m_flSpecularScale = 255.0
+			m_flSpecularExponentBlendToFull = 10.0
+			m_flMetalnessBlendToFull = 0.2
+			m_specularColor = [ 255, 0, 0 ]
+			m_rimLightColor = [ 229, 23, 23 ]
+			m_flDetail2Rotation = 50.0
+			m_flDetail2BlendFactor = 5.0
+			m_flAmbientScale = 5.0
+			m_flSpecularExponent = 1.0
+			m_flSpecularBlendToFull = 0.5
+			m_flReflectionsTintByBaseBlendToNone = 0.0
+			m_flSelfIllumBlendToFull = 0.0
+		},
+		{
+			_class = "C_INIT_RandomScalar"
+			m_flMin = 0.25
+			m_flMax = 0.125
+			m_nFieldOutput = 7
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_INIT_RandomVectorComponent"
+			m_flMin = 25.0
+			m_flMax = -1.0
+			m_nFieldOutput = 2
+			m_bDisableOperator = true
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_Rate = 5.0
+			m_flEndTime = 340282346638528859811704183484516925440.0
+			m_nField = 5
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+			m_flFadeInTime = 0.5
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_OFF"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flBias = 0.25
+			m_bEaseInAndOut = true
+			m_flStartScale = 0.95
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_OFF"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_flEndTime = 9999.0
+			m_Rate = -4.0
+			m_nField = 7
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_RadiusDecay"
+			m_flMinRadius = 0.25
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_flEndTime = 999999.0
+			m_Rate = -1.0
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_flEndTime = 999999.0
+			m_Rate = -4.0
+			m_nField = 4
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_ClampScalar"
+			m_nFieldOutput = 4
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_EndCapTimedDecay"
+			m_flDecayTime = 0.125
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_Rate = -4.0
+			m_nField = 13
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_Decay"
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderStatusEffect"
+			m_pTextureDetail2 = resource:"materials/particle/electricity/electricity_20_b.vtex"
+			m_pTextureColorWarp = resource:"materials/models/heroes/statuseffects/colorwarp_effigy_wintermajor_2016.vtex"
+		},
+	]
+}

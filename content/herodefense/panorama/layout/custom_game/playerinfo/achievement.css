@@ -1,0 +1,640 @@
+#playerAchievementMenuwindowROOT{
+    width: 100%;
+    height: 100%;
+    align: right bottom;
+    background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    visibility: collapse;
+    
+
+}
+#playerAchievementMenuwindowROOT.Visible {
+    visibility: visible;
+}
+
+#AchievementWindowPanel{
+    overflow:squish scroll;  
+    flow-children: down;
+    width: 99%;
+    height: 80%;
+    z-index: 0;
+    /* background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123)); */
+    /* box-shadow: rgb(88, 88, 88) 0px 0px 5px 0px; */
+    background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d33), to(#00112333));
+    /* box-shadow: rgba(88, 88, 88,0.1) 0px 0px 5px 0px; */
+    border:2px solid rgba(63, 63, 63,0.5);
+
+    margin-top: 150px;
+    margin-left: 10px;
+}
+ 
+.SingleAchievement{
+    width: 100%;
+    height: 185px;
+    background-color:  gradient(linear, 0% 0%, 90% 90%, from(#313131), to(#001123));
+    margin-top: 10px;
+    margin-left: 10px;
+    /* box-shadow: rgb(255, 255, 255) 0px 0px 0px 5px; */
+    box-shadow:   inset -4px -4px -0px 0px rgba(38, 39, 54, 0.8);
+}
+
+.SingleAchievement_space{
+    width: 100%;
+    height: 60px;
+    /* background-color:  gradient(linear, 0% 0%, 90% 90%, from(#252642), to(#001e3d)); */
+    margin-top: 10px;
+    margin-left: 10px;
+    box-shadow: #000000 0px 0px 100px 00px;
+    /* box-shadow:   inset -4px -4px -0px 0px rgba(38, 39, 54, 0.8); */
+    z-index: -1;
+}
+
+.SingleAchievementanel{
+    width: 100%;
+    height: 100%;
+    flow-children: right-wrap;
+}
+#AchievementSpace{
+    width: 10%;
+    height: 100%;
+    border-left:10px solid rgb(102, 102, 102);
+}
+#SingleAchievementImage{
+    width: 120px;
+    height: 180px;
+    border:2px solid rgb(48, 48, 48);
+    box-shadow: rgb(37, 37, 37)  0px 0px 3px 0px; 
+    border-bottom:1px solid rgb(48, 48, 48);
+}
+#SingleAchievementImage_small{
+    width: 100px;
+    height: 150px;
+    border:2px solid rgb(48, 48, 48);
+    box-shadow: rgb(37, 37, 37)  0px 0px 3px 0px; 
+    border-bottom:1px solid rgb(48, 48, 48);
+}
+
+
+
+#abilityImage{
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+
+}
+#noramImage{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-image: url("s2r://panorama/images/trophies/aghslab2021_battle_pass_cavern_level_3_png.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border:2px solid rgb(48, 48, 48);
+    box-shadow: rgb(37, 37, 37)  0px 0px 3px 0px; 
+    border-bottom:1px solid rgb(48, 48, 48);
+}
+
+
+
+
+#RelicImage{
+    ui-scale: 60%;
+    transform: translate3d( 1px, 1px, 0px );
+    brightness: 1;
+    horizontal-align: center;
+    width: 280px;
+    height: 318px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    transition-property: pre-transform-scale2d;
+    transition-duration: 0.32s, 1.5s, 1.9s;
+    transition-timing-function: ease-in;
+}
+#RelicImage:hover{
+    brightness: 1.5;
+    pre-transform-scale2d: 1.1;
+}
+.showAchievement
+{
+    sound: "ui_rollover_micro";
+	animation-name: showAchievement;
+	animation-duration: 0.50s;
+	animation-delay: 0.15s;
+	animation-timing-function: linear;
+	animation-iteration-count: 1;
+}
+
+
+
+@keyframes 'showAchievement'
+{
+	0%
+	{
+		pre-transform-scale2d: 1.8;
+	}
+				
+	100%
+	{
+		pre-transform-scale2d: 1.0;
+	}
+}
+
+
+
+
+
+
+#RelicImageMain{
+    opacity-mask: url("s2r://panorama/images/hero_relics/hero_relic_rare_mask_psd.vtex");
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+
+}
+#RelicImageBorder{
+    background-image: url("s2r://panorama/images/hero_relics/hero_relic_rare_border_normal_psd.vtex");
+    transform: translateY(7px);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+#RelicImageColored{
+    /* saturation: 0.0; */
+    brightness: 1.9;
+    contrast: .95;
+    /* 颜色 */
+    /* wash-color: #24abff; */
+    background-color: #252525;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+#RelicImageOverlay{
+    opacity-mask: url("s2r://panorama/images/hero_relics/h_hero_relic_rare_topbottombrightness_mask_psd.vtex");
+    brightness: 8.0;
+    /* saturation: 0.0; */
+    contrast: .95;
+    /* 颜色 */
+    /* wash-color: #ffbb41; */
+    
+    background-color: #252525;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+#RelicImageInternal1,
+#RelicImageInternal2{
+    margin: 20px;
+    margin-top: 30px;
+    width: 100%;
+    height: 100%;
+    /* background-image: url("file://{images}/spellicons/dazzle_poison_touch.png"); */
+    /* background-image: url("s2r://panorama/images/trophies/aghslab2021_battle_pass_cavern_level_3_png.vtex"); */
+    /* background-image: url("s2r://panorama/images/trophies/aghslab2021_battle_pass_level_4_png.vtex"); */
+    /* 技能图片 */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+.RelicImageShadow{
+    background-image: url("s2r://panorama/images/hero_relics/h_hero_relic_rare_innershadow_psd.vtex"), url("s2r://panorama/images/hero_relics/h_hero_relic_rare_shine_psd.vtex");
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+#RelicGlow{
+    width: 100%;
+    brightness: 4;
+    height: 100%;
+    margin-top: 10px;
+    /* wash-color: #ffbb41; */
+    /* background-image: url("s2r://panorama/images/hero_relics/hero_relic_glow_rare_psd.vtex"); */
+    wash-color: #ffbb41;
+    background-image: url("s2r://panorama/images/custom_game/hero_relic_glow_rare.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    pre-transform-scale2d: 1.00001;
+    /* opacity-mask: url("s2r://panorama/images/masks/bg_vignette_psd.vtex"); */
+
+}
+
+
+/* 介绍 */
+#AchievementLeft{
+    margin-left: 5px;
+    margin-top: 15px;
+    width: 400px;
+    height: 150px;
+    /* border:1px solid rgb(71, 71, 71); */
+    border-left:0px solid rgb(71, 71, 71);
+    flow-children: down-wrap;
+    box-shadow: rgb(0, 0, 0) 0px 0px 100px;
+    border-right:1px solid rgb(49, 49, 49); 
+}
+
+
+#AchievementTitle{
+    height: 25px;
+    width: 90%;
+    margin-left: 16px;
+
+    font-size: 20px;
+    color: white;
+    /* background-color: #252525; */
+    /* vertical-align: center; */
+    horizontal-align: left;
+    font-family: titleFont;
+    box-shadow: rgb(0, 0, 0) 0px 0px 10px;
+    /* border-bottom:5px solid rgb(0, 0, 0); */
+    /* border-bottom: 2px solid rgb(88, 88, 88); */
+}
+
+#AchievementInfo{
+    /* height: 40px; */
+    /* margin-top: 50px; */
+    width: 90%;
+    height: 70px;
+    font-size: 14px;
+    color: rgb(136, 140, 177);
+    box-shadow: rgb(20, 20, 20) 0px 0px 30px;
+    horizontal-align: center;
+    font-family: defaultFont;
+    
+}
+#AchievementInfo2{
+    height: 45px;
+    width: 90%;
+    font-size: 13px;
+    color: rgb(71, 71, 71);
+    box-shadow: rgb(0, 0, 0) 0px 0px 25px;
+    horizontal-align: center;
+    font-family: defaultFont;
+}
+
+
+
+.horizontalSpace{
+   
+    width: 95%;
+    height: 1px;
+    z-index: 5;
+    margin-bottom: 3px;
+    background-color: #706f6f;
+    horizontal-align: center;
+
+}
+.horizontalSpace.topMargin{
+    margin-top: 5px;
+}
+
+
+.verticalSpace{
+   
+    width: 1px;
+    height: 95%;
+    z-index: 5;
+    /* margin-bottom: 3px; */
+    background-color: #706f6f;
+    vertical-align: center;
+
+}
+
+
+#Achievement_Progress{
+    width: 300px;
+    height: 100%;
+    margin-left: 20px;
+    flow-children: down-wrap;
+    box-shadow: rgb(0, 0, 0) 0px -200px 100px;
+}
+
+
+
+#Achievement_ProgressTitle{
+    height: 25px;
+    width: 90%;
+    margin-left: 16px;
+
+    font-size: 20px;
+    color: white;
+    /* text-align: center; */
+    /* background-color: #252525; */
+    /* vertical-align: center; */
+    horizontal-align: left;
+    font-family: titleFont;
+    /* box-shadow: rgb(0, 0, 0) 0px -200px 100px; */
+    z-index: 1;
+    /* border-bottom:5px solid rgb(0, 0, 0); */
+    /* border-bottom: 2px solid rgb(88, 88, 88); */
+}
+
+
+#AchievementBar_Progress{
+    margin-top: 10px;
+    width: 100%;
+    height: 30px;
+    border-radius:10px;
+    /* background-color: rgba(85, 85, 85, 0.2); */
+    border: 2px solid #000000;
+    vertical-align: top;
+    horizontal-align: left;
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 0px 10px; */
+    z-index: 10;
+}
+#AchievementBar_Progress:hover{
+    brightness: 2.0;
+}
+#AchievementBar_Progress_Right{
+    background-color:gradient( linear, 0% 0%, 0% 100%, from( #101932 ), color-stop( 0.2, #172447 ), color-stop( .5, #162244), to( #101932 ) );
+    width:400.0px;
+    height:100%;
+    border-radius:0px;
+    brightness:1;
+}
+#AchievementBar_Progress_Left{
+    background-color:gradient( linear, 0.0% 50.0%, 80.0% 50.0%, color-stop( 0.0, #000E3DFF ), color-stop( 0.80, #003983FF ), color-stop( 0.90, #0431A3FF ), color-stop( 1.0, #0199C7CC ) );
+    width:100%;
+    height:100%;
+    border-radius:10px;
+    brightness:1;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+
+/* 经验条文本 */
+#AchievementBar_Progress_text{
+    font-family: defaultFont;
+    font-size: 28px;
+    height: 46px;
+    z-index: 2;
+    text-align: center center;
+    horizontal-align: center;
+    text-overflow: shrink;
+    color: #d1d1d1;
+
+}
+
+
+#AchievementBonusRoot{
+    height: 100%;
+    width: 100%;
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 100px; */
+    margin-top: 5px;
+    flow-children: down-wrap;
+    
+}
+
+#AchievementBonusTitle{
+    margin-top: 5px;
+    height: 25px;
+    width: 90%;
+    margin-left: 16px;
+    font-size: 20px;
+    color: rgb(192, 192, 192);
+    horizontal-align: left;
+    font-family: titleFont;
+}
+.AchievementBonus{
+    /* margin-top: 1px; */
+    height: 18px;
+    width: 90%;
+    margin-left: 7px;
+    font-size: 15px;
+    color: rgb(153, 181, 189);
+    horizontal-align: left;
+    font-family: defaultFont;
+    /* border-left: 1.1px solid #494949; */
+}
+
+#CheckAchievementButton1,
+#CheckAchievementButton2,
+#CheckAchievementButton3,
+#CheckAchievementButton4 {
+    align: left top;
+}
+#CheckAchievementButton1 {
+    margin-left: 10px;
+}
+#CheckAchievementButton2 {
+    margin-left: 260px;
+}
+#CheckAchievementButton3 {
+    margin-left: 510px;
+}
+#CheckAchievementButton4{
+    margin-left: 760px;
+}
+
+.achievement_active{
+    box-shadow: rgba(255, 255, 255,0.2) 0px 0px 10px 0px;
+    brightness: 2.4;
+}
+
+
+#CheckAchievementButton1:hover,
+#CheckAchievementButton2:hover,
+#CheckAchievementButton3:hover,
+#CheckAchievementButton4:hover {
+    box-shadow: rgba(255, 255, 255,0.2) 0px 0px 10px 0px;
+    brightness: 2.4;
+}
+#Achievement_State{
+    width: 300px;
+    height: 100%;
+    margin-left: 20px;
+    flow-children: down-wrap;
+    box-shadow: rgb(0, 0, 0) 0px -200px 200px;
+
+}
+
+#GetAchievementBonusButton{
+    align: left top;
+    width: 200px;
+    /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+    background-image: url("s2r://panorama/images/hud/reborn/hud_custom_ti11/ability_bg_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 0;
+    padding: 15px;
+    border-radius: 5px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+    margin-top: 20px;
+    horizontal-align: center;
+    /* brightness: 1.5; */
+    border:1px solid rgba(99, 99, 99,0.3);
+    /* wash-color: rgba(99, 99, 99,0.3); */
+    /* brightness: 0.2; */
+    /* saturation: 0.0; */
+}
+#GetAchievementBonusButton.unActive{
+    brightness: 0.2;
+}
+#GetAchievementBonusButton.active{
+    brightness: 1;
+}
+
+#GetAchievementBonusButton.active:hover{
+    brightness: 2;
+}
+
+
+
+#Achievement_StateInfo{
+    width: 100%;
+    height: 75px;
+    flow-children: right-wrap;
+    border-top:1px solid rgba(99, 99, 99,0.3);
+    /* box-shadow: rgb(0, 0, 0) 0px -0px 10px; */
+    /* border-bottom:1px solid rgba(231, 231, 231, 1); */
+    /* saturation: 0.0; */
+}
+#Achievement_StateInfoIcon{
+    /* margin-top: 5px; */
+    margin-left: 5px;
+    width: 50px;
+    height: 75px;
+    background-image: url("s2r://panorama/images/control_icons/battlepass_logo_flat_png.vtex");
+    /* battlepass_logo_grayscale_png */
+    /* battlepass_logo_png */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border:1px solid rgba(99, 99, 99,0.3);
+}
+#Achievement_StateInfoIcon:hover{
+    brightness: 2.0;
+}
+
+#Achievement_StateInfoIcon_right{
+    /* margin-top: 5px; */
+    margin-right: 5px;
+    width: 50px;
+    height: 75px;
+    background-image: url("s2r://panorama/images/control_icons/battlepass_logo_flat_png.vtex");
+    /* battlepass_logo_grayscale_png */
+    /* battlepass_logo_png */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border:1px solid rgba(99, 99, 99,0.3);
+}
+#Achievement_StateInfoIcon_right:hover{
+    brightness: 2.0;
+}
+#Achievement_StateInfoText{
+    margin-top: 3px;
+    height: 50px;
+    width: 190px;
+    margin-left: 0px;
+    font-size: 20px;
+    
+    color: rgb(192, 192, 192);
+    text-shadow: 0px 0px 8px rgba(231, 231, 231, 0.3);
+    horizontal-align: center;
+    vertical-align: center;
+    text-align: center;
+    font-family: defaultFont;
+
+}
+
+
+
+#AchievementBroadcast_root{
+    height: 800px;
+    width:  600px;
+    horizontal-align: right;
+    margin-top: 10%;
+    flow-children: down-wrap;
+    /* vertical-align: center; */
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 10px; */
+    
+}
+.single_AchievementBroadcast{
+    width: 100%;
+    height: 180px;
+    transition-property: opacity;
+    transition-duration:0.4s, 0.2s, 0.1s;
+    transition-timing-function: ease-in;
+}
+
+.single_AchievementBroadcast.hide{
+    opacity:0;
+}
+
+#AchievementBroadcast{
+    horizontal-align: right;
+    vertical-align: center;
+    width: 80%;
+    height: 150px;
+    /* flow-children: right-wrap; */
+    box-shadow: rgb(0, 0, 0) 0px 0px 10px;
+    border:1px solid rgba(99, 99, 99,0.3);
+
+}
+
+#SingleAchievementImage_inside{
+    width: 100%;
+    height: 100%;
+    flow-children: right-wrap;
+}
+
+#AchievementBroadcast_player{
+    width: 70%;
+    height: 100%;
+    margin-top: 20px;
+    margin-left: 20px;
+    flow-children: right-wrap;
+}
+
+#AchievementBroadcast_playerAvatar{
+    width: 50px;
+    height: 50px;
+    margin-right: 4px;
+    /* vertical-align: middle; */
+}
+
+#AchievementBroadcast_userName{
+    ui-scale: 150%;
+    /* vertical-align: middle; */
+}
+#AchievementBroadcast_info{
+    width: 100%;
+    font-size: 28px;
+    margin-top: 8px;
+    color: rgb(192, 192, 192);
+    text-shadow: 0px 0px 8px rgba(204, 204, 204, 0.5);
+    /* horizontal-align: center; */
+    /* vertical-align: center; */
+    /* text-align: center; */
+    font-family: defaultFont;
+}
+
+#BackgroundFX{
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+}
+#BackgroundFX2{
+    width: 100%;
+    height: 100%;
+    /* z-index: 10; */
+    opacity-mask: url("s2r://panorama/images/masks/softedge_box_irregular_png.vtex");
+}

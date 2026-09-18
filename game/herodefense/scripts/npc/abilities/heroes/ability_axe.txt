@@ -1,0 +1,107 @@
+"DOTAAbilities"
+{
+    "Advanced_Counter_Helix"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "axe_counter_helix"
+        "ScriptFile"               "skills/Advanced_Counter_Helix"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PHYSICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "FightRecapLevel"          "1"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "0.2"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AOERadius"                "300"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_axe/axe_attack_blur_counterhelix.vpcf"
+            "particle"    "particles/units/heroes/hero_axe/axe_counterhelix.vpcf"
+            "particle"    "particles/econ/items/axe/ti9_jungle_axe/ti9_jungle_axe_attack_blur_counterhelix.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"            "170"
+            "bonus_damage"      "1"
+            "radius"            "350"
+            "proc_chance"       "20"
+            "advanced_level"    "1"
+        }
+    }
+    "Middle_Counter_Helix"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "axe_counter_helix"
+        "ScriptFile"               "skills/Middle_Counter_Helix"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PHYSICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "FightRecapLevel"          "1"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityCooldown"          "0.2"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AOERadius"                "300"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_axe/axe_attack_blur_counterhelix.vpcf"
+            "particle"    "particles/units/heroes/hero_axe/axe_counterhelix.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"          "130 150 170"
+            "bonus_damage"    "0.7 0.8 0.9"
+            "radius"          "350"
+            "proc_chance"     "20"
+        }
+    }
+    "Primary_Counter_Helix"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "axe_counter_helix"
+        "ScriptFile"               "skills/Primary_Counter_Helix"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PHYSICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "FightRecapLevel"          "1"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityCooldown"          "0.2"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AOERadius"                "300"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_axe/axe_attack_blur_counterhelix.vpcf"
+            "particle"    "particles/units/heroes/hero_axe/axe_counterhelix.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"          "50 70 90 110 130"
+            "bonus_damage"    "0.3 0.4 0.5 0.6 0.7"
+            "radius"          "350"
+            "proc_chance"     "20"
+        }
+    }
+}

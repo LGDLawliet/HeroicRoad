@@ -1,0 +1,1065 @@
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat"	"Harlequin's Hat<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_Description"	"<h1>Passive: Damage Avoidance</h1>Blessed by nature, when you receive damage from a teammate, you can recover 50%% of this part of the damage in 5 seconds, which is regarded as your self healing.<br><br><h1>Passive: Nature's Dote</h1><br>While triggering 'Damage Avoidance', you can gain 3 points of strength bonus in 20 seconds, which can be stacked independently, and the maximum effective value is 100.<br><br>Attribute bonus effect has a 0.2 second cooldown"
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_Lore"	"It is said that only those who are favored by nature can wear this hat."
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_bonus_str"	"+$str"
+"DOTA_Tooltip_ability_item_hd_Harlequin_green_hat_bonus_health"	"+$health"
+
+"DOTA_Tooltip_modifier_item_hd_Harlequin_green_hat_active"                   "Damage Avoidance"
+"DOTA_Tooltip_modifier_item_hd_Harlequin_green_hat_active_Description"       "Delay restoring HP" 
+"DOTA_Tooltip_modifier_item_hd_Harlequin_green_hat_active2"                   "Nature's Dote"
+"DOTA_Tooltip_modifier_item_hd_Harlequin_green_hat_active2_Description"       "Strength increased by %dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%" 
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_philosopher_stone"	"Demonizing Philosopher Stone<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_philosopher_stone_Description"	"<h1>Passive: Compensatory</h1>When your mana is greater than 90%%, the surplus will be stored, which can store up to 10 times your maximum mana. When your mana is less than 50%%, the stored mana will be automatically drawn, and your mana will be increased to 50%%."
+"DOTA_Tooltip_ability_item_hd_philosopher_stone_Lore"	"The Philosopher Stone is a magical material, which can save you from the 'cost' in alchemy. This material is obtained by killing dragons and taking it out of their bodies. Originally, humans could make it by themselves, but the method of making it has been lost, so it can only be extracted from the keel cross."
+"DOTA_Tooltip_ability_item_hd_philosopher_stone_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_philosopher_stone_bonus_mana"	"%+$mana"
+"DOTA_Tooltip_modifier_item_hd_philosopher_stone"                   "Demonizing Philosopher Stone"
+"DOTA_Tooltip_modifier_item_hd_philosopher_stone_Description"       "Store %dMODIFIER_PROPERTY_TOOLTIP% mana points" 
+
+// item_hd_eden_blacksmith_platform
+"DOTA_Tooltip_ability_item_hd_eden_blacksmith"	"Eden Blacksmith Platform<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_eden_blacksmith_Description"	"<h1>Passive: Legendary Forging</h1>When equip this item, you have a 17%% chance to obtain a LV4 treasure Chests at each round settlement."
+"DOTA_Tooltip_ability_item_hd_eden_blacksmith_Lore"	"It seems that the legendary Blacksmith Platform can be used to make something powerful."
+"DOTA_Tooltip_ability_item_hd_eden_blacksmith_Note0"	"Note: <br>This equipment can also be used by owner's teammates, the treasure chest can be shared."
+
+
+"DOTA_HUD_eden_blacksmith_platform_info"   "{s:player_name}forged something powerful by <font color=\"#f0ad4e\">{s:locstring_value}</font>, and place it into <font color=\"#f0ad4e\">{s:locstring_value2}</font>"
+"DOTA_HUD_eden_blacksmith_platform_info2"   "The craftsman refused {s:player_name}, please wash your face."
+
+
+
+"DOTA_Tooltip_ability_item_hd_moirai_hat"	"Moirai's Hat<font color=\"#777777\"> - Tier 5</font>"  
+"DOTA_Tooltip_ability_item_hd_moirai_hat_Description"	"<h1>Passive: Wisdom of Fate</h1> Every %atb_spell_amp% points of primary attribute grants %fake_kv%%% spell amplification, up to %spell_amp_max%%%."  
+"DOTA_Tooltip_ability_item_hd_moirai_hat_Lore"	"A hat blessed by the Fates, granting its wearer the ability to glimpse the near future."  
+"DOTA_Tooltip_ability_item_hd_moirai_hat_bonus_spell_amp"	"%+$spell_amp"  
+
+
+"DOTA_Tooltip_ability_item_hd_book_of_death"	"The Book of Satan<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_book_of_death_Description"	"<h1>Active: Summoning Ceremony </h1>Sacrifice all your mana and health to summon the demons from the Foulfell, and it will inherit the Health =  total HP+MP you have given, attack damage = 10%% of this value, and armor = 0.3%% this value, lasting for 100 seconds.<br>\n<h1>Passive: Satanism Thrall</h1>Demons or undying enslaved by you will gain 35%% bonus outgoing damage."
+"DOTA_Tooltip_ability_item_hd_book_of_death_Lore"	"A forbidden book compiled by Satan, which records the ritual of summoning legendary demons."
+"DOTA_Tooltip_ability_item_hd_book_of_death_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_book_of_death_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_book_of_death_bonus_str"	"+$str"
+"DOTA_Tooltip_ability_item_hd_book_of_death_bonus_summon_intensity"	"%+$summon_intensity"
+
+"DOTA_Tooltip_modifier_item_hd_book_of_death_active"                   "Satanism Thrall"
+"DOTA_Tooltip_modifier_item_hd_book_of_death_active_Description"       "Outgoing damage increased by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+"DOTA_Tooltip_ability_creeps_spell_demon_power_terrorblade"	"Demon Power"
+"DOTA_Tooltip_ability_creeps_spell_demon_power_terrorblade_Description"	"Attack speed increased by 30%%."
+"DOTA_Tooltip_ability_creeps_spell_demon_power_terrorblade_Lore"	"The blood of the devil will greatly enhance the physical ability of the creature"
+
+
+
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone"	"Ancient Gemstone<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone_Description"	"<h1>Active: Magic Release</h1><br>Cause INT * 20+4000 damage to the target, this effect have penetration attribute, it can ignore the targeted spells absorption.<br>\n<h1>Passive: Magic Recycling</h1><br>If the magic energy kills the target, you will permanently increase your spell amp by 3%%, but at most 60%%."
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone_Lore"	"Ancient Malachite gemstone harvested in the dephts ofa sunken citadel . The surface of the stone is covered with mysteriousetchings that radiate a faint blue light "
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone_Note0"	"Note: <br>Even if you lose items, you will not lose the bonus spell amp."
+"DOTA_Tooltip_ability_item_hd_ancient_gemstone_bonus_int"	"+$int"
+
+"DOTA_Tooltip_modifier_item_hd_ancient_gemstone_buff"                   "Magic Recycling"
+"DOTA_Tooltip_modifier_item_hd_ancient_gemstone_buff_Description"       "Spell amp increased by %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_slark_double_blades"	"Sea Prison Double Blades<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_slark_double_blades_Description"	"<h1>Passive: Essence Shift</h1>Each attack can absorb 2 temporary attack damage from the target, which can be stacked independently for 30 seconds, a single target can absorb up to 100 attack damage, and the total effective absorption value will not exceed 400."
+"DOTA_Tooltip_ability_item_hd_slark_double_blades_Lore"	"The weapons used by Slark were lost in a battle many years ago, and were later found in the belly of a sea monster. This pair of weapons still retain the breath of their former master, and have his special abilities."
+"DOTA_Tooltip_ability_item_hd_slark_double_blades_bonus_agi"	"+$agi"
+
+
+
+"DOTA_Tooltip_modifier_item_hd_slark_double_blades_buff"                   "Essence Shift"
+"DOTA_Tooltip_modifier_item_hd_slark_double_blades_buff_Description"       "Attack damage increased by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%" 
+"DOTA_Tooltip_modifier_item_hd_slark_double_blades_debuff"                   "Essence Shift"
+"DOTA_Tooltip_modifier_item_hd_slark_double_blades_debuff_Description"       "Attack damage reduced by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%" 
+
+
+
+
+// "DOTA_Tooltip_ability_item_hd_replica_of_venom"	"毒液的复制品"
+// "DOTA_Tooltip_ability_item_hd_replica_of_venom_Description"	"<h1>消耗：使用</h1>喝下瓶中的神奇生物，你将获得2种效果：<br>侵蚀：你的身心将不断被侵蚀，每秒扣除当前生命值的3%%。<br>毒液之手：攻击距离增加20%%，对于近战单位有双倍效果。"
+// "DOTA_Tooltip_ability_item_hd_replica_of_venom_Lore"	"装着一小部分毒液共生体的复制体的瓶子，你可以选择与其融合。但注意别被其吞没了你的思维。"
+// "DOTA_Tooltip_ability_item_hd_replica_of_venom_Note0"	"Note: 不可逆转，但可以通过某种手段移除'侵蚀'。"
+
+
+"DOTA_Tooltip_ability_item_hd_hermes_boots"	"Hermes Boots<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_hermes_boots_Description"	"<h1>Active:Instantaneous Movement</h1>You can instantly move to the target position, even if you are stunned or dead, you can release this effect.<br><br>Cast Range: 1500<br><br>\n<h1>Passive: Flicker</h1>Your 'Stride' casting range will be increased by 700, and the cooldown will be reduced to 3 seconds."
+"DOTA_Tooltip_ability_item_hd_hermes_boots_Lore"	"Boots blessed by the god of speed, the spring equipped with ancient dwarf craftsmanship under the boots enables you to move at an instant speed."
+"DOTA_Tooltip_ability_item_hd_hermes_boots_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_hermes_boots_bonus_move_speed"	"+$move_speed"
+
+
+"DOTA_Tooltip_ability_item_hd_ice_ring"	"Yumier's Frost Ring<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_ice_ring_Description"	"<h1>Active: Sennen Hyōrō </h1>Designate a target to release ice prison and freeze it for 15 seconds. The target will be invincible during the period. It can be released against enemies or friends.The friendly target can issue a stop order to remove this buff.<br><br>Fixed cooldown time: 60 seconds"
+"DOTA_Tooltip_ability_item_hd_ice_ring_Lore"	"Then went all the powers to their judgement-seats,the all-holy gods, and thereon held council, who should of the dwarfs race create, from the sea-giant's blood and livid bones."
+"DOTA_Tooltip_ability_item_hd_ice_ring_Note0"	"Note:<br>Can't be dispelled, fixed duration."
+"DOTA_Tooltip_ability_item_hd_ice_ring_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_ice_ring_bonus_mana"	"+$mana"
+"DOTA_Tooltip_modifier_item_hd_ice_ring_buff"                   "Sennen Hyōrō "
+"DOTA_Tooltip_modifier_item_hd_ice_ring_buff_Description"       "Trapped in the endless prison of ice" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_fate_ring"	"Fortune Rewrite Ring<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_fate_ring_Description"	"<h1>Consumption:Fate rewriting</h1>Remove Up to 20 stacks of risk dice's debuff. After use, the ring will be broken and cannot be used again."
+"DOTA_Tooltip_ability_item_hd_fate_ring_Lore"	"The ring is engraved with ancient characters and emits golden light. Although people did not understand what the ring was capable of at first, when they wore it, they would receive a message in their mind - that is, the power of the ring."
+"DOTA_Tooltip_ability_item_hd_fate_ring_Note0"	"Note: <br>Can be given to other players"
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_potion_of_planar"	"Potion of Planar Infusion<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_potion_of_planar_Description"	"<h1>Active:Drinking</h1>After drinking the potion, you will increase your spell amp by 30%% in 15 seconds. It can stack independently and get 150%% bonus at most. After the efficacy fails, you will suffer from mental damage, which will reduce double spell amp and last for 25 seconds."
+"DOTA_Tooltip_ability_item_hd_potion_of_planar_Lore"	"Meticulously extracted from the touch of starlight, the light of a black hole, and the sound of a vacuum , this silver liquid forms a swirling , spiral galaxy when left to settle."
+"DOTA_Tooltip_ability_item_hd_potion_of_planar_Note0"	"Note: <br>Not affected by any gain"
+
+
+"DOTA_Tooltip_modifier_item_hd_potion_of_planar"                   "Potion of Planar Infusion"
+"DOTA_Tooltip_modifier_item_hd_potion_of_planar_Description"       "Spell amp increased by %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_item_hd_potion_of_planar_debuff"                   "Potion of Planar Infusion"
+"DOTA_Tooltip_modifier_item_hd_potion_of_planar_debuff_Description"       "Spell amp reduced by %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_start_sword"	"Aster Giant Sword<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_start_sword_Description"	"<h1>Passive: The power of Aster</h1>Carrying this weapon can increase the full attack damage bonus by 2%% every time you pass a round, up to 10%%."
+"DOTA_Tooltip_ability_item_hd_start_sword_Lore"	"There is a material that only exists in the polar regions. After absorbing the energy of the endless sun, moon and stars, it will emit blue fluorescence. This is the aster metal.The sharpness of the weapon made of aster metal can reach the height that other materials can't reach, and the steel can be cut with a flick."
+"DOTA_Tooltip_ability_item_hd_start_sword_Note0"	"Note: <br>The additional bonus will follow the hero,it will not be reset when the weapon is unloaded."
+"DOTA_Tooltip_ability_item_hd_start_sword_bonus_damage"	"%+$full_damage"
+
+
+"DOTA_Tooltip_ability_item_hd_thunder"	"Thunder Wedge<font color=\"#777777\"> - Tier 5</font>"
+"DOTA_Tooltip_ability_item_hd_thunder_Description"	"<h1>Passive: Draw Lightning</h1>Attacks have a %chance%% chance to unleash a bolt of lightning, dealing %damage_index% times Intelligence in magical damage.\n<h1>Passive: True Thunderclap</h1>When holding <font color=\"#777777\">[Advanced Lightning Strike]</font> and its cooldown is complete, Draw Lightning is replaced by <font color=\"#777777\">[Advanced Lightning Strike]</font>.\n<h1>Passive: Empowerment of the Wedge</h1>Each point of Spell Amplification provides %attack_speed_perspell% bonus attack speed to the wielder.\n<font color=\"#606060\"><i>This item triggers the cooldown of Advanced Lightning Strike when it is used.</i></font>"
+"DOTA_Tooltip_ability_item_hd_thunder_Lore"	"A divine artifact of Zeus, capable of unleashing devastating lightning bolts, symbolizing supreme divine authority."
+"DOTA_Tooltip_ability_item_hd_thunder_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_thunder_bonus_attack_speed"	"+Attack Speed"
+"DOTA_Tooltip_ability_item_hd_thunder_bonus_spell_amp"	"%+Spell Amplification"
+
+
+"DOTA_Tooltip_ability_item_hd_eagle_ring"	"Hawk Ring<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_eagle_ring_Description"	"<h1>Consumption: Integration</h1>Crush the ring to fuse some energy with yourself, and all your critical damage will be increased by 10%% (only once)\n<h1>Passive: See Through</h1>All your critical damage will be increased by 30%% (Multiplication)"
+"DOTA_Tooltip_ability_item_hd_eagle_ring_Lore"	"One of the special rings granted to the four knights of Gwyn. The Hawk Ring belonged to Hawkeye Gough."
+"DOTA_Tooltip_ability_item_hd_eagle_ring_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_eagle_ring_bonus_agi"	"+$agi"
+"DOTA_Tooltip_modifier_item_hd_eagle_ring_active"                   "Hawkeye"
+"DOTA_Tooltip_modifier_item_hd_eagle_ring_active_Description"       "Increase critical damage by 10%%(Multiplication)" 
+
+
+"DOTA_Tooltip_ability_item_hd_galaxy_compass"	"Galaxy compass<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_Description"	"<h1>Passive: Null Pointer Rejection</h1>At the end of the game, you must obtain an additional Advanced spell book. (Only valid for itself)<br>\n<h1>Passive: Plane Divination</h1><br>Increase the drop probability of BOSS spell by 30%%. (It can be stacked with other players)"
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_Lore"	"An entire galaxy is housed within the curved glass of this compass.This compass allows you to find something you haven't found."
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_bonus_probability"	"%+$probability"
+"DOTA_Tooltip_ability_item_hd_galaxy_compass_bonus_all_attribute"	"+$all_attribute"
+
+
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood"	"Rivers of Blood<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_Description"	"<h1>Passive: Blood Sacrifice Chop</h1>Attack has a 15%% chance to swing a chop and cause four wounds to bleed, one of which is the attack target, the remaining three times were randomly selected within the target 400 range. Bleed independently and stack for a fixed duration of 10 seconds, causing 3%%*stack of your full attack damage to the target every second.<br><br>Fixed cooldown time: 0.3 seconds<br>\n<h1>Passive: Blood Feud</h1>The bleeding damage you caused increased by 30%%。"
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_Lore"	"Weapon of Okina, swordsman from the Land of Reeds. A cursed weapon that has felled countless men. When Mohg, the Lord of Blood, first felt Okina's sword, and madness, upon his flesh, he had a proposal, to offer Okina the life of a demon, whose thirst would never go unsated."
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_rivers_of_blood_bonus_attack_speed"	"+$attack"
+"DOTA_Tooltip_modifier_item_hd_rivers_of_blood_debuff"                   "Rivers of Blood"
+"DOTA_Tooltip_modifier_item_hd_rivers_of_blood_debuff_Description"       "Take continuous damage every second" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_int_ring"	"Arcane Ultimate Ring<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_int_ring_Description"	"<h1>Passive: The Thinking of Wise</h1>Gain an additional 5 mana points bonus for each INT(up to 5000).If the main attribute is Intelligence, each point of Intelligence, gain an additional 0.3 base attack damage bonus for each INT (up to 200)."
+"DOTA_Tooltip_ability_item_hd_int_ring_Lore"	"One of the three Ultimate rings forged by the craftsman god. It is said that the three rings were originally one, but they were separated because they were too strong. The ring, which symbolizes order and wisdom, is the last one of the Three Rings, but without it, the energy cannot be sorted correctly.."
+"DOTA_Tooltip_ability_item_hd_int_ring_Note0"	"Note: <br>Universal heroes cant gain bonus attack damage effects."
+"DOTA_Tooltip_ability_item_hd_int_ring_bonus_int"	"%+$base_int"
+
+"DOTA_Tooltip_ability_item_hd_str_ring"	"Ember Ultimate Ring<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_str_ring_Description"	"<h1>Passive: The Body of Divine Power</h1>Gain an additional 8 health bonus for each STR(up to 5000).If the main attribute is Strength,gain an additional 0.3 base attack damage bonus for each STR (up to 200)."
+"DOTA_Tooltip_ability_item_hd_str_ring_Lore"	"One of the three Ultimate rings forged by the craftsman god. It is said that the three rings were originally one, but they were separated because they were too strong.The ring, which symbolizes war and power, is the first and most important one of the Three Rings. The flame contained in it will melt everything."
+"DOTA_Tooltip_ability_item_hd_str_ring_Note0"	"Note: <br>Universal heroes cant gain bonus attack damage effects."
+"DOTA_Tooltip_ability_item_hd_str_ring_bonus_str"	"%+$base_str"
+
+
+"DOTA_Tooltip_ability_item_hd_agi_ring"	"Nimble Ultimate Ring<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_agi_ring_Description"	"<h1>Passive: The Way of Balance</h1>Gain an additional 0.4 attack speed bonus for each AGI.If the main attribute is Agility,gain an additional 0.3 base attack damage bonus for each AGI (up to 200)."
+"DOTA_Tooltip_ability_item_hd_agi_ring_Lore"	"One of the three Ultimate rings forged by the craftsman god. It is said that the three rings were originally one, but they were separated because they were too strong. The ring, which symbolizes balance and agility, is the center of the Three Rings, harmonizing the balance of energy."
+"DOTA_Tooltip_ability_item_hd_agi_ring_Note0"	"Note: <br>Universal heroes cant gain bonus attack damage effects."
+"DOTA_Tooltip_ability_item_hd_agi_ring_bonus_agi"	"%+$base_agi"
+
+"DOTA_Tooltip_ability_item_hd_mul_ring"	"All Knowing Ultimate Ring<font color=\"#777777\">-6th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_mul_ring_Description"	"<h1>Passive: Overlord</h1>Gain an additional 10 health bonus for each STR(up to 8000). Gain an additional 0.5 attack speed bonus for each AGI. Gain an additional 6 mana points bonus for each INT(up to 5000);Gain an additional 0.4 base attack damage bonus for each main attribute (up to 200)."
+"DOTA_Tooltip_ability_item_hd_mul_ring_Lore"	"The supreme ring forged by the craftsman god has endless power. Its upper limit will change according to the power of the wearer, so it will be useless for the weak to wear it."
+"DOTA_Tooltip_ability_item_hd_mul_ring_Note0"	"Note: <br>Universal heroes take the highest attribute as primal attribute."
+"DOTA_Tooltip_ability_item_hd_mul_ring_bonus_attrubute"	"%+$base_all_attribute"
+
+
+
+"DOTA_Tooltip_ability_item_hd_witch_crown"	"Witch Head Crown<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_witch_crown_Description"	"<h1>Active:Compulsory Immunity</h1>You can ignore the stun effect and apply a strong dispel to yourself, and obtain a continuous strong dispel effect for 3 seconds.<br><br>\n<h1>Passive:Mental Impairment</h1><br>If you remove this item if it is activing, your INT will be permanently deducted by 5 points."
+"DOTA_Tooltip_ability_item_hd_witch_crown_Lore"	"The crown worn by the witch princess has the power to save the wearer from some negative states."
+"DOTA_Tooltip_ability_item_hd_witch_crown_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_witch_crown_bonus_status_res"	"%+$status_resist"
+"DOTA_Tooltip_ability_item_hd_witch_crown_bonus_int"	"+$int"
+"DOTA_Tooltip_modifier_item_hd_witch_crown_debuff"                   "Mental Impairment"
+"DOTA_Tooltip_modifier_item_hd_witch_crown_debuff_Description"       "Reduce INT" 
+"DOTA_Tooltip_modifier_item_hd_witch_crown_active"                   "Compulsory Immunity"
+"DOTA_Tooltip_modifier_item_hd_witch_crown_active_Description"       "Continuous dispel" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_viigil_signet"	"Viigil Signet<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_viigil_signet_Description"	"<h1>Passive:Battle Sound</h1>When you are attacked, the Viigil Signet can carve a stack of seal on the attacker.The enemies who carry the mark will take additional damage by 5%% *stack. There is no upper limit for the number of stacks, but the maximum additional damage is 35%%. Each time the target take damage, it will consume a stack of mark."
+"DOTA_Tooltip_ability_item_hd_viigil_signet_Lore"	"Few can deny the weaponcraft of the Vigil Knights. This crest is said to have seen battle in a dozen wars, yet those who look upon it believe it to be new."
+"DOTA_Tooltip_ability_item_hd_viigil_signet_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_viigil_signet_bonus_str"	"+$str"
+"DOTA_Tooltip_ability_item_hd_viigil_signet_bonus_armor"	"+$armor"
+"DOTA_Tooltip_modifier_item_hd_viigil_signet_debuff"                   "Battle Sound"
+"DOTA_Tooltip_modifier_item_hd_viigil_signet_debuff_Description"       "Take additional %dMODIFIER_PROPERTY_TOOLTIP%%% damage" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb"	"Remnant Sun Prison Garb<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_Description"	"<h1>Active:Remnant Sun</h1>Consume 20%% of your current HP and turn it into Hell Fire, you will gain damage block ability and completely invalidate damage with damage value less than 1.5%% of your maximum HP+200, at the same time, you will cause damage = 50%% of your lost HP to up to 5 enemies within 500 ranges every second.<br><br>Duration: 15 seconds"
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_Lore"	"It is as hot as the sun, covering the body. If you approach the wearer without any precaution, you will turn into fly ash instantly."
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_Note0"	"Note: <br>Not affected by shield disabled"
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_remnant_sun_prison_garb_bonus_armor"	"+$armor"
+"DOTA_Tooltip_modifier_item_hd_remnant_sun_prison_garb_active"                   "Remnant Sun"
+"DOTA_Tooltip_modifier_item_hd_remnant_sun_prison_garb_active_Description"       "Full immunization Damage below %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila"	"Shield of Aquila<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_Description"	"<h1>Passive:Aquila Blessing</h1>Grants 10 armor, 40 bonus attack damage and 5 mana regeneration to nearby allies.<br><br>Range: 1200"
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_Lore"	"Aquila is long since dead, but there are those who still seek out items of the famed warlord.— Jolixia, The Card Faun"
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_shield_of_aquila_bonus_all_attribute"	"+$all_attribute"
+"DOTA_Tooltip_modifier_item_hd_shield_of_aquila_arua_effect"                   "Aquila Blessing"
+"DOTA_Tooltip_modifier_item_hd_shield_of_aquila_arua_effect_Description"       "Attack Damage+%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%<br>Armor+%dMODIFIER_PROPERTY_TOOLTIP%<br>Mana Regen+%dMODIFIER_PROPERTY_MANA_REGEN_CONSTANT%" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass"	"Claszureme Hourglass<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_Description"	"<h1>Passive: Time Contral</h1>When you take damage greater than 3%% of your maximum HP, you can completely avoid this damage and consume a point of hourglass. The hourglass points will automatically recover one charge every 5 seconds, up to 10."
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_Lore"	"It was Pierpont who helped broker the Claszureme Treaty, ensuring that Faceless Void would not wreak havoc with our time stream. In exchange, the Sapphire Conclave agreed to enforce a strict crackdown on Chronomancy. Most hourglasses on this plane were confiscated, but every now and again one turns up... usually in the possession of a wizard too foolish to understand the consequences of his actions"
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_claszureme_hourglass_bonus_cooldown"	"%+$cooldown_reduction"
+"DOTA_Tooltip_modifier_item_hd_claszureme_hourglass_buff"                   "Time Contral "
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_seraphim_shield"	"Seraphim Shield<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_Description"	"<h1>Passive: Charging Counterattack</h1>When receiving a physical attack from the front(Front angle=100°), you can store 20%% of the damage(up to 20%% of your maximum HP in a single attack), when the stored value is greater than 10%% of your maximum HP, a shield counter will be launched against the front sector area, deal physical damage equal to absorbing damage to up to 7 enemies in the area.<br><br>Release Interval: 1 second"
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_Lore"	"Conflict is not for everyone."
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_Note0"	"Note:<br>The effect aura is roughly the same as God's Rebuke."
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_seraphim_shield_bonus_health_regen"	"+$hp_regen"
+
+"DOTA_Tooltip_modifier_item_hd_seraphim_shield_buff"                   "Charging Counterattack"
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_rubick_cube"	"Rubick's Cube<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_rubick_cube_Description"	"<h1>Consumption: Research</h1>To solve the mystery of the Rubik's Cube, you need to have two 'Rubick's Cube'. After the puzzle is solved, the maximum number of spells you can learn will plus 1."
+"DOTA_Tooltip_ability_item_hd_rubick_cube_Lore"	"Rabik found a mysterious Rubick"
+"DOTA_Tooltip_ability_item_hd_rubick_cube_Note0"	"Note: <br>You can use the cube of your teammates"
+"DOTA_Tooltip_modifier_item_hd_rubick_cube_buff"                   "Rubick's Cube-Researching"
+"DOTA_Tooltip_modifier_item_hd_rubick_cube_active"                   "Rubick's Cube-Researce completed"
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage"	"Cloak of Endless Carnage<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_Description"	"<h1>Passive: Endless Carnage</h1>The power of the dead is always the most powerful thing. Every time you respawn from the underworld, you will gain 10 INT bonus, which can be stacked up to 100, lasting for 180 seconds. Each respawn will refresh the buff duration.<br>\n<h1>Passive: The Dead Return</h1>After you are respawned by a friendly hero, you will not be apply 'Weak' debuff, and the time required for respawn will be reduced by 5 seconds."
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_Lore"	"Nestled in the Fields of Endless Carnage lies the city of Quoidge. An undead metropolis where slovenly butchers rub shoulders with the most proper of corpses. To the living, this cloak is grotesque. To dead, it's the height of fashion."
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_Note0"	"Note: <br>The reduction of respawn time only applies to normal respawn."
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_cloak_of_endless_carnage_bonus_spell_amp"	"%+$spell_amp"
+"DOTA_Tooltip_modifier_item_hd_cloak_of_endless_carnage"                   "Endless Carnage"
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_obliterating_orb"	"Obliterating Orb<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_obliterating_orb_Description"	"<h1>Passive: Wipe Out</h1>After you cause magic damage to an target, you will apply a debuff with a 10%% - 40%% random magic resistance reduction to the target. The debuff effect lasts for 5 seconds."
+"DOTA_Tooltip_ability_item_hd_obliterating_orb_Lore"	"In the right hands, this orb can undermine the most well laid of plans... naturally Vanessa always keeps a few in her possession."
+"DOTA_Tooltip_ability_item_hd_obliterating_orb_Note0"	"Note: <br>The passive effect will not be triggered on the enemies have carried a debuff. The reduction effect is affected by the Probability Event Trigger AMP."
+"DOTA_Tooltip_ability_item_hd_obliterating_orb_bonus_spell_amp"	"%+$spell_amp"
+
+"DOTA_Tooltip_modifier_item_hd_obliterating_orb_debuff"                   "Wipe Out"
+"DOTA_Tooltip_modifier_item_hd_obliterating_orb_debuff_Description"       "Magic resistance reduced by %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%" 
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_ristul_emblem"	"Ristul Emblem<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_ristul_emblem_Description"	"<h1>Passive: Law of Demonic</h1>Surrounding enemies's armor reduced by 10 points and magic resistance reduced by 20%%, and you will receive double effects.<br>Effect Range: 800"
+"DOTA_Tooltip_ability_item_hd_ristul_emblem_Lore"	"To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price."
+"DOTA_Tooltip_ability_item_hd_ristul_emblem_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_ristul_emblem_bonus_str"	"+$str"
+
+"DOTA_Tooltip_modifier_item_hd_ristul_emblem_debuff"                   "Law of Demonic"
+"DOTA_Tooltip_modifier_item_hd_ristul_emblem_debuff_Description"       "Magic resistance:-%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%<br>Armor-%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments"	"Rumusque Vestments<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments_Description"	"<h1>Passive: Healing Conversion</h1>When you heal an ally hero and the cumulative amount of healing reaches 100%% of his maximum HP, his outgoing damage will be increased by 5%%. Stackomg independent lasts for 30 seconds, up to 40%%."
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments_Lore"	"The warrior priests of the Rumusque Faithful are led by Lady Anshu, and their mere presence can bolster the hearts of the virtuous."
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments_bonus_heal_amp"	"%+$heal_amp"
+"DOTA_Tooltip_ability_item_hd_rumusque_vestments_bonus_int"	"+$int"
+"DOTA_Tooltip_modifier_item_hd_rumusque_vestments_buff"                   "Healing Conversion"
+"DOTA_Tooltip_modifier_item_hd_rumusque_vestments_buff_Description"       "Outgoing damage increased by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_hero_cape"	"Hero Cape<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_hero_cape_Description"	"<h1>Passive: Heroic Road</h1>The spell damage you cause will be increased by 18%% (not spell damage amp), as HP removing, ignoring all resistances."
+"DOTA_Tooltip_ability_item_hd_hero_cape_Lore"	"Some heroes have a greater flair for the dramatic than others."
+"DOTA_Tooltip_ability_item_hd_hero_cape_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_hero_cape_bonus_all_attribute"	"+$all"
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_demagicking_maul"	"Demagicking Maul<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_demagicking_maul_Description"	"<h1>Passive: Demagicking</h1>When attacking/being attacked, you will cause additional damage to the target/attack source by HP removing, the value is equal to 5%%/3%% of your maximum HP.<br>\n<h1>Passive: Contract</h1><br>Your maximum HP is increased by 50%%, but your maximum current HP will be locked to 50%% (If 50%% exceeds 10000, the limit will be 10000)."
+"DOTA_Tooltip_ability_item_hd_demagicking_maul_Lore"	"Magic can be more fragile than most people think."
+"DOTA_Tooltip_ability_item_hd_demagicking_maul_Note0"	"Note: "
+
+
+
+"DOTA_Tooltip_ability_item_hd_assassin_veil"	"Assassin Veil<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_assassin_veil_Description"	"<h1>Passive: Assassin's Creed</h1>Your next critical damage will be increased by 100%% (multiplication)<br><br>Cooldown time: 5 seconds<br>\n<h1>Passive: Berserker's Creed</h1><br>Each attack reduces the cooldown by 5%%."
+"DOTA_Tooltip_ability_item_hd_assassin_veil_Lore"	"To bolster their numbers, the Sisters of the Veil often abduct children and train them in their ways. When they come of age, they are bestowed this, in preparation of their first kill."
+"DOTA_Tooltip_ability_item_hd_assassin_veil_Note0"	"Note: <br>Bonus hold one frame time"
+"DOTA_Tooltip_ability_item_hd_assassin_veil_bonus_damage"	"+$damage"
+"DOTA_Tooltip_modifier_item_hd_assassin_veil_active"                   "Assassin's Creed"
+"DOTA_Tooltip_modifier_item_hd_assassin_veil_active_Description"       "Increases critical damage by 100%%" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_jasper_daggers"	"Jasper Daggers<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_jasper_daggers_Description"	"<h1>Passive: Frenzy Stab</h1>When you attack an enemy in its back, you can force him into a 1 second stun and in this 1 second, your base attack rate will becomes 0.3 seconds.<br><br>Cooldown: 5 seconds to the same enemy"
+"DOTA_Tooltip_ability_item_hd_jasper_daggers_Lore"	"Many characterise the Jasper Circle as a group of assassins for hire... this is a crude oversimplification. Lorlin Lasan's spy ring offers many services to those who can afford them, murder just happens to be the most popular."
+"DOTA_Tooltip_ability_item_hd_jasper_daggers_Note0"	"Note: <br>Different equipment carriers share cooldown with the same enemy."
+"DOTA_Tooltip_ability_item_hd_jasper_daggers_bonus_agi"	"+$agi"
+"DOTA_Tooltip_modifier_item_hd_jasper_daggers_delay"                   "Vigilant"
+"DOTA_Tooltip_modifier_item_hd_jasper_daggers_delay_Description"       "Will not be triggered by 'Frenzy Stab'" 
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade"	"Apotheosis Blade<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade_Description"	"<h1>Passive: Apotheosis</h1>Attack can ignore 40%% of the target's positive armor."
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade_Lore"	"Long ago, the Apotheosis Blade was forged with a singular and wicked purpose: to let the wielder kill a god and assume its power. Today, it is but one of many accursed artifacts safely tucked away inside the Burnt Hall of Weeping Rose."
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_god_slaying_emperor_blade_bonus_damage"	"+$damage"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_rose_scepter"	"Rose Scepter<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_rose_scepter_Description"	"<h1>Active: Poor Man's Rose</h1>Plant roses at the target location to continuously emit toxicity, reduce the magic resistance of surrounding enemies, and cause magic damage once a second.<br><br>Duration: 15 seconds<br>Effect Range：600<br>Magic Resistance Reduction：20%% (1%% extra for every 20%% spell damage amp, up to 40%%)<br>Damage: Caster's INT * 1.5+ Max Mana * 8%%"
+"DOTA_Tooltip_ability_item_hd_rose_scepter_Lore"	"The Poor Man's Rose is a low-budget and small mass destruction weapon with frightening destructive capabilities. It is cheap, can be mass-produced in short amounts of time, and is favored by small dictatorships."
+"DOTA_Tooltip_ability_item_hd_rose_scepter_Note0"	"Note: "
+"DOTA_Tooltip_ability_item_hd_rose_scepter_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_rose_scepter_bonus_spell_damage"	"%+$spell_amp"
+"DOTA_Tooltip_modifier_item_hd_rose_scepter_debuff"                   "Poor Man's Rose"
+"DOTA_Tooltip_modifier_item_hd_rose_scepter_debuff_Description"       "Magic resistance reduced by %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%" 
+
+"DOTA_Tooltip_ability_item_hd_siren_clothing"	"Siren Clothing<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_siren_clothing_Description"	"<h1>Passive: Rip Tide</h1>Your attacks have a 10%% chance to launch a tide, causing physical damage of 30%% of the full attack damage to up to 5 enemies in the surrounding 300 range and reducing their armor by 10, lasts 10 seconds.<br><br>Cooldown time: 0.3 seconds<br>\n<h1>Passive: The Anger of Naga</h1><br>If you are not a Naga and have a teammate is Naga, as long as you wear this item, you will take 25%% additional damage."
+"DOTA_Tooltip_ability_item_hd_siren_clothing_Lore"	"The clothes made of the skin of the Naga contain the power of the sea. But remember, unless you are a Naga, you will cause anger from your Naga teammates."
+"DOTA_Tooltip_ability_item_hd_siren_clothing_Note0"	"Note: <br>If you have Rip Tide talent, it will produce fusion effect."
+"DOTA_Tooltip_ability_item_hd_siren_clothing_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_siren_clothing_bonus_agi"	"+$agi"
+"DOTA_HUD_siren_clothing_info1"   "{s:player_name}:What do you mean?"
+"DOTA_HUD_siren_clothing_info2"   "{s:player_name}:How dare you!"
+"DOTA_HUD_siren_clothing_info3"   "{s:player_name}:……#*%%##%%####%%！"
+"DOTA_HUD_siren_clothing_info4"   "{s:player_name}:You'll regret it."
+"DOTA_Tooltip_modifier_item_hd_siren_clothing_caster_debuff"                   "The Anger of Naga"
+"DOTA_Tooltip_modifier_item_hd_siren_clothing_caster_debuff_Description"       "Take additional %dMODIFIER_PROPERTY_TOOLTIP%%% damage" 
+"DOTA_Tooltip_modifier_item_hd_siren_clothing_debuff"                   "Rip Tide"
+"DOTA_Tooltip_modifier_item_hd_siren_clothing_debuff_Description"       "Armor reduced by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_rubick_cube2"	"Rubick's Cube V2<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_rubick_cube2_Description"	"<h1>Consumption: Research</h1>To solve the mystery of the Rubik's Cube, you need to have two 'Rubick's Cube V2'. After the puzzle is solved, you can equip items in the neutral item grid."
+"DOTA_Tooltip_ability_item_hd_rubick_cube2_Lore"	"abik found a mysterious Rubick..."
+"DOTA_Tooltip_ability_item_hd_rubick_cube2_Note0"	"Note: <br>You can use the cube of your teammates"
+"DOTA_Tooltip_modifier_item_hd_rubick_cube2_buff"                   "Rubick's Cube V2-Researching"
+"DOTA_Tooltip_modifier_item_hd_rubick_cube2_active"                   "Rubick's Cube V2-Researce completed"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_phoenix_ring"	"Ring of Phoenix<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_Lore"	"This is a ring forged by the flame generated when the phoenix was nirvana. It protects the wearer from death."
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_Description"	"<h1>Consumption: Integration</h1>Crush the ring to fuse part of the energy with yourself, and you will obtain the nirvana effect permanently (only once)\n<h1>Passive: Nirvana</h1>The effect of the magic bottle is increased by 100%%, and you can recover one point of energy points of the bottle every 25 seconds."
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_bonus_mana"	"+$mana"
+"DOTA_Tooltip_ability_item_hd_phoenix_ring_Note0"	"Note: "
+"DOTA_Tooltip_modifier_item_hd_phoenix_ring"                   "Nirvana"
+"DOTA_Tooltip_modifier_item_hd_phoenix_ring_active"                   "Nirvana"
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_book_of_death_2"	"Book of the Dead<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_Description"	"<h1>Passive: Undead Control</h1>Establish a special connection with the undead summoned by yourself. When any unit dies within 1000 range of the summoner, you can draw its soul and give it to all your undead summoned. Increase their full attack damage by 4%% and stack up to 100%%."
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_Lore"	"Vanessa wanted to take it to the Burnt Hall. Pierpont wanted it safely locked away with the Sapphire Conclave. It was the Crystal Maiden who suggested that they leave it with Auroth... reluctantly, they agreed."
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_book_of_death_2_bonus_summon_intensity"	"%+$summon_intensity"
+
+"DOTA_Tooltip_modifier_item_hd_book_of_death_2_active"                   "Undead Control"
+"DOTA_Tooltip_modifier_item_hd_book_of_death_2_active_Description"       "Increase full attack damage by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor"	"Claken's Armour<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_Description"	"<h1>Passive: The shield of the North Sea</h1>Record the original value of the damage when taking damage (before the reducetion by armor or magic resistance), every 15 seconds, convert 15%% of the damage taken during this period into a shield (ignore shield break) . The shield lasts for 10 seconds, stack up to 500%% of your maximum HP."
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_Lore"	"If it entangles the largest warship, it can push the ship into the ocean floor."
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_kraken_shell_armor_bonus_armor"	"+$armor"
+"DOTA_Tooltip_modifier_item_hd_kraken_shell_armor_active"	"The shield of the North Sea"
+
+
+
+"DOTA_Tooltip_ability_item_hd_head_of_medusa"	"Head of Medusa<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_Description"	"<h1>Active: Stone Gaze </h1>It can instantly petrify the enemies within 800 range (including magic immunity targets) and make them take additional physical damage.<br><br><br>Additional physical damage: 60%%<br>Duration:5 Seconds"
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_Lore"	"It's the beauty that is worth having, which is the power can change the world."
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_head_of_medusa_bonus_agi"	"+$agi"
+
+"DOTA_Tooltip_modifier_item_hd_head_of_medusa_active"                   "Stone Gaze"
+"DOTA_Tooltip_modifier_item_hd_head_of_medusa_active_Description"       "Take additional %dMODIFIER_PROPERTY_INCOMING_PHYSICAL_DAMAGE_PERCENTAGE%%% physical damage" 
+
+
+"DOTA_Tooltip_ability_item_hd_sven_mask"	"Sven's Helmet<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_sven_mask_Description"	"<h1>Passive: Divine Power</h1>Every 1 second, 10%% of the power is accumulated. When the power is accumulated to 500%%, it will start to explode, increases the full attack damage by 40%% in 10 seconds. Each attack will also accumulate 1%% power."
+"DOTA_Tooltip_ability_item_hd_sven_mask_Lore"	"The first helmet of the Night Watch Knight accompanied Sven for most of his life. With the awakening in the battle with the Juggernaut, this helmet gained new strength under the influence of the power of God."
+"DOTA_Tooltip_ability_item_hd_sven_mask_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_sven_mask_bonus_damage"	"%+$full_damage"
+
+"DOTA_Tooltip_modifier_item_hd_sven_mask"                   "Divine Power"
+"DOTA_Tooltip_modifier_item_hd_sven_mask_Description"       "Accumulate energy" 
+
+"DOTA_Tooltip_modifier_item_hd_sven_mask_active"                   "Divine Fury "
+"DOTA_Tooltip_modifier_item_hd_sven_mask_active_Description"       "Increased attack damage by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_shisui"	"Water-breaking Blade · Shisui<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_shisui_Description"	"<h1>Passive: Great Falls</h1>An attack has a 13%% chance to control the water flow and reduce the target's armor by 2 points. Independent stack lasts for 7 seconds, at the same time, the curvature can be used to increased the attack speed of the next attack, which can be increased by 800 points."
+"DOTA_Tooltip_ability_item_hd_shisui_Lore"	"A blade that can easily break the water surface is attached with a special force, which can make the water flow fade back like a curvature engine. Therefore, the person skilled in using this blade can also control the water flow."
+"DOTA_Tooltip_ability_item_hd_shisui_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_shisui_bonus_attack_speed"	"+$attack"
+
+
+"DOTA_Tooltip_modifier_item_hd_shisui_debuff"                   "Great Falls"
+"DOTA_Tooltip_modifier_item_hd_shisui_debuff_Description"       "Armor reduced by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha"	"Horn of the Alpha<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_Description"	"<h1>Passive: General</h1>After your summon dies, it will provide you a base attack damage bonus. The value=2% of its attack damage. Independent stack lasts for 50 seconds, up to 200."
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_Lore"	"Every year, a group of centaurs from the Marrowfell Tribe are chosen to go on 'The Great Hunt'. The goal of this expedition is to test the skill and endurance of the tribe's finest trackers. To these men and women, there is no glory greater than claiming the horn of a Thunderhide Alpha for their own."
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_bonus_damage"	"+$base_damage"
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_bonus_attack_speed"	"+$attack"
+"DOTA_Tooltip_ability_item_hd_horn_of_the_alpha_bonus_summon_intensity"	"%+$summon_intensity"
+
+
+"DOTA_Tooltip_modifier_item_hd_horn_of_the_alpha_buff"                   "General"
+"DOTA_Tooltip_modifier_item_hd_horn_of_the_alpha_buff_Description"       "Basic attack damage increased by %dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_high_priest_robe"	"High Priest's Robe<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_Description"	"<h1>Passive: Divine Harmony</h1>When healing a target, generate a temporary shield for it, which can block damage equal to 20%% of the healing value, lasts for 10 seconds, and can stack up to 10 times the target's maximum health."
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_Lore"	"The robe worn by the legendary high priest was buried with him after his death. Now that you see this robe again, it means that tomb robberies have occurred. Then all kinds of artifacts owned by the high priest will reappear."
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_heal_receive_amp"	"%+$heal_receive_amp"
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_heal_amp"	"%+$heal_amp"
+"DOTA_Tooltip_ability_item_hd_high_priest_robe_bonus_int"	"+$int"
+
+"DOTA_Tooltip_modifier_item_hd_high_priest_robe_buff"                   "Divine Harmony"
+
+
+
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic"	"Advanced Keen Pptic<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic_Lore"	"The supreme craft crystallization of dwarf craftsmen."
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic_attack_range"	"+$attack_range"
+"DOTA_Tooltip_ability_item_hd_advanced_keen_optic_cast_range"	"+$cast_range"
+
+
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar"	"Tears of Blue Star<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar_Lore"	"The ring cast by the essence extracted from the Star of Life contains powerful natural power. It is said that this ring has some advanced usage, but it is rarely known."
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar_Description"	"<h1>Active: Guard</h1>You can guard a designated target. When it receives fatal damage, it can be directly immune to the damage and restore to the full health state and enter the invincible state for 2 seconds. It has 5 energy points initially and can be triggered for 5 times. When there is no energy point, it will change to 15%% trigger probability.<br><br>The same unit can only be affected by one ring. Repeated use has no effect."
+"DOTA_Tooltip_ability_item_hd_tears_of_aquastar_bonus_health"	"+$health"
+
+
+
+"DOTA_Tooltip_modifier_item_hd_tears_of_aquastar_active"                   "Guard"
+"DOTA_Tooltip_modifier_item_hd_tears_of_aquastar_active_Description"       "You are protected" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer"	"Wingfall Hammer<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_Description"	"<h1>Passive: Omnisighter</h1>When attacking the enemy, take the target as the center and cause healing effect to the friendly units within 400 range. The healing value is equal to 75%% of the damage."
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_Lore"	"The Allseeing One anointed this hammer, giving its wielder the strength to bolster their allies and crush their enemies."
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_wingfall_hammer_bonus_str"	"+$str"
+
+
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun"	"Tesla High-Energy Cannon<font color=\"#777777\"> - Fifth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun_Description"	"<h1>Active: High-Energy Blast</h1>Deals physical damage equal to the user's full attack power * %damage_preatk% to enemies in a straight line in the designated direction, and reduces the physical damage resistance of hit enemies by %active_incoming%%% for %duration% seconds.<br><h1>Passive: Lightweight Blast</h1>Triggers an active effect with only %index%%%% of the damage upon attacking, with a maximum trigger once every %cd% seconds.<br><h1>Passive: Artillery Correction</h1>Each point of extra attack range provides %range_damage% attack power for the holder.<br><font color=\"#606060\">The damage reduction effect occurs before dealing damage.</font>"
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun_Lore"	"An energy weapon crafted from a special material, the craftsmanship of which even the most skilled dwarf artisans cannot comprehend."
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_tesla_high_energy_gun_bonus_attack_range"	"+ Attack Range (Ranged Only)"
+
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur"	"Bogduggs Lucky Femur<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_Description"	"<h1>Passive: Good Luck</h1>After casting a refreshable skill, you have a %refresh_chance%% chance to refresh it immediately."
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_Lore"	"Once more!"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_bonus_attack_speed"	"+$attack"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_probability"	"%+$probability"
+"DOTA_Tooltip_ability_item_hd_bogduggs_lucky_femur_bonus_attribute"	"+$all_attribute"
+
+
+
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye"	"Rhyzik Eye<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_Description"	"<h1>Passive: Evil's Heart</h1>Increase outgoing damage %bonus_damage%% and reduce the damage taken %bonus_resist%% .\n<h1>Active:Evil Devil</h1>:Increase outgoing damage %bonus_damage_2%% agian but increase the damage taken %bonus_resist_2%% ."
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_Lore"	"There is power in the eyes of the corrupt."
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_bonus_attribute"	"+$all_attribute"
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_bonus_mana_regen"	"+$mana_regen"
+"DOTA_Tooltip_ability_item_hd_siltbreaker_rhyzik_eye_bonus_health_regen"	"+$hp_regen"
+"DOTA_Tooltip_modifier_item_hd_siltbreaker_rhyzik_eye_bonus_health_regen"	"Youuuuurrrreeeee Minnneeeee....."
+
+
+
+"DOTA_Tooltip_ability_item_hd_ultimate_scepter"	"Aghanim's Scepter<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_ultimate_scepter_Description"	"<h1>Active: Aghanim's Blessing</h1>Doubles the passive bonus effect in 5 seconds.<br>\n<h1>Passive: Blessing</h1>The Advanced ability learned by Rubick will take the current level +4 when calculating the base value bonus."
+"DOTA_Tooltip_ability_item_hd_ultimate_scepter_Lore"	"The scepter of a wizard with demigod-like powers."
+"DOTA_Tooltip_ability_item_hd_ultimate_scepter_Note0"	"Note:"
+
+"DOTA_Tooltip_modifier_item_hd_ultimate_scepter_active"                   "Aghanim's Blessing"
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_selecter_terminal"	"Selecter Terminal<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_selecter_terminal_Description"	"<h1>Active: Selected</h1> Designate a friendly hero as the tester. After killing 100 enemies, gain a bonus effect based on target's primary attribute:<br><font color=\"#d9534f\">Strength:</font>Permanently gain a health bonus of strength * 3.(Stack up to strength * 10)<br><font color=\"#5cb85c\">Agility:</font>Permanently gains a base attack damage bonus of agility * 0.12. (stack up to agility * 0.4)<br><font color=\"#5bc0de\">Intelligence:</font>Permanently gain a spell damage amp bonus of 0.04%% intelligence. (Stack up to 0.13% intelligence)<br><br>Note: Only one friendly unit can be selected at the same time."
+"DOTA_Tooltip_ability_item_hd_selecter_terminal_Lore"	"Sometimes , even a star needs a little help to shine bright."
+"DOTA_Tooltip_ability_item_hd_selecter_terminal_Note0"	"Note:<br>Can be selected by multiple terminals simultaneously.<br>Universal heroes gain all effects, but only stack 50%% each time."
+
+
+
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_active"                   "Selected"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_str"                   "Selecter Terminal"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_str_Description"       "Health increased by %dMODIFIER_PROPERTY_HEALTH_BONUS%" 
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_agi"                   "Selecter Terminal"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_agi_Description"       "Base attack damage increased by %dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE%" 
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_int"                   "Selecter Terminal"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_int_Description"       "Spell damage amp increased by %fMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_active"                   "Selected"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_str_all"                   "Selecter Terminal"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_str_all_Description"       "Health increased by %dMODIFIER_PROPERTY_HEALTH_BONUS%" 
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_agi_all"                   "Selecter Terminal"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_agi_all_Description"       "Base attack damage increased by %dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE%" 
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_int_all"                   "Selecter Terminal"
+"DOTA_Tooltip_modifier_item_hd_selecter_terminal_int_all_Description"       "Spell damage amp increased by %fMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_ritual_spear"	"Ritual Spear<font color=\"#777777\"> - Tier 5</font>"
+"DOTA_Tooltip_ability_item_hd_ritual_spear_Description"	"<h1>Active: Oath of the Cathedral Spear</h1> Unleashes the oath's power within the Ritual Spear, granting %bonus_attack_speed% Attack Speed for %duration% seconds.\n<h1>Passive: Incarnation</h1> While under the effects of Oath of the Cathedral Spear, attacks have a %chance%% chance to summon lightning within a %random_radius% radius around the enemy, dealing %damage_index% times your total Attack Damage as pure damage to up to %limit% enemies within a %radius% area."
+"DOTA_Tooltip_ability_item_hd_ritual_spear_Lore"	"Said to be fragments of ritual spears once held by the knights of Princess Phileneor,\n\nThis is where the name 'Cathedral Spear' comes from.\n\nWhen faced with truly formidable foes, the Cathedral Spear can evoke past prowess,\nsummoning a line of spears pointing skyward."
+"DOTA_Tooltip_ability_item_hd_ritual_spear_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_ritual_spear_bonus_atb"	"+All Attributes"
+"DOTA_Tooltip_modifier_item_hd_ritual_spear_active"                   "Oath of the Cathedral Spear"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1"	"Memories of Living Creatures<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_Description"	"<h1>Passive: Mirage Shadow</h1><br>The creature you summon has a 15%% chance to restore health equal to 120%% of the damage when damaged.(Not considered a heal)"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_Lore"	"The pages of this book are littered with the shifting memories of all the aboleth broodmother's eyes have seen. This deluge of information includes historical occurrences, the gods, and all things arcane, in addition to several spells.Unfortunately, the script is a shifting mire of letters that only the most astute can decipher"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_summon_time_intensity"	"%+$summon_time_intensity"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_tome_of_living_memories1_summon_intensity"	"%+$summon_intensity"
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_helm_of_omni"	"Helm of Omni<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_helm_of_omni_Description"	"<h1>Active:Omnipotent Blessing</h1>Bless a target hero, carrying this item can increase target's all attributes by 1 point every 30 seconds, up to a maximum of 50 points.<br>\n<h1>Passive:Apostate</h1> Once you remove this equipment, all blessings will become a backfire and permanently apply to you."
+"DOTA_Tooltip_ability_item_hd_helm_of_omni_Lore"	"The artifact in the Omni Church is something that only the most devout believers can have the privilege of touching."
+"DOTA_Tooltip_ability_item_hd_helm_of_omni_Note0"	"Note:<br>A helmet can only bless one friendly hero, and when you remove any helmet, you will be punished by all helmets."
+"DOTA_Tooltip_ability_item_hd_helm_of_omni_bonus_health"	"+$health"
+
+"DOTA_Tooltip_modifier_item_hd_helm_of_omni_active"                   "Omnipotent Blessing"
+"DOTA_Tooltip_modifier_item_hd_helm_of_omni_active_Description"       "All attributes increased by %dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%" 
+"DOTA_Tooltip_modifier_item_hd_helm_of_omni_debuff"                   "Apostate"
+"DOTA_Tooltip_modifier_item_hd_helm_of_omni_debuff_Description"       "All attributes reduced by %dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_bottledthundertorm"	"Bottled Ball Lightning<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_bottledthundertorm_Description"	"<h1>Consumption: Fuse</h1>By drinking the liquid from the bottle, you will gain a special ability. As long as you move more than 300 distances within 0.06 seconds, a lightning chain will be generated at two points, deals magic damage to enemies on the line with a primary attribute of * 6."
+"DOTA_Tooltip_ability_item_hd_bottledthundertorm_Lore"	"Ball lightning is the electric trend of lightning, and the air ion ball is produced when the air is half broken down. A high mage sealed the ball lightning into a bottle, which turned into a drinkable liquid over the years."
+"DOTA_Tooltip_ability_item_hd_bottledthundertorm_Note0"	"Note:"
+"DOTA_Tooltip_modifier_item_hd_bottledthundertorm_active"                   "Ball Lightning"
+
+
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat"	"Scarecrow Hat<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_Description"	"<h1>Active: Fear Gas</h1>Activate the aura effect to spread fear, causing enemies within a radius of 1000 to fall into fear. At this point, each time an attack damage greater than 100 is dealt to it, it will receive an additional 0.5%% of attack damage, stacking up to a maximum of 30%^.<br><br>Duration: 10 seconds<br>Stickiness Time: 2 seconds"
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_Lore"	"The main weapon of the Scarecrow is the 'fear gas' he created. With it, he can create the deepest fear of his victims."
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_scarecrow_hat_bonus_mana"	"+$mana"
+
+"DOTA_Tooltip_modifier_item_hd_scarecrow_hat_aura_active"                   "Fear gas"
+
+"DOTA_Tooltip_modifier_item_hd_scarecrow_hat_debuff"                   "Fear gas"
+"DOTA_Tooltip_modifier_item_hd_scarecrow_hat_debuff_Description"       "Take additional %fMODIFIER_PROPERTY_INCOMING_PHYSICAL_DAMAGE_PERCENTAGE%%% physical damage" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light"	"Circlet of Dark and Light<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_Description"	"<h1>Switch: Homology</h1>You can switch to the Light state or Shadow state at any time. In the Light state, your attack speed increased by 20%%. In Shadow state, your attack damage increased by 35%% ."
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_Lore"	"The circlet, which is occupied by half of the power of the Light God and half of the Power of the Dark God, allows you to switch the power you need at any time."
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_hd_circlet_of_dark_and_light_bonus_attack_speed"	"+$attack"
+
+
+"DOTA_Tooltip_ability_creeps_spell_Light_And_Dark_Lore"	"Mellond is the basterd of the god of light and the god of shadow, so he inherited the power of the two gods."
+"DOTA_Tooltip_ability_creeps_spell_Light_And_Dark_Note0"	"Note:Not affected by PassivesDisabled."
+
+"DOTA_Tooltip_modifier_item_hd_circlet_of_dark_and_light_light"                   "Light State"
+"DOTA_Tooltip_modifier_item_hd_circlet_of_dark_and_light_light_Description"       "Attack speed increased by %fMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+"DOTA_Tooltip_modifier_item_hd_circlet_of_dark_and_light_dark"                   "Shadow State"
+"DOTA_Tooltip_modifier_item_hd_circlet_of_dark_and_light_dark_Description"       "Attack damage increased by %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord"	"Helm of the Overlord<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_Description"	"<h1>Passive:Dominate</h1>The summons you summon will have a 20%% lifesteal from attack."
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_Lore"	"The powerful headpiece of a dead necromancer."
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_Note0"	"Note:<br>Calculate the summoner's lifesteal gain."
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_bonus_attribute"	"+$all"
+"DOTA_Tooltip_ability_item_hd_helm_of_the_overlord_summon_intensity"	"%+$summon_intensity"
+
+
+
+"DOTA_Tooltip_ability_item_hd_brain_worm"	"The Brain of a Brain Worm<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_brain_worm_Description"	"<h1>Passive:Break Inhibition</h1> When you are applied to break, gain a break immune effect for the next 4 seconds, while reducing the charge by 1 point. The charge points are restored by 1 point every 18 seconds, with a maximum storage of 3 points."
+"DOTA_Tooltip_ability_item_hd_brain_worm_Lore"	"The brain, which still contains brain worm body fluids, although extremely disgusting, is also a divine artifact."
+"DOTA_Tooltip_ability_item_hd_brain_worm_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_brain_worm_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_brain_worm_bonus_mana"	"+$mana"
+
+
+
+"DOTA_Tooltip_ability_item_hd_shivas_staff"	"Shiva's Staff<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_shivas_staff_Description"	"<h1>Active:Ice Storm Technique</h1> Apply an Ice Storm Technique spell to a radius of 400 in the target point, dealing magic damage equal to 1800+your intelligence * 18 to enemies within the area, freezing for 1 second and making them unable to recover health for 6 seconds."
+"DOTA_Tooltip_ability_item_hd_shivas_staff_Lore"	"Said to have belonged to a goddess, today it retains much of its former power."
+"DOTA_Tooltip_ability_item_hd_shivas_staff_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_shivas_staff_bonus_spell_damage"	"%+$spell_amp"
+
+"DOTA_Tooltip_modifier_item_hd_shivas_staff_debuff"                   "Ice Storm Technique"
+"DOTA_Tooltip_modifier_item_hd_shivas_staff_debuff_Description"       "Prohibition of heal" 
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction"	"Helm of Disjunction<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_Description"	"<h1>Active:Mordenkainen's Disjunction</h1>Release a 1000 range anti magic pulse centered around you, and all units in the area will fall into a state of inability to recover mana for 10 seconds. For enemies, their spell damage will also be completely invalidated, causing break, lasting for 5 seconds."
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_Lore"	"The wizard Mordenkainen made this glittering helme. If he has made other Helm of Disjunction, then those helmets have not been discovered yet."
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_helm_of_disjunction_bonus_magic_resist"	"%+$spell_resist"
+
+"DOTA_Tooltip_modifier_item_hd_helm_of_disjunction_debuff"                   "Mordenkainen's Disjunction"
+"DOTA_Tooltip_modifier_item_hd_helm_of_disjunction_debuff_Description"       "Unable to restore magic" 
+"DOTA_Tooltip_modifier_item_hd_helm_of_disjunction_debuff2"                   "Mordenkainen's Disjunction"
+"DOTA_Tooltip_modifier_item_hd_helm_of_disjunction_debuff2_Description"       "Greatly reduced spell damage amp, break" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_horn_of_winter"	"Horn of Winter<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_Description"	"<h1>Passive: The Chill of Winter</h1> When you summon any unit, freeze enemies within a 300 range around it for 0.5 seconds, and the enemies will take an additional 50%% damage for the next 6 seconds。<br>\n<h1>Passive: Winter Armor</h1>Your summon's incoming damage will reduced by 15%% damage."
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_Lore"	"A horn made from ice crystals from the permafrost glacier, which can summon the cold wind to bestow on your army."
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_horn_of_winter_summon_intensity"	"%+$summon_intensity"
+
+"DOTA_Tooltip_modifier_item_hd_horn_of_winter_debuff"                   "The Chill of Winter"
+"DOTA_Tooltip_modifier_item_hd_horn_of_winter_debuff_Description"       "Received additional %dMODIFIER_PROPERTY_TOOLTIP%%% damage " 
+
+"DOTA_Tooltip_modifier_item_hd_horn_of_winter_buff"                   "Winter Armor"
+"DOTA_Tooltip_modifier_item_hd_horn_of_winter_buff_Description"       "Incoming damage reduced by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring"	"Mythriens's Ring<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring_Description"	"<h1>Passive: Anti Shield Counter</h1> Any shield disable effect is no longer effective against you."
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring_Lore"	"he god of mythals of the elves, Mythriens, declined to a semi divine level due to his help in creating and weaving mythals. In order to restore his glory, he created this artifact."
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_mythrienss_ring_bonus_str"	"+$str"
+
+
+
+"DOTA_Tooltip_ability_item_hd_font_of_time"	"Font of Time<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_font_of_time_Description"	"<h1>Active: Font</h1> After active this item, you will lose half of your health, but in the next 20 seconds, you will gain a 40%^ chance of fully avoiding damage.(Not stack with passive effects)\n<h1>Passive: Into the Body</h1> Passively obtain a 15%% avoide effect."
+"DOTA_Tooltip_ability_item_hd_font_of_time_Lore"	"Among all the artifacts created by the ancients, this great Font is the most extraordinary and terrifying of them all. The water in the font is too bitter to drink. But if you observe the Holy Baptistery under the full moon's light, you will be able to see the ancient scenes of Mulholland, so realistic that you are willing to swear that everything is true. And they do. Because if you focus on this scene... Sorry, I can't say more because I hope no one will follow in my footsteps."
+"DOTA_Tooltip_ability_item_hd_font_of_time_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_font_of_time_bonus_str"	"+$str"
+"DOTA_Tooltip_ability_item_hd_font_of_time_bonus_health"	"+$health"
+
+"DOTA_Tooltip_modifier_item_hd_font_of_time_active"                   "Font"
+"DOTA_Tooltip_modifier_item_hd_font_of_time_active_Description"       "Improve the chance of avoiding damage" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1"	"Shield of the Hidden Lord<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_Description"	"<h1>Passive: Advanced Counterattack</h1> After each period of time, you will receive 15 opportunities to counterattack damage. When you receive damage, apply a physical damage equal to armor * 25 to the attacker.<br>\n<h1>Passive: Advanced Physical Protection</h1> After receiving physical damage, you have a 10%^ chance to gain 4 armor bonus for 7 seconds, up to 40.<br>\n<h1>Passive: The Dominance of the Hidden Lord</h1>After carrying this item for every 1 minute, you must undergo a will test and have a 10%% chance of being dominated. In the next 1 minute, your magic resistance will decrease by 200%%."
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_Lore"	"This shield is a symbol of kindness overcoming evil. Gazing at such beauty, it is easy to overlook the terrifying power it contains."
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_shield_of_the_hidden_lord_1_red_spell_resist"	"%-$red_spell_resist"
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1_buff"                   "Advanced Physical Protection"
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1_buff_Description"       "Armor increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1_debuff"                   "The Dominance of the Hidden Lord"
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1_debuff_Description"       "Magic resistance reduced by %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%" 
+"DOTA_Tooltip_modifier_item_hd_shield_of_the_hidden_lord_1"                   "Advanced Counterattack"
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_chrono_casket"	"Chrono Casket<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_chrono_casket_Description"	"<h1>Active: Time Reversal </h1> Teleporte to the position 5 seconds ago.\n<h1>Passive: Life Reversal</h1> When carrying this item to resurrect a teammate, it can consume 1 charge to reduce the target's resurrection time to 3 seconds, while also exempting the target from weakness punishment.<br><br>Initially, you have 3 charge points, and after 1 wave end, you can recover 1 point, with a maximum of 6 points retained."
+"DOTA_Tooltip_ability_item_hd_chrono_casket_Lore"	"Jewelry made of exquisite gemstones, with a clock engraved on its surface, symbolizing its association with time ability."
+"DOTA_Tooltip_ability_item_hd_chrono_casket_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_chrono_casket_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_chrono_casket_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_chrono_casket_cooldown_reduction"	"%+$cooldown_reduction"
+
+
+
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch"	"The Forest Witch's Flash Change Brooch<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_Description"	"<h1>Passive: Flash Change</h1> When an enemy wants to apply an attack on you, knockback them away by 600 distance. The same target will only be affected once within 20 seconds (even if the source is different).<br>\n<h1>Passive: Flashback</h1>After triggering 'Flash Change', the cooldown of your 'Stride' will be reduced by 3 seconds."
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_Lore"	"The brooch made by the most mysterious witch in the deep forest has an unpredictable ability to protect her from malicious attacks."
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_bonus_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_flash_change_brooch_bonus_mana"	"+$mana"
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer"	"Thousand Leagues Astrologer<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_Description"	"<h1>Active: Thousand Astrology</h1>In the next 10 seconds, your probability event bonus increases by 60%%, critical damage increases by 30%%, and evasion increases to 70%%."
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_Lore"	"The current whereabouts of the artifact is unknown, and there has been no sign that the deity has chosen a new champion since the 2nd Chaos Insurgency. Despite this, followers of the goddess believe that somewhere out there, 'Thousand Leagues Astrologer' is guiding a new Stellar Watcher through the dark, starry night."
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_bonus_evasion"	"%+$evasion"
+"DOTA_Tooltip_ability_item_hd_thousand_leagues_astrologer_bonus_all_attribute"	"+$all"
+
+
+
+"DOTA_Tooltip_modifier_item_hd_thousand_leagues_astrologer_active"                   "Thousand Astrology"
+"DOTA_Tooltip_modifier_item_hd_thousand_leagues_astrologer_active_Description"       "Gain probability event bonuses, critical damage bonuses, and evasion bonuses" 
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome"	"Starry Sky Dome<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome_Description"	"<h1>Active: Dark Dome</h1>Create a black dome to cover an area, and friendly forces within the area will not be perceived by the enemy, lasts for 6 seconds. This effect can be used up to 2 times per wave, but after 120 seconds in Endless wave, you can restore one charge.<br><br>If this item is not equipped at the beginning of the wave, the charge cannot be restored.\n<h1>Skill-Stone: Black Hole</h1> Black Hole now assimilates the caster, rendering them invulnerable and magic immune during the channeling period. Simultaneously, the radius of Black Hole is increased by %radius_up%% , with infinite pull strength at the inner edge and a mild repelling effect at the outer edge. Enemies that die within the Black Hole reduce its cooldown by %cd_reduce% seconds."
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome_Lore"	"A unique ring with a small black hole at its center. When your finger passes through the ring, the black hole will float above your fingertip."
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_starry_sky_dome_bonus_armor"	"+$armor"
+
+
+"DOTA_Tooltip_ability_item_hd_argo_paw"	"Argo Paw<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_argo_paw_Description"	"<h1>Active: Arcane Exile</h1> Banishes a target, preventing it from dealing damage for %no_duration% seconds.\n<h1>Passive: Arcane Weapon</h1> Gains attack damage equal to %attack_mp%%% of maximum mana.<br><br>After attacking, applies [Stellar Stream] to the target: Each stack doubles the damage from Arcane Weapon, up to a maximum of %attack_mp_max%%% of maximum mana.\n<h1>Skill-Stone: Arcane Aura</h1> Arcane Aura no longer provides mana regeneration, but instead restores mana at a rate of %arcane_mp_index%%% upon attacking."
+"DOTA_Tooltip_ability_item_hd_argo_paw_Lore"	"The Starstream Fist was developed in the wake of the 1st Arcane Rewrite, during the rapid rise of arcane-centric civilizations that began to view divine and celestial entities as irrelevant and unnecessary. The resentment towards celestial beings, who appeared to mortals as no different from the fiends that battled over the Material Plane for ages, led to a gradual push against religious societies, including the followers of Lirianyx."
+"DOTA_Tooltip_ability_item_hd_argo_paw_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_argo_paw_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_argo_paw_bonus_mana"	"+$mana"
+"DOTA_Tooltip_ability_item_hd_argo_paw_bonus_attack_speed"	"+$attack"
+"DOTA_Tooltip_modifier_item_hd_argo_paw_aura_attack_debuff"                   "Starstream"
+"DOTA_Tooltip_modifier_item_hd_argo_paw_aura_attack_debuff_Description"       "Take additional damage" 
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_defiant_shell"	"Defiant Shell<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_defiant_shell_Description"	"<h1>Passive: Reciprocity</h1>When attacked, the hero counter-attacks to the attacker."
+"DOTA_Tooltip_ability_item_hd_defiant_shell_Lore"	"Waiting to be added."
+"DOTA_Tooltip_ability_item_hd_defiant_shell_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_defiant_shell_bonusa_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_defiant_shell_bonus_all_attribute"	"+$all"
+
+
+
+
+
+// dawnMakers Wrath
+
+
+
+"DOTA_Tooltip_ability_item_hd_broken_promise"	"Broken Promise<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_broken_promise_Description"	"<h1>Active: Soul Confinement</h1>Insert the spirit attached to the sword into a designated friendly hero. Every time it causes damage, it can transform 20%% of its damage to energy into the spirit. When it reaches 100%%+1000 of your maximum health, it will release one energy. Enemies within a 600 range centered around the target hero will take damage equal to 50%% of your current mana. Each trigger will increase energy demand by 30%%, with independent stacking lasting for 10 seconds.<br>\n<h1>Passive:Soul Coat</h1>The selected friendly hero gains 15 all attribute bonuses."
+"DOTA_Tooltip_ability_item_hd_broken_promise_Lore"	"One year of arduous labour was necessary to produce a masterpiece of a blade, meant for a nobleman who demanded nothing short of perfection . Unsatisfied with the final result, however, the noble turned the sword on its craftsman in a fit of rage, and the magic within it reacted violently to this betrayal. When the dust settled, all that remained of the razed smithy was broken promise, stuck forever in the midst of its own destruction."
+"DOTA_Tooltip_ability_item_hd_broken_promise_bonus_str"	"-$red_str"
+"DOTA_Tooltip_ability_item_hd_broken_promise_bonus_mana"	"+$mana"
+"DOTA_Tooltip_ability_item_hd_broken_promise_Note0"	"Note:<br>After selecting a target, a new target cannot be selected, and one target can only be selected once."
+
+"DOTA_Tooltip_modifier_item_hd_broken_promise_target"                   "Soul Confinement"
+"DOTA_Tooltip_modifier_item_hd_broken_promise_target_Description"       "Be possessed" 
+
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_modular_armor"	"Modular Armor<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_modular_armor_Description"	"<h1>Passive: Self-Adaption</h1>Wearing this armor will not cause you any inconvenience, you can freely match any other equipment. For each item from the defense category of the treasure chest that you equip, the bonus attribute provided by this armor increases by 25%%.<br>When you wear 3 items in the defense category, 'Adaptive Level 2' will be unlocked<br>\n<h1>Passive: Adaptive Level 2</h1> Stimulate the charge on the armor and have a 20%% chance to deal damage equal to 10%% of your maximum health to the attacker when attacked."
+"DOTA_Tooltip_ability_item_hd_modular_armor_Lore"	"Modular armor is anotber byproduct of the Cabanagian Golem restoration project aside from the gauntlet. The armor consists of dozens of tiny parts tat can reconfigure themselves into several configurations, giving it incredible versatility and allowing the wearer to adapt to various situations."
+"DOTA_Tooltip_ability_item_hd_modular_armor_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_modular_armor_bonus_armor"	"+$armor"
+"DOTA_Tooltip_ability_item_hd_modular_armor_bonus_health"	"+$health"
+
+
+"DOTA_Tooltip_modifier_item_hd_modular_armor"                   "Self-Adaption"
+"DOTA_Tooltip_modifier_item_hd_modular_armor_Description"       "Expose adaptive stacks" 
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_modular_boots"	"Modular Boots<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_modular_boots_Description"	"<h1>Passive: Standardized Resistance</h1>Will not be affected by the move slow effect."
+"DOTA_Tooltip_ability_item_hd_modular_boots_Lore"	"Modular armor is anotber byproduct of the Cabanagian Golem restoration project aside from the gauntlet. The armor consists of dozens of tiny parts tat can reconfigure themselves into several configurations, giving it incredible versatility and allowing the wearer to adapt to various situations."
+"DOTA_Tooltip_ability_item_hd_modular_boots_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_modular_boots_bonus_move_speed"	"+$move_speed"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier"	"Blood Bug Barrier<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_Description"	"<h1>Passive: Blood Barrier</h1>When your health is greater than 80%%, you can convert health into a barrier of armor. When your health is below 40%%, it will automatically restore health from the absorbed health. You can store up to 2000%% of your maximum health, and each 100%% of your maximum health stored will provide 3 armor bonus."
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_Lore"	"The Blood-Bug Barrier is an artificial symbiont created from the core of a Demogoblin . As a result of a complex process of arcane enchantment and bioengineering, the Biology Department of the Grand Archive managed to create a symbiont version of the ooze's core that allows a creature to bond with it and gain tbe ability to produce endoplasm and exoskeleton layer to protect the bost and the core from barm. "
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_Note0"	"Note:<br>Stored health binding to this equipment."
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_bonus_health_regeneration_amplification"	"%+$health_regeneration_amplification"
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_bonus_lifesteal_gain"	"%+$lifesteal_gain"
+"DOTA_Tooltip_ability_item_hd_blood_bug_barrier_bonus_health"	"+$health"
+
+"DOTA_Tooltip_modifier_item_hd_blood_bug_barrier"                   "Blood Barrier"
+"DOTA_Tooltip_modifier_item_hd_blood_bug_barrier_Description"       "Stored %dMODIFIER_PROPERTY_TOOLTIP% health, armor increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude"	"Soul Lantern<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude_Description"	"<h1>Passive:Soul Collector</h1> When killing a unit, its soul can be collected into a lantern, and each soul will increase your base attack damage by 2, up to 150.<br>\n<h1>Passive: Soul Storage</h1>After you have learned Advanced Necromastery, the souls in the lantern will become invalid, but the maximum soul of Necromastery will increase by 40, and death will no longer lose souls."
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude_Lore"	"The lost artifact created by the God of Souls, trapping thousands of souls in it. When mortals approach, they are pulled towards hatred by the hands of countless ghosts."
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_cantern_of_servitude_bonus_damage"	"+$damage"
+"DOTA_Tooltip_modifier_item_hd_cantern_of_servitude"                   "Soul Collector"
+"DOTA_Tooltip_modifier_item_hd_cantern_of_servitude_Description"       "Provide attack damage bonus" 
+
+
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player"	"Revenant's Brooch<font color=\"#777777\"> - Tier 5</font>"
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player_Description"	"<h1>Toggle: Ethereal Bullets</h1> Step into the realm of the underworld, consuming %mana_cost% Mana on each attack to convert damage to pure damage and grant the ability to hit ethereal units.\n<font color=\"#606060\"><i>This item's conversion effect is inactive during Overstep; Damage dealt after conversion is halved against spell immune units.</i></font>"
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player_Lore"	"Heaven has its Endless Sea, Earth has its Underworld."
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player_bonus_damage"	"+Attack Damage"
+"DOTA_Tooltip_ability_item_hd_revenants_brooch_player_bonus_projectile_speed"	"+Projectile Speed"
+"DOTA_Tooltip_modifier_item_hd_revenants_brooch_player"	"Ethereal Bullets"
+
+"DOTA_Tooltip_ability_item_hd_rule_breaker"	"Rule Breaker Scroll - Sealing Technique<font color=\"#777777\"> - Tier 5</font>"
+"DOTA_Tooltip_ability_item_hd_rule_breaker_Description"	"<h1>Passive: Seal Magic</h1> Inflicts [Seal Omen] upon enemies when dealing spell damage.<br><br>[Seal Omen]: Upon entering a frenzy, consumes this status to cause %active_duration% seconds of stun and force an exit from the frenzy. The target is immune to [Seal Omen] for the following %duration% seconds."
+"DOTA_Tooltip_ability_item_hd_rule_breaker_Lore"	"One of the eight ancient forbidden scrolls, written in a language that is incredibly difficult to decipher."
+"DOTA_Tooltip_ability_item_hd_rule_breaker_bonus_spell_amp"	"%+Spell Amplification"
+"DOTA_Tooltip_ability_item_hd_rule_breaker_bonus_cooldown"	"%+Cooldown Reduction"
+"DOTA_Tooltip_modifier_item_hd_rule_breaker_active"	"Seal Omen"
+"DOTA_Tooltip_modifier_item_hd_rule_breaker_cd"	"Seal Immunity"
+
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire"	"Song of Ice and Fire<font color='#777777'>-Tier 5</font>"
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire_Description"	"<h1>Active: Till Death Do Us Part</h1>Halts dual-wielding attacks and triggers enhanced dual blade effects; increases dual wield range to %radius_active%, reduces disarm duration to %disarm_duration_active% seconds, and increases damage reduction during disarm to %incoming_active%%, lasting for %duration% seconds.<br><h1>Passive: Entwined Ice and Flame</h1>Transforms melee attacks into dual-wielding mode, applying a %disarm_duration% second disarm interval between attacks and gaining %incoming_down%%% damage reduction during this period.<br><br>The primary strike deals full base attack damage * %ice_damage%%% and inflicts enemies with +%ice_bonus_incoming%%% vulnerability to damage.<br><br>The secondary strike consumes this vulnerability to deal full base attack damage * %fire_damage%%% to the target and enemies within a %radius%%% radius around it.<br><font color='#606060'>The mandatory interval between dual-wield strikes is influenced by %cd_index%%% cooldown reduction; cannot be used with Cleave or Focused Attack.</font>"
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire_Lore"	"‘What have you been holding onto those two swords for?’\n‘A sad tale, that's particular.’"
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire_bonus_damage"	"+Damage"
+"DOTA_Tooltip_ability_item_hd_song_of_ice_and_fire_bonus_cooldown"	"%Cooldown Reduction"
+"DOTA_Tooltip_modifier_item_hd_song_of_ice_and_fire_active"	"Till Death Do Us Part"
+"DOTA_Tooltip_modifier_item_hd_song_of_ice_and_fire_active_Description"	"Blades united, empowered."
+
+"DOTA_Tooltip_ability_item_hd_poison_lokustra"	"Locusta's Casket<font color=\"#777777\">-Fifth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_poison_lokustra_Description"	"<h1>Active: Toxin master</h1>Converts your poisoned state into a healing state, turning incoming poison damage into health recovery for %duration% seconds.\n<h1>Aura: Profound Lasting Poison</h1>Enemies within a %radius% radius have their poison resistance reduced by %poison_res_down%%% , but their poison tick interval is increased by %poison_interval_up%%% ."
+"DOTA_Tooltip_ability_item_hd_poison_lokustra_Lore"	"There seems to be an ominous glow emanating..."
+"DOTA_Tooltip_ability_item_hd_poison_lokustra_bonus_damage_topoison"	"%+Increased Damage to Poisoned Enemies"
+"DOTA_Tooltip_ability_item_hd_poison_lokustra_lifesteal_topoison"      "%+Lifesteal against Poisoned Units"
+"DOTA_Tooltip_modifier_item_hd_poison_lokustra_spell"                   "Toxin master"
+"DOTA_Tooltip_modifier_item_hd_poison_lokustra_spell_Description"                   "Poison damage heals you instead."
+"DOTA_Tooltip_modifier_item_hd_poison_lokustra_active"                   "Profound Lasting Poison"
+"DOTA_Tooltip_modifier_item_hd_poison_lokustra_active_Description"                   "Significantly increased poison damage received, with greatly increased poison tick intervals."
+
+"DOTA_Tooltip_ability_item_hd_iron_part"	"Iron Branch Forge Stone <font color=\"#777777\">- Fifth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_iron_part_Description"	"<h1>Consumption: Supreme Forge, Heart of the Iron Tree</h1>When the first three slots of your inventory contain specific items in a certain order, using the Iron Branch Forge Stone will combine them into a new Supreme item.\n<font color=\"#606060\">Only one Supreme item can be forged per game;<br>the contents and order can be deduced through the item compendium.</font>"
+"DOTA_Tooltip_ability_item_hd_iron_part_Lore"	"The iron branch, the beginning of everything."
+"DOTA_Tooltip_ability_item_hd_iron_part_bonus_atb"	"+All Attributes"
+
+"DOTA_Tooltip_ability_item_hd_bfury_plus"	"Steel Cleave Axe <font color=\"#777777\">- Fifth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_bfury_plus_Description"	"<h1>Passive: Steel Surge</h1>Normal attacks deal %cleave_damage%%% splash damage to enemies within a %cleave_radius% radius of the target."
+"DOTA_Tooltip_ability_item_hd_bfury_plus_Lore"	"A battle axe crafted from true steel, capable of powerful cleaving."
+"DOTA_Tooltip_ability_item_hd_bfury_plus_bonus_damage"	"+Attack Damage"
+"DOTA_Tooltip_ability_item_hd_bfury_plus_no_armor"	"+Attack Armor Penetration"
+
+"DOTA_Tooltip_ability_item_hd_third_eye"	"Eye of Murphy<font color=\"#777777\">- Fifth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_third_eye_Description"	"<h1>Passive: Chaos Tide</h1>Every %interval% seconds, doubles one random primary attribute and halves another."
+"DOTA_Tooltip_ability_item_hd_third_eye_profic"	"% +$profic"
+"DOTA_Tooltip_ability_item_hd_third_eye_full_damage"	"%+$full_damage"
+"DOTA_Tooltip_ability_item_hd_third_eye_spell_amp"	"%+$spell_amp"
+"DOTA_Tooltip_ability_item_hd_third_eye_summon_intensity"	"%+$summon_intensity"
+"DOTA_Tooltip_ability_item_hd_third_eye_Lore"	"Do you believe our world begins in chaos and ends in chaos?"
+"DOTA_Tooltip_modifier_item_hd_third_eye"	"Chaos Tide"
+"DOTA_Tooltip_modifier_item_hd_third_eye_Description" "Gain %dMODIFIER_PROPERTY_TOOLTIP%%% Proficiency<br>Gain %dMODIFIER_PROPERTY_TOOLTIP%%% Full Damage<br>Gain %dMODIFIER_PROPERTY_TOOLTIP%%% Spell Amplification<br>Gain %dMODIFIER_PROPERTY_TOOLTIP%%% Summon Intensity"
+
+
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker"	"Wonders of the Shoes<font color=\"#777777\">- Fifth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker_Description"	"<h1>Passive: Miracle Stride</h1>Gains phase movement status. While moving, has a %chance%%% chance to increase total outgoing damage by %outgoing%%% [×]."
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker_move_speed"	"+$move_speed"
+"DOTA_Tooltip_ability_item_hd_travel_boots_tinker_evasion"	"%+$evasion"
+
+"DOTA_Tooltip_ability_item_hd_refresher"	"Refresher Orb<font color=\"#777777\">- Fifth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_refresher_Description"	"<h1>Active: Refresh</h1>Instantly refreshes the cooldown of all items and abilities. For non-refresheable abilities, reduces their remaining cooldown by %cd%%%."
+"DOTA_Tooltip_ability_item_hd_refresher_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_refresher_health"	"+$health"
+"DOTA_Tooltip_ability_item_hd_refresher_mana"	"+$mana"
+
+"DOTA_Tooltip_ability_item_hd_outworld_staff" "Staff of the Unworldly<font color=\"#777777\">- Fifth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_outworld_staff_Description" "<h1>Passive: Forbidden Proficiency</h1>When mana is above %line%%%, lose %mana_cost%%% of current mana per second and gain an additional %bonus_profic%%% proficiency and %bonus_spell_amp%%% spell amplification."
+"DOTA_Tooltip_ability_item_hd_outworld_staff_profic" "% +$profic"
+"DOTA_Tooltip_ability_item_hd_outworld_staff_spell_amp" "% +$spell_amp"
+"DOTA_Tooltip_ability_item_hd_outworld_staff_mana" "+$mana"
+
+"DOTA_Tooltip_ability_item_hd_disperser" "Blade of Dispersion<font color=\"#777777\">- Fifth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_disperser_Description" "<h1>Passive: Dispel</h1>Every %count%th basic attack applies <font color='#9370db'>Dispel</font> to enemies.\n<h1>Passive: Self-Purification</h1>When health is not below %line%%%, hitting with attacks consumes %hp_cost%%% of your maximum health and increases your proficiency by %bonus_profic%%% and damage by %bonus_damage%%%, stacking independently for %duration% seconds."
+"DOTA_Tooltip_ability_item_hd_disperser_profic" "% +$profic"
+"DOTA_Tooltip_ability_item_hd_disperser_lifesteal_gain" "%-<font color='#f28b93'>Lifesteal Amplification</font>"
+"DOTA_Tooltip_ability_item_hd_disperser_attack" "% +$attack"
+"DOTA_Tooltip_modifier_item_hd_disperser" "Self-Purification"
+"DOTA_Tooltip_modifier_item_hd_disperser_Description" "Total of %fMODIFIER_PROPERTY_TOOLTIP%%% proficiency gained<br>Total of %fMODIFIER_PROPERTY_TOOLTIP%%% damage gained"

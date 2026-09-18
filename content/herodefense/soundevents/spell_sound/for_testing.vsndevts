@@ -1,0 +1,47 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+
+{
+	
+//
+	testing_sound = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.400000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			 "sounds/weapons/hero/razor/razor_lightning_strike_05.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+		
+	testing_sound2 = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "1.000000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			 "sounds/music/diff/good_bye.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+		
+
+
+
+
+
+
+
+}

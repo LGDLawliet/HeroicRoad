@@ -1,0 +1,28 @@
+"DOTA_Tooltip_modifier_ranking_top1"                   "内卷之王"
+"DOTA_Tooltip_modifier_ranking_top1_Description"       "上个赛季排行榜位列Top1，赋予了好看的特效1，你的存在使队伍在'百相'难度下获得了些许额外的产出率（只增加一次），同时初始的可分配属性点+5." 
+"DOTA_Tooltip_modifier_ranking_top3"                   "位面之王"
+"DOTA_Tooltip_modifier_ranking_top3_Description"       "上个赛季排行榜位列Top3，赋予了好看的特效2，你的存在使队伍在'百相'难度下获得了些许额外的产出率（只增加一次）。" 
+"DOTA_Tooltip_modifier_ranking_top10"                   "神力觉醒"
+"DOTA_Tooltip_modifier_ranking_top10_Description"       "上个赛季排行榜位列Top10，赋予了好看的特效3。" 
+
+
+
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_1"	"初醒的褪色者"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_1_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">赛季结算奖励，感谢你参与内卷。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_2"	"边缘之地的战士"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_2_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">赛季结算奖励，感谢你参与内卷。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_3"	"步入战区的勇者"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_3_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">赛季结算奖励，感谢你参与内卷。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_4"	"觉醒之人"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_4_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">赛季结算奖励，感谢你参与内卷。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_5"	"屠龙勇者"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_5_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">赛季结算奖励，感谢你参与内卷。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_6"	"见证者"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_6_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">赛季结算奖励，感谢你参与内卷。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_7"	"神力觉醒"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_7_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">赛季结算奖励，感谢你参与内卷。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_8"	"位面之王"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_8_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">赛季结算奖励，感谢你参与内卷。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_9"	"内卷之王"
+"DOTA_Tooltip_ability_Shop_bonus_info_contestBonus_9_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">赛季结算奖励，感谢你参与内卷。</font><font color=\"#f0ad4e\"><br></font>"
+

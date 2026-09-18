@@ -1,0 +1,221 @@
+"DOTAAbilities"
+{
+    "item_hd_soul_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "item_lua"
+        "AbilityTextureName"       "soul2"
+        "ScriptFile"               "items/item_hd_soul_1"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "AbilityCastPoint"         "0.0"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"         "9000"
+        
+        "ItemQuality"              "consumable"
+        "ItemCastOnPickup"         "0"
+        "Model"                    "models/props_gameplay/mango.vmdl"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                 "2000"
+        "ItemPurchasable"          "0"
+        "ItemKillable"             "0"
+        "ItemKillable"             "0"
+        "ItemPermanent"            "0"
+        "ItemInitialCharges"       "1"
+        "ItemStackable"            "1"
+        "ItemShopTags"             "consumable"
+        "ItemRequirements"
+        {
+        }
+        "Uniqueness"               "false"
+        "AbilityValues"
+        {
+        }
+    }
+    "item_hd_dust2"
+    {
+        "BaseClass"                "item_lua"
+        "AbilityTextureName"       "soul_dust"
+        "ScriptFile"               "items/item_hd_dust"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "9000"
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        // unique ID number for this item.  Do not change this once established or it will invalidate collected stats.
+        
+        "ItemQuality"              "consumable"
+        "Model"                    "models/props_gameplay/red_box.vmdl"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                 "2000"
+        "ItemSellable"             "1"
+        "ItemShareability"         "ITEM_FULLY_SHAREABLE"
+        "ItemPurchasable"          "0"
+        "ItemDeclarations"         "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_TO_SPECTATORS"
+        "ItemShopTags"             "move_speed;boost_mana;mana_pool"
+        "ItemAliases"              "mana;mb;octarine core"
+        "ItemRequirements"
+        {
+        }
+        "precache"
+        {
+            "particle"    "particles/new_effect/new_effect/new_item_hd_faded_broach.vpcf"
+        }
+        "ShouldBeSuggested"        "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "item_hd_revtel_signet_ring"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "item_lua"
+        "AbilityTextureName"       "item_revtel_signet_ring"
+        "ScriptFile"               "items/item_hd_revtel_signet_ring"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityCastPoint"         "0"
+        "AnimationPlaybackRate"    "0"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"         "0"
+        
+        "ItemQuality"              "artifact"
+        "ItemCastOnPickup"         "0"
+        "Model"                    "models/props_gameplay/red_box.vmdl"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                 "2000"
+        "ItemDroppable"            "1"
+        "ItemSellable"             "1"
+        "ItemShareability"         "ITEM_NOT_SHAREABLE"
+        "ItemPurchasable"          "0"
+        "ItemKillable"             "0"
+        "ItemKillable"             "0"
+        "ItemAlertable"            "0"
+        "ItemPermanent"            "0"
+        "ItemStackable"            "0"
+        "ItemRequirements"
+        {
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "item_hd_blink"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "item_lua"
+        "AbilityTextureName"       "item_blink"
+        "ScriptFile"               "items/item_hd_blink"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityCastPoint"         "0"
+        "AnimationPlaybackRate"    "0"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"         "0"
+        
+        "ItemQuality"              "epic"
+        "ItemCastOnPickup"         "0"
+        "Model"                    "models/props_gameplay/red_box.vmdl"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                 "2000"
+        "ItemDroppable"            "1"
+        "ItemSellable"             "1"
+        "ItemShareability"         "ITEM_NOT_SHAREABLE"
+        "ItemPurchasable"          "0"
+        "ItemKillable"             "0"
+        "ItemKillable"             "0"
+        "ItemAlertable"            "0"
+        "ItemPermanent"            "0"
+        "ItemStackable"            "0"
+        "ItemRequirements"
+        {
+        }
+        "AbilityValues"
+        {
+        }
+    }
+    "item_hd_guardian_ring"
+    {
+        "BaseClass"                "item_lua"
+        "AbilityTextureName"       "item_ancient_guardian"
+        "ScriptFile"               "items/item_hd_guardian_ring"
+        "AbilityCastPoint"         "0"
+        "AnimationPlaybackRate"    "0"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        //"ID"                       ""
+        "ItemQuality"              "epic"
+        "ItemCastOnPickup"         "0"
+        "Model"                    "models/props_gameplay/red_box.vmdl"
+        "ItemCost"                 "2000"
+        "ItemDroppable"            "1"
+        "ItemSellable"             "1"
+        "ItemShareability"         "ITEM_NOT_SHAREABLE"
+        "ItemPurchasable"          "0"
+        "ItemKillable"             "0"
+        "ItemKillable"             "0"
+        "ItemAlertable"            "0"
+        "ItemPermanent"            "0"
+        "ItemStackable"            "0"
+        "ItemRequirements"
+        {
+        }
+        "AbilityValues"
+        {
+            "bonus_spell_amp"      "16"
+            "bonus_mana_perlvl"    "25"
+        }
+    }
+
+    "item_hd_point_booster"
+	{
+        "BaseClass"                "item_lua"
+		"AbilityTextureName"					"item_point_booster"
+		"ScriptFile"							"items/item_hd_point_booster"
+		"AbilityBehavior"						"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"ItemCastOnPickup"						"0"
+		"Model"									"models/props_gameplay/red_box.vmdl"
+		"ItemCost"								"2000"
+		"ItemDroppable"							"1"
+		"ItemSellable"							"1"
+		"ItemShareability"						"ITEM_NOT_SHAREABLE"
+		"ItemPurchasable"						"0"
+		"ItemKillable"							"0"
+		"ItemAlertable"							"0"
+		"ItemPermanent"							"0"
+		"ItemStackable"							"0"
+		"AbilityValues"
+		{
+			"profic"							"27"
+            "regen"                             "3"
+            "mana_regen"                        "2"
+            "interval"                          "5"
+		}
+	}
+}

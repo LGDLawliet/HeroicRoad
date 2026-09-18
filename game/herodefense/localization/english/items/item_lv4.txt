@@ -1,0 +1,78 @@
+"DOTA_Tooltip_ability_item_hd_advanced_Claw_of_attack"	"Advanced Claw of Attack<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_advanced_Claw_of_attack_Lore"	"Finely polished claws.Compared with the lowest level weapons, its sharpness has been reduced to a minimum."
+"DOTA_Tooltip_ability_item_hd_advanced_Claw_of_attack_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_advanced_Claw_of_attack_bonus_damage"	"+$damage"
+
+
+"DOTA_Tooltip_ability_item_hd_witchbane"	"Witchbane<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_witchbane_Description"	"<h1>Active: Cleanse</h1>Dispel friendly targets.<br><br>Dispersion type: Weak Dispersion<br>\n<h1>Passive: Subjugate</h1>Your attacks deal bonus damage equal to 5% of your Max Mana."
+"DOTA_Tooltip_ability_item_hd_witchbane_Lore"	"With ready access to test subjects, untold cruelties have been dreamed up and loosed upon the world from within the walls of the Tyler Estate."
+"DOTA_Tooltip_ability_item_hd_witchbane_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_witchbane_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_witchbane_bonus_attack_speed"	"+$attack"
+
+
+"DOTA_Tooltip_ability_item_hd_arcana_blink"	"Flying Star · Blink Dagger<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_arcana_blink_Description"	"\n<h1>Consumption: Fusion</h1><br>Integrate with the item.<br>\n<h1>Passive: Flashing</h1>It can take the place of Stride into cooldown."
+"DOTA_Tooltip_ability_item_hd_arcana_blink_Lore"	"The power of the flying star in the sky gave the Blink dagger special power, and now it has the power of fusion."
+"DOTA_Tooltip_ability_item_hd_arcana_blink_Note0"	"Note:<br>It can take effect even if it is placed in the backpack."
+
+
+"DOTA_Tooltip_modifier_item_hd_arcana_blink_active"                   "Flying Star · Blink Dagger"
+"DOTA_Tooltip_modifier_item_hd_arcana_blink_active_Description"       "You have integrated with this item" 
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_aghanims_shard"	"Aghanim's Shard<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_aghanims_shard_Description"	"<h1>Consumption: Fusion</h1>Integrate with the first Advanced spells from the left, and permanently increase its advanced level * 5. You can break through the limit of level 25. Even if your Atlas level is not enough, you can ignore this limit and directly raise the level.<br><br>It can only be used once."
+"DOTA_Tooltip_ability_item_hd_aghanims_shard_Lore"	"With origins known only to a single wizard, fragments of this impossible crystal are nearly as coveted as the renowned scepter itself."
+"DOTA_Tooltip_ability_item_hd_aghanims_shard_Note0"	"Note:"
+"DOTA_Tooltip_modifier_item_hd_aghanims_shard_active"                   "Aghanim's Shard"
+"DOTA_Tooltip_modifier_item_hd_aghanims_shard_active_Description"       "You have integrated with this item" 
+
+
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier"	"Eye of the Vizier<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_Description"	"<h1>Passive: Mana Reserve</h1>Your maximum mana value is reduced by 20%%, but when your mana is lower than 40%%, you will gain mana recovery bonus equal to your intelligence * 10%% ."
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_Lore"	"The ring of a cunning court mage who imprisoned a cadre of enemies to serve as his personal mana reserve."
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_Note0"	"Note:"
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_bonus_cast_range"	"+$cast_range"
+
+
+
+"DOTA_Tooltip_ability_item_hd_bottle_invisibility"	"Stealth Potion<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_bottle_invisibility_Description"	"<h1>Consumption: Mana Water</h1>Your Bottle will permanently gain new abilities:You can enter the invisible state for 2 seconds after cast on <font color=\"#f0ad4e\">yourself</font>, which will be interrupted by launch attacks or cast spells."
+"DOTA_Tooltip_ability_item_hd_bottle_invisibility_Lore"	"This strange liquid can permanently strengthen your bottle."
+"DOTA_Tooltip_ability_item_hd_bottle_invisibility_Note0"	"Note:<br>It can only be used once."
+"DOTA_Tooltip_modifier_item_new_bottle_invisibility"                   "Invisible"
+
+"DOTA_Tooltip_ability_item_hd_poison_fog"	"Hydra's Wand<font color=\"#777777\">-Fourth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_poison_fog_Description"	"<h1>Passive: Malignant Infection</h1>During combat rounds, automatically infects enemies within a %radius% radius at regular intervals, reducing their poison resistance by %poison_res_down%%% for %duration% seconds."
+"DOTA_Tooltip_ability_item_hd_poison_fog_Lore"	"Not even the powerful staves of the void realm can contain this toxin."
+"DOTA_Tooltip_ability_item_hd_poison_fog_bonus_atb"	"+All Attributes"
+"DOTA_Tooltip_ability_item_hd_poison_fog_bonus_poison_res"      "%+Poison Resistance"
+"DOTA_Tooltip_modifier_item_hd_poison_fog_active"                   "Malignant Infection"
+"DOTA_Tooltip_modifier_item_hd_poison_fog_active_Description"                   "Decreased Poison Resistance"
+
+"DOTA_Tooltip_ability_item_hd_poison_ball"	"Pestilent Heart<font color=\"#777777\">-Fourth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_poison_ball_Description"	"<h1>Passive: Plague Circulation</h1>Each poisoned unit within a %radius% radius grants you %bonus_armor% armor.\n<h1>Passive: Contagion</h1>Attacking an enemy causes them to enter a poisoned state.\n<font color=\"#606060\">Contagion causes a poison stack of 1, but it still lasts for 10 seconds.</font>"
+"DOTA_Tooltip_ability_item_hd_poison_ball_Lore"	"There seems to be an ominous glow emanating..."
+"DOTA_Tooltip_ability_item_hd_poison_ball_bonus_health"	"+Health"
+"DOTA_Tooltip_ability_item_hd_poison_ball_bonus_magic_res"      "%+Magic Resistance"
+"DOTA_Tooltip_modifier_item_hd_poison_ball"                   "Pandemic"
+"DOTA_Tooltip_modifier_item_hd_poison_ball_Description"                   "Number of Poisoned Targets"
+
+"DOTA_Tooltip_ability_item_hd_lotus_orb"	"Lotus Orb<font color='#777777'>- Fourth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_lotus_orb_Description"	"<h1>Upgrade: <img src='s2r://panorama/images/compendium/coin_icon_png.vtex'/><font color='gold'>%upgrade_cost%</font></h1>Pay gold to upgrade.<h1>Passive: Lotus Shield</h1>Reduces spell damage taken by %incoming%%%."
+"DOTA_Tooltip_ability_item_hd_lotus_orb_Lore"	"A powerful orb that can prevent its user from meeting an untimely demise."
+"DOTA_Tooltip_ability_item_hd_lotus_orb_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_lotus_orb_spell_resist"	"%+$spell_resist"
+
+"DOTA_Tooltip_ability_item_hd_enhancement_wise"	"Rune: Wisdom<font color='#777777'>- Fourth Tier</font>"
+"DOTA_Tooltip_ability_item_hd_enhancement_wise_Description"	"<h1>Consumable: Fuse</h1>Absorb the rune to level up once and permanently gain %eat_profic%%% Proficiency, stacks."
+"DOTA_Tooltip_ability_item_hd_enhancement_wise_Lore"	"Absorb the rune, receive its blessing."
+"DOTA_Tooltip_ability_item_hd_enhancement_wise_profic"	"% +$profic"
+"DOTA_Tooltip_ability_item_hd_enhancement_wise_all_attribute"	"+$all_attribute"
+"DOTA_Tooltip_modifier_item_hd_enhancement_wise_buff"	"Rune: Wisdom"
+"DOTA_Tooltip_modifier_item_hd_enhancement_wise_buff_Description" "Gain %dMODIFIER_PROPERTY_TOOLTIP%%% Proficiency"

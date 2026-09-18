@@ -1,0 +1,1273 @@
+#playerChaoticEraSpellslibraryMenuwindowROOT{
+    width: 100%;
+    height: 100%;
+    align: right bottom;
+    /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+    background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    visibility: collapse;
+    
+}
+
+
+#playerChaoticEraSpellslibraryMenuwindowROOT.Visible {
+    visibility: visible;
+}
+
+#ChaoticEra_middle_block{
+    vertical-align: top;
+    width: 48%;
+    height: 100%;
+}
+
+#ChaoticEra_subdivision_left_block{
+    horizontal-align: left;
+    width: 200px;
+    height: 100%;
+    margin-top: 50px;
+    /* background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex"); */
+    /* background-size: 100%; */
+    border-right:5px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    flow-children: down;
+    border-brush: gradient( linear, 0% 0%, 0% 100%, from( #f7e7b573 ), to( #f7e7b519 ) );
+}
+#ChaoticEra_subdivision_Top_block{
+    horizontal-align: left;
+    vertical-align: top;
+    width: 100%;
+    height: 120px;
+    margin-top: 50px;
+    margin-left: 200px;
+
+    border-bottom:5px solid rgb(0, 0, 0);
+    border-right: 5px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    flow-children: down-wrap;
+    border-brush: gradient( linear, 0% 0%, 0% 100%, from( #f7e7b573 ), to( #f7e7b519 ) );
+}
+
+
+.ChaoticEraSpellButton{
+
+    /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1c1c22 ), to( #131422 ) );
+    border: 1px solid rgb(84, 84, 84);
+    border-brush: gradient( linear, 0% 0%, 0% 100%, from( #f7e7b573 ), to( #f7e7b519 ) ); */
+    width: 150px;
+    height: 50px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_deck_info.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    z-index: 0;
+    padding: 15px;
+    border-radius: 5px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+
+    brightness: 1.5;
+    border:1px solid rgba(99, 99, 99,0.3);
+    horizontal-align: center;
+    margin-top: 25px;
+    opacity: 0.1;
+
+    transition-property: opacity,transform,pre-transform-scale2d;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+
+    &:hover{
+        brightness: 2;
+        opacity: 1;
+        box-shadow: rgb(14, 57, 77) 0px 0px 15px 0px;
+    }
+    &:active{
+        brightness: 3;
+        pre-transform-scale2d:1.1;
+        box-shadow: rgb(14, 57, 77) 0px 0px 35px 0px;
+    }
+
+    &.Active{
+        brightness: 3;
+        /* pre-transform-scale2d:1.1; */
+        /* margin-left: 10px; */
+        transform: translateX( 10px ) translateY( 0px );
+        opacity: 1;
+        box-shadow: rgb(14, 57, 77) 0px 0px 15px 0px;
+    }
+
+    > Label{
+        font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+        font-size: 20px;
+        width: 100%;
+        text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; 
+        text-overflow: shrink;
+        text-align: center;
+        vertical-align: middle;
+        color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+    
+    }
+    
+}
+
+
+
+
+.ChaoticEra_subdivision_Top_single_block{
+    width: 100%;
+    /* height: 50px; */
+    flow-children: right-wrap;
+    margin-left: 5px;
+
+    border-bottom:1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    border-brush: gradient( linear, 0% 0%, 0% 100%, from( #f7e7b573 ), to( #f7e7b519 ) );
+    margin-top: 3px;
+}
+
+.SubdivisonCheckingBox{
+    width: 140px;
+}
+
+
+#ChaoticEra_spellList{
+    height: 100%;
+    width: 100%;
+    horizontal-align: left;
+    vertical-align: top;
+    // margin-top: 170px;
+    margin-top: 55px;
+    margin-left: 200px;
+    border:2px solid rgb(59, 59, 59);
+    border-radius: 5px;
+    flow-children: right-wrap;
+    overflow:squish scroll;
+
+}
+
+
+
+
+
+
+/* 右边窗口 */
+#ChaoticEra_right_block{
+    vertical-align: top;
+    horizontal-align: right;
+    margin-top: 50px;
+    width: 51%;
+    height: 100%;
+    flow-children: down;
+    /* border:5px solid rgb(0, 0, 0); */
+
+}
+
+#ChaoticEra_rune_content_root{
+    width: 100%;
+    height: 800px;
+}
+#ChaoticEra_rune_content_background{
+    width: 100%;
+    height: 100%;
+    flow-children: right-wrap;
+    border:1px solid rgba(99, 99, 99, 0.205);
+    /* background-color:rgba(28, 28, 28, 0.63); */
+    wash-color: #21004fa2;
+    /* background-size: 200px 200px; */
+    /* contrast:1.02; */
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_profile.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#ChaoticEra_rune_content{
+    width: 100%;
+    height: 100%;
+    flow-children: right-wrap;
+    wash-color: #bfbfbf;
+    overflow: squish scroll;
+}
+
+
+#ChaoticEra_rune_Modify_root{
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+.runeRoot{
+    width: 100px;
+    height: 180px;
+    overflow:clip;
+    /* brightness: 1.2; */
+    /* wash-color: #33cccc; */
+    transition-property: opacity, transform, pre-transform-scale2d, box-shadow;
+    transition-duration: 0.6s, 0.4s, 0.3s;
+    transition-timing-function: ease-in-out;
+    /* pre-transform-scale2d:0.5; */
+
+    background-image:url("s2r://panorama/images/custom_game/chaotic_era/rune_background_shadow.png");
+    background-size: 0%;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    &.big{
+        width: 150px;
+        height: 270px;
+    }
+    #Single_Rune_Image{
+        width: 80%;
+        height: 80%;
+        /* margin-top: -8px; */
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 50% 00%;
+        // margin: 8px;
+        margin-left: 9px;
+        margin-top: 9px;
+        background-image:url("s2r://panorama/images/custom_game/chaotic_era/rune_background.png");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        contrast:1.02;
+    
+        transition-property: brightness,pre-transform-scale2d;
+        transition-duration: 0.1s;
+        transition-timing-function: ease-in;
+        /* box-shadow: rgb(192, 192, 192) 0px 0px 5px 0px; */
+        &:hover{
+            brightness: 2.8;
+            pre-transform-scale2d: 1.1;
+           
+            
+        }
+        &.active{
+            brightness: 2.8;
+            pre-transform-scale2d: 1.1;
+        }
+    }
+    
+
+}
+
+
+
+
+
+#RuneImageMain{
+    opacity-mask: url("s2r://panorama/images/hero_relics/hero_relic_rare_mask_psd.vtex");
+    /* width: 100%; */
+    /* height: 100%; */
+    width: 150px;
+    height: 150px;
+    /* ui-scale: 60%; */
+    brightness: 3;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    wash-color: #d4eeff;
+    /* contrast:1; */
+    /* background-color: rgb(63, 123, 132); */
+    
+}
+
+.RuneImageColored{
+    saturation:1.1;
+    brightness:1.6;
+    /* contrast:1; */
+    
+}
+#second_layer{
+    saturation:0.1;
+    brightness:1.6;
+}
+
+.RuneImageColored.level1{
+    wash-color: #a1a1a1;
+    background-color: #252525;
+}
+.RuneImageColored.level2{
+    wash-color: #ffffff;
+    background-color: #252525;
+}
+.RuneImageColored.level3{
+    wash-color: #6dc4ff;
+    background-color: rgb(63, 123, 132);
+}
+
+.RuneImageColored.level4{
+    wash-color: #c394ff;
+    background-color: rgb(41, 30, 58);
+}
+
+.RuneImageColored.level5{
+    wash-color: #fdd348;
+    background-color: rgb(86, 82, 52);
+}
+
+.RuneImageColored.level6{
+    wash-color: #48fd66;
+    background-color: rgb(53, 86, 52);
+}
+
+.RuneImageLayer{
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+
+#RuneImageInternal{
+    /* margin: 10px; */
+    margin-top: 10px;
+    width: 100px;
+    /* height: 100%; */
+    border-radius: 50%;
+    brightness: 0.5;
+    padding: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    align: center top;
+    
+    
+}
+
+#runeImageScenes{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.RuneImageShaow{
+    background-image: url("s2r://panorama/images/hero_relics/h_hero_relic_rare_innershadow_psd.vtex"), url("s2r://panorama/images/hero_relics/h_hero_relic_rare_shine_psd.vtex");
+}
+
+.RuneImageLayer{
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+
+}
+
+#RuneImageOverlay{
+    opacity-mask: url("s2r://panorama/images/hero_relics/h_hero_relic_rare_topbottombrightness_mask_psd.vtex");
+    brightness: 10.0;
+    
+}
+
+#RuneImageInternal2{
+    margin: 20px;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    
+}
+
+.RuneImageBottomShade{
+    visibility:collapse;
+    background-image: url("s2r://panorama/images/hero_relics/h_hero_relic_bottomhalf_shadow_normal_psd.vtex");
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    
+}
+
+.RuneImageShine{
+    background-image:url("s2r://panorama/images/hero_relics/h_hero_relic_rare_shine2_psd.vtex");
+    opacity: 0.7;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    
+}
+
+#RuneImageBorder{
+    background-image:url("s2r://panorama/images/hero_relics/hero_relic_rare_border_normal_psd.vtex");
+    transform: translateY(7px);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    contrast:1.5;
+    
+}
+
+#RuneLevelLabel{
+    font-family: TH Sarabun New, YDYGO 540;
+    font-size: 20px;
+    /* width: 100%; */
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; 
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: -3px;
+    text-align: center;
+    /* color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d)); */
+    horizontal-align: center;
+    vertical-align: middle;
+    margin-top: 40px;
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 25px 15px; */
+}
+
+#RuneGlow{
+    width:101%;
+    brightness: 1.4;
+    height: 101%;
+    margin-top: 5px;
+    background-image:url("s2r://panorama/images/custom_game/chaotic_era/hero_relic_glow_rare_white.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    wash-color: #6dc4ff;
+    z-index: 5;
+    contrast:6;
+    /* animation-name: RuneGlow;
+    animation-duration: 10.4s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: reverse; */
+}
+
+
+@keyframes 'RuneGlow'
+{
+    0%
+    {
+        brightness: 2;
+    }
+    25%
+    {
+        brightness: 5;
+    }
+             
+    100%
+    {
+        brightness: 2;
+    }
+}
+
+
+
+
+
+
+
+
+#RuneHighLight{
+    /* background-image:url("s2r://panorama/images/custom_game/chaotic_era/hero_relic_rare_highlight_white.vtex"); */
+    background-image:url("s2r://panorama/images/custom_game/chaotic_era/hero_relic_glow_rare_white.png");
+    width:100%;
+    height:100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    z-index: 0;
+    wash-color: #fdd348;
+    brightness: 1.3;
+}
+#RuneImageBorder.level1,
+#second_layer.level1,
+#RuneGlow.level1{
+    wash-color: #a1a1a1;
+}
+#RuneImageBorder.level2,
+#second_layer.level2,
+#RuneGlow.level2{
+    wash-color: #d8d8d8;
+}
+
+#RuneImageBorder.level3,
+#second_layer.level3,
+#RuneGlow.level3{
+    wash-color: #6dc4ff;
+}
+#RuneImageBorder.level4,
+#second_layer.level4,
+#RuneGlow.level4{
+    wash-color: #9c8cf3;
+}
+#RuneImageBorder.level5,
+#second_layer.level5,
+#RuneGlow.level5{
+    wash-color: #fdd348;
+}
+#RuneImageBorder.level6,
+#second_layer.level6,
+#RuneGlow.level6{
+    wash-color: #48fd66;
+}
+
+
+
+
+
+
+
+
+.runeContainerRoot{
+    width: 100px;
+    height: 200px;
+    /* transform: translateX( 1500px ) translateY( 00px ); */
+    /* pre-transform-scale2d:0.95; */
+    opacity: 0.0;
+}
+.runeContainerRoot.hasFade{
+    transition-property: opacity, transform, pre-transform-scale2d, box-shadow;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+}
+
+.runeContainerRoot.Show{
+    opacity: 1.0;
+
+
+}
+
+.runeContainer{
+    width: 100px;
+    height: 200px;
+  
+}
+#RuneLockButton{
+    width: 30px;
+    height: 30px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/lock_button.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    horizontal-align: left;
+    vertical-align: bottom;
+    margin-bottom: 55px;
+    opacity: 0;
+    saturation: 0.2;
+    brightness: 1;
+    border-radius: 50%;
+    // box-shadow:0px 2px 10px rgba(26, 20, 31, 0.9);
+    &.show{
+        opacity: 1;
+    }
+    &:hover{
+        brightness: 1.8;
+    }
+    &active{
+        brightness: 5;
+        sound: "Shop.Available";
+    }
+    &.lock{
+        background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/unlock_button.png");
+        wash-color: red;
+    }
+    z-index: 5;
+}
+
+#itemInfoContainer{
+    height: 60px;
+    width: 100%;
+    margin-bottom: 20px;
+    vertical-align: bottom;
+}
+#itemInfoContainer.hide{
+    opacity: 0;
+}
+
+#StatusLabelContainer{
+    border-top:1px solid rgb(250, 250, 250);
+    border-brush:gradient( linear, 0% 0%, 100% 0%, from( #FFFFFF00 ), color-stop( 0.3, #ffffff04 ), color-stop( 0.7, #ffffff04 ), to( #FFFFFF00 ) );
+    width:100%;
+    padding: 6px 0px;
+    margin-top: 8px;
+    margin-bottom: 1px;
+    transition-property: opacity;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-in;
+    vertical-align: center;
+
+
+}
+#StatusLabel1,
+#StatusLabel0{
+    font-weight:semi-bold;
+    horizontal-align: center;
+    /* max-height: 21px; */
+    text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+    text-overflow: shrink;
+    color:rgba(255, 255, 255, 0.5);
+    opacity: 0;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+#StatusLabel1{
+    // box-shadow:0px 2px 55px rgb(50, 48, 48);
+    box-shadow:0px 2px 55px rgb(80, 58, 101);
+    font-size: 16px;
+}
+#StatusLabel1.Visible,
+#StatusLabel0.Visible{
+    opacity: 1;
+}
+
+
+#ActionButton{
+    width: 100%;
+    ignore-parent-flow:true;
+    vertical-align:center;
+    opacity: 0;
+    transform: translateY( 3px );
+    transition-property:opacity, transform;
+    transition-duration:0.15s;
+    transition-timing-function:ease-out;
+    transition-delay: 0.05s;
+    background-color:DarkGreyGradientBackgroundColor;
+    border-brush:WhiteGradientBorderSoft;
+    box-shadow:0px 2px 8px rgba(0, 0, 0, 0.3);
+    background-image:url("s2r://panorama/images/backgrounds/background_play_button_2x.png");
+    background-size:cover;
+    background-img-opacity:0.3;
+    border-radius:3px;
+    padding:0px 16px;
+    height: 34px;
+    border:1px solid white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#ActionButton.Visible{
+    opacity: 1;
+}
+#ActionButton:hover{
+    brightness: 2;
+}
+
+#ActionButton > Label{
+    color:white;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    horizontal-align: center;
+    vertical-align: center;
+    margin: -1px 0px 1px;
+    text-transform:uppercase;
+    text-overflow:shrink;
+    text-shadow: 0px 1px 4px #000000;
+    letter-spacing:1.5px;
+
+}
+
+
+
+
+
+
+#ChaoticEra_rune_Modify{
+    width: 100%;
+    height: 100%;
+    /* flow-children: right-wrap; */
+    wash-color: #bfbfbf;
+    /* overflow: squish scroll; */
+}
+
+#ChaoticEra_rune_ModifyButtonList{
+    width: 100%;
+    height:70px;
+    flow-children: right-wrap;
+    .ChaoticEraRuneModifyButton{
+        &.hidden{
+            opacity: 0;
+        }
+    }
+}
+
+
+
+.ChaoticEraRuneModifyButton{
+    width: 150px;
+    height: 50px;
+    /* background-image: url("s2r://panorama/images/hud/reborn/hud_custom_ti11/ability_bg_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center; */
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_deck_info.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 0;
+    padding: 15px;
+    border-radius: 5px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+    brightness: 1.5;
+    border:1px solid rgba(99, 99, 99,0.3);
+    /* horizontal-align: center; */
+    vertical-align: center;
+    /* margin-top: 25px; */
+    opacity: 1;
+    transition-property: opacity,transform,pre-transform-scale2d;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+    margin-left: 20px;
+}
+
+.ChaoticEraRuneModifyButton:hover{
+    brightness: 2;
+    opacity: 1;
+    box-shadow: rgb(14, 57, 77) 0px 0px 15px 0px;
+}
+.ChaoticEraRuneModifyButton:active{
+    brightness: 3;
+    pre-transform-scale2d:1.1;
+    box-shadow: rgb(14, 57, 77) 0px 0px 35px 0px;
+}
+.ChaoticEraRuneModifyButton.Active{
+    brightness: 3;
+    /* pre-transform-scale2d:1.1; */
+    /* margin-left: 10px; */
+    transform: translateX( 0px ) translateY( -10px );
+    opacity: 1;
+    box-shadow: rgb(14, 57, 77) 0px 0px 15px 0px;
+}
+
+.ChaoticEraRuneModifyButton > Label{
+    font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 20px;
+    width: 100%;
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; 
+    text-overflow: shrink;
+    text-align: center;
+    vertical-align: middle;
+    color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+
+}
+
+
+#ChaoticEra_Rune_modifyBlockRoot{
+    width: 100%;
+    height: 100%;
+    box-shadow: rgba(0, 0, 0, 0.9) 0px 0px 35px 0px;
+    opacity: 0;
+    #ChaoticEra_Rune_modifyBlockContent{
+        width: 80%;
+        height: 800px;
+        border-right: 1px solid rgba(255, 255, 255, 0.02);
+        margin-right: 4px;
+        background-color: gradient( radial, 0% 0%, 0% 0%, 100% 100%, from( #181d25 ), to( #050609 ) );
+        border:1px solid rgba(255, 255, 255, 0.02);
+        align: center center;
+        #runeContainer_Modify{
+            width: 300px;
+            height: 300px;
+            vertical-align: center;
+            margin-left: 10px;
+        }
+        #ChaoticEra_rune_EditButtonList{
+            height: 150px;
+            width: 500px;
+            flow-children: right-wrap;
+            margin-top: 20px;
+            /* horizontal-align: right; */
+            margin-left: 20%;
+            
+
+            #ChaoticEraRuneEditButton1{
+                margin-left: 50px;
+            }
+
+
+        }
+
+        
+
+        #rube_BonusEdit_kv_Content{
+            border-top:1px solid rgb(250, 250, 250);
+            width: 100%;
+            height: 100%;
+            margin-top: 140px;
+            margin-left: 250px;
+            flow-children:down-wrap;
+            
+            #bonusList_content{
+                flow-children:down-wrap;
+                
+                height: 40%;
+                width: 100%;
+                /* margin-bottom: 350px; */
+                border-bottom:1px solid rgb(250, 250, 250);
+            }
+            
+
+            #runeEditCount_label{
+                /* width: 100%; */
+                /* height: 100%; */
+                margin-top: 10px;
+                margin-left: 30px;
+
+                font-family: FZLanTingHei-R-GBK, TH Sarabun New, YDYGO 540, Gulim, MingLiU;
+                horizontal-align: left;
+                text-align: right;
+                color: #c5f1e9;
+                text-overflow: shrink;
+                text-align: center;
+                /* vertical-align: left; */
+            }
+            
+            #runeEditButtonList{
+                margin-top: 50px;
+                margin-bottom: 20px;
+                height: 120px;
+                flow-children: right-wrap;
+                
+                .runeEditCostButton{
+                    padding:6px 16px;
+                    background-color:gradient( linear, 0% 0%, 0% 100%, from( #122028 ), to( #0E1620 ) ) ;
+                    border:1px solid #4b4b4b4e;
+                    border-radius:3px;
+                    box-shadow:0px 2px 8px rgba(0, 0, 0, 0.3);
+                    background-image:url("s2r://panorama/images/events/muerta/circular_texture_png.vtex");
+                    background-size:cover;
+                    background-img-opacity:0.3;
+                    /* flow-children:right; */
+                    height: 50px;
+                    width: 150px;
+                    margin-right: 10px;
+                    margin-left: 3px;
+                    margin-top: 3px;
+                    .editCost{
+                        font-size:20px;
+                        font-weight:normal;
+                        color: #8BFFD8;
+                        horizontal-align:center;
+                        vertical-align:middle;
+                        text-transform:uppercase;
+                        text-overflow:shrink;
+                        text-shadow: 0px 1px 4px #000000;
+                        letter-spacing:1px;
+                        transition-property:transform;
+                        transition-duration:0.05s;
+                        transition-timing-function:ease;
+                        /* height: 50px; */
+                        width: 150px;
+                        text-align: right;
+                        /* vertical-align: center; */
+                    }
+                    .editCost.redColored{
+                        color: #fd4141;
+                    }
+                    
+                }
+                .runeEditCostButton:hover{
+                    brightness: 2;
+                }
+                .runeEditCostButton:active{
+                    pre-transform-scale2d: 1.02;
+                }
+                .runeEditCostButton.disable{
+                    opacity: 0.2;
+                }
+            }
+
+
+
+            
+        }
+
+
+        
+    }
+
+
+
+    #runeModifyConfirmPanel{
+		align: center center;
+		width: 700px;
+		height: 200px;
+		box-shadow: rgba(0, 0, 0, 0.9) 0px 0px 35px 0px;
+		margin-bottom: 00px;
+		border-radius: 5px;
+		opacity: 0;
+        border-right: 1px solid rgba(255, 255, 255, 0.02);
+        margin-right: 4px;
+        background-color: gradient( radial, 0% 0%, 0% 0%, 100% 100%, from( #181d25 ), to( #050609 ) );
+        border:1px solid rgba(255, 255, 255, 0.02);
+        
+		&.show{
+			opacity: 1;
+		}
+		> Label{
+            color: #ffffffff;
+            font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+            font-size: 34px;
+            height: 46px;
+            // width: 100%;
+            text-shadow: 2px 2px 4px 2 #00000090;
+            text-overflow: shrink;
+            align: center top;
+            margin-bottom: 11px;
+        
+            text-align: center;
+            padding-top: 6px;
+            // background-color: rgba(0, 0, 0, 0.3);
+            color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+			
+		}
+
+		#buttomList{
+			flow-children: right;
+			horizontal-align: center;
+			vertical-align: bottom;
+			#button_Cancle{
+				horizontal-align: center;
+				vertical-align: bottom;
+                width: 150px;
+                height: 50px;
+                background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_deck_info.png");
+                background-size: 100%;
+                background-repeat: no-repeat;
+                background-position: center;
+                padding: 10px;
+                border-radius: 5px;
+                transition: box-shadow 0.2s ease-in-out 0s;
+                brightness: 1.5;
+                border:1px solid rgba(99, 99, 99,0.3);
+                horizontal-align: center;
+                margin-bottom: 25px;
+                transition-property: opacity,transform,pre-transform-scale2d;
+                transition-duration: 0.2s;
+                transition-timing-function: ease-in;
+                margin: 20px;
+				Label {
+				  font-size: 20px;
+				  horizontal-align: center;
+				  vertical-align: center;
+				  color: #ffffff;
+				}
+				&:hover {
+				  brightness: 2.5;
+				}
+				&:active {
+				  brightness: 0.5;
+				}
+			}
+			#button_Comfirm{
+                horizontal-align: center;
+				vertical-align: bottom;
+                width: 150px;
+                height: 50px;
+                background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_deck_info.png");
+                background-size: 100%;
+                background-repeat: no-repeat;
+                background-position: center;
+                padding: 10px;
+                border-radius: 5px;
+                transition: box-shadow 0.2s ease-in-out 0s;
+                brightness: 1.5;
+                border:1px solid rgba(99, 99, 99,0.3);
+                horizontal-align: center;
+                margin-bottom: 25px;
+                transition-property: opacity,transform,pre-transform-scale2d;
+                transition-duration: 0.2s;
+                transition-timing-function: ease-in;
+                margin: 20px;
+                box-shadow:0px 0px 3px rgba(196, 89, 89,0.4);
+				Label {
+					font-size: 20px;
+					horizontal-align: center;
+					vertical-align: center;
+					color: #faa0a0;
+				}
+				&:hover {
+					brightness: 2.5;
+				}
+				&:active {
+					brightness: 0.5;
+				}
+			}
+		}
+	}
+    
+}
+#ChaoticEra_Rune_modifyBlockRoot.show{
+    opacity: 1;
+}
+
+
+
+
+
+.single_runeBonusEditOption{
+    width: 100%;
+    height: 50px;
+    flow-children:right-wrap;
+}
+
+
+
+.single_runeBonusEditOption .left_note{
+    font-family: FZLanTingHei-R-GBK, TH Sarabun New, YDYGO 540, Gulim, MingLiU;
+    /* background-color:#191b1c; */
+    width:150px;
+    /* height: 100%; */
+    horizontal-align: middle;
+    text-align: right;
+    color: #f9b837;
+    text-overflow: shrink;
+    text-align: center;
+    vertical-align: center;
+}
+
+.single_runeBonusEditOption .middle_note{
+    letter-spacing: 1px;
+    /* background-color: #141616; */
+    width:200px;
+    margin-right: 8px;
+    /* height: 100%; */
+    padding-top: 3px;
+    padding-left: 8px;
+    font-size: 15px;
+    color: #7d8688;
+    text-align: left;
+    text-overflow: shrink;
+    text-align: center;
+    vertical-align: center;
+
+}
+
+.single_runeBonusEditOption .right_note{
+    font-family: FZLanTingHei-R-GBK, TH Sarabun New, YDYGO 540, Gulim, MingLiU;
+    /* background-color:#191b1c; */
+    width:200px;
+    /* height:100%; */
+    horizontal-align: left;
+    text-align: left;
+    font-weight:semi-bold;
+    font-size: 15px;
+    color: #6c6c6c;
+    text-overflow: shrink;
+    text-align: center;
+    vertical-align: center;
+}
+
+.runeBonusRadioButton{
+    vertical-align: center;
+}
+
+
+#CurrencyWindowPanel_runeEdit{
+    /* overflow:squish scroll;   */
+    align: right top;
+    flow-children: right-wrap;
+    width: 500px;
+    height: 60px;
+    z-index: 0;
+    margin-top: 80px;
+    margin-right: 0px;
+    /* border:3px solid rgb(31, 31, 31); */
+    border-bottom: 0px solid rgb(31, 31, 31);
+    /* box-shadow: rgba(0, 0, 0,0.8) 0px 0px 20px 3px; */
+
+}
+
+
+.InlinePanel{
+    width: 45px;
+    height: 45px;
+    /* margin-right: 20px; */
+    horizontal-align: left;
+    /* transform: translateY( -2px ); */
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#InlinePanel_exp{
+    background-image: url("s2r://panorama/images/battle_report/silver_medal_small_psd.vtex");
+}
+#InlinePanel_aurum{
+    background-image: url("s2r://panorama/images/compendium/compendiumcoins_ti5_png.vtex");
+}
+#InlinePanel_platinum{
+    background-image: url("s2r://panorama/images/spells_menu/platinum.png");
+}
+
+
+
+
+
+#ChaoticEra_Rune_DelBlockRoot{
+    width: 100%;
+    height: 100%;
+    box-shadow: rgba(0, 0, 0, 0.9) 0px 0px 35px 0px;
+    opacity: 0;
+    #ChaoticEra_Rune_DelBlockContent{
+        width: 80%;
+        height: 800px;
+        border-right: 1px solid rgba(255, 255, 255, 0.02);
+        margin-right: 4px;
+        background-color: gradient( radial, 0% 0%, 0% 0%, 100% 100%, from( #181d25 ), to( #050609 ) );
+        border:1px solid rgba(255, 255, 255, 0.02);
+        align: center center;
+        #ChaoticEra_rune_DelButtonList{
+            height: 150px;
+            width: 900px;
+            flow-children: right-wrap;
+            margin-top: 20px;
+            /* horizontal-align: right; */
+            margin-left: 10px;
+            
+
+            #ChaoticEraRuneEditButton1{
+                margin-left: 50px;
+            }
+
+            .ChaoticEraRuneModifyButton{
+                // background-img-opacity:0.3;
+                opacity: 0.5;
+            }
+
+        }
+
+        
+
+        #rube_BonusEdit_Content{
+            border-top:1px solid rgb(250, 250, 250);
+            width: 100%;
+            height: 100%;
+            margin-top: 140px;
+            margin-left: 50px;
+            margin-bottom: 100px;
+            flow-children:right-wrap;
+            background-color: gradient( radial, 0% 0%, 0% 0%, 100% 100%, from( #181d25 ), to( #1a1c21 ) );
+            overflow: squish scroll;
+
+            
+        }
+        #delReturnContent{
+           
+            vertical-align: bottom;
+            height: 100px;
+            width: 100%;
+            flow-children: right;
+            .del_return{
+                width: 200px;
+                font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+                font-size: 25px;
+                // width: 100%;
+                text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; 
+                text-overflow: shrink;
+                text-align: center;
+                vertical-align: middle;
+                color: gradient(linear, 0% 0%, 90% 90%, from(rgb(139, 209, 199)), to(#72bdc9));
+            
+            }
+            .runeDelCostButton{
+                padding:6px 16px;
+                background-color:gradient( linear, 0% 0%, 0% 100%, from( #171228 ), to( #141618 ) ) ;
+                border:1px solid #4b4b4b4e;
+                border-radius:3px;
+                box-shadow:0px 2px 8px rgba(0, 0, 0, 0.3);
+                background-image:url("s2r://panorama/images/events/muerta/circular_texture_png.vtex");
+                background-size:cover;
+                background-img-opacity:0.3;
+                /* flow-children:right; */
+                height: 50px;
+                width: 150px;
+                margin-right: 10px;
+                margin-left: 3px;
+                margin-top: 20px;
+                .DelCost{
+                    font-size:20px;
+                    font-weight:normal;
+                    color: #8BFFD8;
+                    horizontal-align:center;
+                    vertical-align:middle;
+                    text-transform:uppercase;
+                    text-overflow:shrink;
+                    text-shadow: 0px 1px 4px #000000;
+                    letter-spacing:1px;
+                    transition-property:transform;
+                    transition-duration:0.05s;
+                    transition-timing-function:ease;
+                    /* height: 50px; */
+                    width: 150px;
+                    text-align: right;
+                    /* vertical-align: center; */
+                }
+
+            }
+
+
+
+            .runeDelCostButton_confirm{
+                padding:6px 16px;
+                background-color:gradient( linear, 0% 0%, 0% 100%, from( #122028 ), to( #0E1620 ) ) ;
+                border:1px solid #4b4b4b4e;
+                border-radius:3px;
+                box-shadow:0px 2px 8px rgba(0, 0, 0, 0.3);
+                background-image:url("s2r://panorama/images/events/muerta/circular_texture_png.vtex");
+                background-size:cover;
+                background-img-opacity:0.3;
+                horizontal-align: right;
+                /* flow-children:right; */
+                height: 50px;
+                width: 150px;
+                margin-right: 50px;
+                margin-left: 3px;
+                margin-top: 20px;
+                .confirm_button{
+                    font-size:20px;
+                    font-weight:normal;
+                    color: #8BFFD8;
+                    horizontal-align:center;
+                    vertical-align:center;
+                    text-transform:uppercase;
+                    text-overflow:shrink;
+                    text-shadow: 0px 1px 4px #000000;
+                    letter-spacing:1px;
+                    transition-property:transform;
+                    transition-duration:0.05s;
+                    transition-timing-function:ease;
+                    /* height: 50px; */
+                    // width: 150px;
+                    text-align: right;
+                }
+                
+            }
+            .runeDelCostButton_confirm:hover{
+                brightness: 2;
+            }
+            .runeDelCostButton_confirm:active{
+                pre-transform-scale2d: 1.02;
+            }
+        }
+        
+    }
+    
+}
+#ChaoticEra_Rune_DelBlockRoot.show{
+    opacity: 1;
+}
+
+
+.singleRuneDelRoot{
+    width: 100px;
+    height: 160px;
+    #RuneChecking{
+        align: center bottom;
+    }
+}

@@ -1,0 +1,797 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc32:version{c5dcef98-b629-46ab-88e3-a17c005c935e} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "model_base"
+						filename = "models/override_model/necrolyte/necrolyte_base_mesh.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						filename = "models/override_model/necrolyte/skin1/necrolyte_beard.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						filename = "models/override_model/necrolyte/skin1/necrolyte_hat.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						filename = "models/override_model/necrolyte/skin1/necrolyte_legs.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						filename = "models/override_model/necrolyte/skin1/necrolyte_weapon.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						filename = "models/override_model/necrolyte/skin1/necrolyte_shoulders.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimBindPose"
+						name = "bindpose"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+					},
+					{
+						_class = "AnimIncludeModel"
+						model = "models/heroes/necrolyte/necrolyte.vmdl"
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "BoneMarkupList"
+				bone_cull_type = "None"
+				primary_root_bone = "root"
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "cast_wave"
+						parent_bone = "sickle1"
+						relative_origin = [ -1.514366, -70.118195, -15.317026 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack2"
+						parent_bone = "wrist_R"
+						relative_origin = [ -0.000002, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_head"
+						parent_bone = "Head_0"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "wrist_L"
+						relative_origin = [ 0.000002, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "Spine_1"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_hand2"
+						parent_bone = "wrist_L"
+						relative_origin = [ 10.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "knee_R"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -52.030876, -6.077953, -12.775389 ]
+								hitbox_maxs = [ -11.218594, 19.145792, 28.251638 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Root_0"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -19.79384, -17.900908, -44.302235 ]
+								hitbox_maxs = [ 25.304831, 21.154032, 14.031113 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "knee_L"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ 10.201796, -18.209478, -21.203791 ]
+								hitbox_maxs = [ 49.468002, 3.865735, 14.702057 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "bicep_R"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -24.099936, -6.741939, -8.913351 ]
+								hitbox_maxs = [ 0.956152, 6.664907, 8.077054 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "sickle1"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -6.316882, -72.714813, -13.414803 ]
+								hitbox_maxs = [ 3.683118, 149.173096, 43.454582 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "elbow_R"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -39.764366, -10.744261, -25.89975 ]
+								hitbox_maxs = [ 0.513674, 3.273539, -3.63142 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "bicep_L"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.215722, -6.664883, -8.077057 ]
+								hitbox_maxs = [ 24.461956, 6.74197, 8.913349 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "elbow_L"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.675486, -4.374904, 4.030387 ]
+								hitbox_maxs = [ 40.926174, 11.845664, 25.500769 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Spine_1"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.730217, -20.55814, -21.786678 ]
+								hitbox_maxs = [ 24.895287, 20.257214, 19.692169 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "ankle_R"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.0, -10.602546, -28.764236 ]
+								hitbox_maxs = [ 12.497002, 23.330873, 9.714336 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "ankle_L"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.0, -22.087408, -28.764236 ]
+								hitbox_maxs = [ 12.497002, 16.409332, 9.714336 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "hands"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "wrist_R"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.736345, -4.955037, -8.071177 ]
+								hitbox_maxs = [ 2.239097, 4.984194, 7.715937 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "wrist_L"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.160327, -5.200645, -6.976105 ]
+								hitbox_maxs = [ 14.322139, 4.640637, 8.844322 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "head"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "Head_1"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -11.508562, -6.660288, -10.487494 ]
+								hitbox_maxs = [ 34.08466, 6.660288, 2.833083 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "select_high"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "Root_0"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -26.233019, -37.621937, 6.676181 ]
+								hitbox_maxs = [ 44.073483, 37.851337, 66.666481 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Root_0"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -38.310299, -43.856544, -91.566193 ]
+								hitbox_maxs = [ 49.115784, 44.085945, 8.001228 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "select_low"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "Root_0"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -72.450157, -79.747269, -59.375725 ]
+								hitbox_maxs = [ 83.961288, 79.976669, 54.713219 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "Root_0"
+								surface_property = "default"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -82.541542, -92.723686, -92.62339 ]
+								hitbox_maxs = [ 94.052673, 92.953087, -59.376354 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "ClothProxyMeshList"
+				children = 
+				[
+					{
+						_class = "ClothParams"
+						disabled = true
+						default_stretch = 0.0
+						additional_shear_stretch = 0.0
+						extra_iterations = 1
+						extra_goal_iterations = 0
+						extra_pressure_iterations = 0
+						goal_strength_bias = 0.0
+						default_gravity_scale = 1.0
+						default_vel_air_drag = 0.8
+						default_exp_air_drag = 0.3
+						velocity_smooth_rate = 0.5
+						internal_pressure = 0.0
+						windage = 0.0
+						wind_drag = 0.0
+						velocity_smooth_iterations = 0
+						default_ground_friction = 0.0
+						default_world_collision_penetration = 0.0
+						add_world_collision_radius = 2.0
+						local_force = 1.0
+						local_rotation = 0.0
+						add_curvature = 0.0
+						quad_bend_tolerance = 0.05
+						follow_the_lead = false
+						use_per_node_local_force_and_rotation = false
+						uninertial_rods = false
+						explicit_masses = false
+						unitless_damping = true
+						force_world_collision_on_all_nodes = false
+						new_style = true
+						can_collide_with_world_hulls = false
+						can_collide_with_world_meshes = true
+						can_collide_with_world_capsule_and_spheres = false
+						add_stiffness_rods = true
+						rigid_edge_hinges = false
+						soft_skin_animation = false
+						add_bend_only_rods = false
+						immovable = false
+					},
+				]
+			},
+			{
+				_class = "Softbody"
+				children = 
+				[
+					{
+						_class = "ClothChain"
+						disabled = true
+						root_bone = "cuff_l_r0c0"
+						chain = 
+						{
+							joints = 
+							[
+								{
+									joint_name = "cuff_l_r0c0"
+									simulate = false
+									goal_strength = 0.9
+									gravity_z = 10.0
+								},
+								{
+									joint_name = "cuff_l_r1c0"
+									joint_parent = "cuff_l_r0c0"
+									goal_strength = 0.2
+									gravity_z = 10.0
+									collision_radius = 1.0
+								},
+								{
+									joint_name = "cuff_l_r2c0"
+									joint_parent = "cuff_l_r1c0"
+									goal_strength = 0.2
+									gravity_z = 10.0
+								},
+								{
+									joint_name = "cuff_l_r3c0"
+									joint_parent = "cuff_l_r2c0"
+									goal_strength = 0.5
+									gravity_z = 10.0
+									collision_radius = 0.0
+								},
+								{
+									joint_name = "cuff_l_r4c0"
+									joint_parent = "cuff_l_r3c0"
+									goal_strength = 0.2
+									gravity_z = 10.0
+									collision_radius = 1.0
+								},
+								{
+									joint_name = "cuff_l_r5c0"
+									joint_parent = "cuff_l_r4c0"
+									goal_strength = 0.2
+									gravity_z = 10.0
+									collision_radius = 1.0
+								},
+								{
+									joint_name = "cuff_l_r6c0"
+									joint_parent = "cuff_l_r5c0"
+									goal_strength = 0.3
+									gravity_z = 10.0
+									collision_radius = 1.0
+								},
+								{
+									joint_name = "cuff_l_r7c0"
+									joint_parent = "cuff_l_r6c0"
+									goal_strength = 0.3
+									gravity_z = 10.0
+									collision_radius = 1.0
+								},
+							]
+							attrs = 
+							{
+								joint_name = 
+								{
+									display = "Joint Name"
+									show = true
+									ui_order = 1
+									default = ""
+									lock = true
+								}
+								joint_parent = 
+								{
+									display = "Parent Joint"
+									show = false
+									ui_order = 2
+									default = ""
+								}
+								simulate = 
+								{
+									display = "Simulate"
+									show = true
+									ui_order = 3
+									default = true
+								}
+								allow_rotation = 
+								{
+									display = "Allow Rotation"
+									show = false
+									ui_order = 4
+									default = true
+								}
+								stretch_spring = 
+								{
+									display = "Stretch Spring"
+									show = false
+									ui_order = 5
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								child_sibling_spring = 
+								{
+									display = "Spring Between Children"
+									show = false
+									ui_order = 6
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								bend_spring = 
+								{
+									display = "Bend Spring"
+									show = false
+									ui_order = 7
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								torsion_spring = 
+								{
+									display = "Torsion Spring"
+									show = false
+									ui_order = 8
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								world_collision = 
+								{
+									display = "World Collision"
+									show = false
+									ui_order = 9
+									default = false
+								}
+								goal_strength = 
+								{
+									display = "Goal Strength"
+									show = true
+									ui_order = 10
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								goal_damping = 
+								{
+									display = "Goal Damping"
+									show = false
+									ui_order = 11
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								drag = 
+								{
+									display = "Extra Drag"
+									show = false
+									ui_order = 12
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								mass = 
+								{
+									display = "Mass"
+									show = false
+									ui_order = 13
+									default = 1.0
+									min = 0.0
+								}
+								gravity_z = 
+								{
+									display = "Gravity"
+									show = true
+									ui_order = 14
+									default = 1.0
+								}
+								collision_radius = 
+								{
+									display = "Collision Radius"
+									show = true
+									ui_order = 15
+									default = 0.0
+									min = 0.0
+								}
+								lock_translation = 
+								{
+									display = "Lock Translation"
+									show = false
+									ui_order = 16
+									default = false
+								}
+								suspender = 
+								{
+									display = "Suspender Spring"
+									show = false
+									ui_order = 17
+									default = 0.0
+								}
+								antishrink = 
+								{
+									display = "Antishrink Strength"
+									show = false
+									ui_order = 18
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								stray_radius = 
+								{
+									display = "Stray Radius"
+									show = false
+									ui_order = 19
+									default = 0.0
+									min = 0.0
+								}
+								stray_radius_stretchiness = 
+								{
+									display = "Stray Radius Stretchiness"
+									show = false
+									ui_order = 20
+									default = 0.0
+									min = 0.0
+								}
+								friction = 
+								{
+									display = "Friction"
+									show = false
+									ui_order = 21
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								vertex_map = 
+								{
+									display = "Vertex Map"
+									show = false
+									ui_order = 22
+									default = ""
+									verify = "vertex_map"
+								}
+								end_effector = 
+								{
+									display = "End Effector"
+									show = false
+									ui_order = 23
+									default = 0.0
+									lock_default_value = true
+								}
+								stiff_hinge = 
+								{
+									display = "Stiff Hinge"
+									show = false
+									ui_order = 24
+									default = 0.0
+									min = 0.0
+									max = 1.0
+									lock_root2 = true
+								}
+								stiff_hinge_angle = 
+								{
+									display = "Stiff Hinge Angle"
+									show = false
+									ui_order = 25
+									default = 0.0
+									min = 0.0
+									max = 180.0
+									lock_root2 = true
+								}
+								motion_bias = 
+								{
+									display = "Motion Bias"
+									show = false
+									ui_order = 26
+									default = 0.0
+									min = -1.0
+									max = 1.0
+									lock_root = true
+								}
+								extra_iterations = 
+								{
+									display = "Extra Iterations"
+									show = false
+									ui_order = 27
+									default = 0
+									min = 0
+									max = 1000
+								}
+								twist_relax = 
+								{
+									display = "Twist Relax"
+									show = false
+									ui_order = 28
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								extrude_sides = 
+								{
+									display = "Extrude Sides"
+									show = false
+									ui_order = 29
+									default = 0
+									min = 0
+									max = 4
+								}
+								extrude_radius = 
+								{
+									display = "Extrude Radius"
+									show = false
+									ui_order = 30
+									default = 5.0
+									min = 0.0
+								}
+								extrude_twist = 
+								{
+									display = "Extrude Twist"
+									show = false
+									ui_order = 31
+									default = 0.0
+								}
+							}
+							selection = [  ]
+							version = 1
+						}
+					},
+				]
+				stiffness_on_ragdoll = 0.0
+				cloth_sleep_enabled = false
+				cloth_per_bone_scale_enabled = false
+				cloth_enable_empty_model = false
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "materials/models/heroes/necrolyte/beard.vmat"
+								to = "models/override_model/necrolyte/skin1/breard/beard.vmat"
+							},
+							{
+								from = "materials/models/heroes/necrolyte/hat.vmat"
+								to = "models/override_model/necrolyte/skin1/hat/hat.vmat"
+							},
+							{
+								from = "materials/models/heroes/necrolyte/necro.vmat"
+								to = "models/override_model/necrolyte/skin1/base/necro.vmat"
+							},
+							{
+								from = "materials/models/heroes/necrolyte/shoulders.vmat"
+								to = "models/override_model/necrolyte/skin1/shoulders/shoulders.vmat"
+							},
+							{
+								from = "materials/models/items/necrolyte/immemorial_emperor_weapon_black/immemorial_emperor_weapon_black.vmat"
+								to = "materials/models/items/necrolyte/immemorial_emperor_weapon_black/immemorial_emperor_weapon_black.vmat"
+							},
+							{
+								from = "materials/models/heroes/necrolyte/legs.vmat"
+								to = "models/override_model/necrolyte/skin1/legs/legs.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

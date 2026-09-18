@@ -1,0 +1,247 @@
+.spell_modifyRoot{
+    height: 100%;
+    width: 100%;
+}
+
+#spell_modifyPanel{
+    align: left top;
+    z-index: 15;
+    height: 128px;
+    width: 128px;
+    margin-top: 50px;
+    margin-left: 100px;
+    opacity: 0.0;
+}
+#spell_modifyPanel.show{
+
+    opacity: 1.0;
+  
+}
+
+#spell_modifyMenuOpenButton {
+    align: center center;
+    margin-bottom: 30px;
+    background-image: url("s2r://panorama/images/custom_game/dna.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 0;
+    padding: 100px;
+    box-shadow: rgb(1, 183, 255) 0px 0px 100px -70px;
+    brightness: 1;
+	transition-property: pre-transform-scale2d;
+	transition-duration: .5s;
+	transition-timing-function:ease-in-out;
+    
+
+}
+
+#spell_modifyMenuOpenButton:hover{
+    brightness: 2;
+}
+
+
+
+#spell_modifyMenuwindowROOT{
+    width: 100%;
+    height: 100%;
+    opacity: 0.0;
+    transform: translateX( 120px ) translateY( -60px );
+    pre-transform-scale2d:0.95;
+    /* wash-color: #33cccc; */
+    transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+    transition-duration: 0.6s, 0.4s, 0.5s;
+    transition-timing-function: ease-in-out;
+
+}
+
+
+#spell_modifyMenuwindowROOT.show{
+
+    opacity: 1.0;
+    transform: translateX( 0px ) translateY( 0px );
+
+
+}
+
+
+
+#spell_modifyMenuwindow{
+    width: 75%;
+    height: 75%;
+    align: center center;
+    background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex");
+    /* background-image: url("s2r://panorama/images/backgrounds/reward_screencap_background_fall20_psd.vtex"); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: rgb(27, 47, 54) 0px 0px 10px 0px;
+
+}
+
+
+#spell_modifyTitle{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 34px;
+    height: 46px;
+    width: 100%;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: 11px;
+
+    text-align: center;
+    padding-top: 6px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: gradient(linear, 0% 0%, 0% 90%, from(#7dcadd), to(#3e6461));
+}
+
+#spell_modify_SpellList{
+    width: 50%;
+    height: 100%;
+    background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123));
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 50px 0px; */
+    margin-top: 75px;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    border:2px solid rgb(34, 34, 34);
+    overflow:squish scroll;  
+    flow-children: right-wrap;
+}
+
+#spell_modify_OptionList{
+    width: 50%;
+    height: 100%;
+    background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123));
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 50px 0px; */
+    margin-top: 75px;
+    margin-left: 51%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    border:2px solid rgb(34, 34, 34);
+    /* overflow:squish scroll;   */
+    flow-children: down-wrap;
+}
+
+
+#ClosePanelButton{
+    align: right top;
+    /* margin-right: 40px; */
+    /* margin-top: 50px; */
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    background-image: url("s2r://panorama/images/hud/reborn/disconnect_x_psd.vtex");
+    background-size: 100%;
+    /* wash-color: white; */
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 500;
+    padding: 20px;
+    border-radius: 50%;
+    /* brightness: 50; */
+}
+
+
+#ClosePanelButton:hover{
+    brightness: 2;
+}
+
+
+
+.SingleSpellPanel {
+    flow-children: down;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.99) ;
+    
+}
+/* 技能图标悬浮提升 */
+#SingleSpellPanelButton:hover {
+    box-shadow: rgb(154, 173, 173) 0px 0px 10px 0px;
+    brightness: 2.4;
+}
+
+#spell_modifyInfo_currentPoint{
+    color: #ffffffff;
+    font-family:YDYGO 540;
+    font-size: 34px;
+    height: 30px;
+    width: 100%;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: 11px;
+    text-align: center;
+    padding-top: 6px;
+    background-color: rgba(0, 0, 0, 0.3);
+    /* color: gradient(linear, 0% 0%, 0% 90%, from(#7dcadd), to(#3e6461)); */
+}
+
+.spellModifyClass{
+    width: 350px;
+    height:40px;
+    /* margin-left: 50px; */
+    /* margin-top: 50px; */
+    flow-children: right-wrap;
+    /* box-shadow: rgba(0, 13, 28,0.5) 0px 0px 80px 10px; */
+
+}
+
+#spell_modify_OptionList_content{
+    width: 100%;
+    height: 80%;
+    flow-children: down-wrap;
+    box-shadow: rgba(23, 24, 24,0.2) 0px 0px 10px 0px;
+}
+
+.Bonus_Attribues_Label_base{
+    height:36px;
+    width: 120px;
+    text-align: center;
+    font-family:YDYGO 540;
+    font-size: 20px;
+    background-color: rgba(0, 13, 28,0.5);
+    border:3px solid baseBorder;
+    margin-left: 2px;
+    color:#ffffff;
+}
+
+
+
+#SendBonusAttributes{
+    align: right bottom;
+    width: 200px;
+    height: 50px;
+    margin-top: 0px;
+    margin-right:10px;
+    background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: rgb(2, 5, 7) 0px 0px 20px 00px;
+    z-index: 0;
+    padding: 5px;
+    border-radius: 5px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+    z-index: 10;
+}
+
+#SendBonusAttributes:hover{
+    brightness: 2.5;
+    box-shadow: rgb(113, 154, 182) 0px 0px 10px 00px;
+}
+
+.Confirm_Label{
+    font-family:FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 30px;
+    width: 100%;
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; 
+    text-overflow: shrink;
+    align: center top;
+    /* margin-bottom: -3px; */
+    text-align: center;
+    /* z-index: 0; */
+    color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}

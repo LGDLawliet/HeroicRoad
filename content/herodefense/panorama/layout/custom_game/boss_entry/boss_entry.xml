@@ -1,0 +1,25 @@
+<root>
+    <styles>
+		<include src="s2r://panorama/layout/custom_game/boss_entry/boss_entry.css" /> 
+	</styles>
+
+	<scripts>
+			<!-- <include src="s2r://panorama/layout/custom_game/boss_entry/boss_entry.js" /> -->
+	</scripts>
+
+    <Panel hittest="false" class="test">
+        <Panel hittest="false" id="div_boss" class="div">
+            <Panel hittest="false" id="boss_head_image">
+            
+            </Panel>
+        </Panel>
+        <Panel hittest="false" id="div_entry" class="div">
+            <Panel hittest="false" id="box1" class="box"></Panel>
+            <Panel hittest="false" id="box2" class="box"></Panel>
+            <Panel hittest="false" id="box3" class="box"></Panel>
+            <Panel hittest="false" id="box4" class="box"></Panel>
+            <Panel hittest="false" id="box5" class="box"></Panel>
+            <Panel hittest="false" id="box6" class="box"></Panel>
+        </Panel>
+    </Panel>
+</root>

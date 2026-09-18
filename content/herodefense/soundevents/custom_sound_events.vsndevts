@@ -1,0 +1,1783 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+
+{
+
+
+	Shop_Buy_Evalution_Count = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.400000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			 "sounds/ui/ui_teammate_bought_bling.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+
+	Shop_StopTaskProgress = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.400000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			 "sounds/ui/economy/rylais_wheel_start_01.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+
+
+	Shop_Upgrade_Progress = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.400000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			 "sounds/ui/treasure_01.vsnd",
+			 "sounds/ui/treasure_02.vsnd",
+			 "sounds/ui/treasure_03.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+	
+	Shop_Refresh_Task = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.400000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			 "sounds/ui/ui_teammate_bought_bling.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+
+	Shop_Refesh = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.400000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			 "sounds/ui/menu/keybind_set.vsnd",
+			 "sounds/ui/menu/pick_set_fav.vsnd",
+			 "sounds/ui/menu/settings_open.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+	
+
+	Shop_Upgrade = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.600000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			 "sounds/ui/inventory/set_applied.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+
+
+
+	valve_herodefense.music.battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/laning_03_layer_03.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+	valve_herodefense.music.battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/laning_03_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+	valve_herodefense.music.battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/laning_03_layer_02.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+	valve_herodefense.music.battle_04 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/laning_02_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+	
+	valve_herodefense.music.battle_05 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/laning_02_layer_02.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+	valve_herodefense.music.battle_06 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/laning_02_layer_03.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+	valve_herodefense.music.battle_07 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/laning_01_layer_03.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+	valve_herodefense.music.battle_08 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/laning_01_layer_02.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+	valve_herodefense.music.battle_09 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/laning_01_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+	valve_herodefense.music.battle_10 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti9/music/laning_02_layer_03.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+
+	valve_herodefense.music.battle_11 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 39.632000
+		vsnd_files = 
+		[
+			"sounds/music/dsadowski_01/music/roshan.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			40.000000,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			40.000000,
+		]
+	}
+
+
+
+	valve_herodefense.music.battle_12 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 59.632000
+		vsnd_files = 
+		[
+			"sounds/music/jboberg_01/music/roshan.vsnd",
+		]
+		start_point = 
+		[
+			2.526000,
+		]
+		end_point = 
+		[
+			60.000000,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			45.000000,
+		]
+	}
+
+
+	valve_herodefense.music.battle_13 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 41.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_dota_001/music/roshan.vsnd",
+		]
+		start_point = 
+		[
+			2.526000,
+		]
+		end_point = 
+		[
+			42.000000,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.000000,
+		]
+	}
+
+
+
+	valve_herodefense.music.battle_14 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 46.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/roshan.vsnd",
+		]
+		start_point = 
+		[
+			2.526000,
+		]
+		end_point = 
+		[
+			47.000000,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			47.000000,
+		]
+	}
+
+
+
+
+
+
+
+	valve_herodefense.music.rest_01 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti8/music/laning_03_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+	valve_herodefense.music.rest_02 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti7/music/laning_03_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+	valve_herodefense.music.rest_03 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti7/music/laning_01_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+		valve_herodefense.music.rest_04 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti6/music/laning_02_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+			valve_herodefense.music.rest_05 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti5/music/laning_02_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+			valve_herodefense.music.rest_06 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti4/music/laning_03_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+			valve_herodefense.music.rest_07 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/mhawken_01/music/laning_02_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+				valve_herodefense.music.rest_08 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/jlin_01/music/laning_02_layer_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+
+				valve_herodefense.music.last_battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/dsadowski_02/music/laning_01_layer_03.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+		valve_herodefense.music.last_battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 103.632000
+		vsnd_files = 
+		[
+			"sounds/music/dsadowski_02/music/laning_02_layer_03.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			105.158001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+			83.158001,
+			93.158001,
+			105.158001,
+
+		]
+	}
+
+		valve_herodefense.music.last_battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 75.800003
+		vsnd_files = 
+		[
+			"sounds/music/thefatrat_01/music/roshan.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			76.800003,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			42.632000,
+			53.158001,
+			63.158001,
+			73.158001,
+
+
+		]
+	}
+
+
+	valve_herodefense.music.last_battle_04 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 40.800003
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti7/music/roshan.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			41.632000,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			41.632000,
+
+
+
+		]
+	}
+
+
+
+
+	valve_herodefense.music.normal_battle_01 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 35.845001
+		vsnd_files = 
+		[
+			"sounds/music/deadmau5_01/music/battle_02.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			43.845001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			35.345001,
+
+
+		]
+	}
+
+		valve_herodefense.music.normal_battle_02 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 35.845001
+		vsnd_files = 
+		[
+			"sounds/music/deadmau5_01/music/battle_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			36.845001,
+		]
+		syncpoints = 
+		[
+			11.053000,
+			21.579000,
+			32.105000,
+			36.632000,
+
+
+		]
+	}
+
+
+	valve_herodefense.music.normal_battle_03 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 60.338000
+		vsnd_files = 
+		[
+			"sounds\\music\\deadmau5_01\\music\\battle_03.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			72.038000,
+		]
+		syncpoints = 
+		[
+			0.650000,
+			4.078000,
+			7.506000,
+			10.934000,
+			14.362000,
+			17.790001,
+			21.218000,
+			24.646000,
+			28.073999,
+			31.502001,
+			34.930000,
+			38.358002,
+			41.785999,
+			45.214001,
+			48.462002,
+			52.070000,
+			55.498001,
+			58.925999,
+
+
+
+		]
+	}
+
+	valve_herodefense.music.normal_battle_04 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 41.845001
+		vsnd_files = 
+		[
+			"sounds/music/dsadowski_02/music/battle_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			41.599998,
+		]
+		syncpoints = 
+		[
+			0.650000,
+			4.078000,
+			7.506000,
+			10.934000,
+			14.362000,
+			17.790001,
+			21.218000,
+			24.646000,
+			28.073999,
+			31.502001,
+			34.930000,
+			38.358002,
+			41.599998,
+
+
+
+		]
+	}
+
+
+	valve_herodefense.music.normal_battle_05 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 28.845001
+		vsnd_files = 
+		[
+			"sounds/music/dsadowski_02/music/battle_02.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			29.538000,
+		]
+		syncpoints = 
+		[
+			0.650000,
+			4.078000,
+			7.506000,
+			10.934000,
+			14.362000,
+			17.790001,
+			21.218000,
+			24.646000,
+			28.073999,
+
+
+
+
+		]
+	}
+
+
+		valve_herodefense.music.normal_battle_06 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 28.845001
+		vsnd_files = 
+		[
+			"sounds/music/dsadowski_02/music/battle_03.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			29.599998,
+		]
+		syncpoints = 
+		[
+			0.650000,
+			4.078000,
+			7.506000,
+			10.934000,
+			14.362000,
+			17.790001,
+			21.218000,
+			24.646000,
+			28.073999,
+
+
+
+		]
+	}
+
+		valve_herodefense.music.normal_battle_07 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 40.845001
+		vsnd_files = 
+		[
+			"sounds/music/dsadowski_01/music/battle_01.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			41.599998,
+		]
+		syncpoints = 
+		[
+			0.650000,
+			4.078000,
+			7.506000,
+			10.934000,
+			14.362000,
+			17.790001,
+			21.218000,
+			24.646000,
+			28.073999,
+			31.502001,
+			34.930000,
+			38.358002,
+			41.599998,
+
+
+
+		]
+	}
+
+		valve_herodefense.music.normal_battle_08 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 42.845001
+		vsnd_files = 
+		[
+			"sounds\\music\\dsadowski_01\\music\\battle_02_1.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			43.599998,
+		]
+		syncpoints = 
+		[
+			0.650000,
+			4.078000,
+			7.506000,
+			10.934000,
+			14.362000,
+			17.790001,
+			21.218000,
+			24.646000,
+			28.073999,
+			31.502001,
+			34.930000,
+			38.358002,
+			43.599998,
+
+
+
+		]
+	}
+
+			valve_herodefense.music.normal_battle_09 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 35.845001
+		vsnd_files = 
+		[
+			"sounds/music/dsadowski_01/music/battle_03.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			36.358002,
+		]
+		syncpoints = 
+		[
+			0.650000,
+			4.078000,
+			7.506000,
+			10.934000,
+			14.362000,
+			17.790001,
+			21.218000,
+			24.646000,
+			28.073999,
+			31.502001,
+			34.930000,
+			36.358002,
+
+
+
+
+		]
+	}
+
+		valve_herodefense.music.normal_battle_10 = 
+	{
+		type = "dota_update_battle_music"
+		volume = 1.000000
+		restart_time = 40.845001
+		vsnd_files = 
+		[
+			"sounds/music/jlin_01/music/battle_02.vsnd",
+		]
+		start_point = 
+		[
+			0.526000,
+		]
+		end_point = 
+		[
+			41.599998,
+		]
+		syncpoints = 
+		[
+			0.650000,
+			4.078000,
+			7.506000,
+			10.934000,
+			14.362000,
+			17.790001,
+			21.218000,
+			24.646000,
+			28.073999,
+			31.502001,
+			34.930000,
+			38.358002,
+			41.599998,
+
+
+
+		]
+	}
+
+
+
+
+
+
+		
+		
+
+
+   custom_the_last_one = 
+	{
+		type = "dota_src1_3d"
+		volume = 6.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/music/theLastHero.vsnd",
+		]
+		vsnd_duration = 30.008435
+	}
+
+
+
+   custom_victory = 
+	{
+		type = "dota_src1_2d"
+		volume = 1.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/music/Sentinel-STINGER.vsnd",
+		]
+		vsnd_duration = 9.008435
+	}
+	gravity.Black_Hole = 
+	{
+		type = "dota_update_default"
+		volume = 4.000000
+		pitch = 1.000000
+		soundlevel = 81.000000
+		mixgroup = "Ultimates"
+		spread_radius = 3000.000000
+		
+		vsnd_files = "sounds/weapons/hero/phoenix/fire_spirits_loop.vsnd"
+		vsnd_duration = 2.5
+	}
+
+
+
+
+
+
+	///莉娜
+   custom_lina_i_am_the_fire = 
+	{
+		type = "dota_src1_3d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/boss/lina_i_am_the_fire.vsnd",
+		]
+		vsnd_duration = 4.008435
+	}
+
+	   custom_lina_give_u_nothing = 
+	{
+		type = "dota_src1_3d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/boss/lina_give_u_nothing.vsnd",
+		]
+		vsnd_duration = 4.008435
+	}
+
+		   custom_lina_combustion = 
+	{
+		type = "dota_src1_3d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/boss/lina_combustion.vsnd",
+		]
+		vsnd_duration = 4.008435
+	}
+
+
+		   custom_Slyrak_fire_dragon_child_of_fire = 
+	{
+		type = "dota_src1_3d"
+		volume = 30.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/boss/fire_dragon_child_of_fire.vsnd",
+		]
+		vsnd_duration = 5.008435
+	}
+
+
+			   custom_Slyrak_fire_dragon_common_enemy = 
+	{
+		type = "dota_src1_3d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 1.000000
+		vsnd_files = 
+		[
+			"sounds/boss/fire_dragon_common_enemy.vsnd",
+		]
+		vsnd_duration = 8.008435
+	}
+
+
+				   custom_Slyrak_fire_dragon_flee = 
+	{
+		type = "dota_src1_3d"
+		volume = 30.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/boss/fire_dragon_flee.vsnd",
+		]
+		vsnd_duration = 8.008435
+	}
+
+
+		custom_Slyrak_fire_dragon_linss_dead = 
+	{
+		type = "dota_src1_3d"
+		volume =30.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/boss/fire_dragon_linss_dead.vsnd",
+		]
+		vsnd_duration = 16.008435
+	}
+
+
+			custom_Slyrak_fire_dragon_little_mouse = 
+	{
+		type = "dota_src1_3d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/boss/fire_dragon_little_mouse.vsnd",
+		]
+		vsnd_duration = 3.008435
+	}
+
+
+		custom_Slyrak_fire_dragon_star = 
+	{
+		type = "dota_src1_3d"
+
+		volume = 30.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/boss/fire_dragon_star.vsnd",
+		]
+		vsnd_duration = 7.008435
+
+		
+	}
+	//bgm覆盖 ////////////////////
+	
+	dsadowski_01.music.killed=
+	{
+		type = "dota_src1_2d"
+		volume = "0.000000"
+		pitch = "0.000000"
+		limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			"sounds/jiuwo.vsnd",
+		]
+		vsnd_duration ="0.000000"
+	}
+
+
+
+
+
+
+	dsadowski_01.music.battle_03_end=
+	{
+		
+		type = "dota_src1_2d"
+		volume = "0.000000"
+		pitch = "0.000000"
+		limiter_on = "0.000000"
+		vsnd_files = 
+		[
+			
+			"sounds/jiuwo.vsnd",
+		]
+		vsnd_duration ="0.000000"
+	}
+
+
+	dsadowski_01.music.battle_02_end=
+	{
+		type = "dota_src1_2d"
+		volume = "0.000000"
+		pitch = "0.000000"
+		limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			"sounds/jiuwo.vsnd",
+		]
+		vsnd_duration ="0.000000"
+	}
+
+
+	dsadowski_01.music.battle_01_end=
+	{
+		type = "dota_src1_2d"
+		volume = "0.000000"
+		pitch = "0.000000"
+		limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			"sounds/jiuwo.vsnd",
+		]
+		vsnd_duration ="0.000000"
+	}
+
+
+
+
+
+
+
+		risk_dice_1 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.000000
+		pitch = 1.000000
+		limiter_on = 1.000000
+		vsnd_files = 
+		[
+			"sounds/music/dice/Beethoven-Pastoral-Symphony-Theme.vsnd",
+		]
+		vsnd_duration = 34.258435
+	}
+		risk_dice_2 = 
+	{
+		type = "dota_src1_2d"
+		volume = 3.000000
+		pitch = 1.000000
+		limiter_on = 1.000000
+		vsnd_files = 
+		[
+			"sounds/music/dice/beethoven_5th.vsnd",
+		]
+		vsnd_duration = 100.258435
+	}
+
+
+
+	CallFather.01 = 
+	{
+		type = "dota_src1_2d"
+		volume = 0.599609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/misc/agh/agh_scepter_announce_in_game_06.vsnd"
+		vsnd_duration = 4.097960
+	}
+	DOTAMusic_Stinger.04 = 
+	{
+		type = "dota_src1_2d"
+		volume = 0.599609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/music/stingers/stinger04.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+
+	DOTAMusic_PLUS_ONE = 
+	{
+		type = "dota_src1_2d"
+		volume = 1.099609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/addons/dungeon/plus_one.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+	HD_Learn_Talent ={
+		type = "dota_src1_2d"
+		volume = 2.599609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/ui/abilitydraft.vsnd"
+		vsnd_duration = 1.097960
+	}
+	DOTAMusic_PLUS_ONE2 = 
+	{
+		type = "dota_src1_2d"
+		volume = 1.599609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/addons/dungeon/plus_one.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+
+	DOTAMusic_smoke_end0 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.599600
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/music/dsadowski_01/music/smoke_end.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+	DOTAMusic_smoke_end1 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.599609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/music/dsadowski_02/music/smoke_end.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+	DOTAMusic_smoke_end2 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.599609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/music/jboberg_01/music/smoke_end.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+	DOTAMusic_smoke_end3 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.599609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/music/valve_dota_001/music/smoke_end.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+	
+	DOTAMusic_smoke_end4 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.599609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files = "sounds/music/valve_ti10/music/smoke_end.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+
+	Dungeon.Stinger02 = 
+	{
+		type = "dota_src1_2d"
+		volume = 0.799609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files =  "sounds/music/stingers/stinger02.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+	Dungeon.BossBar = 
+	{
+		type = "dota_src1_2d"
+		volume = 0.799609
+		pitch = 1.000000
+		event_type = 3.000000
+		limiter_on = 1.000000
+		limiter_match_type = 1.000000
+		limiter_max = 1.000000
+		limiter_match_entity = 1.000000
+		limiter_match_this = 0.000000
+		vsnd_files =  "sounds/addons/dungeon/boss_bar.vsnd"
+		vsnd_duration = 1.097960
+	}
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+}

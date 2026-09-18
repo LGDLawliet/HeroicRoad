@@ -1,0 +1,345 @@
+ "DOTA_Tooltip_modifier_ChallengeInfo_001_1_show"       "能量抑制难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_2_show"       "能量抑制难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_3_show"       "能量抑制难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_4_show"       "能量抑制难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_5_show"       "能量抑制难度5 就绪"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_002_1_show"       "心脏枯竭难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_2_show"       "心脏枯竭难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_3_show"       "心脏枯竭难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_4_show"       "心脏枯竭难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_5_show"       "心脏枯竭难度5 就绪"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_003_1_show"       "疑虑难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_2_show"       "疑虑难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_3_show"       "疑虑难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_4_show"       "疑虑难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_5_show"       "疑虑难度5 就绪"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_004_1_show"       "生命探寻难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_2_show"       "生命探寻难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_3_show"       "生命探寻难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_4_show"       "生命探寻难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_5_show"       "生命探寻难度5 就绪"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_005_1_show"       "法力枯竭难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_2_show"       "法力枯竭难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_3_show"       "法力枯竭难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_4_show"       "法力枯竭难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_5_show"       "法力枯竭难度5 就绪"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_006_1_show"       "梦境难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_2_show"       "梦境难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_3_show"       "梦境难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_4_show"       "梦境难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_5_show"       "梦境难度5 就绪"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_007_1_show"       "妙手回春难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_2_show"       "妙手回春难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_3_show"       "妙手回春难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_4_show"       "妙手回春难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_5_show"       "妙手回春难度5 就绪"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_008_1_show"       "灵魂困局难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_2_show"       "灵魂困局难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_3_show"       "灵魂困局难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_4_show"       "灵魂困局难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_5_show"       "灵魂困局难度5 就绪"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_009_1_show"       "全属性抑制难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_2_show"       "全属性抑制难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_3_show"       "全属性抑制难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_4_show"       "全属性抑制难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_5_show"       "全属性抑制难度5 就绪"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_010_1_show"       "脑虫难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_2_show"       "脑虫难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_3_show"       "脑虫难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_4_show"       "脑虫难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_5_show"       "脑虫难度5 就绪" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_011_1_show"       "尖牙利齿难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_2_show"       "尖牙利齿难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_3_show"       "尖牙利齿难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_4_show"       "尖牙利齿难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_5_show"       "尖牙利齿难度5 就绪"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_012_1_show"       "化学狂暴难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_2_show"       "化学狂暴难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_3_show"       "化学狂暴难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_4_show"       "化学狂暴难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_5_show"       "化学狂暴难度5 就绪"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_013_1_show"       "自爆军团难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_2_show"       "自爆军团难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_3_show"       "自爆军团难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_4_show"       "自爆军团难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_5_show"       "自爆军团难度5 就绪"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_014_1_show"       "死神凝视难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_2_show"       "死神凝视难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_3_show"       "死神凝视难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_4_show"       "死神凝视难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_5_show"       "死神凝视难度5 就绪"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_015_1_show"       "魔王降临难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_2_show"       "魔王降临难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_3_show"       "魔王降临难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_4_show"       "魔王降临难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_5_show"       "魔王降临难度5 就绪" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_016_1_show"       "秘而不宣的第十三个逃犯难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_2_show"       "秘而不宣的第十三个逃犯难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_3_show"       "秘而不宣的第十三个逃犯难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_4_show"       "秘而不宣的第十三个逃犯难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_5_show"       "秘而不宣的第十三个逃犯难度5 就绪"    
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_017_1_show"       "天体坍缩难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_2_show"       "天体坍缩难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_3_show"       "天体坍缩难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_4_show"       "天体坍缩难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_5_show"       "天体坍缩难度5 就绪"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_018_1_show"       "颅犬信条难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_2_show"       "颅犬信条难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_3_show"       "颅犬信条难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_4_show"       "颅犬信条难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_5_show"       "颅犬信条难度5 就绪"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_019_1_show"       "迎霜节难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_2_show"       "迎霜节难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_3_show"       "迎霜节难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_4_show"       "迎霜节难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_5_show"       "迎霜节难度5 就绪"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_020_1_show"       "生命真谛难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_2_show"       "生命真谛难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_3_show"       "生命真谛难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_4_show"       "生命真谛难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_5_show"       "生命真谛难度5 就绪"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_021_1_show"       "电解质紊乱难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_2_show"       "电解质紊乱难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_3_show"       "电解质紊乱难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_4_show"       "电解质紊乱难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_5_show"       "电解质紊乱难度5 就绪"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_022_1_show"       "腰椎间盘突出难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_2_show"       "腰椎间盘突出难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_3_show"       "腰椎间盘突出难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_4_show"       "腰椎间盘突出难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_5_show"       "腰椎间盘突出难度5 就绪"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_023_1_show"       "时间之锁难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_2_show"       "时间之锁难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_3_show"       "时间之锁难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_4_show"       "时间之锁难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_5_show"       "时间之锁难度5 就绪"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_024_1_show"       "强直性脊柱炎难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_2_show"       "强直性脊柱炎难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_3_show"       "强直性脊柱炎难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_4_show"       "强直性脊柱炎难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_5_show"       "强直性脊柱炎难度5 就绪"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_1_show"       "井底之蛙难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_2_show"       "井底之蛙难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_3_show"       "井底之蛙难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_4_show"       "井底之蛙难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_5_show"       "井底之蛙难度5 就绪"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_026_1_show"       "天降陨石难度1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_2_show"       "天降陨石难度2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_3_show"       "天降陨石难度3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_4_show"       "天降陨石难度4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_5_show"       "天降陨石难度5 就绪"  
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_027_1_show"       "艾滋尤格的烈焰1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_2_show"       "艾滋尤格的烈焰2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_3_show"       "艾滋尤格的烈焰3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_4_show"       "艾滋尤格的烈焰4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_5_show"       "艾滋尤格的烈焰5 就绪"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_028_1_show"       "平原之灾1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_2_show"       "平原之灾2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_3_show"       "平原之灾3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_4_show"       "平原之灾4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_5_show"       "平原之灾5 就绪"   
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_1_show"       "法术反制1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_2_show"       "法术反制2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_3_show"       "法术反制3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_4_show"       "法术反制4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_5_show"       "法术反制5 就绪"   
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_1_show"       "缓慢觉醒1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_2_show"       "缓慢觉醒2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_3_show"       "缓慢觉醒3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_4_show"       "缓慢觉醒4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_5_show"       "缓慢觉醒5 就绪"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_1_show"       "西汉中山靖王之后1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_2_show"       "西汉中山靖王之后2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_3_show"       "西汉中山靖王之后3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_4_show"       "西汉中山靖王之后4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_5_show"       "西汉中山靖王之后5 就绪"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_032_1_show"       "直视气场1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_2_show"       "直视气场2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_3_show"       "直视气场3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_4_show"       "直视气场4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_5_show"       "直视气场5 就绪"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_033_1_show"       "法力虚空1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_2_show"       "法力虚空2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_3_show"       "法力虚空3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_4_show"       "法力虚空4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_5_show"       "法力虚空5 就绪"   
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_034_1_show"       "消力1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_2_show"       "消力2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_3_show"       "消力3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_4_show"       "消力4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_5_show"       "消力5 就绪"   
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_035_1_show"       "通灵抑制1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_2_show"       "通灵抑制2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_3_show"       "通灵抑制3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_4_show"       "通灵抑制4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_5_show"       "通灵抑制5 就绪"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_037_1_show"       "拒绝扎堆1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_2_show"       "拒绝扎堆2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_3_show"       "拒绝扎堆3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_4_show"       "拒绝扎堆4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_5_show"       "拒绝扎堆5 就绪"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_038_1_show"       "盗贼的极致1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_2_show"       "盗贼的极致2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_3_show"       "盗贼的极致3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_4_show"       "盗贼的极致4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_5_show"       "盗贼的极致5 就绪"   
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_039_1_show"       "永劫之墟的幽魂1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_2_show"       "永劫之墟的幽魂2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_3_show"       "永劫之墟的幽魂3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_4_show"       "永劫之墟的幽魂4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_5_show"       "永劫之墟的幽魂5 就绪"   
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_040_1_show"       "贪婪的化身1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_2_show"       "贪婪的化身2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_3_show"       "贪婪的化身3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_4_show"       "贪婪的化身4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_5_show"       "贪婪的化身5 就绪"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_041_1_show"       "命令拒绝1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_2_show"       "命令拒绝2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_3_show"       "命令拒绝3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_4_show"       "命令拒绝4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_5_show"       "命令拒绝5 就绪"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_042_1_show"       "大地的试炼1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_2_show"       "大地的试炼2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_3_show"       "大地的试炼3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_4_show"       "大地的试炼4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_5_show"       "大地的试炼5 就绪"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_043_1_show"       "死咒1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_2_show"       "死咒2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_3_show"       "死咒3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_4_show"       "死咒4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_5_show"       "死咒5 就绪"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_044_1_show"       "不死之病佐巴埃1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_2_show"       "不死之病佐巴埃2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_3_show"       "不死之病佐巴埃3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_4_show"       "不死之病佐巴埃4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_5_show"       "不死之病佐巴埃5 就绪"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_1_show"       "凋零钟声1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_2_show"       "凋零钟声2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_3_show"       "凋零钟声3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_4_show"       "凋零钟声4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_5_show"       "凋零钟声5 就绪"   
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_046_1_show"       "传奇的追忆1 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_2_show"       "传奇的追忆2 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_3_show"       "传奇的追忆3 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_4_show"       "传奇的追忆4 就绪"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_5_show"       "传奇的追忆5 就绪"   
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_entityName = "parent"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/ui/treasure/aghanim_2021_treasure/aghanim_2021_treasure.vmdl"
+				m_sequenceName = "aghanim_2021_treasure_idle"
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/econ/treasures/aghanim_2021_treasure/aghanim_2021_treasure_ambient_2_core.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/econ/treasures/aghanim_2021_treasure/aghanim_2021_treasure_ambient_2_steam.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/econ/treasures/aghanim_2021_treasure/aghanim_2021_treasure_ambient_2_embers.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/econ/treasures/aghanim_2021_treasure/aghanim_2021_treasure_ambient_2_polygon.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/econ/treasures/aghanim_2021_treasure/aghanim_2021_treasure_ambient_2_flare.vpcf"
+		},
+	]
+}

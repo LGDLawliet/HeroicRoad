@@ -1,0 +1,70 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero_fluid.vfx"
+
+	//---- Base Settings ----
+	g_flEdgeErosion "0.275"
+	g_flEdgeSharpness "3.0001"
+	g_flRimLightSharpness "2.500"
+	g_flRimLightStrength "11.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vMinLightColor "[0.874510 0.843137 0.843137 0.000000]"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[5.000 5.000]"
+	TextureColor "materials/models/heroes/terrorblade/terrorblade_detail.psd"
+	TextureTranslucency "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Displacement ----
+	g_flInflateStrength "2.740"
+	TextureDisplacementMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Masks ----
+	g_flSpecularBloom "1.000"
+	g_flSpecularIntensity "1.000"
+	TextureBloom "[0.000000 0.000000 0.000000 0.000000]"
+	TextureReflectance "[0.000000 0.000000 0.000000 0.000000]"
+	TextureSelfIllumMask "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Spiral Effect ----
+	g_flSpiralAlphaMax "1.000"
+	g_flSpiralAlphaMin "0.364"
+	g_flSpiralBumpStrength "1.383"
+	g_flSpiralDisplacementStrength "-0.935"
+	g_flSpiralInflateScale "0.000"
+	g_flSpiralInflateSpeed "0.000"
+	g_flSpiralInflateVariance "17.570"
+	g_flSpiralOverlaySpeedMultiple "3.774"
+	g_vSpiralDisplacementOffset "[0.100 0.100 0.000]"
+	g_vSpiralDisplacementSpeed "1.000"
+	g_vSpiralUVScale "[0.000 0.000]"
+	g_vSpiralUVSpeed "[0.000 0.000]"
+	TextureSpiralAlpha "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpiralNormal "[0.501961 0.501961 1.000000 0.000000]"
+	TextureSpiralOverlayAlpha "[0.297000 0.297000 0.297000 0.000000]"
+	TextureSpiralOverlayColor "materials/models/heroes/storm_spirit/storm_spirit_detail.psd"
+
+	Attributes
+	{
+		PreviewModel "models/heroes/dawnbreaker/dawnbreaker.vmdl"
+	}
+
+
+	VariableState
+	{
+		"Base Settings"
+		{
+		}
+		"Displacement"
+		{
+		}
+		"Masks"
+		{
+		}
+		"Spiral Effect"
+		{
+		}
+	}
+}

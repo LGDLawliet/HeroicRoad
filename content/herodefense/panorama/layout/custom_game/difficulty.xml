@@ -1,0 +1,86 @@
+<root>
+    <styles>
+
+		<include src="s2r://panorama/styles/custom_game/difficulty.css"/>
+
+
+    </styles>
+    <scripts>
+
+		<include src="s2r://panorama/scripts/custom_game/difficulty.js" />
+		
+    </scripts>
+	
+
+
+     <Panel hittest="false" style="width:100%;height:100%;">
+		   <!-- 难度选择窗口 根部-->
+           <Panel id="difficultySelectWindowsRoot" hittest="false">
+			   <!-- 难度标签 -->
+			   <Panel id="difficultyLabelPanel" hittest="false">
+				<Label id="MyUIButtonLabel" text="#DOTA_HUD_difficulty_select"></Label>
+							   <!-- 难度选择窗口 -->
+			   <Panel id="difficultySelectWindows" hittest="false">
+			   		
+					<!-- <Panel id="difficulty1" class="difficultySelect" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_1_info')" onmouseout="DOTAHideTextTooltip()" >  -->
+						<!-- <Label class="difficultyLabel1" text="#DOTA_HUD_difficulty_select_1"></Label> -->
+					<!-- </Panel> -->
+
+					
+
+					<Panel id="difficulty2" class="difficultySelect"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_2_info')" onmouseout="DOTAHideTextTooltip()" >
+						<Label class="difficultyLabel2" text="#DOTA_HUD_difficulty_select_2"></Label>
+					</Panel>
+
+					<!-- <Panel id="difficulty3" class="difficultySelect" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_3_info')" onmouseout="DOTAHideTextTooltip()" >
+						<Label class="difficultyLabel3" text="#DOTA_HUD_difficulty_select_3"></Label>
+					</Panel> -->
+
+					<Panel id="difficulty4" class="difficultySelect"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_4_info')" onmouseout="DOTAHideTextTooltip()" >
+						<Label class="difficultyLabel4" text="#DOTA_HUD_difficulty_select_4"></Label>
+					</Panel>
+
+					<!-- <Panel id="difficulty5" class="difficultySelect" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_5_info')" onmouseout="DOTAHideTextTooltip()" >
+						<Label class="difficultyLabel5" text="#DOTA_HUD_difficulty_select_5"></Label>
+					</Panel> -->
+
+					<Panel id="difficulty6" class="difficultySelect" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_6_info')" onmouseout="DOTAHideTextTooltip()" >
+						<Label class="difficultyLabel6" text="#DOTA_HUD_difficulty_select_6"></Label>
+					</Panel>
+
+					<Panel id="difficulty7" class="difficultySelect" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_7_info')" onmouseout="DOTAHideTextTooltip()" >
+						<Label class="difficultyLabel7" text="#DOTA_HUD_difficulty_select_7"></Label>
+					</Panel>
+
+					<Panel id="difficulty8" class="difficultySelect" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_8_info')" onmouseout="DOTAHideTextTooltip()" >
+						<Label  class="difficultyLabel8" text="#DOTA_HUD_difficulty_select_8"></Label>
+					</Panel>
+
+				   <Panel id="difficulty9" class="difficultySelect" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_9_info')" onmouseout="DOTAHideTextTooltip()" >
+						<Label  id="difficultyIdLabel9"  class="difficultyLabel9" text="#DOTA_HUD_difficulty_select_9"></Label>
+				   </Panel>
+				   
+					<Panel id="difficulty10" class="difficultySelect" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_difficulty_select_10_info')" onmouseout="DOTAHideTextTooltip()" >
+						<Label  id="difficultyIdLabel10"  class="difficultyLabel10" text="#DOTA_HUD_difficulty_select_10"></Label>
+				  	</Panel>
+					
+
+				</Panel>
+			   </Panel>
+
+
+
+
+
+			</Panel>
+
+
+
+			
+
+           
+     </Panel>
+
+
+
+</root>

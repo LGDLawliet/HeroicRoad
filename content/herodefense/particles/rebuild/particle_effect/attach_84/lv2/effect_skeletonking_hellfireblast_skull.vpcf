@@ -1,0 +1,145 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_hLowViolenceDef = resource:"particles/rebuild/particle_effect/attach_84/lv2/effect_skeletonking_hellfireblast_skull_lv.vpcf"
+	m_flConstantRadius = 2.0
+	m_flConstantLifespan = 0.25
+	m_ConstantColor = [ 87, 187, 143, 255 ]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderModels"
+			m_nManualFrameField = "18"
+			m_flAnimationRate = 0.0
+			m_bOrientZ = true
+			m_ModelList = 
+			[
+				{
+					m_model = resource:"models/items/rubick/rubick_arcana/rubick_arcana_cube.vmdl"
+				},
+			]
+			m_bAnimated = true
+			m_bForceDrawInterlevedWithSiblings = true
+			m_nLOD = 1
+			m_bForceLoopingAnimation = true
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+		},
+		{
+			_class = "C_OP_Orient2DRelToCP"
+			m_nCP = 1
+			m_flRotOffset = 270.0
+			m_nFieldOutput = "12"
+		},
+		{
+			_class = "C_OP_EndCapTimedDecay"
+		},
+		{
+			_class = "C_OP_SetToCP"
+			m_bOffsetLocal = true
+			m_vecOffset = [ -2.0, 0.0, -8.0 ]
+			m_nControlPointNumber = 3
+		},
+		{
+			_class = "C_OP_Noise"
+			m_nFieldOutput = "4"
+			m_flOutputMin = 30.0
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_SpinUpdate"
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_CreateWithinSphere"
+			m_nControlPointNumber = 3
+		},
+		{
+			_class = "C_INIT_RandomNamedModelSequence"
+			m_bModelFromRenderer = true
+			m_names = 
+			[
+				"anim",
+			]
+			m_nFieldOutput = "13"
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+			m_bRandomlyFlipDirection = false
+			m_nFieldOutput = "20"
+			m_flDegreesMax = -10.0
+			m_flDegreesMin = -10.0
+			m_flDegrees = -10.0
+		},
+		{
+			_class = "C_INIT_RandomRadius"
+			m_flRadiusMin = 0.25
+			m_flRadiusMax = 0.25
+		},
+		{
+			_class = "C_INIT_RandomRotationSpeed"
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_flStartTime = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.0
+			}
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+		},
+	]
+	m_nBehaviorVersion = 5
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 0.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 0.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 60
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 0.0, 254.0, 255.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 61
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_angOffset = [ 0.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+}

@@ -1,0 +1,444 @@
+
+
+
+"DOTA_HUD_Achievement_type_1"   "General"
+"DOTA_HUD_Achievement_type_2"   "Kill"
+"DOTA_HUD_Achievement_type_3"   "Characteristic"
+"DOTA_HUD_Achievement_type_4"   "Heroic"
+"DOTA_HUD_Achievement_bonus_1"                   "Reliable Experience:{s:value1}"
+"DOTA_HUD_Achievement_bonus_2"                   "Aurum:{s:value1}"
+"DOTA_HUD_Achievement_bonus_3"                   "Platinum:{s:value1}"
+"DOTA_HUD_Achievement_bonus_4"                   "Aghanim's Core:{s:value1}"
+"DOTA_HUD_Achievement_bonus_5"                   "Secret Rewards:{s:value1}"
+
+
+"DOTA_HUD_Achievement_bonus"                   "Reward for Completion"
+"DOTA_HUD_Achievement_bonus_get"                   "Receive Rewards"
+"DOTA_HUD_Achievement_state_1"                   "Processing"
+"DOTA_HUD_Achievement_state_2"                   "Conditions were met"
+"DOTA_HUD_Achievement_state_3"                   "Unlock at"
+"DOTA_HUD_Achievement_state_4"                   "Unlocked just now"
+
+
+"DOTA_HUD_Achievement_Broadcast_1"                   "Unlocking Achievement:{s:value1}"
+
+
+"DOTA_HUD_Unknow"  "Unknown"
+"DOTA_HUD_Nope"  "Nothing"
+"DOTA_HUD_secret_info"  "Secrets need to be discovered by yourself or exchanged with other heroes."
+
+"AT_king_of_involution_title"  "The king of involution"
+"AT_king_of_involution_Description"  "Obtained the title of 'King of involution' once."
+"AT_king_of_involution_Lore"  "The powerful man who won the 'King of involution' title for the first time."
+
+"AT_god_of_involution_title"  "The god of involution"
+"AT_god_of_involution_Description"  "Obtained the title of 'King of involution' for 10 times。"
+"AT_god_of_involution_Lore"  "Only the strongest involuter can undertake this great undertaking."
+
+"AT_legend_nevermore_title"  "Legendary Arrival: King of Shadows"
+"AT_legend_nevermore_Description"  "Achieve the top rank in the December 2024 'Legendary Challenge Month' and use the talent 'Nevemore, King of Shadows' for the first time."
+"AT_legend_nevermore_Lore"  "There are always some who must stand up and take action themselves."
+
+"AT_legend_slark_title"  "Legendary Arrival: The Fugitive"
+"AT_legend_slark_Description"  "Achieve the top rank in the June 2025 'Legendary Challenge Month' and use the talent 'Slark, The Fugitive' for the first time."
+"AT_legend_slark_Lore"  "There are always some who must stand up and take action themselves."
+
+"AT_legend_rattletrap_title" "Legend Arrival: Warframe Construct"
+"AT_legend_rattletrap_Description" "Complete a game for the first time using the talent 'Rattletrap, Warframe Construct'. This talent was awarded to the #1 player on the leaderboard at the conclusion of the 'Legendary Challenge Month' in December 2025."
+"AT_legend_rattletrap_Lore" "Somebody always has to stand up and do it themselves."
+
+"AT_pass_difficulty_1_title"  "Initial Contact"
+"AT_pass_difficulty_1_Description"  "Finish difficulty 1."
+"AT_pass_difficulty_1_Lore"  "You have set foot on this battlefield for the first time. Although for those powerful involuter, this degree is only a passing experience, but you have a promising future."
+"AT_pass_difficulty_2_title"  "Skill Comes From Practice"
+"AT_pass_difficulty_2_Description"  "Finish difficulty 2."
+"AT_pass_difficulty_2_Lore"  "You have tried to challenge more difficult enemies. Although this is not enough to touch the ancient giant players, you are slowly closing in."
+"AT_pass_difficulty_3_title"  "Witness"
+"AT_pass_difficulty_3_Description"  "Finish difficulty 3."
+"AT_pass_difficulty_3_Lore"  "For the first time, you have seen the advanced forms of those terrible enemies and overcome these trials. Now you are starting to take charge of yourself."
+"AT_pass_difficulty_4_title"  "Meet the Suffering"
+"AT_pass_difficulty_4_Description"  "Finish difficulty 4."
+"AT_pass_difficulty_4_Lore"  "More suffering, more pain, these are essential for your growth."
+"AT_pass_difficulty_5_title"  "Extraordinary"
+"AT_pass_difficulty_5_Description"  "Finish difficulty 5."
+"AT_pass_difficulty_5_Lore"  "Most people stop here. At this time, you have reached the realm of heroes."
+"AT_pass_difficulty_6_title"  "Open the Gate"
+"AT_pass_difficulty_6_Description"  "Finish difficulty 6."
+"AT_pass_difficulty_6_Lore"  "You have successfully come to the front of the hero field. As long as you open this door, you will be qualified to challenge heroes."
+
+"AT_pass_difficulty_7_title"  "Fast Furious"
+"AT_pass_difficulty_7_Description"  "Finish difficulty 7(Racing leaderboard )。"
+"AT_pass_difficulty_7_Lore"  "Although your speed may not be fast enough, as long as you step by step and keep your feet on the ground, sooner or later you will become the king of involution."
+"AT_pass_difficulty_8_title"  "Endless Suffering"
+"AT_pass_difficulty_8_Description"  "TFinish difficulty 8(Endless leaderboard )."
+"AT_pass_difficulty_8_Lore"  "The endless defenders have flooded you, but you will be inspired by it."
+
+
+
+"AT_bloodly_blade_1_title"  "Blade of Slayer"
+"AT_bloodly_blade_1_Description"  "Complete 10,000 enemy unit kills."
+"AT_bloodly_blade_1_Lore"  "The corpses under your feet can be piled up like mountains."
+"AT_bloodly_blade_2_title"  "Blade of Blood-stained"
+"AT_bloodly_blade_2_Description"  "Complete 100,000 enemy unit kills."
+"AT_bloodly_blade_2_Lore"  "This is simply a crime."
+
+
+
+
+
+
+
+"AT_summoner_1_title"  "New Summoner"
+"AT_summoner_1_Description"  "Cast summon spell for 500 times."
+"AT_summoner_1_Lore"  "The newcomer seems to have some skills this time."
+"AT_summoner_2_title"  "Skilled Summoner"
+"AT_summoner_2_Description"  "Cast summon spell for 3,000 times."
+"AT_summoner_2_Lore"  "At this time, you are skilled in summon."
+"AT_summoner_3_title"  "Summon Master"
+"AT_summoner_3_Description"  "Cast summon spell for 10,000 times."
+"AT_summoner_3_Lore"  "You are the Summon Master."
+"AT_summoner_4_title"  "The Top of Summon"
+"AT_summoner_4_Description"  "Cast summon spell for 50,000 times."
+"AT_summoner_4_Lore"  "No one knows the summon better than you."
+
+
+
+"AT_idle_about_1_title"  "Ah Dou in Swaddling Clothes"
+"AT_idle_about_1_Description"  "In 1 game with 3 or more players, complete at least 15 rounds and your final damage is less than 10K.(The Lifestealer with the default talent cannot complete this achievement)"
+"AT_idle_about_1_Lore"  "…………%%……&*&&"
+"AT_idle_about_2_title"  "Entrusted an orphan in Baidi City"
+"AT_idle_about_2_Description"  "In 10 games with 3 or more players, complete at least 15 rounds and your final damage is less than 10K.(The Lifestealer with the default talent cannot complete this achievement)"
+"AT_idle_about_2_Lore"  "Xiangfu help me."
+"AT_idle_about_3_title"  "A Babe in Arms"
+"AT_idle_about_3_Description"  "In 50 games with 3 or more players, complete at least 15 rounds and your final damage is less than 10K.(The Lifestealer with the default talent cannot complete this achievement)"
+"AT_idle_about_3_Lore"  "What should we do?"
+"AT_idle_about_4_title"  "Have much enjoyment and forget to go back home"
+"AT_idle_about_4_Description"  "In 100 games with 3 or more players, complete at least 15 rounds and your final damage is less than 10K.(The Lifestealer with the default talent cannot complete this achievement)"
+"AT_idle_about_4_Lore"  "I don't miss Shu."
+
+
+
+"AT_core_collector_1_title"  "Core Collector"
+"AT_core_collector_1_Description"  "The holding number of three kinds of core are all more than 500."
+"AT_core_collector_1_Lore"  "There may be no more than three millionaires who can reach this number."
+
+
+"AT_aurum_millionaire_1_title"  "Aurum Millionaire"
+"AT_aurum_millionaire_1_Description"  "Holding Aurum reaches 150,000。"
+"AT_aurum_millionaire_1_Lore"  "You are so rich. I didn't expect anyone can get so many aurum."
+
+
+
+"AT_platinum_millionaire_1_title"  "Rich Brother"
+"AT_platinum_millionaire_1_Description"  "The total amount of platinum charge reached ?."
+"AT_platinum_millionaire_1_Lore"  "Thank you."
+
+"AT_rich_guy_1_title"  "rich sister"
+"AT_rich_guy_1_Description"  "A very kind player."
+"AT_rich_guy_1_Lore"  "On behalf of the production team (which is me alone), thank you."
+
+
+"AT_exp_millionaire_1_title"  "Experience Bomb"
+"AT_exp_millionaire_1_Description"  "Your amount of reliable experience reach 12,000,000"
+"AT_exp_millionaire_1_Lore"  "That's too much...That's too much.."
+
+
+
+
+"AT_self_challenger_1_title"  "Self Challenger"
+"AT_self_challenger_1_Description"  "Complete an endless leaderboard challenge in a single-player game without upgrading any spells to a Advanced level in the whole game."
+"AT_self_challenger_1_Lore"  "Now you can show others this achievement to show your strength."
+
+"AT_remain_uncorrupted_1_title"  "Remain Uncorrupted"
+"AT_remain_uncorrupted_1_Description"  "In 1 game with more than 18 rounds, the gold coins are always less than 500  at the beginning of each round."
+"AT_remain_uncorrupted_1_Lore"  "You are much better than those greedy guys."
+
+ 
+"AT_avatar_of_greed_1_title"  "Avatar of Greed"
+"AT_avatar_of_greed_1_Description"  "In 100 games with more than 18 rounds, the Greevil’s Greed were upgraded to level 25."
+"AT_avatar_of_greed_1_Lore"  "What is more versatile than money?"
+
+
+
+"AT_the_strongest_spear_1_title"  "Strongest Carry"
+"AT_the_strongest_spear_1_Description"  "In 100 games with more than or equal to 3 players, complete at least 18 rounds and your final damage is top 1."
+"AT_the_strongest_spear_1_Lore"  "The strongest carrier."
+
+"AT_the_strongest_shield_1_title"  "Strongest Tank"
+"AT_the_strongest_shield_1_Description"  "In 100 games with more than or equal to 3 players, complete at least 18 rounds and your final damage taken is top 1."
+"AT_the_strongest_shield_1_Lore"  "The strongest tank。"
+
+"AT_the_strongest_heal_1_title"  "Bethune"
+"AT_the_strongest_heal_1_Description"  "In 100 games with more than or equal to 3 players, complete at least 18 rounds and your final healing is top 1.(At least 100,000 is required)."
+"AT_the_strongest_heal_1_Lore"  "The strongest healer。"
+
+
+
+
+"AT_Nirvana_1_title"  "Nirvana"
+"AT_Nirvana_1_Description"  "Use Phoenix's default talent effect to save teammates more than 50 times in one game."
+"AT_Nirvana_1_Lore"  "Only my Nirvana can save these pig teammates."
+
+
+"AT_Walrus_punch_1_title"  "God PUNCH"
+"AT_Walrus_punch_1_Description"  "Use the default talent of Tusk to punch 250 times in one game."
+"AT_Walrus_punch_1_Lore"  "See me beat you to be a '250' with 250 punches."
+
+"AT_Walrus_punch_2_title"  "PUNCH of God's will"
+"AT_Walrus_punch_2_Description"  "7 consecutive punch hit when using the Tusk's[Walrus Punch - Improved Version]."
+"AT_Walrus_punch_2_Lore"  "Is this luck that people can do?"
+
+
+
+
+
+"AT_lonely_hero_1_title"  "Lonely hero"
+"AT_lonely_hero_1_Description"  "Use Sven's default talent, complete at least 18 rounds and activate the passive effect in 50%% of the game time."
+"AT_lonely_hero_1_Lore"  "You can win by yourself."
+
+"AT_acceleration_mode_1_title"  "Acceleration mode"
+"AT_acceleration_mode_1_Description"  "Use the tinker's[Bandwidth Upgrade] talent, maintain 1.6 times of acceleration to complete 15 rounds."
+"AT_acceleration_mode_1_Lore"  "Time will speed up."
+
+
+"AT_extremely_greed_1_title"  "Extremely Greed "
+"AT_extremely_greed_1_Description"  "Use the Bounty Hunter's [Bounty · Greed] talent to challenge 15 times of the most difficult suffering in one game."
+"AT_extremely_greed_1_Lore"  "The life and death of teammates? I don't care."
+
+
+"AT_electrostatic_extractor_1_title"  "Electrostatic extractor"
+"AT_electrostatic_extractor_1_Description"  "Use Rzor's [Static Link] talent to draw 3500 attack bonus in one cast."
+"AT_electrostatic_extractor_1_Lore"  "Witch me carry. You are just a tool man."
+
+
+
+"AT_self_decline_1_title"  "Self-decline"
+"AT_self_decline_1_Description"  "Use Abyssal Underlord's [Atrophy Aura] talent, and die when the attack damage bonus reaches 8000."
+"AT_self_decline_1_Lore"  "This is the fxxxing 8000 attack bonus!"
+
+
+
+
+"AT_genius_1_title"  "genius"
+"AT_genius_1_Description"  "Use the Silencer's [Glaives of Wisdom] talent to gain 200 intelligence points."
+"AT_genius_1_Lore"  "The genius of IQ 200."
+
+
+"AT_mobile_earthquake_source_1_title"  "Mobile Seismic Source"
+"AT_mobile_earthquake_source_1_Description"  "Use the default talent of the Sand King to trigger 5000 earthquakes in total."
+"AT_mobile_earthquake_source_1_Lore"  "Is your right mouse button about to break."
+
+"AT_monkey_king_power_1_title"  "Monkey Power"
+"AT_monkey_king_power_1_Description"  "Use the [Jingu Mastery · Improved Version] talent of the Monkey King to trigger the effect twice in 4 seconds."
+"AT_monkey_king_power_1_Lore"  "This is the auxiliary power."
+
+"AT_wave_1_title"  "Wave"
+"AT_wave_1_Description"  "Use the [Wave Form] talent of the Morphling to stack the buff state to 5 stacks."
+"AT_wave_1_Lore"  "Is this a little too harsh."
+
+
+"AT_rip_tide_rush_1_title"  "Rip Tide Rush"
+"AT_rip_tide_rush_1_Description"  "Use the [Rip Tide] talent of the Naga Siren to trigger 1000 times talent effect in one game."
+"AT_rip_tide_rush_1_Lore"  "My hand is almost broken."
+
+"AT_binder_1_title"  "Binder"
+"AT_binder_1_Description"  "Use the Bat Ridder's [Flaming Lasso] talent to bind a friendly unit for 10 minutes without interruption."
+"AT_binder_1_Lore"  "Do you two have any special relationship?"
+
+
+
+
+
+
+
+
+
+
+"AT_hero_time_1_title"  "The Protagonist"
+"AT_hero_time_1_Description"  "When other team-mates are all dead, use Abaddon's [Heroic Moment] talent and cast the Advanced Borrowed Time , then kill 20 enemies Within the duration."
+"AT_hero_time_1_Lore"  "Heroes are the last to appear."
+
+"AT_horse_trainer_1_title"  "Bi Ma Wen"
+"AT_horse_trainer_1_Description"  "Use the [Master of Horse Training] talent to charge and kill 150 enemies in one game."
+"AT_horse_trainer_1_Lore"  "No one knows horses better than me!"
+
+"AT_madness_1_title"  "Madness"
+"AT_madness_1_Description"  "Use the Bloodseeker's [Parched · Improved Version] talent to kill friendly heroes 5 times in a game."
+"AT_madness_1_Lore"  "Are you crazy?"
+
+"AT_golden_legend_1_title"  "Golden Legend"
+"AT_golden_legend_1_Description"  "Use the Bounty Hunter's [Gold-Plated Weapon] talent, and the have 99999 gold at 3 consecutive settlements."
+"AT_golden_legend_1_Lore"  "I just have money, what's wrong?"
+
+
+"AT_flame_resistance_1_title"  "Flame Resistance"
+"AT_flame_resistance_1_Description"  "Using the [Spin Web] talent of Broodmother, the web is burned down by the Flame spell for a total of 20 rounds."
+"AT_flame_resistance_1_Lore"  "Okay, okay, I will immune the flames, all right?"
+
+
+"AT_24_hours_1_title"  "24-Hour Operation"
+"AT_24_hours_1_Description"  "Use the Centaur's [Centaur War Chariot] talent to maintain a full movement speed bonus in a whole round."
+"AT_24_hours_1_Lore"  "Even donkeys have to rest."
+
+
+"AT_precipitate_1_title"  "Precipitate"
+"AT_precipitate_1_Description"  "Use the [Silence Raven] talent of the Drow Ranger, and do not apply damage for 2 rounds after accumulating full damage bonus."
+"AT_precipitate_1_Lore"  "Take action when it's time to do so."
+
+
+"AT_disaster_surviver_1_title"  "Thunderstruck"
+"AT_disaster_surviver_1_Description"  "Using Zuus' [Thunder· Improved Version] talent, after 5 shocks to the same enemy, each subsequent shock has a 15%% chance to unlock this achievement."
+"AT_disaster_surviver_1_Lore"  "Sin!"
+
+
+
+"AT_gay_chain_1_title"  "Friend Chain"
+"AT_gay_chain_1_Description"  "Using Io's [Embodiment of Law] talent, link the same teammate to complete 6 rounds without opening the link."
+"AT_gay_chain_1_Lore"  "I love you, you love him, you, me, and he make everyone successful."
+
+"AT_family_man_1_title"  "Family Man"
+"AT_family_man_1_Description"  "Using Windrunner's [Fast & Furious] talent, say 'we r a family' 10 times in a row within 10 seconds."
+"AT_family_man_1_Lore"  "We are all family, we are all one family."
+
+
+
+"AT_plane_shuttle_1_title"  "Plane Shuttle"
+"AT_plane_shuttle_1_Description"  "Use the [Void Step] talent of the Void Spirit, and cast the Astral Step provided by the talent 500 times in total."
+"AT_plane_shuttle_1_Lore"  "My feet are blistering."
+
+
+
+"AT_jedi_knight_1_title"  "Jedi Knight"
+"AT_jedi_knight_1_Description"  "Use the [Psi Blades · Improved Version] talent of the Templar Assassin to team up with the Jugg, Sven, Phantom Assassin, and Ember Spirit to complete a Fellomen diff game."
+"AT_jedi_knight_1_Lore"  "We are a professional team."
+
+
+"AT_phantom_hunter_1_title"  "Phantom Hunter"
+"AT_phantom_hunter_1_Description"  "Use the Spectre's' [Desolate Scattering] 'talent and die 15 times from your own talent damage."
+"AT_phantom_hunter_1_Lore"  "It seems that there is something wrong with the injury assessment."
+
+"AT_giant_1_title"  "Giant object"
+"AT_giant_1_Description"  "Use Tiny's 'Tree Grab' talent to have 15000 full attack damage at the end of the game."
+"AT_giant_1_Lore"  "This should be easy."
+
+
+
+
+
+
+
+
+
+
+"AT_chaotic_era_1_title"  "Start the new era"
+"AT_chaotic_era_1_Description"  "Successfully completing Chaos Era mode 1 time."
+"AT_chaotic_era_1_Lore"  "A new story begins."
+
+"AT_chaotic_era_2_title"  "Step into the new era"
+"AT_chaotic_era_2_Description"  "Successfully completing Chaos Era mode 3 times."
+"AT_chaotic_era_2_Lore"  ""
+
+"AT_chaotic_era_3_title"  "Be a part of it"
+"AT_chaotic_era_3_Description"  "Successfully completing Chaos Era mode 10 times."
+"AT_chaotic_era_3_Lore"  ""
+
+"AT_chaotic_era_4_title"  "Memorial"
+"AT_chaotic_era_4_Description"  "Successfully completing Chaos Era mode 30 times."
+"AT_chaotic_era_4_Lore"  ""
+
+"AT_chaotic_era_5_title"  "Living Legend"
+"AT_chaotic_era_5_Description"  "Successfully completing Chaos Era mode 50 times."
+"AT_chaotic_era_5_Lore"  "You've become a new myth."
+
+"AT_chaotic_era_base_rune_1_title"  "Steady Accumulation"
+"AT_chaotic_era_base_rune_1_Description"  "Obtain 5 rare runes through the Chaotic Era (progress of high-tier runes is automatically converted)."
+"AT_chaotic_era_base_rune_1_Lore"  ""
+
+"AT_chaotic_era_base_rune_2_title"  "Steady Growth"
+"AT_chaotic_era_base_rune_2_Description"  "Obtain 30 rare runes through the Chaotic Era (progress of high-tier runes is automatically converted)."
+"AT_chaotic_era_base_rune_2_Lore"  ""
+
+"AT_chaotic_era_base_rune_3_title"  "Self-Reliance"
+"AT_chaotic_era_base_rune_3_Description"  "Obtain 100 rare runes through the Chaotic Era (progress of high-tier runes is automatically converted)."
+"AT_chaotic_era_base_rune_3_Lore"  ""
+
+"AT_chaotic_era_rune_1_title"  "The 1st step to becoming Rune Tycoon"
+"AT_chaotic_era_rune_1_Description"  "Obtain 1 Mythical runestone (Immortal rune with five times the progress) through the Chaos Era."
+"AT_chaotic_era_rune_1_Lore"  ""
+
+
+
+
+"AT_chaotic_era_rune_2_title"  "The 2nd step to becoming Rune Tycoon"
+"AT_chaotic_era_rune_2_Description"  "Obtain 5 Mythical runestone (Immortal rune with five times the progress) through the Chaos Era."
+"AT_chaotic_era_rune_2_Lore"  ""
+
+
+
+"AT_chaotic_era_rune_3_title"  "The 3rd step to becoming Rune Tycoon"
+"AT_chaotic_era_rune_3_Description"  "Obtain 30 Mythical runestone (Immortal rune with five times the progress) through the Chaos Era."
+"AT_chaotic_era_rune_3_Lore"  ""
+
+
+
+"AT_chaotic_era_rune_4_title"  "The 4th step to becoming Rune Tycoon"
+"AT_chaotic_era_rune_4_Description"  "Obtain 100 Mythical runestone (Immortal rune with five times the progress) through the Chaos Era."
+"AT_chaotic_era_rune_4_Lore"  ""
+
+"AT_chaotic_era_rune_5_title"  "The 5th step to becoming Rune Tycoon"
+"AT_chaotic_era_rune_5_Description"  "Obtain 200 Mythical runestone (Immortal rune with five times the progress) through the Chaos Era."
+"AT_chaotic_era_rune_5_Lore"  ""
+
+
+"AT_chaotic_era_rune_6_title"  "Rune Tycoon"
+"AT_chaotic_era_rune_6_Description"  "Obtain 400 Mythical runestone (Immortal rune with five times the progress) through the Chaos Era."
+"AT_chaotic_era_rune_6_Lore"  ""
+
+
+
+"AT_chaotic_era_rune_single_get_1_title"  "The 1st step upwards"
+"AT_chaotic_era_rune_single_get_1_Description"  "In Chaos Era mode, receive 2 Mythical runes in a single match."
+"AT_chaotic_era_rune_single_get_1_Lore"  ""
+
+
+
+"AT_chaotic_era_rune_single_get_2_title"  "The 2nd step upwards"
+"AT_chaotic_era_rune_single_get_2_Description"  "In Chaos Era mode, receive 4 Mythical runes in a single match."
+"AT_chaotic_era_rune_single_get_2_Lore"  ""
+
+
+"AT_chaotic_era_rune_single_get_3_title"  "The 3rd step upwards"
+"AT_chaotic_era_rune_single_get_3_Description"  "In Chaos Era mode, receive 1 Immortal rune in a single match."
+"AT_chaotic_era_rune_single_get_3_Lore"  ""
+
+
+"AT_chaotic_era_rune_single_get_4_title"  "The 4th step upwards"
+"AT_chaotic_era_rune_single_get_4_Description"  "In Chaos Era mode, receive 2 Immortal runes in a single match."
+"AT_chaotic_era_rune_single_get_4_Lore"  ""
+
+
+
+
+"AT_chaotic_era_rune_killer_1_title"  "Guardian of the Initial Terminal"
+"AT_chaotic_era_rune_killer_1_Description"  "In Chaos Era mode, defeat 150 Chaos Era monsters."
+"AT_chaotic_era_rune_killer_1_Lore"  ""
+
+"AT_chaotic_era_rune_killer_2_title"  "Guardian of the Initial Terminal"
+"AT_chaotic_era_rune_killer_2_Description"  "In Chaos Era mode, defeat 500 Chaos Era monsters."
+"AT_chaotic_era_rune_killer_2_Lore"  ""
+
+"AT_chaotic_era_rune_killer_3_title"  "Guardian of the Initial Terminal"
+"AT_chaotic_era_rune_killer_3_Description"  "In Chaos Era mode, defeat 1500 Chaos Era monsters."
+"AT_chaotic_era_rune_killer_3_Lore"  ""
+
+"AT_chaotic_era_rune_killer_4_title"  "Guardian of the Initial Terminal"
+"AT_chaotic_era_rune_killer_4_Description"  "In Chaos Era mode, defeat 5000 Chaos Era monsters."
+"AT_chaotic_era_rune_killer_4_Lore"  ""
+
+"AT_chaotic_era_rune_killer_5_title"  "Guardian of the Initial Terminal"
+"AT_chaotic_era_rune_killer_5_Description"  "In Chaos Era mode, defeat 15000 Chaos Era monsters."
+"AT_chaotic_era_rune_killer_5_Lore"  ""
+
+"AT_chaotic_era_rune_killer_6_title"  "Guardian of the Initial Terminal"
+"AT_chaotic_era_rune_killer_6_Description"  "In Chaos Era mode, defeat 50000 Chaos Era monsters."
+"AT_chaotic_era_rune_killer_6_Lore"  ""

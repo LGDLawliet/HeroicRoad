@@ -1,0 +1,1281 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc39:version{1ceecb0d-4093-4729-ab18-b76886c64cde} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "m_scifi_hellcat_armor_skin4.vmat"
+								to = "models/eom/lawliet/sci_cat/sci_cat_armor.vmat"
+							},
+							{
+								from = "m_scifi_hellcat_body_skin4.vmat"
+								to = "models/eom/lawliet/sci_cat/sci_cat_body.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/eom/lawliet/sci_cat/sk_scifi_hellcat_skin4.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Attack1"
+						children = 
+						[
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 30
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"particles/econ/items/ursa/ursa_swift_claw/ursa_swift_claw_right.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = null
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+						]
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Attack1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 80.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Attack2"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Attack2.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Attack3"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Attack3.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Attack4"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_CAST_ABILITY_1"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Attack4.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Attack5"
+						children = 
+						[
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 30
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"particles/econ/items/ursa/ursa_swift_claw/ursa_swift_claw_left.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = null
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+						]
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Attack5.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 80.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Attack6"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Attack6.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Death1"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Death1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Death2"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Death2.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Idle1"
+						is_default_idle_anim = false
+						activity_name = "ACD_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Idle1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Idle1ToIdle2"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Idle1ToIdle2.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Idle2"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Idle2.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Idle2ToIdle1"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Idle2ToIdle1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Provoke"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Provoke.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Roar"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_SPAWN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Roar.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Run"
+						children = 
+						[
+							{
+								_class = "AnimStartLoop"
+								start_loop_frame = 16
+							},
+							{
+								_class = "ExtractMotion"
+								disabled = true
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								extract_initial_offset = false
+								root_bone_name = ""
+								motion_type = "Uniform"
+							},
+						]
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_RUN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.1
+						fade_out_time = 0.1
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Run.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = 17
+						framerate = 25.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Walk_F"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Walk_F.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_HellCat_Run_copy"
+						children = 
+						[
+							{
+								_class = "AnimStartLoop"
+								start_loop_frame = 16
+							},
+							{
+								_class = "ExtractMotion"
+								disabled = true
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								extract_initial_offset = false
+								root_bone_name = ""
+								motion_type = "Uniform"
+							},
+							{
+								_class = "ActivityModifier"
+								activity_name = "fast"
+								activity_weight = 1
+							},
+						]
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_RUN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.1
+						fade_out_time = 0.1
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_cat/Animations/anim_SciFi_HellCat_Run.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = 17
+						framerate = 50.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "ModelModifierList"
+				children = 
+				[
+					{
+						_class = "ModelModifier_ScaleAndMirror"
+						disabled = true
+						scale = 0.35
+						mirror_x = false
+						mirror_y = false
+						mirror_z = false
+						flip_bone_forward = false
+						swap_left_and_right_bones = false
+					},
+				]
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "spine_03"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_spine9"
+						parent_bone = "spike_spine9"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 180.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_spine7"
+						parent_bone = "spike_spine7"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 180.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_spine5"
+						parent_bone = "spike_spine5"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 180.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_spine3"
+						parent_bone = "spike_spine3"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 180.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_spine"
+						parent_bone = "spike_spine"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "hand_r"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "Softbody"
+				children = 
+				[
+					{
+						_class = "ClothParams"
+						default_stretch = 1.0
+						additional_shear_stretch = 0.186
+						extra_iterations = 0
+						extra_goal_iterations = 0
+						extra_pressure_iterations = 0
+						goal_strength_bias = 0.4
+						default_gravity_scale = 1.0
+						default_vel_air_drag = 1.0
+						default_exp_air_drag = 1.0
+						velocity_smooth_rate = 1.0
+						internal_pressure = 0.0
+						windage = 0.0
+						wind_drag = 0.0
+						velocity_smooth_iterations = 1
+						default_ground_friction = 0.0
+						default_world_collision_penetration = 0.0
+						add_world_collision_radius = 2.0
+						local_force = 1.0
+						local_rotation = 0.0
+						add_curvature = 1.0
+						quad_bend_tolerance = 0.05
+						local_drag1 = 0.0
+						follow_the_lead = true
+						use_per_node_local_force_and_rotation = false
+						uninertial_rods = false
+						explicit_masses = false
+						unitless_damping = true
+						force_world_collision_on_all_nodes = false
+						new_style = true
+						can_collide_with_world_hulls = true
+						can_collide_with_world_meshes = true
+						can_collide_with_world_capsule_and_spheres = true
+						add_stiffness_rods = true
+						rigid_edge_hinges = false
+						add_bend_only_rods = false
+						immovable = false
+					},
+				]
+				stiffness_on_ragdoll = 0.0
+				motion_smooth_cdt = 0.0
+				cloth_sleep_enabled = false
+				cloth_immovable_hint = false
+				cloth_per_bone_scale_enabled = false
+				cloth_enable_empty_model = false
+				cloth_keychain_motion = false
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "particle"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_dragon/fx/maintenance_ambientb.vpcf"
+							attachment_point = "attach_spine9"
+							attachment_type = "point_follow"
+							attachment_offset = null
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "particle"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_dragon/fx/maintenance_ambientb.vpcf"
+							attachment_point = "attach_spine7"
+							attachment_type = "point_follow"
+							attachment_offset = null
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "particle"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_dragon/fx/maintenance_ambientb.vpcf"
+							attachment_point = "attach_spine5"
+							attachment_type = "point_follow"
+							attachment_offset = null
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "particle"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_dragon/fx/maintenance_ambientb.vpcf"
+							attachment_point = "attach_spine3"
+							attachment_type = "point_follow"
+							attachment_offset = null
+						}
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "spine_01"
+								parent_bone = "spine_01"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -23.089796, -33.667686, -34.838135 ]
+								hitbox_maxs = [ 45.155136, 33.667671, 49.854179 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spine_02"
+								parent_bone = "spine_02"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -27.623026, -38.648872, -49.011032 ]
+								hitbox_maxs = [ 89.534813, 38.648842, 62.306053 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spine_03"
+								parent_bone = "spine_03"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -50.70459, -62.212761, -74.322021 ]
+								hitbox_maxs = [ 81.209183, 62.212746, 72.826447 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "neck_01"
+								parent_bone = "neck_01"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -25.169514, -37.989899, -45.462173 ]
+								hitbox_maxs = [ 37.759281, 37.989838, 44.965332 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "head"
+								parent_bone = "head"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -31.561789, -38.56358, -38.82338 ]
+								hitbox_maxs = [ 35.76458, 38.56361, 26.168808 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "clavicle_l"
+								parent_bone = "clavicle_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -7.417446, -37.894211, -36.499069 ]
+								hitbox_maxs = [ 40.823036, 33.155258, 41.951157 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "upperarm_l"
+								parent_bone = "upperarm_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -23.83461, -18.178684, -29.496929 ]
+								hitbox_maxs = [ 83.45314, 17.881527, 32.847534 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "lowerarm_l"
+								parent_bone = "lowerarm_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -27.556335, -23.448906, -26.453762 ]
+								hitbox_maxs = [ 77.324638, 27.416138, 18.732834 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "hand_l"
+								parent_bone = "hand_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.197464, -24.691334, -23.287422 ]
+								hitbox_maxs = [ 33.014355, 23.877819, 11.58078 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "pinky_01_l"
+								parent_bone = "pinky_01_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.834332, -5.081871, -4.50975 ]
+								hitbox_maxs = [ 4.83918, 4.570887, 15.507202 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "ring_01_l"
+								parent_bone = "ring_01_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.003575, -5.168581, -4.820831 ]
+								hitbox_maxs = [ 5.003765, 5.233833, 17.09919 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "middle_01_l"
+								parent_bone = "middle_01_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.552145, -5.835594, -5.221947 ]
+								hitbox_maxs = [ 5.510021, 5.807438, 19.093475 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "index_01_l"
+								parent_bone = "index_01_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.092323, -5.347344, -4.678284 ]
+								hitbox_maxs = [ 5.090042, 5.233829, 17.13726 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "thumb_01_l"
+								parent_bone = "thumb_01_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.073886, -3.484264, -4.074394 ]
+								hitbox_maxs = [ 4.07525, 12.208264, 6.398289 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "clavicle_r"
+								parent_bone = "clavicle_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.822952, -33.155518, -41.951187 ]
+								hitbox_maxs = [ 7.41753, 37.894012, 36.499039 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "upperarm_r"
+								parent_bone = "upperarm_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -83.452904, -17.881569, -32.847527 ]
+								hitbox_maxs = [ 23.834854, 18.17865, 29.496929 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "lowerarm_r"
+								parent_bone = "lowerarm_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -77.3246, -27.4161, -18.732788 ]
+								hitbox_maxs = [ 27.556292, 23.448921, 26.453785 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "hand_r"
+								parent_bone = "hand_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -33.014385, -23.877686, -11.580719 ]
+								hitbox_maxs = [ 14.197433, 24.69146, 23.287487 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "pinky_01_r"
+								parent_bone = "pinky_01_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.839073, -4.570785, -15.507156 ]
+								hitbox_maxs = [ 4.834442, 5.081973, 4.509789 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "ring_01_r"
+								parent_bone = "ring_01_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.003658, -5.23379, -17.099213 ]
+								hitbox_maxs = [ 5.003685, 5.168621, 4.820808 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "middle_01_r"
+								parent_bone = "middle_01_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.509878, -5.8074, -19.093483 ]
+								hitbox_maxs = [ 5.552282, 5.835629, 5.221931 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "index_01_r"
+								parent_bone = "index_01_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.089901, -5.23377, -17.137238 ]
+								hitbox_maxs = [ 5.092464, 5.347403, 4.678307 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "thumb_01_r"
+								parent_bone = "thumb_01_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.075198, -12.208337, -6.398235 ]
+								hitbox_maxs = [ 4.073942, 3.484188, 4.074448 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine_r"
+								parent_bone = "spike_spine_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -24.507259, -2.956787, -7.775803 ]
+								hitbox_maxs = [ 4.235928, 1.195328, 7.833664 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine_r2"
+								parent_bone = "spike_spine_r2"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -21.390297, -4.011169, -7.331451 ]
+								hitbox_maxs = [ 4.361584, 3.7939, 6.947418 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine_r4"
+								parent_bone = "spike_spine_r4"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -22.474834, -5.795546, -5.978165 ]
+								hitbox_maxs = [ 4.876263, 5.745491, 5.821777 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine_l"
+								parent_bone = "spike_spine_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.236061, -1.195351, -7.833801 ]
+								hitbox_maxs = [ 24.507137, 2.956779, 7.775665 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine_l2"
+								parent_bone = "spike_spine_l2"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.36174, -3.79377, -6.947739 ]
+								hitbox_maxs = [ 21.390152, 4.011292, 7.3311 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine8"
+								parent_bone = "spike_spine8"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.785992, -16.867184, -9.053299 ]
+								hitbox_maxs = [ 40.393314, 16.867176, 5.206665 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine6"
+								parent_bone = "spike_spine6"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -10.722567, -19.033613, -10.391129 ]
+								hitbox_maxs = [ 31.667669, 19.033602, 6.094376 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine4"
+								parent_bone = "spike_spine4"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -15.362995, -20.202206, -9.580658 ]
+								hitbox_maxs = [ 50.871304, 20.20219, 7.273788 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine2"
+								parent_bone = "spike_spine2"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -10.857204, -16.675091, -11.265442 ]
+								hitbox_maxs = [ 38.239944, 16.675076, 3.776489 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "spike_spine_l4"
+								parent_bone = "spike_spine_l4"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4.876226, -5.745487, -5.821625 ]
+								hitbox_maxs = [ 22.474874, 5.795542, 5.978317 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "thigh_l"
+								parent_bone = "thigh_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -32.478058, -21.08147, -34.729443 ]
+								hitbox_maxs = [ 87.027245, 23.015198, 34.035954 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "calf_l"
+								parent_bone = "calf_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -17.50383, -16.291542, -14.45562 ]
+								hitbox_maxs = [ 69.296623, 14.561054, 19.422478 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "foot_l"
+								parent_bone = "foot_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -24.571243, -15.201427, -13.612698 ]
+								hitbox_maxs = [ 70.411354, 21.82761, 9.984909 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "ball_l"
+								parent_bone = "ball_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -11.59166, -21.475872, -5.957306 ]
+								hitbox_maxs = [ 17.615005, 20.089306, 13.008211 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "ring_b_01_l"
+								parent_bone = "ring_b_01_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.222082, -5.197189, -4.731339 ]
+								hitbox_maxs = [ 5.21748, 5.234752, 17.06686 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Middle_b_01_l"
+								parent_bone = "Middle_b_01_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.823116, -5.833529, -5.253395 ]
+								hitbox_maxs = [ 5.820466, 5.807034, 19.137783 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "index_b_01_l"
+								parent_bone = "index_b_01_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.315591, -5.34393, -4.849625 ]
+								hitbox_maxs = [ 5.318326, 5.234746, 17.295841 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail_joint"
+								parent_bone = "Tail_joint"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.033895, -17.606155, -82.009415 ]
+								hitbox_maxs = [ 9.033901, 7.835999, 0.5 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail_joint1"
+								parent_bone = "Tail_joint1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.978395, -16.062668, -87.209366 ]
+								hitbox_maxs = [ 9.978357, 8.827209, 33.40358 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail_joint2"
+								parent_bone = "Tail_joint2"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.978399, -16.24147, -96.160553 ]
+								hitbox_maxs = [ 9.978357, 7.151703, 16.213577 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail_joint3"
+								parent_bone = "Tail_joint3"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.978405, -15.70118, -77.387024 ]
+								hitbox_maxs = [ 9.978359, 9.292801, 28.178375 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail_joint4"
+								parent_bone = "Tail_joint4"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -13.265427, -11.872566, -41.684906 ]
+								hitbox_maxs = [ 13.265335, 11.381905, 14.794281 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claw_l"
+								parent_bone = "Claw_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.994995, -5.627411, -5.630005 ]
+								hitbox_maxs = [ 24.087067, 5.872749, 4.097168 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claw_r"
+								parent_bone = "Claw_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -24.087433, -5.873299, -4.097137 ]
+								hitbox_maxs = [ 0.994629, 5.626839, 5.630035 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "thigh_r"
+								parent_bone = "thigh_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -87.027039, -23.015137, -34.036072 ]
+								hitbox_maxs = [ 32.47821, 21.081539, 34.72934 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "calf_r"
+								parent_bone = "calf_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -69.296669, -14.561016, -19.422417 ]
+								hitbox_maxs = [ 17.503838, 16.291592, 14.455673 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "foot_r"
+								parent_bone = "foot_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -70.411232, -21.827675, -9.984745 ]
+								hitbox_maxs = [ 24.571465, 15.201423, 13.612873 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "ball_r"
+								parent_bone = "ball_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -17.614887, -20.089287, -13.008228 ]
+								hitbox_maxs = [ 11.59185, 21.475983, 5.957321 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "ring_b_01_r"
+								parent_bone = "ring_b_01_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.217403, -5.23485, -17.066757 ]
+								hitbox_maxs = [ 5.222191, 5.197136, 4.731529 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Middle_b_01_r"
+								parent_bone = "Middle_b_01_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.820324, -5.807148, -19.137783 ]
+								hitbox_maxs = [ 5.823313, 5.833466, 5.253502 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "index_b_01_r"
+								parent_bone = "index_b_01_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.318298, -5.234854, -17.295853 ]
+								hitbox_maxs = [ 5.315664, 5.343864, 4.849712 ]
+							},
+						]
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

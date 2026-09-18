@@ -1,0 +1,20 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 4
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/death_cloud/cast_effect/effect_impact_shared_ti_5.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/death_cloud/cast_effect/effect_impact_flash_lucent_ti_5.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/death_cloud/cast_effect/effect_impact_bits_bouncy_ti_5.vpcf"
+		},
+	]
+	m_PreEmissionOperators = [  ]
+	m_nBehaviorVersion = 12
+}

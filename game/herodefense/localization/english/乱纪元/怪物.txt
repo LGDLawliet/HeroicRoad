@@ -1,0 +1,74 @@
+// Chaotic Era Creatures
+"npc_monster_wave_thirsty_servant"  "Thirsty Servant"
+"npc_monster_wave_thirsty_servant_info"  "[Basic Unit][No Race] Melee attacker, very ordinary."
+
+"npc_monster_wave_thirsty_servant_ranger"  "Thirsty Ranger Servant"
+"npc_monster_wave_thirsty_servant_ranger_info"  "[Basic Unit][No Race] Ranged attacker, very ordinary."
+
+"npc_monster_wave_thirsty_servant_elite"  "Thirsty Vanguard"
+"npc_monster_wave_thirsty_servant_elite_info"  "[Elite Unit][No Race] Melee attacker, a larger but still very ordinary unit."
+
+"npc_monster_wave_thirsty_lifeseeker"  "Thirsty Bloodseeker"
+"npc_monster_wave_thirsty_lifeseeker_info"  "[Basic Unit][Insect] Melee attacker, has life steal, possibly related to mosquitoes from somewhere."
+
+"npc_monster_wave_thirsty_assassin"  "Thirsty Assassin"
+"npc_monster_wave_thirsty_assassin_info"  "[Basic Unit][No Race] Melee attacker, only appears near players, may drop [Shadow Assassin Dagger Set], feels somewhat insecure about its small stature."
+
+"npc_monster_wave_sharp_tooth_raider"  "Sharp Tooth Raider"
+"npc_monster_wave_sharp_tooth_raider_info"   "[Basic Unit][No Race] Melee attacker, reduces the armor of hit units, longer attack range, motto is 'the longer the better'."
+
+"npc_monster_wave_thirsty_furblog"  "Thirsty Furbolg"
+"npc_monster_wave_thirsty_furblog_info"  "[Basic Unit][No Race] Melee attacker, becomes stronger over time, easily angered."
+
+"npc_monster_wave_undead_skeleton_walker"  "Undead Skeleton Walker"
+"npc_monster_wave_undead_skeleton_walker_info"  "[Basic Unit][Undead] Melee attacker, has persistent resurrection ability, may drop [Endless Vigor Set], hates having to work overtime even after death."
+
+"npc_monster_wave_undead_skeleton_archer"  "Undead Skeleton Archer"
+"npc_monster_wave_undead_skeleton_archer_info"  "[Basic Unit][Undead] Ranged attacker, has persistent resurrection ability, may drop [Decayed Dead Set], blames enemies for the resentment of working overtime after death."
+
+"npc_monster_wave_thirsty_iron_shielder"  "Chaotic Iron Guardian"
+"npc_monster_wave_thirsty_iron_shielder_info"  "[Basic Unit][Chaotic Creature] Melee attacker, very low attack power but extremely high damage resistance, sees being employed by chaotic forces as nothing significant."
+
+"npc_monster_wave_cactus_boxer"  "Cactus Boxer"
+"npc_monster_wave_cactus_boxer_info"  "[Basic Unit][Plant] Melee attacker, has a chance to knock back targets, dreams of fighting in an arena."
+
+"npc_monster_wave_28_1_chaotic"	"Ice Elemental·Ancient Soul"
+"npc_monster_wave_28_1_chaotic_info"    "[Basic Unit][Elemental] Ranged attacker, makes targets more vulnerable upon hitting them, dislikes cold jokes."
+
+"npc_monster_wave_water_crab"	"Pond Crab"
+"npc_monster_wave_water_crab_info"    "[Basic Unit][Naga] Melee attacker, high armor and movement speed, requires frequent maintenance on its hard shell."
+
+"npc_monster_wave_lava_golem"  "Fire Elemental·Lava Giant"
+"npc_monster_wave_lava_golem_info"  "[Elite Unit][Elemental] Melee attacker, explosive attack like fire, causes splash damage, confident in its strength despite being a big oaf."
+
+"npc_monster_wave_evil_flower"  "Hypnotic Demon Flower"
+"npc_monster_wave_evil_flower_info"  "[Elite Unit][Plant] Melee attacker, releases pollen that reduces hero attack speed and movement speed when damaged, fantasizes about being a popular runway model."
+
+"npc_monster_wave_thirsty_deep_guardian"  "Thirsty Deep Guardian"
+"npc_monster_wave_thirsty_deep_guardian_info"  "[Elite Unit][Naga] Melee attacker, tail attacks reduce target armor and can stun weaker heroes, quite proud of its large tail."
+
+"npc_monster_wave_evil_chaos_form"  "Evil Chaotic Incarnation"
+"npc_monster_wave_evil_chaos_form_info"  "[Elite Unit][Chaotic Creature] Melee attacker, learns many conventional skills, looks like a delinquent but loves learning."
+
+"npc_monster_wave_immortal_stumps"  "Immortal Stump"
+"npc_monster_wave_immortal_stumps_info"  "[Elite Unit][Plant] Melee attacker, possesses extraordinary recovery abilities , skilled in Iron Head Technique."
+
+"npc_monster_wave_5_1_chaotic"	"Lightning Elemental·Son of Balnock"
+"npc_monster_wave_5_1_chaotic_info"    "[Elite Unit][Elemental] Melee attacker, creates electric fields for protection and counterattacks when damaged,  actually a coward despite appearances."
+
+"npc_monster_wave_big_slime"	"Big Slime, Discarded Resentment"
+"npc_monster_wave_big_slime_info"    "[Elite Unit][Naga] Ranged attacker, attacks reduce enemy armor and evasion rate, originally intended to be a main character in a relic story but replaced due to sponsor demands."
+
+"npc_monster_wave_chaotic_executive"  "Chaotic Executive"
+"npc_monster_wave_chaotic_executive_info"  "[Elite Unit][Chaotic Creature] Ranged attacker, minimal attack power but weakens enemy damage, upholds elitism and prefers silence."
+
+"npc_dota_unkonw"  "Nameless"
+"npc_dota_unkonw_info"  "Fate fades, you cannot know the true name behind the curtain."
+
+"npc_monster_wave_undeath_zombie"  "Undead Zombie"
+"npc_monster_wave_undeath_zombie_info"  "[Basic Unit][Undead] The weakest of the undead, often used as cannon fodder, its undead nature serves well during charges."
+
+"npc_monster_boss_chaoc_form_real_one"  "First Demon God Bael"
+"npc_monster_boss_chaoc_form_real_one_info"  "Emits blue light, with lightning bursting from its skin, symbolizing thunder power. Its attacks are mostly lightning-based, making you more susceptible to lightning damage."
+
+"npc_monster_boss_chaoc_form_real_one_trail"  "Arcane Sprite"

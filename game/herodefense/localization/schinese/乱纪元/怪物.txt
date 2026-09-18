@@ -1,0 +1,90 @@
+// 乱纪元生物
+"npc_monster_wave_thirsty_servant"  "饥渴奴仆"
+"npc_monster_wave_thirsty_servant_info"  "【普通单位】【无种族】近战攻击，十分普通。"
+
+"npc_monster_wave_thirsty_servant_ranger"  "饥渴奴仆"
+"npc_monster_wave_thirsty_servant_ranger_info"  "【普通单位】【无种族】远程攻击，十分普通。"
+
+"npc_monster_wave_thirsty_servant_elite"  "饥渴先锋"
+"npc_monster_wave_thirsty_servant_elite_info"  "【精英单位】【无种族】近战攻击，十分普通的大个子。"
+
+"npc_monster_wave_thirsty_lifeseeker"  "饥渴嗜血者"
+"npc_monster_wave_thirsty_lifeseeker_info"  "【普通单位】【昆虫】近战攻击，具有生命偷取，也许是哪个地方的蚊子的亲戚。"
+
+"npc_monster_wave_thirsty_assassin"  "饥渴刺杀者"
+"npc_monster_wave_thirsty_assassin_info"  "【普通单位】【无种族】近战攻击，靠近玩家才会现形的刺客，可能掉落【阴影刺杀匕首套装】，对自己的矮小身材有一些自卑。"
+
+"npc_monster_wave_sharp_tooth_raider"  "尖牙突袭者"
+"npc_monster_wave_sharp_tooth_raider_info"   "【普通单位】【无种族】近战攻击，降低被命中单位的护甲，攻击距离较长，联谊的座右铭是'一寸长一寸强'。"
+
+"npc_monster_wave_thirsty_furblog"  "饥渴熊怪"
+"npc_monster_wave_thirsty_furblog_info"  "【普通单位】【无种族】近战攻击，随着时间它会越来越强大，很容易生气。"
+////////////////////////////////
+"npc_monster_wave_undead_skeleton_walker"  "不死骷髅行进者"
+"npc_monster_wave_undead_skeleton_walker_info"  "【普通单位】【不死族】近战攻击，具有很磨人的复生能力，可能掉落【不竭魄力套装】，非常讨厌死了之后还要加班的日子。"
+
+"npc_monster_wave_undead_skeleton_archer"  "不死骷髅射手"
+"npc_monster_wave_undead_skeleton_archer_info"  "【普通单位】【不死族】远程攻击，具有很磨人的复生能力，可能掉落【亡者陈朽套装】，将死了之后还要加班的怨恨归结于敌人。"
+
+"npc_monster_wave_thirsty_iron_shielder"  "混乱钢铁卫士"
+"npc_monster_wave_thirsty_iron_shielder_info"  "【普通单位】【混乱生物】近战攻击，攻击力非常低，但是承伤能力高的可怕，认为受雇于混乱势力并没有什么大不了的。"
+
+"npc_monster_wave_cactus_boxer"  "仙人掌拳击手"
+"npc_monster_wave_cactus_boxer_info"  "【普通单位】【植物】近战攻击，有几率击退目标，梦想是打擂台。"
+
+"npc_monster_wave_28_1_chaotic"	"冰元素·远古之魂"
+"npc_monster_wave_28_1_chaotic_info"    "【普通单位】【元素生物】远程攻击，被它攻击到会变得脆弱，不喜欢听冷笑话。"
+
+"npc_monster_wave_water_crab"	"水潭小蟹"
+"npc_monster_wave_water_crab_info"    "【普通单位】【娜迦族】近战攻击，护甲和移动速度都比较高，硬硬的甲壳其实经常需要保养。"
+
+// "npc_monster_wave_rage_goblin"  "哥布林狂暴者"
+// "npc_monster_wave_rage_goblin_info"  "【普通单位】【无种族】在哥布林中属于是中级战斗力单位，极具攻击性，以快速攻击著称。"
+///////////////////////////////////
+"npc_monster_wave_lava_golem"  "火元素·熔岩巨人"
+"npc_monster_wave_lava_golem_info"  "【精英单位】【元素生物】近战攻击，像火焰一样爆裂的攻击力，会造成范围溅射伤害，对自己的力气很有信息的大笨蛋。"
+
+"npc_monster_wave_evil_flower"  "催眠恶魔花"
+"npc_monster_wave_evil_flower_info"  "【精英单位】【植物】近战攻击，受到伤害后会对自身周围喷洒花粉，降低英雄的攻击速度和移动速度，幻想自己是人气T台明星霸王花。"
+
+"npc_monster_wave_thirsty_deep_guardian"  "深海卫士"
+"npc_monster_wave_thirsty_deep_guardian_info"  "【精英单位】【娜迦族】近战攻击，它尾巴的攻击会降低目标的护甲，还会抽晕那些过于脆弱的英雄，它对自己的大尾巴看上去很满意。"
+
+"npc_monster_wave_evil_chaos_form"  "邪恶混乱化身"
+"npc_monster_wave_evil_chaos_form_info"  "【精英单位】【混乱生物】近战攻击，学习了很多常规模式的技能，看上去是大块头不良其实热爱学习。"
+////////////////////////////////////
+"npc_monster_wave_immortal_stumps"  "不朽树墩"
+"npc_monster_wave_immortal_stumps_info"  "【精英单位】【植物】近战攻击，具有超强的恢复能力，学习过铁头功并加以运用。"
+
+"npc_monster_wave_5_1_chaotic"	"雷元素·巴尔诺克之子"
+"npc_monster_wave_5_1_chaotic_info"    "【精英单位】【元素生物】近战攻击，受到伤害会用电场保护自己并反击敌人，与外观不同，其实是胆小鬼。"
+
+"npc_monster_wave_big_slime"	"大黏黏，弃置之怨"
+"npc_monster_wave_big_slime_info"    "【精英单位】【娜迦族】远程攻击，攻击会降低敌人的护甲和闪避率，本应作为某个圣物主角出场的它却因为资方要求临时换人，于是加入了怪物军队。"
+
+"npc_monster_wave_chaotic_executive"  "混乱执行官"
+"npc_monster_wave_chaotic_executive_info"  "【精英单位】【混乱生物】远程攻击，几乎没什么攻击力，但是会削弱敌人的伤害，秉持精英主义，不喜欢多说话。"
+
+
+"npc_dota_unkonw"  "无铭"
+"npc_dota_unkonw_info"  "命运渐隐，你无法得知帷幕后的真名"
+
+
+"npc_monster_wave_undeath_zombie"  "不死僵尸"
+"npc_monster_wave_undeath_zombie_info"  "【普通单位】【不死族】不死族中最弱的存在，经常被拿来充当炮灰，其不死特性在冲锋时可以发挥出很好的功效。"
+
+
+
+
+
+
+
+
+
+
+"npc_monster_boss_chaoc_form_real_one"  "第一魔神·巴尔"
+"npc_monster_boss_chaoc_form_real_one_info"  "全身散发着蓝色的光辉，皮肤迸发着闪电，象征着雷霆之力的魔神，其攻击方式大多以闪电为主，受其攻击影响，你受到的闪电伤害会越来越高。"
+
+
+
+"npc_monster_boss_chaoc_form_real_one_trail"  "弧光精灵"

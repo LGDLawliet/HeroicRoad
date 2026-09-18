@@ -1,0 +1,57 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "spring_meteor.vfx"
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Reflection cube map ----
+	F_REFLECT_CUBE_MAP 1
+
+	//---- Refraction cube map ----
+	F_REFRACT_CUBE_MAP 1
+
+	//---- Tint Color Cyling ----
+	F_TINT_CYCLE 1
+
+	//---- Color ----
+	g_vColorTint "[0.639216 0.047059 0.047059 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "[0.498039 0.498039 0.498039 1.000000]"
+
+	//---- MeteorFX ----
+	g_flCubeMapPowerReflect "1.000"
+	g_flCubeMapPowerRefract "10.000"
+	g_flCubeMapScalarReflect "2.500"
+	g_flCubeMapScalarRefract "0.800"
+	g_flMeteorBloom "1.000"
+	g_flReflectBumpStrength "0.500"
+	g_flReflectRimPower "8.000"
+	g_flReflectRimStrength "5.000"
+	g_flRefractBumpStrength "0.378"
+	g_flRefractInnerGlow "0.000"
+	g_flRefractionIndex "1.200"
+	g_flSaturation "1.000"
+	g_flTintCycleFresnel "0.125"
+	g_flTintCycleMask "0.000"
+	g_flTintCycleSpeed "0.150"
+	g_flTintCycleWorldScale "[0.001 0.001 0.000]"
+	TextureCubeMapReflect "materials/models/cubemaps/glossy_broad_light_cube.tga"
+	TextureCubeMapRefract "materials/models/cubemaps/spring_crystal_glossy_broad_light_cube.psd"
+
+	//---- Normal Map ----
+	g_flBumpStrength "1.000"
+	TextureNormal "materials/models/props_gameplay/moon_shard_lod_normal.psd"
+
+	//---- Self Illum ----
+	TextureSelfIllumMask "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularBloom "0.000"
+	g_flSpecularIntensity "2.000"
+	TextureBloom "[0.087000 0.087000 0.087000 0.000000]"
+	TextureReflectance "[0.563000 0.563000 0.563000 0.000000]"
+}

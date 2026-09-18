@@ -1,0 +1,286 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_BoundingBoxMin = [ -510.0, -510.0, -10.0 ]
+	m_BoundingBoxMax = [ 510.0, 510.0, 10.0 ]
+	m_nFallbackMaxCount = 2
+	m_flConstantRadius = 35.0
+	m_ConstantColor = [ 217, 216, 249, 255 ]
+	m_nConstantSequenceNumber = 8
+	m_flMaxRecreationTime = -1.0
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			m_bDisableZBuffering = true
+			m_bBlendFramesSeq0 = false
+			m_bDisableOperator = true
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/lens_flare/lens_flare.vtex"
+				},
+			]
+			m_nOutputBlendMode = "PARTICLE_OUTPUT_BLEND_MODE_ADD"
+			m_nFogType = "PARTICLE_FOG_GAME_DEFAULT"
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+			m_fDrag = 0.05
+			m_Gravity = [ 0.0, 0.0, -10.0 ]
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+		},
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+			m_Rate = 100.0
+			m_flEndTime = 999999.0
+		},
+		{
+			_class = "C_OP_RampScalarLinear"
+			m_nField = 4
+			m_RateMin = -4.0
+			m_RateMax = 4.0
+			m_flEndTime_min = 9999.0
+			m_flEndTime_max = 9999.0
+		},
+		{
+			_class = "C_OP_RampScalarLinear"
+			m_nField = 20
+			m_RateMin = -4.0
+			m_RateMax = 4.0
+			m_flEndTime_min = 9999.0
+			m_flEndTime_max = 9999.0
+		},
+		{
+			_class = "C_OP_AlphaDecay"
+			m_flMinAlpha = 0.1
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+		},
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_flEndTime = 999999.0
+			m_Rate = -1.0
+			m_nField = 16
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_CreateWithinSphereTransform"
+			m_TransformInput = 
+			{
+				m_nType = "PT_TYPE_CONTROL_POINT"
+				m_nControlPoint = 0
+				m_nControlPointRangeMax = 0
+			}
+		},
+		{
+			m_bDisableOperator = false
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ALWAYS_ON"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+			m_nOutputField = 1
+		},
+		{
+			m_bDisableOperator = false
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ALWAYS_ON"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = -458.366211
+				m_flRandomMax = 458.366211
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+			}
+			m_nOutputField = 20
+		},
+		{
+			m_bDisableOperator = false
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ALWAYS_ON"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 0.0
+				m_flRandomMax = 360.0
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+				m_bHasRandomSignFlip = true
+			}
+			m_nOutputField = 4
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_flStartTime = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.0
+			}
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 3.0
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_bEndCap = true
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ground.vpcf"
+		},
+		{
+			m_bEndCap = true
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ground_darken.vpcf"
+		},
+		{
+			m_bEndCap = true
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ground_scorch.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_light.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_dark_swirl.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_star_perimeter.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ember.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_warp_ripple.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_warp.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ring_spiral.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_swirl_orange.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_galaxy.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_core_rays.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_core_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_model.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ring.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_outer_debris.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ember_streak.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_streak_start.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_ring_flash.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_nebula.vpcf"
+		},
+		{
+			m_flDelay = 0.5
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_flare.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_shake.vpcf"
+		},
+		{
+			m_flDelay = 0.5
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_flare_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_xray.vpcf"
+		},
+		{
+			m_flDelay = 1.0
+			m_ChildRef = resource:"particles/rebuild/talent/enigma_talent_3/stars_crash_flare_c.vpcf"
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetControlPointPositions"
+			m_bOrient = true
+			m_vecCP2Pos = [ 0.0, 0.0, 0.0 ]
+			m_nCP4 = 9
+			m_nCP3 = 9
+			m_vecCP1Pos = [ 0.0, 0.0, 0.1 ]
+			m_vecCP3Pos = [ 0.0, 0.0, 0.0 ]
+		},
+		{
+			_class = "C_OP_SetControlPointRotation"
+			m_nCP = 1
+			m_vecRotAxis = [ 0.1, 0.0, 1.0 ]
+			m_flRotRate = 200.0
+		},
+		{
+			_class = "C_OP_SetControlPointRotation"
+			m_nCP = 2
+			m_flRotRate = 360.0
+		},
+	]
+}

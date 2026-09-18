@@ -1,0 +1,143 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 8
+	m_flConstantRadius = 30.0
+	m_flConstantLifespan = 0.75
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			VisibilityInputs = 
+			{
+				m_flCameraBias = 32.0
+			}
+			m_flOverbrightFactor = 5.0
+			m_bDisableOperator = true
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/particle_glow_05.vtex"
+				},
+			]
+			m_nOutputBlendMode = "PARTICLE_OUTPUT_BLEND_MODE_ADD"
+			m_nFogType = "PARTICLE_FOG_GAME_DEFAULT"
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_LockToSavedSequentialPath"
+			m_PathParams = 
+			{
+				m_flMidPoint = 0.85
+				m_nBulgeControl = 2
+				m_flBulge = 0.25
+				m_nEndControlPointNumber = 7
+				m_nStartControlPointNumber = 6
+			}
+		},
+		{
+			_class = "C_OP_EndCapTimedDecay"
+		},
+		{
+			_class = "C_OP_SetPerChildControlPoint"
+			m_nNumControlPoints = 8
+			m_nFirstControlPoint = 10
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_CreateSequentialPath"
+			m_bSaveOffset = true
+			m_flNumToAssign = 8.0
+			m_PathParams = 
+			{
+				m_flMidPoint = 0.65
+				m_nBulgeControl = 2
+				m_flBulge = 0.35
+				m_nEndControlPointNumber = 7
+				m_nStartControlPointNumber = 6
+			}
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_flStartTime = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.0
+			}
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 8.0
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/demon_ambient/effect_demon_wing_trail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/demon_ambient/effect_demon_wing_trail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/demon_ambient/effect_demon_wing_trail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/demon_ambient/effect_demon_wing_trail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/demon_ambient/effect_demon_wing_trail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/demon_ambient/effect_demon_wing_trail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/demon_ambient/effect_demon_wing_trail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/demon_ambient/effect_demon_wing_trail.vpcf"
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetControlPointPositions"
+			m_nCP1 = 10
+			m_vecCP1Pos = [ 0.3, 1.5, 0.0 ]
+			m_nCP2 = 11
+			m_vecCP2Pos = [ 0.4, 1.4, 0.0 ]
+			m_nCP3 = 12
+			m_vecCP3Pos = [ 0.5, 0.0, 0.0 ]
+			m_nCP4 = 13
+			m_vecCP4Pos = [ 0.6, 1.3, 0.0 ]
+			m_bUseWorldLocation = true
+		},
+		{
+			_class = "C_OP_SetControlPointPositions"
+			m_bUseWorldLocation = true
+			m_vecCP4Pos = [ 0.6, 1.0, 0.0 ]
+			m_nCP4 = 17
+			m_vecCP3Pos = [ 0.6, 1.0, 0.0 ]
+			m_nCP3 = 16
+			m_vecCP2Pos = [ 0.8, 1.0, 0.0 ]
+			m_nCP2 = 15
+			m_vecCP1Pos = [ 0.7, 1.3, 0.0 ]
+			m_nCP1 = 14
+		},
+		{
+			_class = "C_OP_SetParentControlPointsToChildCP"
+			m_nChildControlPoint = 1
+			m_nNumControlPoints = 8
+			m_nFirstSourcePoint = 10
+		},
+	]
+	m_nBehaviorVersion = 4
+}

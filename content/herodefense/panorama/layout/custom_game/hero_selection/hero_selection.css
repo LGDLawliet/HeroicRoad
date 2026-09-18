@@ -1,0 +1,143 @@
+.HeroSelection{
+    width: 100%;
+    height: 100%;
+}
+#HeroSelectionRootBG{
+    width: 100%;
+    height: 100%;
+    box-shadow: rgb(0, 0, 0)0px 0px 10px 0px;
+    background-image:  url("s2r://panorama/images/events/aghanim/aghanims_2_pregame_bg.psd");	
+    background-size: contain;
+    background-repeat: no-repeat;
+    visibility: visible;
+    opacity: 0;
+    transition-property: opacity;
+	transition-duration: 0.5s;
+	transition-delay: 0.12s;
+	transition-timing-function: ease-out;	
+}
+#HeroSelectionRootBG.Visible{
+    /* visibility: visible; */
+    opacity: 1;
+    /* width: 100%; */
+}
+#HeroSelectionRoot{
+    width: 100%;
+    height: 90%;
+    vertical-align: bottom;
+    /* box-shadow: rgb(0, 0, 0)0px 0px 10px 0px; */
+    /* background-image:  url("s2r://panorama/images/events/aghanim/aghanims_2_pregame_bg.psd");	 */
+    /* background-size: contain; */
+    /* background-repeat: no-repeat; */
+    /* visibility: visible; */
+    opacity: 0;
+    transition-property: opacity;
+	transition-duration: 0.5s;
+	transition-delay: 0.12s;
+	transition-timing-function: ease-out;	
+}
+#HeroSelectionRoot.Visible{
+    /* visibility: visible; */
+    opacity: 1;
+    /* width: 100%; */
+}
+
+
+#LoadingLabel2,
+#LoadingLabel{
+    text-transform: uppercase;
+	horizontal-align: center;
+	vertical-align: center;
+	text-align: center;
+    text-overflow: clip;
+    text-align: center;
+    text-shadow: 1px 1px 2px 2.0 #00000011;
+    color: gradient( linear, 0% 0%, 0% 100%, from( #ffffff ), to( #777777 ) );	
+  	text-transform: uppercase;
+   	font-size: 80px;
+	
+	transition-property: pre-transform-scale2d, opacity, color, transform;
+	transition-duration: .22s;
+	transition-delay: .12s;
+	transition-timing-function: ease-out;	
+}
+
+#LoadingLabel{
+    margin-bottom: 150px;
+}
+#LoadingLabel2{
+    font-size: 20px;
+}
+
+#loading_player{
+    height: 50px;
+    width: 800px;
+
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px solid hsl(0, 0%, 0%);
+    align: left top;
+    box-shadow: rgb(1, 42, 66) 0px 0px 10px 0px;
+    z-index: 10;
+    margin-top: 150px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5px;
+    border-radius:10px;
+    horizontal-align: center;
+	vertical-align: center;
+}
+#loading_player:hover{
+    brightness: 2.0;
+}
+
+#loading_player_Progress{
+    background-color:gradient( linear, 0.0% 50.0%, 80.0% 50.0%, color-stop( 0.0, rgb(0, 0, 26) ), color-stop( 0.80, rgb(0, 31, 39) ), color-stop( 1.00, rgba(4, 86, 163, 0.486) ), color-stop( 1.0, #2274a3cc ) );
+    width:0%;
+    height:100%;
+    border-radius:10px;
+    brightness:1;
+    opacity: 0.5;
+    z-index: 1;
+
+    transition-property: width;
+	transition-duration: 1s;
+	transition-delay: 0.12s;
+	transition-timing-function: ease-out;	
+}
+
+#loading_player_scenePanel
+{
+	width: 100%;
+	height: 100%;
+	background-color: gradient( linear, 0% 0%, 0% 100%, from( #1a2a3d  ), color-stop( 0.2, #838383 ), color-stop( .5, #185b70), to( #174d5d ) );
+	hue-rotation: 70deg;
+}
+
+
+
+
+#CloseButton{
+    align: right top;
+    margin-right: 1%;
+    margin-top: 10px;
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    background-image: url("s2r://panorama/images/control_icons/quit_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index:5;
+    padding: 20px;
+    /* border-radius: 50%; */
+    opacity: 0;
+    wash-color:#818181;
+    pre-transform-scale2d: 1;
+    transition-property: brightness,wash-color;
+    transition-duration: 0.32s, 0.5s, 0.7s;
+    transition-timing-function: ease-in;
+}
+#CloseButton:hover{
+    brightness: 2.2;
+}
+#CloseButton.show{
+    opacity: 1;
+}

@@ -1,0 +1,31 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "spring_meteor.vfx"
+
+	//---- Tint Color Cyling ----
+	F_TINT_CYCLE 1
+
+	//---- Color ----
+	g_vColorTint "[0.035294 0.788235 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "materials/models/heroes/lina/lina_fire_motion_detail.psd"
+
+	//---- MeteorFX ----
+	g_flSaturation "2.000"
+	g_flTintCycleFresnel "8.614"
+	g_flTintCycleMask "-10.000"
+	g_flTintCycleSpeed "-7.228"
+	g_flTintCycleWorldScale "[0.000 0.000 0.000]"
+
+	//---- Self Illum ----
+	TextureSelfIllumMask "materials/models/heroes/jakiro/jakiro_diffusewarp.psd"
+
+	//---- Specular ----
+	g_flSpecularBloom "5.842"
+	g_flSpecularIntensity "3.465"
+	TextureBloom "[1.000000 1.000000 1.000000 0.000000]"
+	TextureReflectance "materials/example/sand_path_example_refl.tif"
+}

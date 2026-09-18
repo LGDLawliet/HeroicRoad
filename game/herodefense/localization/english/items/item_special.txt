@@ -1,0 +1,248 @@
+"DOTA_Tooltip_ability_item_hd_Treasure5_shop"	"L's Secret Treasure Chest<font color=\"#777777\">-Shop</font>"
+"DOTA_Tooltip_ability_item_hd_Treasure5_shop_Description"	"<h1>Consumption: Redemption</h1>Gain 1 opportunity to directly obtain a item by left-clicking on any of the [5th echelon] item in the Item Atlas."
+
+"DOTA_Tooltip_ability_item_hd_Treasure1_oblation"	"Ode's Replacement Box<font color=\"#777777\">-1st echelon</font>"
+"DOTA_Tooltip_ability_item_hd_Treasure1_oblation_Description"	"<h1>Consumption: Replacement</h1>Consume 2000 coins to gain 1 opportunity to directly obtain a item by left-clicking on any of the [1st echelon] item in the Item Atlas."
+"DOTA_Tooltip_ability_item_hd_Treasure2_oblation"	"Ode's Replacement Box<font color=\"#777777\">-2ed echelon</font>"
+"DOTA_Tooltip_ability_item_hd_Treasure2_oblation_Description"	"<h1>Consumption: Replacement</h1>Consume 4000 coins to gain 1 opportunity to directly obtain a item by left-clicking on any of the [2ed echelon] item in the Item Atlas."
+"DOTA_Tooltip_ability_item_hd_Treasure3_oblation"	"Ode's Replacement Box<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_Treasure3_oblation_Description"	"<h1>Consumption: Replacement</h1>Consume 8000 coins to gain 1 opportunity to directly obtain a item by left-clicking on any of the [3rd echelon] item in the Item Atlas."
+"DOTA_Tooltip_ability_item_hd_Treasure4_oblation"	"Ode's Replacement Box<font color=\"#777777\">-4th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_Treasure4_oblation_Description"	"<h1>Consumption: Replacement</h1>Consume 12000 coins to gain 1 opportunity to directly obtain a item by left-clicking on any of the [4th echelon] item in the Item Atlas."
+"DOTA_Tooltip_ability_item_hd_Treasure5_oblation"	"Ode's Replacement Box<font color=\"#777777\">-5th echelon</font>"
+"DOTA_Tooltip_ability_item_hd_Treasure5_oblation_Description"	"<h1>Consumption: Replacement</h1>Consume 25000 coins to gain 1 opportunity to directly obtain a item by left-clicking on any of the [5th echelon] item in the Item Atlas."
+
+
+
+"DOTA_Tooltip_modifier_item_hd_Treasure1_oblation"                   "Replacement"
+"DOTA_Tooltip_modifier_item_hd_Treasure1_oblation_Description"       "You have the opportunity to freely choose LV1 items" 
+"DOTA_Tooltip_modifier_item_hd_Treasure2_oblation"                   "Replacement"
+"DOTA_Tooltip_modifier_item_hd_Treasure2_oblation_Description"       "You have the opportunity to freely choose LV2 items" 
+"DOTA_Tooltip_modifier_item_hd_Treasure3_oblation"                   "Replacement"
+"DOTA_Tooltip_modifier_item_hd_Treasure3_oblation_Description"       "You have the opportunity to freely choose LV3 items" 
+"DOTA_Tooltip_modifier_item_hd_Treasure4_oblation"                   "Replacement"
+"DOTA_Tooltip_modifier_item_hd_Treasure4_oblation_Description"       "You have the opportunity to freely choose LV4 items" 
+"DOTA_Tooltip_modifier_item_hd_Treasure5_oblation"                   "Replacement"
+"DOTA_Tooltip_modifier_item_hd_Treasure5_oblation_Description"       "You have the opportunity to freely choose LV5 items" 
+
+
+
+"DOTA_Tooltip_ability_item_hd_Treasure1_oblation_Lore"	"There is a tall tower somewhere in the Dark Continent, where a mysterious mage lives. People only know his name as Ode, but whether this is his real name is unknown. This mage is proficient in the art of bartering and has created a treasure chest. Throw enough gold into it and you can get the equipment you want from it, no matter how rare it is. "
+"DOTA_Tooltip_ability_item_hd_Treasure2_oblation_Lore"	"There is a tall tower somewhere in the Dark Continent, where a mysterious mage lives. People only know his name as Ode, but whether this is his real name is unknown. This mage is proficient in the art of bartering and has created a treasure chest. Throw enough gold into it and you can get the equipment you want from it, no matter how rare it is. "
+"DOTA_Tooltip_ability_item_hd_Treasure3_oblation_Lore"	"There is a tall tower somewhere in the Dark Continent, where a mysterious mage lives. People only know his name as Ode, but whether this is his real name is unknown. This mage is proficient in the art of bartering and has created a treasure chest. Throw enough gold into it and you can get the equipment you want from it, no matter how rare it is. "
+"DOTA_Tooltip_ability_item_hd_Treasure4_oblation_Lore"	"There is a tall tower somewhere in the Dark Continent, where a mysterious mage lives. People only know his name as Ode, but whether this is his real name is unknown. This mage is proficient in the art of bartering and has created a treasure chest. Throw enough gold into it and you can get the equipment you want from it, no matter how rare it is. "
+"DOTA_Tooltip_ability_item_hd_Treasure5_oblation_Lore"	"There is a tall tower somewhere in the Dark Continent, where a mysterious mage lives. People only know his name as Ode, but whether this is his real name is unknown. This mage is proficient in the art of bartering and has created a treasure chest. Throw enough gold into it and you can get the equipment you want from it, no matter how rare it is. "
+
+
+//act2
+"DOTA_Tooltip_ability_item_act2_choice"	"Essence Creed<font color='#777777'> - Legend Challenge Month</font>"
+"DOTA_Tooltip_ability_item_act2_choice_Description"	"<h1>Active: Choose an Essence</h1> Obtain one type of elite essence. As you kill corresponding elite units or enemies, the power of the essence will grow stronger."
+"DOTA_Tooltip_ability_item_act2_choice_Lore"	"This is a gift from the unknown — a vile blessing that steals the essence of powerful beings to strengthen yourself."
+
+"DOTA_Tooltip_ability_item_act2_nevermore"	"Lord's Essence<font color='#777777'> - Legend Challenge Month</font>"
+"DOTA_Tooltip_ability_item_act2_nevermore_Description"	"<h1>Passive: Essence Enhancement</h1> Gain %get% energy points for every %need% monsters killed (HALF IN CHAOTIC ERA),or when killing the elite enemy - Nevermore's Avatar.\n<h1>Passive: Shadow Shot</h1> When attacking enemies with armor below energy × %line%, trigger <font color='#9370db'>Destruction of Shadows</font> at their location. Minimum cooldown is %cd% seconds.\n<h1>%check1% Energy Points Passive: Dual Destruction</h1> Increases <font color='#9370db'>Destruction of Shadows</font> damage by %bonus1%%% [×], and triggers a second instance of %damage1%%% damage at a random location within %radius1% range.\n<h1>%check2% Energy Points Active: Demon Lord Domain</h1> Deploys a domain that reduces armor of enemies within %radius2% range by energy × %armor2%. Triggers <font color='#9370db'>Destruction of Shadows</font> every %interval2% seconds on the enemy with the highest HP, lasting for %duration2% seconds.\n<h1><font color='#9370db'>Trigger: Destruction of Shadows</font></h1> Deals energy × primary attribute × %damage% dark damage in a %radius% radius area, and reduces outgoing damage of affected enemies by %outgoing%%% [×] for %duration% seconds."
+"DOTA_Tooltip_modifier_item_act2_nevermore_field"	"Demon Lord Domain"
+"DOTA_Tooltip_modifier_item_act2_nevermore_field_Description"   "Reduces armor of nearby enemies"
+"DOTA_Tooltip_modifier_item_act2_nevermore_shadowraze"	"Destruction of Shadows"
+"DOTA_Tooltip_modifier_item_act2_nevermore_shadowraze_Description"   "Outgoing damage reduced"
+"DOTA_Tooltip_modifier_item_act2_nevermore_field_debuff"	"Demon Lord Domain"
+"DOTA_Tooltip_modifier_item_act2_nevermore_field_debuff_Description"   "Armor has been reduced"
+"DOTA_Tooltip_ability_item_act2_nevermore_Lore"	"It's never easy to steal power from powerful guardians — but now it feels like you were born with it."
+
+"DOTA_Tooltip_ability_item_act2_wolf"	"Wolf Pack Essence<font color='#777777'> - Legend Challenge Month</font>"
+"DOTA_Tooltip_ability_item_act2_wolf_Description"	"<h1>Passive: Essence Enhancement</h1> Gain %get% energy points for every %need% monsters killed (HALF IN CHAOTIC ERA),or when killing the elite enemy - Wolf King's Heart.\n<h1>Passive: Phase Rush</h1> Every %move%-charges×%move_down% distance traveled triggers <font color='#9370db'>Blazing Charge</font>. Minimum cooldown is %cd% seconds.\n<h1>%check1% Energy Points Passive: Fearless Charge</h1> Increases <font color='#9370db'>Blazing Charge</font> damage by %bonus1%%% [×]. Also increases your outgoing damage by %outgoing1%%% [×] for %duration1% seconds after triggering.\n<h1>%check2% Energy Points Active: Hunt</h1> Perform %num2% consecutive <font color='#9370db'>Blazing Charges</font> in a chosen direction. Can be used while controlled and immediately purges all debuffs.\n<h1><font color='#9370db'>Trigger: Blazing Charge</font></h1> Deals fire damage equal to energy × primary attribute × %damage% in a %length% + energy × %bonus_length% range, and disables passive abilities of hit enemies for %duration% seconds."
+"DOTA_Tooltip_modifier_item_act2_wolf_charge_buff"	"Fearless Charge"
+"DOTA_Tooltip_modifier_item_act2_wolf_charge_buff_Description"   "Increases outgoing damage"
+"DOTA_Tooltip_modifier_item_act2_wolf_charge_debuff"	"Blazing Charge"
+"DOTA_Tooltip_modifier_item_act2_wolf_charge_debuff_Description"   "Passive abilities disabled"
+"DOTA_Tooltip_ability_item_act2_wolf_Lore"	"It's never easy to steal power from powerful guardians — but now it feels like you were born with it."
+
+"DOTA_Tooltip_ability_item_act2_slark"	"Deep Tide Essence<font color='#777777'> - Legend Challenge Month</font>"
+"DOTA_Tooltip_ability_item_act2_slark_Description"	"<h1>Passive: Essence Enhancement</h1> Gain %get% energy points for every %need% monsters killed (HALF IN CHAOTIC ERA),or when killing the elite enemy - Slark's Shadow.\n<h1>Passive: Dive</h1> After dealing more than %line%%% max HP damage or casting a skill with cooldown longer than %linecd% seconds, apply a purge and trigger <font color='#9370db'>Shadow Dance</font>, minimum cooldown %cd% seconds.\n<h1>%check1% Energy Points Passive: Shadow Ripper</h1> Grants immunity to silence and stuns during <font color='#9370db'>Shadow Dance</font>, and increases outgoing damage by %outgoing1%%% [×].\n<h1>%check2% Energy Points Active: Effortless Grace</h1> Activate <font color='#9370db'>Shadow Dance</font> for %duration2% seconds. During this time, the closer you are to an enemy, the more damage you deal, up to a maximum of charges×%outgoing2%%% [×].\n<h1><font color='#9370db'>Trigger: Shadow Dance</font></h1> Enter an undispellable invisibility state for %duration% seconds, restoring charges×%maxhp_regen%%% max HP per second."
+"DOTA_Tooltip_modifier_item_act2_slark_shadow_dance"	"Shadow Dance"
+"DOTA_Tooltip_modifier_item_act2_slark_shadow_dance_Description"   "Unseen by enemies, regenerates health"
+"DOTA_Tooltip_modifier_item_act2_slark_shadow_dance_active"	"Effortless Grace: Shadow Dance"
+"DOTA_Tooltip_modifier_item_act2_slark_shadow_dance_active_Description"   "Unseen by enemies, regenerates health, and deals increased damage the closer you are to them"
+"DOTA_Tooltip_ability_item_act2_slark_Lore"	"It's never easy to steal power from powerful guardians — but now it feels like you were born with it."
+
+"DOTA_Tooltip_ability_item_act2_leshrac"	"Torture Essence<font color='#777777'> - Legend Challenge Month</font>"
+"DOTA_Tooltip_ability_item_act2_leshrac_Description"	"<h1>Passive: Essence Enhancement</h1> Gain %get% energy points for every %need% monsters killed (HALF IN CHAOTIC ERA),or when killing the elite enemy - Somnus, M's Avatar.\n<h1>Passive: Torment Spread</h1> Upon killing an enemy, trigger <font color='#9370db'>Torment</font> at their location. Minimum cooldown is %cd% seconds.\n<h1>%check1% Energy Points Passive: Ulceration</h1> Dealing non-poison damage to an enemy with <font color='#9370db'>Torment</font> inflicts poison damage equal to %index1%%% of the damage dealt. Additionally, your poison damage is treated as dark magic damage.\n<h1>%check2% Energy Points Passive: Eternal Torment</h1> The duration of <font color='#9370db'>Torment</font> becomes infinite. If an enemy dies under its effect within %radiu2% range, restores %mp_regen2%%% max mana per energy point.\n<h1><font color='#9370db'>Trigger: Torment</font></h1> Increases incoming damage taken by enemies in a %radius% radius by %incoming%%% for %duration% seconds."
+"DOTA_Tooltip_modifier_item_act2_leshrac_torment"	"Torment"
+"DOTA_Tooltip_modifier_item_act2_leshrac_torment_Description"   "Increased incoming damage"
+"DOTA_Tooltip_ability_item_act2_leshrac_Lore"	"It's never easy to steal power from powerful guardians — but now it feels like you were born with it."
+
+"DOTA_Tooltip_ability_item_act2_razor"	"Storm Essence<font color='#777777'> - Legend Challenge Month</font>"
+"DOTA_Tooltip_ability_item_act2_razor_Description"	"<h1>Passive: Essence Enhancement</h1> Gain %get% energy points for every %need% monsters killed (HALF IN CHAOTIC ERA),or when killing the elite enemy - Phantom Lancer.\n<h1>Passive: Swift Lightning</h1> Briefly after casting a skill with more than 1s cooldown, return %cdback%%% of its remaining cooldown and trigger <font color='#9370db'>Unstable Field</font>. Minimum cooldown is %cd% seconds.\n<h1>%check1% Energy Points Passive: Rapid Field</h1> Increases full attack damage, spell amplification, and movement speed by %down1%%% [+] for %duration1% seconds during <font color='#9370db'>Unstable Field</font>.\n<h1>%check2% Energy Points Active: Static Link</h1> Links up to %max2% enemies within %radius2% range for %duration2% seconds. Each linked enemy increases your outgoing damage by %outgoing2%%% [×].\n<h1><font color='#9370db'>Trigger: Unstable Field</font></h1> Deals energy × primary attribute × %damage% lightning damage in a %radius% radius, and briefly stuns and silences enemies."
+"DOTA_Tooltip_modifier_item_act2_razor_unstable_buff"	"Rapid Field"
+"DOTA_Tooltip_modifier_item_act2_razor_unstable_buff_Description"   "Full attack damage, spell amplification and movement speed increased"
+"DOTA_Tooltip_modifier_item_act2_razor_static_link"	"Static Link"
+"DOTA_Tooltip_modifier_item_act2_razor_static_link_Description"   "More enemies nearby means more damage increase"
+"DOTA_Tooltip_ability_item_act2_razor_Lore"	"It's never easy to steal power from powerful guardians — but now it feels like you were born with it."
+
+"DOTA_Tooltip_ability_item_act2_giant"	"Origin's Essence (Shareable)<font color='#777777'> - Legend Challenge Month</font>"
+"DOTA_Tooltip_ability_item_act2_giant_Description"	"<h1>Active: Nourish</h1> Directly grants %stack% energy points to your elite essence."
+"DOTA_Tooltip_ability_item_act2_giant_Lore"	"The ancient power of the titans is vast and timeless — a small fragment of Titan strength. Though not fully usable, it still offers some aid."
+
+"DOTA_Tooltip_ability_item_act2_enigma"	"Celestial Essence<font color='#777777'> - Legend Challenge Month</font>"
+"DOTA_Tooltip_ability_item_act2_enigma_Description"	"<h1>Passive: Essence Enhancement</h1> Gain %get% energy points for every %need% monsters killed by you or your summons(HALF IN CHAOTIC ERA), or when killing the elite enemy - Enigma's Fragment.\n<h1>Passive: Fragmentation</h1> Drinking a Magic Wand triggers <font color='#9370db'>Stellar Differentiation</font>.\n<h1>%check1% Energy Points Passive: Homogeneity</h1> Increases life and base attack damage of summoned minions by %bonus1%%% [×] and increases max summon count by %num1%.\n<h1>%check2% Energy Points Active: Spirit Surge</h1> Summons and empowers all existing <font color='#9370db'>Stellar Differentiation</font> minions for %duration2% seconds. They cannot be re-summoned during this time, but gain %outgoing2%%% increased damage and %outgoing2%% reduced damage taken. At the end of the effect, they are re-summoned at max capacity near the caster.\n<h1><font color='#9370db'>Trigger: Stellar Differentiation</font></h1> Summons a ranged minion with max count %max%. It inherits %index%%% of energy × stats including HP and attack. All minions cumulatively hitting %stack% times restores one use of the Magic Wand."
+"DOTA_Tooltip_modifier_item_act2_enigma_crazy_during"	"Spirit Surge"
+"DOTA_Tooltip_modifier_item_act2_enigma_crazy_during_Description"   "Your enigmas are surging — no new ones can be summoned"
+"DOTA_Tooltip_modifier_item_act2_enigma_crazy"	"Spirit Surge"
+"DOTA_Tooltip_modifier_item_act2_enigma_crazy_link_Description"   "Deals massive damage and takes significantly less damage"
+"npc_act2_enigma"   "Stellar Differentiation: Enigma Minion"
+"DOTA_Tooltip_ability_item_act2_enigma_Lore"	"It's never easy to steal power from powerful guardians — but now it feels like you were born with it."
+
+//乱纪元
+// Chaotic Era Exclusive Equipment
+"DOTA_Tooltip_ability_item_chaotic_class_choice" "Unsigned Letter"  
+"DOTA_Tooltip_ability_item_chaotic_class_choice_Description" "<h1>Consumable: Class Choice</h1> Grants only one class bonus."  
+
+// Chaos Era Adjustment  
+"DOTA_Tooltip_ability_item_hd_chaotic_demon" "Branch of Reversal"  
+"DOTA_Tooltip_ability_item_hd_chaotic_demon_Description" "<h1>Takes effect immediately upon purchase, switching all players into Hard Mode:</h1> The earlier the round it’s activated, the stronger the effects. Maximum effect at activation before round start:<br><br>Heros deal %value1%%% less damage [×]<br>Heros take %value2%%% more damage<br>Drawn abilities reduced by %value3%<br>The First Demon God - Baal becomes strengthened<br><br>Relic drop chance increased by %value4%%% [×]<br>Relic experience gain increased by %value5%%% [×]<br>Boss reward multiplier increased by %value6%%% [+]"  
+"DOTA_Tooltip_modifier_item_hd_chaotic_demon" "Branch of Reversal: Hard Mode"  
+"DOTA_Tooltip_modifier_item_hd_chaotic_demon_Description" "-Deal %dMODIFIER_PROPERTY_TOOLTIP%%% less damage<br>-Take %dMODIFIER_PROPERTY_TOOLTIP%%% more damage<br>-Reduced ability draw count by %dMODIFIER_PROPERTY_TOOLTIP%<br>-The First Demon God - Baal becomes strengthened<br><br>-Relic drop chance increased by %fMODIFIER_PROPERTY_TOOLTIP%%% [×]<br>-Relic experience gain increased by %fMODIFIER_PROPERTY_TOOLTIP%%% [×]<br>-Boss reward multiplier increased by %dMODIFIER_PROPERTY_TOOLTIP%%% [+]"
+"DOTA_Tooltip_modifier_item_hd_chaotic_demon_summon" "Branch of Reversal: Hard Mode"  
+"DOTA_Tooltip_modifier_item_hd_chaotic_demon_summon_Description" "-Deal %dMODIFIER_PROPERTY_TOOLTIP%%% less damage<br>-Take %dMODIFIER_PROPERTY_TOOLTIP%%% more damage"  
+
+// Relic: Windcaller, Fake KV  
+"DOTA_Tooltip_ability_item_chaotic_class_range_phy" "Role: Striker"  
+"DOTA_Tooltip_ability_item_chaotic_class_range_phy_Description" "Gains %outgoing%%% increased damage [+] per level."  
+"DOTA_Tooltip_modifier_item_chaotic_class_range_phy" "Role: Striker"  
+"DOTA_Tooltip_modifier_item_chaotic_class_range_phy_Description" "Increased outgoing damage by %fMODIFIER_PROPERTY_TOOLTIP%%%"  
+
+// Relic: Resilient, Fake KV  
+"DOTA_Tooltip_ability_item_chaotic_class_melee_phy" "Role: Warden"  
+"DOTA_Tooltip_ability_item_chaotic_class_melee_phy_Description" "Gains %incoming%%% damage reduction and %regen%%% max health regeneration per level."  
+"DOTA_Tooltip_modifier_item_chaotic_class_melee_phy" "Role: Warden"  
+"DOTA_Tooltip_modifier_item_chaotic_class_melee_phy_Description" "Gains %fMODIFIER_PROPERTY_TOOLTIP%%% damage reduction<br>Gains %fMODIFIER_PROPERTY_TOOLTIP%%% max health regeneration"  
+
+//钱
+"DOTA_Tooltip_ability_item_chaotic_class_gold"	"Role? Cash Better!"
+"DOTA_Tooltip_ability_item_chaotic_class_gold_Description"	"Instantly grants:<br><br>%num_1% <font color='#9370db'>Skill Scroll: Tier 1</font><br>%num_2% <font color='#9370db'>Skill Scroll: Tier 2</font><br>%gold% Gold"
+
+// Holy Artifact: T, fake kv
+"DOTA_Tooltip_ability_item_chaotic_class_tank" "Class Relic: Unyielding"
+"DOTA_Tooltip_ability_item_chaotic_class_tank_Description" "<h1>Core: Battle-Hardened</h1>Gain health regeneration after taking damage from enemies, lasting %duration% seconds. Attacking an enemy consumes this state and grants permanent max health, with a maximum consumption once every %interval% seconds.<br><h1>Passive: Bedrock</h1>Passively gain additional max health and reduce damage taken from elite units by %incoming%%%, but total damage dealt is reduced by %outgoing_down%%%."
+"DOTA_Tooltip_ability_item_chaotic_class_tank_hp_regen" "%Battle-Hardened Health Regeneration: Hero Level x"
+"DOTA_Tooltip_ability_item_chaotic_class_tank_hp_max" "Battle-Hardened Permanent Max Health: Hero Level x"
+"DOTA_Tooltip_ability_item_chaotic_class_tank_bonus_hp" "Additional Max Health: Hero Level x"
+"DOTA_Tooltip_modifier_item_chaotic_class_tank" "Class Relic: Unyielding"
+"DOTA_Tooltip_modifier_item_chaotic_class_tank_Description" "Gain health regeneration equal to hero level x 0.03%% after taking damage from enemies, lasting for 1 second. Attacking an enemy consumes this state and grants hero level x 1 point of permanent max health, with a maximum consumption once every 15 seconds. Damage taken from elite units is reduced by 25%%, while total damage dealt is reduced by 30%%<br><br>Passively gain a total of %dMODIFIER_PROPERTY_TOOLTIP% additional max health."
+"DOTA_Tooltip_modifier_item_chaotic_class_tank_active" "Battle-Hardened"
+"DOTA_Tooltip_modifier_item_chaotic_class_tank_active_Description" "Gain health regeneration"
+
+"DOTA_Tooltip_ability_item_chaotic_class_ass" "Class: Brilliance"
+"DOTA_Tooltip_ability_item_chaotic_class_ass_Description" "Reduces your total damage by %damage_down%%% [×], but casting spells increases all attributes for all other allied non-Brilliance heroes. This effect can stack and its duration can be extended.<br><br>Immediately grants <font color='#9370db'>Hand of Healing</font>."
+"DOTA_Tooltip_ability_item_chaotic_class_ass_duration" "Base initial duration:"
+"DOTA_Tooltip_ability_item_chaotic_class_ass_bonus_duration" "Bonus duration: Hero Level x"
+"DOTA_Tooltip_ability_item_chaotic_class_ass_cast_duration" "Cast extension duration:"
+"DOTA_Tooltip_ability_item_chaotic_class_ass_other_atb" "Base All Attributes:"
+"DOTA_Tooltip_ability_item_chaotic_class_ass_bonus_other_atb" "% Bonus All Attributes: Own All Attributes x"
+"DOTA_Tooltip_modifier_item_chaotic_class_ass" "Class: Brilliance"
+"DOTA_Tooltip_modifier_item_chaotic_class_ass_Description" "Total damage dealt reduced by %dMODIFIER_PROPERTY_TOOLTIP%%%<br><br>Casting an ability with a cooldown longer than 1 second increases all attributes by %fMODIFIER_PROPERTY_TOOLTIP% for all other allied non-Brilliance heroes for %fMODIFIER_PROPERTY_TOOLTIP% seconds. Re-casting during the effect extends the duration by %fMODIFIER_PROPERTY_TOOLTIP% seconds."
+"DOTA_Tooltip_modifier_item_chaotic_class_ass_active" "Transformation"
+"DOTA_Tooltip_modifier_item_chaotic_class_ass_active_Description" "Gain %fMODIFIER_PROPERTY_TOOLTIP% Strength, %fMODIFIER_PROPERTY_TOOLTIP% Agility, and %fMODIFIER_PROPERTY_TOOLTIP% Intelligence"
+
+// Holy Artifact: Mage, fake kv
+"DOTA_Tooltip_ability_item_chaotic_class_spell" "Class Artifact: Destroyer"
+"DOTA_Tooltip_ability_item_chaotic_class_spell_Description" "<h1>Core: Melt</h1>After dealing ability damage to an enemy, they take increased damage from you [+], lasting %duration% seconds.<br><h1>Passive: Spell Tide</h1>Passively gain ability damage enhancement."
+"DOTA_Tooltip_ability_item_chaotic_class_spell_spell" "%Base Melt Increased Damage Taken:"
+"DOTA_Tooltip_ability_item_chaotic_class_spell_bonus_spell" "%Base Melt Increased Damage Taken: Hero Level x"
+"DOTA_Tooltip_ability_item_chaotic_class_spell_bonus_spell_amp" "%Ability Damage Enhancement: Hero Level x"
+"DOTA_Tooltip_modifier_item_chaotic_class_spell" "Class Artifact: Destroyer"
+"DOTA_Tooltip_modifier_item_chaotic_class_spell_Description" "After dealing ability damage to an enemy, they take increased damage from you by 10%% + hero level x0.9%% [+], lasting 3 seconds.<br><br>Passively gain %dMODIFIER_PROPERTY_TOOLTIP%%% ability damage enhancement."
+"DOTA_Tooltip_modifier_item_chaotic_class_spell_active" "Melt"
+"DOTA_Tooltip_modifier_item_chaotic_class_spell_active_Description" "Increased damage taken from the caster"
+
+
+"DOTA_Tooltip_ability_item_chaotic_class_summon" "Class: Spiritmaster"
+"DOTA_Tooltip_ability_item_chaotic_class_summon_Description" "Reduces your total damage output by %outgoing%%% [×], but increases your summoned units' attack speed and restores %mp_regen%%% of your maximum mana whenever they attack.<br><br>Passively grants Summon Strength and Base Attack Damage, and immediately grants 'Spirit Summon: Forest Sprite'."
+"DOTA_Tooltip_ability_item_chaotic_class_summon_speed" "Attack Speed Bonus: Hero Level x"
+"DOTA_Tooltip_ability_item_chaotic_class_summon_summon" "% Base Summon Strength:"
+"DOTA_Tooltip_ability_item_chaotic_class_summon_bonus_summon" "% Bonus Summon Strength: Hero Level x"
+"DOTA_Tooltip_ability_item_chaotic_class_summon_base_attack" "Base Attack Damage:"
+"DOTA_Tooltip_ability_item_chaotic_class_summon_bonus_base_attack" "% Bonus Base Attack Damage: Hero Level x"
+"DOTA_Tooltip_modifier_item_chaotic_class_summon" "Class: Spiritmaster"
+"DOTA_Tooltip_modifier_item_chaotic_class_summon_Description" "Total damage dealt reduced by %dMODIFIER_PROPERTY_TOOLTIP%%%<br>Grants %fMODIFIER_PROPERTY_TOOLTIP%%% Summon Strength<br>Grants %fMODIFIER_PROPERTY_TOOLTIP% Base Attack Damage<br><br>Summoned units gain %dMODIFIER_PROPERTY_TOOLTIP% attack speed<br>Restores %fMODIFIER_PROPERTY_TOOLTIP% mana to you when summoned units attack."
+"DOTA_Tooltip_modifier_item_chaotic_class_summon_active" "Soul Pact"
+"DOTA_Tooltip_modifier_item_chaotic_class_summon_active_Description" "Increased attack speed; attacks restore mana to the summoner."
+
+"DOTA_Tooltip_ability_item_chaotic_class_choice_later" "Class Reassignment Letter"
+"DOTA_Tooltip_ability_item_chaotic_class_choice_later_Description" "<h1>Consumable: Choose Class</h1>Select a different class bonus."
+"DOTA_Tooltip_ability_item_chaotic_class_gold_later" "Refund"
+"DOTA_Tooltip_ability_item_chaotic_class_gold_later_Description" "Instantly gain %gold% gold"
+
+
+
+//Act 3 Design Draft: Players directly unlock the neutral unit slot and initially receive an elemental essence to choose from. Different elemental essences have different upgrade methods, as well as universal upgrade methods.
+
+"DOTA_Tooltip_ability_item_act3_choice" "Spirit Summoning Relic <font color='#777777'>- Pass Legendary </font>"
+"DOTA_Tooltip_ability_item_act3_choice_Description" "<h1>Consume: Spirit Summoning</h1> Select a Spirit Summoning Relic."
+"DOTA_Tooltip_ability_item_act3_choice_Lore" "How did you even get your hands on something like this?"
+
+"DOTA_Tooltip_ability_item_act3_wind" "Garuda's Feather <font color='#777777'>- Pass Legendary </font>"
+"DOTA_Tooltip_ability_item_act3_wind_Description" "<h1>Passive: Blessing of the Wind Spirit</h1> Your movement speed breaks the normal cap. Every %need_1% distance traveled will cause you to dodge projectiles and increase your total damage by %outgoing_1%%% [×] for %duration_1% seconds.<br><br> Gain 1 Spirit Point every %need% distance traveled (maximum Spirit Points = max rounds × 5). \n<h1>%check2% Spirit Points Passive: Protective Wind</h1> Physical damage taken reduced by %incoming_2%%%. Every %need_2% distance traveled triggers <font color='#9370db'>Wind Arrow</font>: dealing damage in a straight line path. \n<h1>%check3% Spirit Points Passive: Swift Wind</h1> <font color='#9370db'>Wind Arrow</font> total damage increased by %damage_3%%% [×], each hit grants an additional %bonus_3% movement speed, stacking independently for %duration_3% seconds. \n<h1>%check4% Spirit Points Passive: Garuda's Gift</h1> You can traverse terrain and gain %evasion_4%%% evasion while moving. <font color='#9370db'>Haste</font> has a %chance_4%%% chance to instantly refresh after use and be considered as having traveled an additional %need_2% distance."
+"DOTA_Tooltip_ability_item_act3_wind_point_move" "%+ Movement Speed / per point"
+"DOTA_Tooltip_modifier_item_act3_wind_1" "Light Wind"
+"DOTA_Tooltip_modifier_item_act3_wind_1_Description" "Total damage increased"
+"DOTA_Tooltip_modifier_item_act3_wind_3" "Swift Wind"
+"DOTA_Tooltip_modifier_item_act3_wind_3_Description" "Movement speed increased"
+"DOTA_Tooltip_ability_item_act3_wind_Note0" "<font color='#606060'>Wind Arrow's damage takes the higher value between full attack damage and attribute scaling, and deals either physical or magical damage accordingly. Spirit Points increase Wind Arrow's damage and range.</font>"
+
+"DOTA_Tooltip_ability_item_act3_fire" "Ifrit's Flame <font color='#777777'>- Pass Legendary </font>"
+"DOTA_Tooltip_ability_item_act3_fire_Description" "<h1>Passive: Blessing of the Fire Spirit</h1> Your damage triggers <font color='#9370db'>Fireball</font>: dealing area-of-effect fire damage. <br><br> Gain 1 Spirit Point every %need% triggers (maximum Spirit Points = max rounds × 5). \n<h1>%check2% Spirit Points Passive: Blazing Fire</h1> Your total damage increased by %outgoing_2%%% [×], but skill cooldown increased by %cooldown_2%%%. \n<h1>%check3% Spirit Points Passive: Annihilating Fire</h1> <font color='#9370db'>Fireball</font> will also deal damage equal to %hpdamage_3%%% of the target's current health. \n<h1>%check4% Spirit Points Passive: Ifrit's Gift</h1> You gain %attack_4%%% full attack damage, %spell_4%%% spell amplification and %summon_4%%% summon amplification. Every %interval_4% seconds, triggers <font color='#9370db'>Fireball</font> at a random location within %radius_4% range of yourself."
+"DOTA_Tooltip_ability_item_act3_fire_point_damage" "%+ Damage Increase [+]/per point"
+"DOTA_Tooltip_ability_item_act3_fire_Note0" "<font color='#606060'>Fireball's damage takes the higher value between full attack damage and attribute scaling, and deals either physical or magical damage accordingly. Spirit Points increase Fireball's damage.</font>"
+
+"DOTA_Tooltip_ability_item_act3_earth" "Titan's Fragment <font color='#777777'>- Pass Legendary </font>"
+"DOTA_Tooltip_ability_item_act3_earth_Description" "<h1>Passive: Blessing of the Earth Spirit</h1> Every hero level provides hero level × %armor_1% armor and %magicres_1%%% magic resistance. <br><br> Gain 1 Spirit Point every %need% times attacked (maximum Spirit Points = max rounds × 5). \n<h1>%check2% Spirit Points Passive: Heavy Earth</h1> You have %chance_2%%% chance to deal %crit_2%%% damage, which can coexist with other critical strike effects. \n<h1>%check3% Spirit Points Passive: Solid Steel Earth</h1> Reflect back the first attack from an enemy, stunning them for %duration_3% seconds and making them unable to deal damage during that time. \n<h1>%check4% Spirit Points Passive: Titan's Gift</h1> Each point of armor provides %outgoing_4%%% damage increase [+], each 1%% magic resistance provides %incoming_4%%% damage reduction (maximum 50%% 30%%)."
+"DOTA_Tooltip_ability_item_act3_earth_point_armor" "+ Armor / per point"
+"DOTA_Tooltip_modifier_item_act3_earth_3" "Solid Steel Earth"
+"DOTA_Tooltip_modifier_item_act3_earth_3_Description" "Stunned, unable to deal damage"
+"DOTA_Tooltip_modifier_item_act3_earth" "Titan's Gift"
+"DOTA_Tooltip_modifier_item_act3_earth_Description" "Damage increased by %fMODIFIER_PROPERTY_TOOLTIP%%%, gain %fMODIFIER_PROPERTY_TOOLTIP%%% damage reduction"
+"DOTA_Tooltip_ability_item_act3_earth_Note0" "<font color='#606060'>Spirit Points increase Heavy Earth's damage bonus.</font>"
+
+"DOTA_Tooltip_ability_item_act3_water" "Leviathan's Scale <font color='#777777'>- Pass Legendary </font>"
+"DOTA_Tooltip_ability_item_act3_water_Description" "<h1>Passive: Blessing of the Water Spirit</h1> Every %interval% seconds, restore %regen_1%%% of your missing health and mana and reduce cooldowns of all refreshable skills by %cd_1% seconds. <br><br> Gain 1 Spirit Point every %need% casts of skills with cooldowns not less than 5 seconds (maximum Spirit Points = max rounds × 5). \n<h1>%check2% Spirit Points Passive: Pure Water</h1> When <font color='#9370db'>Blessing of Water Spirit</font> takes effect, perform a <font color='#9370db'>Strong Dispel</font> on yourself and make you immune to damage for %duration_2% seconds. \n<h1>%check3% Spirit Points Passive: Vast Water</h1> <font color='#9370db'>Blessing of Water Spirit</font> will affect non-refreshable skills at %index_3%%% efficiency, and trigger <font color='#9370db'>Flood</font> on a random enemy within %radius_3% range: dealing area-of-effect ice damage and knock-up. \n<h1>%check4% Spirit Points Passive: Leviathan's Gift</h1> Cast animation time reduced by %casttime_4%%%, <font color='#9370db'>Blessing of Water Spirit</font>'s cooldown refund effect increased to %cd_4% seconds."
+"DOTA_Tooltip_ability_item_act3_water_point_cd" "%+ Cooldown Reduction / per point"
+"DOTA_Tooltip_modifier_item_act3_water_2" "Pure Water"
+"DOTA_Tooltip_modifier_item_act3_water_2_Description" "Immune to damage"
+"DOTA_Tooltip_ability_item_act3_water_Note0" "<font color='#606060'>Flood's damage takes the higher value between full attack damage and attribute scaling, and deals either physical or magical damage accordingly. Spirit Points increase Flood's damage.</font>"
+
+"DOTA_Tooltip_ability_item_act3_chaos_unupdate" "Sealed Ashes <font color='#777777'>- Pass Legendary </font>"
+"DOTA_Tooltip_ability_item_act3_chaos_unupdate_Description" "<h1>Passive: What the Hell is This Good For??</h1> Movement speed reduced by %move_down%, damage taken increased by %incoming%%%, total damage dealt reduced by %outgoing%%% [×]. <br><br> Gain 5 Spirit Points at the start of each round."
+"DOTA_Tooltip_ability_item_act3_chaos" "<font color='#ffa62aff'>Unsealed Fortune - Pass Legendary </font>"
+"DOTA_Tooltip_ability_item_act3_chaos_Description" "<h1><font color='#ffa62aff'>Passive: World's Blessing</font></h1><font color='#ffef73ff'>Instantly level up by %level% upon obtaining this relic.</font>"
+"DOTA_Tooltip_ability_item_act3_chaos_all" "+ All Attributes"
+"DOTA_Tooltip_ability_item_act3_chaos_profic" "%+ Proficiency"
+"DOTA_Tooltip_ability_item_act3_chaos_outgoing_mult" "%+ Total Damage Increase [×]"
+"DOTA_Tooltip_ability_item_act3_chaos_incoming" "%+ Damage Reduction"
+"DOTA_Tooltip_ability_item_act3_chaos_cooldown_reduction" "%+ Cooldown Reduction"
+"DOTA_Tooltip_ability_item_act3_chaos_summon_intensity" "%+ Summon Amplification"
+"DOTA_Tooltip_ability_item_act3_chaos_manacost_reduction" "%+ Mana Cost Reduction"
+
+
+// ACT4: Four Spirits Legend Month
+
+"npc_shrine_1"  "Void Echo"  
+"npc_shrine_2"  "Ember Echo"  
+"npc_shrine_3"  "Earth Echo"  
+"npc_shrine_4"  "Storm Echo"  
+
+"DOTA_HUD_act4_active_info"         "{s:locstring_value} has activated {s:locstring_value2} for the entire team!"  
+
+"DOTA_Tooltip_modifier_act4_fire"	"Spirit Possession: Ember Spirit"  
+"DOTA_Tooltip_modifier_act4_fire_Description"	"%dMODIFIER_PROPERTY_TOOLTIP%%% chance to deal %dMODIFIER_PROPERTY_TOOLTIP%%% Critical StrikeAttacks <br>deal Fire-type physical damage equal to Primary Attribute × %dMODIFIER_PROPERTY_TOOLTIP%<br>Total Damage Increased by %dMODIFIER_PROPERTY_TOOLTIP%%% [×]<br>After %dMODIFIER_PROPERTY_TOOLTIP% attacks, unleashes Sleight of Fist"  
+
+"DOTA_Tooltip_modifier_act4_storm"	"Spirit Possession: Storm Spirit"  
+"DOTA_Tooltip_modifier_act4_storm_Description"	"+%dMODIFIER_PROPERTY_TOOLTIP% Mana Regeneration<br>-%dMODIFIER_PROPERTY_TOOLTIP%%% Mana Cost<br>+%dMODIFIER_PROPERTY_TOOLTIP%%% Cooldown Reduction<br>After casting %dMODIFIER_PROPERTY_TOOLTIP% spells, triggers Electric Explosion"  
+
+"DOTA_Tooltip_modifier_act4_earth"	"Spirit Possession: Earth Spirit"  
+"DOTA_Tooltip_modifier_act4_earth_Description"	"+%fMODIFIER_PROPERTY_TOOLTIP%%% Damage Reduction<br>+%dMODIFIER_PROPERTY_TOOLTIP% Strength<br>Damage taken cannot exceed 10%% of max HP<br>Applies Magnetize every %dMODIFIER_PROPERTY_TOOLTIP% seconds"  
+"DOTA_Tooltip_modifier_act4_earth_magnetize_debuff"	"Magnetized"  
+"DOTA_Tooltip_modifier_act4_earth_magnetize_debuff_Description"	"Damage Taken Increased by %dMODIFIER_PROPERTY_TOOLTIP%%%"  
+
+"DOTA_Tooltip_modifier_act4_void"	"Spirit Possession: Void Spirit"  
+"DOTA_Tooltip_modifier_act4_void_Description"	"Gains %dMODIFIER_PROPERTY_TOOLTIP%%% Magic Resistance from Strength<br>Gains %dMODIFIER_PROPERTY_TOOLTIP%%% Critical Strike Damage from Agility<br>Gains %dMODIFIER_PROPERTY_TOOLTIP%%% Spell Amplification from Intelligence<br>After killing %dMODIFIER_PROPERTY_TOOLTIP% enemies, casts Path of the Void"

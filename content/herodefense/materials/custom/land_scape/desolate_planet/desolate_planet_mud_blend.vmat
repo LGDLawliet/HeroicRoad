@@ -1,0 +1,129 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "multiblend.vfx"
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Layer 0 ----
+	g_flTexCoordRotate0 "0.000"
+	g_flTexCoordScale0 "1.000"
+	g_vColorTint0 "[0.360784 0.360784 0.360784 0.000000]"
+	g_vTexCoordOffset0 "[0.000 0.000]"
+	g_vTexCoordScroll0 "[0.000 0.000]"
+	TextureColor0 "materials/custom/land_scape/desolate_planet/t_mud_dif.png"
+	TextureNormal0 "materials/custom/land_scape/desolate_planet/t_mud_norm.png"
+
+	//---- Layer 1 ----
+	g_flTexCoordRotate1 "0.000"
+	g_flTexCoordScale1 "1.000"
+	g_vColorTint1 "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset1 "[0.000 0.000]"
+	g_vTexCoordScroll1 "[0.000 0.000]"
+	TextureColor1 "[1.000000 1.000000 1.000000 1.000000]"
+	TextureNormal1 "materials/default/default_normal.tga"
+	TextureRevealMask1 "materials/default/default_blend.tga"
+
+	//---- Layer 2 ----
+	g_flTexCoordRotate2 "0.000"
+	g_flTexCoordScale2 "1.000"
+	g_vColorTint2 "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset2 "[0.000 0.000]"
+	g_vTexCoordScroll2 "[0.000 0.000]"
+	TextureColor2 "materials/default/default_color.tga"
+	TextureNormal2 "materials/default/default_normal.tga"
+	TextureRevealMask2 "materials/default/default_blend.tga"
+
+	//---- Layer 3 ----
+	g_flTexCoordRotate3 "0.000"
+	g_flTexCoordScale3 "1.000"
+	g_vColorTint3 "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset3 "[0.000 0.000]"
+	g_vTexCoordScroll3 "[0.000 0.000]"
+	TextureColor3 "materials/default/default_color.tga"
+	TextureNormal3 "materials/default/default_normal.tga"
+	TextureRevealMask3 "materials/default/default_blend.tga"
+
+	//---- Normal Map ----
+	g_flBumpStrength "1.000"
+
+	UnusedVariables
+	{
+		"g_flParallaxStrength0" "0.102"
+		"TextureParallaxMask0" "materials/example/blend/lava_ground_02/lava_ground_02_height.png"
+		"TextureParallaxMask1" "materials/example/blend/lava_ground_02/lava_ground_02_height.png"
+		"TextureParallaxMask2" "materials/example/blend/lava_ground_02/lava_ground_02_height.png"
+		"TextureParallaxMask3" "materials/example/blend/lava_ground_02/lava_ground_02_height.png"
+		"g_flBorderOffset1" "0"
+		"g_flBorderTintSoftness1" "0.5"
+		"g_flBorderTintStrength1" "1"
+		"g_vBorderColorTint1" "[1.000000 1.000000 1.000000 0.000000]"
+		"g_flBorderOffset2" "0"
+		"g_flBorderTintSoftness2" "0.5"
+		"g_flBorderTintStrength2" "1"
+		"g_vBorderColorTint2" "[1.000000 1.000000 1.000000 0.000000]"
+		"g_flBorderOffset3" "0"
+		"g_flBorderTintSoftness3" "0.5"
+		"g_flBorderTintStrength3" "1"
+		"g_vBorderColorTint3" "[1.000000 1.000000 1.000000 0.000000]"
+		"g_flScrollWaveCycleSkip0" "0"
+		"g_flScrollWaveHeight0" "0"
+		"g_flScrollWaveOffsetSeconds0" "0"
+		"g_flScrollWaveSecondsPerCycle0" "6"
+		"g_flScrollWaveCycleSkip1" "0"
+		"g_flScrollWaveHeight1" "0"
+		"g_flScrollWaveOffsetSeconds1" "0"
+		"g_flScrollWaveSecondsPerCycle1" "6"
+		"g_flScrollWaveCycleSkip2" "0"
+		"g_flScrollWaveHeight2" "0"
+		"g_flScrollWaveOffsetSeconds2" "0"
+		"g_flScrollWaveSecondsPerCycle2" "6"
+		"g_flScrollWaveCycleSkip3" "0"
+		"g_flScrollWaveHeight3" "0"
+		"g_flScrollWaveOffsetSeconds3" "0"
+		"g_flScrollWaveSecondsPerCycle3" "6"
+		"g_flSpecularBloom" "0"
+		"g_flSpecularIntensity" "1"
+		"TextureBloom0" ""
+		"TextureReflectance0" ""
+		"TextureSelfIllumMask0" ""
+		"TextureBloom1" ""
+		"TextureReflectance1" ""
+		"TextureSelfIllumMask1" ""
+		"TextureBloom2" ""
+		"TextureReflectance2" ""
+		"TextureSelfIllumMask2" ""
+		"TextureBloom3" ""
+		"TextureReflectance3" ""
+		"TextureSelfIllumMask3" ""
+	}
+
+
+	VariableState
+	{
+		"Layer 0"
+		{
+			"Texture Coords" 0
+		}
+		"Layer 1"
+		{
+			"_expanded" 0
+			"Texture Coords" 0
+		}
+		"Layer 2"
+		{
+			"_expanded" 0
+			"Texture Coords" 0
+		}
+		"Layer 3"
+		{
+			"_expanded" 0
+			"Texture Coords" 0
+		}
+		"Normal Map"
+		{
+		}
+	}
+}

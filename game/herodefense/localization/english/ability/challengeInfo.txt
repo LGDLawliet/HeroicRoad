@@ -1,0 +1,778 @@
+
+"DOTA_Tooltip_modifier_ChallengeInfo_001_1"       "Energy suppression 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_2"       "Energy suppression 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_3"       "Energy suppression 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_4"       "Energy suppression 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_5"       "Energy suppression 5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_002_1"       "Cardiac exhaustion 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_2"       "Cardiac exhaustion 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_3"       "Cardiac exhaustion 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_4"       "Cardiac exhaustion 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_5"       "Cardiac exhaustion 5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_003_1"       "Doubt 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_2"       "Doubt 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_3"       "Doubt 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_4"       "Doubt 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_5"       "Doubt 5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_004_1"       "Life exploration 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_2"       "Life exploration 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_3"       "Life exploration 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_4"       "Life exploration 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_5"       "Life exploration 5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_005_1"       "Mana exhaustion 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_2"       "Mana exhaustion 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_3"       "Mana exhaustion 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_4"       "Mana exhaustion 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_5"       "Mana exhaustion 5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_006_1"       "Dream 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_2"       "Dream 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_3"       "Dream 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_4"       "Dream 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_5"       "Dream 5"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_007_1"       "Magic hand 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_2"       "Magic hand 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_3"       "Magic hand 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_4"       "Magic hand 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_5"       "Magic hand 5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_008_1"       "Soul Dilemma 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_2"       "Soul Dilemma 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_3"       "Soul Dilemma 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_4"       "Soul Dilemma 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_5"       "Soul Dilemma 5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_009_1"       "All Attributes Suppression 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_2"       "All Attributes Suppression 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_3"       "All Attributes Suppression 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_4"       "All Attributes Suppression 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_5"       "All Attributes Suppression 5"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_010_1"       "Brain Worm 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_2"       "Brain Worm 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_3"       "Brain Worm 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_4"       "Brain Worm 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_5"       "Brain Worm 5" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_011_1"       "Sharp Teeth 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_2"       "Sharp Teeth 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_3"       "Sharp Teeth 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_4"       "Sharp Teeth 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_5"       "Sharp Teeth 5"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_012_1"       "Chemical Rage 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_2"       "Chemical Rage 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_3"       "Chemical Rage 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_4"       "Chemical Rage 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_5"       "Chemical Rage 5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_013_1"       "Legion of Self Exploding 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_2"       "Legion of Self Exploding 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_3"       "Legion of Self Exploding 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_4"       "Legion of Self Exploding 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_5"       "Legion of Self Exploding 5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_014_1"       "Death Gaze 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_2"       "Death Gaze 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_3"       "Death Gaze 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_4"       "Death Gaze 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_5"       "Death Gaze 5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_015_1"       "Presence of the Dark Lord 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_2"       "Presence of the Dark Lord 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_3"       "Presence of the Dark Lord 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_4"       "Presence of the Dark Lord 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_5"       "Presence of the Dark Lord 5" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_016_1"       "The hidden Thirteenth 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_2"       "The hidden Thirteenth 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_3"       "The hidden Thirteenth 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_4"       "The hidden Thirteenth 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_5"       "The hidden Thirteenth 5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_017_1"       "Star Collapse 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_2"       "Star Collapse 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_3"       "Star Collapse 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_4"       "Star Collapse 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_5"       "Star Collapse 5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_018_1"       "Creed of the Skullhound 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_2"       "Creed of the Skullhound 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_3"       "Creed of the Skullhound 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_4"       "Creed of the Skullhound 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_5"       "Creed of the Skullhound 5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_019_1"       "Frostivus 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_2"       "Frostivus 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_3"       "Frostivus 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_4"       "Frostivus 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_5"       "Frostivus 5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_020_1"       "The True Essence of Life 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_2"       "The True Essence of Life 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_3"       "The True Essence of Life 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_4"       "The True Essence of Life 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_5"       "The True Essence of Life 5"  
+"DOTA_Tooltip_modifier_ChallengeInfo_020_effect"       "The True Essence of Life"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_effect_Description"       "Increase max health" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_021_1"       "Electrolyte Disorder 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_2"       "Electrolyte Disorder 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_3"       "Electrolyte Disorder 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_4"       "Electrolyte Disorder 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_5"       "Electrolyte Disorder 5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_022_1"       "Lumbar Disc Protrusion 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_2"       "Lumbar Disc Protrusion 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_3"       "Lumbar Disc Protrusion 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_4"       "Lumbar Disc Protrusion 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_5"       "Lumbar Disc Protrusion 5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_023_1"       "Time Lock 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_2"       "Time Lock 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_3"       "Time Lock 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_4"       "Time Lock 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_5"       "Time Lock 5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_024_1"       "Ankylosing Spondylitis 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_2"       "Ankylosing Spondylitis 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_3"       "Ankylosing Spondylitis 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_4"       "Ankylosing Spondylitis 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_5"       "Ankylosing Spondylitis 5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_1"       "The Frog In The Well  1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_2"       "The Frog In The Well  2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_3"       "The Frog In The Well  3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_4"       "The Frog In The Well  4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_5"       "The Frog In The Well  5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_026_1"       "Fallen Meteorite 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_2"       "Fallen Meteorite 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_3"       "Fallen Meteorite 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_4"       "Fallen Meteorite 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_5"       "Fallen Meteorite 5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_027_1"       "Aziyog's Flame 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_2"       "Aziyog's Flame 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_3"       "Aziyog's Flame 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_4"       "Aziyog's Flame 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_5"       "Aziyog's Flame 5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_028_1"       "Scourge of the Plains 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_2"       "Scourge of the Plains 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_3"       "Scourge of the Plains 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_4"       "Scourge of the Plains 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_5"       "Scourge of the Plains 5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_1"       "Counterspell 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_2"       "Counterspell 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_3"       "Counterspell 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_4"       "Counterspell 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_5"       "Counterspell 5" 
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_1"       "Slow Awakening 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_2"       "Slow Awakening 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_3"       "Slow Awakening 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_4"       "Slow Awakening 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_5"       "Slow Awakening 5" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_1"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_2"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_3"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_4"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_5"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 5" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_032_1"       "Taunt Aura 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_2"       "Taunt Aura 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_3"       "Taunt Aura 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_4"       "Taunt Aura 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_5"       "Taunt Aura 5" 
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_033_1"       "Mana Void 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_2"       "Mana Void 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_3"       "Mana Void 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_4"       "Mana Void 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_5"       "Mana Void 5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_034_1"       "Force Dissipation 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_2"       "Force Dissipation 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_3"       "Force Dissipation 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_4"       "Force Dissipation 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_5"       "Force Dissipation 5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_035_1"       "Summon Inhibition 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_2"       "Summon Inhibition 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_3"       "Summon Inhibition 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_4"       "Summon Inhibition 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_5"       "Summon Inhibition 5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_037_1"       "Huddle Denie 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_2"       "Huddle Denie 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_3"       "Huddle Denie 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_4"       "Huddle Denie 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_5"       "Huddle Denie 5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_038_1"       "The Acme of Thieves 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_2"       "The Acme of Thieves 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_3"       "The Acme of Thieves 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_4"       "The Acme of Thieves 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_5"       "The Acme of Thieves 5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_039_1"       "Revenant of the Underscape 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_2"       "Revenant of the Underscape 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_3"       "Revenant of the Underscape 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_4"       "Revenant of the Underscape 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_5"       "Revenant of the Underscape 5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_040_1"       "Avatar of Greed 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_2"       "Avatar of Greed 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_3"       "Avatar of Greed 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_4"       "Avatar of Greed 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_5"       "Avatar of Greed 5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_041_1"       "Command Reject 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_2"       "Command Reject 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_3"       "Command Reject 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_4"       "Command Reject 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_5"       "Command Reject 5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_042_1"       "The Trial of the Earth 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_2"       "The Trial of the Earth 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_3"       "The Trial of the Earth 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_4"       "The Trial of the Earth 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_5"       "The Trial of the Earth 5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_043_1"       "Death Curse 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_2"       "Death Curse 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_3"       "Death Curse 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_4"       "Death Curse 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_5"       "Death Curse 5"
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_044_1"       "Immortal Disease Zobae 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_2"       "Immortal Disease Zobae 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_3"       "Immortal Disease Zobae 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_4"       "Immortal Disease Zobae 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_5"       "Immortal Disease Zobae 5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_1"       "Fading Bell 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_2"       "Fading Bell 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_3"       "Fading Bell 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_4"       "Fading Bell 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_5"       "Fading Bell 5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_1_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_2_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_3_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_4_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_5_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_046_1"       "Memories of Legends 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_2"       "Memories of Legends 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_3"       "Memories of Legends 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_4"       "Memories of Legends 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_5"       "Memories of Legends 5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_effect"       "The Frog In The Well "   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_effect_Description"       "Give the power of hexed" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_026_effect"       "Fallen Meteorite"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_effect_Description"       "Increase Magic Resistance" 
+
+"DOTA_Tooltip_modifier_generic_stunned_cant_purge"       "stunned"   
+// "DOTA_Tooltip_modifier_generic_stunned_cant_purge_Description"       "无法被驱散" 
+"DOTA_Tooltip_modifier_ChallengeInfo_024_debuff"       "stunned"   
+// "DOTA_Tooltip_modifier_ChallengeInfo_024_debuff_Description"       "无法被驱散" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff"       "Hexed"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff_Description"       "unable" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff2"       "Hexed"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff2_Description"       "unable" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_effect"       "Counterspell"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_effect_Description"       "Block spell damage" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_buff"       "Counterspell"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_buff_Description"       "Block spell damage" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_self_buff"       "Awakening"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_self_buff_Description"       "Incease all attributes" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_enemy_buff"       "Awakening"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_enemy_buff_Description"       "Increase status resistance" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_bonus"       "Slow Awakening"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_bonus_Description"       "Increase status resistance when wave end" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_effect"       "Slow Awakening"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_effect_Description"       "Increase enemies's status resistance" 
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_buff"       "Kong Ming's appreciation"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_buff_Description"       "Increase primary attribute" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_debuff"       "Foolish benevolence"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_debuff_Description"       "Reduce all attributes" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_032_effect"       "Taunt Aura"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_effect_Description"       "When attacking, have a chance to make the target attack yourself" 
+"DOTA_Tooltip_modifier_ChallengeInfo_032_debuff"       "Taunted"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_debuff_Description"       "Forced attack target" 
+
+
+
+
+
+"DOTA_HUD_Challenge_level_1"                   "<font color=\"#0abce9\">Easy</font>"
+"DOTA_HUD_Challenge_level_2"                   "<font color=\"#62d316\">Normal</font>"
+"DOTA_HUD_Challenge_level_3"                   "<font color=\"#d49d05\">Elite</font>"
+"DOTA_HUD_Challenge_level_4"                   "<font color=\"#d49d05\">Difficult</font>"
+"DOTA_HUD_Challenge_level_5"                   "<font color=\"#ff0000\">Impossible</font>"
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_info_1" "<font color=\"#5bc0de\">Type</font>：{s:value1}"
+"DOTA_Tooltip_ChallengeInfo_info_2" "<font color=\"#5bc0de\">Description:</font>："
+"DOTA_Tooltip_ChallengeInfo_info_3" "<font color=\"#5bc0de\">Bonus</font>："
+
+"DOTA_Tooltip_ChallengeInfo_type_Enemy_Capability_Increase" "<font color=\"#d9534f\">Enemy Capability Increase</font><br><br>"
+"DOTA_Tooltip_ChallengeInfo_type_Self_Inhibition" "<font color=\"#d9534f\">Self Inhibition</font><br><br>"
+"DOTA_Tooltip_ChallengeInfo_type_Elite_Challenge" "<font color=\"#d9534f\">Elite Challenge</font><br><br>"
+"DOTA_Tooltip_ChallengeInfo_type_Self_Punishment" "<font color=\"#d9534f\">self-Punishment</font><br><br>"
+
+
+"DOTA_Tooltip_Bonus_Target" "<font color=\"#ffffff\">External Reward</font>-{s:bonus_target}"
+"DOTA_Tooltip_Bonus_Exp" "<font color=\"#f0ad4e\">Reliable Experience</font>：{s:exp_bonus}"
+"DOTA_Tooltip_Bonus_Aurum" "<font color=\"#f0ad4e\">Aurum</font>：{s:aurum_bonus}"
+
+
+"DOTA_Tooltip_Bonus_Boss_1"	"When round settlement <font color=\"#f0ad4e\">all players</font> Get extra gold by <font color=\"#d9534f\"><boss_bonus_gold></font>."
+"DOTA_Tooltip_Bonus_Boss_2"	"When round settlement <font color=\"#f0ad4e\"> all player's </font> Skill comprehension index will increase by <font color=\"#d9534f\"><boss_spell_index></font>. Every 0.1 points provides a 10% chance to obtain the ability book, and will get a ability book for every  1 point.</font>"
+
+
+
+"DOTA_Tooltip_Boss_health"  "Health: "
+"DOTA_Tooltip_Boss_atk"  "Attack Damage: "
+"DOTA_Tooltip_Boss_armor"  "Armor: "
+
+
+"DOTA_Tooltip_ALL_PLAYER" "All player"
+"DOTA_Tooltip_EACH_PLAYER" "For each player"
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_001_Name"	"Energy suppression"
+"DOTA_Tooltip_ChallengeInfo_001_Description"	"Reduce the outgoing damage in the next round by <font color=\"#d9534f\"><damage_redection>%</font>."
+"DOTA_Tooltip_ChallengeInfo_001_Bonus_1"	"Bonus Gold when round settlement increased by <font color=\"#d9534f\"><gold_bonus>%</font>."
+
+
+"DOTA_Tooltip_ChallengeInfo_002_Name"	"Cardiac Exhaustion"
+"DOTA_Tooltip_ChallengeInfo_002_Description"	"Next round will start the fight with <font color=\"#d9534f\"><start_health>%</font> of health, and lose <font color=\"#d9534f\"><lose_health>%</font> of current health whenever an enemy is killed by u."
+"DOTA_Tooltip_ChallengeInfo_002_Bonus_1"	"Maximum health increased by <font color=\"#d9534f\"><health_bonus>%</font>."
+
+
+"DOTA_Tooltip_ChallengeInfo_003_Name"	"Doubt"
+"DOTA_Tooltip_ChallengeInfo_003_Description"	" Movement speed in the next round decreases by <font color=\"#d9534f\"><move_slow>%</font>."
+"DOTA_Tooltip_ChallengeInfo_003_Bonus_1"	"Movement speed increased by <font color=\"#d9534f\"><bonus_move></font>."
+
+"DOTA_Tooltip_ChallengeInfo_004_Name"	"Life Exploration"
+"DOTA_Tooltip_ChallengeInfo_004_Description"	"In next round<font color=\"#f0ad4e\"> all players's</font> healing realing receive and healing effect reduced by <font color=\"#d9534f\"><health_regen_reduction>%</font>, health regen reduced by <font color=\"#d9534f\"><health_regen_reduction>%</font>."
+"DOTA_Tooltip_ChallengeInfo_004_Bonus_1"	"During round settlement<font color=\"#f0ad4e\"> all players</font>healing effect and lifesteal gain increased by <font color=\"#d9534f\"><bonus_health_effect>%</font>."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_005_Name"	"Mana Exhaustion"
+"DOTA_Tooltip_ChallengeInfo_005_Description"	"The initial magic value of the next round is only <font color=\"#d9534f\"><init_mana>%</font>, mana regen reduced by <font color=\"#d9534f\"><mana_regen_reduction>%</font>."
+"DOTA_Tooltip_ChallengeInfo_005_Bonus_1"	"Maximum mana increased by <font color=\"#d9534f\"><bonus_mana></font>."
+
+"DOTA_Tooltip_ChallengeInfo_006_Name"	"Dream"
+"DOTA_Tooltip_ChallengeInfo_006_Description"	"Spell damage in the next round reduced by <font color=\"#d9534f\"><spell_damage_reduction>%</font>."
+"DOTA_Tooltip_ChallengeInfo_006_Bonus_1"	"Spell damage will increase by <font color=\"#d9534f\"><spell_damage_bonus>%</font>."
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_007_Name"	"Magic Hand"
+"DOTA_Tooltip_ChallengeInfo_007_Description"	"Healing effect in the next round reduced by <font color=\"#d9534f\"><bonus_damage>%</font>.。"
+"DOTA_Tooltip_ChallengeInfo_007_Bonus_1"	"Healing effect will increase by <font color=\"#d9534f\"><heal_bonus>%</font>."
+
+"DOTA_Tooltip_ChallengeInfo_008_Name"	"Soul Dilemma"
+"DOTA_Tooltip_ChallengeInfo_008_Description"	"In next round<font color=\"#f0ad4e\"> all players </font>take more damage by <font color=\"#d9534f\"><bonus_damage>%</font>."
+"DOTA_Tooltip_ChallengeInfo_008_Bonus_1"	"During round settlement <font color=\"#f0ad4e\">all players's </font>gold reward of settlement in the later rounds will be permanently increased by <font color=\"#d9534f\"><bonus_gold></font>"
+
+
+"DOTA_Tooltip_ChallengeInfo_009_Name"	"All Attributes Suppression"
+"DOTA_Tooltip_ChallengeInfo_009_Description"	"Reduce all attributes by <font color=\"#d9534f\"><all_attribute_reduction>%</font> at the beginning of the next round."
+"DOTA_Tooltip_ChallengeInfo_009_Bonus_1"	"All attributes increased by <font color=\"#d9534f\"><all_attribute_bonus></font>"
+
+"DOTA_Tooltip_ChallengeInfo_010_Name"	"Brain Worm"
+"DOTA_Tooltip_ChallengeInfo_010_Description"	"In next round, every <font color=\"#d9534f\"><interval> seconds</font> will be silent and PassivesDisabled for <font color=\"#d9534f\"><duration> seconds</font>."
+"DOTA_Tooltip_ChallengeInfo_010_Bonus_1"	"Positive state duration gain and Negative state duration gain increased by <font color=\"#d9534f\"><bonus_buff_gain>%</font>."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_011_Name"	"Sharp Teeth"
+"DOTA_Tooltip_ChallengeInfo_011_Description"	"Creeps in the next round will increase <font color=\"#d9534f\"><bonus_base_damage_creep>%</font> of their base attack damage."
+"DOTA_Tooltip_ChallengeInfo_011_Bonus_1"	"Base attack damage will increase by <font color=\"#d9534f\"><bonus_attack_damage_self> </font>."
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_012_Name"	"Chemical Rage"
+"DOTA_Tooltip_ChallengeInfo_012_Description"	"reeps in the next round will increase <font color=\"#d9534f\"><bonus_atk_speed_creep>%</font> of their attack speed."
+"DOTA_Tooltip_ChallengeInfo_012_Bonus_1"	"Attack speed will increase by <font color=\"#d9534f\"><bonus_atk_speed_self> </font>."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_013_Name"	"Legion of Self Exploding"
+"DOTA_Tooltip_ChallengeInfo_013_Description"	"The creeps appear in the next round will explode <font color=\"#d9534f\"> <delay> </font>seconds after they die, deal magic damage of <font color=\"#d9534f\"><damage_index>%</font> of it's max health to enemies in the surrounding <radius> range."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_1"	"Gain a treasure chest when round settlement,<font color=\"#d9534f\">100%</font> would be a level 1 treasure chest."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_2"	"Gain a treasure chest when round settlement,<font color=\"#d9534f\">50%</font> would be a level 1 treasure chest,<font color=\"#d9534f\">50%</font> would be a level 2 treasure chest."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_3"	"Gain a treasure chest when round settlement,<font color=\"#d9534f\">50%</font> would be a level 2 treasure chest,<font color=\"#d9534f\">50%</font> would be a level 3 treasure chest."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_4"	"Gain a treasure chest when round settlement,<font color=\"#d9534f\">100%</font> would be a level 3 treasure chest."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_5"	"Gain a treasure chest when round settlement,<font color=\"#d9534f\">100%</font> would be a level 4 treasure chest."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_014_Name"	"Death Gaze"
+"DOTA_Tooltip_ChallengeInfo_014_Description"	"In the next round, when heroes kill enemy units, they will be condemned by the God of death, after <font color=\"#d9534f\"><delay> seconds</font> will take physical damage of current health lost * <font color=\"#d9534f\"><damage_index></font>."
+"DOTA_Tooltip_ChallengeInfo_014_Bonus_1"	"Increase armor by <font color=\"#d9534f\"><bonus_armor> </font>."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_015_Name"	"Presence of the Dark Lord"
+"DOTA_Tooltip_ChallengeInfo_015_Description"	"There will be [Nevermore's Avatar] in the next round."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_016_Name"	"The hidden Thirteenth"
+"DOTA_Tooltip_ChallengeInfo_016_Description"	"There will be [Slark's Shadow] in the next round."
+
+"DOTA_Tooltip_ChallengeInfo_017_Name"	"Star Collapse"
+"DOTA_Tooltip_ChallengeInfo_017_Description"	"There will be [Fragments of Enigma] in the next round."
+
+"DOTA_Tooltip_ChallengeInfo_018_Name"	"Creed of the Skullhound"
+"DOTA_Tooltip_ChallengeInfo_018_Description"	"There will be [Heart of the Wolf king] in the next round."
+
+"DOTA_Tooltip_ChallengeInfo_019_Name"	"Frostivus"
+"DOTA_Tooltip_ChallengeInfo_019_Description"	"There will be [Frozen Giant] in the next round."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_020_Name"	"The True Essence of Life"
+"DOTA_Tooltip_ChallengeInfo_020_Description"	"Creeps in the next round will increase <font color=\"#d9534f\"><bonur_health_creep>%</font> of their max health."
+"DOTA_Tooltip_ChallengeInfo_020_Bonus_1"	"When round settlement, <font color=\"#f0ad4e\">all player's</font> max health increased by<font color=\"#d9534f\"><bonur_health> </font>."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_021_Name"	"Electrolyte Disorder"
+"DOTA_Tooltip_ChallengeInfo_021_Description"	"In next round will reduce status resistance by <font color=\"#d9534f\"><value1>%</font>."
+"DOTA_Tooltip_ChallengeInfo_021_Bonus_1"	"When round settlement, status resistance will increase by <font color=\"#d9534f\"><value2>%</font>."
+
+
+"DOTA_Tooltip_ChallengeInfo_022_Name"	"Lumbar Disc Protrusion"
+"DOTA_Tooltip_ChallengeInfo_022_Description"	"In the next round, when hero doesn't move, health will rudece by <font color=\"#d9534f\"><value1>%</font> of the current value."
+"DOTA_Tooltip_ChallengeInfo_022_Bonus_1"	"When round settlement, health regen will increase by <font color=\"#d9534f\"><value2></font>."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_023_Name"	"Time Lock"
+"DOTA_Tooltip_ChallengeInfo_023_Description"	"In next round, after the cast spells, if the cooldown of this spell is greater than <font color=\"#d9534f\"><cooldown_require></font> seconds,then the cooldown of this skill will be extended by <font color=\"#d9534f\"><cooldown_increase>%</font>.。"
+"DOTA_Tooltip_ChallengeInfo_023_Bonus_1"	"Get ability when round settlement:<font color=\"#d9534f\"><delay></font> seconds after spells casting,If the cooldown of the spell is still greater than <font color=\"#d9534f\"><cooldown_require></font>seconds, the cooldown of the spell will be reduced by <font color=\"#d9534f\"><cooldown_reduction>%</font>, max would be <font color=\"#d9534f\"><max_bonus>%</font>.Cannot work on unrefreshable ability."
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_024_Name"	"Ankylosing Spondylitis"
+"DOTA_Tooltip_ChallengeInfo_024_Description"	"In next round will be stun for <font color=\"#d9534f\"><interval> second</font> every <font color=\"#d9534f\"><duration> seconds</font>.(undispellable)"
+"DOTA_Tooltip_ChallengeInfo_024_Bonus_1"	"Increase Negative Status Duration gain by <font color=\"#d9534f\"><bonus_value>%</font>."
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_025_Name"	"The Frog In The Well"
+"DOTA_Tooltip_ChallengeInfo_025_Description"	"You will become a frog in <font color=\"#d9534f\"><duration> seconds</font> when you kill the enemy in the next round. Can't cast or use items when become a frog.(undispellable)"
+"DOTA_Tooltip_ChallengeInfo_025_Bonus_1"	"Ability acquired when round settlement:Each cast has a <font color=\"#d9534f\"><chance_stack>%</font> chance to turn a random enemy within <font color=\"#d9534f\"><radius></font> range around into a harmless small animal for <font color=\"#d9534f\"><debuff_duration> seconds</font>.(Affected by Status Resistance and Negative Status Duration gain, dispellable)"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_026_Name"	"Fallen Meteorite"
+"DOTA_Tooltip_ChallengeInfo_026_Description"	"In next round, every <font color=\"#d9534f\"><interval> seconds</font>. A meteorite will fall from a random point <font color=\"#d9534f\"><radius> away</font>in the direction of the victim, If hit, will take magical damage of <font color=\"#d9534f\"><damage_index>%</font> max health.(can effect allies)"
+"DOTA_Tooltip_ChallengeInfo_026_Bonus_1"	"Increase Magic resistance by <font color=\"#d9534f\"><bonus_value>%</font> (but max would be <font color=\"#d9534f\"><max_bonus>%</font>)"
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_027_Name"	"Aziyog's Flame"
+"DOTA_Tooltip_ChallengeInfo_027_Description"	"There will be [Abys's Lord] in the next round."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_028_Name"	"Scourge of the Plains"
+"DOTA_Tooltip_ChallengeInfo_028_Description"	"There will be [Moon Rider Commander] in the next round."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_029_Name"	"Counterspell"
+"DOTA_Tooltip_ChallengeInfo_029_Description"	"Enemy units can block spell damage <font color=\"#d9534f\"><count></font> times in the next round."
+"DOTA_Tooltip_ChallengeInfo_029_Bonus_1"	"The stack of spell reaction buff increased by <font color=\"#d9534f\"><bonus_stack></font>. You can make yourself block spell damage <font color=\"#d9534f\">1</font> time per round(Add one chance for each additional <font color=\"#d9534f\"><stack_require></font> stacks)."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_030_Name"	"Slow Awakening"
+"DOTA_Tooltip_ChallengeInfo_030_Description"	"Enemy units will increase status resistance by <font color=\"#d9534f\"><value1>%</font> <font color=\"#d9534f\">until the final boss</font>."
+"DOTA_Tooltip_ChallengeInfo_030_Bonus_1"	"All attributes plus <font color=\"#d9534f\"><bonus_attribute></font> at the end of <font color=\"#d9534f\">each round</font>."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_031_Name"	"Descendant of Liu Sheng, who was  the King Jing of Zhongshan"
+"DOTA_Tooltip_ChallengeInfo_031_Description"	"Can not kill any units in the next round, otherwise the trial will fail and <font color=\"#d9534f\"><value1></font> points of all attributes will be reduced."
+"DOTA_Tooltip_ChallengeInfo_031_Description_5"	"Can not cause <font color=\"#d9534f\">any damage</font> to <font color=\"#d9534f\">enemies</font> in the next round, otherwise the trial will fail and <font color=\"#d9534f\"><attributes></font> points of all attributes will be reduced."
+"DOTA_Tooltip_ChallengeInfo_031_Bonus_1"	"Primary attribute increased by <font color=\"#d9534f\"><bonus_value></font> when round settlement."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_032_Name"	"Taunt Aura"
+"DOTA_Tooltip_ChallengeInfo_032_Description"	"The creeps's attack in the next round has a <font color=\"#d9534f\"><proc_chance>%</font> chance to force the target to attack himself for <font color=\"#d9534f\"><duration></font> seconds, and the damage to the creep reduced by <font color=\"#d9534f\"><damage_reduction>%</font>. Each creep has <font color=\"#d9534f\"><chance></font> triggers and will not trigger units that have been taunted. (Add one trigger chance for each repeated suffering, and take the highest trigger probability)"
+"DOTA_Tooltip_ChallengeInfo_032_Bonus_1"	"<font color=\"#f0ad4e\">For all player:</font>Strength increased by <font color=\"#d9534f\"><bonus_value></font>."
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_033_Name"	"Mana Void"
+"DOTA_Tooltip_ChallengeInfo_033_Description"	"The creeps appear in the next round will Generate a Mana Void effect in their location <font color=\"#d9534f\"> <delay> </font>seconds after they die, delete <font color=\"#d9534f\"><mana_del>%</font> of the maximum mana of the enemy heroes in the surrounding <radius> range, also causes magic damage equal to the value of real mana lost. If the mana is less than 10%, it will silence and cause break effect for <font color=\"#d9534f\"><debuff_duration> seconds</font>. If the total stack exceeds 100, the damage and negative state duration will increase by 2% for every 1 excess stack."
+"DOTA_Tooltip_ChallengeInfo_033_Bonus_1"	"<font color=\"#f0ad4e\">For all player:</font>Intelligence increased by <font color=\"#d9534f\"><bonus_int></font>.(Up to <bonus_max>)"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_033_debuff"                   "Mana Void"
+"DOTA_Tooltip_modifier_ChallengeInfo_033_debuff_Description"       "Silenced and break" 
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_034_Name"	">Force Dissipation"
+"DOTA_Tooltip_ChallengeInfo_034_Description"	"Your physical damage will be reduced by <font color=\"#d9534f\"><damage_reduction>%</font> in the next round."
+"DOTA_Tooltip_ChallengeInfo_034_Bonus_1"	"Your physical damage increased by <font color=\"#d9534f\"><bonus_damage>%</font>."
+
+
+"DOTA_Tooltip_ChallengeInfo_035_Name"	"Summon Inhibition"
+"DOTA_Tooltip_ChallengeInfo_035_Description"	"Your Summon Strength decreased by <font color=\"#d9534f\"><value1>%</font> in the next round."
+"DOTA_Tooltip_ChallengeInfo_035_Bonus_1"	"Your Summon Strength increased by <font color=\"#d9534f\"><value2>%</font>."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_037_Name"	"Huddle Denie"
+"DOTA_Tooltip_ChallengeInfo_037_Description"	"If there are any other friendly heroes in your <font color=\"#d9534f\"><radius></font> range, you will not be able to cause damage."
+"DOTA_Tooltip_ChallengeInfo_037_Bonus_1"	"Your acquired ability at round settlement: if you have other friendly heroes within <radius_require> range, all attributes will be increased by <font color=\"#d9534f\"><bonus_value></font>."
+"DOTA_Tooltip_ChallengeInfo_037_Description_5"	"If there are any other friendly units in your <font color=\"#d9534f\"><radius></font> range, you will not be able to cause damage."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_038_Name"	"The Acme of Thieves"
+"DOTA_Tooltip_ChallengeInfo_038_Description"	"You need not to die in the next round. You will lose <font color=\"#d9534f\"><gold_lose>%</font> gold if killed by the enemy, At least it will be lost <font color=\"#d9534f\"><min_lose></font>.If the gold is insufficient, the deduction will be delayed."
+"DOTA_Tooltip_ChallengeInfo_038_Bonus_1"	"The gold reward you get in the next rounds of settlement will be increased by <font color=\"#d9534f\"><bonus>%</font>."
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_039_Name"	"Revenant of the Underscape"
+"DOTA_Tooltip_ChallengeInfo_039_Description"	"There will be [Lightning Revenant] in the next round."
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_040_Name"	"Avatar"
+"DOTA_Tooltip_ChallengeInfo_040_Description"	"Your next <font color=\"#d9534f\"><wave></font> round of gold coins will be locked in the piggy bank. After 13 rounds, the challenge will not take effect and directly complete the second reward of suffering settlement.。"
+"DOTA_Tooltip_ChallengeInfo_040_Bonus_1"	"Repayment of principal+ <font color=\"#d9534f\"><gold_return>%</font> interest"
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_041_Name"	"Command Rejection"
+"DOTA_Tooltip_ChallengeInfo_041_Description"	"Your order to the hero in the next round has a <font color=\"#d9534f\"><value1>%</font> chance of being rejected."
+"DOTA_Tooltip_ChallengeInfo_041_Bonus_1"	"After the end of the round, your casting speed is increased by <font color=\"#d9534f\"><value2>%</font>."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_042_Name"	"The Trial of the Earth"
+"DOTA_Tooltip_ChallengeInfo_042_Description"	"In the next round, the enemy will be born with a shield effect, which can block any damage, equal to <font color=\"#d9534f\"><value1>%</font> of your maximum HP or of your maximum MP(depending on which is higher)"
+"DOTA_Tooltip_ChallengeInfo_042_Bonus_1"	"At the end of the round, you will gain the ability: Get a shield effect every <interval> seconds, which can block damage of <font color=\"#d9534f\"><value2>%</font> of your maximum HP or maximum MP(depending on which is high er), it can block at least 300 damage."
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_042_effect"                   "Earth Shield"
+"DOTA_Tooltip_modifier_ChallengeInfo_042_shield"                   "Earth Shield"
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_043_Name"	"Death Curse"
+"DOTA_Tooltip_ChallengeInfo_043_Description"	"Permanently curse yourself and the enemy At the same time. The enemy's healing receive effect will be permanently reduced by <font color=\"#d9534f\"><value1>%</font>, you will take 2.5 times the curse effect. Irreversible. The suffering will be completed directly. If your healing effect has reached  -100%, there will be no effect and no reward for suffering settlement."
+
+"DOTA_Tooltip_modifier_ChallengeInfo_043_buff"                   "Death Curse"
+"DOTA_Tooltip_modifier_ChallengeInfo_043_effect"                   "Death Curse"
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_044_Name"	"Immortal Disease Zobae"
+"DOTA_Tooltip_ChallengeInfo_044_Description"	"When the enemy's HP is lower than <health_require>% in the next round, it will be immune to all damage effects for <font color=\"#d9534f\"><duration></font> seconds. (Linear Overlay)"
+"DOTA_Tooltip_ChallengeInfo_044_Bonus_1"	"At the end of the round, you will gain the ability: when the HP is lower than <font color=\"#d9534f\"><buff_health_require>%</font>, you will enter the immune damage state 1+reward value x seconds，x=<font color=\"#d9534f\"><stack></font> seconds, it can be stacked and has an <cooldown> second cooldown and lasts for <max_duration> seconds at most."
+
+"DOTA_Tooltip_modifier_ChallengeInfo_044_buff"                   "Immortal Disease Zobae"
+"DOTA_Tooltip_modifier_ChallengeInfo_044_active"                   "Immortal Disease"
+
+
+"DOTA_Tooltip_ChallengeInfo_045_Name"	"Fading Bell"
+"DOTA_Tooltip_ChallengeInfo_045_Description"	"Your full attack damage will be reduced by <damage_reduce>% per second in the next round, until it is converted to increase after deducting <font color=\"#f0ad4e\"><max_chance>%</font>, at least <font color=\"#f0ad4e\"><min_reduce>%</font> will be deducted.(Pendulum cycle)"
+"DOTA_Tooltip_ChallengeInfo_045_Bonus_1"	"At the end of the round, you will gain the ability: your full attack damage will be increased by 1% every second, and the maximum value is 3%+ bonus value x,x=<font color=\"#d9534f\"><bonus_stack>%</font>.Stackable up to 30%. It will decrease to 0% after reaching the maximum value(Pendulum cycle)"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_buff"                   "Fading Bell"
+"DOTA_Tooltip_modifier_ChallengeInfo_045_buff_Description"       "Full attack damage increased by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+"DOTA_Tooltip_ChallengeInfo_046_Name"	"Memories of Legends"
+"DOTA_Tooltip_ChallengeInfo_046_Description"	"There will be [The avatar of Somnus丶M] in the next round."
+
+
+
+
+
+
+"DOTA_Tooltip_ability_ChallengeInfo"	"Bear More Suffering"
+"DOTA_Tooltip_ability_ChallengeInfo_Description"	"<font color=\"#5cb85c\">Only difficulty that after Impossible level will unlock this function.</font><br>By strengthening the enemy in the next round, or weakening yourself, adding special elite creeps and other challenges, you can win some rewards after round settlement.<br><font color=\"#5bc0de\">At the end of each round, five random suffering choices are given, with a total of five difficulty levels, increases from left to right.<br></font><font color=\"#db4e21\">Be Careful:</font><font color=\"#db4e21\"><br>1.Suffering lasts only one round;</font><font color=\"#db4e21\"><br>2.Some suffering challenges will not lead to the failure of the game unless all players die;</font><font color=\"#db4e21\"><br>4.Suffering must be selected before the start of the wave.;</font><font color=\"#db4e21\"><br>5.Each player's suffering can be different, but  the same suffering can be superimposed;</font><font color=\"#db4e21\"></font><br><font color=\"#db4e21\">6.Please communicate with your teammates in advance to prevent infighting;</font><font color=\"#db4e21\"></font><br><font color=\"#db4e21\">7.The difficulty bonus of gold is a fixed value without gain(Except some special things).;</font><br><font color=\"#db4e21\">8.Important :Once you choose a suffering, you can't cancel it, but you can change the difficulty level.</font><font color=\"#db4e21\"></font>"
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_011_1"	"<font color=\"#f0ad4e\">Sharp Teeth</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_1_Description"	"<font color=\"#5bc0de\">Type</font>:<font color=\"#d9534f\">Enemy Capability Increase</font><br><br><font color=\"#5bc0de\">Description</font>:Creeps in the next round will increase <font color=\"#d9534f\">10%</font> of their basic attack damage.<br><br><font color=\"#5bc0de\">Bonus</font>:<br>1.Basic attack damage will increase by <font color=\"#d9534f\">4 </font>.<br>2.<font color=\"#f0ad4e\">For all player:</font>Bonus reliable experience reward for game settlement increased by <font color=\"#d9534f\">5 </font>.( Can be gain by increased difficulty)<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_2"	"<font color=\"#f0ad4e\">Sharp Teeth</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_2_Description"	"<font color=\"#5bc0de\">Type</font>:<font color=\"#d9534f\">Enemy Capability Increase</font><br><br><font color=\"#5bc0de\">Description</font>:Creeps in the next round will increase <font color=\"#d9534f\">25%</font> of their basic attack damage.<br><br><font color=\"#5bc0de\">Bonus</font>:<br>1.Basic attack damage will increase by <font color=\"#d9534f\">7 </font>.<br>2.<font color=\"#f0ad4e\">For all player:</font>Bonus reliable experience reward for game settlement increased by <font color=\"#d9534f\">10 </font>.( Can be gain by increased difficulty)<br>"
+
+
+
+
+
+
+
+
+

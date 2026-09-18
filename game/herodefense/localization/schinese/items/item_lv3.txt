@@ -1,0 +1,31 @@
+"DOTA_Tooltip_ability_item_hd_soul_2"	"一大块灵魂<font color=\"#777777\">-第三梯队</font>"
+"DOTA_Tooltip_ability_item_hd_soul_2_Description"	"<h1>消耗：支配死灵</h1>永久增加目标30点攻击力（可以多次叠加）"
+"DOTA_Tooltip_ability_item_hd_soul_2_Lore"	"从影魔的收藏中逃逸的一小部分灵魂。"
+
+
+"DOTA_Tooltip_ability_item_hd_dust2"	"高级魂魄灵袋<font color=\"#777777\">-第三梯队</font>"
+"DOTA_Tooltip_ability_item_hd_dust2_Description"	"<h1>被动：魂魄汲取</h1>每击杀一个单位获得一点充能，当充能点数到达50后装满，对任意友军使用可以永久增加其20点主属性。"
+"DOTA_Tooltip_ability_item_hd_dust2_Lore"	"可以将死去魂魄装进去的神奇袋子，发现于一座陵墓。"
+
+
+"DOTA_Tooltip_ability_item_hd_revtel_signet_ring"	"瑞文泰尔印戒<font color=\"#777777\">-第三梯队</font>"
+"DOTA_Tooltip_ability_item_hd_revtel_signet_ring_Description"	"<h1>被动：商人特惠</h1>携带此戒指可以使你的高阶技能升级开销减少8%%。"
+"DOTA_Tooltip_ability_item_hd_revtel_signet_ring_Lore"	"三个民族联合起来组成了瑞文泰尔商贾王国。虽然每个商王在各自的领地上都有最高统治权，但在瑞文泰尔首都，他们的地位是平等的。"
+"DOTA_Tooltip_ability_item_hd_revtel_signet_ring_Note0"	"额外的说明：该物品加成不与相同物品产生叠加。<br>与同类效果乘法叠加，你只需要在需要升级技能的时候佩戴戒指展示给卖家看即可。"
+
+
+"DOTA_Tooltip_ability_item_hd_blink"	"闪烁匕首<font color=\"#777777\">-第三梯队</font>"
+"DOTA_Tooltip_ability_item_hd_blink_Description"	"<h1>被动：闪烁</h1>可以代替急行进入冷却。"
+"DOTA_Tooltip_ability_item_hd_blink_Lore"	"传说中这块大陆上来去如风的刺客使用的匕首。"
+"DOTA_Tooltip_ability_item_hd_blink_Note0"	"额外的说明：<br>即使放置于背包也能生效。"
+
+"DOTA_Tooltip_ability_item_hd_guardian_ring"	"奥术指轮<font color=\"#777777\">-第三梯队</font>"
+"DOTA_Tooltip_ability_item_hd_guardian_ring_Description"	"<h1>被动：奥术共鸣</h1>每英雄等级获得%bonus_mana_perlvl%点最大魔法值。"
+"DOTA_Tooltip_ability_item_hd_guardian_ring_Lore"	"具有奥术之能的戒指，可以强化携带者的施法能力。"
+"DOTA_Tooltip_ability_item_hd_guardian_ring_bonus_spell_amp"  "%+技能增强"
+
+
+"DOTA_Tooltip_ability_item_hd_point_booster"	"精气之球<font color=\"#777777\">-第三梯队</font>"
+"DOTA_Tooltip_ability_item_hd_point_booster_Description"	"<h1>被动：精力充沛</h1>每%interval%秒回复自身%regen%%%最大生命值和%mana_regen%%%最大魔法值。"
+"DOTA_Tooltip_ability_item_hd_point_booster_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_point_booster_Lore"	"奇妙的宝珠，能够激发使用者的天赋"

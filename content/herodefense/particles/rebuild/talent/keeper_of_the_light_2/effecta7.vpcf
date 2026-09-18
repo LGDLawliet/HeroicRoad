@@ -1,0 +1,32 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf63:version{a6e6a69e-52d3-4527-8b9c-ff3bb91aca3e} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 4
+	m_BoundingBoxMin = [ -20.0, -20.0, -20.0 ]
+	m_BoundingBoxMax = [ 20.0, 20.0, 20.0 ]
+	m_flConstantRadius = 64.0
+	m_flConstantLifespan = 0.3
+	m_ConstantColor = [ 0, 84, 255, 220 ]
+	m_bShouldSort = false
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/keeper_of_the_light_2/effecta7d.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/keeper_of_the_light_2/effecta7e.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/keeper_of_the_light_2/effecta7b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/keeper_of_the_light_2/effecta7c.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/keeper_of_the_light_2/effecta7a.vpcf"
+		},
+	]
+	m_PreEmissionOperators = [  ]
+	m_nBehaviorVersion = 12
+}

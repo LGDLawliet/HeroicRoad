@@ -1,0 +1,145 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 2 // Add Self Illum
+
+	//---- Effect Proxies ----
+	F_USE_HERO_EFFECTS_PROXY 1
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Enable wind ----
+	F_ENABLE_WIND 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.000"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[1.000 1.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/monster/element/shadow/textures/t_shadowelemental_bl_d.png"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "0.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[8.000 8.000]"
+	TextureDetail "materials/default/default_detail.tga"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.000"
+	TextureDetail2 "materials/default/default_detail2.tga"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "1.000"
+	g_flBloomShift "1.000"
+	g_vBloomColor "[0.035294 0.803922 1.000000 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "[0.000000 0.000000 0.000000 0.000000]"
+	TextureDiffuseWarpMask "[0.005000 0.005000 0.005000 0.000000]"
+	TextureMetalnessMask "[0.934000 0.934000 0.934000 0.000000]"
+	TextureSelfIllumMask "models/monster/element/shadow/textures/t_shadowelemental_e.png"
+
+	//---- Normal Map ----
+	TextureNormal "models/monster/element/shadow/textures/t_shadowelemental_n.png"
+
+	//---- Rim ----
+	g_flRimLightScale "12.435"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "32.000"
+	g_flSpecularScale "1.000"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Wind ----
+	g_flWindFlexibility "0.042"
+	g_flWindHighFrequencyEffects "5.000"
+	g_flWindLowFrequencyEffects "5.000"
+	g_flWindSpeedMultiplier "2.000"
+	TextureWindMaskHigh "[1.000000 1.000000 1.000000 0.000000]"
+	TextureWindMaskLow "[1.000000 1.000000 1.000000 0.000000]"
+	TextureWindRandomNoise "materials/example/sand_path_example_normal.tif"
+
+	Attributes
+	{
+		PreviewModel "models/monster/element/shadow/shadow_emental.vmdl"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+		"Wind"
+		{
+		}
+	}
+}

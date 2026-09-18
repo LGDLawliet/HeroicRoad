@@ -1,0 +1,86 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 100
+	m_flConstantRadius = 30.0
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderModels"
+			m_bIgnoreNormal = true
+			m_ModelList = 
+			[
+				{
+					m_model = resource:"models/particle/coin.vmdl"
+				},
+			]
+			m_bAnimated = true
+			m_nLOD = 1
+			m_bForceLoopingAnimation = true
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_BasicMovement"
+			m_Gravity = [ 0.0, 0.0, -10.0 ]
+			m_flOpStartFadeInTime = 2.0
+			m_flOpEndFadeInTime = 2.0
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMin = 4.0
+			m_fLifetimeMax = 4.0
+		},
+		{
+			_class = "C_INIT_InitFromParentKilled"
+			m_nAttributeToCopy = 0
+		},
+		{
+			_class = "C_INIT_InitFromParentKilled"
+			m_nAttributeToCopy = 3
+		},
+		{
+			_class = "C_INIT_OffsetVectorToVector"
+			m_vecOutputMax = [ 0.0, 0.0, 0.0 ]
+			m_nFieldOutput = 2
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMax = [ 0.0, 0.0, 2.0 ]
+			m_OffsetMin = [ 0.0, 0.0, 2.0 ]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_bInitFromKilledParentParticles = true
+			m_flEmissionDuration = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.0
+			}
+			m_flStartTime = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.0
+			}
+			m_flEmitRate = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 50.0
+			}
+		},
+	]
+	m_PreEmissionOperators = [  ]
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 3
+}

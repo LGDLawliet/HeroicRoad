@@ -1,0 +1,30 @@
+
+// chaotic_era_4///////////////////////////////////
+"step_to_the_top"   "踏入巅峰"
+"HUD_step_to_the_top_Info" "指定怪物队列：<br><br>成长总增<font color=\"#92d3f8\"><upgrade_value>%</font><br>符石进度总增<font color=\"#92d3f8\"><progress_bonus>%<br>造成的伤害总增<font color=\"#92d3f8\"><outgoing>%</font><br>状态抗性增加<font color=\"#92d3f8\"><status>%</font><br><br>此加成已反映到数据预览"
+"DOTA_Tooltip_modifier_word_step_to_the_top"                   "剩余修饰词数：踏入巅峰"
+"DOTA_Tooltip_modifier_word_step_to_the_top_Description"       "通过成就获取的词条，用于通过右上方面板打开怪物队列修饰怪物：<br><br>怪物的成长、符石进度和造成的伤害总增，并获得状态抗性" 
+
+// chaotic_era_rune_4/////////////////////////////
+"word_bulky"   "冠军之重"
+"HUD_word_bulky_Info" "指定怪物队列：<br><br>成长总增<font color=\"#92d3f8\"><upgrade_value>%</font><br>符石进度总增<font color=\"#92d3f8\"><progress_bonus>%<br>获得<font color=\"#92d3f8\"><no_armor></font>点攻击护甲穿透<br>状态抗性增加<font color=\"#92d3f8\"><status>%</font><br><br>此加成已反映到数据预览"
+"DOTA_Tooltip_modifier_word_bulky"                   "剩余修饰词数：冠军之重"
+"DOTA_Tooltip_modifier_word_bulky_Description"       "通过成就获取的词条，用于通过右上方面板打开怪物队列修饰怪物：<br><br>怪物的成长、符石进度总增，并获得攻击护甲穿透和状态抗性" 
+
+// chaotic_era_rune_killer_4//////////////////////
+"artifact_barracks"   "军团之门"
+"artifact_barracks_info"   "指定怪物队列：<br><br>赏金总降<font color=\"#92d3f8\"><gold_down>%</font><br>生成间隔总降<font color=\"#92d3f8\"><interval_reduction>%</font><br><br>此加成已反映到数据预览"
+"HUD_artifact_barracks_Info" "指定怪物队列：<br><br>赏金总降<font color=\"#92d3f8\"><gold_down>%</font><br>生成间隔总降<font color=\"#92d3f8\"><interval_reduction>%</font><br><br>此加成已反映到数据预览"
+"DOTA_Tooltip_modifier_artifact_barracks"                   "剩余修饰词数：军团之门"
+"DOTA_Tooltip_modifier_artifact_barracks_Description"       "通过成就获取的词条，用于通过右上方面板打开怪物队列修饰怪物：<br><br>怪物生成间隔和赏金总降" 
+
+// "divine_punishment"   "天罚"
+// "HUD_divine_punishment_Info" "指定怪物队列：<br><br>登场后立刻流失<font color=\"#92d3f8\"><lost_hp>%</font>生命值。"
+// "DOTA_Tooltip_modifier_divine_punishment"                   "剩余修饰词数：天罚"
+// "DOTA_Tooltip_modifier_divine_punishment_Description"       "通过成就获取的词条，用于通过右上方面板打开怪物队列修饰怪物：<br><br>怪物在生成后立刻流失部分生命值" 
+
+// chaotic_era_rune_single_get_4//////////////////
+"the_more_the_better"   "多多益善"
+"HUD_the_more_the_better_Info" "指定非精英怪物队列：<br><br>怪物数量翻倍，但多出的怪物只会提供赏金"
+"DOTA_Tooltip_modifier_the_more_the_better"                   "剩余修饰词数：多多益善"
+"DOTA_Tooltip_modifier_the_more_the_better_Description"       "通过成就获取的词条，用于通过右上方面板打开怪物队列修饰怪物：<br><br>非精英怪物的数量翻倍" 

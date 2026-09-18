@@ -1,0 +1,800 @@
+
+"DOTA_Tooltip_modifier_ChallengeInfo_001_1"       "Сложность подавления энергии1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_2"       "Сложность подавления энергии2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_3"       "Сложность подавления энергии3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_4"       "Сложность подавления энергии4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_5"       "Сложность подавления энергии5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_002_1"       "Трудность сердечного истощения1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_2"       "Трудность сердечного истощения2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_3"       "Трудность сердечного истощения3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_4"       "Трудность сердечного истощения4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_5"       "Трудность сердечного истощения5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_003_1"       "Трудность сомнения1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_2"       "Трудность сомнения2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_3"       "Трудность сомнения3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_4"       "Трудность сомнения4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_5"       "Трудность сомнения5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_004_1"       "Трудности в жизненном поиске1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_2"       "Трудности в жизненном поиске2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_3"       "Трудности в жизненном поиске3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_4"       "Трудности в жизненном поиске4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_5"       "Трудности в жизненном поиске5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_005_1"       "Сложность вытягивания маны1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_2"       "Сложность вытягивания маны2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_3"       "Сложность вытягивания маны3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_4"       "Сложность вытягивания маны4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_5"       "Сложность вытягивания маны5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_006_1"       "Сложность мечты1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_2"       "Сложность мечты2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_3"       "Сложность мечты3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_4"       "Сложность мечты4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_5"       "Сложность мечты5"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_007_1"       "Омоложение1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_2"       "Омоложение2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_3"       "Омоложение3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_4"       "Омоложение4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_5"       "Омоложение5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_008_1"       "Дилемма души1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_2"       "Дилемма души2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_3"       "Дилемма души3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_4"       "Дилемма души4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_5"       "Дилемма души5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_009_1"       "Сложность подавления всех атрибутов1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_2"       "Сложность подавления всех атрибутов2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_3"       "Сложность подавления всех атрибутов3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_4"       "Сложность подавления всех атрибутов4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_5"       "Сложность подавления всех атрибутов5"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_010_1"       "Мозговая ошибка Сложность1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_2"       "Мозговая ошибка Сложность2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_3"       "Мозговая ошибка Сложность3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_4"       "Мозговая ошибка Сложность4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_5"       "Мозговая ошибка Сложность5" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_011_1"       "Трудности с острыми зубами1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_2"       "Трудности с острыми зубами2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_3"       "Трудности с острыми зубами3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_4"       "Трудности с острыми зубами4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_5"       "Трудности с острыми зубами5"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_012_1"       "Уровень сложности «Химическая ярость»1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_2"       "Уровень сложности «Химическая ярость»2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_3"       "Уровень сложности «Химическая ярость»3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_4"       "Уровень сложности «Химическая ярость»4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_5"       "Уровень сложности «Химическая ярость»5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_013_1"       "Взрывной Легион1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_2"       "Взрывной Легион2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_3"       "Взрывной Легион3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_4"       "Взрывной Легион4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_5"       "Взрывной Легион5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_014_1"       "Уровень сложности «Смертельный взгляд»1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_2"       "Уровень сложности «Смертельный взгляд»2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_3"       "Уровень сложности «Смертельный взгляд»3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_4"       "Уровень сложности «Смертельный взгляд»4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_5"       "Уровень сложности «Смертельный взгляд»5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_015_1"       "Грядущие трудности дьявола1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_2"       "Грядущие трудности дьявола2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_3"       "Грядущие трудности дьявола3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_4"       "Грядущие трудности дьявола4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_5"       "Грядущие трудности дьявола5" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_016_1"       "Необъявленная тринадцатая сложность «Беглец»1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_2"       "Необъявленная тринадцатая сложность «Беглец»2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_3"       "Необъявленная тринадцатая сложность «Беглец»3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_4"       "Необъявленная тринадцатая сложность «Беглец»4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_5"       "Необъявленная тринадцатая сложность «Беглец»5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_017_1"       "Сложность небесного коллапса1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_2"       "Сложность небесного коллапса2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_3"       "Сложность небесного коллапса3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_4"       "Сложность небесного коллапса4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_5"       "Сложность небесного коллапса5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_018_1"       "Кредо Черепа Собаки Сложность1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_2"       "Кредо Черепа Собаки Сложность2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_3"       "Кредо Черепа Собаки Сложность3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_4"       "Кредо Черепа Собаки Сложность4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_5"       "Кредо Черепа Собаки Сложность5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_019_1"       "Обморожение сложности1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_2"       "Обморожение сложности2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_3"       "Обморожение сложности3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_4"       "Обморожение сложности4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_5"       "Обморожение сложности5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_020_1"       "Трудность истинного смысла жизни1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_2"       "Трудность истинного смысла жизни2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_3"       "Трудность истинного смысла жизни3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_4"       "Трудность истинного смысла жизни4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_5"       "Трудность истинного смысла жизни5"  
+"DOTA_Tooltip_modifier_ChallengeInfo_020_effect"       "Смысл жизни"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_effect_Description"       "Увеличивает максимальное здоровье" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_021_1"       "Электролитные нарушения Сложность1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_2"       "Электролитные нарушения Сложность2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_3"       "Электролитные нарушения Сложность3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_4"       "Электролитные нарушения Сложность4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_5"       "Электролитные нарушения Сложность5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_022_1"       "Грыжа поясничного диска1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_2"       "Грыжа поясничного диска2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_3"       "Грыжа поясничного диска3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_4"       "Грыжа поясничного диска4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_5"       "Грыжа поясничного диска5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_023_1"       "Сложность блокировки времени1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_2"       "Сложность блокировки времени2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_3"       "Сложность блокировки времени3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_4"       "Сложность блокировки времени4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_5"       "Сложность блокировки времени5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_024_1"       "Осложнение анкилозирующего спондилита1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_2"       "Осложнение анкилозирующего спондилита2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_3"       "Осложнение анкилозирующего спондилита3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_4"       "Осложнение анкилозирующего спондилита4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_5"       "Осложнение анкилозирующего спондилита5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_1"       "Лягушка в колодце1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_2"       "Лягушка в колодце2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_3"       "Лягушка в колодце3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_4"       "Лягушка в колодце4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_5"       "Лягушка в колодце5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_026_1"       "Метеорит Сложность1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_2"       "Метеорит Сложность2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_3"       "Метеорит Сложность3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_4"       "Метеорит Сложность4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_5"       "Метеорит Сложность5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_027_1"       "Пламя Айзёга1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_2"       "Пламя Айзёга2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_3"       "Пламя Айзёга3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_4"       "Пламя Айзёга4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_5"       "Пламя Айзёга5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_028_1"       "Чума равнин1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_2"       "Чума равнин2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_3"       "Чума равнин3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_4"       "Чума равнин4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_5"       "Чума равнин5" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_1"       "Контрзаклинание1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_2"       "Контрзаклинание2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_3"       "Контрзаклинание3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_4"       "Контрзаклинание4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_5"       "Контрзаклинание5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_1"       "Просыпайся медленно1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_2"       "Просыпайся медленно2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_3"       "Просыпайся медленно3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_4"       "Просыпайся медленно4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_5"       "Просыпайся медленно5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_1"       "преемник Лю Бэя1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_2"       "преемник Лю Бэя2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_3"       "преемник Лю Бэя3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_4"       "преемник Лю Бэя4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_5"       "преемник Лю Бэя5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_032_1"       "Глядя прямо на ауру1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_2"       "Глядя прямо на ауру2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_3"       "Глядя прямо на ауру3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_4"       "Глядя прямо на ауру4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_5"       "Глядя прямо на ауру5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_033_1"       "Mana Void Difficulty 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_2"       "Mana Void Difficulty 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_3"       "Mana Void Difficulty 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_4"       "Mana Void Difficulty 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_5"       "Mana Void Difficulty 5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_034_1"       "Force Dissipation Difficulty 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_2"       "Force Dissipation Difficulty 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_3"       "Force Dissipation Difficulty 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_4"       "Force Dissipation Difficulty 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_5"       "Force Dissipation Difficulty 5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_035_1"       "Summon Inhibition Difficulty 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_2"       "Summon Inhibition Difficulty 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_3"       "Summon Inhibition Difficulty 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_4"       "Summon Inhibition Difficulty 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_5"       "Summon Inhibition Difficulty 5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_037_1"       "Huddle Denie Difficulty 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_2"       "Huddle Denie Difficulty 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_3"       "Huddle Denie Difficulty 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_4"       "Huddle Denie Difficulty 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_5"       "Huddle Denie Difficulty 5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_038_1"       "The Acme of Thieves 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_2"       "The Acme of Thieves 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_3"       "The Acme of Thieves 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_4"       "The Acme of Thieves 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_5"       "The Acme of Thieves 5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_039_1"       "Revenant of the Underscape 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_2"       "Revenant of the Underscape 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_3"       "Revenant of the Underscape 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_4"       "Revenant of the Underscape 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_5"       "Revenant of the Underscape 5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_040_1"       "Avatar of Greed 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_2"       "Avatar of Greed 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_3"       "Avatar of Greed 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_4"       "Avatar of Greed 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_5"       "Avatar of Greed 5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_041_1"       "Command Reject 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_2"       "Command Reject 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_3"       "Command Reject 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_4"       "Command Reject 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_5"       "Command Reject 5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_042_1"       "The Trial of the Earth 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_2"       "The Trial of the Earth 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_3"       "The Trial of the Earth 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_4"       "The Trial of the Earth 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_5"       "The Trial of the Earth 5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_043_1"       "Death Curse 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_2"       "Death Curse 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_3"       "Death Curse 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_4"       "Death Curse 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_5"       "Death Curse 5"
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_044_1"       "Immortal Disease Zobae 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_2"       "Immortal Disease Zobae 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_3"       "Immortal Disease Zobae 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_4"       "Immortal Disease Zobae 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_5"       "Immortal Disease Zobae 5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_1"       "Fading Bell 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_2"       "Fading Bell 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_3"       "Fading Bell 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_4"       "Fading Bell 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_5"       "Fading Bell 5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_1_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_2_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_3_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_4_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_5_Description"       "Full attack damage reduced by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_046_1"       "Memories of Legends 1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_2"       "Memories of Legends 2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_3"       "Memories of Legends 3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_4"       "Memories of Legends 4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_5"       "Memories of Legends 5"
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_effect"       "Лягушка на дне колодца"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_effect_Description"       "Усилить гекс" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_026_effect"       "Метеорит"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_effect_Description"       "Увеличивает сопротивление магии" 
+
+"DOTA_Tooltip_modifier_generic_stunned_cant_purge"       "Головокружение"   
+"DOTA_Tooltip_modifier_generic_stunned_cant_purge_Description"       "Нельзя рассеять" 
+"DOTA_Tooltip_modifier_ChallengeInfo_024_debuff"       "Головокружение"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_debuff_Description"       "Нельзя рассеять" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff"       "Колдовство"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff_Description"       "Слабый" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff2"       "Колдовство"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff2_Description"       "Слабый" 
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_effect"       "Контрзаклинание"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_effect_Description"       "Дает способности сопротивляться урону от умений" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_buff"       "Контрзаклинание"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_buff_Description"       "Дает способности сопротивляться урону от умений" 
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_self_buff"       "Проснись"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_self_buff_Description"       "Дает все улучшения атрибутов" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_enemy_buff"       "Проснись"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_enemy_buff_Description"       "Дает бонус сопротивления эффектам" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_bonus"       "Просыпайся медленно"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_bonus_Description"       "Дает прирост атрибута каждый ход" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_effect"       "Просыпайся медленно"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_effect_Description"       "Враги получают сопротивление эффектам каждый ход" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_buff"       "Признательность Конфуция"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_buff_Description"       "Конг Мин доверяет вам сердце доброжелательности и праведности, чтобы улучшить ваш главный атрибут" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_debuff"       "Юрэн"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_debuff_Description"       "Уменьшить все атрибуты" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_032_effect"       "Глядя прямо на ауру"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_effect_Description"       "Атаки имеют шанс насмехаться над целью" 
+"DOTA_Tooltip_modifier_ChallengeInfo_032_debuff"       "Смотреть прямо"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_debuff_Description"       "Высмеивают" 
+
+
+
+
+"DOTA_HUD_Challenge_level_1"                   "<font color=\"#0abce9\">Easy</font>"
+"DOTA_HUD_Challenge_level_2"                   "<font color=\"#62d316\">Normal</font>"
+"DOTA_HUD_Challenge_level_3"                   "<font color=\"#d49d05\">Elite</font>"
+"DOTA_HUD_Challenge_level_4"                   "<font color=\"#d49d05\">Difficult</font>"
+"DOTA_HUD_Challenge_level_5"                   "<font color=\"#ff0000\">Impossible</font>"
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_info_1" "<font color=\"#5bc0de\">Тип</font>：{s:value1}"
+"DOTA_Tooltip_ChallengeInfo_info_2" "<font color=\"#5bc0de\">Описание</font>："
+"DOTA_Tooltip_ChallengeInfo_info_3" "<font color=\"#5bc0de\">Бонус</font>："
+
+"DOTA_Tooltip_ChallengeInfo_type_Enemy_Capability_Increase" "<font color=\"#d9534f\">Увеличение возможностей противника</font><br><br>"
+"DOTA_Tooltip_ChallengeInfo_type_Self_Inhibition" "<font color=\"#d9534f\">Самоторможение</font><br><br>"
+"DOTA_Tooltip_ChallengeInfo_type_Elite_Challenge" "<font color=\"#d9534f\">Элитный вызов</font><br><br>"
+"DOTA_Tooltip_ChallengeInfo_type_Self_Punishment" "<font color=\"#d9534f\">Самонаказание</font><br><br>"
+
+
+"DOTA_Tooltip_Bonus_Target" "<font color=\"#ffffff\">внешнее вознаграждение</font>-{s:bonus_target}"
+"DOTA_Tooltip_Bonus_Exp" "<font color=\"#f0ad4e\">Reliable experience</font>：{s:exp_bonus}"
+"DOTA_Tooltip_Bonus_Aurum" "<font color=\"#f0ad4e\">Aurum</font>：{s:aurum_bonus}"
+
+
+"DOTA_Tooltip_Bonus_Boss_1"	"При круглом расчете <font color=\"#f0ad4e\">все игроки</font> Получат дополнительное золото <font color=\"#d9534f\"><boss_bonus_gold></font>."
+"DOTA_Tooltip_Bonus_Boss_2"	"При круглом расчете <font color=\"#f0ad4e\"> все игроки </font> Понимание навыков увеличится на <font color=\"#d9534f\"><boss_spell_index></font>. Каждые 0,1 очка дают 10% шанс получить книгу способностей, а за каждое 1 очко вы получите книгу способностей."
+
+
+
+"DOTA_Tooltip_Boss_health"  "здоровье: "
+"DOTA_Tooltip_Boss_atk"  "Аттрибуты: "
+"DOTA_Tooltip_Boss_armor"  "Броня: "
+
+
+"DOTA_Tooltip_ALL_PLAYER" "все игроки"
+"DOTA_Tooltip_EACH_PLAYER" "За каждого игрока"
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_001_Name"	"Подавление энергии"
+"DOTA_Tooltip_ChallengeInfo_001_Description"	"Уменьшите исходящий урон в следующем раунде на <font color=\"#d9534f\"><damage_redection>%</font>."
+"DOTA_Tooltip_ChallengeInfo_001_Bonus_1"	"Бонус золота при расчете раунда увеличен на <font color=\"#d9534f\"><gold_bonus>%</font>."
+
+
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_003_Name"	"Сомневаться"
+"DOTA_Tooltip_ChallengeInfo_003_Description"	"Скорость передвижения в следующем раунде уменьшается на <font color=\"#d9534f\"><move_slow>%</font>."
+"DOTA_Tooltip_ChallengeInfo_003_Bonus_1"	"Скорость движения увеличена на <font color=\"#d9534f\"><bonus_move></font>."
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_004_Name"	"Исследование жизни"
+"DOTA_Tooltip_ChallengeInfo_004_Description"	"IВ следующем раунде<font color=\"#f0ad4e\"> все игроки</font> Исцеление, получающее и исцеляющий эффект уменьшается на <font color=\"#d9534f\"><health_regen_reduction>%</font>,health recovery rate reduced by <font color=\"#d9534f\"><health_regen_reduction>%</font>."
+"DOTA_Tooltip_ChallengeInfo_004_Bonus_1"	"При расчете раунда<font color=\"#f0ad4e\"> все игроки</font>лечебный эффект и прирост вампиризма увеличены на <font color=\"#d9534f\"><bonus_health_effect>%</font>."
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_005_Name"	"Исчерпание маны"
+"DOTA_Tooltip_ChallengeInfo_005_Description"	"Начальное магическое значение следующего раунда равно <font color=\"#d9534f\"><init_mana>%</font>,mana recovery rate reduced by <font color=\"#d9534f\"><mana_regen_reduction>%</font>."
+"DOTA_Tooltip_ChallengeInfo_005_Bonus_1"	"Максимальная мана увеличена на <font color=\"#d9534f\"><bonus_mana></font>."
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_006_Name"	"Мечтать"
+"DOTA_Tooltip_ChallengeInfo_006_Description"	"Урон от заклинаний в следующем раунде уменьшен на <font color=\"#d9534f\"><spell_damage_reduction>%</font>."
+"DOTA_Tooltip_ChallengeInfo_006_Bonus_1"	"Урон от заклинаний увеличится на <font color=\"#d9534f\"><spell_damage_bonus>%</font>."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_007_Name"	"Волшебная рука"
+"DOTA_Tooltip_ChallengeInfo_007_Description"	"Эффект лечения в следующем раунде уменьшен на <font color=\"#d9534f\"><bonus_damage>%</font>."
+"DOTA_Tooltip_ChallengeInfo_007_Bonus_1"	"Лечебный эффект увеличится на <font color=\"#d9534f\"><heal_bonus>%</font>."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_008_Name"	"Дилемма души"
+"DOTA_Tooltip_ChallengeInfo_008_Description"	" следующем раунде<font color=\"#f0ad4e\"> все игроки</font>получат больше урона на <font color=\"#d9534f\"><bonus_damage>%</font>."
+"DOTA_Tooltip_ChallengeInfo_008_Bonus_1"	"При расчете раунда <font color=\"#f0ad4e\">все игроки </font>золотая награда за урегулирование в более позднем раунде будет постоянно увеличена на <font color=\"#d9534f\"><bonus_gold></font>."
+
+
+"DOTA_Tooltip_ChallengeInfo_009_Name"	"Подавление всех атрибутов"
+"DOTA_Tooltip_ChallengeInfo_009_Description"	"Уменьшить все атрибуты на <font color=\"#d9534f\"><all_attribute_reduction>%</font> в начале следующего раунда."
+"DOTA_Tooltip_ChallengeInfo_009_Bonus_1"	"Все атрибуты увеличены на <font color=\"#d9534f\"><all_attribute_bonus></font>."
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_010_Name"	"Мозговой червь"
+"DOTA_Tooltip_ChallengeInfo_010_Description"	"В дальнейшем раунде, каждые <font color=\"#d9534f\"><interval> секунд</font> будете молчать, а пассивки отключены на <font color=\"#d9534f\"><duration> секунды</font>."
+"DOTA_Tooltip_ChallengeInfo_010_Bonus_1"	"Прирост продолжительности положительного состояния и прирост продолжительности отрицательного состояния увеличен на <font color=\"#d9534f\"><bonus_buff_gain>%</font>."
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_011_Name"	"Острые зубы"
+"DOTA_Tooltip_ChallengeInfo_011_Description"	"Крипов в следующем раунде станет больше на <font color=\"#d9534f\"><bonus_base_damage_creep>%</font> от их базового урона от атаки."
+"DOTA_Tooltip_ChallengeInfo_011_Bonus_1"	"Урон от базовой атаки увеличится на <font color=\"#d9534f\"><bonus_attack_damage_self> </font>."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_012_Name"	"Химическая ярость"
+"DOTA_Tooltip_ChallengeInfo_012_Description"	"Крипов в следующем раунде станет больше на <font color=\"#d9534f\"><bonus_atk_speed_creep>%</font> от их скорости атаки."
+"DOTA_Tooltip_ChallengeInfo_012_Bonus_1"	"Скорость атаки увеличится на <font color=\"#d9534f\"><bonus_atk_speed_self> </font>."
+
+
+"DOTA_Tooltip_ChallengeInfo_013_Name"	"Легион Самовзрывающихся"
+"DOTA_Tooltip_ChallengeInfo_013_Description"	"TКрипы появляются в следующем раунде и взрываются <font color=\"#d9534f\"> <delay> </font>через несколько секунд после смерти Нанеся магический урон в размере <font color=\"#d9534f\"><damage_index>%</font> от его максимального здоровья своим врагам в радиусе <radius> единиц."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_1"	"Получите сундук с сокровищами при прохождении,<font color=\"#d9534f\">100%</font> будет сундук с сокровищами 1 уровня."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_2"	"Получите сундук с сокровищами при прохождении,<font color=\"#d9534f\">50%</font> будет сундук с сокровищами 1 уровня,<font color=\"#d9534f\">50%</font> будет сундук с сокровищами 2 уровня."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_3"	"Получите сундук с сокровищами при прохождении,<font color=\"#d9534f\">50%</font> будет сундук с сокровищами 2 уровня,<font color=\"#d9534f\">50%</font> будет сундук с сокровищами 3 уровня."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_4"	"Получите сундук с сокровищами при прохождении,<font color=\"#d9534f\">100%</font> будет сундук с сокровищами 3 уровня."
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_5"	"Получите сундук с сокровищами при прохождении,<font color=\"#d9534f\">100%</font> будет сундук с сокровищами 4 уровня."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_014_Name"	"Смертельный взгляд"
+"DOTA_Tooltip_ChallengeInfo_014_Description"	"В следующем раунде, когда герои убивают вражеских юнитов, они будут осуждены Богом смерти, после <font color=\"#d9534f\"><delay> секунды</font> будет получать физический урон текущего потерянного здоровья * <font color=\"#d9534f\"><damage_index></font>."
+"DOTA_Tooltip_ChallengeInfo_014_Bonus_1"	"увеличить броню на <font color=\"#d9534f\"><bonus_armor> </font>."
+
+
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_015_Name"	"Присутствие Темного Лорда"
+"DOTA_Tooltip_ChallengeInfo_015_Description"	"В следующем раунде будет [Аватара Навинмора]."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_016_Name"	"Скрытый Тринадцатый"
+"DOTA_Tooltip_ChallengeInfo_016_Description"	"В следующем туре будет [Тень Сларка]."
+
+"DOTA_Tooltip_ChallengeInfo_017_Name"	"Коллапс звезды"
+"DOTA_Tooltip_ChallengeInfo_017_Description"	"В следующем туре будут [Коллапс звезды]."
+
+"DOTA_Tooltip_ChallengeInfo_018_Name"	"Кредо гончей черепа"
+"DOTA_Tooltip_ChallengeInfo_018_Description"	"В следующем туре будет [Кредо гончей черепа]."
+
+"DOTA_Tooltip_ChallengeInfo_019_Name"	"Морозный великан"
+"DOTA_Tooltip_ChallengeInfo_019_Description"	"В следующем туре будет [Морозный великан]."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_020_Name"	"Истинная сущность жизни"
+"DOTA_Tooltip_ChallengeInfo_020_Description"	"Крипов в следующем раунде станет больше на <font color=\"#d9534f\"><bonur_health_creep>%</font> от их максимального здоровья."
+"DOTA_Tooltip_ChallengeInfo_020_Bonus_1"	"При круглом расчете, <font color=\"#f0ad4e\">все игроки</font> максимальное здоровье увеличено на<font color=\"#d9534f\"><bonur_health> </font>."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_021_Name"	"Электролитное расстройство"
+"DOTA_Tooltip_ChallengeInfo_021_Description"	"В сдедующем раунде снизит сопротивление магии на <font color=\"#d9534f\"><value1>%</font>."
+"DOTA_Tooltip_ChallengeInfo_021_Bonus_1"	"При круговом расчете статусное сопротивление увеличится на <font color=\"#d9534f\"><value2>%</font>."
+
+
+"DOTA_Tooltip_ChallengeInfo_022_Name"	"Поясничный диск"
+"DOTA_Tooltip_ChallengeInfo_022_Description"	"В следующем раунде, когда герой не двигается, здоровье будет снижаться на <font color=\"#d9534f\"><value1>%</font> от текущего."
+"DOTA_Tooltip_ChallengeInfo_022_Bonus_1"	"При круглом расчете, регенерация здоровья увеличится на <font color=\"#d9534f\"><value2></font>."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_023_Name"	"Блокировка времени"
+"DOTA_Tooltip_ChallengeInfo_023_Description"	"В сдедующем раунде, после произнесения заклинания, если время восстановления этого заклинания превышает <font color=\"#d9534f\"><cooldown_require></font> секунды,то время восстановления этого навыка будет увеличено на <font color=\"#d9534f\"><cooldown_increase>%</font>."
+"DOTA_Tooltip_ChallengeInfo_023_Bonus_1"	"Получение способности При круглом расчете:<font color=\"#d9534f\"><delay></font> секунды после произнесения заклинания, Если время восстановления заклинания все еще превышает <font color=\"#d9534f\"><cooldown_require> </font>секунды, время восстановления заклинания будет уменьшено на <font color=\"#d9534f\"><cooldown_reduction>%</font>, макс проццент <font color=\"#d9534f\"><max_bonus>%</font>.Не может работать на необновляемой способности."
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_024_Name"	"Анкилозирующий"
+"DOTA_Tooltip_ChallengeInfo_024_Description"	"В следующем раунде будет оглушать на <font color=\"#d9534f\"><interval> секунд</font> каждые <font color=\"#d9534f\"><duration> секунды</font>.(нерассеиваемый)"
+"DOTA_Tooltip_ChallengeInfo_024_Bonus_1"	"Увеличьте прирост длительности отрицательного статуса на <font color=\"#d9534f\"><bonus_value>%</font>."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_025_Name"	"Лягушка в колодце"
+"DOTA_Tooltip_ChallengeInfo_025_Description"	"В следующем раунде ты станешь лягушкой на <font color=\"#d9534f\"><duration> секунды</font> когда вы убиваете врага в следующем раунде Не можете использовать предметы, когда становитесь лягушкой.(нерассеиваемый)"
+"DOTA_Tooltip_ChallengeInfo_025_Bonus_1"	"Приобретенная способность При круглом расчете:Каждый состав имеет <font color=\"#d9534f\"><chance_stack>%</font> шанс превратить случайного врага в <font color=\"#d9534f\"><radius></font> превратить в безобидное маленькое животное на <font color=\"#d9534f\"><debuff_duration> секунды</font>.(Влияет на сопротивление статусу и увеличение длительности отрицательного статуса. Можно развеять)"
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_026_Name"	"Упавший метеорит"
+"DOTA_Tooltip_ChallengeInfo_026_Description"	"В дальнейшем раунде, каждые <font color=\"#d9534f\"><interval> секунды</font>. Метеорит упадет из случайной точки <font color=\"#d9534f\">радиус <radius></font>в сторону жертвы, при попадании получает магический урон <font color=\"#d9534f\"><damage_index>%</font> "
+"DOTA_Tooltip_ChallengeInfo_026_Bonus_1"	"Увеличьте сопротивление магии на <font color=\"#d9534f\"><bonus_value>%</font> (максимальное <font color=\"#d9534f\"><max_bonus>%</font>)"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_027_Name"	"Пит лорд"
+"DOTA_Tooltip_ChallengeInfo_027_Description"	">В следующем туре будет [Пит лорд]."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_028_Name"	"Капитан рыцарей Новолуния"
+"DOTA_Tooltip_ChallengeInfo_028_Description"	"В следующем раунде будет [Капитан рыцарей Новолуния]."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_029_Name"	"Контрзаклинание"
+"DOTA_Tooltip_ChallengeInfo_029_Description"	"Вражеские юниты могут блокировать урон от заклинаний <font color=\"#d9534f\"><count></font> раз(а) в следующем раунде."
+"DOTA_Tooltip_ChallengeInfo_029_Bonus_1"	"Стак баффа реакции на заклинания увеличен на <font color=\"#d9534f\"><bonus_stack></font>. Вы можете заставить себя блокировать урон от заклинаний <font color=\"#d9534f\">1</font> раз за раунд(добавьте один шанс за каждый дополнительный <font color=\"#d9534f\"><stack_require></font> стака)."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_030_Name"	"Просыпайся медленно"
+"DOTA_Tooltip_ChallengeInfo_030_Description"	"Вражеские юниты увеличат сопротивление магии на <font color=\"#d9534f\"><value1>%</font> <font color=\"#d9534f\">До финального босса</font>."
+"DOTA_Tooltip_ChallengeInfo_030_Bonus_1"	"Все атрибуты + <font color=\"#d9534f\"><bonus_attribute></font> в конце <font color=\"#d9534f\">каждого раунда</font>."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_031_Name"	"преемник Лю Бэя"
+"DOTA_Tooltip_ChallengeInfo_031_Description"	"Нельзя убивать никаких юнитов в следующем раунде, иначе испытание провалится и <font color=\"#d9534f\"><value1></font> очков всех атрибутов будут уменьшены."
+"DOTA_Tooltip_ChallengeInfo_031_Description_5"	"НЕЛЬЗЯ НАНОСИТЬ <font color=\"#d9534f\">ЛЮБОЙ УРОН</font> К <font color=\"#d9534f\">ЮНИТАМ</font> в следующем раунде, иначе испытание провалится и<font color=\"#d9534f\"> <value1></font> очков всех атрибутов будут уменьшены."
+"DOTA_Tooltip_ChallengeInfo_031_Bonus_1"	"Основной атрибут увеличен на <font color=\"#d9534f\"><bonus_value></font> При круглом расчете."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_032_Name"	"лядя прямо на ауру"
+"DOTA_Tooltip_ChallengeInfo_032_Description"	"Атака крипов в следующем раунде имеет <font color=\"#d9534f\"><proc_chance>%</font> шанс заставить цель атаковать себя в течение <font color=\"#d9534f\"><duration></font> секунды, а урон ползучести уменьшен на <font color=\"#d9534f\"><damage_reduction>%</font>.У каждого крипа есть <font color=\"#d9534f\"><chance></font> срабатывающих и не срабатывающих, над которыми насмехались. (Добавьте один шанс срабатывания за каждое повторяющееся страдание и возьмите наибольшую вероятность срабатывания)"
+"DOTA_Tooltip_ChallengeInfo_032_Bonus_1"	"Сила увеличена на <font color=\"#d9534f\"><bonus_value></font>."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_033_Name"	"Mana Void"
+"DOTA_Tooltip_ChallengeInfo_033_Description"	"The creeps appear in the next round will Generate a Mana Void effect in their location <font color=\"#d9534f\"> <delay> </font>seconds after they die, delete <font color=\"#d9534f\"><mana_del>%</font> of the maximum mana of the enemy heroes in the surrounding <radius> range, also causes magic damage equal to the value of real mana lost. If the mana is less than 10%, it will silence and cause break effect for <font color=\"#d9534f\"><debuff_duration> seconds</font>. If the total stack exceeds 100, the damage and negative state duration will increase by 2% for every 1 excess stack."
+"DOTA_Tooltip_ChallengeInfo_033_Bonus_1"	"<font color=\"#f0ad4e\">For all player:</font>Intelligence increased by <font color=\"#d9534f\"><bonus_int></font>.(Up to <bonus_max>)"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_033_debuff"                   "Mana Void"
+"DOTA_Tooltip_modifier_ChallengeInfo_033_debuff_Description"       "Silenced and break" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_034_Name"	">Force Dissipation"
+"DOTA_Tooltip_ChallengeInfo_034_Description"	"Your physical damage will be reduced by <font color=\"#d9534f\"><damage_reduction>%</font> in the next round."
+"DOTA_Tooltip_ChallengeInfo_034_Bonus_1"	"Your physical damage increased by <font color=\"#d9534f\"><bonus_damage>%</font>."
+
+
+"DOTA_Tooltip_ChallengeInfo_035_Name"	"Summon Inhibition"
+"DOTA_Tooltip_ChallengeInfo_035_Description"	"Your Summon Strength decreased by <font color=\"#d9534f\"><value1>%</font> in the next round."
+"DOTA_Tooltip_ChallengeInfo_035_Bonus_1"	"Your Summon Strength increased by <font color=\"#d9534f\"><value2>%</font>."
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_037_Name"	"Huddle Denie"
+"DOTA_Tooltip_ChallengeInfo_037_Description"	"If there are any other friendly heroes in your <font color=\"#d9534f\"><radius></font> range, you will not be able to cause damage."
+"DOTA_Tooltip_ChallengeInfo_037_Bonus_1"	"Your acquired ability at round settlement: if you have other friendly heroes within <radius_require> range, all attributes will be increased by <font color=\"#d9534f\"><bonus_value></font>."
+
+"DOTA_Tooltip_ChallengeInfo_037_Description_5"	"If there are any other friendly units in your <font color=\"#d9534f\"><radius></font> range, you will not be able to cause damage."
+
+
+
+"DOTA_Tooltip_ChallengeInfo_038_Name"	"The Acme of Thieves"
+"DOTA_Tooltip_ChallengeInfo_038_Description"	"You need not to die in the next round. You will lose <font color=\"#d9534f\"><gold_lose>%</font> gold if killed by the enemy, At least it will be lost <font color=\"#d9534f\"><min_lose></font>.If the gold is insufficient, the deduction will be delayed."
+"DOTA_Tooltip_ChallengeInfo_038_Bonus_1"	"The gold reward you get in the next rounds of settlement will be increased by <font color=\"#d9534f\"><bonus>%</font>."
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_039_Name"	"Revenant of the Underscape"
+"DOTA_Tooltip_ChallengeInfo_039_Description"	"В следующем туре будет [Lightning Revenant]."
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_040_Name"	"Avatar"
+"DOTA_Tooltip_ChallengeInfo_040_Description"	"Your next <font color=\"#d9534f\"><wave></font> round of gold coins will be locked in the piggy bank. After 13 rounds, the challenge will not take effect and directly complete the second reward of suffering settlement.。"
+"DOTA_Tooltip_ChallengeInfo_040_Bonus_1"	"Repayment of principal+ <font color=\"#d9534f\"><gold_return>%</font> interest"
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_041_Name"	"Command Rejection"
+"DOTA_Tooltip_ChallengeInfo_041_Description"	"Your order to the hero in the next round has a <font color=\"#d9534f\"><value1>%</font> chance of being rejected."
+"DOTA_Tooltip_ChallengeInfo_041_Bonus_1"	"After the end of the round, your casting speed is increased by <font color=\"#d9534f\"><value2>%</font>."
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_042_Name"	"The Trial of the Earth"
+"DOTA_Tooltip_ChallengeInfo_042_Description"	"In the next round, the enemy will be born with a shield effect, which can block any damage, equal to <font color=\"#d9534f\"><value1>%</font> of your maximum HP or of your maximum MP(depending on which is higher)"
+"DOTA_Tooltip_ChallengeInfo_042_Bonus_1"	"At the end of the round, you will gain the ability: Get a shield effect every <interval> seconds, which can block damage of <font color=\"#d9534f\"><value2>%</font> of your maximum HP or maximum MP(depending on which is high er), it can block at least 300 damage."
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_042_effect"                   "Earth Shield"
+"DOTA_Tooltip_modifier_ChallengeInfo_042_shield"                   "Earth Shield"
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_043_Name"	"Death Curse"
+"DOTA_Tooltip_ChallengeInfo_043_Description"	"Permanently curse yourself and the enemy At the same time. The enemy's healing receive effect will be permanently reduced by <font color=\"#d9534f\"><value1>%</font>, you will take 2.5 times the curse effect. Irreversible. The suffering will be completed directly. If your healing effect has reached  -100%, there will be no effect and no reward for suffering settlement."
+
+"DOTA_Tooltip_modifier_ChallengeInfo_043_buff"                   "Death Curse"
+"DOTA_Tooltip_modifier_ChallengeInfo_043_effect"                   "Death Curse"
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_044_Name"	"Immortal Disease Zobae"
+"DOTA_Tooltip_ChallengeInfo_044_Description"	"When the enemy's HP is lower than <health_require>% in the next round, it will be immune to all damage effects for <font color=\"#d9534f\"><duration></font> seconds. (Linear Overlay)"
+"DOTA_Tooltip_ChallengeInfo_044_Bonus_1"	"At the end of the round, you will gain the ability: when the HP is lower than <font color=\"#d9534f\"><buff_health_require>%</font>, you will enter the immune damage state 1+reward value x seconds，x=<font color=\"#d9534f\"><stack></font> seconds, it can be stacked and has an <cooldown> second cooldown and lasts for <max_duration> seconds at most."
+
+"DOTA_Tooltip_modifier_ChallengeInfo_044_buff"                   "Immortal Disease Zobae"
+"DOTA_Tooltip_modifier_ChallengeInfo_044_active"                   "Immortal Disease"
+
+
+"DOTA_Tooltip_ChallengeInfo_045_Name"	"Fading Bell"
+"DOTA_Tooltip_ChallengeInfo_045_Description"	"Your full attack damage will be reduced by <damage_reduce>% per second in the next round, until it is converted to increase after deducting <font color=\"#f0ad4e\"><max_chance>%</font>, at least <font color=\"#f0ad4e\"><min_reduce>%</font> will be deducted.(Pendulum cycle)"
+"DOTA_Tooltip_ChallengeInfo_045_Bonus_1"	"At the end of the round, you will gain the ability: your full attack damage will be increased by 1% every second, and the maximum value is 3%+ bonus value x,x=<font color=\"#d9534f\"><bonus_stack>%</font>.Stackable up to 30%. It will decrease to 0% after reaching the maximum value(Pendulum cycle)"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_buff"                   "Fading Bell"
+"DOTA_Tooltip_modifier_ChallengeInfo_045_buff_Description"       "Full attack damage increased by %dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+"DOTA_Tooltip_ChallengeInfo_046_Name"	"Memories of Legends"
+"DOTA_Tooltip_ChallengeInfo_046_Description"	"В следующем туре будет [The avatar of Somnus丶M]."
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_ChallengeInfo"	"Терпеть больше страданий"
+"DOTA_Tooltip_ability_ChallengeInfo_Description"	"<font color=\"#5cb85c\">Только сложность после уровня Impossible откроет функцию.</font><br>Укрепить врага или ослабить себя, добавляя элитных крипов и выполняя другие задания, можно получить награды после завершения раунда.<br><font color=\"#5bc0de\">В конце каждого раунда дается пять страданий<br></font><font color=\"#db4e21\">Будь осторожен:</font><font color=\"#db4e21\"><br>1.Страдание длится только один круг;</font><font color=\"#db4e21\"><br>2. Некоторые испытания со страданием не приведут к провалу игры, если все игроки не умрут;</font><font color=\"#db4e21\"><br>4.Страдания должны быть выбраны до начала волны.</font><font color=\"#db4e21\"><br>5. Страдания игроков могут быть разными, одни и те же могут накладываться друг на друга;</font><font color=\"#db4e21\"></font><br><font color=\"#db4e21\">6. Скажите товарищами заранее!!!</font><font color=\"#db4e21\"></font><br><font color=\"#db4e21\">7. Бонус золота является фиксированным значением без усиления (за исключением некоторых вещей);</font><br><font color=\"#db4e21\">8. Важно: как только вы выберете страдание, вы не сможете отменить его, но можете изменить уровень сложности.</font><font color=\"#db4e21\"></font>"
+
+

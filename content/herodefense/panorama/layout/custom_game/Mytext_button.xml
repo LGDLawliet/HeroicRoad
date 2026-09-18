@@ -1,0 +1,15 @@
+<root>
+    <styles>
+        <include src="file://{resources}/styles/custom_game/Mytext_button.css" />
+    </styles>
+    <scripts>
+        <include src="file://{resources}/scripts/custom_game/Mytext_button.js" />
+    </scripts>
+     <Panel hittest="false">
+           <Panel id="Mytext_button" hittest="false">
+                <Label id="Mytext_buttonLabel" text="#MytestButton1" 
+                onactivate ="Chaofeng()"
+                />
+           </Panel>
+     </Panel>
+</root>

@@ -1,0 +1,214 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf56:version{f07dae67-740b-4789-a729-6ddffc9f855e} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 12
+	m_flConstantRadius = 200.0
+	m_flConstantLifespan = 0.5
+	m_ConstantColor = [ 255, 158, 79, 155 ]
+	m_nBehaviorVersion = 12
+	m_nFirstMultipleOverride_BackwardCompat = 1
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 8
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 15
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 16
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/custom/creeps/golem/golem_lava.vmdl"
+				m_sequenceName = "Golem@Idle"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_RemapSpeedtoCP"
+			m_flInputMin = 150.0
+			m_flInputMax = 200.0
+			m_nOutControlPointNumber = 8
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flEmitRate = 
+			{
+				m_nType = "PF_TYPE_CONTROL_POINT_COMPONENT"
+				m_nControlPoint = 8
+				m_nVectorComponent = 0
+				m_nMapType = "PF_MAP_TYPE_MULT"
+				m_flMultFactor = 5.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_CreateWithinSphereTransform"
+			m_fRadiusMax = 60.0
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMax = [ 0.0, 0.0, 512.0 ]
+			m_OffsetMin = [ 0.0, 0.0, 512.0 ]
+		},
+		{
+			_class = "C_INIT_PositionPlaceOnGround"
+			m_CollisionGroupName = "DEBRIS"
+			m_flMaxTraceLength = 2048.0
+			m_bSetNormal = true
+			m_bIncludeWater = true
+			m_flOffset = 24.0
+			m_nTraceMissBehavior = "PARTICLE_TRACE_MISS_BEHAVIOR_KILL"
+		},
+		{
+			_class = "C_INIT_RemapTransformToVector"
+			m_vInputMax = [ 255.0, 255.0, 255.0 ]
+			m_nFieldOutput = 6
+			m_vOutputMax = [ 1.0, 1.0, 1.0 ]
+			m_flOpStrength = 
+			{
+				m_nType = "PF_TYPE_CONTROL_POINT_COMPONENT"
+				m_nControlPoint = 16
+				m_nVectorComponent = 0
+				m_nMapType = "PF_MAP_TYPE_REMAP"
+				m_flInput0 = 0.0
+				m_flInput1 = 1.0
+				m_flOutput0 = 0.0
+				m_flOutput1 = 1.0
+			}
+			m_TransformInput = 
+			{
+				m_nControlPoint = 15
+			}
+			m_LocalSpaceTransform = 
+			{
+				m_nType = "PT_TYPE_INVALID"
+			}
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_EndCapTimedDecay"
+			m_flDecayTime = 1.0
+		},
+		{
+			_class = "C_OP_LerpEndCapScalar"
+			m_flOutput = 0.0
+			m_nFieldOutput = 7
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+			m_flFadeInTime = 0.5
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_OFF"
+		},
+		{
+			_class = "C_OP_LerpEndCapScalar"
+			m_flLerpTime = 2.0
+		},
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_FadeOutSimple"
+			m_flFadeOutTime = 0.5
+		},
+		{
+			_class = "C_OP_BasicMovement"
+		},
+	]
+	m_ForceGenerators = 
+	[
+		{
+			_class = "C_OP_AttractToControlPoint"
+			m_vecComponentScale = [ 1.0, 1.0, 0.0 ]
+			m_fFalloffPower = 0.0
+			m_fForceAmount = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 800.0
+			}
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			m_nOrientationType = "PARTICLE_ORIENTATION_ALIGN_TO_PARTICLE_NORMAL"
+			m_flStartFadeSize = 0.125
+			m_flEndFadeSize = 0.75
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/particle_modulate_01.vtex"
+				},
+			]
+			m_nOutputBlendMode = "PARTICLE_OUTPUT_BLEND_MODE_MOD2X"
+		},
+		{
+			_class = "C_OP_RenderDeferredLight"
+			m_flStartFalloff = 0.1
+			m_flAlphaScale = 16.0
+			m_hTexture = resource:"materials/particle/particle_modulate_01.vtex"
+			m_vecColorScale = 
+			{
+				m_nType = "PVEC_TYPE_LITERAL_COLOR"
+				m_LiteralColor = [ 229, 54, 0 ]
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_lava_ambientb.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_lava_ambientc.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_lava_ambiente.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_lava_ambientg.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_lava_ambientd.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_lava_ambientf.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_lava_ambienta.vpcf"
+		},
+	]
+}

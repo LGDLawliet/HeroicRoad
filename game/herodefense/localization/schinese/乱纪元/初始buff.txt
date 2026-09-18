@@ -1,0 +1,297 @@
+"Map_Card_effect_level1"  "难度"
+"Map_Card_effect_level2"  "中阶"
+"Map_Card_effect_level3"  "高阶"
+"DOTA_Tooltip_modifier_boss_rune" "最终首领奖励"
+"DOTA_Tooltip_modifier_boss_rune_Description" "如果战胜最终首领，那么你本局的符石获取总增%dMODIFIER_PROPERTY_TOOLTIP%%%"
+// 词条搭配法：
+// 种族词条：40 100 150 250（1.25）
+// 困难词条：32  80 120 200（1）
+// 中等词条：26  64 96  160 （0.8）
+// 简单词条：16  40 60  100（0.5）
+// 最大进度：1.8*2.5*3.5（瓦困难，瓦种族，瓦种族）=1575%
+// 最小进度：1.2*1.48*1.96（简单，简单，中等）=305%
+
+// 最终进度：
+// 基础 20
+// 困难 20 25 30 35
+// 中等 16 20 24 28
+// 简单 10 13 
+// 最大加成：20+25+30+35（瓦困难，瓦种族，瓦种族）=110%
+// 最小进度：20+10+13+24（简单，简单，中等）=67%
+
+"diff_1"   "简单"
+"diff_1_info"   "<font color='#F5F5F5'>适合新入门的玩家</font><br><br>怪物生命值：<hp>%<br>怪物攻击力：<atk>%<br>符石进度：<rune>%<br>胜利符石加成：<boss_rune>%"
+
+"diff_2"   "普通"
+"diff_2_info"   "<font color='#87CEEB'>适合对游戏有所了解的玩家</font><br><br>怪物生命值：<hp>%<br>怪物攻击力：<atk>%<br>符石进度：<rune>%<br>胜利符石加成：<boss_rune>%"
+
+"diff_3"   "困难"
+"diff_3_info"   "<font color='#9370DB'>适合有符石和圣物的玩家</font><br><br>怪物生命值：<hp>%<br>怪物攻击力：<atk>%<br>符石进度：<rune>%<br>胜利符石加成：<boss_rune>%"
+
+"diff_4"   "噩梦"
+"diff_4_info"   "<font color='#FA8072'>适合较多符石和圣物的玩家</font><br><br><font color='#FA8072'>怪物拥有随机增益</font><br>怪物生命值：<hp>%<br>怪物攻击力：<atk>%<br>符石进度：<rune>%<br>胜利符石加成：<boss_rune>%"
+
+"diff_5"   "终末"
+"diff_5_info"   "<font color='#FF8C00'>这个难度对你来说并不公平</font><br><br><font color='#ff8c00'>怪物拥有更多随机增益</font><br>怪物生命值：<hp>%<br>怪物攻击力：<atk>%<br>符石进度：<rune>%<br>胜利符石加成：<boss_rune>%"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_1"  "易碎装甲"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_1_Description"  "初始拥有%start_incoming%层装甲，每层提供%each%%%伤害减免。<br>受到伤害时失去%each%层装甲，全部失去后受到的伤害增加%break_incoming%%%。\n<font color='#606060'>破坏：受到伤害会失去10倍的装甲。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_1"  "易碎装甲"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_1_Description" "受到的伤害降低%dMODIFIER_PROPERTY_TOOLTIP%%%<br>受到的伤害增加%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_2"  "模糊"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_2_Description"  "获得%evasion%%%闪避，周围%radius%范围内不存在英雄时提高至%evasion_plus%%%。"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_2"  "模糊"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_2_Description" "获得%dMODIFIER_PROPERTY_TOOLTIP%%%闪避"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_3"  "魔力叱喝"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_3_Description"  "受到敌人的技能伤害时，燃烧其%mana%%%当前魔法值并使其移动速度降低%move_down%%%，持续%duration%秒。\n<font color='#606060'>破坏：不再燃烧魔法值；<br>魔法免疫：免疫其减速效果。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_3"  "魔力叱喝"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_3_Description" "受到技能伤害时进行反击"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_3_debuff"  "魔力叱喝"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_3_debuff_Description" "移动速度降低，可弱驱散"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_4"  "回复新星"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_4_Description"  "死亡时祝福自身周围%radius%范围内至多%max%个友军，使其每秒回复%heal%%%最大生命值，持续%duration%秒。\n<font color='#606060'>破坏：生效的前5秒内不会回复生命。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_4"  "回复新星"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_4_Description" "死亡时使周围的友军持续回复生命"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_4_buff"  "回复新星"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_4_buff_Description" "持续恢复生命值，可弱驱散"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_5"  "恩赐解脱"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_5_Description"  "攻击有%chance%%%几率造成%crit%%%的致命一击。"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_5"  "恩赐解脱"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_5_Description" "攻击有几率造成致命一击"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_6"  "迅敏"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_6_Description"  "攻击速度和移动速度增加%speed%%%，同时无视单位碰撞体积。"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_6"  "迅敏"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_6_Description" "攻击速度和移动速度提高，无视单位碰撞体积"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_7"  "屠宰"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_7_Description"  "普通攻击命中会附带目标%cut%%%最大生命值的生命移除，如果目标生命值不足，则改为回复自身%heal%%%最大生命值。\n<font color='#606060'>破坏：生命移除量减半，不足时不再回复生命值。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_7"  "屠宰"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_7_Description" "普通攻击会造成生命移除或回复自身生命"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_8"  "幽冥反冲"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_8_Description"  "自身周围%radius%范围内的敌人释放技能时，对其释放幽冥光线，削减其%hp%%%当前生命值和%mana%%%当前魔法值。\n<font color='#606060'>破坏：检测范围减半；<br>魔法免疫：生命和魔法值削除量减半。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_8"  "幽冥反冲"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_8_Description" "周围施法的敌人会被削除生命和魔法值"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_9"  "肉体诅咒"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_9_Description"  "普通攻击命中会使目标受到的伤害增加%incoming%%%，至多叠加至%incoming_max%%%，持续%duration%秒。<br><br>死亡时，清除周围%radius%范围内所有单位%stack%层诅咒，此范围内的击杀者会清除所有诅咒。\n<font color='#606060'>魔法免疫：持续时间减少75%%。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_9"  "肉体诅咒"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_9_Description" "攻击会使目标受到的伤害逐步增加"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_9_debuff"  "肉体诅咒"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_9_debuff_Description" "受到的伤害增加%dMODIFIER_PROPERTY_TOOLTIP%%%，不可驱散，拥有这个技能的单位死亡会缓解此效果"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_10"  "极速狂飙"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_10_Description"  "每秒有%chance%%%几率开始极速追击，期间移动速度不会低于%speed_min%点且无视单位碰撞体积、无视地形，持续%duration%秒。"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_10"  "极速狂飙"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_10_Description" "有几率开始狂飙，移动速度无法低于一定值，无视单位碰撞体积和地形"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_10_buff"  "极速狂飙"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_10_buff_Description" "移动速度无法低于一定值，无视单位碰撞体积和地形"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_11"  "胜者为王"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_11_Description"  "造成的伤害总增%outgoing%%%，受到的伤害减少%incoming%%%。被击杀后，这个增益会施加给击杀者，持续%duration%秒。"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_11"  "胜者为王"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_11_Description" "强大的伤害增益，击杀这个单位以获取这个效果"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_11_buff"  "胜者!"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_11_buff_Description" "造成的伤害总增，受到的伤害减少"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_12"  "虚无形态"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_12_Description"  "生命值低于%line%%%时会免疫物理攻击，但自身的攻击力和魔法抗性减少%down%%%，持续%duration%秒。\n<font color='#606060'>破坏：持续时间减少30%%；沉默：持续时间减少50%%。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_12"  "虚无形态"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_12_Description" "生命值较低时会免疫物理攻击，但自身攻击力和魔抗也会下降"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_12_buff"  "虚无形态"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_12_buff_Description" "免疫物理攻击，攻击力和魔抗下降，可驱散"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_13"  "狂暴形态"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_13_Description"  "生命值低于%line%%%时会进入魔法免疫状态并获得极限魔抗，但自身的攻击力和护甲减少%down%%%，持续%duration%秒。\n<font color='#606060'>破坏：持续时间减少30%%；沉默：持续时间减少50%%。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_13"  "狂暴形态"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_13_Description" "生命值较低时会魔法免疫，但自身攻击力和护甲也会下降"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_13_buff"  "狂暴形态"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_13_buff_Description" "魔法免疫，攻击力和护甲下降，可驱散"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_14"  "元素抗性专精"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_14_Description"  "受到的属性伤害减少%incoming%%%，但受到的非属性伤害增加%incoming_2%%%。\n<font color='#606060'>破坏：不再减少受到的属性伤害。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_14"  "元素抗性专精"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_14_Description" "受到的属性伤害降低，但受到的非属性伤害增加"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_15"  "外强中干"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_15_Description"  "状态抗性增加%status%%%，但受到的中毒伤害增加%incoming%%%。\n<font color='#606060'>破坏：受到的中毒伤害额外增加20%% [+]。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_15"  "外强中干"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_15_Description" "状态抗性增加，但受到的中毒伤害增加"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_16"  "极速冷却"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_16_Description"  "获得%cd%%%冷却缩减。"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_16"  "极速冷却"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_16_Description" "冷却缩减提高"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_17"  "灭亡钟点"//17是特殊的词条，应当在15回合后再出现
+"DOTA_Tooltip_ability_chaotic_era_buffskill_17_Description"  "出生%start_stack%秒后，每秒成长自身%attack_speed%点攻击速度，%move%点移动速度，%no_armor%点攻击护甲穿透。<br><br>累计成长%line%次后，造成的伤害总增%outgoing%%% [×]。\n<font color='#606060'>破坏：出生计时和成长每秒有40%%几率停滞一秒。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_17"  "灭亡钟点"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_17_Description" "长时间未被击杀则会开始成长：<br><br>-攻击速度增加%dMODIFIER_PROPERTY_TOOLTIP%<br>-移动速度增加%dMODIFIER_PROPERTY_TOOLTIP%<br>-攻击护甲穿透增加%fMODIFIER_PROPERTY_TOOLTIP%<br>-伤害总增%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_18"  "拒之门外"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_18_Description"  "免疫来自%radius%码外的伤害。\n<font color='#606060'>破坏：变为减伤40%%。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_18"  "拒之门外"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_18_Description" "免疫过远单位的伤害"
+
+"DOTA_Tooltip_ability_chaotic_era_buffskill_19"  "同生共死"
+"DOTA_Tooltip_ability_chaotic_era_buffskill_19_Description"  "死亡后继续战斗并持续损失生命值，攻击速度增加%attack_speed%点。\n<font color='#606060'>破坏：不提供攻击速度。</font>"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_19"  "同生共死"
+"DOTA_Tooltip_modifier_chaotic_era_buffskill_19_Description" "死亡的时候会跟你爆了"
+
+///////////////////////独特词条/////////////////////////////
+"crazy_surf"   "疯狂浪潮"
+"crazy_surf_info"   "怪物的生成速度总增<value1>%，但其赏金奖励总降<value2>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"crazy_surf_hard"   "瓦尔·地狱狂潮"
+"crazy_surf_hard_info"   "怪物的生成速度总增<value1>%，但其赏金奖励总降<value2>% [×]<br><br>所有玩家造成的伤害总降<value3>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+"DOTA_Tooltip_modifier_crazy_surf_hard_debuff" "瓦尔·地狱狂潮"
+"DOTA_Tooltip_modifier_crazy_surf_hard_debuff_Description" "造成的伤害降低"
+
+"diviners_portent"  "预言师示兆"
+"diviners_portent_info"  "在接下来的<value1>回合，怪物的攻击力提升<value2>%，完成这个阶段后，你在游戏结算时可以优先使<value3>个高稀有度符石结算，优先结算你使用中的技能<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"super_elite"  "精英教育"
+"super_elite_info"  "所有怪物均被视为精英，其习得'盛宴'和'坚毅'，符石进度总增<rune>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+"DOTA_Tooltip_modifier_super_elite_debuff"                   "精英教育"
+"DOTA_Tooltip_modifier_super_elite_debuff_Description"       "也许这世界上哪里都不缺辅导班"
+
+///////////////////////队列词条，标准数值请参考'你是蜘蛛吗'/////////////////////////////
+"undeath_legion"  "不死军团"
+"undeath_legion_info"  "在初始怪物队列插入<value1>支，每支各<count>只[不死僵尸]，其成长总增<value2>%，符石进度总增<value3>% [×]，选择这个词条会提供<value4>个怪物数量上限<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"queens_vanguard_army"  "你是蜘蛛吗"
+"queens_vanguard_army_info"  "在初始怪物队列插入<value1>支[饥渴嗜血者]，其成长和符石进度总增<value2>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"horn_of_the_alhpa"  "领袖号角"
+"horn_of_the_alhpa_info"  "在初始怪物队列插入<value1>支[饥渴先锋]，其成长和符石进度总增<value2>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"continuous_stream_of_trees"  "树根八角笼"
+"continuous_stream_of_trees_info"  "在初始怪物队列插入<value1>支[仙人掌拳击手]，其成长总增<value2>%，符石进度总增<value3>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+///////////////////////简单词条，此类词条副作用极小，进度也不应很高，且不会出现在第3次词条选择，其瓦尔版本为x1.6收益，而非阶数+1/////////////////////////////
+"iron_fog_goldmine"  "金矿发掘"
+"iron_fog_goldmine_info"  "击杀金币收益增加<value1>%，后续选择的怪物符石进度总增<value2>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"greedy"  "贪婪"
+"greedy_info"  "所有英雄在每回合开始时获得英雄等级x<value1>的金币，后续选择的怪物符石进度总增<value2>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+//游戏结算时，每有一个怪物队列，则可获得<value3>黄金（但需要至少坚持<value4>回合，如果你在这个回合后才选择了此词条，那么将没有黄金奖励）
+
+"smothering_tithe"  "启动小额贷"
+"smothering_tithe_info"  "获得<gold>金币并产生<index>%队伍债务，每<interval>秒每个存活英雄金币的<back>%被用于还款。<br><br>还清贷款时获得<value2>个稀有符石奖励，此后所有英雄抽取出现技能数增加<bonus><br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+"HUD_ChaoticEra_smothering_tithe_success"  "债务已还清，符石将在结算时发放。"
+"DOTA_HUD_tithe_info"   "还款时间到！{s:locstring_value2}还了<font color='#f0ffff'>{s:locstring_value}</font>金币！"
+"DOTA_HUD_tithe_final_info"   "还款已完成！{s:locstring_value2}在此次欠款总计还了<font color='#f0ffff'>{s:locstring_value}</font>金币！"
+"DOTA_Tooltip_modifier_smothering_tithe_debuff"                   "同心高利贷"
+"DOTA_Tooltip_modifier_smothering_tithe_debuff_Description"       "以固定间隔被划走一部分金币" 
+"DOTA_Tooltip_modifier_smothering_tithe_buff"                   "结清证明"
+"DOTA_Tooltip_modifier_smothering_tithe_buff_Description"       "技能抽取数增加%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+///////////////////////中等词条/////////////////////////////
+"be_careful_at_night"  "入夜小心"
+"be_careful_at_night_info"  "后续选择的怪物被强化：<br>成长总增<value1>%<br>符石进度总增<value2>% [×]<br><br>所有玩家的夜间视野减少<value3>点<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"be_careful_at_night_hard"  "瓦尔·暗无天日"
+"be_careful_at_night_hard_info"  "后续选择的怪物被强化：<br>成长总增<value1>%<br>符石进度总增<value2>% [×]<br><br>所有玩家的夜间视野减少<value3>点<br>所有玩家造成的伤害总降<value4>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+"DOTA_Tooltip_modifier_be_careful_at_night_hard_debuff" "瓦尔·无光之日"
+"DOTA_Tooltip_modifier_be_careful_at_night_hard_debuff_Description" "夜间视野大幅降低，造成的伤害降低"
+
+"imprint_of_nevermore"  "噬魔之王的对赌协议"
+"imprint_of_nevermore_info"  "所有英雄受到的伤害增加<value1>%，任意英雄死亡时，队列内全部怪物的成长总增<value2>% [×]。但后续选择的怪物符石进度总增<value3>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+///////////////////////困难词条/////////////////////////////
+"more_deadly"  "更加致命"
+"more_deadly_info"  "后续选择的怪物被强化：<br>成长总增<value1>%<br>符石进度总增<value2>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"more_deadly_hard"  "瓦尔·致命威胁"
+"more_deadly_hard_info"  "后续选择的怪物被强化：<br>成长总增<value1>%<br>符石进度总增<value2>% [×]<br><br>所有玩家受到的伤害增加<value3>%<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+"DOTA_Tooltip_modifier_more_deadly_hard_debuff" "瓦尔·致命威胁"
+"DOTA_Tooltip_modifier_more_deadly_hard_debuff_Description" "受到的伤害增加"
+
+"planar_bridge"  "时空渡桥"
+"planar_bridge_info"  "所有怪物的属性和赏金成长<value1>回合，且后续选择的怪物的符石进度总增<value2>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"planar_bridge_hard"  "瓦尔·终极之门"
+"planar_bridge_hard_info"  "所有怪物的属性和赏金成长<value1>回合，且后续选择的怪物的符石进度总增<value2>% [×]<br><br>所有玩家造成的伤害总降<value3>% [×]<br>所有玩家受到的伤害提高<value4>%<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+"DOTA_Tooltip_modifier_planar_bridge_hard_debuff" "瓦尔·终极之门"
+"DOTA_Tooltip_modifier_planar_bridge_hard_debuff_Description" "造成的伤害降低，受到的伤害增加"
+
+///////////////////////种族词条/////////////////////////////
+"element_coming"  "元素爆发"  
+"element_coming_info"  "后续选择的元素怪物被强化：<br>生命值成长总增<value1>%<br>攻击力成长总增<value2>%<br>符石进度总增<value3>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"element_coming_hard"  "瓦尔·元素鼎合"  
+"element_coming_hard_info"  "后续选择的元素怪物被强化：<br>生命值成长总增<value1>%<br>攻击力成长总增<value2>%<br>符石进度总增<value3>% [×]<br><br>所有玩家受到的伤害提高<value4>%<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+"DOTA_Tooltip_modifier_element_coming_hard_debuff" "瓦尔·元素鼎合"
+"DOTA_Tooltip_modifier_element_coming_hard_debuff_Description" "受到的伤害增加"
+
+"chaos_coming"  "混乱降临"  
+"chaos_coming_info"  "后续选择的混乱怪物被强化：<br>生命值成长总增<value1>%<br>攻击力成长总增<value2>%<br>符石进度总增<value3>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"chaos_coming_hard"  "瓦尔·星月夜"  
+"chaos_coming_hard_info"  "后续选择的混乱怪物被强化：<br>生命值成长总增<value1>%<br>攻击力成长总增<value2>%<br>符石进度总增<value3>% [×]<br><br>所有玩家造成的伤害总降<value4>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+"DOTA_Tooltip_modifier_chaos_coming_hard_debuff" "瓦尔·星月夜"
+"DOTA_Tooltip_modifier_chaos_coming_hard_debuff_Description" "造成的伤害降低"
+
+"weirding_wood"  "怪诞树木"
+"weirding_wood_info"  "后续选择的植物怪物被强化：<br>生命值成长总增<value1>%<br>攻击力成长总增<value2>%<br>符石进度总增<value3>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"weirding_wood_hard"  "瓦尔·花树界树缚"
+"weirding_wood_hard_info"  "后续选择的植物怪物被强化：<br>生命值成长总增<value1>%<br>攻击力成长总增<value2>%<br>符石进度总增<value3>% [×]<br><br>所有玩家受到的伤害提高<value4>%<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+"DOTA_Tooltip_modifier_weirding_wood_hard_debuff" "瓦尔·花树界降诞"
+"DOTA_Tooltip_modifier_weirding_wood_hard_debuff_Description" "受到的伤害增加"
+
+"nega_coming"  "狂暴海潮"
+"nega_coming_info"  "后续选择的娜迦怪物被强化：<br>生命值成长总增<value1>%<br>攻击力成长总增<value2>%<br>符石进度总增<value3>% [×]<br><br>最终首领胜利奖励增加<boss_rune>% [+]"
+
+"nega_coming_hard"  "瓦尔·激涌风暴"
+"nega_coming_hard_info"  "后续选择的娜迦怪物被强化：<br>生命值成长总增<value1>%<br>攻击力成长总增<value2>%<br>符石进度总增<value3>% [×]<br><br>所有玩家的护甲减少<value4>% [+]<br><br>最终首领胜利奖励增加<boss_rune>%[+]"
+"DOTA_Tooltip_modifier_nega_coming_hard_debuff" "瓦尔·激涌风暴"
+"DOTA_Tooltip_modifier_nega_coming_hard_debuff_Description" "护甲降低"
+
+//////////////////////未启用词条////////////////////////////
+// "heroic_obelisk"  "英雄方尖碑"
+// "heroic_obelisk_info"  "在第<value1>回合，地图的正中央会出现一座方尖碑，方尖碑可以承受<value2>次攻击，如果在存续<value6>秒前被破坏，那么所有英雄将被减少<value7>点全属性，存续所要求的时间后，每存在<value3>秒将为所有英雄提供<value4>点属性加成，最高<value5>"
+
+// "curse_contract"  "诅咒契约"
+// "curse_contract_info"  "所有的人伤害减少<value1>%，如果本局能到达<value2>回合，那么将获得本局累计神话符石个数x<value3>%的稀有符石，最少<value4>个，最多<value5>个"
+
+// "death_aura"  "死亡领域"
+// "death_aura_info"  "英雄的治疗效果减少<value1>%，但每经过秒，普通符石的生成进度增加<value2>，正面效果需要<value3>回合后才会生效"
+
+// "super_normal"  "超级军团"
+// "super_normal_info"  "原始生成间隔小于等于<value1>秒的怪物，其生命和攻击成长提升<value2>%，同时其罕见符石进度加成提升<value3>%"
+
+// "ritual_of_summoning"  "召唤仪式"
+// "ritual_of_summoning_info"  "在<wave>回合时召唤出[深渊领主]，将其击败后"
+
+// "stone_skin"  "石肤术"
+// "stone_skin_info"  "你与敌人都获得石肤术效果，防御力提升<value1>，物理抗性提升<value2>%"
+
+// "hell_lava_golem"  "地狱熔岩巨人"
+// "hell_lava_golem_info"  "第<wave>回合时，加入一支[熔岩巨人]队列，其成长为原本的<value1>%，其带来的符石生成进度为原本的<value2>%。在死亡时会产生两只分裂体，属性为其<value3>%，赏金则为<value4>%"
+
+// "raphaels_hospitality"  "拉斐尔的招待"
+// "raphaels_hospitality_info"  "（需要在23回合前使这个词条成立）在游戏结束时，你必须取得至少<value1>个神话符石奖励（不朽符石视为5个神话符石），否则你将失去本局游戏所有神话及以上符石奖励。如果条件完成，那么你将获得<value2>个神话符石奖励"
+// "HUD_ChaoticEra_raphaels_debuff"  "契约失败，你的高级符石奖励被拉斐尔收走了。"
+// "HUD_ChaoticEra_raphaels_buff"  "拉斐尔契约成功，作为交换你获得了些许奖励。"
+// "HUD_ChaoticEra_raphaels_select_fail"  "已经为时已晚，拉斐尔拒绝与你签订契约。"
+
+// "destiny_fade"  "命运渐隐"
+// "destiny_fade_info"  "你无法看见征召队列中怪物的名称与形象，但获得<value1>%符石进度加成"
+
+// "training_center"  "训练中心"
+// "training_center_info"  "在地图区域内火出现一处方形的训练区域，在此区域内战斗将减少<value1>%伤害，但每存在一名英雄，则符石生成速度获得<value2>%加成"
+
+// "immortal_ceremony"  "不朽仪式"
+// "immortal_ceremony_info"  "所有不死者的不死状态效果增加<value1>%，同时，不死者产生的符石进度有<value2>%几率产生额外<value3>%效益"
+
+// "ultimate_pain"  "终极苦痛"
+// "ultimate_pain_info"  "在<value1>分钟后，所有人会额外受到<value2>%伤害，但每坚持1分钟都将使"
+
+// "iron_fog_goldmine_easy"  "瓦尔·无尽金矿"
+// "iron_fog_goldmine_easy_info"  "击杀金币收益增加<value1>%，同时后续选择的怪物符石进度总增<value2>% [×]<br><br>所有玩家战斗阶段每秒获得<value3>金币"

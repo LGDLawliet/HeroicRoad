@@ -1,0 +1,62 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "water_dota.vfx"
+
+	//---- Flow ----
+	F_FLOW_NORMALS 1
+
+	//---- Color ----
+	g_vTexCoordScale "[6.613 5.333]"
+
+	//---- Flow ----
+	g_flFlowTimeScale "1.980"
+
+	//---- Flow Noise ----
+	g_flNoiseStrength "0.297"
+	g_flNoiseUvScale "0.5000"
+	TextureNoise "materials/default/default_noise.tga"
+
+	//---- Flow Normals ----
+	g_flNormalFlowLerpExp "1.000"
+	g_flNormalFlowTimeIntervalInSeconds "0.346"
+	g_flNormalFlowUvScrollDistance "0.300"
+	g_flNormalUvScale "207.921"
+	g_flWorldPositionScale "0.495"
+	TextureFlow "materials/example/rings/ring_01.tif"
+
+	//---- Low End ----
+	g_flLowEndBaseBloom "0.622"
+	g_flLowEndBloomPower "8.812"
+	g_flLowEndBumpStrength "1.109"
+	g_flLowEndReflectionPower "0.010"
+	g_flLowEndSurfaceFactor "0.376"
+	g_flLowEndSurfaceMinimumColor "0.219"
+	g_flLowEndSurfaceOpacity "0.198"
+	g_vLowEndReflectionColor "[0.913726 0.913726 0.913726 0.000000]"
+	g_vLowEndReflectionDir "[1.000 0.333 1.000]"
+	g_vLowEndSurfaceColor "[0.501961 0.501961 0.501961 0.000000]"
+
+	//---- Normal Map ----
+	g_flBumpStrength "0.297"
+	TextureNormal "materials/example/water_2.tif"
+
+	//---- Reflections ----
+	g_flReflectance "1.000"
+	g_flReflectionAmount "1.000"
+	g_vReflectionTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Refractions ----
+	g_flRefractionAmount "0.174"
+	g_flWaterDepth "188.119"
+	g_vRefractionTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vWaterFogColor "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Specular ----
+	g_flBaseBloom "1.000"
+	g_flBloomPower "0.000"
+	g_flReflectionPower "0.010"
+	g_vReflectionColor "[1.000000 1.000000 1.000000 0.000000]"
+	g_vReflectionDir "[-1.000 0.600 1.000]"
+}

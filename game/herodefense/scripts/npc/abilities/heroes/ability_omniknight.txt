@@ -1,0 +1,197 @@
+"DOTAAbilities"
+{
+    "Primary_purification"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "omniknight_purification"
+        "ScriptFile"               "skills/Primary_purification"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_AOE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.2"
+        "AbilityCastAnimation"     "ACT_DOTA_CHANNEL_ABILITY_1"
+        "AbilityCooldown"          "10 9 8 7 6"
+        "AbilityManaCost"          "200"
+        "AbilityCastRange"         "600"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_purification_cast.vpcf"
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_purification.vpcf"
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_purification_hit.vpcf"
+        }
+        "AbilityValues"
+        {
+            "basic_damage"    "100 150 200 250 300"
+            "bonus_damage"    "1 1.3 1.6 1.9 2.2"
+            "radius"          "350"
+        }
+    }
+    "Middle_purification"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "omniknight_purification"
+        "ScriptFile"               "skills/Middle_purification"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_AOE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.2"
+        "AbilityCastAnimation"     "ACT_DOTA_CHANNEL_ABILITY_1"
+        "AbilityCooldown"          "6 5.5 5"
+        "AbilityManaCost"          "200"
+        "AbilityCastRange"         "600"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_purification_cast.vpcf"
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_purification.vpcf"
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_purification_hit.vpcf"
+        }
+        "AbilityValues"
+        {
+            "basic_damage"    "300 350 400"
+            "bonus_damage"    "2.2 2.5 2.8"
+            "radius"          "350"
+        }
+    }
+    "Advanced_purification"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "omniknight_purification"
+        "ScriptFile"               "skills/Advanced_purification"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_AOE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.2"
+        "AbilityCastAnimation"     "ACT_DOTA_CHANNEL_ABILITY_1"
+        "AbilityCooldown"          "5"
+        "AbilityManaCost"          "200"
+        "AbilityCastRange"         "600"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_purification_cast.vpcf"
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_purification.vpcf"
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_purification_hit.vpcf"
+        }
+        "AbilityValues"
+        {
+            "basic_damage"      "400"
+            "bonus_damage"      "3"
+            "radius"            "350"
+            "advanced_level"    "1"
+        }
+    }
+    "Primary_repel"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "omniknight_repel"
+        "ScriptFile"               "skills/Primary_repel"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.2"
+        "AbilityCastAnimation"     "ACT_DOTA_CHANNEL_ABILITY_1"
+        "AbilityCooldown"          "20 19 18 17 16"
+        "AbilityManaCost"          "130"
+        "AbilityCastRange"         "600"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_repel_cast.vpcf"
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_repel_buff.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_str"      "8 14 20 26 32"
+            "bonus_res"      "50"
+            "bonus_regen"    "15 20 25 30 35"
+            "duration"       "10"
+        }
+    }
+    "Middle_repel"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "omniknight_repel"
+        "ScriptFile"               "skills/Middle_repel"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.2"
+        "AbilityCastAnimation"     "ACT_DOTA_CHANNEL_ABILITY_1"
+        "AbilityCooldown"          "16 15 14"
+        "AbilityManaCost"          "130"
+        "AbilityCastRange"         "600"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_repel_cast.vpcf"
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_repel_buff.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_str"      "32 38 44"
+            "bonus_res"      "50"
+            "bonus_regen"    "35 45 55"
+            "duration"       "10"
+        }
+    }
+    "Advanced_repel"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "omniknight_repel"
+        "ScriptFile"               "skills/Advanced_repel"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.2"
+        "AbilityCastAnimation"     "ACT_DOTA_CHANNEL_ABILITY_1"
+        "AbilityCooldown"          "14"
+        "AbilityManaCost"          "130"
+        "AbilityCastRange"         "600"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_repel_cast.vpcf"
+            "particle"    "particles/units/heroes/hero_omniknight/omniknight_repel_buff.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_str"         "45"
+            "bonus_res"         "50"
+            "bonus_regen"       "55"
+            "duration"          "10"
+            "advanced_level"    "1"
+        }
+    }
+}

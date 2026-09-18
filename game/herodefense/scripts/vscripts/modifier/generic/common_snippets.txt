@@ -1,0 +1,80 @@
+local enemies = FindUnitsInRadius(parentUnit,
+				centerPosition,
+				nil,
+				radius,
+				DOTA_UNIT_TARGET_TEAM_ENEMY,
+				DOTA_UNIT_TARGET_HERO + DOTA_UNIT_TARGET_BASIC,
+				DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES,
+				FIND_ANY_ORDER,
+				false)
+
+-----------------------------------------------------------------------------------------------
+
+local info = {
+		Target = target,
+		Source = caster,
+		Ability = self,	
+		EffectName = projectile_name,
+		iMoveSpeed = projectile_speed,
+		bReplaceExisting = false,                         -- Optional
+		bProvidesVision = true,                           -- Optional
+		iVisionRadius = projectile_vision,				-- Optional
+		iVisionTeamNumber = caster:GetTeamNumber()  ,      -- Optional
+		ExtraData = {},
+	}
+ProjectileManager:CreateTrackingProjectile(info)
+
+-----------------------------------------------------------------------------------------------
+
+function modifier_name:DeclareFunctions()
+	local funcs = {
+		MODIFIER_PROPERTY_BLAH,		
+	}
+
+	return funcs
+end
+
+-----------------------------------------------------------------------------------------------
+
+LinkLuaModifier( "modifier_name", "pathfinder/path/filename", LUA_MODIFIER_MOTION_NONE )
+
+
+-----------------------------------------------------------------------------------------------
+
+
+function ability_name:Spawn()
+	if not IsServer() then return end
+	local this = self
+	Timers(2, function()
+		if IsValidEntity(this) and this:GetCaster():FindAbilityByName("name") then
+			self:GetCaster():AddNewModifier(self:GetCaster(), self, "modifier_name", {})
+			return nil			
+		else
+			return 2
+		end
+	end)	
+end
+
+
+
+-----------------------------------------------------------------------------------------------
+
+function modifier_jakiro_sepcial_ice_path_fast:CheckState()
+	if not IsServer() then return end
+	local state = {
+		[MODIFIER_STATE_UNSLOWABLE] = true,
+		[MODIFIER_STATE_NO_UNIT_COLLISION] = true,
+		[MODIFIER_STATE_FLYING_FOR_PATHING_PURPOSES_ONLY] = true,
+	}
+
+	return state
+end
+
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------

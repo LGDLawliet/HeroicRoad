@@ -1,0 +1,35 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_Operators = [  ]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/dragon_slave/unlock3/effect_lock_hellborn_grasp_staff_rope_smoke.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/dragon_slave/unlock3/effect_lock_hellborn_grasp_staff_candle_flame_const.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/dragon_slave/unlock3/effect_lock_hellborn_grasp_staff_flame_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/dragon_slave/unlock3/effect__hlbrn_a_embers.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/dragon_slave/unlock3/effect__hlbrn_a_flash.vpcf"
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_nHeadLocation = 3
+			m_vecCP1Pos = [ 0.0, 0.0, 0.0 ]
+			m_nCP1 = 0
+		},
+	]
+	m_nBehaviorVersion = 12
+}

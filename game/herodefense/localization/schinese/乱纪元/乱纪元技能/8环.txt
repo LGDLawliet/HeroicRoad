@@ -1,0 +1,761 @@
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_chronocube"	"时间魔方"
+"DOTA_Tooltip_ability_chaotic_chronocube_Description"	"指定一处由方形区域组成的网格。你可以自行安排各方形区域的组合方式，而每个方形区域必须至少有一面与其他方形区域相连。第一次释放技能后你将需要在接下来的%time_require%秒内指定完余下的区域，如果没有完全指定，每个剩余的区块会减少%cooldown_reduction%%%技能冷却时间，但最多只会减少%cooldown_reduction_max%%%。处于网格中的敌人将无法行动，离开网格后会受到一次伤害。"
+"DOTA_Tooltip_ability_chaotic_chronocube_Lore"	"在超高等时间法术中，存在着在主位面之外创造一个独立的四次元空间的技能，而这个法术则是做到这一点的必学技能，只有学会了如何切分时空后，才可以组装空间。"
+"DOTA_Tooltip_ability_chaotic_chronocube_base_damage"	"基础伤害："
+"DOTA_Tooltip_ability_chaotic_chronocube_bonus_damage"	"额外伤害：主属性 × "
+"DOTA_Tooltip_ability_chaotic_chronocube_duration"	"持续时间："
+
+
+"DOTA_Tooltip_modifier_chaotic_chronocube_debuff"                   "时间魔方"
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_chronocube_width"	"方形网格半边长："
+"DOTA_Tooltip_ability_chaotic_chronocube_count"	"方形数："
+"DOTA_Tooltip_modifier_chaotic_chronocube_buff"                   "剩余时间魔方"
+
+
+
+
+"HUD_Spell_Rune_chaotic_chronocube_cooldown_reduction"  "每剩余方块冷却时间减少"
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_chronocube_rune_1"              "空间掌握"
+"DOTA_Tooltip_ability_chaotic_chronocube_rune_1_Description"  "方形数增加%rune_1_bonus%"
+
+
+"DOTA_Tooltip_ability_chaotic_chronocube_rune_2"              "异步空间"
+"DOTA_Tooltip_ability_chaotic_chronocube_rune_2_Description"  "区域内的敌人获得攻击免疫与魔法免疫，单结算伤害提升%rune_2_bonus%%%"
+
+
+
+
+
+
+// "DOTA_Tooltip_ability_chaotic_abi_dalzims_horrid_wilting"	"亚比达奇凋死术"
+// "DOTA_Tooltip_ability_chaotic_abi_dalzims_horrid_wilting_Description"	"指定一个点，以其为中心的一个区域内的生物将被你抽干水分。对不死者无效，同时对植物系类生物和水元素只能造成%damage_mul%%%的伤害。"
+// "DOTA_Tooltip_ability_chaotic_abi_dalzims_horrid_wilting_Lore"	"最为强大的死灵法术之一，在最高规格的战场中也是经常被使用的法术，但由于对抗植物系与水系个体有着劣势，也很容易被针对。"
+
+
+
+
+
+// 防护
+"DOTA_Tooltip_ability_chaotic_holy_aura"	"圣洁灵光"
+"DOTA_Tooltip_ability_chaotic_holy_aura_Description"	"神圣的光芒从你身体中奔涌而出，在你身边汇聚成柔光，使你获得视野加成。同时离你最近的数个敌人将散发出微光，你与你的队友对其攻击可造成额外伤害。任意处于负面状态下的敌人死亡后，灵光将产生爆发，使其周围的友军陷入目盲，攻击有几率丢失。"
+"DOTA_Tooltip_ability_chaotic_holy_aura_Lore"	"在传奇领域，这种法术被用来针对邪魔生物与不死生物，九成的邪魔与不死生物都对光耀属性的法术十分惧怕。"
+
+
+
+"DOTA_Tooltip_ability_chaotic_holy_aura_count"	"影响目标数："
+"DOTA_Tooltip_ability_chaotic_holy_aura_bonus_damage"	"%微光受到额外最终伤害："
+"DOTA_Tooltip_ability_chaotic_holy_aura_radius"	"灵光范围："
+"DOTA_Tooltip_ability_chaotic_holy_aura_miss_chance"	"%丢失几率："
+"DOTA_Tooltip_ability_chaotic_holy_aura_bonus_vision"	"额外视野："
+"DOTA_Tooltip_ability_chaotic_holy_aura_duration"	"柔光持续时间："
+
+"DOTA_Tooltip_ability_chaotic_holy_aura_debuff_duration"	"致盲持续时间："
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_holy_aura_buff"                   "圣洁灵光"
+"DOTA_Tooltip_modifier_chaotic_holy_aura_buff_Description"       "视野距离增加%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"DOTA_Tooltip_modifier_chaotic_holy_aura_debuff"                   "微光"
+"DOTA_Tooltip_modifier_chaotic_holy_aura_debuff_Description"       "受到额外伤害" 
+
+
+
+"DOTA_Tooltip_modifier_chaotic_holy_aura_debuff2"                   "目盲"
+"DOTA_Tooltip_modifier_chaotic_holy_aura_debuff2_Description"       "攻击有%dMODIFIER_PROPERTY_TOOLTIP%%%几率丢失" 
+
+"DOTA_Tooltip_ability_chaotic_holy_aura_rune_1"              "圣洁回赠"
+"DOTA_Tooltip_ability_chaotic_holy_aura_rune_1_Description"  "死于微光状态下的敌人可以使你的当前技能冷却时间减少%rune_1_bonus%%%"
+
+
+
+"DOTA_Tooltip_ability_chaotic_holy_aura_rune_2"              "邪恶消除"
+"DOTA_Tooltip_ability_chaotic_holy_aura_rune_2_Description"  "对于不死者敌人，额外最终伤害增幅效果为%rune_2_bonus%倍"
+
+
+
+
+// 咒法
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud"	"焚云术"
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_Description"	"在目标地点创造一片灼热烟云，每秒对其内的敌人施加<font color='#cd5c5c'>灼伤</font>，其内的敌人会随时间严重窒息，移动速度降低并受到来自烟云更高的<font color='#cd5c5c'>灼伤</font>效果。<br><br>距离烟云超过%distance%距离时，烟云会以%move_speed%码每秒的速度缓慢跟随你。"
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_Lore"	"普通的烈焰能消耗氧气使人窒息，而这种焚云则还能同时造成巨大的火焰伤害，对于大范围敌人可以产生巨大的效果。"
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_base_damage"	"基础灼伤施加："
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_bonus_damage"	"额外灼伤施加：主属性 × "
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_gain_per_tick"	"%窒息每秒灼伤增幅："
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_max_gain_per_tick"	"%窒息最大灼伤增幅："
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_move_slow"	"窒息移动速度降低："
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_radius"	"烟云范围："
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_duration"	"持续时间："
+"DOTA_Tooltip_modifier_chaotic_incendiary_cloud_debuff"                   "窒息"
+"DOTA_Tooltip_modifier_chaotic_incendiary_cloud_debuff_Description"       "移动速度减少%dMODIFIER_PROPERTY_TOOLTIP%点" 
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_rune_1"              "不朽Ⅰ：浓烟滚滚"
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_rune_1_Description"  "烟云不移动时，每秒其减速效果增加%rune_1_bonus%%% [+]"
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_rune_2"              "不朽Ⅱ：含氧提升"
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_rune_2_Description"  "提升烟云内的易燃性，使其内的敌人受到的火属性伤害增加%rune_2_bonus%%%"
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_rune_3"              "不朽Ⅲ：毒烟"
+"DOTA_Tooltip_ability_chaotic_incendiary_cloud_rune_3_Description"  "烟云会同时施加<font color='#90ee90'>中毒</font>，施加量相当于<font color='#cd5c5c'>灼伤</font>的%rune_3_poison%%%"
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_earthquake"	"地震术"
+"DOTA_Tooltip_ability_chaotic_earthquake_Description"	"你在施法距离内一处能看见的地面上指定一点，并在其上制造地震扰动。在法术持续时间内，一阵强烈的震颤在震源周边一个圆形范围内传递。​ 该区域将持续性产生裂缝，并震击，对处于裂缝处的敌人造成伤害与减速效果。"
+"DOTA_Tooltip_ability_chaotic_earthquake_Lore"	"与沙王的绝招不同，这是通过注入魔力的方式创造出一个能量点，并持续性的向四周传到能量而产生地震的效果，本身并无法跟随施法者移动。"
+
+"DOTA_Tooltip_ability_chaotic_earthquake_base_damage"	"☆基础伤害："
+"DOTA_Tooltip_ability_chaotic_earthquake_bonus_damage"	"☆额外伤害：主属性 × "
+"DOTA_Tooltip_ability_chaotic_earthquake_interval"	"裂缝产生间隔："
+"DOTA_Tooltip_ability_chaotic_earthquake_length"	"裂缝长度："
+"DOTA_Tooltip_ability_chaotic_earthquake_move_slow"	"移速减缓："
+"DOTA_Tooltip_ability_chaotic_earthquake_move_slow_duration"	"移速减缓持续时间："
+"DOTA_Tooltip_ability_chaotic_earthquake_radius""作用范围："    
+"DOTA_Tooltip_ability_chaotic_earthquake_duration"	"持续时间："
+
+
+"DOTA_Tooltip_modifier_chaotic_earthquake_debuff"                   "地震术"
+"DOTA_Tooltip_modifier_chaotic_earthquake_debuff_Description"       "移动速度减缓%dMODIFIER_PROPERTY_TOOLTIP%"
+
+
+
+"DOTA_Tooltip_ability_chaotic_earthquake_rune_1"              "失衡"
+"DOTA_Tooltip_ability_chaotic_earthquake_rune_1_Description"  "地震造成伤害%rune_1_chance%%%几率使敌人失衡，对于失衡的敌人再次触发失衡失则触发%rune_1_stun_duration%秒眩晕，对失衡敌人造成额外%rune_1_bonus_damage%%%伤害，对眩晕敌人造成额外%rune_1_bonus_damage%%%伤害"
+
+
+"DOTA_Tooltip_modifier_chaotic_earthquake_rune_1_debuff"                   "失衡"
+
+
+"DOTA_Tooltip_ability_chaotic_earthquake_rune_2"              "局部动荡"
+"DOTA_Tooltip_ability_chaotic_earthquake_rune_2_Description"  "地震术的第一次释放将永久生效，此区域有永久地震术效果，但伤害减少%rune_2_reduction%%%"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_feeblemind"	"弱智术"
+"DOTA_Tooltip_ability_chaotic_feeblemind_Description"	"指定一个敌人，并尝试摧毁其理智与人格，对目标造成一次暗属性伤害后，使其陷入沉默，同时在此后目标受到该技能的伤害将大幅度提升。"
+"DOTA_Tooltip_ability_chaotic_feeblemind_Lore"	"让我来看看谁是噬脑怪理都不想理的人。"
+
+"DOTA_Tooltip_ability_chaotic_feeblemind_base_damage"	"基础伤害："
+"DOTA_Tooltip_ability_chaotic_feeblemind_bonus_damage"	"额外伤害：主属性 × "
+"DOTA_Tooltip_ability_chaotic_feeblemind_bonus_spell_damage"	"%额外受到技能伤害："
+"DOTA_Tooltip_ability_chaotic_feeblemind_duration"	"持续时间："
+
+
+"DOTA_Tooltip_ability_chaotic_feeblemind_cast_range"	"施法距离："
+
+
+
+"DOTA_Tooltip_modifier_chaotic_feeblemind"                   "弱智术"
+"DOTA_Tooltip_modifier_chaotic_feeblemind_Description"       "被沉默" 
+
+
+"HUD_Spell_Rune_chaotic_feeblemind_count"  "强化施法作用目标数"
+
+"DOTA_Tooltip_ability_chaotic_feeblemind_rune_1"              "高效"
+"DOTA_Tooltip_ability_chaotic_feeblemind_rune_1_Description"  "强化施法的额外魔法消耗可以减少%rune_1_cost_reduce%%%"
+
+
+"DOTA_Tooltip_ability_chaotic_feeblemind_rune_2"              "智力窃取"
+"DOTA_Tooltip_ability_chaotic_feeblemind_rune_2_Description"  "弱智术每次造成伤害可以获得%rune_2_bonus%点临时智力加成，持续%rune_2_duration%秒，但每%rune_2_stack%会降低1秒持续时间"
+
+"DOTA_Tooltip_modifier_chaotic_feeblemind_rune_2_buff"                   "智力窃取"
+"DOTA_Tooltip_modifier_chaotic_feeblemind_rune_2_buff_Description"       "智力提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_ability_chaotic_feeblemind_rune_3"              "大脑震荡"
+"DOTA_Tooltip_ability_chaotic_feeblemind_rune_3_Description"  "你每次释放的弱智术默认增幅条件成立，且伤害将额外附加你当前魔法的%rune_3_bonus%%%，但每影响一名目标，你的智力会减少%rune_3_reduction%点，独立叠加持续%rune_3_duration%秒"
+
+"DOTA_Tooltip_modifier_chaotic_feeblemind_rune_3_debuff"                   "大脑震荡"
+"DOTA_Tooltip_modifier_chaotic_feeblemind_rune_3_debuff_Description"       "智力减少%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+// 咒法
+"DOTA_Tooltip_ability_chaotic_tsunami"	"海啸术"
+"DOTA_Tooltip_ability_chaotic_tsunami_Description"	"​你以矢量为目标，召唤一道水墙。​ 进入水墙的敌人会立即受到一次伤害。水墙出现后，处于水墙边缘的敌人都将被持续推远，方向为你与墙面的垂直角度。对于体型巨大的生物效果较差，每秒都会造成一次伤害。水墙每对一个敌人造成伤害，其伤害与击退效果会减少些许，归零时水墙会提前消失。<br><br>当一次性影响到%max_count%个目标时，水墙将无法生效。"
+"DOTA_Tooltip_ability_chaotic_tsunami_Lore"	"最初人们在亚特兰蒂斯的神庙中发现了这项法术的卷轴，经过解析后人们复现了这种法术，据研究所中的研究人员所透露，这似乎是波塞冬所发明的。"
+"DOTA_Tooltip_ability_chaotic_tsunami_base_damage" "基础伤害："
+"DOTA_Tooltip_ability_chaotic_tsunami_bonus_damage_index"	"额外伤害：主属性 × "
+"DOTA_Tooltip_ability_chaotic_tsunami_effect_reduce"	"%每次效果减少："
+"DOTA_Tooltip_ability_chaotic_tsunami_move_speed"	"推远速度："
+"DOTA_Tooltip_ability_chaotic_tsunami_vector_distance_min"	"墙壁长度："
+"DOTA_Tooltip_ability_chaotic_tsunami_vector_radius"	"墙壁厚度："
+"DOTA_Tooltip_ability_chaotic_tsunami_duration"	"持续时间："
+
+"DOTA_Tooltip_ability_chaotic_tsunami_rune_1"              "强效"
+"DOTA_Tooltip_ability_chaotic_tsunami_rune_1_Description"  "初始效果提升%rune_1_bonus%%%"
+
+"DOTA_Tooltip_ability_chaotic_tsunami_rune_2"              "通天河"
+"DOTA_Tooltip_ability_chaotic_tsunami_rune_2_Description"  "将产生两道水墙，另一道水墙将以相反反向推远目标，两道水墙共享一个能量池"
+
+
+"DOTA_Tooltip_ability_chaotic_caustic_torrent"	"腐蚀性洪流"
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_Description"	"一道%distance%长度的酸液激流从你身上向选择的方向喷射，对命中的敌人造成伤害并施加中毒效果，同时这条线会释放出有毒烟雾，进一步对线上的敌人施加后续毒素。"
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_Lore"	"这种恶毒的法术被善良阵营的人们所厌恶，在大部分情况下，都是与那些邪恶的巫妖战斗时被其所使用。被这种法术所影响的生物，首先皮肤会溃烂，体质差的那些会立刻暴毙而亡，体质稍好的那些则会在痛苦中逐渐失去生命。"
+
+
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_base_damage"	"☆基础伤害："
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_bonus_damage"	"☆额外伤害：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_poison_apply"	"☆中毒施加："
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_bonus_poison_apply"	"☆中毒施加：主属性 × "
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_radius"	"射线宽度："
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_path_bonus_poison_apply"	"路径每秒中毒施加：主属性 × "
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_thinker_duration"	"路径持续时间："
+
+
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_rune_1"              "腐蚀激发"
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_rune_1_Description"  "对命中的敌人激发一次毒效果，伤害为当前毒层数x%rune_1_bonus%"
+
+
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_rune_2"              "腐蚀倍增"
+"DOTA_Tooltip_ability_chaotic_caustic_torrent_rune_2_Description"  "处于路径上的敌人所受毒伤害增加%rune_2_bonus%%%"
+
+"DOTA_Tooltip_modifier_chaotic_caustic_torrent_rune_2_debuff"                   "腐蚀倍增"
+"DOTA_Tooltip_modifier_chaotic_caustic_torrent_rune_2_debuff_Description"       "受到毒伤害增加%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire"	"天降圣雨"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_Description"	"以圣父代行者之名在目标区域降下圣雨，对敌人持续造成<font color='#9370db'>驱散</font>和圣属性伤害，对友军施加<font color='#9370db'>魔法免疫</font>。<br><br>圣雨会直接杀死生命值较低的敌人。"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_Lore"	"天空分开，大地颤抖，直至将不洁与邪恶彻底消灭。"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_Note0"	"<font color='#606060'>多个圣雨可同时生效。</font>"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_radius"	"作用范围："
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_damage_interval"	"作用间隔："
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_base_damage"	"☆基础伤害："
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_bonus_damage"	"☆额外伤害：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_health_require"	"%即死生命值阈值："
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_immune_duration"	"魔法免疫持续时间："
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_rune_1"              "不朽Ⅰ：拔除邪祟"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_rune_1_Description"  "天降圣雨击杀敌人时，有%rune_1_chance%%%几率立即触发下一次效果"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_rune_2"              "不朽Ⅱ：神之代行者"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_rune_2_Description"  "天降圣雨期间，你造成的所有圣属性伤害总增%rune_2_bonus%%% [×]"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_rune_3"              "不朽Ⅲ：普世恩赐"
+"DOTA_Tooltip_ability_chaotic_rain_of_holy_fire_rune_3_Description"  "天降圣雨的作用间隔减少%rune_3_interval%秒，且释放时有%rune_3_chance%%%几率使作用范围总增%rune_3_radius%%% [×]"
+"DOTA_Tooltip_modifier_chaotic_rain_of_holy_fire_immune"                   "天降圣雨：魔法免疫"
+"DOTA_Tooltip_modifier_chaotic_rain_of_holy_fire_rune_2_buff"                   "神之代行者"
+"DOTA_Tooltip_modifier_chaotic_rain_of_holy_fire_rune_2_buff_Description"       "圣属性伤害总增%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_brilliant_light_dancing_in_disorder"	"绚光乱舞"
+"DOTA_Tooltip_ability_chaotic_brilliant_light_dancing_in_disorder_Description"	"以释放点为中心展开剑域，幻化出%number%把利剑在剑域内横冲直撞，每次命中目标都会造成大量伤害。利剑会在目的地停留%duration%秒，随后再次向中心点横冲直撞，造成二次伤害。"
+"DOTA_Tooltip_ability_chaotic_brilliant_light_dancing_in_disorder_Lore"	"看这飞舞的剑光，在点缀的红色中是多么的璀璨。"
+"DOTA_Tooltip_ability_chaotic_brilliant_light_dancing_in_disorder_radius"	"影响范围："
+"DOTA_Tooltip_ability_chaotic_brilliant_light_dancing_in_disorder_bonus_damage"	"命中伤害：攻击力 x"
+
+// 弃用技能
+"DOTA_Tooltip_ability_chaotic_falling_sword_technique"	"落剑术"
+"DOTA_Tooltip_ability_chaotic_falling_sword_technique_Description"	"当你对目标发动攻击时，有几率将战气化成利剑从天而降，对目标及其周围的单位造成额外伤害，处于边缘地区的敌人受到的伤害只有%damage_reduction%%%。"
+"DOTA_Tooltip_ability_chaotic_falling_sword_technique_Lore"	"战气的极限就是以气化形，当你练就这门技术后就没有多少敌手了。"
+"DOTA_Tooltip_ability_chaotic_falling_sword_technique_chance"	"%触发几率："
+"DOTA_Tooltip_ability_chaotic_falling_sword_technique_radius"	"总影响范围："
+"DOTA_Tooltip_ability_chaotic_falling_sword_technique_radius_min"	"全额伤害范围："
+"DOTA_Tooltip_ability_chaotic_falling_sword_technique_Bonus_damage"	"伤害值：全额攻击力 x "
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_attack_to_defend"	"以攻为守"
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_Description"	"一种放弃防守专注进攻的高超技法，以自身受到伤害增加为代价，获得攻击力与暴击伤害增益。"
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_Lore"	"攻守兼备是大多数战士所追求的目标，但在一些战局中，太过于追求防御反而可能造成长时间的僵持，那么唯有大胆的出招才能打破这种场面。"
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_increased_damage"	"%额外受到伤害："
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_crit_bonus"	        "%致命一击伤害加成："
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_bonus_attack_damage"	"基础攻击力加成："
+
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_rune_1"              "不朽Ⅰ：铁，血与汗水"
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_rune_1_Description"  "技能增强和召唤增强降低%rune_1_down%%%，基础攻击力增加%rune_1_bonus%点"
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_rune_2"              "不朽Ⅱ："
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_rune_3"              "不朽Ⅲ："
+"DOTA_Tooltip_ability_chaotic_attack_to_defend_rune_3_Description"  ""
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack"	"以守为攻"
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_Description"	"降低自身大量的攻击力进入防守状态，可抵消承受的伤害同时累积数值，每当承受的伤害高于阈值时，则将累积的伤害多倍回击给前方扇形范围的敌人。"
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_Lore"	"防守往往意味着无法对敌人造成太多伤害，只不过，有些强大的战士在面对敌人时会让对方先进攻，这是因为他作为最为强大的战士，已经没有主动出击的欲望了。"
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_damage_reduction"	"%抵消伤害："
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_attack_damage_reduction"	"%减少攻击力："
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_threshold"	"%伤害阈值：最大生命值 x"
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_damage_bonus"	"伤害加成倍数："
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_radius"	"扇形半径："
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_angle"	"扇形角度："
+
+"DOTA_Tooltip_modifier_chaotic_to_turn_defense_into_attack"              "以守为攻"
+"DOTA_Tooltip_modifier_chaotic_to_turn_defense_into_attack_Description"  "减少自身%dMODIFIER_PROPERTY_TOOLTIP%%%的攻击力，目前积累%dMODIFIER_PROPERTY_TOOLTIP%的阈值"
+
+
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_rune_1"              "强硬反震"
+"DOTA_Tooltip_ability_chaotic_to_turn_defense_into_attack_rune_1_Description"  "反馈累计伤害时变为一个圆"
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_avarice_blade"	"贪婪之刃"
+"DOTA_Tooltip_ability_chaotic_avarice_blade_Description"	"<h1>自动施法：融金武器</h1>攻击会消耗金币以附加伤害，以此击杀敌人时会回收部分金币。\n<h1>被动：财富的力量</h1>每通过'融金武器'消耗一定金币后，成长自身一定攻击力。"
+"DOTA_Tooltip_ability_chaotic_avarice_blade_Lore"	"猎杀吸血鬼时，需要使用银剑，而赏金猎人们一致研究如何利用金币来强化其武器，某次意外中，有一名学徒发现如果将金币磨成粉后可以触发某种魔法反应，于是这种战技就被研究出来了。"
+"DOTA_Tooltip_ability_chaotic_avarice_blade_gold_cost"	"金币消耗："
+"DOTA_Tooltip_ability_chaotic_avarice_blade_bonus_damage"	"附加伤害：全额攻击力 x "
+"DOTA_Tooltip_ability_chaotic_avarice_blade_bonus_gold"	"金币回收："
+"DOTA_Tooltip_ability_chaotic_avarice_blade_require"	"成长消耗需求："
+"DOTA_Tooltip_ability_chaotic_avarice_blade_bonus"	"成长攻击力："
+"DOTA_Tooltip_modifier_chaotic_avarice_blade"              "财富的力量"
+"DOTA_Tooltip_modifier_chaotic_avarice_blade_Description"  "攻击力增加%dMODIFIER_PROPERTY_TOOLTIP%点"
+"DOTA_Tooltip_ability_chaotic_avarice_blade_rune_1"              "不朽Ⅰ：贪魔本性"
+"DOTA_Tooltip_ability_chaotic_avarice_blade_rune_1_Description"  "每持有%rune_1_line%金币，你的攻击伤害就会提高%rune_1_bonus%%% [+]"
+"DOTA_Tooltip_ability_chaotic_avarice_blade_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_avarice_blade_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_avarice_blade_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_avarice_blade_rune_3_Description"  ""
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress"	"不落要塞"
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_Description"	"被动提供伤害减免，被减免的伤害将被吸收为能量，每当你吸收一定的伤害后，获得永久防御力加成。 主动开启技能后，再接下来一段时间你无法做出任何动作，相对的，伤害减免效果会大幅度提升，并且攻击你的敌人受到返还伤害。"
+
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_Lore"	"就像一座永远无法攻破的要塞一般，没有人可以击碎你的防御。"
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_Note0"	"额外的说明：在主动状态下将忽略破坏效果。"
+
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_damage_reduction"	"%伤害减免："
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_damage_threshold"	"%吸收伤害需求：最大生命值 x "
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_bonus_armor"	"每层防御力加成： "
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_bonus_armor_max"	"防御力加成上限："
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_bonus_damage_reduction"	"%伤害减免提高至："
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_bonus_damage"	"返还伤害：防御力 x"
+
+"DOTA_Tooltip_modifier_chaotic_not_falling_fortress"	"不落要塞"
+"DOTA_Tooltip_modifier_chaotic_not_falling_fortress_Description"	"伤害减免提升%dMODIFIER_PROPERTY_TOOLTIP%%%，防御力提升%dMODIFIER_PROPERTY_TOOLTIP%"
+
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_rune_1"              "移动要塞"
+"DOTA_Tooltip_ability_chaotic_not_falling_fortress_rune_1_Description"  "解除无法做出任何动作的限制"
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element"	"精灵召唤：星辰土元素"
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_Description"	"召唤星辰土元素，具备极高的防御能力，攻击力能低，但能将其防御力转化为攻击，被召唤后会对自身施展一次四环石肤术。"
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_Lore"	"这种土元素常年被星辰之光所照耀，久而久之，其体表也寄宿了星体的力量。"
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_Note0"	"额外的说明：借此施展的技能采取攻击力作为伤害而非主属性。"
+
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_base_health"	"☆基础生命值："
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_base_armor"	"☆基础防御力："
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_bonus_damage"	"%攻击力继承："
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_bonus_health"	"%生命值继承："
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_bonus_armor"	"%护甲值继承："
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_armor_to_damage"	"每点护甲转化为攻击伤害："
+// "DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_interval"	"闪电束释放间隔："
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_max_count"	"最大同时召唤数："
+
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_rune_1"              "星辰拳"
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_rune_1_Description"  "在登场后的前%rune_1_duration%秒，提升%rune_1_bonus%攻击速度"
+
+"DOTA_Tooltip_modifier_chaotic_summon_astral_earth_element_buff_rune_1_buff"	"星辰拳"
+"DOTA_Tooltip_modifier_chaotic_summon_astral_earth_element_buff_rune_1_buff_Description"	"攻击速度提升%dMODIFIER_PROPERTY_TOOLTIP%"
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_rune_2"              "星曜"
+"DOTA_Tooltip_ability_chaotic_summon_astral_earth_element_rune_2_Description"  "土元素不再会攻击，在不移动状态下会持续性释放星体的能量，每%rune_2_interval%秒对周围%rune_2_radius%范围至多%rune_2_count%个单位造成一次攻击效果"
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker"	"契约召唤：尖牙追寻者"
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_Description"	"召唤一只带毒蜘蛛，蜘蛛的攻击附带毒素，且每经过一定次数的攻击后可以激发一次毒伤害。蜘蛛可以穿越地形移动。"
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_Lore"	"在幽暗洞穴栖息的巨型蜘蛛，其毒素极强，并且可以其攻击可以充当催化剂来使敌人身上的毒素被激发。"
+// "DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_Note0"	"额外的说明：借此施展的技能采取攻击力作为伤害而非主属性。"
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_base_damage"	"☆基础攻击力："
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_base_health"	"☆基础生命值："
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_base_armor"	"☆基础防御："
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_bonus_damage"	"%攻击力继承："
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_bonus_health"	"%生命值继承："
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_bonus_armor"	"%护甲值继承："
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_require_count"	"激发毒素需要攻击次数："
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_poison_active_index"	"激发毒伤害倍数:"
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_poison_index"	"%毒素施加：全额攻击力x:"
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_max_count"	"最大同时召唤数："
+
+
+"DOTA_Tooltip_modifier_chaotic_summon_insects_fanged_seeker_buff"	"毒牙"
+"DOTA_Tooltip_modifier_chaotic_summon_insects_fanged_seeker_buff_Description"	"攻击可以附加毒素"
+
+
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_rune_1"	"恶性瘟疫"
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_rune_1_Description"	"将累计施加的毒素，在召唤物消失时会产生爆炸瘟疫，将累计值%rune_1_bonus%%%的毒素施加给周围%rune_1_radius%的敌人"
+
+
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_rune_2"	"毒液注入"
+"DOTA_Tooltip_ability_chaotic_summon_insects_fanged_seeker_rune_2_Description"	"尖牙追寻者的第一次攻击可以注入一次毒液，目标每秒将被施加等同于追寻者全额攻击力%rune_2_bonus%%%的毒，持续%rune_2_duration%秒"
+
+
+
+"DOTA_Tooltip_modifier_chaotic_summon_insects_fanged_seeker_rune_2_debuff"	"毒液注入"
+"DOTA_Tooltip_modifier_chaotic_summon_insects_fanged_seeker_rune_2_debuff_Description"	"每秒注入毒素"
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_element_fire"	"元素球：火"
+"DOTA_Tooltip_ability_chaotic_element_fire_Description"	"被动提高你的全额攻击力和技能增强，同时你造成的火属性伤害提高 [×]。"
+"DOTA_Tooltip_ability_chaotic_element_fire_Lore"	"祈求者的三大起源之一"
+"DOTA_Tooltip_ability_chaotic_element_fire_outgoing_fire"	"%火属性伤害提高："
+"DOTA_Tooltip_ability_chaotic_element_fire_bonus_attack"	"%全额攻击力增加："
+"DOTA_Tooltip_ability_chaotic_element_fire_bonus_spell_amp_mult"	"%技能增强总增："
+"DOTA_Tooltip_modifier_chaotic_element_fire_rune_1"	"点燃"
+"DOTA_Tooltip_modifier_chaotic_element_fire_rune_1_Description"	"护甲和魔法抗性降低"
+"DOTA_Tooltip_modifier_chaotic_element_fire"	"新生光焰"
+"DOTA_Tooltip_modifier_chaotic_element_fire_Description"	"造成的伤害增加"
+"DOTA_Tooltip_ability_chaotic_element_fire_rune_1"              "不朽Ⅰ：点燃"
+"DOTA_Tooltip_ability_chaotic_element_fire_rune_1_Description"  "火属性伤害会降低单位%rune_1_armor%点护甲和%rune_1_magic_res%%%魔法抗性，持续%rune_1_duration%秒"
+"DOTA_Tooltip_ability_chaotic_element_fire_rune_2"              "不朽Ⅱ：火山"
+"DOTA_Tooltip_ability_chaotic_element_fire_rune_2_Description"  "每秒对周围%rune_2_radius%范围内最近的%rune_2_num%个敌人发射火焰弹，造成主属性×%rune_2_burning%的<font color='#cd5c5c'>灼伤</font>施加"
+"DOTA_Tooltip_ability_chaotic_element_fire_rune_3"              "不朽Ⅲ：新生光焰"
+"DOTA_Tooltip_ability_chaotic_element_fire_rune_3_Description"  "受到敌人的有效伤害时，若实际伤害超过自身最大生命值的%rune_3_line%%%，则会成长自身%rune_3_outgoing_grow%%%伤害 [+]，这个效果每%rune_3_interval%秒至多触发一次"
+
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger"	"战斗饥渴"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_Description"	"点燃目标及其%radius%范围内的敌人的内心，使其每秒受到火属性伤害，伤害会随施法者的最大生命值增加而提高，同时每个受到影响的敌人会为施法者提供伤害减免。"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_Lore"	"时空的乱流使技能发生异化。"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_damage"	"基础伤害："
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_extra_damage"	"额外伤害：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_hp_damage"	"%额外伤害：自身最大生命值 x"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_incoming_each"	"%单个伤害减免："
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_incoming_max"	"%最大伤害减免："
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_duration"	"持续时间："
+"DOTA_Tooltip_modifier_chaotic_Battle_Hunger_enemy"	"战斗饥渴"
+"DOTA_Tooltip_modifier_chaotic_Battle_Hunger_enemy_Description"	"每秒受到火属性纯粹伤害"
+"DOTA_Tooltip_modifier_chaotic_Battle_Hunger_caster"	"战斗饥渴"
+"DOTA_Tooltip_modifier_chaotic_Battle_Hunger_caster_Description"	"从战斗饥渴中获取%dMODIFIER_PROPERTY_TOOLTIP%%%伤害减免"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_rune_1"              "不朽Ⅰ：咆哮"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_rune_1_Description"  "转为无目标技能，对自身周围%rune_1_radius%%%原范围内的敌人施加效果，且的持续时间延长%rune_1_duration%秒"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_Battle_Hunger_rune_3_Description"  ""
+
+
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form"	"火龙形态"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_Description"	"向目标方向最远%length%码喷吐扇形火焰，对敌人造成火属性物理伤害，随后使自身转变为火龙形态。<br><br>火龙形态：获得额外攻击距离、额外攻击力和普通攻击溅射效果，同时普通攻击会触发%damage_index%%%伤害的扇形火焰，最短触发间隔为%cd%秒。"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_Lore"	"时空的乱流导致了技能的异化。"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_Note0"	"<font color='#606060'>形态转换会移除其他变形；<br>自身攻击距离超过500时，仅获得20%攻击距离加成。</font>"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_fire_damage"	"扇形火焰伤害：全额攻击力 x"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_bonus_attack_range"	"额外攻击距离："
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_bonus_attack"	"额外攻击力："
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_cleave_radius"	"攻击溅射范围："
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_cleave_index"	"%攻击溅射倍率："
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_duration"	"火龙持续时间："
+"DOTA_Tooltip_modifier_chaotic_elder_dragon_form"	"火龙形态"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_rune_1"              "不朽Ⅰ：炎龙放歌"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_rune_1_Description"  "扇形火焰的射程基于你的攻击距离增加；每次触发扇形火焰时，有%rune_1_chance%%%几率不进入触发冷却"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_rune_2"              "不朽Ⅱ：炎爆攻击"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_rune_2_Description"  "'火龙形态'的溅射倍率提高%rune_2_cleave%%% [×]"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_elder_dragon_form_rune_3_Description"  ""
+
+//乱流：血怒
+"DOTA_Tooltip_ability_chaotic_Bloodrage"	"血怒"
+"DOTA_Tooltip_ability_chaotic_Bloodrage_Description"	"<h1>主动：血怒</h1>陷入渴血狂怒之中，每秒失去生命并失去大量护甲。作为交换，造成的物理伤害会爆发式提高并在持续时间内迅速衰减。\n<h1>被动：渴血</h1>被动提升自身的物理伤害 [×]。"
+"DOTA_Tooltip_ability_chaotic_Bloodrage_Lore"	"时空的乱流导致了技能的异化。"
+"DOTA_Tooltip_ability_chaotic_Bloodrage_outgoing_phy_pass"	"%被动物理伤害提高："
+"DOTA_Tooltip_ability_chaotic_Bloodrage_hp_cost"	"%每秒最大生命值流失："
+"DOTA_Tooltip_ability_chaotic_Bloodrage_armor_down"	"%护甲降低："
+"DOTA_Tooltip_ability_chaotic_Bloodrage_outgoing_phy"	"%主动物理伤害提高峰值："
+"DOTA_Tooltip_ability_chaotic_Bloodrage_duration"	"持续时间："
+"DOTA_Tooltip_modifier_chaotic_Bloodrage_buff"	"血怒"
+"DOTA_Tooltip_modifier_chaotic_Bloodrage_buff_Description"	"造成的物理伤害总增%dMODIFIER_PROPERTY_TOOLTIP%%%"
+"DOTA_Tooltip_ability_chaotic_Bloodrage_rune_1"              "不朽Ⅰ：永恒渴血"
+"DOTA_Tooltip_ability_chaotic_Bloodrage_rune_1_Description"  "转变为开关技能，同时血怒的主动效果最低衰减至%rune_1_outgoing_min%%%，并在关闭后进入原冷却时间"
+"DOTA_Tooltip_ability_chaotic_Bloodrage_rune_2"              "不朽Ⅱ：无尽毁灭"
+"DOTA_Tooltip_ability_chaotic_Bloodrage_rune_2_Description"  "主动效果持续期间，每损失%rune_2_hp%%%生命值都会使自身造成的暴击伤害提高%rune_2_crit%%% [+]"
+"DOTA_Tooltip_ability_chaotic_Bloodrage_rune_3"              "不朽Ⅲ：自我抑制"
+"DOTA_Tooltip_ability_chaotic_Bloodrage_rune_3_Description"  "转变为被动技能，被动效果提高%rune_3_index%%% [×]"
+
+"DOTA_Tooltip_ability_chaotic_false_promise"	"虚妄之诺"
+"DOTA_Tooltip_ability_chaotic_false_promise_Description"	"篡改目标友军英雄的命运，在一段时间内完全锁定其生命值，记录其所受伤害和所受恢复、治疗。<br><br>持续时间结束时清算记录值，记录结果为伤害且不超过作用目标最大生命值的一定倍率时，为目标至少保留部分最大生命值。"
+"DOTA_Tooltip_ability_chaotic_false_promise_Lore"	"时空的乱流导致了技能的异化。"
+"DOTA_Tooltip_ability_chaotic_false_promise_Note0"	"<font color='#606060'>清算伤害为纯粹伤害，不经过伤害修正；<br>生命流失、生命消耗不会生效，也不会被记录。</font>"
+"DOTA_Tooltip_ability_chaotic_false_promise_take_index"	"%伤害记录倍率："
+"DOTA_Tooltip_ability_chaotic_false_promise_heal_index"	"%恢复和治疗记录倍率："
+"DOTA_Tooltip_ability_chaotic_false_promise_line"	"%伤害阈值："
+"DOTA_Tooltip_ability_chaotic_false_promise_hp_min"	"%保留最大生命值："
+"DOTA_Tooltip_ability_chaotic_false_promise_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_false_promise_cd"	"冷却时间："
+"DOTA_Tooltip_ability_chaotic_false_promise_rune_1"              "不朽Ⅰ：暂无"
+"DOTA_Tooltip_ability_chaotic_false_promise_rune_1_Description"  ""
+"DOTA_Tooltip_ability_chaotic_false_promise_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_false_promise_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_false_promise_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_false_promise_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_summon_master"	"召唤式·第二个约定"
+"DOTA_Tooltip_ability_chaotic_summon_master_Description"	"以严苛的术式支配召唤兽，大幅提高召唤兽造成的伤害 [×]和自身的召唤增强，但召唤持续时间会急剧缩短。"
+"DOTA_Tooltip_ability_chaotic_summon_master_Lore"	"第二个约定协会认为，召唤兽只是一种魔力财产。"
+"DOTA_Tooltip_ability_chaotic_summon_master_bonus_summon"	"%召唤增强："
+"DOTA_Tooltip_ability_chaotic_summon_master_summon_time_down"	"%召唤时间减少："
+"DOTA_Tooltip_ability_chaotic_summon_master_bonus_summon_angry"	"%召唤兽伤害总增："
+"DOTA_Tooltip_modifier_chaotic_summon_master_active"	"第二个约定"
+"DOTA_Tooltip_modifier_chaotic_summon_master_active_Description"	"造成的伤害大幅提高"
+"DOTA_Tooltip_ability_chaotic_summon_master_rune_1"              "不朽Ⅰ：无情淘汰"
+"DOTA_Tooltip_ability_chaotic_summon_master_rune_1_Description"  "召唤时有%rune_1_chance%%%几率使此次'第二个约定'的伤害增益提高%rune_1_index%%% [×]，但此召唤兽的护甲也会降低%rune_1_armor%%% [+]"
+"DOTA_Tooltip_ability_chaotic_summon_master_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_summon_master_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_summon_master_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_summon_master_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_summon_crazy"	"召唤式·召唤兽狂化"
+"DOTA_Tooltip_ability_chaotic_summon_crazy_Description"	"使你的所有召唤兽立刻损失一定生命值，随后在一定时间内变得好战，大幅获得额外攻击速度、移动速度和攻击伤害吸血。"
+"DOTA_Tooltip_ability_chaotic_summon_crazy_Lore"	"第二个约定协会认为，召唤兽只是一种魔力财产。"
+"DOTA_Tooltip_ability_chaotic_summon_crazy_hp_cost"	"%召唤兽当前生命值流失："
+"DOTA_Tooltip_ability_chaotic_summon_crazy_speed"	"%狂化攻击速度提高："
+"DOTA_Tooltip_ability_chaotic_summon_crazy_move"	"%狂化移动速度提高："
+"DOTA_Tooltip_ability_chaotic_summon_crazy_steal"	"%狂化攻击伤害吸血："
+"DOTA_Tooltip_ability_chaotic_summon_crazy_duration"	"持续时间："
+"DOTA_Tooltip_modifier_chaotic_summon_crazy_active"	"狂化"
+"DOTA_Tooltip_modifier_chaotic_summon_crazy_active_Description"	"好战性、攻击速度和移动速度大幅提高"
+"DOTA_Tooltip_ability_chaotic_summon_crazy_rune_1"              "不朽Ⅰ：暂无"
+"DOTA_Tooltip_ability_chaotic_summon_crazy_rune_1_Description"  ""
+"DOTA_Tooltip_ability_chaotic_summon_crazy_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_summon_crazy_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_summon_crazy_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_summon_crazy_rune_3_Description"  ""
+"HUD_Spell_Rune_chaotic_summon_crazy_cooldown_time"  "冷却时间"
+
+"DOTA_Tooltip_ability_chaotic_arcane_orb"	"奥术天球"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_Description"	"自动施法：普通攻击可消耗自身一定当前魔法值，附带基于魔法消耗量的额外暗属性伤害。奥术天球击杀敌人时，回复少量已损失魔法值。"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_Note0"	"<font color='#606060'>为防止卡顿，奥术天球的伤害每0.3秒进行一次结算。</font>"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_Lore"	"时空的乱流导致了技能的异化。"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_mp_cost"	"%当前魔法值消耗："
+"DOTA_Tooltip_ability_chaotic_arcane_orb_base_damage"	"基础伤害："
+"DOTA_Tooltip_ability_chaotic_arcane_orb_damage"	"%额外伤害：魔法消耗 x"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_mp_kill"	"%击杀回复已损失魔法值："
+"DOTA_Tooltip_modifier_chaotic_arcane_orb_damage_delay"              "奥术天球"
+"DOTA_Tooltip_modifier_chaotic_arcane_orb_damage_delay_Description"  "即将受到伤害"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_rune_1"              "不朽Ⅰ：繁星之慧"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_rune_1_Description"  "技能可主动释放：立刻对自身周围%rune_1_radius%范围内至多%rune_1_max%个敌人造成%rune_1_stun%秒眩晕，并根据捕捉到的敌人数量从宇宙召唤大量奥术天球打击敌人，这些奥术天球不消耗魔法，计算伤害时你的魔法值被视为满值，冷却时间%rune_1_cd%秒"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_arcane_orb_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_arcane_orb_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy"	"奥术至尊"
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_Description"	"<h1>被动：魔导精通</h1>可暴击的技能伤害有一定几率造成一次无属性额外伤害，触发额外伤害后的短时间内，你的施法距离提高。<br><br>直接总增异常伤害 [×]，数值为此技能的理论收益。\n<h1>被动：魔力窃取</h1>造成可暴击的技能伤害时，回复一定比例的魔法值。"
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_Note0"	"<font color='#606060'>不适用技能增强、技能暴击；<br>与其他法术暴击类互斥。</font>"
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_Lore"	"时空的乱流导致了技能的异化。"
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_crit_chance"	"%额外伤害几率："
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_crit_index"	"%额外伤害倍率："
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_cast_range"	"触发后额外施法距离："
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_duration"	    "额外施法距离持续时间："
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_mp_steal"	    "%技能伤害回复魔法值："
+"DOTA_Tooltip_modifier_chaotic_arcane_supremacy_buff"              "魔导精通"
+"DOTA_Tooltip_modifier_chaotic_arcane_supremacy_buff_Description"  "施法距离增加"
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_rune_1"              "不朽Ⅰ：元素编织者"
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_rune_1_Description"  "属性伤害触发'奥术至尊'后，消耗当前魔法的%rune_1_mp_cost%%%在敌人位置处释放对应属性的元素风暴，每秒对%rune_1_radius%范围内的敌人造成主属性×%rune_1_damage%的对应属性魔法伤害，持续%rune_1_duration%秒。对于复合元素伤害，元素风暴取其首个属性。<br><br>元素风暴每%rune_1_cd%秒至多触发一次"
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_arcane_supremacy_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep"	"深海重击"
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_Description"	"每第%count%次攻击造成的伤害提高并附带眩晕，同一敌人被深海重击眩晕%max%次后，会在%max_time%秒内不再受其眩晕效果影响。"
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_Lore"	"时空的乱流导致了技能的异化。"
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_superhit"	"基础伤害："
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_bonus_superhit"	"额外伤害：全额攻击力 x"
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_duration"	"眩晕时间："
+"DOTA_Tooltip_modifier_chaotic_bash_of_the_deep"	"深海重击计数"
+"DOTA_Tooltip_modifier_chaotic_bash_of_the_deep_debuff"	"深海重击眩晕"
+"DOTA_Tooltip_modifier_chaotic_bash_of_the_deep_check"	"深海重击效果次数"
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_rune_1"              "不朽Ⅰ：海压暴轰"
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_rune_1_Description"  "对同一敌人每造成第%max%次深海重击的眩晕效果时，会对其释放海压爆轰造成自身全额攻击力x%rune_1_burstdamage%的冰属性物理伤害。"
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_bash_of_the_deep_rune_3_Description"  ""
+// "DOTA_Tooltip_ability_chaotic_element_fire_rune_1"              "不朽Ⅰ：全能之涌"
+// "DOTA_Tooltip_ability_chaotic_element_fire_rune_1_Description"  "额外获得%rune_1_atb%点全属性"
+// "DOTA_Tooltip_ability_chaotic_element_fire_rune_2"              "不朽Ⅱ：冷静之涌"
+// "DOTA_Tooltip_ability_chaotic_element_fire_rune_2_Description"  "额外获得%rune_2_cooldown%% 冷却缩减"
+// "DOTA_Tooltip_ability_chaotic_element_fire_rune_3"              "不朽Ⅲ：睿智之涌"
+// "DOTA_Tooltip_ability_chaotic_element_fire_rune_3_Description"  "额外获得%rune_3_manaregen%点魔法恢复"
+
+
+"DOTA_Tooltip_ability_chaotic_freezing_field"	"极寒领域"
+"DOTA_Tooltip_ability_chaotic_freezing_field_Description"	"在目标地点引导寒风和冰霜，每秒对其内的敌人施加<font color='#87ceeb'>冻伤</font>和逐渐增强的减速效果，减速效果达到最大时将转化为一次独立的<font color='#87ceeb'>冰冻</font>。<br><br>持续引导极寒领域时，受到的伤害减少%incoming%%%。"
+"DOTA_Tooltip_ability_chaotic_freezing_field_Lore"	"时空的乱流导致了技能的异化。"
+"DOTA_Tooltip_ability_chaotic_freezing_field_Note0"	"<font color='#606060'>多个极寒领域可同时生效；<br>对冰冻的敌人不会叠加减速层数。</font>"
+"DOTA_Tooltip_ability_chaotic_freezing_field_max_channel_time"	"最大引导时间："
+"DOTA_Tooltip_ability_chaotic_freezing_field_radius"	"作用范围："
+"DOTA_Tooltip_ability_chaotic_freezing_field_freezing"	"基础冻伤施加："
+"DOTA_Tooltip_ability_chaotic_freezing_field_bonus_freezing"	"额外冻伤施加：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_freezing_field_attack_slow"	"每秒攻击速度降低："
+"DOTA_Tooltip_ability_chaotic_freezing_field_move"	"每秒移动速度降低："
+"DOTA_Tooltip_ability_chaotic_freezing_field_max_stack"	"最大减速叠加："
+"DOTA_Tooltip_ability_chaotic_freezing_field_rune_1"              "不朽Ⅰ：寒冬壁垒"
+"DOTA_Tooltip_ability_chaotic_freezing_field_rune_1_Description"  "引导伤害减免提高至%rune_1_incoming%%%并对自身施加寒冬护盾，每秒对%rune_1_radius%范围内的敌人施加主属性×%rune_1_freezing%的<font color='#87ceeb'>冻伤</font>"
+"DOTA_Tooltip_ability_chaotic_freezing_field_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_freezing_field_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_freezing_field_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_freezing_field_rune_3_Description"  ""
+"DOTA_Tooltip_modifier_chaotic_freezing_field_slow"                   "极寒领域：减速"
+"DOTA_Tooltip_modier_chaotic_freezing_field_slow_Description"       "攻击速度减少%fMODIFIER_PROPERTY_TOOLTIP%%%点<br>移动速度减少%fMODIFIER_PROPERTY_TOOLTIP%%%点" 
+
+"DOTA_Tooltip_ability_chaotic_emp"	"电磁脉冲"
+"DOTA_Tooltip_ability_chaotic_emp_Description"	"在目标地点释放一团电磁能量，持续对其%radius%范围内的敌人施加<font color='#6481d9'>感电</font>，并在一定延迟后爆炸，造成雷属性伤害和<font color='#9370db'>沉默</font>。<br><br>如果可能，爆炸会消耗%mana_cost%%%最大魔法值使伤害总增%bonus%%% [×]。"
+"DOTA_Tooltip_ability_chaotic_emp_Lore"	"时空的乱流导致了技能的异化。"
+"DOTA_Tooltip_ability_chaotic_emp_Note0"	"<font color='#606060'>多个脉冲可同时生效。</font>"
+"DOTA_Tooltip_ability_chaotic_emp_elecshocking"	"%每秒感电施加："
+"DOTA_Tooltip_ability_chaotic_emp_duration"	"爆炸延迟："
+"DOTA_Tooltip_ability_chaotic_emp_damage"	"爆炸基础伤害："
+"DOTA_Tooltip_ability_chaotic_emp_bonus_damage"	"爆炸额外伤害：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_emp_silence_duration"	"沉默持续时间："
+"DOTA_Tooltip_ability_chaotic_emp_rune_1"              "不朽Ⅰ：多重脉冲"
+"DOTA_Tooltip_ability_chaotic_emp_rune_1_Description"  "在主脉冲附近随机位置新增%rune_1_count%个脉冲，但电磁脉冲的<font color='#6481d9'>感电施加</font>和爆炸伤害总降%rune_1_index%%% [×]，基础冷却时间增加至%rune_1_cd%秒"
+"DOTA_Tooltip_ability_chaotic_emp_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_emp_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_emp_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_emp_rune_3_Description"  ""
+
+
+"DOTA_Tooltip_ability_chaotic_tri_element_dot"	"触发技：元素祈唤"
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_Description"	    "<h1>被动：元素祈唤</h1>施加<font color='#cd5c5c'>灼伤</font>、<font color='#87CEEB'>冻伤</font>或<font color='#6481d9'>感电</font>时，获得触发点数。\n<h1>触发：</h1>自动施法：消耗触发点数，提高自身造成的技能伤害 [+]，可叠加。"
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_Note0"	"<font color='#606060'>灼伤和冻为自身主属性标准，感电以数值为标准。<br>单次施加值较大时可多次触发，最大获取3倍。</font>"
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_burn_freeze"	    "获取触发点数所需施加灼伤/冻伤：主属性×"
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_elecshock"	    "%获取触发点数所需施加感电："
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_cost_get"	    "获取触发点数："
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_cost"	        "触发点数消耗："
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_outgoing"	        "%技能伤害提高："
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_duration"	    "持续时间："
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_cooldown"	    "冷却时间："
+"DOTA_Tooltip_modifier_chaotic_tri_element_dot"	"元素祈唤"
+"DOTA_Tooltip_modifier_chaotic_tri_element_dot_Description"	"造成的技能伤害增加"
+
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_rune_1"              "不朽Ⅰ：元素串流"
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_rune_1_Description"  "对<font color='#cd5c5c'>灼伤</font>敌人施加<font color='#87CEEB'>冻伤</font>、对<font color='#87CEEB'>冻伤</font>敌人施加<font color='#6481d9'>感电</font>，对<font color='#6481d9'>感电</font>敌人施加<font color='#cd5c5c'>灼伤</font>时，该次施加量被视为%rune_1_index%%%"
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_tri_element_dot_rune_3_Description"  ""
+
+// 地狱火锁链
+// https://www.5esrd.com/database/spell/chains-of-hellfire/
+// 在地面上选择一个您可以在范围内看到的点。一根尖刺出现在选定的位置，伴随着八对炽热的手铐，每对手铐都被同样热的铁链束缚着。选择所选点 60 英尺范围内的一些生物来受手铐束缚。大型或更小的生物需要一对手铐，大型生物需要两个，巨型生物需要四个。你可以选择将生物所需的手铐数量加倍，从而对挣脱锁链而进行的所有技能检定施加不利影响，绕过生物对被束缚的免疫，或绕过其对火焰伤害的抵抗或免疫。被选中的生物立即被束缚。手铐延伸到以太位面。锁链从尖刺直线延伸到它们所束缚的生物，并在它们穿过的任何空间中创造出困难的地形。当生物第一次进入锁链穿过的空间或在那里开始其回合时，该生物会受到 4d6 点火焰伤害。当生物第一次被束缚或结束其束缚回合时，它会受到 10d6 火焰伤害。如果被束缚的生物尝试使用魔法传送出手铐，它必须首先针对你的法术豁免 DC进行魅力豁免检定。如果失败，法术就会失败，并且该生物会失去法术位。
+// 被手铐束缚的生物可以用它的动作对你的法术豁免 DC 进行一次力量或敏捷检定（它的选择），以挣脱所有束缚它的手铐。没有束缚生物的锁链和脚镣在消散之前会变成无害的阴燃灰烬。
+
+// 塑能
+// "DOTA_Tooltip_ability_chaotic_sunburst"	"阳炎爆"
+// "DOTA_Tooltip_ability_chaotic_sunburst_Description"	"灿烂的阳光照耀施法距离内指定的一点为中心的一个圆形区域。对该区域内的敌人造成一次伤害，并施加目盲效果。使用法术后，所有处于该区域内的友军都将被视为具有白昼状态，持续数秒。"
+// "DOTA_Tooltip_ability_chaotic_sunburst_Lore"	""
+
+
+
+// 真言术眩晕
+// https://www.5esrd.com/database/spell/power-word-stun/
+// 你说出一句充满力量的话语，可以压垮你所见范围内的某个生物的思想，使其目瞪口呆。如果目标的生命值等于或低于 150 点，则会被击晕。否则，该咒语没有效果。
+
+// 被击晕的目标必须在每个回合结束时进行一次体质豁免检定。成功保存后，这种惊人的效果就会结束。
+
+
+
+
+// "DOTA_Tooltip_ability_chaotic_power_word_stun"	"再生"
+// "DOTA_Tooltip_ability_chaotic_power_word_stun_Description"	"触摸一个友方，激发其自然治愈能力，大幅度提升其生命恢复速率，施法后会立即造成一次治疗效果。"
+// "DOTA_Tooltip_ability_chaotic_power_word_stun_Lore"	"虽然这个法术只能对单个目标使用，但其强大的治愈能力甚至能使断肢重新生长出来，如果有切断的部分，只要将其固定在残肢上，该法术会立即使肢体与残肢结合在一起。"
+
+
+
+
+
+
+
+
+// 绿域崛起
+
+
+
+
+
+// 绿色的崛起
+// https://www.5esrd.com/database/spell/rise-of-the-green/
+// 该法术赋予范围内现有植物生命。如果范围内没有植物，该法术会在持续时间内创造出灌木丛和树木。其中一棵树成为对你和你的同伴友好的树人。
+// 为树人滚动主动权，它有自己的回合。它服从您向它发出的任何口头命令。如果你不向它发出任何命令，它会防御敌对生物，但不会采取任何行动。充满活力的灌木丛为你的敌人创造了困难的地形。此外，在你的每个回合开始时，范围内地面上的所有生物都必须成功通过力量豁免检定，否则就会受到束缚，直到法术结束。被束缚的生物可以使用一个动作对你的法术豁免 DC进行一次力量（运动）检定，成功后结束对自身的效果。如果一个生物在你的回合开始时被植物束缚，它会受到 1d6 的钝击伤害。
+// 最后，树木会向范围内的每个敌人摆动，要求每个生物进行一次敏捷豁免。豁免失败时，生物会受到 6d6 的钝击伤害；豁免成功时，生物会受到一半的伤害。
+
+
+// 暴风化形
+// https://www.5esrd.com/database/spell/stormrage/
+// 你与活生生的风暴合而为一，成为风与闪电的生物。你可以以 40 英尺的速度飞行，并且免疫远程武器攻击的伤害。你对闪电和雷霆伤害有抵抗力。除非你愿意，自然风和魔法风不会影响你。
+// 每轮一次，作为奖励动作，你可以从你的眼睛或手中发射雷电作为远程法术攻击。如果目标穿着金属盔甲或由金属制成，则您在攻击检定上具有优势。命中后，目标会受到 4d6 闪电伤害和 4d6 雷霆伤害。
+
+
+
+
+
+// 反魔法领域
+// https://www.5esrd.com/database/spell/antimagic-field/
+// 持续时间：浓度，最长 1 小时一个半径 10 英尺的隐形反魔法球体围绕着你。这个区域与弥漫多元宇宙的魔法能量分离。在球体之内，法术无法施展，召唤生物消失，甚至魔法物品也变得平凡。直到法术结束，球体都会以你为中心与你一起移动。法术和其他魔法效果，除了那些由神器或神祇创造的魔法效果外，都被压制在球体中，无法伸入其中。用于施展压制法术的槽位将被消耗。当效果被抑制时，它不会发挥作用，但它被抑制的时间会会计入其持续时间。
+// 目标效果：以球体中的生物或物体为目标的法术和其他魔法效果，例如魔法飞弹和魅惑人，对该目标没有效果。魔法区域：其他法术或魔法效果的区域，例如火球术，不能延伸到球体中。如果球体与魔法区域重叠，则被球体覆盖的区域部分会受到抑制。例如，火墙产生的火焰被抑制在球体内，如果重叠足够大，就会在火墙中产生间隙。法术：当生物或物体位于球体中时，对球体中的生物或物体施加的任何有效法术或其他魔法效果都会被抑制。
+// 魔法物品：魔法物品的属性和力量被压制在球体中。例如，球体中的+1长剑充当非魔法长剑。如果魔法武器被用于攻击球体中的目标或被球体中的攻击者使用，则其属性和威力会受到抑制。如果一件魔法武器或一件魔法弹药完全离开球体（例如，如果你向球体之外的目标发射魔法箭或投掷魔法矛），则该物品的魔法一旦离开就不再受到压制。退出。魔法旅行：传送和位面旅行在球体中不起作用，无论该球体是此类魔法旅行的目的地还是出发点。通往另一个地点、世界或存在位面的门户，以及通向异次元空间（例如由绳索魔术咒语创建的开口）的入口，在球体中会暂时关闭。生物和物体：通过魔法召唤或创造的生物或物体在球体中暂时消失。一旦该生物所占据的空间不再位于球体内，这种生物就会立即重新出现。驱散魔法：法术和驱散魔法等魔法效果对球体没有影响。同样，不同反魔法场法术创建的球体不会相互抵消。
+
+
+
+// 毁灭之躯
+// https://www.5esrd.com/database/spell/body-of-ruin/
+// 选择一个你可以在范围内看到的人形生物。目标必须进行一次体质豁免，否则就会被注入虚空碎片。在持续时间内，目标在每个回合开始时，必须选择将其内部升起的能量波内化或释放。如果能量被内化，目标会受到 4d10 点力量伤害。如果目标选择释放能量，则不会受到任何伤害，但其 10 英尺内的所有生物都必须进行一次体质豁免检定，豁免失败会受到 4d10 力力伤害，豁免成功则会受到一半伤害。
+
+// 如果该法术将一个生物的生命值降低至0，那么该生物就会解体。
+
+
+
+
+
+
+
+
+
+
+// 克鲁曼蒂克场
+// https://www.5esrd.com/database/spell/cruormantic-field/
+// 你在自己周围创造了一个领域，影响着所有进入其中的人的生活。你周围 30 英尺内的所有敌对生物都必须进行一次体质豁免。如果失败，该生物会受到 8d8 点力量伤害并获得两级疲惫。
+
+// 成功豁免后，该生物会受到一半伤害和一级疲惫。
+
+// 任何在 30 英尺半径内开始或结束回合的生物都必须重复豁免，否则会获得额外的疲惫等级。
+
+// 血案。你可以选择牺牲等于 8d8 的生命值。如果你这样做，你可以将该法术的半径增加20英尺

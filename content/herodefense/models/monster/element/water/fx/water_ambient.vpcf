@@ -1,0 +1,57 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf51:version{6d03d500-2498-454e-b833-f654e870bb3d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_bShouldSort = false
+	m_nBehaviorVersion = 12
+	m_nFirstMultipleOverride_BackwardCompat = 6
+	m_nSnapshotControlPoint = 6
+	m_hSnapshot = resource:"particles/models/items/razor/razor_arcana/razor_arcana/razor_arcana_tornado_fx.vsnap"
+	m_ConstantColor = [ 67, 120, 93, 255 ]
+	m_flConstantRadius = 30.0
+	m_flDepthSortBias = -100.0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/monster/element/water/water_emental.vmdl"
+				m_sequenceName = "A_WaterElemental_Idle"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"models/monster/element/water/fx/water_ambient_f.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/monster/element/water/fx/water_ambient_d.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/monster/element/water/fx/water_ambient_a.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/monster/element/water/fx/water_ambient_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/monster/element/water/fx/water_ambient_c.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/monster/element/water/fx/water_ambient_e.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/monster/element/water/fx/water_ambient_g.vpcf"
+		},
+	]
+}

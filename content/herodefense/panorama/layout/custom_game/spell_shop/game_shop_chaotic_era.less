@@ -1,0 +1,636 @@
+
+#gameShop_chaoticEraRoot{
+    width: 720px;
+    height: 740px;
+    align: right center;
+    opacity: 0;
+    transform: translateX( 500px )  translateY( 0px ) ;
+    transition-property: opacity, transform;
+    transition-duration: 0.20s, 0.10s, 0.05s;
+    transition-timing-function: ease-in-out;
+    &.show{
+        opacity: 1;
+        transform: translateX( 0px )  translateY( 0px ) ;
+    }
+    
+    #chaoticEra_gameShopPanel{
+        width: 100%;
+        height: 100%;
+        background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_profile.png");
+        background-size: 150% 100%;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-img-opacity: 0.50;
+
+        .CloseButton{
+            width: 40px;
+            height: 40px;
+            align: right top;
+            margin-right: 40px;
+            // margin-bottom: 1035px;
+            background-image: url("s2r://panorama/images/hud/reborn/disconnect_x_psd.vtex");
+            background-size: 100%;
+            background-repeat: no-repeat;
+            background-position: center;
+            z-index: 10;
+            border-radius: 50%;
+            z-index: 3;
+            wash-color:rgba(71, 46, 133, 0.902); 
+            saturation:0.1;
+            &:hover{
+                brightness: 2;
+            }
+            &:active{
+                brightness: 1.5;
+            }
+
+        }
+        > Label{
+            color: #ffffffff;
+            
+            font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+            font-size: 34px;
+            height: 46px;
+            width: 100%;
+            text-shadow: 2px 2px 4px 2 #00000090;
+            text-overflow: shrink;
+            align: center top;
+            margin-bottom: 11px;
+            text-align: center;
+            padding-top: 6px;
+            background-color: rgba(0, 0, 0, 0.3) ;
+            color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8) , to(#3e6461) ) ;
+            
+            z-index: 3;
+        }
+        #chaotc_era_itemListPanel{
+            width: 100%;
+            height: 100%;
+            margin-top: 35px;
+            flow-children:down-wrap;
+            overflow:squish scroll;  
+        }
+        
+    }
+
+
+}
+
+.HUDFlipped #gameShop_chaoticEraRoot{
+    align : left center;
+    // transform: translateX( -500px )  translateY( 0px ) ;
+}
+
+
+
+
+.singleChaoticEraItemListBlock{
+    width: 100%;
+    height: 280px;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-left: 5px solid #333038;
+    > Label{
+        color: #ffffffff;
+        
+        font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+        padding-top: 5px;
+        padding-left: 5px;
+        font-size: 23px;
+        height: 35px;
+        width: 150px;
+        text-shadow: 2px 2px 4px 2 #00000090;
+        text-overflow: shrink;
+        align: left top;
+        text-align: left;
+        color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8) , to(#3e6461) ) ;
+    
+        background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/player_panel_active.png");
+        background-size: 120% 100%;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+    
+        opacity-mask: url("s2r://panorama/images/masks/gradient_leftright_opaque_psd.vtex");
+        wash-color:rgba(71, 46, 133, 0.502); 
+    }
+    
+
+}
+
+
+
+#chaoticEra_ShopSpecialButton{
+    width: 100%;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-left: 5px solid #333038;
+}
+
+#chaoticEra_ShopSpecialButton .singleItemListBlockBG{
+    background-size: 100% 300%;
+}
+
+
+.ButtonList{
+    width: 100%;
+    height: 100%;
+    flow-children:right-wrap;
+}
+
+#ChaoticEraButton_UpgrateShop{
+    width: 150px;
+    height: 100px;
+}
+#ChaoticEraButton_UpgrateShop > Label{
+    color: #ffffffff;
+    
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 18px;
+    text-shadow: 2px 2px 2px 2 #00000090;
+    text-overflow: shrink;
+    align: center bottom;
+    text-align: center;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#758cff) , to(#4f3e64) ) ;
+    
+    z-index: 3;
+}
+
+#ChaoticEraButton_UpgrateShop:hover{
+    brightness: 1.2;
+}
+
+
+
+#UpgradeProgress_PieChart{
+    vertical-align: center;
+    horizontal-align: center;
+}
+#UpgradeProgress_PieChart > Label{
+    font-family: titleFont;
+    font-size: 48px;
+    text-transform: uppercase;
+    color:gradient( linear, 0% 0%, 0% 100%, from( rgba(126, 52, 172, 1) ), to( rgba(106, 74, 145, 0.565) ) );
+    align: center center;
+}
+#UpgradeProgress_PieChart_Background{ 
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    horizontal-align: center;
+    vertical-align: center;
+    z-index: -1;
+    opacity: 1;
+}
+
+#UpgradeProgress_PieChart_CircleBar{
+    z-index: 10;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    horizontal-align: center;
+    vertical-align: center;
+}
+
+
+
+
+#UpgradeProgress_PieChart_CircleBar_BG{
+    height: 100px;
+    width: 100px;
+    opacity: 0.5;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/dac_profile_level_progressbar_bg0.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    hue-rotation: 10deg; 
+}
+
+#UpgradeProgress_PieChart_CircleBar_FG{
+    clip:radial( 50.0% 50.0%, 0.0deg, 77.142860deg);
+    height: 100px;
+    width: 100px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/dac_profile_level_progressbar_bg.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    opacity-mask: url("s2r://panorama/images/custom_game/chaotic_era/hud/dac_profile_level_progressbar_bg_mask.png");
+    brightness: 5;
+    hue-rotation: -20deg; 
+
+
+    transition-property: clip;
+    transition-duration: 0.20s, 0.10s, 0.05s;
+    transition-timing-function: ease-in-out;
+
+
+}
+
+
+.chaoticEraShopCost{
+    margin-left:12px;
+    transition-property:background-image;
+    transition-duration: 0.18s;
+    transition-timing-function:ease-in-out;
+    vertical-align:top;
+    horizontal-align:right;
+    flow-children:right;
+    z-index: 5;
+}
+
+.chaoticEraShopCost > Label{
+    font-family: titleFont;
+    font-size: 18px;
+    text-overflow: shrink;
+    color:rgb(250, 230, 111);
+}
+
+
+#ChaoticEraButton_RefreshShop{
+    width: 150px;
+    height: 100px;
+    brightness: 0.7;
+}
+#ChaoticEraButton_RefreshShop:hover{
+    brightness: 1.3;
+}
+#RefreshShopButton1{
+    height: 100px;
+    width: 100px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/icon_shop_open_nogold.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    align: center center;
+}
+
+
+.RefreshIcon{
+    height: 40px;
+    width: 40px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/reroll_button.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    align: right bottom;
+    margin-right: 30px;
+}
+
+
+#ChaoticEraButton_RefreshTask{
+    width: 150px;
+    height: 100px;
+    brightness: 0.7;
+}
+
+#ChaoticEraButton_RefreshTask:hover{
+    brightness: 1.3;
+}
+
+
+
+
+
+#RefreshTaskButton1{
+    height: 100px;
+    width: 100px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/rulebook_button.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    align: center center;
+}
+
+#chaotic_era_SpecialItemList{
+    height: 220px;
+    .singleSpeicalItem{
+        height: 220px;
+        width: 130px;
+        ui-scale: 70%;
+    }
+}
+.singleSpeicalItem{
+    width: 150px;
+    height: 300px;
+    flow-children: down-wrap;
+
+    /* box-shadow: rgb(0, 0, 0)  0px 0px 2px 0px;  */
+    margin: 3px;
+
+    ui-scale: 80%;
+
+}
+
+.singleSpecialItemRoot{
+    /* width: heitht-percentage(72.7%); */
+    /* height: width-percentage(72.7%); */
+    width: 120px;
+    height: 180px;
+    margin-top: 10px;
+    horizontal-align: center;
+
+
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/right_bar_backer_battlestats.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    
+    transition-property:  pre-transform-scale2d;
+    /* transition-property: transform, opacity; */
+    transition-duration: 0.1s;
+    transition-timing-function: ease-in-out;
+    
+}
+
+.singleSpecialItemRoot:hover{
+    brightness: 1.4;
+    z-index: 5;
+    pre-transform-scale2d: 1.03;
+    sound: "ui_custom_lobby_drawer_slide_out";
+
+    box-shadow: rgba(99, 28, 192, 0.2)  0px 0px 10px 0px;
+}
+
+#BuySpell_Image{
+    height: 100px;
+    width: 100px;
+    /* box-shadow: rgba(99, 28, 192, 0.2)  0px 0px 60px 0px;  */
+    /* background-color: rgba(0, 0, 0, 1) ; */
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/icon_livedraft.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    align: center center;
+    /* border-radius: 50%; */
+    /* border:2px solid rgb(42, 42, 42); */
+    wash-color:rgba(71, 46, 133, 0.502);
+}
+
+#specialEva_Image{
+    height: 100px;
+    width: 100px;
+    /* box-shadow: rgba(99, 28, 192, 0.2)  0px 0px 60px 0px;  */
+    /* background-color: rgba(0, 0, 0, 1) ; */
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/puzzle_increase_unit_rank_circle.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    align: center center;
+    border-radius: 50%;
+    border:2px solid rgb(42, 42, 42);
+    wash-color:rgba(71, 46, 133, 0.502); 
+}
+
+#spellUpgrade_Image{
+    height: 110px;
+    width: 100px;
+    /* box-shadow: rgba(99, 28, 192, 0.2)  0px 0px 60px 0px;  */
+    /* background-color: rgba(0, 0, 0, 1) ; */
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/dotaplus_logo.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    align: center center;
+    /* border-radius: 50%; */
+    /* border:2px solid rgb(42, 42, 42); */
+    wash-color:rgba(71, 46, 133, 0.802); 
+
+}
+#spellSell_Image{
+    height: 110px;
+    width: 100px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/sell_spell.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    align: center center;
+    wash-color:rgba(71, 46, 133, 0.802); 
+}
+#TaskRefresh_Image{
+    height: 110px;
+    width: 100px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/neutral_round20_vs_small.png");
+    
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    align: center center;
+    wash-color:rgba(71, 46, 133, 0.802); 
+}
+#Artifact_Image{
+    height: 120px;
+    width: 100px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/artifact.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    align: center center;
+    wash-color:rgba(71, 46, 133, 0.502); 
+}
+#PauseTask_Image{
+    height: 140px;
+    width: 95%;
+    /* box-shadow: rgba(99, 28, 192, 0.2)  0px 0px 60px 0px;  */
+    /* background-color: rgba(0, 0, 0, 1) ; */
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/task_delay.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    opacity-mask: url("s2r://panorama/images/masks/scratched_box_psd.vtex");
+    align: center center;
+    /* border-radius: 50%; */
+    /* border:2px solid rgb(42, 42, 42); */
+    wash-color:rgba(71, 46, 133, 0.802); 
+}
+
+.chaoticEraShopCost_special{
+    margin-left:12px;
+    transition-property:background-image;
+    transition-duration: 0.18s;
+    transition-timing-function:ease-in-out;
+    vertical-align:top;
+    horizontal-align:center;
+    flow-children:right;
+    z-index: 5;
+}
+
+.chaoticEraShopCost_special > Label{
+    font-family: titleFont;
+    font-size: 18px;
+    text-overflow: shrink;
+    color:rgb(250, 230, 111);
+}
+
+
+
+#item_timeInfo{
+    width: 100%;
+    height: 100%;
+}
+
+#item_timeInfo > Label{
+    font-family: titleFont;
+    font-size: 18px;
+    text-overflow: shrink;
+    color:rgb(250, 230, 111);
+    align: center center;
+
+
+
+    /* transition-property: clip; */
+    /* transition-duration: 0.20s, 0.10s, 0.05s; */
+    /* transition-timing-function: ease-in-out; */
+}
+
+#itemTime_Overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8) ;
+    clip: radial( 50.0% 50.0%, 0.0deg, -327deg);
+
+}
+
+#itemTime_Label.hide{
+    opacity: 0;
+}
+#itemTime_Overlay.hide{
+    opacity: 0;
+}
+
+
+#resourceList{
+    width: 120px;
+    height: 150px;
+    margin-left: 20px;
+    flow-children:down-wrap;
+    #EvolutionChance{
+        width: 120px;
+        height: 50px;
+        flow-children:right;
+        #EvolutionChanceIcon{
+            height: 35px;
+            width: 35px;
+            /* box-shadow: rgba(99, 28, 192, 0.2)  0px 0px 60px 0px;  */
+            /* background-color: rgba(0, 0, 0, 1) ; */
+            background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/puzzle_increase_unit_rank_circle.png");
+            background-size: 80% 80%;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            align: center center;
+            border-radius: 50%;
+            border:2px solid rgb(42, 42, 42);
+            wash-color:rgba(71, 46, 133, 0.502); 
+
+        }
+        > Label{
+            color: #ffffffff;
+            font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+            font-size: 18px;
+            width: 100%;
+            text-shadow: 2px 2px 4px 2 #00000090;
+            text-overflow: shrink;
+            align: center center;
+            text-align: center;
+            color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8) , to(#3e6461) ) ;
+        }
+    }
+    #UpgradeChance{
+        width: 120px;
+        height: 50px;
+        flow-children:right;
+        #UpgradeChanceIcon{
+            height: 40px;
+            width: 35px;
+            background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/dotaplus_logo.png");
+            background-size: 80% 80%;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            align: center center;
+            // border-radius: 50%;
+            // border:2px solid rgb(42, 42, 42);
+            wash-color:rgba(71, 46, 133, 0.502); 
+
+        }
+        > Label{
+            color: #ffffffff;
+            font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+            font-size: 18px;
+            width: 100%;
+            text-shadow: 2px 2px 4px 2 #00000090;
+            text-overflow: shrink;
+            align: center center;
+            text-align: center;
+            color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8) , to(#3e6461) ) ;
+        }
+    }
+    #SellChance{
+        width: 110px;
+        height: 50px;
+        flow-children:right;
+        #SellChanceIcon{
+            height: 45px;
+            width: 45px;
+            background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/sell_spell.png");
+            background-size: 80% 80%;
+            background-position: 0% 50%;
+            background-repeat: no-repeat;
+            align: center center;
+            // margin-right: 50px;
+            // border-radius: 50%;
+            // border:2px solid rgb(42, 42, 42);
+            wash-color:rgba(71, 46, 133, 0.502); 
+
+        }
+        > Label{
+            color: #ffffffff;
+            font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+            font-size: 18px;
+            width: 100%;
+            text-shadow: 2px 2px 4px 2 #00000090;
+            text-overflow: shrink;
+            align: center center;
+            text-align: center;
+            color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8) , to(#3e6461) ) ;
+        }
+    }
+}
+
+
+#ArtifactList{
+    width: 250px;
+    height: 150px;
+    margin-left: 20px;
+    flow-children:right-wrap;
+    overflow:squish scroll;  
+    ui-scale: 90%;
+    .singleArtifact{
+        width: 60px;
+        height: 50px;
+        opacity: 1;
+        
+        #singleArtifactIcon{
+            width: 100%;
+            height: 100%;
+            vertical-align: top;
+            horizontal-align: center;
+            background-color: rgba(0, 0, 0,1);
+            /* border: 1px solid #000000; */
+            margin: 2px;
+            border-radius: 10px;
+            border-left: 2px solid #000000;
+            border-right: 2px solid #000000;
+            // z-index: ;
+          
+            background-image: url("file://{images}/custom_game/chaotic_era/hud/game_effect/crazy_surf.png");
+            background-size: 100% 100%;
+            &:hover{
+                box-shadow: rgb(196, 241, 242)  0px 0px 5px 0px; 
+                brightness: 2;
+            }
+        }
+        
+    }
+
+}

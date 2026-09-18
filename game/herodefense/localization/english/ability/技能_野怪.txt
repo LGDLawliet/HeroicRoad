@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_creeps_spell_flame_of_the_splitter"	"The Flame of the Splitter"
+"DOTA_Tooltip_ability_creeps_spell_flame_of_the_splitter_Description"	"When the Fire Element dies, attach the Death Fire to the Killer and explode after %duration% seconds, causing damage equal to fire element full attack damage x %damage_index%. Each stack will not refresh the countdown, but will make the damage to become the current %damage_mul% times.<br><br> If someone who is attached to the flame casting or uesing the 'Stride', the flame can be thrown away and dropped onto the nearest friendly within the range of  %radius%."
+"DOTA_Tooltip_ability_creeps_spell_flame_of_the_splitter_Lore"	"The dead flame may be able to create a 'division' between those who create it."
+"DOTA_Tooltip_modifier_creeps_spell_flame_of_the_splitter_debuff"                                       "The Flame of the Splitter"
+"DOTA_Tooltip_modifier_creeps_spell_flame_of_the_splitter_debuff_Description"                   "Will receive damage equal to fire element attack damage x%dMODIFIER_PROPERTY_TOOLTIP%"
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_creeps_spell_earth_return"	"Return to Earth"
+"DOTA_Tooltip_ability_creeps_spell_earth_return_Description"	"During the rolling boulder, block all damage. If you unit a enemy, you can convert 的%damage_to_heal_hero%/%damage_to_heal_basic%%% of the target's current health (hero/regular unit) into equal healing, and gain a %heal_to_shield%%% shield, last for %duration% duration.<br><br>When the earth element dies, all healing effects obtained previously will be transformed into a statue, which has health equal to the healing value,Taking damage greater than %max_damage_taken%%% of max health will lock the damage at %max_damage_taken%%%. Before the statue is destroyed, the hero who was previously hit will have a all attributes reduction of %attribute_reduce_per_hit% x the number of hits."
+"DOTA_Tooltip_ability_creeps_spell_earth_return_Lore"	"The stone that has lost its spiritual energy will return to the earth, but it will repay your 'kindness' in another way"
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_earth_return_shield"                                       "Return to Earth"
+"DOTA_Tooltip_modifier_creeps_spell_earth_return_shield_Description"                   "Block damage"
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_earth_return_debuff"                                       "Return to Earth"
+"DOTA_Tooltip_modifier_creeps_spell_earth_return_debuff_Description"                   "All attributes reduced by %dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%"
+
+
+
+"DOTA_Tooltip_ability_bear_cave_ursa_earthshock"	"Earthshock"
+"DOTA_Tooltip_ability_bear_cave_ursa_earthshock_Description"              "Slow enemy down with small amount of damage"
+"DOTA_Tooltip_ability_bear_cave_ursa_overpower"	"Overpower"
+"DOTA_Tooltip_ability_bear_cave_ursa_overpower_Description"              "Attack at great speed,only last 5 times"
+"DOTA_Tooltip_ability_bear_cave_ursa_fury_swipes"	"Fury Swipes"
+"DOTA_Tooltip_ability_bear_cave_ursa_fury_swipes_Description"              "Each attack increase some damage"
+"DOTA_Tooltip_ability_creeps_spell_bear_cave_ursa_fury_swipes"	"Swipes"
+"DOTA_Tooltip_ability_creeps_spell_bear_cave_ursa_fury_swipes_Description"              "Each attack increases the current Difficulty Factor *10 attack power/move speed/attack speed (up to 500) for the current Difficulty Factor*2.Each attack will sommon a new mini ursa,which has 0.01 of the Cave Ursa's hp and dmg.Mini ursa cant sommon new mini ursa."
+"DOTA_Tooltip_modifier_creeps_spell_bear_cave_ursa_fury_swipes_buff"    "Swipes"
+"DOTA_Tooltip_modifier_creeps_spell_bear_cave_ursa_fury_swipes_buff_Description"        "Increases damage/move speed/attack speed with each attack"
+"npc_dota_creature_bear_cave_ursa"						"Lair Ranger"
+
+

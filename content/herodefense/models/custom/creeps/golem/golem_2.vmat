@@ -1,0 +1,170 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 1 // Add
+	F_DETAIL_2 1 // Add
+
+	//---- Effect Proxies ----
+	F_USE_HERO_EFFECTS_PROXY 1
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Specular ----
+	F_SPECULAR_CUBE_MAP 1
+
+	//---- Tint Self Ilum ----
+	F_TINT_SELF_ILUM 1
+
+	//---- Translucency ----
+	F_ALPHA_TEST 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 -1.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/custom/creeps/golem/textue/t_golemrock_basecolor.jpg"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "54.660"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[1.000 1.000]"
+	TextureDetail "models/custom/creeps/golem/textue/golem_detail.psd"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "1.000"
+	g_vDetail2TexCoordOffset "[0.000 0.000]"
+	g_vDetail2TexCoordScale "[2.000 2.000]"
+	TextureDetail2 "models/custom/creeps/golem/textue/t_golemlava_emissive.tga"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "1.000"
+	g_flBloomShift "1.000"
+	g_flOverbrightFactor "1.000"
+	g_vBloomColor "[1.000000 0.200000 0.000000 1.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "models/custom/creeps/golem/textue/t_golemice_legacy_selfillummask.png"
+	TextureDiffuseWarpMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureMetalnessMask "[0.200000 0.200000 0.200000 0.000000]"
+	TextureSelfIllumMask "models/custom/creeps/golem/textue/t_golemice_legacy_selfillummask.png"
+
+	//---- Mask 2 ----
+	TextureRimMask "[0.400000 0.400000 0.400000 0.000000]"
+	TextureSpecularExponent "[0.450000 0.450000 0.450000 0.000000]"
+	TextureSpecularMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureTintByBaseMask "[0.400000 0.400000 0.400000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "models/custom/creeps/golem/textue/t_golemice_normal.jpg"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[0.549020 0.549020 0.549020 0.000000]"
+
+	//---- Specular ----
+	g_flCubeMapScalar "4.000"
+	g_flSpecularExponent "32.000"
+	g_flSpecularScale "1.000"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureCubeMap "models/custom/creeps/golem/textue/golem2_cube.png"
+
+	//---- Translucency ----
+	g_flAlphaTestReference "0.500"
+	TextureTranslucency "[1.000000 1.000000 1.000000 0.000000]"
+
+	Attributes
+	{
+		PreviewModel "models/custom/creeps/golem/golem.vmdl"
+	}
+
+	DynamicParams
+	{
+		g_flDetailBlendFactor "speed = 0.3;\nmax = 1;\nvalue = speed*time()%(max*2);\nd = (value>max)?max*2-value:value;\nreturn d+0.5;"
+		g_vDetailTexCoordOffset "frac( float2( -0.1, -0.1 ) * time() )"
+		g_flBloomScale "speed = 0.3;\nmax = 1;\nvalue = speed*time()%(max*2);\nd = (value>max)?max*2-value:value;\nreturn d+0.5;"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+			"Overbright" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+		"Translucency"
+		{
+		}
+	}
+}

@@ -1,0 +1,16 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[0.500000 0.500000 0.000000 0.000000]"
+	"TextureColor"	"materials/boards/board_radiant_001_color.png"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/boards/board_radiant_001_color_psd_19eb031d.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"default"
+	}
+}

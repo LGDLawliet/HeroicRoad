@@ -1,0 +1,188 @@
+
+//default
+// "default_night_1"
+// {
+// 	"dsp"       "0"
+// 	"fadetime" "3"
+// 	"Soundmixer"	"Default_Mix"
+	
+// 	// "playlooping"
+// 	// {
+// 	// 	"volume"	".5"
+// 	// 	"pitch"		"1"
+// 	// 	"wave"		"sounds/ambient/soundscapes/river_light_lp_03.vsnd"
+// 	// 	"origin"	"-5188, 4971, 640;"
+// 	// 	"soundlevel" 	"SNDLVL_81dB"
+// 	// }
+
+// }
+
+
+
+"default_night"
+{
+	"dsp"       "0"
+	"fadetime" "3"
+	"Soundmixer"	"Default_Mix"
+	
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"sounds/ambient/soundscapes/temple_lp.vsnd"
+	}
+	//出生点入水口
+		"playlooping"
+	{
+		"volume"	"2"
+		"pitch"		"100"
+		"wave"		"sounds/ambient/soundscapes/river_light_lp_03.vsnd"
+		"origin"	"-5188, 4971, 640;"
+		"soundlevel" 	"SNDLVL_81dB"
+	}
+	//出生点瀑布
+		"playlooping"
+	{
+		"volume"	"2"
+		"pitch"		"100"
+		"wave"		"sounds\ambient\soundscapes\waterfall_loop_01.vsnd"
+		"origin"	"-7548, 7270, 640;"
+		"soundlevel" 	"SNDLVL_81dB"
+	}
+
+		//出生点出水口
+			"playlooping"
+	{
+		"volume"	"2"
+		"pitch"		"200"
+		"wave"		"sounds\ambient\soundscapes\river_med_lp_01.vsnd"
+		"origin"	"-4043, 3529, 500;"
+		"soundlevel" 	"SNDLVL_81dB"
+	}
+
+	// 	"playrandom"
+	// {
+	// 	"volume"		"1"
+	// 	"pitch"		"100"
+	// 	"time"		"1, 150"
+	// 	// "wave"		"sounds/music/valve_ti10/music/laning_03_layer_03.vsnd"
+	// 	"rndwave"
+	// 	{
+	// 		"wave"		"sounds/music/valve_ti10/music/laning_01_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/laning_01_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/ui_hero_select.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/ui_main_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/laning_02_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/laning_02_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/laning_02_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/laning_03_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/laning_03_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti10/music/laning_03_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti9/music/laning_01_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti9/music/laning_01_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti9/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti9/music/laning_02_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti9/music/laning_02_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti9/music/laning_02_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti9/music/laning_03_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti9/music/laning_03_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti9/music/laning_03_layer_01.vsnd"
+	// 					"wave"		"sounds/music/valve_ti7/music/laning_01_layer_01.vsnd"
+	// 		// "wave"		"sounds/music/valve_ti8/music/laning_01_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti7/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti7/music/laning_02_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti7/music/laning_02_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti7/music/laning_02_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti7/music/laning_03_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti7/music/laning_03_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti7/music/laning_03_layer_01.vsnd"
+	// 								"wave"		"sounds/music/valve_ti6/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti6/music/laning_01_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti6/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti6/music/laning_02_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti6/music/laning_02_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti6/music/laning_02_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti6/music/laning_03_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti6/music/laning_03_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti6/music/laning_03_layer_01.vsnd"
+	// 											"wave"		"sounds/music/valve_ti5/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti5/music/laning_01_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti5/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti5/music/laning_02_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti5/music/laning_02_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti5/music/laning_02_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti5/music/laning_03_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti5/music/laning_03_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti5/music/laning_03_layer_01.vsnd"
+	// 											"wave"		"sounds/music/valve_ti4/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti4/music/laning_01_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti4/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti4/music/laning_02_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti4/music/laning_02_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti4/music/laning_02_layer_01.vsnd"
+	// 		"wave"		"sounds/music/valve_ti4/music/laning_03_layer_03.vsnd"
+	// 		"wave"		"sounds/music/valve_ti4/music/laning_03_layer_02.vsnd"
+	// 		"wave"		"sounds/music/valve_ti4/music/laning_03_layer_01.vsnd"
+	// 														"wave"		"sounds/music/yaskar_01/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/yaskar_01/music/laning_01_layer_02.vsnd"
+	// 		"wave"		"sounds/music/yaskar_01/music/laning_01_layer_01.vsnd"
+	// 		"wave"		"sounds/music/yaskar_01/music/laning_02_layer_03.vsnd"
+	// 		"wave"		"sounds/music/yaskar_01/music/laning_02_layer_02.vsnd"
+	// 		"wave"		"sounds/music/yaskar_01/music/laning_02_layer_01.vsnd"
+	// 		"wave"		"sounds/music/yaskar_01/music/laning_03_layer_03.vsnd"
+	// 		"wave"		"sounds/music/yaskar_01/music/laning_03_layer_02.vsnd"
+	// 		"wave"		"sounds/music/yaskar_01/music/laning_03_layer_01.vsnd"
+
+	// 	}
+		
+	// }
+
+//随机声音
+	"playrandom"
+	{
+		"volume"	"1, 3"
+		"pitch"		"90, 100"
+		"time"		"15, 20"
+		"position"	"random"
+		"rndwave"
+		{
+			"wave" "sounds/ambient/soundscapes/monkeys01.vsnd"
+			"wave" "sounds/ambient/soundscapes/monkeys02.vsnd"
+			"wave" "sounds/ambient/soundscapes/monkeys03.vsnd"
+			"wave" "sounds/ambient/soundscapes/monkeys04.vsnd"
+			"wave" "sounds/ambient/soundscapes/monkeys05.vsnd"
+			"wave" "sounds/ambient/soundscapes/monkeys06.vsnd"
+			"wave" "sounds/ambient/soundscapes/monkeys07.vsnd"
+			"wave" "sounds/ambient/soundscapes/monkeys08.vsnd"
+			"wave" "sounds/ambient/soundscapes/monkeys09.vsnd"
+			"wave" "sounds/ambient/soundscapes/monkeys10.vsnd"
+			"wave" "sounds/ambient/soundscapes/diretide/diretide_wolf_01.vsnd"
+			"wave" "sounds/ambient/soundscapes/diretide/diretide_wolf_02.vsnd"
+			"wave" "sounds/ambient/soundscapes/diretide/diretide_wolf_03.vsnd"
+			"wave" "sounds/ambient/soundscapes/diretide/diretide_wolf_04.vsnd"
+			"wave" "sounds/ambient/soundscapes/summer/cicada01.vsnd"
+			"wave" "sounds/ambient/soundscapes/summer/cicada02.vsnd"
+			"wave" "sounds/ambient/soundscapes/summer/cicada03.vsnd"
+			"wave" "sounds/ambient/soundscapes/summer/cicada04.vsnd"
+			"wave" "sounds/ambient/soundscapes/birds01.vsnd"
+			"wave" "sounds/ambient/soundscapes/birds02.vsnd"
+			"wave" "sounds/ambient/soundscapes/birds03.vsnd"
+
+		}
+	}
+
+
+	"playrandom"
+	{
+		"volume"	"0.4, 0.6"
+		"pitch"		"95, 105"
+		"time"		"18, 24"
+		"position"	"random"
+		"rndwave"
+		{
+			"wave" "sounds/ambient/soundscapes/temple_drone.vsnd"
+			"wave" "sounds/ambient/soundscapes/deathmaze_drone.vsnd"
+		}
+	}
+}

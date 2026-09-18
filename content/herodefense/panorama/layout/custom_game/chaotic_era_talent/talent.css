@@ -1,0 +1,91 @@
+
+.TalentRoot{
+    width: 100%;
+    height: 100%;
+}
+/*开始按钮*/
+#open_button{
+    width: 44px;
+    height: 44px;
+    align: right bottom;
+    margin-right: 410px;
+    margin-bottom: 15px;
+
+    background-image: url("file://{images}/custom_game/talent.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-img-opacity:0.1;
+    border: 2px solid rgba(255, 255, 255, 0.06);
+    transition-property:brightness;
+    transition-duration:0.2s;
+    z-index: 10;
+    /* padding: 20px; */
+    border-radius: 50%;
+}
+/*假背景，充当点击时关闭界面的功能*/
+#talent_bg{
+    width: 100%;
+    height: 100%;
+    /* visibility: collapse; */
+    opacity: 1;
+    transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+    transition-duration: 0.20s, 0.10s, 0.05s;
+    transition-timing-function: ease-in-out;
+
+    opacity: 0.0;
+    transform: translateX( 120px )  translateY( 60px ) ;
+    pre-transform-scale2d:0.95;
+    wash-color: #33cccc;
+}
+/*假背景，充当点击时关闭界面的功能，可见性*/
+#talent_bg.Visible{
+    /* visibility: Visible; */
+    opacity: 1;
+    transform: translateX( 0px )  translateY( 0px ) ;
+    pre-transform-scale2d:1;
+    wash-color: #fafcfc;
+}
+/*真背景*/
+#talent{
+    width: 85%;
+    height: 80%;
+    
+    /* background-img-opacity: 0.50; */
+    align: center center;
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 10px 0px; */
+    z-index: 0;
+    transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+    transition-duration: 0.20s, 0.10s, 0.05s;
+    transition-timing-function: ease-in-out;
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 1000px 0px; */
+
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_long.png");
+    background-size: 50% 100%;
+    background-position: 50% 80%;
+}
+/*天赋树1的背景*/
+#talent_1{
+    width: 25%;
+    height: 80%;
+    background-color: gray;
+    align: left center;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-img-opacity:0.1;
+    border: 2px solid rgba(255, 255, 255, 0.06);
+    transition-property:brightness;
+    transition-duration:0.2s;
+    z-index: 10;
+    padding: 20px; 
+}
+
+/*天赋树1,1-1，class包括图标和按钮*/
+.talent_1_skill1-1{
+    width: 40%;
+    height: 40%;
+    align: left top;
+}

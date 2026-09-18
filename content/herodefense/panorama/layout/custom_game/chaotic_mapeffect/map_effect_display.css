@@ -1,0 +1,36 @@
+.MapEffectContainer {
+  width: 300px;
+  height: fit-children;
+  horizontal-align: right;
+  vertical-align: top;
+  margin-top: 100px;
+  margin-right: 90px;
+  
+  flow-children: down;
+}
+
+#MapEffectList {
+  width: 100%;
+  height: fit-children;
+  flow-children: down;
+  /* background-color: red;/ */
+}
+
+#MapEffectList > Panel {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 5px;
+  background-color: #ffffff66;
+  border: 1px solid #00000066;
+  border-radius: 5px;
+}
+
+#MapEffectList > Panel > Label {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  vertical-align: center;
+  color: white;
+  font-size: 22px;
+  margin-top: 3px;
+}

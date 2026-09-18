@@ -1,0 +1,360 @@
+
+#difficultySelectWindowsRoot{
+    width: 100%;
+    height: 100%;
+   
+
+    
+    
+}
+
+
+#difficultySelectWindowsRoot {
+    visibility: collapse;
+}
+#difficultySelectWindowsRoot.Visible {
+    visibility: visible;
+}
+#difficultyLabelPanel {
+    visibility: collapse;
+}
+#difficultyLabelPanel.Visible {
+    visibility: visible;
+}
+
+
+#difficultyLabelPanel{
+    /* flow-children: down-wrap; */
+    width: 750px;
+    height: 650px;
+    z-index: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-top: 150px;
+    /* margin-left: 22%; */
+    align: center top;
+    /* wash-color:  #ffffff; */
+    /* border: 10px solid #fdf9f9; */
+    /* box-shadow: rgb(0, 13, 28) 0px 0px 80px 10px; */
+    box-shadow: rgb(8, 0, 28) 0px 0px 80px 0px;
+
+    /* background-image: url("s2r://panorama/images/battlepass/fall2021/fp_aghanim_background_psd.vtex"); */
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/play_panel_bg_2.png");
+    background-size: 100% 100%;
+    background-position: 50% 80%;
+    /* wash-color:rgba(71, 46, 133, 0.902);  */
+
+
+    transition-property: width;
+    transition-duration: 0.6s, 0.4s, 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+#MyUIButtonLabel{
+    /* margin: 2px; */
+    padding: 10px;
+    color: #eddfff;
+    /* margin-left: 45%; */
+    font-size: 40px;
+    width: 100%;
+    height: 8%;
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-shadow: 2px 2px 5px 2 #00000090;
+    text-overflow: shrink;
+
+
+    text-align: center;
+    /* padding-top: 6px; */
+    /* background-color: rgba(0, 0, 0, 1); */
+    
+    background-image: url("s2r://panorama/images/battlepass/fall2021/purple_blue_bg_jpg.vtex");
+    background-size: 100%;
+    background-position:center top;
+    background-repeat: no-repeat;
+    box-shadow: rgba(0, 0, 0, 0.62) 0px 0px 18px 1px;
+    /* color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#5782df)); */
+
+}
+
+#difficultySelectWindows{
+    width: 100%;
+    /* overflow:squish scroll;   */
+    /* overflow-y:hidden; */
+    flow-children: down-wrap;
+    height: 100%;
+    margin-top: 90px;
+   
+
+}
+#difficulty10,
+#difficulty9,
+#difficulty8,
+#difficulty7,
+#difficulty6,
+#difficulty5,
+#difficulty4,
+#difficulty3,
+#difficulty2,
+#difficulty1{
+    z-index: 2;
+    margin-top: 18px;
+    /* margin-left: 30px; */
+    /* margin: 300px; */
+    /* align: center; */
+    align: center top;
+    height: 50px;
+    width: 300px;
+    /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+    /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+    /* background-image: url("s2r://panorama/images/hud/reborn/hud_custom_ti10/ability_bg_psd.vtex"); */
+    /* background-image: url("s2r://panorama/images/hud/reborn/hud_custom_aghs2/ability_bg_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat; */
+
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_deck_info.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
+    border-radius: 5px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+    brightness: 1.5;
+    wash-color: rgba(56, 0, 119, 0.563);
+    border:0.6px solid rgba(99, 99, 99,0.3);
+
+
+    transition-property: box-shadow, pre-transform-scale2d;
+    transition-duration: 0.32s, 0.4s, 0.5s;
+    transition-timing-function: ease-in-out;
+    box-shadow: rgba(0, 0, 0, 0.62) 0px 0px 1px 3px;
+    
+
+}
+#difficulty1{
+    margin-top: 100px;
+}
+
+
+#difficulty1:hover {   box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 5px 0px;}
+#difficulty2:hover {   box-shadow: rgba(255, 255, 255, 0.4) 0px 0px 5px 0px;}
+#difficulty3:hover {   box-shadow: rgba(255, 255, 255, 0.62) 0px 0px 5px 0px;}
+#difficulty4:hover {   box-shadow: rgba(255, 255, 255, 0.82) 0px 0px 5px 0px;}
+#difficulty5:hover {   box-shadow: rgba(184, 221, 20, 0.62) 0px 0px 5px 0px;}
+#difficulty6:hover {   box-shadow: rgba(209, 140, 12, 0.62) 0px 0px 5px 0px;}
+#difficulty7:hover {   box-shadow: rgba(146, 58, 7, 0.62) 0px 0px 5px 0px;}
+#difficulty8:hover {   box-shadow: rgba(146, 58, 7, 0.62) 0px 0px 5px 0px;}
+#difficulty9:hover {   box-shadow: rgba(5, 120, 228, 0.62) 0px 0px 5px 0px;}
+#difficulty10:hover {   box-shadow: rgb(88, 174, 255) 0px 0px 5px 0px;}
+#difficulty10:hover,
+#difficulty9:hover,
+#difficulty8:hover,
+#difficulty7:hover,
+#difficulty6:hover,
+#difficulty5:hover,
+#difficulty4:hover,
+#difficulty3:hover,
+#difficulty2:hover,
+#difficulty1:hover{
+    pre-transform-scale2d: 1.1;
+
+}
+
+
+
+
+
+
+.difficultySelect {
+    flow-children: down;
+    width: 12%;
+    height: 20%;
+    background-color: rgba(61, 61, 61, 0.3);
+}
+
+/* .difficultySelect:hover { */
+    /* border: 5px solid #888888; */
+    /* background-color: rgba(255, 255, 255, 0.1); */
+    
+/* } */
+
+
+.difficultyLabel1{
+    /* margin: 5px; */
+    /* padding: 5px; */
+    color: #f7f7f7;
+    
+    /* margin-left: 10%; */
+    font-size: 18px;
+    text-align: center;
+    align: center center;
+    text-shadow: rgb(77, 77, 77) 0px 0px -5px;
+    
+    /* font-family: "sans-serif"; */
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e6461));
+}
+
+.difficultyLabel2{
+    /* margin: 5px; */
+    /* padding: 5px; */
+    color: #f7f7f7;
+    /* margin-left: 10%; */
+    font-size: 18px;
+    text-align: center;
+    align: center center;
+    text-shadow: rgb(126, 126, 126) 0px 0px -5px;
+    /* font-family: "sans-serif"; */
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e6461));
+}
+
+.difficultyLabel3{
+    /* margin: 5px; */
+    /* padding: 5px; */
+    color: #f7f7f7;
+    /* margin-left: 10%; */
+    font-size: 18px;
+    text-align: center;
+    align: center center;
+    text-shadow: rgb(212, 212, 212) 0px 0px -5px;
+    /* font-family: "sans-serif"; */
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    /* color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#ffffff)); */
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e6461));
+
+}
+
+.difficultyLabel4{
+    /* margin: 5px; */
+    /* padding: 5px; */
+    color: #f7f7f7;
+    /* margin-left: 10%; */
+    font-size: 18px;
+    text-align: center;
+    align: center center;
+    text-shadow: rgb(255, 254, 254) 0px 0px -5px;
+    /* font-family: "sans-serif"; */
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    /* color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#fc9393)); */
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e6461));
+}
+
+.difficultyLabel5{
+    /* margin: 5px; */
+    /* padding: 5px; */
+    color: #f7f7f7;
+    /* margin-left: 10%; */
+    font-size: 18px;
+
+    text-align: center;
+    align: center center;
+    text-shadow: rgb(106, 104, 3) 0px 0px 5px;
+    /* font-family: "sans-serif"; */
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e6461));
+    
+}
+.difficultyLabel6{
+    /* margin: 5px; */
+    /* padding: 5px; */
+    color: #f7f7f7;
+    /* margin-left: 10%; */
+    font-size: 18px;
+    text-align: center;
+    align: center center;
+    text-shadow: rgb(117, 84, 13) 0px 0px 5px;
+    /* font-family: "sans-serif"; */
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e6461));
+}
+.difficultyLabel7{
+    /* margin: 5px; */
+    /* padding: 5px; */
+    color: #f7f7f7;
+    /* margin-left: 10%; */
+    font-size: 18px;
+    
+    align: center center;
+    text-shadow: rgb(131, 54, 9) 0px 0px 5px;
+    /* font-family: "sans-serif"; */
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e6461));
+}
+.difficultyLabel8{
+    /* margin: 5px; */
+    /* padding: 5px; */
+    color: #f7f7f7;
+    /* margin-left: 10%; */
+    align: center center;
+    font-size: 18px;
+    text-align: center;
+    /* text-shadow: rgb(172, 0, 0) 0px 0px 5px; */
+    text-shadow: rgb(131, 54, 9) 0px 0px 5px;
+    /* font-family: "sans-serif"; */
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e6461));
+}
+
+.difficultyLabel9{
+    color: #f7f7f7;
+    /* margin-left: 10%; */
+    align: center center;
+    font-size: 18px;
+    text-align: center;
+    /* text-shadow: rgb(172, 0, 0) 0px 0px 5px; */
+    text-shadow: rgb(9, 92, 131) 0px 0px 5px;
+    /* font-family: "sans-serif"; */
+
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e4464));
+}
+
+.difficultyLabel_info{
+    margin: 10px;
+    /* padding: 10px; */
+    color: #b8b8b8;
+    font-size: 13px;
+    font-family: "sans-serif";
+}
+
+
+
+.difficultyLabel10{
+    color: #f7f7f7;
+    align: center center;
+    font-size: 18px;
+    text-align: center;
+    text-shadow: rgb(103, 9, 131) 0px 0px 5px;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    text-overflow: shrink;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#3e4464));
+}
+
+
+
+
+
+.hidden{
+    visibility: collapse;
+}
+
+

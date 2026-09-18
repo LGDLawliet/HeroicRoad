@@ -1,0 +1,55 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 8
+	m_nInitialParticles = 1
+	m_ConstantColor = [ 103, 196, 249, 255 ]
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/econ/items/lina/lina_fire_lotus/lina_fire_lotus_ambient.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/lina_ambient_fire_1vpcf.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire_b.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/neck_fire.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/lina_fiery_soul_c.vpcf"
+		},
+	]
+}

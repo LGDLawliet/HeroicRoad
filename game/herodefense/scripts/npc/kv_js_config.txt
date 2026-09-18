@@ -1,0 +1,86 @@
+"EOMConfig"
+{
+	// 区块分为configs和kvfiles，名字无需大小写区分
+	// configs为配置信息，用于填写各种配置功能
+	// kvfiles为kv文件，格式为："转化js文件的名字.js" "以scripts文件夹为根目录的相对路径"
+	"configs"
+	{
+		"OverrideAbilities"	"false"
+		"OverrideUnits"	"true"
+		"OverrideHeroes"	"true"
+		"OverrideItems"	"true"
+		"ObjectName"		"GameUI.CustomUIConfig()"
+		// "OutputPath"		"panorama/src/kv"
+		// "DeclarePath"		"panorama/src/declarations/kv"
+	}
+	"kvfiles"
+	{
+		"AbilitiesKv"	"npc/npc_abilities_custom.txt",
+		// "HeroesKv"	"npc/npc_heroes_custom.txt",
+		// "HeroListKv"	"npc/herolist.txt",
+		"ItemsKv"	"npc/npc_items_custom.txt",
+		"UnitsKv"	"npc/npc_units_custom.txt",
+
+
+
+		"SpellShop_PhysicalKV"	"npc/game_config/spell_shop/spell_shop_physical.kv",
+		"SpellShop_MagicalKV"	"npc/game_config/spell_shop/spell_shop_magical.kv",
+		"SpellShop_SummonKV"	"npc/game_config/spell_shop/spell_shop_summon.kv",
+		"SpellShop_DefenseKV"	"npc/game_config/spell_shop/spell_shop_defense.kv",
+		"SpellShop_AssistKV"	"npc/game_config/spell_shop/spell_shop_assist.kv",
+		"SpellShop_OtherKV"		"npc/game_config/spell_shop/spell_shop_other.kv",
+
+
+		"ChallengeInfo_KV"		"npc/game_config/challenge/challenge_info.kv",
+
+		"GameShop_General_KV"		"npc/game_config/game_shop/game_shop_general.kv",
+
+		"BaseSetting_KV"		"npc/game_config/base_setting/game_base_config.kv",
+		"AbilityBonusInfoKV"		"npc/game_config/base_setting/ability_bonus_info.kv",
+
+
+
+
+
+		// 乱纪元技能表
+
+		"ChaoticSpellKV_class1"			"npc/game_config/chaotic_spell_list/chaotic_spell_class_1.kv",
+		"ChaoticSpellKV_class2"			"npc/game_config/chaotic_spell_list/chaotic_spell_class_2.kv",
+		"ChaoticSpellKV_class3"			"npc/game_config/chaotic_spell_list/chaotic_spell_class_3.kv",
+		"ChaoticSpellKV_class4"			"npc/game_config/chaotic_spell_list/chaotic_spell_class_4.kv",
+		"ChaoticSpellKV_class5"			"npc/game_config/chaotic_spell_list/chaotic_spell_class_5.kv",
+		"ChaoticSpellKV_class6"			"npc/game_config/chaotic_spell_list/chaotic_spell_class_6.kv",
+		"ChaoticSpellKV_class7"			"npc/game_config/chaotic_spell_list/chaotic_spell_class_7.kv",
+		"ChaoticSpellKV_class8"			"npc/game_config/chaotic_spell_list/chaotic_spell_class_8.kv",
+		"ChaoticSpellKV_class9"			"npc/game_config/chaotic_spell_list/chaotic_spell_class_9.kv",
+		"ChaoticSpellKV_class10"		"npc/game_config/chaotic_spell_list/chaotic_spell_class_10.kv",
+		"ChaoticSpellKV_class11"		"npc/game_config/chaotic_spell_list/chaotic_spell_class_11.kv",
+
+
+		"ChaoticSpellRuneKV"		"npc/game_config/chaotic_spell_rune/chaotic_spell_runeData.kv",
+
+
+		"ChaoticEraPotionKV"		"npc/game_config/game_shop/game_shop_chaotic_era_potion.kv",
+
+
+		"ChaoticEra_MapEffect"		"npc/game_config/chaotic_buff_card/chaotic_era_map_effect.kv",
+		"ChaoticEra_Artifact"		"npc/game_config/chaotic_buff_card/chaotic_era_artifact.kv",
+
+		"ChaoticEra_PlayerArtifact"		"npc/item/item_player_artifact.kv",
+
+		"ChaoticEra_PlayerArtifact_exp"		"npc/game_config/base_setting/player_artifact_exp.kv",
+
+        
+		
+
+        // KeyValues.spell_shop_physical = LoadKeyValues("scripts/npc/game_config/spell_shop/spell_shop_physical.kv")  
+        // KeyValues.spell_shop_magical = LoadKeyValues("scripts/npc/game_config/spell_shop/spell_shop_magical.kv")  
+        // KeyValues.spell_shop_summon = LoadKeyValues("scripts/npc/game_config/spell_shop/spell_shop_summon.kv")  
+        // KeyValues.spell_shop_defense = LoadKeyValues("scripts/npc/game_config/spell_shop/spell_shop_defense.kv")  
+        // KeyValues.spell_shop_assist = LoadKeyValues("scripts/npc/game_config/spell_shop/spell_shop_assist.kv")  
+        // KeyValues.spell_shop_other = LoadKeyValues("scripts/npc/game_config/spell_shop/spell_shop_other.kv")  
+
+
+
+	}
+}

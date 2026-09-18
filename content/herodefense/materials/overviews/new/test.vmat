@@ -1,0 +1,48 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "global_lit_simple.vfx"
+
+	//---- Scroll UV ----
+	F_SCROLL_UV 1 // Scroll Color Only
+
+	//---- Specular ----
+	F_SPECULAR 1
+
+	//---- Translucent ----
+	F_ALPHA_ANGLE_POWER 1
+	F_TRANSLUCENT 1
+
+	//---- Color ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[-0.787 1.000]"
+	g_vTexCoordScale "[1.707 1.707]"
+	TextureColor "materials/models/heroes/storm_spirit/storm_spirit_detail.psd"
+
+	//---- Scroll UV ----
+	g_flScrollUvSpeed "0.396"
+	g_vScrollUvDirection "[0.500 0.133]"
+	TextureScrollSpeed "materials/default/default.tga"
+
+	//---- Self Illum ----
+	TextureSelfIllumMask "materials/default/default_selfillum.tga"
+
+	//---- Specular ----
+	g_flSpecularBloom "0.891"
+	g_flSpecularIntensity "1.871"
+	TextureBloom "[0.600000 0.600000 0.600000 0.000000]"
+	TextureReflectance "materials/default/default_refl.tga"
+
+	//---- Translucent ----
+	g_flAlphaAnglePower "3.485"
+	g_flOpacityScale "0.238"
+	TextureTranslucency "[1.000000 1.000000 1.000000 0.000000]"
+
+	SystemAttributes
+	{
+		PhysicsSurfaceProperties "brick"
+		WorldMappingWidth "2048"
+		WorldMappingHeight "2048"
+	}
+}

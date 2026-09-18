@@ -1,0 +1,123 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_ete_r"
+					m_entityName = "self_with_wearables"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_ete_l"
+					m_entityName = "self_with_wearables"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_hand_left"
+					m_entityName = "self_with_wearables"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_hand_right"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/override_model/terrorblade_ultimate/terrorblade_ultimate_depravity_demon.vmdl"
+				m_sequenceName = "idle"
+				m_hitboxSetName = "default"
+			}
+		},
+		{
+			m_name = "game"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_eye_r"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_eye_l"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_hat"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/custom/panda/panda_red.vmdl"
+				m_hitboxSetName = "default"
+			}
+		},
+		{
+			m_name = "Config 3"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_eye_l"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_eye_r"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_hat"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/custom/panda/panda_red.vmdl"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetParentControlPointsToChildCP"
+			m_nNumControlPoints = 3
+			m_bSetOrientation = true
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/ete_ambient/effect_eye.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/ete_ambient/effect_eye.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/ete_ambient/effect_ribbon.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/override_model/terrorblade_ultimate/fx/ete_ambient/effect_ribbon_right.vpcf"
+		},
+	]
+}

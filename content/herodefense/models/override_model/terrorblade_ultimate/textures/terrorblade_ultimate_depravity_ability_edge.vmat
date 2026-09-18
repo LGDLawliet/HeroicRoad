@@ -1,0 +1,173 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 2 // Add Self Illum
+	F_DETAIL_2 2 // Add Self Illum
+
+	//---- Effect Proxies ----
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Specular ----
+	F_MASK_CUBE_MAP_BY_METALNESS 1
+	F_SPECULAR_CUBE_MAP 1
+
+	//---- Translucency ----
+	F_ALPHA_TEST 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "[1.000000 1.000000 1.000000 1.000000]"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[8.000 8.000]"
+	TextureDetail "materials/models/heroes/abaddon/abaddon_detail.psd"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.137"
+	g_vDetail2TexCoordOffset "[0.000 0.000]"
+	g_vDetail2TexCoordScale "[1.000 1.000]"
+	TextureDetail2 "[1.000000 1.000000 1.000000 1.000000]"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/models/heroes/slardar/slardar_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/models/heroes/axe/axe_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "0.000"
+	g_flBloomShift "-1.000"
+	g_flOverbrightFactor "1.000"
+	g_vBloomColor "[0.000000 0.658824 0.992157 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "models/override_model/terrorblade_ultimate/textures/terrorblade_ultimate_depravity_ability_detailmask.png"
+	TextureDiffuseWarpMask "models/override_model/terrorblade_ultimate/textures/terrorblade_ultimate_depravity_ability_98551881_diffusemask.png"
+	TextureMetalnessMask "models/override_model/terrorblade_ultimate/textures/terrorblade_ultimate_depravity_ability_98551881_metalnessmask.png"
+	TextureSelfIllumMask "models/override_model/terrorblade_ultimate/textures/terrorblade_ultimate_depravity_ability_98551881_selfillummask.png"
+
+	//---- Mask 2 ----
+	TextureRimMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularExponent "models/override_model/terrorblade_ultimate/textures/terrorblade_ultimate_depravity_ability_4e34aca0_specexp.png"
+	TextureSpecularMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureTintByBaseMask "models/override_model/terrorblade_ultimate/textures/terrorblade_ultimate_depravity_ability_4e34aca0_basetintmask.png"
+
+	//---- Normal Map ----
+	TextureNormal "models/override_model/terrorblade_ultimate/textures/terrorblade_ultimate_depravity_ability_normal.png"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Specular ----
+	g_flCubeMapScalar "20.000"
+	g_flSpecularExponent "32.000"
+	g_flSpecularScale "5.000"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureCubeMap "materials/models/cubemaps/glossy_terrorblade_cube.tga"
+
+	//---- Translucency ----
+	g_flAlphaTestReference "0.500"
+	TextureTranslucency "models/override_model/terrorblade_ultimate/textures/terrorblade_ultimate_depravity_ability_755fc7ca_trans.png"
+
+	Attributes
+	{
+		PreviewModel "models/override_model/terrorblade_ultimate/terrorblade_ultimate_depravity_demon.vmdl"
+	}
+
+	DynamicParams
+	{
+		g_vDetail1ColorTint "return exists($GemColor) ? $GemColor : float3(.34,.73,.93);"
+		g_vDetailTexCoordOffset "return frac(float2(-.06,-.5)*time());"
+		g_vDetailTexCoordScale "return float2(20,20);"
+		g_vSpecularColor "return exists($GemColor) ? $GemColor : float3(.349,.735,1);"
+	}
+
+	UnusedVariables
+	{
+		"TextureCubeMapSeparateMask" "[1.000000 1.000000 1.000000 0.000000]"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+			"Overbright" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+		"Translucency"
+		{
+		}
+	}
+}

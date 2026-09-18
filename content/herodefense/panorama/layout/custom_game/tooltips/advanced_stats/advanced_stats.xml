@@ -1,0 +1,136 @@
+<root>
+	<styles>
+		<include src="s2r://panorama/styles/dotastyles.vcss_c" />
+		<include src="s2r://panorama/styles/hudstyles.vcss_c" />
+		<include src="s2r://panorama/styles/hud/hud_reborn.vcss_c" />
+		<include src="file://{resources}/layout/custom_game/tooltips/advanced_stats/advanced_stats.css" />
+	</styles>
+	<scripts>
+		<include src="file://{resources}/scripts/custom_game/common.js" />
+		<include src="file://{resources}/layout/custom_game/tooltips/advanced_stats/advanced_stats.js" />
+	</scripts>
+	<Panel class="unitStatsRoot" ontooltiploaded="setupTooltip()" >
+	<Label class="ContainerHeader" text="#DOTA_HUD_Advanced_Attribue"/>
+		<Panel id="AdvancedAttributeContainer">
+			<Panel id="AdvancedAttribute1" class="TopBottomFlow">
+				<!-- 攻击力 -->
+				<Panel id="DamageRow" class="StatRow">
+					<Label id="DamageLabel" text="#DOTA_HUD_Damage" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<!-- 白字 -->
+						<Label id="Damage" text="{s:base_damage}" class="BaseValue"/>  
+						<!-- 绿字 -->
+						<Label id="DamageBonus" text="{s:bonus_damage}" class="BonusValue"/>
+					</Panel>
+				</Panel>
+				<Panel id="CooldownReductionRow" class="StatRow">
+					<Label id="CooldownReductionLabel" text="#DOTA_HUD_CooldownReduction" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="CooldownReduction" text="{s:cooldown_reduction}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+				<Panel id="OutGoingDamageRow" class="StatRow">
+					<Label id="OutGoingDamageLabel" text="#DOTA_HUD_OutGoingDamage_Detail" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="OutGoingDamage" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+				<!-- 施法距离 -->
+				<Panel id="CastRangeBonusRow" class="StatRow">
+					<Label id="CastRangeBonusLabel" text="#DOTA_HUD_CastRangeBonus_Detail" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="CastRangeBonus" text="{s:value}" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+				<!-- 治疗增强 -->
+				<Panel id="HealAMP_PercentageBonusRow" class="StatRow">
+					<Label id="HealAMP_PercentageBonusLabel" text="#DOTA_HUD_HealAMP_PercentageBonus_Detail" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="HealAMP_PercentageBonus" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+				<Panel id="HealReceiveAMP_PercentageBonusRow" class="StatRow">
+					<Label id="HealReceiveAMP_PercentageBonusLabel" text="#DOTA_HUD_HealReceiveAMP_PercentageBonus_Detail" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="HealReceiveAMP_PercentageBonus" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+				<Panel id="LifeStealntensityRow" class="StatRow">
+					<Label id="LifeStealntensityLabel" text="#DOTA_HUD_LifeStealIntensity" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="LifeStealntensity" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+				<Panel id="PhysicalCriticalAmpRow" class="StatRow">
+					<Label id="PhysicalCriticalAmpLabel" text="#DOTA_HUD_PhysicalCriticalAmp" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="PhysicalCriticalAmp" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+			
+
+			</Panel>
+			<Panel id="AdvancedAttribute2" class="TopBottomFlow">
+				
+				<Panel id="DurationGainRow" class="StatRow">
+					<Label id="DurationGainLabel" text="#DOTA_HUD_DurationGain" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="DurationGain" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+				<Panel id="NegativeDurationGainRow" class="StatRow">
+					<Label id="NegativeDurationGainLabel" text="#DOTA_HUD_NegativeDurationGain" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="NegativeDurationGain" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+
+				<Panel id="SummonIntensityGainRow" class="StatRow">
+					<Label id="SummonIntensityGainLabel" text="#DOTA_HUD_SummonIntensity" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="SummonIntensityGain" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+				<Panel id="SummonTimeIntensityRow" class="StatRow">
+					<Label id="SummonTimeIntensityLabel" text="#DOTA_HUD_SummonTimeIntensity" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="SummonTimeIntensity" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+
+
+				<Panel id="RandomEffectGainRow" class="StatRow">
+					<Label id="RandomEffectGainLabel" text="#DOTA_HUD_RandomEffectGain" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="RandomEffectGain" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+				
+				<Panel id="Incoming_DamageGainRow" class="StatRow">
+					<Label id="Incoming_DamageLabel" text="#DOTA_HUD_Incoming_Damage" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="Incoming_Damage" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+
+				<Panel id="Proficiency_GainRow" class="StatRow">
+					<Label id="Proficiency_Label" text="#DOTA_HUD_Proficiency" class="StatName"/>
+					<Panel class="LeftRightFlow">
+						<Label id="Proficiency" text="{s:value}%" class="BaseValue"/>
+					</Panel>
+				</Panel>
+				
+			</Panel>
+		</Panel>
+		
+	</Panel>
+</root>

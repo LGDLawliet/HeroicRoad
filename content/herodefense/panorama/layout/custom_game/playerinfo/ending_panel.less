@@ -1,0 +1,236 @@
+#playerGameBonusMenuwindowROOT {
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/play_panel_bg_2.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    box-shadow: rgb(20, 20, 20)  0px 0px 3px 0px; 
+    visibility: collapse;
+    #playerGameBonusMenuwindow{
+        width: 1200px;
+        height: 800px;
+        align: center top;
+        background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_long2.png");
+        background-size: 100% 100%;
+        background-position: 50% 80%;
+        wash-color:rgba(71, 46, 133, 0.202); 
+        border-radius: 1%;
+        margin-top: 120px;
+        border:1px solid rgb(33, 33, 33);
+        flow-children: down-wrap;
+        #TitleAndClose{
+            width: 100%;
+            height: 50px;
+            #playerGameBonusMenuwindowTitle{
+                color: #ffffffff;
+                font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+                font-size: 34px;
+                height: 46px;
+                width: 100%;
+                text-shadow: 2px 2px 4px 2 #00000090;
+                text-overflow: shrink;
+                align: center top;
+                margin-bottom: 11px;
+                text-align: center;
+                /* padding-top: 6px; */
+                /* margin-top: -10px; */
+                background-color: rgba(10, 20, 41, 0.5);
+                border-bottom: 2px solid #3a3a3a;
+                color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+                /* flow-children: right-wrap; */
+                z-index: 0;
+            }
+            
+            /* 关闭结算窗口 */
+            #CloseplayerGameBonusMenuwindowButton {
+                align: right top;
+                /* margin-right: 40px; */
+                height: 30px;
+                width: 30px;
+                /* margin-bottom: 600px; */
+                /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+                background-image: url("s2r://panorama/images/hud/reborn/disconnect_x_psd.vtex");
+                background-size: 100%;
+                background-repeat: no-repeat;
+                background-position: center;
+                z-index: 0;
+                /* padding: 20px; */
+                border-radius: 50%;
+            }
+            #CloseplayerGameBonusMenuwindowButton:hover {
+                /* border: 2px solid #888888; */
+                brightness: 10;
+            }
+
+
+        }
+        /* 装技能书列表 */
+        #playerBonusSpellBookRoot{
+            width: 100%;
+            height: 300px;
+            flow-children: down-wrap;
+            overflow:squish scroll;  
+            margin: 2px;
+            border-top: 1px solid #38383844;
+            border-bottom: 2px solid #38383888;
+            padding:5px 10px 5px 10px;
+            z-index: 0;
+            padding: 15px;
+            border-radius: 5px;
+
+        }
+        #playerBonusRuneContent{
+            width: 100%;
+            height: 300px;
+            flow-children: right-wrap;
+            overflow:squish scroll;  
+            margin: 2px;
+            border-top: 1px solid #38383844;
+            border-bottom: 2px solid #38383888;
+            padding:5px 10px 5px 10px;
+            z-index: 0;
+            padding: 15px;
+            border-radius: 5px;
+        }
+
+        #playerGameBonus_info_inside_exp{
+            width: 100%;
+            height: 30px;
+            margin-top: 50px;
+            flow-children: right-wrap;
+            #playerGameBonus_inside_exp_text{
+                width: 200px;
+                height: 100%;
+                font-family: "sans-serif";
+                font-size: 23px;
+                z-index: 2;
+                text-shadow: rgb(50, 148, 41) 0px 0px 2px;
+                text-overflow: clip;
+                text-align: center;
+            }
+            #playerGameBonus_inside_exp_text2{
+                width: 20%;
+                height: 100%;
+                font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+                font-size: 23px;
+                z-index: 2;
+                text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; 
+                text-overflow: clip;
+                /* color: gradient(linear, 50% 0%, 0% 90%, from(#808080), to(#cdcece)); */
+                color: #21a056;
+                /* box-shadow: rgb(64, 99, 79) 0px 0px 5px 0px; */
+                box-shadow: rgb(0, 0, 0) 0px 0px 10px 0px;
+            
+                background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_long.png");
+                background-size: 120% 120%;
+                background-position: 50% 50%;
+                text-align: center;
+            }
+            
+        }
+        
+        
+        
+        
+        
+        
+        #playerGameBonus_info_inside_gold{
+            width: 100%;
+            height: 30px;
+            margin-top: 15px;
+            /* margin-top: 410px; */
+            flow-children: right-wrap;
+            #playerGameBonus_inside_gold_text{
+                width: 200px;
+                height: 100%;
+                font-family: "sans-serif";
+                font-size: 23px;
+                z-index: 2;
+                text-shadow: rgb(131, 146, 48) 0px 0px 2px;
+                text-overflow: clip;
+                text-align: center;
+            }
+            #playerGameBonus_inside_gold_text2{
+                width: 20%;
+                height: 100%;
+                font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+                font-size: 23px;
+                /* height: 46px; */
+                z-index: 2;
+                /* align: center top; */
+                /* width: 20%; */
+                /* margin-top: 75px; */
+                text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; /* 雕刻 */
+                text-overflow: clip;
+                /* color: gradient(linear, 50% 0%, 0% 90%, from(#808080), to(#cdcece)); */
+                color: #f3ea67;
+                /* box-shadow: rgb(124, 121, 75) 0px 0px 5px 0px; */
+                box-shadow: rgb(0, 0, 0) 0px 0px 10px 0px;
+                background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_long.png");
+                background-size: 120% 120%;
+                background-position: 50% 50%;
+                text-align: center;
+            }
+            
+        }
+        
+        
+    }
+
+    
+    #SettlementBG{
+        width: 100%;
+        height: 100%;
+        pre-transform-scale2d: 2.2;
+        /* blur: gaussian(3px); */
+        horizontal-align: center;
+        vertical-align: middle;
+        /* opacity: 0; */
+        z-index: 0;
+        /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+        border-radius: 4px;
+        hue-rotation: 0deg;
+        wash-color: #ffffff;
+        transition-property: hue-rotation,opacity, wash-color, pre-transform-scale2d;
+        transition-duration: 3.32s, 1.5s, 3.9s;
+        transition-timing-function: ease-in;
+        /* visibility: collapse; */
+        pre-transform-scale2d: 1;
+        /* visibility: collapse; */
+    }
+    #PostGameBGBONUS{pre-transform-scale2d: 2;}
+    #PostGameBGBONUS.SceneLoaded{wash-color: rgb(122, 122, 122);}
+    #PostGameBGBONUS2{
+        width: 100%;
+        height: 100%;
+        /* pre-transform-scale2d: 1.2; */
+        /* blur: gaussian(3px); */
+        horizontal-align: center;
+        vertical-align: middle;
+        opacity: 1;
+        /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+        border-radius: 4px;
+        /* hue-rotation: 50deg; */
+        /* wash-color: #05090a; */
+        opacity: 0.1;
+        transition-property: opacity, wash-color, pre-transform-scale2d;
+        transition-duration: 0.32s, 1.5s, 1.9s;
+        transition-timing-function: ease-in;
+        z-index: -7;
+        wash-color:rgba(71, 46, 133, 0.9202); 
+        pre-transform-scale2d: 1;
+
+    }
+
+
+}
+
+#playerGameBonusMenuwindowROOT.Visible{
+    visibility: visible;
+}
+
+
+
+
+

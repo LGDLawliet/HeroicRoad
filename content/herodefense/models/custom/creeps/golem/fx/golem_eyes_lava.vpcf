@@ -1,0 +1,63 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf56:version{f07dae67-740b-4789-a729-6ddffc9f855e} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_flConstantRadius = 56.0
+	m_ConstantColor = [ 23, 1, 1, 255 ]
+	m_bShouldSort = false
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_hitloc"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_eye_r"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_POINT_FOLLOW"
+					m_attachmentName = "attach_eye_l"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 6
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 1.0, 1.0 ]
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/custom/creeps/golem/golem.vmdl"
+				m_sequenceName = "Golem@Idle"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_eyes_lavaa.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_eyes_lavad.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_eyes_lavac.vpcf"
+		},
+		{
+			m_ChildRef = resource:"models/custom/creeps/golem/fx/golem_eyes_lavab.vpcf"
+		},
+	]
+}

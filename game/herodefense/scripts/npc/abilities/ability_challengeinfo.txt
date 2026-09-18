@@ -1,0 +1,2343 @@
+"DOTAAbilities"
+{
+    "ChallengeInfo_009_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earth_spirit_stone_caller"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_009_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earth_spirit_stone_caller"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_009_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earth_spirit_stone_caller"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_009_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earth_spirit_stone_caller"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_008_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord/ti8_immortal_weapon/abyssal_underlord_pit_of_malice_immortal_crimson"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_008_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord/ti8_immortal_weapon/abyssal_underlord_pit_of_malice_immortal_crimson"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_008_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord/ti8_immortal_weapon/abyssal_underlord_pit_of_malice_immortal_crimson"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_008_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord/ti8_immortal_weapon/abyssal_underlord_pit_of_malice_immortal_crimson"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_007_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "juggernaut/fortunes_tout/juggernaut_healing_ward"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_007_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "juggernaut/fortunes_tout/juggernaut_healing_ward"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_007_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "juggernaut/fortunes_tout/juggernaut_healing_ward"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_007_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "juggernaut/fortunes_tout/juggernaut_healing_ward"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_006_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "puck_dream_coil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_006_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "puck_dream_coil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_006_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "puck_dream_coil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_006_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "puck_dream_coil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_005_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage/immortal/antimage_blink"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_005_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage/immortal/antimage_blink"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_005_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage/immortal/antimage_blink"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_005_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage/immortal/antimage_blink"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_004_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "undying/undying_fall20_immortal_ability_icon/undying_fall20_immortal_soul_rip"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_004_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "undying/undying_fall20_immortal_ability_icon/undying_fall20_immortal_soul_rip"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_004_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "undying/undying_fall20_immortal_ability_icon/undying_fall20_immortal_soul_rip"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_004_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "undying/undying_fall20_immortal_ability_icon/undying_fall20_immortal_soul_rip"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_003_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "warlock_upheaval"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_003_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "warlock_upheaval"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_003_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "warlock_upheaval"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_003_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "warlock_upheaval"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_002_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte_heartstopper_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_002_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte_heartstopper_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_002_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte_heartstopper_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_002_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte_heartstopper_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_001_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_001_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_001_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_001_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_032_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "axe_berserkers_call"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_032_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "axe_berserkers_call"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_032_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "axe_berserkers_call"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_032_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "axe_berserkers_call"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_031_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "omniknight_purification"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_031_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "omniknight_purification"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_031_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "omniknight_purification"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_031_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "omniknight_purification"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_031_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "omniknight_purification"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_030_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "elder_titan_ancestral_spirit"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_030_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "elder_titan_ancestral_spirit"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_030_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "elder_titan_ancestral_spirit"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_030_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "elder_titan_ancestral_spirit"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_029_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage_counterspell"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_029_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage_counterspell"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_029_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage_counterspell"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_029_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage_counterspell"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_015_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "nevermore_dark_lord"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_016_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "slark_shadow_dance"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_017_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "enigma_malefice"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_027_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord_atrophy_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_028_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "luna/ti9_immortal_weapon/luna_moon_glaive_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_027_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord_atrophy_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_028_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "luna/ti9_immortal_weapon/luna_moon_glaive_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_027_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord_atrophy_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_028_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "luna/ti9_immortal_weapon/luna_moon_glaive_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_027_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord_atrophy_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_028_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "luna/ti9_immortal_weapon/luna_moon_glaive_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_027_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord_atrophy_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_028_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "luna/ti9_immortal_weapon/luna_moon_glaive_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_018_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lycan/ti9_immortal_head/lycan_howl_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_019_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "tusk/glaciomarine_ability_icons/tusk_frozen_sigil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_015_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "nevermore_dark_lord"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_016_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "slark_shadow_dance"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_017_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "enigma_malefice"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_018_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lycan/ti9_immortal_head/lycan_howl_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_019_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "tusk/glaciomarine_ability_icons/tusk_frozen_sigil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_015_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "nevermore_dark_lord"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_016_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "slark_shadow_dance"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_017_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "enigma_malefice"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_018_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lycan/ti9_immortal_head/lycan_howl_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_019_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "tusk/glaciomarine_ability_icons/tusk_frozen_sigil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_015_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "nevermore_dark_lord"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_016_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "slark_shadow_dance"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_017_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "enigma_malefice"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_018_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lycan/ti9_immortal_head/lycan_howl_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_019_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "tusk/glaciomarine_ability_icons/tusk_frozen_sigil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_015_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "nevermore_dark_lord"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_016_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "slark_shadow_dance"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_017_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "enigma_malefice"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_018_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lycan/ti9_immortal_head/lycan_howl_immortal"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_019_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "tusk/glaciomarine_ability_icons/tusk_frozen_sigil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_014_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte/necro_ti7_immortal/necrolyte_reapers_scythe"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_014_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte/necro_ti7_immortal/necrolyte_reapers_scythe"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_014_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte/necro_ti7_immortal/necrolyte_reapers_scythe"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_014_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte/necro_ti7_immortal/necrolyte_reapers_scythe"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_013_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "techies_remote_mines_self_detonate"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_013_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "techies_remote_mines_self_detonate"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_013_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "techies_remote_mines_self_detonate"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_013_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "techies_remote_mines_self_detonate"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_012_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "alchemist_chemical_rage"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_012_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "alchemist_chemical_rage"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_012_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "alchemist_chemical_rage"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_012_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "alchemist_chemical_rage"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_011_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "centaur_khan_endurance_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_011_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "centaur_khan_endurance_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_011_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "centaur_khan_endurance_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_011_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "centaur_khan_endurance_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_010_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "life_stealer_control"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_010_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "life_stealer_control"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_010_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "life_stealer_control"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_010_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "life_stealer_control"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_001_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_002_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte_heartstopper_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_003_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "warlock_upheaval"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_004_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "undying/undying_fall20_immortal_ability_icon/undying_fall20_immortal_soul_rip"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_005_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage/immortal/antimage_blink"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_006_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "puck_dream_coil"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_007_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "juggernaut/fortunes_tout/juggernaut_healing_ward"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_008_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord/ti8_immortal_weapon/abyssal_underlord_pit_of_malice_immortal_crimson"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_009_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earth_spirit_stone_caller"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_010_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "life_stealer_control"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_011_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "centaur_khan_endurance_aura"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_012_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "alchemist_chemical_rage"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_020_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "greevil_natures_attendants"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_021_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "arc_warden_flux"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_022_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "pudge/arcana/pudge_flesh_heap_arcana"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_024_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "blackdeath_fleshheapicon"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_025_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lion_voodoo"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_026_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "invoker_chaos_meteor"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_026_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "invoker_chaos_meteor"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_026_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "invoker_chaos_meteor"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_026_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "invoker_chaos_meteor"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_026_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "invoker_chaos_meteor"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_025_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lion_voodoo"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_025_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lion_voodoo"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_025_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lion_voodoo"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_025_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "lion_voodoo"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_024_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "blackdeath_fleshheapicon"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_024_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "blackdeath_fleshheapicon"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_024_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "blackdeath_fleshheapicon"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_024_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "blackdeath_fleshheapicon"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_023_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "faceless_void_time_dilation"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_023_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "faceless_void_time_dilation"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_023_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "faceless_void_time_dilation"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_023_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "faceless_void_time_dilation"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_023_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "faceless_void_time_dilation"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_022_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "pudge/arcana/pudge_flesh_heap_arcana"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_022_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "pudge/arcana/pudge_flesh_heap_arcana"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_022_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "pudge/arcana/pudge_flesh_heap_arcana"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_022_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "pudge/arcana/pudge_flesh_heap_arcana"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_021_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "arc_warden_flux"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_021_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "arc_warden_flux"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_021_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "arc_warden_flux"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_021_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "arc_warden_flux"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_020_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "greevil_natures_attendants"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_020_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "greevil_natures_attendants"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_020_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "greevil_natures_attendants"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_020_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "greevil_natures_attendants"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_013_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "techies_remote_mines_self_detonate"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_014_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "necrolyte/necro_ti7_immortal/necrolyte_reapers_scythe"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_029_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage_counterspell"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_030_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "elder_titan_ancestral_spirit"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_032_1"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "axe_berserkers_call"
+        "ScriptFile"               "skills/Primary_Omni_Slash"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+    }
+    "ChallengeInfo_033_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "antimage_mana_void"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_033_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "antimage_mana_void"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_033_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "antimage_mana_void"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_033_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "antimage_mana_void"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_033_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "antimage_mana_void"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_034_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "tusk/glaciomarine_ability_icons/tusk_walrus_kick"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_034_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "tusk/glaciomarine_ability_icons/tusk_walrus_kick"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_034_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "tusk/glaciomarine_ability_icons/tusk_walrus_kick"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_034_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "tusk/glaciomarine_ability_icons/tusk_walrus_kick"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_034_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "tusk/glaciomarine_ability_icons/tusk_walrus_kick"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_035_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "furion_curse_of_the_forest"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_035_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "furion_curse_of_the_forest"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_035_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "furion_curse_of_the_forest"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_035_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "furion_curse_of_the_forest"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_035_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "furion_curse_of_the_forest"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_036_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "faceless_void_chronosphere"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_036_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "faceless_void_chronosphere"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_036_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "faceless_void_chronosphere"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_036_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "faceless_void_chronosphere"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_036_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "faceless_void_chronosphere"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_037_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_demonic_conversion"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_037_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_demonic_conversion"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_037_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_demonic_conversion"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_037_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_demonic_conversion"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_037_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_demonic_conversion"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_038_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "bounty_hunter_jinada_ti9"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_038_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "bounty_hunter_jinada_ti9"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_038_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "bounty_hunter_jinada_ti9"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_038_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "bounty_hunter_jinada_ti9"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_038_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "bounty_hunter_jinada_ti9"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_039_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "razor_eye_of_the_storm"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_039_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "razor_eye_of_the_storm"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_039_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "razor_eye_of_the_storm"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_039_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "razor_eye_of_the_storm"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_039_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "razor_eye_of_the_storm"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_040_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "alchemist/midas_knuckles/alchemist_goblins_greed"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_040_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "alchemist/midas_knuckles/alchemist_goblins_greed"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_040_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "alchemist/midas_knuckles/alchemist_goblins_greed"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_040_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "alchemist/midas_knuckles/alchemist_goblins_greed"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_040_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "alchemist/midas_knuckles/alchemist_goblins_greed"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_041_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enchantress_untouchable"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_041_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enchantress_untouchable"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_041_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enchantress_untouchable"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_041_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enchantress_untouchable"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_041_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enchantress_untouchable"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_042_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "brewmaster_earth_spell_immunity"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_042_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "brewmaster_earth_spell_immunity"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_042_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "brewmaster_earth_spell_immunity"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_042_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "brewmaster_earth_spell_immunity"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_042_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "brewmaster_earth_spell_immunity"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_043_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/ti9_immortal_legs/necrophos_ghost_shroud_immortal"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_043_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/ti9_immortal_legs/necrophos_ghost_shroud_immortal"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_043_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/ti9_immortal_legs/necrophos_ghost_shroud_immortal"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_043_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/ti9_immortal_legs/necrophos_ghost_shroud_immortal"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_043_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/ti9_immortal_legs/necrophos_ghost_shroud_immortal"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_044_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/necronub/necrolyte_sadist"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_044_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/necronub/necrolyte_sadist"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_044_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/necronub/necrolyte_sadist"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_044_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/necronub/necrolyte_sadist"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_044_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "necrolyte/necronub/necrolyte_sadist"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_045_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_midnight_pulse"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_045_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_midnight_pulse"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_045_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_midnight_pulse"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_045_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_midnight_pulse"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_045_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "enigma_midnight_pulse"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_046_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "leshrac_pulse_nova"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_046_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "leshrac_pulse_nova"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_046_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "leshrac_pulse_nova"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_046_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "leshrac_pulse_nova"
+        "MaxLevel"              "1"
+    }
+    "ChallengeInfo_046_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "leshrac_pulse_nova"
+        "MaxLevel"              "1"
+    }
+}

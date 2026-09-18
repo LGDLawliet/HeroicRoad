@@ -1,0 +1,525 @@
+
+.UIRoot {
+  width: 100%;
+  height: 100%;
+}
+@define mainPanelWidth: 360px;
+@define negMainPanelWidth: -360px;
+@define largeMainPanelWidth: 400px;
+@define largeNegMainPanelWidth: -400px;
+.hudRoot {
+  width: 100%;
+  height: 100%;
+}
+
+#AbilitiesCustomUIContainer {
+  width: 100%;
+  height: 100%;
+  // background-color: #fff;
+}
+
+.AbilityCustomUI {
+  width: 64px;
+  height: 180px;
+  // background-color: #fff;
+}
+
+.TwelveAbilities .AbilityCustomUI,
+.ElevenAbilities .AbilityCustomUI,
+.TenAbilities .AbilityCustomUI,
+.NineAbilities .AbilityCustomUI,
+.EightAbilities .AbilityCustomUI,
+.SevenAbilities .AbilityCustomUI,
+.FiveAbilities .AbilityCustomUI,
+.SixAbilities .AbilityCustomUI {
+  width: 58px;
+}
+
+
+
+#RequireUnitIcons {
+  margin-bottom: 28px;
+  vertical-align: bottom;
+  horizontal-align: left;
+  flow-children: right;
+}
+
+.TwelveAbilities .RequireUnitIcons,
+.ElevenAbilities .RequireUnitIcons,
+.TenAbilities .RequireUnitIcons,
+.NineAbilities .RequireUnitIcons,
+.EightAbilities .RequireUnitIcons,
+.SevenAbilities .RequireUnitIcons,
+.FiveAbilities #RequireUnitIcons,
+.SixAbilities #RequireUnitIcons {
+  margin-bottom: 31px;
+}
+
+
+
+#upgrateTab{
+  vertical-align: bottom;
+  horizontal-align: center;
+  brightness: 1.4;
+  background-image: url("s2r://panorama/images/hud/reborn/levelup_button_5_psd.vtex");
+  background-image: url("s2r://panorama/images/hud/reborn/bg_timer_psd.vtex");
+  width: 100%;
+  height: 36px;
+  background-size: 100% 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  margin-bottom: 95px;
+  opacity: 0;
+  #upgrateButton{
+    pre-transform-scale2d: .9;
+    background-image: url("s2r://panorama/images/hud/reborn/levelup_button_5_psd.vtex");
+    background-image: url("s2r://panorama/images/hud/reborn/bg_timer_psd.vtex");
+    width: 100%;
+    height: 36px;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    margin-bottom: -4px;
+    #upgrateIcon{
+      /* horizontal-align: center; */
+      /* vertical-align: middle; */
+      align: center center;
+      width: 24px;
+      height: 24px;
+      background-image: url("s2r://panorama/images/hud/reborn/levelup_plus_well_psd.vtex");
+      background-size: 100% 100%;
+      background-position: 50% 50%;
+      background-repeat: no-repeat;
+    }
+
+    &:hover{
+      brightness: 15.8;
+    }
+  }
+  &.show{
+    opacity: 1;
+  }
+}
+#HotkeyContainer{
+  vertical-align: bottom;
+  horizontal-align: center;
+  height: 15px;
+  margin-bottom: 70px;
+  opacity: 0;
+  &.show{
+    opacity: 1;
+  }
+  #HD_Hotkey{
+    background-color:#212726;
+    box-shadow: fill #000000aa 1px 1px 6px 0px;
+    border-radius:4px;
+    border:1px solid black;
+    vertical-align: top;
+    horizontal-align: left;
+    min-width: 14px;
+    min-height: 14px;
+    max-width: 70px;
+    max-height: 15px;
+    white-space: nowrap;
+    > Label{
+      color: white;
+      margin-top: -1px;
+      text-shadow: 1px 1px 0px 2 #000000;
+      font-size:12px;
+      font-weight: normal;
+      text-align: center;
+      horizontal-align: center;
+      margin: 0px 0px -2px 0px;
+      font-family: defaultFont;
+    }
+  }
+}
+
+.is_passive #HotkeyContainer{
+  opacity: 0;
+}
+
+#hotKeySetting{
+  width: 350px;
+  height: 250px;
+  align: left center;
+  transform: translateX( -315px ) translateY( 0px );
+  transition-property: transform;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in-out;
+  opacity: 0;
+  #toolModeHideArrow{
+    align:right center;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/right_arrow_double_active.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 10;
+    width: 40px;
+    height: 35px;
+    transform: scaleX(1);
+    wash-color:#abddf8;
+    z-index: 5;
+    &:hover{
+      brightness: 2;
+    }
+  }
+
+  #hotkeySettingList{
+    width: 320px;
+    height: 100%;
+    background-color: gradient(linear, 0% 0%, 0% 100%, from(#272d2e99), to(#13161799));
+	  border: 1px solid #5e6869;
+	  box-shadow: #000000A8 0px 0px 6px 2px;
+    flow-children: right-wrap;
+  }
+
+  &.active{
+    transform: translateX( 0px ) translateY( 0px );
+  }
+  &.show{
+    opacity: 1;
+  }
+}
+
+
+.singleHotkey_class{
+  width: 80px;
+  height: 110px;
+  margin: 10px;
+  &.setting_done{
+    saturation:0;
+  }
+  
+  #abilityIcon{
+    align: center top;
+    width: 80px;
+    height: 80px;
+    border: 1px solid #272727;
+  }
+  #hotKeyText{
+    width: 70px;
+    height: 25px;
+    margin-bottom: 31px;
+    align: center bottom;
+  }
+  .HotkeyButton{
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_deck_info.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 30px;
+    padding: 3px;
+    border-radius: 5px;
+    vertical-align: bottom;
+    transition: box-shadow 0.2s ease-in-out 0s;
+    // margin-top: 20px;
+    brightness: 1.5;
+    wash-color: rgba(56, 0, 119, 0.563);
+    border:0.6px solid rgba(99, 99, 99,0.3);
+    > Label{
+      font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+      font-size: 20px;
+      width: 100%;
+      text-shadow: -1px -1px -1px #000, 2px 2px 2px #fff; /* 雕刻 */
+      text-overflow: shrink;
+      align: center top;
+      margin-bottom: -3px;
+      text-align: center;
+      /* z-index: 0; */
+      color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#949494));
+    }
+    &:hover{
+      brightness: 3;
+    }
+  }
+}
+
+#BossHP
+{
+  z-index: 10;
+	width: 700px;
+	height: 70px;
+	horizontal-align: center;
+	vertical-align: center;
+	margin-bottom: 804px;
+	visibility: collapse;
+  &.Visible
+  {
+    visibility: visible;
+  }
+
+  #BossLabel
+  {
+    horizontal-align: center;
+    text-align: center;
+    text-shadow: 1px 1px 2px 3.0 #000000;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FE8907;
+  }
+
+  #BossProgressBarContainer{
+    vertical-align: bottom;
+    height: 40px;
+    width: 100%;
+    #BossProgressBar
+    {
+      width: 90%;
+      border-radius: 4px;
+      border: 2px solid #444;
+      background-color: black;
+      height: 25px;
+      vertical-align: middle;
+      horizontal-align: right;
+      box-shadow: fill #000 -3px -3px 6px 6px;
+          
+      #BossProgressBar_Left
+      {
+        height: 100%;
+        background-color: gradient( linear, 0% 0%, 0% 100%, from( #320000 ), color-stop( 0.3, #ff4A07 ), color-stop( .5, #ff4A07 ), to( #320000 ) );
+        box-shadow: inset #000 1px 1px 2px 1px;
+        border-radius: 2px;
+      }
+
+      #BossProgressBar_Right
+      {
+        height: 100%;
+        background-color: gradient( linear, 0% 0%, 100% 0%, from( #222222FF ), to( black ) );
+      }
+
+      #ProgressBarContainer,#BossProgressBarContainer
+      {
+        vertical-align: bottom;
+        height: 48px;
+        width: 100%;
+      }
+
+      #ProgressBarContainer
+      {
+        height: 64px;
+      }
+    }
+    #BossIcon
+    {
+      height: 48px;
+      width: 48px;
+      background-image: url("s2r://panorama/images/interface/minimap_boss_icon_png.vtex");
+      background-size: cover;
+      border: 1px solid #444444;
+      border-radius: 50%;
+      .npc_monster_boss_chaoc_form_real_one
+      {
+        background-image: url("s2r://panorama/images/interface/boss/lycan_psd.vtex");
+      }
+    }
+
+  }
+  
+
+}
+
+
+
+#artifactCustomUIContainer{
+  width: 100%;
+  height: 100%;
+}
+
+#artifactList{
+  min-width: 100px;
+  box-shadow: 0px -0px 15px 0px #00000071;
+  flow-children: right;
+  margin-left: 5px;
+  &.hidden{
+    opacity: 0;
+  }
+}
+.playerArtifactSlot_root{
+  width: 50px;
+  height: 50px;
+  margin-right: 5px;
+  // box-shadow: 0px -px 0px 5px #000000;
+  // border: 1px solid #444444;
+  &.unEquip{
+    #EquipmentExpandButton {
+      wash-color: red;
+    }
+  }
+  #EquipmentExpandButton {
+    width: 100%;
+    height: 100%;
+    align: right top;
+    margin-right: 4px;
+    img-shadow: 0px 0px 4px 3 #000000;
+    // background-image: url("s2r://panorama/images/items/emptyitembg_png.vtex");
+    // background-image: url("s2r://panorama/images/custom_game/chaotic_era/PlayerArtifact/Verity_Transparent_Effects.png");
+    background-size: 100% 100%;
+    background-position: 50% 100%;
+    transition-property: pre-transform-scale2d, brightness, background-image;
+    transition-duration: 0.15s, 0.15s, 0.05s;
+    transition-timing-function: linear, linear, ease-in-out;
+    z-index: 999;
+    &:hover {
+      brightness: 2;
+      pre-transform-scale2d: 1.1;
+    }
+    &:active {
+      pre-transform-scale2d: 0.9;
+      brightness: 0.9;
+    }
+    // &.Expand {
+    //   background-image: url("file://{images}/control_icons/restore_icon.png");
+    // }
+  }
+
+  #EquipmentSlotTitleBG {
+    width: 100%;
+    height: 30px;
+    z-index: 1;
+    // background-image: url("file://{images}/custom_game/hud/equipment_slot_title_bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    margin-bottom: -7px;
+  }
+
+
+  #EquipmentSlotContainer {
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border: 0.5px solid #ffffff42;
+    border-brush: gradient(linear, 0% 100%, 0% 0%, from(#76511c), to(#bb7214));
+    background-color: gradient(linear, 0% 100%, 0% 0%, from(#2b3c51), to(#232b37));
+    box-shadow: 0px 0px 2px 2px #00000080;
+    transition-property: height;
+    transition-duration: 0.25s;
+    transition-timing-function: ease-in-out;
+
+
+    background-image: url("s2r://panorama/images/items/emptyitembg_png.vtex");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+}
+
+.GetPlayerArtifactRoot{
+  min-width: 130px;
+  min-height: 70px;
+  // box-shadow: 0px -0px 15px 0px #000000;
+  background-color: gradient( linear, 0% 0%, 0% 100%, from( rgba(9, 4, 20, 1) ), to( rgba(5, 2, 10, 1)) );
+  border-top-color: #212324;
+  border-top-width: 1px;
+  border-top-style: solid;
+
+  flow-children: down;
+  // horizontal-align: center;
+  // vertical-align: center;
+
+  transition-property: opacity;
+  transition-duration: 0.32s;
+  transition-timing-function: ease-in;
+
+  &.hidden{
+    opacity: 0;
+  }
+
+  .ChaoticEraSpellButton{
+
+    /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1c1c22 ), to( #131422 ) );
+    border: 1px solid rgb(84, 84, 84);
+    border-brush: gradient( linear, 0% 0%, 0% 100%, from( #f7e7b573 ), to( #f7e7b519 ) ); */
+    width: 100px;
+    height: 35px;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_deck_info.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    horizontal-align: center;
+    vertical-align: center;
+    z-index: 0;
+    padding: 10px;
+    border-radius: 5px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+    brightness: 1.5;
+    border:1px solid rgba(99, 99, 99,0.3);
+    margin-top: 5px;
+    opacity: 0.1;
+    transition-property: opacity,transform,pre-transform-scale2d;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+    &:hover{
+        brightness: 2;
+        opacity: 1;
+        box-shadow: rgb(14, 57, 77) 0px 0px 15px 0px;
+    }
+    &:active{
+        brightness: 3;
+        pre-transform-scale2d:1.1;
+        box-shadow: rgb(14, 57, 77) 0px 0px 35px 0px;
+    }
+    &.Active{
+        brightness: 3;
+        /* pre-transform-scale2d:1.1; */
+        /* margin-left: 10px; */
+        transform: translateX( 10px ) translateY( 0px );
+        opacity: 1;
+        box-shadow: rgb(14, 57, 77) 0px 0px 15px 0px;
+    }
+    > Label{
+        font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+        font-size: 20px;
+        width: 100%;
+        text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; 
+        text-overflow: shrink;
+        text-align: center;
+        vertical-align: middle;
+        color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+    
+    }
+
+  
+    
+  }
+  #ClearArtifactSlot{
+    wash-color: rgba(255, 0, 0, 0.563);
+    &:hover{
+      brightness: 2;
+      opacity: 1;
+      box-shadow: rgb(77, 33, 14) 0px 0px 15px 0px;
+    }
+    &:active{
+        brightness: 3;
+        box-shadow: rgb(77, 33, 14) 0px 0px 35px 0px;
+    }
+    &.Active{
+        brightness: 3;
+        /* pre-transform-scale2d:1.1; */
+        /* margin-left: 10px; */
+        // transform: translateX( 10px ) translateY( 0px );
+        opacity: 1;
+        box-shadow: rgb(77, 33, 14) 0px 0px 15px 0px;
+    }
+  }
+
+  #GoToArtifactList{
+    &.hidden{
+      opacity: 0;
+      visibility: collapse;
+    }
+  }
+  #ClearArtifactSlot{
+    &.hidden{
+      opacity: 0;
+      visibility: collapse;
+    }
+  }
+
+
+}

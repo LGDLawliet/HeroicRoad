@@ -1,0 +1,137 @@
+
+
+"HUD_Level1" "<font color=\"#ffffff\">Common</font>"
+"HUD_Level2" "<font color=\"#a2a2a2\">Uncommon</font>"
+"HUD_Level3" "<font color=\"#8bb6ff\">Rare</font>"
+"HUD_Level4" "<font color=\"#c092fd\">Mythical</font>"
+"HUD_Level5" "<font color=\"#f0ad4e\">Immortal</font>"
+"HUD_Level6" "<font color=\"#ADE55C\">Arcana</font>"
+
+
+
+
+
+
+"HUD_Rune_Title" "Rune:<font color=\"#6de2c5\">{s:ability_owner}</font>"
+"HUD_Rune_Rarity" "rarity:{s:rune_rarity}"
+"HUD_Rune_Description" "<font color=\"#8bb6ff\">Description</font>:After attaching this rune, this ability will be enhanced:"
+
+
+"HUD_Rune_Bonus_Title" "<font color=\"#8bb6ff\">Bonus</font>:"
+"HUD_Rune_ID_Title" "<font color=\"#8bb6ff\">Rune ID</font>:{s:runeID}"
+
+"HUD_Rune_Type_Bonus_Title" "<font color=\"#8bb6ff\">Active Effect</font>:"
+
+
+"HUD_Rune_Type_Particle_Title" "<font color=\"#e2776d\">Particle Inscription</font>:"
+"HUD_Rune_Modify_Count" "Modified Count:"
+"HUD_Rune_Modify_Count_Label" "Modified Count:<font color=\"#ffffff\">{s:modify_count}</font>"
+
+
+"HUD_Rune_state_1" "Not equipped"
+"HUD_Rune_state_2" "Equipped"
+"HUD_Rune_state_3" "Equip"
+
+
+"HUD_Rune_equip_1" "Equipped successfully, effective next game."
+
+"HUD_Rune_equip_2" "Failed, possibly due to network fluctuations."
+"HUD_Rune_equip_3" "Failed,  currently equipping a rune"
+"HUD_Rune_equip_4" "Failed, unknow error"
+
+"HUD_NO_SELECT_RUNE"  "Need to select a rune"
+
+"HUD_Rune_error_1" "Cannot operate the equipped rune."
+
+
+"HUD_Rune_Modify_1" "Decomposition"
+"HUD_Rune_Modify_2" "Replacement"
+"HUD_Rune_Modify_3" "Modify"
+"HUD_Rune_Modify_4" "Draw"
+
+
+
+"HUD_Rune_Modify_Title" "Rune Modify"
+"HUD_Rune_Modify_info" "Modify the rune's effects by consuming resources. The more modifications, the higher the cost."
+
+
+"HUD_Rune_Del_Title" "Rune Decomposition"
+"HUD_Rune_Del_info" ""
+"HUD_Rune_Del_return" "Obtain the following after dismantling:"
+
+
+
+
+
+"HUD_Rune_Edit_1" "Entry Modify"
+"HUD_Rune_Edit_1_info" "Reroll the entry's value"
+"HUD_Rune_Edit_1_Ok" "Reroll success"
+"HUD_Rune_Del_Ok" "The rune has been decomposed"
+
+
+
+
+"HUD_Rune_Edit_2" "Entry Reroll"
+"HUD_Rune_Edit_2_info" "Reroll the type of entry"
+
+
+
+
+
+// "HUD_Rune_Edit_2" "不朽重铸"
+// "HUD_Rune_Edit_2_info" "重新生成不朽效果（即激活效果）"
+
+
+// "HUD_Rune_Edit_3" "特效铭刻"
+// "HUD_Rune_Edit_3_info" "将不朽级符石升级至至宝级符石"
+
+
+"Rune_Progress_Title" "Rune Generation Progress"
+
+"Rune_Progress_Task_Button" "View the queue"
+"Rune_Progress_Task_Title"  "Monster queue"
+"Rune_Progress_Task_Select_Title"  "Monster Recruitment"
+"Rune_Progress_Task_Select_Button"  "Recruited"
+
+
+
+"Rune_Progress_Generate_interval"  "Spawn Interval:{s:interval}/s"
+"Rune_Progress_Generate_count"  "Spawn Count:{s:count}"
+
+"Rune_Progress_Generate_count_bonus"  "Limit provide:{s:bonus_count}"
+
+"Rune_Progress_Generate_level1"  "<font color=\"#ffffff\">Common: </font>{s:level1}"
+"Rune_Progress_Generate_level2"  "<font color=\"#a2a2a2\">Uncommon: </font>{s:level2}"
+"Rune_Progress_Generate_level3"  "<font color=\"#8bb6ff\">Rare: </font>{s:level3}"
+"Rune_Progress_Generate_level4"  "<font color=\"#c092fd\">Mythical: </font>{s:level4}"
+"Rune_Progress_Generate_level5"  "<font color=\"#f0ad4e\">Immortal: </font>{s:level5}"
+
+
+
+
+
+"Rune_Progress_Generate_health"  "Health: {s:health}"
+"Rune_Progress_Generate_attackdamage"  "ATK:{s:attackdamage}"
+
+"HUD_Bounty"  "Bounty varies according to the number of rounds"
+"HUD_RuneProgress"  "Each time a monster is generated, you can get a little bit of Rune Generation Progress"
+
+
+"New_Task_Added" "A new set of <font color=\"#c092fd\">{s:locstring_value}</font> has been added to the queue."
+"New_AdvancedTask_Added"  "A set of <font color=\"#c092fd\">{s:locstring_value}</font> that has been <font color=\"#8bb6ff\">upgraded</font> has been added to the queue"
+
+// "New_AdvancedTask_Added"  "一组被<font color=\"#8bb6ff\">升阶</font>的<font color=\"#c092fd\">{s:locstring_value}</font>被添加进队列中"
+
+
+
+"HUD_Del_Fliter_Info" "Select/Deselect all runes of this level."
+
+
+"HUD_Rune_Special_None"  "No immortal effects currently available."
+
+
+"New_BuffCardInit" "The new modifier <font color=\"#c092fd\">'{s:locstring_value}'</font> has been established."
+
+
+
+"HUD_Rune_Modify_warning_1"  "Do you want to reroll the red modifier"

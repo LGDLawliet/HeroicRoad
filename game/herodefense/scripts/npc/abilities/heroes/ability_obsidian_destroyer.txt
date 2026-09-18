@@ -1,0 +1,106 @@
+"DOTAAbilities"
+{
+    "Primary_astral_imprisonment"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "obsidian_destroyer_astral_imprisonment"
+        "ScriptFile"               "skills/Primary_astral_imprisonment"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_AOE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.3"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "15 14.5 14 13.5 13"
+        "AbilityManaCost"          "100"
+        "AbilityCastRange"         "600"
+        "AbilityChannelTime"       "0"
+        "AOERadius"                "350"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_obsidian_destroyer/obsidian_destroyer_prison.vpcf"
+            "particle"    "particles/units/heroes/hero_obsidian_destroyer/obsidian_destroyer_prison_ring.vpcf"
+            "particle"    "particles/rebuild/spell/astral_imprisonment/astral_imprisonment_damage.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_damage"    "1 1.5 2 2.5 3"
+            "radius"          "350"
+            "duration"        "3"
+        }
+    }
+    "Middle_astral_imprisonment"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "obsidian_destroyer_astral_imprisonment"
+        "ScriptFile"               "skills/Middle_astral_imprisonment"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_AOE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.3"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "13"
+        "AbilityManaCost"          "100"
+        "AbilityCastRange"         "600"
+        "AbilityChannelTime"       "0"
+        "AOERadius"                "350"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_obsidian_destroyer/obsidian_destroyer_prison.vpcf"
+            "particle"    "particles/units/heroes/hero_obsidian_destroyer/obsidian_destroyer_prison_ring.vpcf"
+            "particle"    "particles/rebuild/spell/astral_imprisonment/astral_imprisonment_damage.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_damage"    "3 4 5"
+            "radius"          "350"
+            "duration"        "3"
+        }
+    }
+    "Advanced_astral_imprisonment"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "obsidian_destroyer_astral_imprisonment"
+        "ScriptFile"               "skills/Advanced_astral_imprisonment"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_AOE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.3"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "13"
+        "AbilityManaCost"          "100"
+        "AbilityCastRange"         "600"
+        "AbilityChannelTime"       "0"
+        "AOERadius"                "350"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_obsidian_destroyer/obsidian_destroyer_prison.vpcf"
+            "particle"    "particles/units/heroes/hero_obsidian_destroyer/obsidian_destroyer_prison_ring.vpcf"
+            "particle"    "particles/rebuild/spell/astral_imprisonment/astral_imprisonment_damage.vpcf"
+        }
+        "AbilityValues"
+        {
+            "bonus_damage"      "5"
+            "radius"            "350"
+            "duration"          "3"
+            "advanced_level"    "1"
+        }
+    }
+}

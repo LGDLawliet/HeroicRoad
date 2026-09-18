@@ -1,0 +1,127 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 64
+	m_nBehaviorVersion = 12
+	m_nFirstMultipleOverride_BackwardCompat = 5
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 11
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/items/wraith_king/arcana/wraith_king_arcana.vmdl"
+				m_sequenceName = "wk_sk_idle"
+				m_hitboxSetName = "default"
+				m_materialGroupName = "1"
+				m_flPlaybackSpeed = 0.0
+			}
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_StopAfterCPDuration"
+			m_flDuration = 
+			{
+				m_nType = "PF_TYPE_CONTROL_POINT_COMPONENT"
+				m_nControlPoint = 1
+				m_nVectorComponent = 0
+				m_nMapType = "PF_MAP_TYPE_MULT"
+				m_flMultFactor = 1.0
+			}
+		},
+		{
+			_class = "C_OP_SetRandomControlPointPosition"
+			m_vecCPMaxPos = [ 250.0, 250.0, 350.0 ]
+			m_vecCPMinPos = [ -250.0, -250.0, 150.0 ]
+			m_nCP1 = 11
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectdistortion.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectbone_explosion_style2.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectsoul_beams.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectbeam_vertical_style2.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectbeam_vertical_02_style2.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectbeam_vertical_03_style2.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectstreak_inward_style.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectground_beam_style.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectlight.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectspiral_01.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectspiral_02.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectspiral_03.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectspiral_04.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectspiral_05.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectspiral_06.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectspiral_07.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/vengeance_aura/unlock3/effectspiral_08.vpcf"
+			m_flDelay = 2.0
+		},
+		{
+			m_ChildRef = resource:"particles/econ/items/wraith_king/wraith_king_arcana/wk_arc_style2_spirit_rig.vpcf"
+		},
+	]
+}

@@ -1,0 +1,574 @@
+"addon_game_name"	"Heroic Road"
+"DOTA_HUD_CheckGame_info"  "Query Competition Ranking"
+"DOTA_HUD_CheckSpell_NextPage"  "Next Page"
+"DOTA_HUD_CheckGame_Button"  "Competition Ranking"
+"DOTA_HUD_GameContestinfo_Title"  "Race Ranking"
+"DOTA_HUD_GameContestinfo_Title2"  "Endless Ranking"
+"DOTA_HUD_GameContestinfo_RankTitle"  "Ranking"
+"DOTA_HUD_GameContestinfo_Title_player_1"  "Lone wolf(1P)"
+"DOTA_HUD_GameContestinfo_Title_player_2"  "It Takes Two(2P)"
+"DOTA_HUD_GameContestinfo_Title_player_3"  "Trine(3P)"
+"DOTA_HUD_GameContestinfo_Title_player_4"  "Three cobblers and Zhuge Liang(4P)"
+"DOTA_HUD_GameContestinfo_Title_player_5"  "Four ah Dou and Zhao Yun(5P)"
+"DOTA_HUD_return"  "Close"
+"DOTA_HUD_GetInfo"  "Click for details"
+"DOTA_CUSTOM_Fail_send_contestInfo"                   "Failed to send contest data. The server may be unstable. Please don't quit the game, will resend the data later"
+"DOTA_CUSTOM_NO_CONTEST"  "Today is the rest day, and the ranking results will not be recorded"
+"DOTA_CUSTOM_NO_CONTEST2"  "Today is the rest day, and the FellOmen WAVE will not increase"
+"DOTA_HUD_Contest_rule"  "<font color=\"#5bc0de\">Competition Ranking Details</font>:<br><font color=\"#f0ad4e\">Type</font>:The ranking list is divided into two types: racing and endless. Only the seventh and eighth difficulty can be record the contest data.<br><font color=\"#f0ad4e\">Upload score conditions</font>:Complete all waves(Racing)/At least kill one Fog Guard(Endless)will recording the data.The same team only records the best results.The time record of racing challenge is recorded from entering the first wave.(Pause time will not be included)<br>In the case of a single player, if the blessings of the aloof provide more than 3 Resurrection times, Each additional time will be punished. For racing + 40 seconds, for endless - 5 kills.<br><font color=\"#f0ad4e\">Bonus Rules</font>:A player can get two rewards at the same time(In Racing and Endless mode), If you win the first rank in the five players race group and the third rank in the four players race group, you will only get the prize in the five person race group. But your group of four players will not be affected.<br>The award will be based on the ranking at the end of the season.<br><font color=\"#f0ad4e\">Season&nbsp;Cycle</font>:1 Month<br><font color=\"#f0ad4e\">Settlement Time</font>:At 4 a.m. (UTC + 8) on the last day of each month, the reward will be distributed to the reward query in the personal information<br><font color=\"#d9534f\">Note: the last day of each month is a rest day, and the contest data will not be recorded</font><br><font color=\"#f0ad4e\">Reward echelon</font>:<br>Top1:1k platinum;150k reliable exp;2.5k aurum;Mysterious reward 1;<br>Top2-3:600 platinum;120k reliable exp;1.5k aurum;Mysterious reward 2;<br>Top4-10:300 platinum;100k reliable exp;1k aurum;Mysterious reward 3;<br>Top 5%:200 platinum;80k reliable exp;500 aurum;<br>Top 10%:100 platinum;50k reliable exp;300 aurum;<br>Top 20%:30k reliable exp;200 aurum;<br>Top 50%:20k reliable exp:100 aurum;<br>Top 80%:10k reliable exp;50 aurum;<br>Participation Award:5000 reliable exp.<br><br>Mysterious rewards will be distributed on the 1st to 3rd of the following month."
+"skills_shop_Text"                   "Spell Shop"
+"MyUIButtonText"                   "Spell Shop"
+"MyUIMain_title"                   "Choose your skill"
+"MytestButton2"                   "TEST"
+"MytestButton1"                   "TEST"
+"skills_shop_hotkey"                   "Spell Shop"
+"DOTA_HUD_Spells_Menu_Spell_Cost"                   "Gold Cost"
+"DOTA_HUD_Spells_Menu_Spell_Cost_return"                   "Gold Returned"
+"DOTA_HUD_Challenge_Cost_return"                   "Bonus gold for difficulty"
+"DOTA_HUD_Spells_Menu_Title"                   "Spell Shop"
+"DOTA_HUD_Spells_Menu_Card_Points"                   "Current gold"
+"DOTA_HUD_Spells_Menu_Open_Button"                   "Spell Shop(F7)"
+"DOTA_HUD_Game_Shop_state_1"                   "Wait for select Game Mod"
+"DOTA_HUD_Game_Shop_state_2"                   "Suggest learning spells first (F7), the game shop will open in the second round"
+
+"DOTA_Tooltip_modifier_hd_endless_tired"	"Endless Countdown"  
+"DOTA_Tooltip_modifier_hd_endless_tired_Description"	"Attribute reduction begins after 15 minutes; game is forcibly ended at 20 minutes.All Attributes Reduced: %dMODIFIER_PROPERTY_TOOLTIP%Damage Dealt Reduced: %dMODIFIER_PROPERTY_TOOLTIP%%%Damage Taken Increased: %dMODIFIER_PROPERTY_TOOLTIP%%%Proficiency Reduced: %dMODIFIER_PROPERTY_TOOLTIP%%%Cooldowns Increased: %dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_HUD_Spells_Menu_Upgrade_Button"                   "Spell Elevation"
+"DOTA_HUD_Spells_Menu_Sell_Button"                   "Sell Ability"
+"DOTA_HUD_Spells_Menu_Close_Button"                   "Close Spell Shop"
+"DOTA_HUD_Spells_Menu_Swap_Spells_Button"                   "Switch Hotkey"
+"DOTA_HUD_Spells_Menu_Not_Enough_Slot"                   "Not Enough Slot"
+"DOTA_HUD_Spells_Menu_Description"                   "open spells list by selecting the designated icon"
+"DOTA_HUD_Spells_Menu_Attention"                   "Selling ability can return half of the cost gold.You can upgrad the ability when it is max level."
+"Spells_Menu_Insufficient_CP"                   "Not enough gold"
+"Spells_Menu_unknow_error"                   "Your data cannot be found,please send the screenshot to the author"
+"Spells_Menu_PurchaseNewAbility"                   "{s:player_name} learn new spell:<font color=\"#f0ad4e\">{s:ability_name}</font>"
+"Spells_Upgrade_Fail"                   "  Spell elevate failed, you might not have this spell certificate"
+"Spells_Upgrade_Fail_advanced"                   " Spell upgrade failed, your proficiency is insufficient"
+"Spells_Upgrade_Fail_left"                   " {s:player_name} elevate spell <font color=\"#f0ad4e\">{s:ability_name}</font> failed, might not have the spell certificate"
+"Spells_Upgrade_Fail_advanced_left"                   " {s:player_name} upgrade spell <font color=\"#f0ad4e\">{s:ability_name}</font> failed, proficiency is insufficient"
+"Spells_Menu_UpgradeNewAbility"                   "{s:player_name} elevated spell: <font color=\"#f0ad4e\">{s:ability_name}</font>"
+"Spells_Menu_UpgradeNewAbility_advanced"                   "{s:player_name} upgraded ability: <font color=\"#f0ad4e\">{s:ability_name}</font>,  current level: <font color=\"#f0ad4e\">{s:locstring_value}</font>"
+"DOTA_HUD_Spells_Menu_Not_Sell"                   "You already have this spell class"
+"Spells_Menu_SellNeutralAbility"                   "  {s:player_name}amnesia spell: <font color=\"#f0ad4e\">{s:ability_name}</font>, return <font color=\"#f0ad4e\">{s:locstring_value}</font> gold"
+
+
+
+
+
+
+
+"DOTA_HUD_Spells_Menu_level"                   "Spell Level"
+"DOTA_HUD_difficulty_select"                   "Chose Difficulty"
+"DOTA_HUD_settind_title"                   "Setting"
+"DOTA_HUD_Challenge_button"                   "To bear more suffering(F8)"
+"DOTA_HUD_settind_Camera"                   "Camera Z Position"
+
+"DOTA_HUD_difficulty_not_selected_info"                   "Player 1 select difficulty level to start"
+"DOTA_HUD_Getexp_Button"                  "Upgrade Spell"
+"DOTA_HUD_DropSelectTitle"                   "Select your item reward"
+"DOTA_HUD_MysterySelectTitle"                   "Mystery Ability List"
+"DOTA_HUD_PhysicalSpells_Button"                   "Physical"
+"DOTA_HUD_MagicalSpells_Button"                   "Magical"
+"DOTA_HUD_DefenseSpells_Button"                   "Defense"
+"DOTA_HUD_SummonSpells_Button"                   "Summon "
+"DOTA_HUD_AssistSpells_Button"                   "Assist"
+"DOTA_HUD_OtherSpells_Button"                   "Other"
+"DOTA_HUD_Spellsinfo_exp"                   "Reliable experience:"
+"DOTA_HUD_Spellsinfo_level_now"                   "Level"
+"DOTA_HUD_playerSpellslibraryMenuwindowTitle"                   "General Ability Atlas"
+"DOTA_HUD_SpellsShopMenuwindowTitle"   "Spell Shop"
+"DOTA_HUD_GameShopMenuwindowTitle"   "Game Shop"
+"DOTA_HUD_ChaoticEraGameShopMenuwindowTitle"   "Chaotic Era Game Shop"
+"DOTA_HUD_GeneralGoods_Button" "General"
+"DOTA_HUD_playerGameShopMenuwindowTitle"  "Game Shop"
+"DOTA_HUD_VIPGoods_Button"        "VIP"
+
+"cant_buyback_disabled"        "The target can not be respawned"
+"Already_buyback"        "Target is in reincarnation"
+"cant_buyback_dead"        "You can't buyback others when you were dead"   
+"cant_buyback_too_far"        "Distance to target over 500yards"   
+"cant_buyback_buying"        "You are  already respawning a unit"  
+"cant_buyback_target_weak"        "Target weakness"  
+"DOTA_HUD_CheckPay" "Payment check"
+"DOTA_CUSTOM_LoginSuccess_buySpell"                   "Data refreshed successfully"
+"DOTA_CUSTOM_Success_buySpell"                   "Purchase successfully, waiting for data to be updated"
+"DOTA_CUSTOM_Fail_buySpell"                   "Purchase failed, might due to unstable server. Try again five seconds later. If fail repeatedly, please log out and try again"
+"DOTA_CUSTOM_LoginFailed_buySpell"                   "Information transfer to server failed. Current server might not be stable. If still cannot reflesh, please log out."
+
+"DOTA_HUD_Payment_Title"  "QR code"
+"DOTA_HUD_Payment_INFO"   "System will check payment automatically at regular intervals.The window will automatically close after the payment is completed (with the prompt sound and title). Please check your shop again to see if platium is updated. If not, or no promts, please restart the game. If still not working, please contact the author.<br>Attention:<br>1. Order expires in 5 mins; other purchases cannot be made before orders are completed/expired. <br>2.For players outside Chinese Mainland, please use PayPal<br>3.<font color=\"#d9534f\">Refund is not supported. Please think clearly before taking action.</font><br>4.Due to the high fixed handling fee of PayPal, low value transactions will not be supported for the time being(If the price less than 10USD). Please understand.<br>5.This game is a personal project. I'm the only one maintaining it. Sometimes bugs are inevitable,  please contact me at discord when you have any problem. Thank you for your support"
+"DOTA_HUD_Payment_Title2"  "Select payment way"
+
+
+"DOTA_HUD_SpecialSpellGoods_Button" "Special Spells"
+"DOTA_HUD_BlackMarket_Button"  "Daily BlackMarket"
+"DOTA_HUD_OtherGoods_Button"  "Others"
+"DOTA_HUD_BuyBack_Button"                   "Buy Back"
+
+"DOTA_HUD_Spellsinfo_exp_Currency"  "Reliable experience"
+"DOTA_HUD_Spellsinfo_gold_Currency"  "Aurum"
+"DOTA_HUD_Spellsinfo_Platinum_Currency"  "Platinum"
+"DOTA_HUD_Spellsinfo_Yuan_Currency"  "$"
+"DOTA_HUD_Confirm_Panel"  "Please confirm your purchase"
+"DOTA_HUD_Confirm"  "Comfirmed"
+"DOTA_HUD_Cancle"  "Cancel"
+"DOTA_HUD_CDK_GET_BONUS"  "Get CDK Bonus"
+"DOTA_HUD_CDK_Fail_250"  "Invalid CDK"
+"DOTA_HUD_CDK_Fail_251"  "You have received it"
+"DOTA_HUD_CDK_Fail_252"  "This CDK is bound to someone else"
+"DOTA_HUD_CDK_Fail_253"  "This CDK is Expired "
+"DOTA_HUD_CDK_Fail_254"  "Thhis CDK has been fully claimed"
+"dota_hud_greevils_not_enough_gold"  "Not Enough Gold"
+"dota_hud_still_chaghing"  "Current time is under mandatory change"
+"dota_hud_not_in_battle"  "Not under combat mode Currently"
+"dota_hud_still_night"  "It's already dark"
+"dota_hud_still_day"  "It's already daytime"
+"dota_hud_no_hammer"  "No hallucination ability at the moment"
+"dota_hud_silence_cast"  "Cast ability is disabled"
+"dota_hud_not_enough_energy"  "Not Enough Charge Point"
+"dota_hud_not_enough_trigger"  "Not Enough Trigger Point"
+
+"DOTA_HUD_playerInfowindowTitle"  "Personal information"
+"DOTA_HUD_VIPInfo_Button"        "Existing privileges"
+"DOTA_HUD_playerName"                   "Player Name:"
+"DOTA_HUD_firstGameTime"                   "Time of first game:"
+"DOTA_HUD_vip_info_endday"                   "Expire date:"
+
+"DOTA_NOW_WAVE"  "Current wave:"
+"DOTA_HUD_DropSelectTitle_message"                   "Five peices of equipment rewards, namely physical, mana, defense, auxiliary, special "
+
+
+"Damage_Dealt"   "Demages:"
+"Damage_Taken"   "Take Damages:"
+"Damage_Healed"   "Healing (effective):"
+
+"DOTA_CUSTOM_Game_Start_info_bonus"   "Message: Join discord and get various rewards and updated information.(new players can unlock 20 spell as a gift"
+"DOTA_CUSTOM_Game_Start_info"   "Preparation stage, all players could enter first wave by stepping on the pedal (please remember to turn on highlight and ambient light effects, otherwise the map will be very dark"
+
+"DOTA_CUSTOM_Wave_Start_info1"   "Getting ready for the next wave……"
+"DOTA_CUSTOM_Wave_Start_info2"   "Wave starts"
+"DOTA_CUSTOM_Wave_Start_reset"   "The wave has not ended for too long. There might be a boxout BUG, all monsters will be moved to the center"
+
+"DOTA_CUSTOM_LoginFailed"                   "<font color=\"#d9534f\">Server information transfer failed. The current server may be unstable, please log in again after 5 seconds. if still unsuccessful, please log out, the current game round will not have rewards.</font>"
+"DOTA_CUSTOM_LoginFailed_all"                   "<font color=\"#d9534f\">game failed, because some players failed to log in, the current game round will not have reward.</font>"
+
+"DOTA_CUSTOM_LoginSuccess"                   "<font color=\"#d9534f\">Player data Acquired. </font>"
+"DOTA_CUSTOM_LoginSuccess2"                   "<font color=\"#d9534f\">Player data2 Acquired. </font>"
+
+"DOTA_CUSTOM_PlayerGetSpellsBook"                   "Acquired spells book:"
+"DOTA_CUSTOM_BONUS_INFO_EXP"                   "Current experience:"
+"DOTA_CUSTOM_BONUS_INFO_max_level"                   "Max Level Spell"
+"DOTA_CUSTOM_BONUS_INFO_max_level_info"                   "Max level spell will trun the exp to reliable exp"
+"DOTA_CUSTOM_BONUS_INFO_bonus_EXP"                   "Reliable experience rewards:"
+"DOTA_CUSTOM_BONUS_INFO_bonus_gold"                   "Aurum rewards:"
+"DOTA_CUSTOM_NOPlayerGetSpellsBook"                   "No spells book bonus"
+"DOTA_CUSTOM_UpdateFailed"                   "<font color=\"#d9534f\">Updates on reward settlement failed. The server may be unstable, and another update attempt in 5 seconds. If fail to save game, please save the screenshot and contact the author.</font>"
+"DOTA_CUSTOM_UpdateSuccess"                   "{s:player_name}<font color=\"#d9534f\">Updates on reward settlement is successful, and you can exit the game now. </font>"
+"DOTA_CUSTOM_Update_wait"                   "{s:player_name}Waiting for settlement..."
+
+
+"DOTA_CUSTOM_UpdateSuccess_gift"                   "<font color=\"#d9534f\">The gift pack successfully received</font>"
+"DOTA_CUSTOM_UpdateFail_gift"                   "<font color=\"#d9534f\">Failed to receive gift package. The server may be unstable. Please try again, if it still fails, please exit the game</font>"
+"DOTA_CUSTOM_Upgradefailed"                   "<font color=\"#d9534f\">Failed to upgrade abilities. The server may be unstable or the data invalid. To avoid data errors, the upgrade option will be disabled and the game will be restareted</font>"
+"DOTA_CUSTOM_Upgradefailed_half"                   "<font color=\"#d9534f\">Spell upgrade was successful, but the data update failed. The server may be unstable. To avoid data errors, the upgrade option has been disabled and the game will be restarted (this does not happen often). </font>"
+
+"DOTA_CUSTOM_Upgradefailed_data_error"                   "<font color=\"#d9534f\">Spell upgrade failed and errors in data processing, due to this being a full-level skill. To avoid data errors, the upgrade option has been disabled and the game will be restarted</font>"
+"DOTA_CUSTOM_Upgradefailed_unknow_error"                   "<font color=\"#d9534f\">Abilities upgrade failed, an unknown error was sent. To avoid data errors, the upgrade option has been disabled, and the game will be restarted</font>"
+
+"DOTA_CUSTOM_Upgradefailed_new"                   "<font color=\"#d9534f\">Spell upgrade failed. The server may be unstable. Please try again</font>"
+
+
+
+"DOTA_CUSTOM_UpgradeSuccess"                   "<font color=\"#5bc0de\">Spell upgraded successfully</font>"
+"DOTA_CUSTOM_fail_login_info"                   "<font color=\"#d9534f\">Login failed, please restart the game</font>"
+
+
+"DOTA_HUD_difficulty_select_1"                   "Operate with Feet"
+"DOTA_HUD_difficulty_select_2"                   "Normal Mode: Experience"
+"DOTA_HUD_difficulty_select_3"                   "Super Saiyan Three"
+"DOTA_HUD_difficulty_select_4"                   "Normal Mode: Standard"
+"DOTA_HUD_difficulty_select_5"                   "Trial of Suffering"
+"DOTA_HUD_difficulty_select_6"                   "Normal Mode: Hard"
+"DOTA_HUD_difficulty_select_7"                   "Leaderboard Normal: Competitive Suffering"
+"DOTA_HUD_difficulty_select_8"                   "Leaderboard Normal: Endless Suffering"
+"DOTA_HUD_difficulty_select_9"                "Normal Mode: Hundred Wave Layers"
+
+"DOTA_HUD_difficulty_select_10"                "★ Special Mode: Chaotic Era"
+
+"DOTA_HUD_playerChallengeMenuwindowTitle"                   "Endure More Suffering"
+
+"DOTA_HUD_Difficulty_select_1_info"                   "On Easy difficulty, monster health is reduced by 28%, initial base attack damage is reduced by 30%, and skill cooldown is increased by 35%.<br/><br/>Total waves: 10"
+"DOTA_HUD_difficulty_select_2_info"                   "Stages: 20<br><br>·Monster Attributes: Low<br>·Monster Spawn Rate: Slow<br>·Monster Skills: Partially Disabled<br>·Monster Affixes: Off<br>·Suffering System: Off"
+"DOTA_HUD_difficulty_select_3_info"                   "On Elite difficulty, monster health is increased by 20%, initial base attack damage is increased by 20%, spawn interval is reduced by 20%, bosses have elite skills enabled.<br/><br/>Total waves: 20"
+"DOTA_HUD_difficulty_select_4_info"                   "Stages: 20<br><br>·Monster Attributes: Standard<br>·Monster Spawn Rate: Standard<br>·Monster Skills: Enabled<br>·Monster Affixes: Off<br>·Suffering System: On"
+
+"DOTA_HUD_difficulty_select_5_info"                   "Inherits [Impossible] difficulty, monsters gain 20% increased damage and 15% reduced damage, will receive additional affixes with a chance taken from trial difficulty. Maximum stackable affixes per unit: 2, Bosses or elite units will always get maximum affixes. 20% chance to trigger hidden stages."
+"DOTA_HUD_difficulty_select_6_info"                   "Stages: 20~25<br><br>·Monster Attributes: High<br>·Monster Spawn Rate: Standard<br>·Monster Skills: Enabled<br>·Monster Affixes: Standard<br>·Suffering System: On<br><br>·Additional Stages: Possible<br>·Endless Stages: On"
+"DOTA_HUD_difficulty_select_7_info"                   "Stages: 25<br><br>·Monster Attributes: High<br>·Monster Spawn Rate: Standard<br>·Monster Skills: Enabled<br>·Monster Affixes: Many<br>·Suffering System: On<br><br>·Additional Stages: Guaranteed<br>·Endless Stages: Off"
+"DOTA_HUD_difficulty_select_8_info"                   "Stages: 20<br><br>·Monster Attributes: High<br>·Monster Spawn Rate: Standard<br>·Monster Skills: Enabled<br>·Monster Affixes: Many<br>·Suffering System: On<br><br>·Additional Stages: Off<br>·Endless Stages: On"
+"DOTA_HUD_difficulty_select_9_info"                   "<font color=\"#f0ad4e\">Layers:</font><br>Use Player 1's current layer as game difficulty, after clearing the layer increases by 1. If Player 1's layer is higher, others increase by 2.<br>Based on leaderboard difficulty, stages: 25, endless rounds: on;<br><br><font color=\"#f0ad4e\">Special Mechanisms:</font><br>1. Each cycle increases monster stats (attack, health) by 5%<br>2. Every 8 layers add 1 phase, each phase provides buffs to all monsters (or debuffs to heroes). Every 1.5 phases give buffs to all players (or debuffs to enemies), every additional half phase (4 layers) increases the effect.<br>3. Initially gain (layer * 2 + 5) attribute points to allocate freely.<br>4. Can disable one nightmare phase and one beneficial phase.<br><br><br><font color=\"#f0ad4e\">Cycle Mechanism:</font><br>1. Reset layers monthly but retain 40%<br>2. Monthly random generation of hundred-phase states, providing buffs and debuffs.<br>(Given no one would play to such high layers, there are only a few states)<br><br><font color=\"#f0ad4e\">Reward Mechanism:</font><br>1. Produce Aghanim's Primal Orbs which enter the player's save file, can be retrieved in-game (but still require in-game gold for crafting, just not reliable experience and gold), higher layers increase the chance and quantity.<br>2. Reliable experience and gold rewards follow leaderboard difficulty, then multiplied by (1 + cycle * 0.015).<br><br><br>Additional Notes:<br>1. Based on the number of players, base buffs to wild monsters are affected (excluding hundred-phase states). For 1-5 players, the ratios are (0.5, 0.6, 0.7, 0.85, 1). For example, at 1 player, the tenth layer monsters only get 50% * 0.5 = 25% additional attributes.<br>2. Only available if there are no new players in the team."
+
+
+"DOTA_HUD_Challenge_level"                   "Challenge level"
+"DOTA_HUD_Challenge_level1"                   "Easy"
+"DOTA_HUD_Challenge_level2"                   "Normal"
+"DOTA_HUD_Challenge_level3"                   "Elite"
+"DOTA_HUD_Challenge_level4"                   "Difficult"
+"DOTA_HUD_Challenge_level5"                   "Impossible"
+
+
+
+"Player_Challenge1"                   "A certain player bears more pain, and the next battle will be even more difficult..."
+"Player_Challenge2"                   "More pain means more gain..."
+"Player_Challenge3"                   "Maybe it's a better tomorrow  after all the hardships..."
+"Player_Challenge4"                   "The continent is shrouded in dark clouds, and more suffering is coming..."
+"Player_Challenge5"                   "more suffering is just a stepping stone in the face of interests ..."
+
+"DOTA_HUD_game_info_pre"   "Move to pedal to start wave"
+"DOTA_HUD_game_info_ENDLESS_WAVE"   "Guards killed:"
+"DOTA_HUD_game_info_ENDLESS_WAVE_COUNT_CURRENT"  "Current number of Guards："
+"DOTA_HUD_GAME_WAVE_NEXT_INFO"  "Next wave:"
+"DOTA_HUD_GAME_WAVE_CD_ROOM1"  "Gatekeeper"
+"DOTA_HUD_GAME_WAVE_CD_ROOM2"  "Goblin Vanguard"
+"DOTA_HUD_GAME_WAVE_CD_ROOM3"  "Five Colors Furbolg Legion"
+"DOTA_HUD_GAME_WAVE_CD_ROOM4"  "Spider in the jungle"
+"DOTA_HUD_GAME_WAVE_CD_ROOM5"  "Elite·Son of Elite Barnock"
+"DOTA_HUD_GAME_WAVE_CD_ROOM6"  "Middle class Gatekeeper"
+"DOTA_HUD_GAME_WAVE_CD_ROOM7"  "Kobold family"
+"DOTA_HUD_GAME_WAVE_CD_ROOM8"  "Thunderhide vengeance legion"
+"DOTA_HUD_GAME_WAVE_CD_ROOM9"  "Aio's troubles"
+"DOTA_HUD_GAME_WAVE_CD_ROOM10"  "Gatekeeper of the prologue·Barnock"
+"DOTA_HUD_GAME_WAVE_CD_ROOM911"  "Night Wave · Assassin in the Dark Night"
+"DOTA_HUD_GAME_WAVE_CD_ROOM912"  "Night Wave· Dark Knight"
+"DOTA_HUD_GAME_WAVE_CD_ROOM913"  "Night Wave· elder in the woods"
+"DOTA_HUD_GAME_WAVE_CD_ROOM914"  " Night Wave· wolves in the moonlight"
+"DOTA_HUD_GAME_WAVE_CD_ROOM15"  "Elite ·Daughter of Farna"
+"DOTA_HUD_GAME_WAVE_CD_ROOM916"  " Night Wave·wizard of nature"
+"DOTA_HUD_GAME_WAVE_CD_ROOM917"  "Night Wave·Ten-thousand-years old dryad Elder"
+"DOTA_HUD_GAME_WAVE_CD_ROOM918"  "Night Wave·ancient stone"
+"DOTA_HUD_GAME_WAVE_CD_ROOM19"  "Axe's workout"
+"DOTA_HUD_GAME_WAVE_CD_ROOM920"  "The second daughter of the nature · Farner"
+"DOTA_HUD_GAME_WAVE_CD_ROOM21"  "The turmoil of the elements · Water"
+"DOTA_HUD_GAME_WAVE_CD_ROOM22"  "The turmoil of the elements · Fire"
+"DOTA_HUD_GAME_WAVE_CD_ROOM23"  "The turmoil of the elements · Wind"
+"DOTA_HUD_GAME_WAVE_CD_ROOM24"  "The turmoil of the elements · Darkness"
+"DOTA_HUD_GAME_WAVE_CD_ROOM25"  "Elite · Son of Light and Darkness · Mellund"
+"DOTA_HUD_GAME_WAVE_CD_ROOM26"  "The turmoil of the elements · Earth"
+"DOTA_HUD_GAME_WAVE_CD_ROOM27"  "The turmoil of the elements · Thunder"
+"DOTA_HUD_GAME_WAVE_CD_ROOM28"  "The turmoil of the elements · Ice"
+"DOTA_HUD_GAME_WAVE_CD_ROOM29"  "Nature's gift"
+"DOTA_HUD_GAME_WAVE_CD_ROOM30"  "Hidden wave · Final Battle · Elemental War"
+"DOTA_HUD_GAME_WAVE_CD_ROOM31"  "Collapse· Magnus"
+"DOTA_HUD_GAME_WAVE_CD_ROOM32"  "Exiled anonymous brainworm adult"
+"DOTA_HUD_GAME_WAVE_CD_ROOM33"  "Mist automatic Guardian"
+"DOTA_HUD_GAME_WAVE_CD_ROOM34"  "Hidden wave · Corrupted mid-level melee minions"
+"DOTA_HUD_GAME_WAVE_CD_ROOM35"  "Hidden wave · Crystallized army of thieves"
+"DOTA_HUD_GAME_WAVE_CD_ROOM36"  "Hidden wave · Crystallized leader of the five-color army"
+"DOTA_HUD_GAME_WAVE_CD_ROOM37"  "Hidden wave · Revenant of the past"
+"DOTA_HUD_playerGameBonusMenuwindow"  "Game settlement"
+"no_spell_map"  "Failed to get player information. Maybe the server is unstable, please try again later"
+"DOTA_HUD_GAME_WAVE_CD_ROOM38"  "Hidden wave · Ultimate Source Of Fire"
+"DOTA_HUD_GAME_WAVE_CD_ROOM39"  "Elite·Harpy"
+"DOTA_HUD_GAME_WAVE_CD_ROOM40"  "The surge of the elements· Water"
+"DOTA_HUD_GAME_WAVE_CD_ROOM41"  "Fat family· Ogre the Mallet"
+"DOTA_HUD_GAME_WAVE_CD_ROOM42"  "Greedy striker"
+"DOTA_HUD_GAME_WAVE_CD_ROOM42"  "Slave of the  Terror Blade"
+"DOTA_HUD_GAME_WAVE_CD_ROOM43"  "Predator in the Dark Reef"
+"DOTA_HUD_GAME_WAVE_CD_ROOM44"  "Foraging Cyclops"
+"DOTA_HUD_GAME_WAVE_CD_ROOM45"  "Noisy Cave"
+"DOTA_HUD_GAME_WAVE_CD_ROOM46"  "Terror Blade's minions"
+"DOTA_HUD_GAME_WAVE_CD_ROOM47"  "Advanced melee minions"
+"DOTA_HUD_GAME_WAVE_CD_ROOM48"  "Bloody Night"
+"DOTA_HUD_GAME_WAVE_CD_ROOM49"  "Deep-Sea Diving of the the Dark Reef"
+"DOTA_HUD_GAME_WAVE_CD_ROOM50"  "The depths of the the Dark Reef"
+"DOTA_HUD_GAME_WAVE_CD_ROOM51"  "Phantom of the Claszian"
+"DOTA_HUD_GAME_WAVE_CD_ROOM52"  "Visitors of the Claszian"
+"DOTA_HUD_GAME_WAVE_CD_ROOM55"  "Lonely Lair Ranger"
+"EggSound_FacelessVoid"                   "There is a mysterious voice coming into your brain……"
+
+
+
+"DOTA_HUD_GAME_WAVE_CD_ROOM53"  "The surge of the elements· Fire"
+"DOTA_HUD_GAME_WAVE_CD_ROOM54"  "The surge of the elements· Earth"
+
+
+"Challenge_select_failed"                   "Suffering selection failed, currently in combat mode"
+"Challenge_Not_Enough_GOLD"                   "Suffering selection failed, insufficient gold to unlock"
+"Black_Market_spell_buy_failed_mastered"                   "Purchase failed because this skill is already unlocked"
+"Black_Market_spell_buy_failed_not_enough_good"                   "Purchase failed, insufficient aurum"
+"Market_spell_buy_failed_not_enough_platinum"                   "Purchase failed, insufficient platinum"
+"Market_spell_buy_failed_not_enough_exp"                   "Purchase failed, insufficient reliable experience"
+"buy_failed_Order_not_completed"                   "Purchase failed, previous order has not been completed"
+"buy_failed_BuySpellsFailed"                   "Purchase failed, maybe the server is unstable, please try again later"
+"buy_BuySpellsSuccessed"                   "purchase successful"
+"vip_buy_failed_forever"                   "Purchase failed because permanent privilege has been unlocked"
+"buy_BuyrmbOutOfTime"                   "Order expired. Please recreate orders or ignore"
+"DOTA_CUSTOM_BuySpellsFailed"                   "<font color=\"#d9534f\">Failed to purchase abilities, the server may be unstable, please try again later</font>"
+
+
+"DOTA_CUSTOM_BuySpellsSuccess"                   "<font color=\"#d9534f\">Spell purchase successful. Updating game data now.</font>"
+
+
+
+
+//技能/道具使用提示
+"Spells_CustomCastError_NOT_SELF"                   "Cannot be cast on yourself"
+"Spells_CustomCastError_NOT_Enemy"                   "Cannot be cast on enemies"
+"Spells_CustomCastError_NOT_Friendly"                   "Can not cast to a ally"
+"Spells_CustomCastError_NO_hp"                           "Need more hp"    
+
+"dota_hud_NoUnlockRock"  "Aha, that's not good" 
+"DOTA_HUB_CANT_CAST_TO_TARGET"  "Cannot be cast on this target" 
+"DOTA_HUB_CANT_CAST_NO_pierce_the_veil"  "You didn't learn the 'Pierce the Veil'"
+"DOTA_HUB_CANT_CAST_NO_CHARGE"  "No Charge" 
+"DOTA_HUB_CANT_CAST"  "Unable To Cast" 
+"DOTA_HUB_CANT_CAST_Giant"  "Cannot cast to Giant" 
+
+
+
+"dota_hud_greevils_not_enough_energy"  "Not enough charge" 
+"dota_hud_NoSpellCanBeUnlock"  "Can't find ability to unlock" 
+
+
+"DOTA_CUSTOM_Wave_force_start"  "Force start wave"
+
+"DOTA_CUSTOM_Wave_force_start_count"  "Force start wave progress:"
+"DOTA_HUD_game_info_difficult"  "Waiting for selection difficulty"
+"DOTA_HUD_game_difficult"  "Difficulty:"
+"DOTA_HUD_CheckBonusButton_Button"  "Query reward"
+
+
+
+"DOTA_HUD_ReRollBonus" "Consume 10 archived aurum and re random the bonus items. Remaining chances:{s:reRollCount}"
+"DOTA_HUD_ReRollChallenge" "Consume 10 archived aurum and re random the challenges. Remaining chances:{s:reRollCount}"
+
+"DOTA_HUD_Bonus_gold"       "Bonus Aurum:{s:bonus}"
+"DOTA_HUD_Bonus_exp"        "Bonus Reliable experience:{s:bonus}"
+"DOTA_HUD_Bonus_platinum"   "Bonus Platinum:{s:bonus}"
+
+"DOTA_HUD_ReRollItemDone"                   "Random generation succeeded"
+"DOTA_HUD_ReRollItemFail"                   "Random generation failed(Server)"
+"DOTA_HUD_ReRollItemFail2"                   "Random generation failed(Legitimacy)"
+"DOTA_HUD_server_login_fail"   "The server is unstable again. Try again"
+"DOTA_HUD_Get_Bonus_success"   "Received successfully"
+"DOTA_CUSTOM_start_end_bonus"  "Game start settlement……"
+"DOTA_HUD_Special_spell_info"  "The Special Spell will be gradually added to normal class in subsequent versions(The spells on the left will be added first)"
+"DOTA_HUD_CheckBonus_info"  "Check whether you currently have unclaimed rewards"
+"DOTA_HUD_SpellShop_info"  "<font color=\"#d9534f\">When the skill is upgraded to the max level, you can unlock a new effect and increase the upper limit by evolve it;(But advanced skills need to be unlocked to evolve)</font><br><br><font color=\"#f0ad4e\">The yellow border is a weekly free skill;(You can upgrade this skill to advanced level 10 without unlocking it)</font><br><br>For Advanced abilityies, you can upgrade 1 level by left click, or uprade 5 levels by right click"
+"DOTA_HUD_SpellShop_info2"   "Passive skills will be placed at the back of the shortcut bar by default. In some cases, you need to put them in front to open the shortcut key. The first skill in [Other] class can be purchased for free to meet the switching needs"
+"DOTA_HUD_SpellShop_info3"   "Selling skills will return half of the gold and skill points, and all skill points will be returned in single player mode"
+"DOTA_HUD_SpellShop_info4"   "You can evolve the spells after the level are 5 / 3"
+"DOTA_HUD_PlayerInfo_info1"   "<font color=\"#5bc0de\">Skill Atlas:</font><br><font color=\"#f0ad4e\">Here you can view your unlocked advanced skills, or upgrade by consuming reliable experience to increase the maximum level limit.</font><br><font color=\"#f0ad4e\">After you upgrade your skills to advanced level in the game, you can spend an additional 500 / 750 gold to upgrade them, which will improve the basic attributes, every five levels will also unlock a new effect.</font>"
+"DOTA_HUD_PlayerInfo_info2"   "<font color=\"#5bc0de\">Game Shop:</font><br><font color=\"#f0ad4e\">You can unlock skills or buy reliable experience by completing the aurum obtained from the game.</font>"
+// "DOTA_HUD_PlayerInfo_info2"   "<font color=\"#5bc0de\">Game Shop:</font><br><font color=\"#f0ad4e\">You can unlock skills or buy reliable experience by completing the aurum obtained from the game..<br>Of course, you can also choose to recharge(But I don't recommend blindly recharging. Almost everything in the game can be obtained by playing.)</font>"
+
+"DOTA_HUD_PlayerInfo_info3"   "Effects Store"
+"DOTA_HUD_PlayerInfo_info4"   "Personal Information"
+"DOTA_HUD_PlayerInfo_info5"   "Changing Setting(F10)"
+"DOTA_HUD_PlayerInfo_info6"   "Achievement"
+
+"DOTA_HUD_PlayerInfo_info7"   "<font color=\"#5bc0de\">Chaotic Era Spell Atlas</font><br><font color=\"#f0ad4e\">The spells here only appear in the chaotic era mod"
+"DOTA_HUD_PlayerInfo_info8"   "<font color=\"#5bc0de\">Relic：</font><br><font color=\"#f0ad4e\">Relic can only be used in chaotic era mode, and relic will randomly drop in chaotic era mode."
+
+
+"DOTA_HUD_showAllBuff_info"   "When enabled, more buffs will be displayed, but it also brings the following problems:If you lose the status of ability entities (such as royal jelly), you will not be able to use the ALT + left button to prompt, and some item's buff will lose the status icon"
+
+"DOTA_HUD_showDamageInfo"   "Show Damage and Healing Date"
+"DOTA_HUD_CheckFellOmen"   "Check Fell Omen Buffs"
+"DOTA_HUD_Bonus_FellOmenCount"   "Extra Half Fell Omen Count:{s:waveCount}"
+"DOTA_HUD_BuyBackInfo"   "Reuce your attributes for a while and respawn target(F3)"
+"DOTA_HUB_Start_create_bonus"  "Game Over, creating game bonus……" 
+
+"dota_hud_rooted"  "ROOTED"
+"dota_hud_cantmove"  "CANT MOVE"
+"dota_hud_Cant_UNLOCK"  "CAN'T UNLOCK"
+"dota_hub_cooldown"  "Ability On Cooldown"
+
+
+// "DOTA_HUD_HiddenDate"   "Hiding the submitted data after settlement"
+"DOTA_HUD_HiddenDate"   "HIDE SUBMITTED DATA"
+
+
+
+
+
+"DOTA_HUD_Yes"   "YES"
+// "DOTA_HUD_Yes_Info"   "Heroes, skills and items data will not be submitted when game settlement. If your information is on the Top10 Ranking, the heroes, skills and items data will not be able to check"
+
+"DOTA_HUD_Yes_Info"   "Hero, skill and item data will not be submitted after the game ends. If your submission is ranked in the Top 10, others won't be able to check your hero, skill and item information."
+
+
+
+
+"DOTA_HUD_No"   "NO"
+"DOTA_HUD_Yes_show"   "{s:player_name} select to hide game data. If you are on the Top10 ranking, other players cannot view your game data"
+"DOTA_HUD_No_show"   "{s:player_name} select to show game data. If you are on the Top10 ranking, other players can view your game data"
+"DOTA_HUD_CANT_SEE_INFO"   "This group of players set that others cannot view their data"
+
+
+"DOTA_Tooltip_ability_none_spells_info"	"You do not have the eligible ability"
+"DOTA_Tooltip_ability_none_spells_info_Description"	" Spell upgrade: reach the full level\n Spells for sale: there are purchased spells. "
+
+"DOTA_HUD_store"   "Store"
+"DOTA_HUD_core_count"   "Remaining core:{s:count}"
+"Market_Core_buy_failed_no_core"                   "There is no remaining core to be forged"
+"Market_Core_buy_failed_no_core_chance"                   "All core forging opportunities have been consumed"
+"Market_Core_buy_failed_difficulty"                   "Cant create Aghanim's core when challenging ranking"
+"Market_Core_buy_failed_server"                   "The server is unstable"
+"DOTA_HUD_PLAYER_GET_CORE_in_game1"                   "A forged <font color=\"#f0ad4e\">{s:ability_name}</font> was found by {s:player_name}"
+"DOTA_HUD_PLAYER_GET_CORE_in_game2"                   "Fallen Star given {s:player_name} a forged <font color=\"#f0ad4e\">{s:ability_name}</font>"
+"DOTA_HUD_PLAYER_GET_CORE_in_game3"                   "A good old man given {s:player_name} a forged <font color=\"#f0ad4e\">{s:ability_name}</font>"
+"DOTA_HUD_PLAYER_GET_CORE_in_game4"                   "A forged <font color=\"#f0ad4e\">{s:ability_name}</font> hit {s:player_name} on the head"
+
+"DOTA_HUD_PLAYER_GET_CORE"                   "{s:player_name} forged <font color=\"#f0ad4e\">{s:ability_name}</font>"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS1"                   "{s:player_name} found <font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font> in a body"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS2"                   "{s:player_name} found <font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font> from a vein somewhere"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS3"                   "{s:player_name} found <font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font> from a no name land"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS4"                   "<font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font> fell from the sky and hit {s:player_name} on the head"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS5"                   "{s:player_name} picked up <font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font> from the ground"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS6"                   "The No One given {s:player_name}<font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font>"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS7"                   "{s:player_name} prayer came into effect and got <font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font>"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS8"                   "{s:player_name} used the teammates' luck to find <font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font>"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS9"                   "{s:player_name} gained <font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font>"
+"DOTA_HUD_PLAYER_GET_CORE_BONUS10"                   "Master Aghanim responded to {s:player_name}'s request, given him <font color=\"#f0ad4e\">{s:locstring_value}</font> <font color=\"#f0ad4e\">{s:ability_name}</font>"
+
+
+
+"DOTA_HUD_upgrade_advanced_spell_info"  "Left click to uprate once, right click to uprade quintic"
+"Player_Black_Hole1"                   "The wormhole is working…………"
+"Player_Black_Hole2"                   "Somethings were changed in this world…………"
+
+
+
+
+
+"Paypal_block_too_small"                   "Due to PayPal's high fixed transaction fees, we currently cannot support low-value payments. Thank you for your understanding."
+
+
+
+
+
+
+"DOTA_NPEDesc_DOTA_Item_Build_Auto_Items"                   "You have turned on the advanced store, please disable it, otherwise the equipment cannot be displayed normally"
+"DOTA_Shop_info"                   "At the end of each round, you will get a chance to choose equipment rewards. Most equipment will be obtained in this step rather than purchased in the shop. The equipment sold in the shop is the most basic item, so you don't need them most of the time"
+
+"DOTA_GameMode_15"  "Heroic Road:Overture"
+"dota_game_end_victory_title_radiant"  "Successfully Overcome The Suffering"
+"dota_game_end_victory_title_dire"  "Failed in Suffering"
+
+"TimeScalce_panel"                   "Time Scale"
+"TimeScalce_info"                   "You can slow down the game by changing the game time scale, so as to alleviate the jam to a certain extent; It can also prevent game crash during lag."
+"TimeScalce_send"                   "Send"
+"TimeScalce_send_info"                   "Send a confirmation request to the teammate to change the time scale."
+
+
+
+"DOTA_HUD_Change_Time_Scale"   "A player want to adjust the time scale, do you accept?"
+"DOTA_HUD_Change_Time_Scale_Yes"   "Accept"
+"DOTA_HUD_Change_Time_Scale_Yes_Info"   "When all players agree, the time scale of the game will be changed."
+"DOTA_HUD_Change_Time_Scale_No"   "Refuse"
+"DOTA_HUD_Change_Time_Scale_Yes_show"   "{s:player_name} accepted the adjustment request."
+"DOTA_HUD_Change_Time_Scale_NO_show"   "{s:player_name} rejected the adjustment request."
+
+"DOTA_HUD_Change_Time_Scale_change_info"   "The game time scale has been adjusted to {s:locstring_value}%"
+
+"DOTA_HUD_Talent_Menu"                   "Unlocked Talent"
+"DOTA_HUD_Item_Menu"                   "Item Atlas"
+"DOTA_HUD_Game_Info"                   "Game Info"
+
+"DOTA_CUSTOM_UpdateFailed2"                   "<font color=\"#d9534f\">{s:player_name}Updates on reward settlement failed.The server may be unstable,and another update attempt in 2 seconds.</font>"
+"DOTA_CUSTOM_UpdateFailed3"                   "If fail to save game, please save the screenshot and contact the author."
+
+"HUD_Settlement_Done"  "The settlement has been completed, and you can safely exit the game now"
+
+
+
+
+
+"DOTA_CUSTOM_Cant_Learn_1"                   "Unable to learn new spell when you are not alive"
+"DOTA_CUSTOM_Cant_Learn_2"                   "Unable to evolve spell when you are not alive"
+"DOTA_CUSTOM_Cant_Learn_3"                   "Unable to upgrade spell when you are not alive"
+
+"DOTA_CUSTOM_heroSelection_1"                   "Loading player data..."
+"DOTA_CUSTOM_heroSelection_2"                   "Player data loading progress. If it fails to load for a long time, please restart the game.You can click the hidden exit button in the upper left corner. If it fails to load for a long time, it is recommended to change the server to another region."
+"DOTA_CUSTOM_heroSelection_3"                   "Be careful not to use the local server"
+
+
+"DOTA_HUD_CheckTalentMarket"  "Old players can buy hero talents directly, but note that the talents sold here are more expensive than those in the black market, so unless you are really in a hurry, I suggest you'd better wait for the black market."
+
+
+"DOTA_CUSTOM_CAST_DENY_DISABLE_HELP"                   "Cannot cast a target with Disable Help enabled"
+"DOTA_CUSTOM_CAST_DENY_NO_TARGET"                   "No Suitable Target"
+"DOTA_CUSTOM_CAST_DENY_NO_stack"                   "Not Enough Stacks"
+"DOTA_HUD_spell_modify"                   "You have unused genetic modification points"
+"DOTA_HUD_spell_modify_title"                   "Gene Modification"
+"DOTA_HUD_spell_modify_current_point"                   "Current gene modification points:{s:value1}"
+"DOTA_HUD_spell_modify_send"                   "Confirm"
+"DOTA_HUD_spell_modify_deny_1"                   "Not enough gene modification points"
+"DOTA_HUD_spell_modify_1"                   "Attack Modify"
+"DOTA_HUD_spell_modify_2"                   "Defensive Modify"
+
+"DOTA_HUD_not_enough_ability_point"                   "NoT enough ability point"
+
+
+
+"DOTA_HUD_spell_upgrate_button_tooltip"                   "Spell evolve cost: "
+
+"DOTA_HUD_SpellBook_Dropped"   "New settlement rewards:<font color=\"#f0ad4e\">Unknow Spell Book</font>×{s:value1}."
+
+
+"DOTA_Modifier_From"				"(Source-%s1)"
+"DOTA_Modifier_From_Unknow"				"(Unknown Source)"
+
+
+"DOTA_HUD_exp_Dropped"   "New settlement rewards:<img class='DotaPlusSmallIcon' src='s2r://panorama/images/battle_report/silver_medal_small_psd.vtex' /><font color=\"#f0ad4e\">Reliable Experience</font>:{s:value1}"
+"DOTA_HUD_aurum_Dropped"   "New settlement rewards:<img class='DotaPlusSmallIcon' src='s2r://panorama/images/compendium/compendiumcoins_ti5_png.vtex' /><font color=\"#f0ad4e\">Aurum</font>:{s:value1}"
+
+"DOTA_Modifier_Alert_hd_special_1"				"With %s1% Cooldown Reduction"
+
+"DOTA_HUD_Advanced_Attribue" "Advanced Property"
+"DOTA_HUD_CooldownReduction"  "Cooldown Reduction:"
+"DOTA_HUD_OutGoingDamage_Detail"  "Outgoing Damage Bonus:"
+"DOTA_HUD_CastRangeBonus_Detail"  "Cast Range Bonus:"
+"DOTA_HUD_HealAMP_PercentageBonus_Detail"  "Heal AMP:"
+"DOTA_HUD_HealReceiveAMP_PercentageBonus_Detail" "Heal Receive AMP:"
+
+"DOTA_HUD_DurationGain"  "Buff Duration Bonus:"
+"DOTA_HUD_NegativeDurationGain" "Debuff Duration Bonus:"
+
+
+"DOTA_HUD_SummonIntensity" "Summon AMP:"
+"DOTA_HUD_SummonTimeIntensity" "Summon Time AMP:"
+"DOTA_HUD_LifeStealIntensity" "Lifesteal AMP:"
+"DOTA_HUD_RandomEffectGain" "Probability Event Trigger AMP:"
+"DOTA_HUD_PhysicalCriticalAmp"  "Critical Damage AMP:"
+
+"DOTA_HUD_Incoming_Damage"  "Damage Reduction:"
+
+
+
+
+"HUD_Advanced_Header"  "Advanced Effect"
+
+
+"HUD_LERAN_SPELL_FAIL_Before_DifficultySelected"  "Need to wait for difficulty selection"
+
+
+
+
+"HUD_Get_Gift"	"{s:player_name} active a gift code, get <img class='DotaPlusSmallIcon' src='file://{images}/spells_menu/platinum.png' /><font color=\"#4ebff0\">{d:int_value} platinum </font>and<img class='DotaPlusSmallIcon' src='s2r://panorama/images/compendium/compendiumcoins_ti5_png.vtex' /><font color=\"#f0ad4e\">{d:int_value2} aurum </font>and<img class='DotaPlusSmallIcon' src='s2r://panorama/images/battle_report/silver_medal_small_psd.vtex' /><font color=\"#f0ad4e\">{s:locstring_value2} reliable experience</font>"
+"HUD_Get_Gift_2"	"{s:player_name} active a gift code, get <img class='DotaPlusSmallIcon' src='file://{images}/spells_menu/platinum.png' /><font color=\"#4ebff0\">{d:int_value} platinum </font>and<img class='DotaPlusSmallIcon' src='s2r://panorama/images/compendium/compendiumcoins_ti5_png.vtex' /><font color=\"#f0ad4e\">{d:int_value2} aurum </font>and<img class='DotaPlusSmallIcon' src='s2r://panorama/images/battle_report/silver_medal_small_psd.vtex' /><font color=\"#f0ad4e\">{s:locstring_value2} reliable experience </font>and<font color=\"#f07f4e\">{s:locstring_value} special (Unknow) bonus.</font>"
+		
+
+
+
+"HUD_SHOP_DISABLE_ON_BATTLE"  "You cannot purchase items during Battle State"
+
+"HUD_Hotkey_setting_info" "After binding the hotkey, it cannot be changed."
+
+"HUD_Hotkey_setting_error_1"  "Letter Key Only"
+
+
+"HUD_DEBUG_NOTE"  "{s:player_name} used a dev debug function"

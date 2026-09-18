@@ -1,0 +1,22 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "crystal.vfx"
+
+	//---- Color ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[-0.547 0.789]"
+	g_vTexCoordScale "[0.300 0.200]"
+	TextureColor "materials/example/rings/ring_01.tif"
+
+	//---- Specular ----
+	g_flBloom "0.535"
+	g_flFresnelExponent "8.6"
+	g_flFresnelReflectance "1.000"
+	g_flSpecularIntensity "0.277"
+
+	//---- Translucent ----
+	g_flOpacityScale "1.000"
+	TextureTranslucency "[1.000000 1.000000 1.000000 0.000000]"
+}

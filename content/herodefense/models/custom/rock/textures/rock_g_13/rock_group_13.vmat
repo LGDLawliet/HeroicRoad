@@ -1,0 +1,86 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 3 // Mod2X
+
+	//---- Masks ----
+	F_MASKS_1 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/custom/rock/textures/rock_g_13/rock_group_13_color.png"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[3.000 3.000]"
+	TextureDetail "models/custom/rock/textures/detail/ground_10_no_alpha.png"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "0.000"
+	g_flBloomShift "0.242"
+	g_vBloomColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureDiffuseWarpMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureMetalnessMask "[0.000000 0.000000 0.000000 0.000000]"
+	TextureSelfIllumMask "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "models/custom/rock/textures/rock_g_13/rock_group_13_normal.png"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "499.108"
+	g_flSpecularScale "9.174"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	Attributes
+	{
+		PreviewModel "models/custom/rock/rock_group_08.vmdl"
+	}
+
+	UnusedVariables
+	{
+		"TextureRimMask" "[0.108000 0.108000 0.108000 0.000000]"
+		"TextureSpecularExponent" "[0.498000 0.498000 0.498000 0.000000]"
+		"TextureSpecularMask" "[0.969000 0.969000 0.969000 0.000000]"
+		"TextureTintByBaseMask" "[0.281000 0.281000 0.281000 0.000000]"
+	}
+}

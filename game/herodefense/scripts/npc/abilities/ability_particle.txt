@@ -1,0 +1,78 @@
+"DOTAAbilities"
+{
+    "ability_particle_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/chaos_form_1"
+    }
+    "ability_particle_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "earth_spirit_petrify"
+    }
+    "ability_particle_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/life_drain_2"
+    }
+    "ability_particle_6"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/midnight_pulse"
+    }
+    "ability_particle_7"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/laguna_blade_2"
+    }
+    "ability_particle_8"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/void_unit"
+    }
+    "ability_particle_9"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/pulse_nova_2"
+    }
+    "ability_particle_10"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/shapeshift_2"
+    }
+    "ability_particle_11"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/chronosphere_the_world"
+    }
+    "ability_particle_12"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ability/plague_ward_1"
+    }
+    "ability_particle_13"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ability/plague_ward_2"
+    }
+    "ability_particle_14"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ability/source_earth_element"
+    }
+    "ability_particle_15"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ability/saiyazin"
+    }
+    "ability_particle_16"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ability/time_slash"
+    }
+    "ability_particle_17"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ability/stagnant_field"
+    }
+}

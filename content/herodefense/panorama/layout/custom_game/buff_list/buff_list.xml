@@ -1,0 +1,54 @@
+<root>
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/buff_list/buff_list.css" />
+	</styles>
+	<scripts>
+		<include src="s2r://panorama/layout/custom_game/buff_list/buff_list.js" />
+		<include src="s2r://panorama/layout/custom_game/buff_list/buff_list_single_buff.js" />
+		<include src="s2r://panorama/scripts/custom_game/common.js" />
+
+		
+	</scripts>
+ 	<snippets>
+        <!-- 技能画布 -->
+        <snippet name="SingleBuff">
+			<Panel class="BuffRoot" hittest="false">
+					<Button id="BuffFrame">
+						<Panel id="BuffImage">
+							<DOTAAbilityImage class="BuffImg" id="AbilityImg" />
+							<DOTAItemImage class="BuffImg" id="ItemImg" scaling="stretch-to-fit-y-preserve-aspect" />
+							<Image class="BuffImg" id="BuffImg" />
+							<Image class="BuffImg" id="BuffImgAlt" />
+							<Image class="BuffImg" id="BuffImgOther" />
+						</Panel>
+						<Label id="StackCount" />
+						<Panel id="CircularDuration"/>
+					</Button>
+				</Panel>
+        </snippet>
+
+
+		<snippet name="CustomPlayerIcon">
+			<Panel class="PlayerIconRoot" hittest="false">
+			
+					<DOTAAvatarImage id="ChatPlayerAvatar" accountid="324420892" />  
+			</Panel>
+        </snippet>
+
+	</snippets>
+
+
+	<Panel class="BuffListRoot" hittest="false">
+        <Panel id="BuffListPanel">
+			<Panel id="BuffBlock">
+                <Panel id="debuffs_list" />
+                <Panel id="buffs_list" />
+            </Panel>
+		</Panel>
+        <!-- <Panel class="BuffListButtonRoot" hittest="false">
+            <Button id="BuffListButton" onactivate="ShowAllBuff();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_showAllBuff_info')" onmouseout="DOTAHideTextTooltip()">  </Button>
+        </Panel> -->
+
+	</Panel>
+   
+</root>

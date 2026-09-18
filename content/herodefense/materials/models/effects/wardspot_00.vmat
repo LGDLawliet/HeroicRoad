@@ -1,0 +1,21 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"F_ALLOW_LIGHTING_ON_TRANSLUCENT"	"1"
+	"F_ADDITIVE_BLEND"	"1"
+	"F_TRANSLUCENT"	"1"
+	"g_flOpacityScale"	"1"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"TextureColor"	"materials/models/effects/wardspot_00_color.png"
+	"TextureTranslucency"	"materials/models/effects/wardspot_00_1b299f27_trans.png"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/models/effects/wardspot_00_color_psd_1b299f27.vtex"
+	}
+	"Attributes"
+	{
+		"dota.nav.walkable"	"1"
+	}
+}

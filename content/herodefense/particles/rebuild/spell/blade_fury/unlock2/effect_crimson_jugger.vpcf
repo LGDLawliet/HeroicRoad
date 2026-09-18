@@ -1,0 +1,64 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 8
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/blade_fury/unlock2/effect_impact_warp.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/blade_fury/unlock2/effect_impact02.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/blade_fury/unlock2/effect_impact01.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/blade_fury/unlock2/effect_impact03.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/blade_fury/unlock2/effect_crimson_impact_sparks.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/blade_fury/unlock2/effect_impact04.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/blade_fury/unlock2/effect_crimson_impact_pnt_jugger.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/blade_fury/unlock2/effect_crimson_impact_sparks_hit.vpcf"
+		},
+	]
+}

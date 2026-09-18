@@ -1,0 +1,29 @@
+<root>
+
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/overhead/overhead.css" />
+	</styles>
+	<scripts>
+		<include src="s2r://panorama/layout/custom_game/overhead/elite_overhead.js" />
+	</scripts>
+	<snippets>
+		<snippet name="EliteHealthBarSnippet">
+			<Panel class="EliteHealthBar">
+				<Image id="EliteIcon" />
+				<Label id="EliteName" />
+				<ProgressBar id="EliteHpBar" min="0" >
+				</ProgressBar>
+				<ProgressBar id="EliteHpBarWhite" min="0" >
+				</ProgressBar>
+			</Panel>
+		</snippet>
+	</snippets>
+	<Panel class="overhead_root" hittest="false" >
+
+	
+		<Panel id="overhead" hittest="false">
+	
+		</Panel>
+
+	</Panel>
+</root>

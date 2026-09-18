@@ -1,0 +1,201 @@
+
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_1"	"How could this happen??"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">How could this happen??</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_2"	"Guys, do you have any idea?"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Guys, do you have any idea?</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_3"	"I killed him, really!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I killed him, really!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_4"	"I like Hentai."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I like Hentai.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_5"	"I like to be a Hentai."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_5_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I like to be a Hentai.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_6"	"U got to know something."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_6_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">U got to know something.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_7"	"Fight, fight, fight."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_7_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Fight, fight, fight.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_8"	"I eat chocolate, you eat ##!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_8_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I eat chocolate, you eat ##!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_9"	"ruaruaruaruarua,are you stupid?~"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_9_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">ruaruaruaruarua,are you stupid?~~</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_10"	"Is it all right that I afk?"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_10_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Is it all right that I afk?</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_11"	"Ah! there is a wrong click."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_11_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Ah! there is a wrong click.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_12"	"Oh, oh, oh, oh!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_12_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Oh, oh, oh, oh!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_13"	"Oh my God, so handsome!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_13_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Oh my God, so handsome!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_14"	"Sad for you.... only one second."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_14_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Sad for you.... only one second.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_15"	"You are so gentle."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_15_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">You are so gentle.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_16"	"Emm? Ah, so green, so green! I am very happy!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_16_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Emm? Ah, so green, so green! I am very happy!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_17"	"Ah!? wtf?"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_17_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Ah!? wtf?</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_18"	"Ah! What is this?"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_18_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Ah! What is this?</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_19"	"Oh! Ah! I'm not dead~ Emm!??"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_19_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Oh! Ah! I'm not dead~ Emm!??</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_20"	"Ouch! Go go go go go."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_20_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Ouch! Go go go go go.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_21"	"This guy is more stupid than me! Obviously! I'll diss him."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_21_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">This guy is more stupid than me! Obviously! I'll diss him.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_22"	"Ah, save me! Save me! Save me! Save me! Save me."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_22_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Ah, save me! Save me! Save me! Save me! Save me.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_23"	"Ah, right, right, right. You are right."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_23_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Ah, right, right, right. You are right.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_24"	"Be careful, I will diss you!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_24_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Be careful, I will diss you!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_25"	"Diss him! Diss him while he's afk!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_25_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Diss him! Diss him while he's afk!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_26"	"Your action is so funny, lol."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_26_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Your action is so funny, lol.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_27"	"I didn't mean to disrespect you, it's just that everyone here is a loser!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_27_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I didn't mean to disrespect you, it's just that everyone here is a loser!(This is a joke.)</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_28"	"Believe me and live forever!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_28_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Believe me and live forever!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_28_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">信我，得永生！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_29"	"Thank you!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_29_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Thank you!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_30"	"Slow down, slow down, keep your voice down."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_30_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Slow down, slow down, keep your voice down.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_31"	"Hey? Have you guys already left? Wait for me I'm coming."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_31_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Hey? Have you guys already left? Wait for me I'm coming.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_32"	"This guy is a good person. He is so kind to me."
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_32_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">This guy is a good person. He is so kind to me.</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_33"	"What? If I get angry, I won't let him play with you. Hum!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_33_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">What? If I get angry, I won't let him play with you. Hum!</font>"
+
+
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_34"	"I said I said, I said I don't know what to call, I just followed you guys, hahahahah!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_34_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I said I said, I said I don't know what to call, I just followed you guys, hahahahah!</font>"
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_bobo_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_bobo_hero"	"BOBO"
+
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_1"	"Huh? There is a dead body here-- Oh, it's mine dead body."
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Huh? There is a dead body here-- Oh, it's mine dead body.</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_2"	"No kidding. You don't know how many arrows I hid yesterday. what? wtf!"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">No kidding. You don't know how many arrows I hid yesterday. what? wtf!</font>"
+
+
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_3"	"Oh! Awesome!"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Oh! Awesome!</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_4"	"Oh! Mine!"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Oh! Mine!</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_5"	"I am invisible, I am invisible, I am invisible."
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_5_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I am invisible, I am invisible, I am invisible.</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_6"	"Don't pick this, pleaseeeeeee."
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_6_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Don't pick this, pleaseeeeeee.</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_7"	"That's not my fault."
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_7_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">That's not my fault.</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_8"	"Thanks, guys. For we suffer together."
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_8_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Thanks, guys. For we suffer together.</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_9"	"Eidolon are more useful than you haha."
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_9_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Eidolon are more useful than you haha.</font>"
+
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_chinese_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_chinese_hero"	"Chinese Area Stars"
+
+
+"DOTA_Tooltip_ability_sound_wheel_japanese_index_1"	"I'll do it if you can't!"
+"DOTA_Tooltip_ability_sound_wheel_japanese_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I'll do it if you can't!</font>"
+"DOTA_Tooltip_ability_sound_wheel_japanese_index_2"	"I will use my true power to cut you off!"
+"DOTA_Tooltip_ability_sound_wheel_japanese_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I will use my true power to cut you off!</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_japanese_language_type"	"#DOTA_HUD_Wheel_language_4"
+"DOTA_Tooltip_ability_sound_wheel_japanese_hero"	"Other"
+
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_1"	"Go away! Let me do this!"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Go away! Let me do this!</font>"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_2"	"Yangtze River,Yangtze River, I am the Yellow River.01 01, I am 07.Zhao Yun Zhao Yun, I'm Ah Dou!!!!!!"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Yangtze River,Yangtze River, I am the Yellow River.01 01, I am 07.Zhao Yun Zhao Yun, I'm Ah Dou!!!!!!</font>"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_3"	"No, brother! No!!!"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">No, brother! No!!!</font>"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_4"	"Liu Bei is not someone you can be just because you want to be."
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Liu Bei is not someone you can be just because you want to be.</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_xisuo_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_hero"	"Hisoka"
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_1"	"No, no, no! Please no, big brother!"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">No, no, no! Please no, big brother!</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_2"	"Good brother, please help me~"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Good brother, please help me~</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_3"	"Get out of my way, let me do this~"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Get out of my way, let me do this~</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_4"	"Why don't you wash your face? That will make me feel better."
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Why don't you wash your face? That will make me feel better.</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_5"	"Why are you all Ah Dou? Where is Zhao Yun?"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_5_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Why are you all Ah Dou? Where is Zhao Yun?</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_6"	"Who is Zhao Yun? Who is Zhao Yun? I'm Ah Dou."
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_6_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Who is Zhao Yun? Who is Zhao Yun? I'm Ah Dou.</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_hero"	"Zhaoyun"
+
+
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_1"	"The door has been locked. No one can run away!"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">The door has been locked. No one can run away!</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_2"	"Ha ha, you little noob die again!"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Ha ha, you little noob die again!</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_3"	"Looks like you clowns are feeding!"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Looks like you clowns are feeding!</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_4"	"Do you know how to play? Let me do this!"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Do you know how to play? Let me do this!</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_5"	"I will kill you to avenge my brother!"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_5_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">I will kill you to avenge my brother!</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_6"	"Little noob, get out of the way and let me do this!"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_6_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Little noob, get out of the way and let me do this!</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_7"	"Dads, help me!"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_7_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">Dads, help me!</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_tiejia_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_hero"	"Tie Jia"
+
+
+
+
+
+"DOTA_HUD_Wheel_info_1"                   "Voice Wheel"
+"DOTA_HUD_Wheel_info_2"                   "Sound Source:"
+"DOTA_HUD_Wheel_info_3"                   "Language:"
+
+"DOTA_HUD_Wheel_info_4"                   "Preview: Right click to play sound"
+
+"DOTA_HUD_Wheel_language_1"                   "Chinese"
+"DOTA_HUD_Wheel_language_2"                   "Russian"
+"DOTA_HUD_Wheel_language_3"                   "English"
+"DOTA_HUD_Wheel_language_4"                   "Japanese"
+
+"DOTA_HUD_Wheel_info_5"                   "Open the voice wheel interface(F5)"
+"DOTA_HUD_Wheel_info_6"                   "Voice Wheel can only be played twice in 10 seconds"

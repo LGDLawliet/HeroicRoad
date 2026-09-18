@@ -1,0 +1,330 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vrfunknown:version{c9a29215-bb77-47b2-af5d-67eb30ba6578} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 10
+	m_Emitters = 
+	[
+		
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_nMapType = "PF_MAP_TYPE_DIRECT"
+				m_flLiteralValue = 4.000000
+				m_nControlPoint = 0
+				m_nScalarAttribute = 3
+				m_nVectorAttribute = 6
+				m_nVectorComponent = 0
+				m_flRandomMin = 0.000000
+				m_flRandomMax = 1.000000
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+				m_nInputMode = "PF_INPUT_MODE_CLAMPED"
+				m_flMultFactor = 1.000000
+				m_flInput0 = 0.000000
+				m_flInput1 = 1.000000
+				m_flOutput0 = 0.000000
+				m_flOutput1 = 1.000000
+				m_nBiasType = "PF_BIAS_TYPE_STANDARD"
+				m_flBiasParameter = 0.000000
+				m_Curve = 
+				{
+					m_spline = 
+					[
+					]
+					m_tangents = 
+					[
+					]
+					m_vDomainMins = 
+					[
+						0.000000,
+						0.000000,
+					]
+					m_vDomainMaxs = 
+					[
+						0.000000,
+						0.000000,
+					]
+				}
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		
+		{
+			_class = "C_INIT_PointList"
+			m_pointList = 
+			[
+				
+				{
+					m_vOffset = 
+					[
+						-325.000000,
+						325.000000,
+						3.500000,
+					]
+				},
+				
+				{
+					m_vOffset = 
+					[
+						-325.000000,
+						-325.000000,
+						3.500000,
+					]
+				},
+				
+				{
+					m_vOffset = 
+					[
+						325.000000,
+						-325.000000,
+						3.500000,
+					]
+				},
+				
+				{
+					m_vOffset = 
+					[
+						325.000000,
+						325.000000,
+						3.500000,
+					]
+				},
+			]
+		},
+		
+		{
+			_class = "C_INIT_RemapInitialDirectionToCPToVector"
+			m_nCP = 2
+			m_nFieldOutput = "21"
+			m_bNormalize = true
+		},
+		
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMax = 
+			[
+				0.000000,
+				0.000000,
+				32.000000,
+			]
+			m_bDisableOperator = true
+		},
+	]
+	m_Operators = 
+	[
+		
+		{
+			_class = "C_OP_BasicMovement"
+			m_bDisableOperator = true
+		},
+		
+		{
+			_class = "C_OP_SetFloat"
+			m_nOutputField = "18"
+			m_bDisableOperator = true
+		},
+		
+		{
+			_class = "C_OP_Decay"
+			m_bDisableOperator = true
+		},
+		
+		{
+			_class = "C_OP_NormalizeVector"
+			m_nFieldOutput = "21"
+		},
+		
+		{
+			_class = "C_OP_FadeInSimple"
+			m_bDisableOperator = true
+		},
+		
+		{
+			_class = "C_OP_FadeOutSimple"
+			m_bDisableOperator = true
+		},
+		
+		{
+			_class = "C_OP_EndCapTimedDecay"
+			m_flDecayTime = 0.100000
+		},
+		
+		{
+			_class = "C_OP_LerpEndCapScalar"
+			m_flOutput = 0.000000
+			m_flLerpTime = 0.100000
+			m_nFieldOutput = "7"
+		},
+		
+		{
+			_class = "C_OP_CycleScalar"
+			m_nDestField = "18"
+			m_flCycleTime = 20.000000
+		},
+		
+		{
+			_class = "C_OP_Noise"
+			m_flOutputMin = 90.000000
+			m_flOutputMax = 100.000000
+			m_flNoiseAnimationTimeScale = 16.500000
+			m_bDisableOperator = true
+		},
+		
+		{
+			_class = "C_OP_OscillateVector"
+			m_RateMin = 
+			[
+				0.000000,
+				0.000000,
+				-8.000000,
+			]
+			m_RateMax = 
+			[
+				0.000000,
+				0.000000,
+				8.000000,
+			]
+			m_bProportional = false
+			m_bProportionalOp = false
+			m_bOffset = true
+			m_flEndTime_min = 9999.000000
+			m_flEndTime_max = 9999.000000
+			m_bDisableOperator = true
+		},
+		
+		{
+			_class = "C_OP_Noise"
+			m_nFieldOutput = "16"
+			m_flNoiseAnimationTimeScale = 0.160000
+			m_bDisableOperator = true
+		},
+		
+		{
+			_class = "C_OP_ClampVector"
+			m_vecOutputMin = 
+			[
+				-2000.000000,
+				-2000.000000,
+				3.500000,
+			]
+			m_vecOutputMax = 
+			[
+				2000.000000,
+				2000.000000,
+				3.500000,
+			]
+			m_flOpStartFadeOutTime = 0.500000
+			m_flOpEndFadeOutTime = 0.500000
+			m_Notes = "Cheap force-to-ground"
+			m_bDisableOperator = true
+		},
+	]
+	m_Renderers = 
+	[
+		
+		{
+			_class = "C_OP_RenderRopes"
+			m_nMaxTesselation = 1
+			m_flTextureVWorldSize = 512.000000
+			m_flTextureVScrollRate = 1.000000
+			m_bUseScalarForTextureCoordinate = true
+			m_nScalarFieldForTextureCoordinate = "18"
+			m_flScalarAttributeTextureCoordScale = 1000.000000
+			m_nOrientationType = 2
+			m_bClosedLoop = true
+			m_flDepthBias = 3.000000
+			m_bAdditive = true
+			m_hTexture = resource:"materials/particle/beam_plasma_07.vtex"
+			m_flOverbrightFactor = 2.000000
+		},
+		
+		{
+			_class = "C_OP_RenderRopes"
+			m_nMaxTesselation = 1
+			m_flTextureVWorldSize = 512.000000
+			m_flTextureVScrollRate = 1.000000
+			m_bUseScalarForTextureCoordinate = true
+			m_nScalarFieldForTextureCoordinate = "18"
+			m_flScalarAttributeTextureCoordScale = 1000.000000
+			m_nOrientationType = 3
+			m_bClosedLoop = true
+			m_bAdditive = true
+			m_hTexture = resource:"materials/particle/beam_plasma_07.vtex"
+			m_bDisableOperator = true
+		},
+		
+		{
+			_class = "C_OP_RenderRopes"
+			m_nMaxTesselation = 1
+			m_flTextureVWorldSize = 512.000000
+			m_flTextureVScrollRate = 1.000000
+			m_nScalarFieldForTextureCoordinate = "18"
+			m_flScalarAttributeTextureCoordScale = 1000.000000
+			m_nOrientationType = 2
+			m_flRadiusScale = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_nMapType = "PF_MAP_TYPE_DIRECT"
+				m_flLiteralValue = 0.500000
+				m_nControlPoint = 0
+				m_nScalarAttribute = 3
+				m_nVectorAttribute = 6
+				m_nVectorComponent = 0
+				m_flRandomMin = 0.000000
+				m_flRandomMax = 1.000000
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+				m_nInputMode = "PF_INPUT_MODE_CLAMPED"
+				m_flMultFactor = 1.000000
+				m_flInput0 = 0.000000
+				m_flInput1 = 1.000000
+				m_flOutput0 = 0.000000
+				m_flOutput1 = 1.000000
+				m_nBiasType = "PF_BIAS_TYPE_STANDARD"
+				m_flBiasParameter = 0.000000
+				m_Curve = 
+				{
+					m_spline = 
+					[
+					]
+					m_tangents = 
+					[
+					]
+					m_vDomainMins = 
+					[
+						0.000000,
+						0.000000,
+					]
+					m_vDomainMaxs = 
+					[
+						0.000000,
+						0.000000,
+					]
+				}
+			}
+			m_bClosedLoop = true
+			m_bAdditive = true
+			m_hTexture = resource:"materials/particle/beam_hotwhite_alpha.vtex"
+			m_bDisableOperator = true
+		},
+	]
+	m_nMaxParticles = 4
+	m_ConstantColor = 
+	[
+		182,
+		126,
+		255,
+		139,
+	]
+	m_flConstantRadius = 100.000000
+	m_controlPointConfigurations = 
+	[
+		
+		{
+			m_name = "preview"
+		},
+	]
+	m_flConstantLifespan = 2.000000
+}

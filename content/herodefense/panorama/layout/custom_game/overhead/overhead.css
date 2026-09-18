@@ -1,0 +1,89 @@
+
+.EliteHealthBar{
+  width: 220px;
+  height: 50px;
+  z-index: -5;
+}
+#EliteIcon{
+  width: 40px;
+  height: 40px;
+  align: right center;
+  background-size: 100%;
+}
+#EliteName{
+  align: center bottom;
+  font-size: 18px;
+  margin-bottom: 18px;
+  color: #ffffff;
+  text-align: center center;
+}
+#EliteLvBg{
+  width: 20px;
+  height: 20px;
+  align: left top;
+  margin-left: 20%;
+  background-size: 100%;
+  background-color: black;
+  border: 2px solid #382c26;
+}
+#EliteLevel{
+  align: center bottom;
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center center;
+}
+#EliteHpBar{
+  width: 200px;
+  height: 14px;
+  align: center bottom;
+  /* background-color: #1a1717; */
+  margin-bottom: 1%;
+  border: 2px solid #2e2e2e;
+  /* box-shadow: rgb(255, 255, 255) 0px 0px 5px 0px; */
+  z-index: 2;
+  opacity: 1;
+}
+
+#EliteHpBar_Left{
+  background-color: #a00c0c;
+  /* z-index: 2; */
+  opacity: 1;
+}
+#ElitHpBar_Right{
+  background-color: black;
+  /* opacity: 0.05; */
+  /* z-index: 0; */
+  opacity: 0;
+}
+
+#EliteHpBarWhite{
+  width: 200px;
+  height: 14px;
+  align: center bottom;
+  background-color: #1a1717;
+  margin-bottom: 1%;
+  border: 2px solid #2e2e2e;
+  box-shadow: rgb(0, 0, 0) 0px 0px 5px 0px;
+  /* z-index: 1; */
+}
+#EliteHpBarWhite_Left{
+  background-color: #ffffff;
+  /* z-index: 1; */
+}
+#EliteHpBarWhite_Right{
+  background-color: black;
+  /* z-index: 1; */
+}
+
+.overhead_root{
+  height: 100%;
+  width:100%;
+}
+
+#overhead{
+  height: 100%;
+  width:100%;
+}
+
+
+

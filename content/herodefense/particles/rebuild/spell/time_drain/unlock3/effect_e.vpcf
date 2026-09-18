@@ -1,0 +1,147 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 8
+	m_flConstantRadius = 1.0
+	m_flConstantLifespan = 0.5
+	m_ConstantColor = [ 109, 108, 108, 155 ]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderModels"
+			m_nModelCP = 2
+			m_bIgnoreNormal = true
+			m_flAnimationRate = 20.0
+			m_bSuppressTint = true
+			m_ModelList = 
+			[
+				{
+					m_model = resource:"models/heroes/weaver/weaver.vmdl"
+				},
+			]
+			m_bAnimated = true
+			m_bForceDrawInterlevedWithSiblings = true
+			m_nLOD = 1
+			m_bForceLoopingAnimation = true
+		},
+		{
+			_class = "C_OP_RenderDeferredLight"
+			m_flAlphaScale = 6.0
+			m_flRadiusScale = 200.0
+			m_hTexture = resource:"materials/models/heroes/weaver/weaver_color.vtex"
+			m_vecColorScale = 
+			{
+				m_nType = "PVEC_TYPE_LITERAL_COLOR"
+				m_LiteralColor = [ 98, 209, 255 ]
+			}
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+		},
+		{
+			_class = "C_OP_FadeOutSimple"
+			m_flFadeOutTime = 0.75
+		},
+		{
+			_class = "C_OP_OscillateVector"
+			m_nField = 6
+			m_RateMin = [ 1.5, 1.5, 3.0 ]
+			m_RateMax = [ 2.0, 2.0, 5.0 ]
+			m_FrequencyMin = [ 0.5, 0.5, 0.5 ]
+			m_FrequencyMax = [ 0.5, 0.5, 0.5 ]
+		},
+		{
+			_class = "C_OP_BasicMovement"
+		},
+		{
+			_class = "C_OP_PositionLock"
+			m_nControlPointNumber = 2
+		},
+		{
+			_class = "C_OP_DampenToCP"
+			m_nControlPointNumber = 2
+			m_flRange = 8.0
+		},
+		{
+			_class = "C_OP_RemapCPtoVector"
+			m_nCPInput = 60
+			m_nFieldOutput = "6"
+			m_vInputMax = [ 255.0, 255.0, 255.0 ]
+			m_vOutputMax = [ 255.0, 255.0, 255.0 ]
+			m_flOpStrength = 
+			{
+				m_nType = "PF_TYPE_CONTROL_POINT_COMPONENT"
+				m_nControlPoint = 61
+				m_nVectorComponent = 0
+				m_nMapType = "PF_MAP_TYPE_REMAP"
+				m_flInput0 = 0.0
+				m_flInput1 = 1.0
+				m_flOutput0 = 0.0
+				m_flOutput1 = 1.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_RandomModelSequence"
+			m_ActivityName = "ACT_DOTA_ATTACK"
+			m_hModel = resource:"models/heroes/weaver/weaver.vmdl"
+		},
+		{
+			_class = "C_INIT_CreateWithinSphere"
+			m_nControlPointNumber = 2
+			m_vecDistanceBias = [ 1.0, 1.0, 0.0 ]
+		},
+		{
+			_class = "C_INIT_RemapQAnglesToRotation"
+			m_nCP = 1
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin = [ -132.0, -132.0, 0.0 ]
+			m_OffsetMax = [ 132.0, 132.0, 32.0 ]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_flStartTime = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.0
+			}
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 2.0
+			}
+		},
+	]
+	m_ForceGenerators = 
+	[
+		{
+			_class = "C_OP_AttractToControlPoint"
+			m_fForceAmount = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 3000.0
+			}
+			m_fFalloffPower = 0.0
+			m_nControlPointNumber = 2
+			m_fForceAmountMin = null
+			m_bApplyMinForce = false
+		},
+	]
+	m_PreEmissionOperators = [  ]
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 3
+}

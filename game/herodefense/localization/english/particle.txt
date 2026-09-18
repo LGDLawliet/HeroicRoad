@@ -1,0 +1,519 @@
+"DOTA_Tooltip_ability_ability_particle_0"	"Default"
+"DOTA_Tooltip_ability_ability_particle_0_Description"	"Nothing special"
+"DOTA_Tooltip_ability_ability_particle_1"	"测试特效1"
+"DOTA_Tooltip_ability_ability_particle_2"	"测试特效2"
+// "<font color=\"#ffffff\">Rarity: Common</font>"
+// "<font color=\"#777777\">Rarity: Uncommon</font>"
+// "<font color=\"#8bb6ff\">Rarity: Rare</font>"
+// "<font color=\"#6f00ff\">Rarity: Mythical</font>"
+// "<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+// "<font color=\"#ADE55C\">Rarity: Arcana</font>"
+"DOTA_HUD_Forver" "Permanent"
+"DOTA_HUD_Particle_on"  "On"
+"DOTA_HUD_Particle_off"  "Off"
+"DOTA_HUD_Particle_locked"  "Locked"
+"DOTA_HUD_Particle_error1"  "Unable to remove the default effect"
+"DOTA_HUD_Particle_type_1" "Body effect"
+// "DOTA_HUD_Particle_type_2" "Melee Attack"
+// "DOTA_HUD_Particle_type_3" "Range Attack"
+"DOTA_HUD_Particle_type_2" "Melee Sabre Light"
+"DOTA_HUD_Particle_type_3" "Range Projectile"
+"DOTA_HUD_Particle_type_4" "Ability Effect"
+"DOTA_HUD_Particle_type_5" "Hero Talent"
+"particle_buy_failed_forever"                   "Purchase failed because this effect has been unlocked"
+"DOTA_HUD_TYPE"  "Type："
+"DOTA_HUD_HERO"  "Hero:"
+"DOTA_Tooltip_ability_attach_particle_1"	"The Golden Light of The King Of Involution"
+"DOTA_Tooltip_ability_attach_particle_1_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_2_Lore"	"After countless trials, you have the right to wear gold that symbolizes the king."
+"DOTA_Tooltip_ability_attach_particle_2"	"The Glory of The King of Planes"
+"DOTA_Tooltip_ability_attach_particle_2_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_1_Lore"	"The strongest hero in some planes."
+"DOTA_Tooltip_ability_attach_particle_3"	"The Awakened Man of Divine Power"
+"DOTA_Tooltip_ability_attach_particle_3_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_3_Lore"	"Although you can't reach the top, you can become the strongest one someday"
+"DOTA_Tooltip_ability_attach_particle_4"	"Breath of Cold Ice LV1"
+"DOTA_Tooltip_ability_attach_particle_4_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_4_Lore"	"My lord... When will you take me away from this dark prison......"
+"DOTA_Tooltip_ability_attach_particle_5"	"Breath of Cold Ice LV2"
+"DOTA_Tooltip_ability_attach_particle_5_Description"	"<font color=\"#ffffff\">Rarity: Common</font>"
+"DOTA_Tooltip_ability_attach_particle_5_Lore"	"My lord... When will you take me away from this dark prison......"
+"DOTA_Tooltip_ability_attach_particle_6"	"Breath of Cold Ice LV3"
+"DOTA_Tooltip_ability_attach_particle_6_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_6_Lore"	"My lord... When will you take me away from this dark prison......"
+"DOTA_Tooltip_ability_attach_particle_7"	"Hand of the Hell"
+"DOTA_Tooltip_ability_attach_particle_7_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_7_Lore"	"The evil power of hell will drag you into the abyss of hell"
+"DOTA_Tooltip_ability_attach_particle_8"	"Hand of the Underworld"
+"DOTA_Tooltip_ability_attach_particle_8_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_8_Lore"	"Come on, hold my hand and walk to the opposite bank of Sanzu River"
+"DOTA_Tooltip_ability_attach_particle_9"	"Multiple Dimensions"
+"DOTA_Tooltip_ability_attach_particle_9_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_9_Lore"	"I am you, you are me, but we come from different dimensions"
+"DOTA_Tooltip_ability_attach_particle_10"	"Ice Therapy"
+"DOTA_Tooltip_ability_attach_particle_10_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_10_Lore"	"This wonderful piece of ice seems to heal the wound"
+"DOTA_Tooltip_ability_attach_particle_11"	"Natural Favor"
+"DOTA_Tooltip_ability_attach_particle_11_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_11_Lore"	"My head won't be too green……"
+
+"DOTA_Tooltip_ability_attach_particle_12"	"Doom"
+"DOTA_Tooltip_ability_attach_particle_12_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_12_Lore"	"Feel the fury of hell, mortal!"
+
+"DOTA_Tooltip_ability_attach_particle_13"	"Flying Sand and Rolling Pebbles"
+"DOTA_Tooltip_ability_attach_particle_13_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_13_Lore"	"The sand is growing one by one……"
+
+"DOTA_Tooltip_ability_attach_particle_14"	"Root"
+"DOTA_Tooltip_ability_attach_particle_14_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_14_Lore"	"Trees are growing."
+"DOTA_Tooltip_ability_attach_particle_15"	"Sanctity"
+"DOTA_Tooltip_ability_attach_particle_15_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_15_Lore"	"This body is blessed by God."
+
+"DOTA_Tooltip_ability_attach_particle_16"	"Light of Insight"
+"DOTA_Tooltip_ability_attach_particle_16_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_16_Lore"	"No creation can hide its weakness under the light."
+
+"DOTA_Tooltip_ability_attach_particle_17"	"Misfortune"
+"DOTA_Tooltip_ability_attach_particle_17_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_17_Lore"	"You don't look very well……"
+
+"DOTA_Tooltip_ability_attach_particle_18"	"Dim Vision"
+"DOTA_Tooltip_ability_attach_particle_18_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_18_Lore"	"Guess where I am?"
+
+"DOTA_Tooltip_ability_attach_particle_19"	"Ionic Vapor"
+"DOTA_Tooltip_ability_attach_particle_19_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_19_Lore"	"Crackling!"
+
+"DOTA_Tooltip_ability_attach_particle_20"	"Desperation Aura"
+"DOTA_Tooltip_ability_attach_particle_20_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_20_Lore"	"Fear strikes you"
+
+"DOTA_Tooltip_ability_attach_particle_21"	"Midas Touch"
+"DOTA_Tooltip_ability_attach_particle_21_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_21_Lore"	"Can you see I'm rich?"
+
+
+"DOTA_Tooltip_ability_attach_particle_22"	"Agate Luster"
+"DOTA_Tooltip_ability_attach_particle_22_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_22_Lore"	"Look at this color, and this reflection"
+
+"DOTA_Tooltip_ability_attach_particle_23"	"Emerald"
+"DOTA_Tooltip_ability_attach_particle_23_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_23_Lore"	"Is it too green..."
+"DOTA_Tooltip_ability_attach_particle_24"	"The Desolation of Diretide LV1"
+"DOTA_Tooltip_ability_attach_particle_24_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_24_Lore"	"An annual festival"
+
+
+
+"DOTA_Tooltip_ability_attach_particle_25"	"Ash Aura"
+"DOTA_Tooltip_ability_attach_particle_25_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_25_Lore"	"Ashen one, hearest thou my voice still?"
+
+"DOTA_Tooltip_ability_attach_particle_26"	"Water Vapor Surround"
+"DOTA_Tooltip_ability_attach_particle_26_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_26_Lore"	"Can the mist quench your thirst?"
+
+"DOTA_Tooltip_ability_attach_particle_27"	"Flower Wedding"
+"DOTA_Tooltip_ability_attach_particle_27_Description"	"<font color=\"#ffffff\">Rarity: Common</font>"
+"DOTA_Tooltip_ability_attach_particle_27_Lore"	"I didn't expect dota to have this"
+
+"DOTA_Tooltip_ability_attach_particle_28"	"The Flame of Void"
+"DOTA_Tooltip_ability_attach_particle_28_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_28_Lore"	"The void under  thefeet slowly emerges"
+
+"DOTA_Tooltip_ability_attach_particle_29"	"The Flame of Void(Dark blue variant)"
+"DOTA_Tooltip_ability_attach_particle_29_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_29_Lore"	"The void under  thefeet slowly emerges"
+
+"DOTA_Tooltip_ability_attach_particle_30"	"The Flame of Void(Dark red variant)"
+"DOTA_Tooltip_ability_attach_particle_30_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_30_Lore"	"The void under  thefeet slowly emerges"
+"DOTA_Tooltip_ability_attach_particle_31"	"The Flame of Void(Dark green variant)"
+"DOTA_Tooltip_ability_attach_particle_31_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_31_Lore"	"The void under  thefeet slowly emerges"
+
+
+
+
+"DOTA_Tooltip_ability_attach_particle_32"	"Frost and Snow"
+"DOTA_Tooltip_ability_attach_particle_32_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_32_Lore"	"Winter is here again"
+
+"DOTA_Tooltip_ability_attach_particle_33"	"Flaming Touch"
+"DOTA_Tooltip_ability_attach_particle_33_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_33_Lore"	"Suddenly a little hot"
+
+"DOTA_Tooltip_ability_attach_particle_34"	"Frost Touch"
+"DOTA_Tooltip_ability_attach_particle_34_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_34_Lore"	"Suddenly a little cold"
+
+"DOTA_Tooltip_ability_attach_particle_35"	"The Desolation of Diretide LV2"
+"DOTA_Tooltip_ability_attach_particle_35_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_35_Lore"	"An annual festival"
+
+"DOTA_Tooltip_ability_attach_particle_36"	"Breeze LV1"
+"DOTA_Tooltip_ability_attach_particle_36_Description"	"<font color=\"#ffffff\">Rarity: Common</font>"
+"DOTA_Tooltip_ability_attach_particle_36_Lore"	"Svalande Vind"
+
+"DOTA_Tooltip_ability_attach_particle_37"	"Breeze LV2"
+"DOTA_Tooltip_ability_attach_particle_37_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_37_Lore"	"Svalande Vind"
+
+"DOTA_Tooltip_ability_attach_particle_38"	"Electrolytic Water LV1"
+"DOTA_Tooltip_ability_attach_particle_38_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_38_Lore"	"Watch out for the hydrogen around you"
+
+"DOTA_Tooltip_ability_attach_particle_39"	"Electrolytic Water LV2"
+"DOTA_Tooltip_ability_attach_particle_39_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_39_Lore"	"Watch out for the hydrogen around you"
+
+
+"DOTA_Tooltip_ability_attach_particle_40"	"Electrolytic Water LV3"
+"DOTA_Tooltip_ability_attach_particle_40_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_40_Lore"	"Watch out for the hydrogen around you"
+
+"DOTA_Tooltip_ability_attach_particle_41"	"Electrolytic Water LV4"
+"DOTA_Tooltip_ability_attach_particle_41_Description"	"<font color=\"#ADE55C\">Rarity: Arcana</font>"
+"DOTA_Tooltip_ability_attach_particle_41_Lore"	"Watch out for the hydrogen around you"
+
+"DOTA_Tooltip_ability_attach_particle_42"	"Bloody Falling Feather"
+"DOTA_Tooltip_ability_attach_particle_42_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_42_Lore"	"The bloody feather tells the tragic past of its owner"
+
+"DOTA_Tooltip_ability_attach_particle_43"	"Violet Color"
+"DOTA_Tooltip_ability_attach_particle_43_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_43_Lore"	"The light was beginning to drain from a violet sky"
+
+
+
+"DOTA_Tooltip_ability_attach_particle_44"	"Overgrown Emblem"
+"DOTA_Tooltip_ability_attach_particle_44_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_44_Lore"	"This cosmically rare prize was awarded as a random drop while opening Immortal Treasures during The International 2019 Battle Pass season"
+
+
+"DOTA_Tooltip_ability_attach_particle_45"	"Crystal Emblem"
+"DOTA_Tooltip_ability_attach_particle_45_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_45_Lore"	"This cosmically rare prize was awarded as a random drop while opening Immortal Treasures during The International 2018 Battle Pass season"
+
+"DOTA_Tooltip_ability_attach_particle_46"	"Nemestice Emblem"
+"DOTA_Tooltip_ability_attach_particle_46_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_46_Lore"	"This cosmically rare prize was awarded as a random drop while opening Immortal Treasures during The International 2021 Battle Pass season"
+
+"DOTA_Tooltip_ability_attach_particle_47"	"Magnetic Field Stone"
+"DOTA_Tooltip_ability_attach_particle_47_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_47_Lore"	"There seems to be some mysterious force under your feet, so that the surrounding magnetic field sends a sharp change."
+
+
+"DOTA_Tooltip_ability_attach_particle_48"	"Foul"
+"DOTA_Tooltip_ability_attach_particle_48_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_48_Lore"	"Evil power from seven degrees of hell"
+
+"DOTA_Tooltip_ability_attach_particle_49"	"Shard's Power LV1"
+"DOTA_Tooltip_ability_attach_particle_49_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_49_Lore"	"Is this the energy fragment of Aghanim?"
+"DOTA_Tooltip_ability_attach_particle_50"	"Shard's Power LV2"
+"DOTA_Tooltip_ability_attach_particle_50_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_50_Lore"	"Is this the energy fragment of Aghanim?"
+"DOTA_Tooltip_ability_attach_particle_51"	"Shard's Power LV3"
+"DOTA_Tooltip_ability_attach_particle_51_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_51_Lore"	"Is this the energy fragment of Aghanim?"
+
+
+"DOTA_Tooltip_ability_attach_particle_52"	"Nebula"
+"DOTA_Tooltip_ability_attach_particle_52_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_52_Lore"	"One day, the stars will no longer be a secret"
+
+
+
+"DOTA_Tooltip_ability_attach_particle_53"	"Golden Highness LV2"
+"DOTA_Tooltip_ability_attach_particle_53_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_53_Lore"	"I am the embodiment of all gold"
+
+
+"DOTA_Tooltip_ability_attach_particle_54"	"Golden Highness LV1"
+"DOTA_Tooltip_ability_attach_particle_54_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_54_Lore"	"I am the embodiment of all gold"
+
+"DOTA_Tooltip_ability_attach_particle_55"	"Golden Highness LV3"
+"DOTA_Tooltip_ability_attach_particle_55_Description"	"<font color=\"#ADE55C\">Rarity: Arcana</font>"
+"DOTA_Tooltip_ability_attach_particle_55_Lore"	"I am the embodiment of all gold"
+
+
+"DOTA_Tooltip_ability_attach_particle_56"	"Candy Store"
+"DOTA_Tooltip_ability_attach_particle_56_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_56_Lore"	"Would you like some delicious candy? But be careful, it may attract the meat mountain"
+
+
+"DOTA_Tooltip_ability_attach_particle_57"	"Gold Pocket"
+"DOTA_Tooltip_ability_attach_particle_57_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_57_Lore"	"My pocket seems to be torn"
+"DOTA_Tooltip_ability_attach_particle_58"	"Gold Pocket(Golden variant)"
+"DOTA_Tooltip_ability_attach_particle_58_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_58_Lore"	"My pocket seems to be torn"
+
+"DOTA_Tooltip_ability_attach_particle_59"	"Resurrection of the dead"
+"DOTA_Tooltip_ability_attach_particle_59_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_59_Lore"	"Does the clod over there seem to move?"
+
+"DOTA_Tooltip_ability_attach_particle_60"	"Frost Day"
+"DOTA_Tooltip_ability_attach_particle_60_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_60_Lore"	"雾浓香鸭，冰凝泪烛，霜天难晓"
+
+"DOTA_Tooltip_ability_attach_particle_61"	"Penn's Black Stick"
+"DOTA_Tooltip_ability_attach_particle_61_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_61_Lore"	"This magical substance can be created by people with reincarnation eyes"
+
+// cheeseman
+
+"DOTA_Tooltip_ability_attach_particle_62"	"Cheeseman"
+"DOTA_Tooltip_ability_attach_particle_62_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_62_Lore"	"Is that a bird? Is that a plane? That's the cheese man!"
+
+
+// gemstone_crystal_worm
+"DOTA_Tooltip_ability_attach_particle_63"	"Gemstone Crystal Worm"
+"DOTA_Tooltip_ability_attach_particle_63_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_63_Lore"	"Give me a wedge-shaped stone plate!"
+
+
+"DOTA_Tooltip_ability_attach_particle_64"	"Cat Buddy"
+"DOTA_Tooltip_ability_attach_particle_64_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_64_Lore"	"Don't run over to me"
+
+"DOTA_Tooltip_ability_attach_particle_65"	"Cat Buddy(Gem of True Sight)"
+"DOTA_Tooltip_ability_attach_particle_65_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_65_Lore"	"Don't run over to me"
+
+"DOTA_Tooltip_ability_attach_particle_66"	"Cat Buddy(Ultimate Orb)"
+"DOTA_Tooltip_ability_attach_particle_66_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_66_Lore"	"Don't run over to me"
+
+"DOTA_Tooltip_ability_attach_particle_67"	"Cat Buddy(Soul Booster)"
+"DOTA_Tooltip_ability_attach_particle_67_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_67_Lore"	"Don't run over to me"
+
+"DOTA_Tooltip_ability_attach_particle_68"	"Cat Buddy(Refresher Orb )"
+"DOTA_Tooltip_ability_attach_particle_68_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_68_Lore"	"Don't run over to me"
+
+"DOTA_Tooltip_ability_attach_particle_69"	"Cat Buddy(Octarine Core )"
+"DOTA_Tooltip_ability_attach_particle_69_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_69_Lore"	"Don't run over to me"
+"DOTA_Tooltip_ability_attach_particle_70"	"Cat Buddy(Aegis of the Immortal)"
+"DOTA_Tooltip_ability_attach_particle_70_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_70_Lore"	"Don't run over to me"
+
+"DOTA_Tooltip_ability_attach_particle_72"	"Spirit of the Moon"
+"DOTA_Tooltip_ability_attach_particle_72_Description"	"<font color=\"#ADE55C\">Rarity: Arcana</font>"
+"DOTA_Tooltip_ability_attach_particle_72_Lore"	"Incarnation of the goddess of the moon"
+
+
+"DOTA_Tooltip_ability_attach_particle_73"	"3D Printer"
+"DOTA_Tooltip_ability_attach_particle_73_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_73_Lore"	"I want to buy one recently"
+
+"DOTA_Tooltip_ability_attach_particle_74"	"Coin ScatteringLV1"
+"DOTA_Tooltip_ability_attach_particle_74_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_74_Lore"	"What's your superpowers?"
+
+"DOTA_Tooltip_ability_attach_particle_75"	"Coin ScatteringLV2"
+"DOTA_Tooltip_ability_attach_particle_75_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_75_Lore"	"What's your superpowers?"
+
+"DOTA_Tooltip_ability_attach_particle_76"	"Woodenman"
+"DOTA_Tooltip_ability_attach_particle_76_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_76_Lore"	"1，2，3……"
+
+
+"DOTA_Tooltip_ability_attach_particle_77"	"Truth LassoLV1"
+"DOTA_Tooltip_ability_attach_particle_77_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_77_Lore"	"The lariat forces anyone it captures into submission; compelling its captives to obey the wielder of the lasso and tell the truth."
+
+"DOTA_Tooltip_ability_attach_particle_78"	"Truth LassoLV2"
+"DOTA_Tooltip_ability_attach_particle_78_Description"	"<font color=\"#ADE55C\">Rarity: Arcana</font>"
+"DOTA_Tooltip_ability_attach_particle_78_Lore"	"The lariat forces anyone it captures into submission; compelling its captives to obey the wielder of the lasso and tell the truth."
+
+
+"DOTA_Tooltip_ability_attach_particle_79"	"Truth LassoLV2(Scarlet variant)"
+"DOTA_Tooltip_ability_attach_particle_79_Description"	"<font color=\"#ADE55C\">Rarity: Arcana</font>"
+"DOTA_Tooltip_ability_attach_particle_79_Lore"	"The lariat forces anyone it captures into submission; compelling its captives to obey the wielder of the lasso and tell the truth."
+
+
+"DOTA_Tooltip_ability_attach_particle_80"	"Spectre's Shadow"
+"DOTA_Tooltip_ability_attach_particle_80_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_80_Lore"	"Maybe you're just a ghost of her, and you don't know it"
+
+// Hamon
+"DOTA_Tooltip_ability_attach_particle_81"	"Hamon"
+"DOTA_Tooltip_ability_attach_particle_81_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_81_Lore"	"Through self-controlled respiration, a trained person can produce an energy manifesting as ripples throughout their body and that is identical to the energy of the Sun, in polar opposition to the energy exerted by Vampires, Zombies and the Pillar Men."
+
+
+"DOTA_Tooltip_ability_attach_particle_82"	"Mucus of brain worms"
+"DOTA_Tooltip_ability_attach_particle_82_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_82_Lore"	"Are you still in your head?"
+
+"DOTA_Tooltip_ability_attach_particle_83"	"Somersault cloud"
+"DOTA_Tooltip_ability_attach_particle_83_Description"		"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_83_Lore"	"What a fool this Tathagata is! A single somersault of mine can carry old Monkey one hundred and eight thousand li, yet his palm is not even one foot across. How could I possibly not jump clear of it?"
+
+
+// secret_of_the_rubik_cube
+
+"DOTA_Tooltip_ability_attach_particle_84"	"Secret of the Rubik's Cube LV1"
+"DOTA_Tooltip_ability_attach_particle_84_Description"		"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_84_Lore"	"What a delightful power!"
+"DOTA_Tooltip_ability_attach_particle_85"	"Secret of the Rubik's Cube LV2"
+"DOTA_Tooltip_ability_attach_particle_85_Description"			"<font color=\"#ADE55C\">Rarity: Arcana</font>"
+"DOTA_Tooltip_ability_attach_particle_85_Lore"	"What a delightful power!"
+
+
+"DOTA_Tooltip_ability_attach_particle_86"	"Batman"
+"DOTA_Tooltip_ability_attach_particle_86_Description"		"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_86_Lore"	"Because I am Batman！"
+
+
+"DOTA_Tooltip_ability_attach_particle_87"	"Jewelry Collector LV1"
+"DOTA_Tooltip_ability_attach_particle_87_Description"		"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_87_Lore"	"Buy one? Can be an heirloom"
+
+"DOTA_Tooltip_ability_attach_particle_88"	"Jewelry Collector LV2"
+"DOTA_Tooltip_ability_attach_particle_88_Description"		"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_88_Lore"	"Buy one? Can be an heirloom"
+
+"DOTA_Tooltip_ability_attach_particle_89"	"Golden Legend"
+"DOTA_Tooltip_ability_attach_particle_89_Description"		"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_89_Lore"	"Wow! Golden Legend!"
+
+"DOTA_Tooltip_ability_attach_particle_90"	"Frozen Throne"
+"DOTA_Tooltip_ability_attach_particle_90_Description"		"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_90_Lore"	"Commode in the winter......"
+
+"DOTA_Tooltip_ability_attach_particle_91"	"Nova lv1"
+"DOTA_Tooltip_ability_attach_particle_91_Description"		"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_91_Lore"	"Nirvana......"
+
+"DOTA_Tooltip_ability_attach_particle_92"	"Praise the Sun LV1"
+"DOTA_Tooltip_ability_attach_particle_92_Description"		"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_92_Lore"	"Solar Knight solar brings warmth and light to the undead......"
+"DOTA_Tooltip_ability_attach_particle_93"	"Praise the Sun LV2"
+"DOTA_Tooltip_ability_attach_particle_93_Description"		"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_93_Lore"	"Solar Knight solar brings warmth and light to the undead......"
+"DOTA_Tooltip_ability_attach_particle_94"	"Praise the Sun LV3"
+"DOTA_Tooltip_ability_attach_particle_94_Description"		"<font color=\"#ADE55C\">Rarity: Arcana</font>"
+"DOTA_Tooltip_ability_attach_particle_94_Lore"	"Solar Knight solar brings warmth and light to the undead......"
+
+
+"DOTA_Tooltip_ability_attach_particle_95"	"Nova lv2"
+"DOTA_Tooltip_ability_attach_particle_95_Description"		"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_95_Lore"	"Nirvana......"
+
+"DOTA_Tooltip_ability_attach_particle_96"	"Field of Gravity"
+"DOTA_Tooltip_ability_attach_particle_96_Description"		"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_96_Lore"	"Why do I feel that sometimes it is difficult to move, and sometimes it is easy?"
+
+
+
+"DOTA_Tooltip_ability_attach_particle_98"	"GudōdamaLV1"
+"DOTA_Tooltip_ability_attach_particle_98_Description"	"<font color=\"#8bb6ff\">Rarity: Rare</font>"
+"DOTA_Tooltip_ability_attach_particle_98_Lore"	"Gudōdama are orbs of malleable black chakra, which can alter their form and characteristics in various ways. Though only the size of a fist, each hides within it the power to obliterate an entire forest."
+
+
+"DOTA_Tooltip_ability_attach_particle_99"	"Gold Hoop Ring"
+"DOTA_Tooltip_ability_attach_particle_99_Description"	"<font color=\"#777777\">Rarity: Uncommon</font>"
+"DOTA_Tooltip_ability_attach_particle_99_Lore"	"Wukong was very happy. When he took out haizang, he found that there were two gold hoops at both ends and a piece of black iron in the middle"
+
+"DOTA_Tooltip_ability_attach_particle_101"	"GudōdamaLV2"
+"DOTA_Tooltip_ability_attach_particle_101_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_101_Lore"	"Gudōdama are orbs of malleable black chakra, which can alter their form and characteristics in various ways. Though only the size of a fist, each hides within it the power to obliterate an entire forest."
+
+"DOTA_Tooltip_ability_attach_particle_102"	"GudōdamaLV3"
+"DOTA_Tooltip_ability_attach_particle_102_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_102_Lore"	"Gudōdama are orbs of malleable black chakra, which can alter their form and characteristics in various ways. Though only the size of a fist, each hides within it the power to obliterate an entire forest."
+
+"DOTA_Tooltip_ability_attach_particle_103"	"Gudōdama(NARUTO)"
+"DOTA_Tooltip_ability_attach_particle_103_Description"	"<font color=\"#ADE55C\">Rarity: Arcana</font>"
+"DOTA_Tooltip_ability_attach_particle_103_Lore"	"Gudōdama are orbs of malleable black chakra, which can alter their form and characteristics in various ways. Though only the size of a fist, each hides within it the power to obliterate an entire forest."
+
+
+
+"DOTA_Tooltip_ability_attach_particle_104"	"Necromancer Moth"
+"DOTA_Tooltip_ability_attach_particle_104_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font>"
+"DOTA_Tooltip_ability_attach_particle_104_Lore"	"Do I look like a dying man?"
+
+
+"DOTA_Tooltip_ability_attach_particle_105"	"Lava Emblem"
+"DOTA_Tooltip_ability_attach_particle_105_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font>"
+"DOTA_Tooltip_ability_attach_particle_105_Lore"	"This cosmically rare prize was awarded as a random drop while opening Immortal Treasures during The International 2022 Battle Pass season."
+
+
+
+"DOTA_Tooltip_ability_ability_particle_3"	"Power of Fog"
+"DOTA_Tooltip_ability_ability_particle_3_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font><br>Change: Advanced Chaos Form"
+"DOTA_Tooltip_ability_ability_particle_3_Lore"	"Absorbed the power of fog guard."
+"DOTA_Tooltip_ability_ability_particle_4"	"Human form"
+"DOTA_Tooltip_ability_ability_particle_4_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font><br>Change: Advanced Chaos Form"
+"DOTA_Tooltip_ability_ability_particle_4_Lore"	"Why can I be called Magic Gods without any change in appearance?"
+"DOTA_Tooltip_ability_ability_particle_5"	"True Ancestor"
+"DOTA_Tooltip_ability_ability_particle_5_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font><br>Change: Advanced Life Drain"
+"DOTA_Tooltip_ability_ability_particle_5_Lore"	"All the essence of blood will become a part of me"
+"DOTA_Tooltip_ability_ability_particle_6"	"The Void"
+"DOTA_Tooltip_ability_ability_particle_6_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font><br>Change: Advanced Midnight Pulse"
+"DOTA_Tooltip_ability_ability_particle_6_Lore"	"Part of the world will fall into void"
+"DOTA_Tooltip_ability_ability_particle_7"	"Shock wave of Godslayer"
+"DOTA_Tooltip_ability_ability_particle_7_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font><br>Change: Advanced Laguna Blade"
+"DOTA_Tooltip_ability_ability_particle_7_Lore"	"False god"
+"DOTA_Tooltip_ability_ability_particle_8"	"Void Creation"
+"DOTA_Tooltip_ability_ability_particle_8_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font><br>Change: Advanced Demon Conversion Model"
+"DOTA_Tooltip_ability_ability_particle_8_Lore"	"It seems that they come from another world"
+"DOTA_Tooltip_ability_ability_particle_9"	"Soul Sublimation"
+"DOTA_Tooltip_ability_ability_particle_9_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font><br>Change: Advanced Pulse Nova "
+"DOTA_Tooltip_ability_ability_particle_9_Lore"	"I seem to see pieces of soul"
+"DOTA_Tooltip_ability_ability_particle_10"	"Blood moon Wolf"
+"DOTA_Tooltip_ability_ability_particle_10_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal </font><br>Change: Advanced Shapeshift"
+"DOTA_Tooltip_ability_ability_particle_10_Lore"	"The killing is about to happen"
+"DOTA_Tooltip_ability_ability_particle_11"	"The World"
+"DOTA_Tooltip_ability_ability_particle_11_Description"	"<font color=\"#ADE55C\">Rarity: Arcana</font><br>Change: Advanced Chronosphere<br>Correction: this effect will cause dizziness, so the duration Chronosphere will be increased by 1 second"
+"DOTA_Tooltip_ability_ability_particle_11_Lore"	"The World!"
+
+"DOTA_Tooltip_ability_ability_particle_12"	"Hydra"
+"DOTA_Tooltip_ability_ability_particle_12_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font><br>Change: Model of Advanced Plague Ward"
+"DOTA_Tooltip_ability_ability_particle_12_Lore"	"This hydra is not the hydra in Marvel. Don't misunderstand."
+"DOTA_Tooltip_ability_ability_particle_13"	"Avatars of Aktok"
+"DOTA_Tooltip_ability_ability_particle_13_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal</font><br>Change: Model of Advanced Plague Ward"
+"DOTA_Tooltip_ability_ability_particle_13_Lore"	"Though his original intent was merely to feast on foolish zealots, the discovery of Aktok's gilded eye has granted the Venomancer enormous power that supplants all previous notions that the dormant deity's origins were naught but religious fantasy."
+"DOTA_Tooltip_ability_ability_particle_14"	"Source Earth Element"
+"DOTA_Tooltip_ability_ability_particle_14_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal</font><br>Change: Model of Advanced Summons Element· Earth Element"
+"DOTA_Tooltip_ability_ability_particle_14_Lore"	"Although it is called the Source Earth Element, you only gain its illusion, not its power."
+"DOTA_Tooltip_ability_ability_particle_15"	"Super Saiyan"
+"DOTA_Tooltip_ability_ability_particle_15_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal</font><br>Change: Advanced Unrivaled's attach effects and additional sound effects  <br>Note: no players use this skill, so it is cheaper"
+"DOTA_Tooltip_ability_ability_particle_15_Lore"	"You became a legendary soldier in extreme anger."
+"DOTA_Tooltip_ability_ability_particle_16"	"Time Space Chop · Gen Break"
+"DOTA_Tooltip_ability_ability_particle_16_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal</font><br>Change: Advanced Astral Step"
+"DOTA_Tooltip_ability_ability_particle_16_Lore"	"It is said that only the world champion can master the real Time Space Chop."
+"DOTA_Tooltip_ability_ability_particle_17"	"Stagnant Field"
+"DOTA_Tooltip_ability_ability_particle_17_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal</font><br>Change: Advanced Electrostatic Armor"
+"DOTA_Tooltip_ability_ability_particle_17_Lore"	"It seems that things in this space have been slowed down a little."
+
+
+
+
+"DOTA_Tooltip_ability_melee_attack_1"	"Blue"
+"DOTA_Tooltip_ability_melee_attack_1_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font><br>Note: special effects that only appear when you start attack."
+"DOTA_Tooltip_ability_melee_attack_1_Lore"	"I stole it from a hero."
+
+
+
+"DOTA_Tooltip_ability_melee_attack_2"	"Thunder"
+"DOTA_Tooltip_ability_melee_attack_2_Description"	"<font color=\"#6f00ff\">Rarity: Mythical</font><br>Note: special effects that only appear when you start attack."
+"DOTA_Tooltip_ability_melee_attack_2_Lore"	"Boarding by Thunder, you can make lightning."
+
+
+"DOTA_Tooltip_ability_melee_attack_3"	"Stroke of Fate"
+"DOTA_Tooltip_ability_melee_attack_3_Description"	"<font color=\"#f0ad4e\">Rarity: Immortal</font><br>Note: special effects that only appear when you start attack."
+"DOTA_Tooltip_ability_melee_attack_3_Lore"	"I stole a brush form Grimstroke."

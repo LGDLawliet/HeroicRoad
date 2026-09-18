@@ -1,0 +1,395 @@
+
+
+#goldLabel{
+    text-shadow:0px 1px 0px 2.0 #00000077;
+    transition-property:color;
+    transition-duration: .1811s;
+    transition-timing-function:ease-in-out;
+    color: white;
+    font-family: monospaceNumbersFont;
+    font-size:22px;
+    font-weight:bold;
+    text-align: right;
+    horizontal-align:right;
+    min-width: 60px;
+    vertical-align: center;
+    margin-right: 40px;
+    width: 100%;
+    letter-spacing: 1px;
+    text-overflow: shrink;
+
+}
+
+#goldIcon{
+    background-image:url("s2r://panorama/images/hud/reborn/gold_small_psd.vtex");
+    background-size:100% 100%;
+    width:26px;
+    height: 26px;
+    horizontal-align: right;
+    margin-right: 8px;
+    vertical-align: center;
+    margin-bottom: 2px;
+}
+
+
+
+
+#gameShopPanelRoot{
+    width: 700px;
+    height: 800px;
+    align: right center;
+    opacity: 0;
+    transform: translateX( 500px )  translateY( 0px ) ;
+    transition-property: opacity, transform;
+    transition-duration: 0.20s, 0.10s, 0.05s;
+    transition-timing-function: ease-in-out;
+    &.show{
+        opacity: 1;
+        transform: translateX( 0px )  translateY( 0px ) ;
+    }
+    #gameShopPanel{
+        width: 100%;
+        height: 100%;
+        background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_profile.png");
+        background-size: 150% 100%;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-img-opacity: 0.90;
+        > Label{
+            color: #ffffffff;
+            
+            font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+            font-size: 34px;
+            height: 46px;
+            width: 100%;
+            text-shadow: 2px 2px 4px 2 #00000090;
+            text-overflow: shrink;
+            align: center top;
+            margin-bottom: 11px;
+            text-align: center;
+            padding-top: 6px;
+            background-color: rgba(0, 0, 0, 0.3) ;
+            color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8) , to(#3e6461) ) ;
+            
+            z-index: 3;
+        }
+        
+        #itemListPanel{
+            width: 100%;
+            height: 100%;
+            margin-top: 35px;
+            flow-children:down-wrap;
+            overflow:squish scroll;  
+        }
+    }
+    
+}
+.HUDFlipped #gameShopPanelRoot{
+    align : left center;
+    // transform: translateX( -500px )  translateY( 0px ) ;
+}
+
+
+
+
+
+
+.specialItemListBlock,
+.singleItemListBlock{
+    width: 100%;
+    height: 300px;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.singleItemListBlock > Label{
+    color: #ffffffff;
+    
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-size: 23px;
+    height: 35px;
+    width: 150px;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: left top;
+    text-align: left;
+    /* background-color: rgba(0, 0, 0, 0.3) ; */
+    color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8) , to(#3e6461) ) ;
+
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/player_panel_active.png");
+    background-size: 120% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+    opacity-mask: url("s2r://panorama/images/masks/gradient_leftright_opaque_psd.vtex");
+    
+
+
+
+
+
+
+    wash-color:rgba(71, 46, 133, 0.502); 
+}
+.singleItemListBlockBG{
+    width: 100%;
+    height: 100%;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/play_panel_bg_2.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.singleItemListBlock_itemList{
+    width: 100%;
+    height: 100%;
+    margin-top: 35px;
+    margin-left: 5px;
+    margin-right: 5px;
+    overflow:squish scroll;  
+    flow-children: right-wrap;
+    
+}
+
+
+
+.singleShopItem{
+    width: 100px;
+    height: 100px;
+    flow-children: down-wrap;
+    ui-scale: 75%;
+    /* box-shadow: rgb(0, 0, 0)  0px 0px 2px 0px;  */
+    margin: 3px;
+    .singleItemRoot{
+        width: 100px;
+        height: width-percentage(72.7%);
+        horizontal-align: center;
+        
+        .singleItem_Class{
+            
+            width: 100%;
+            height: 100%;
+            margin-top: 1px;
+            margin-bottom: 2px;
+            margin-right: 1px;
+            margin-left: 2px;
+            border-radius: 15px;
+            /* border:2px solid rgb(131, 131, 131); */
+        }
+        .itemOverlay{
+            /* background-image:url("s2r://panorama/images/hud/shopborder_canpurchase_psd.vtex") ; */
+            background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/avatarframe.png");
+            width: 100%;
+            height: 100%;
+            background-size: 100% 100%;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+        }
+        #potion_Iamge{
+            opacity: 0;
+        }
+      
+        
+    }
+
+    &.disable{
+        saturation:0;
+    }
+    &.useImage{
+        
+        .singleItem_Class{
+            opacity: 0;
+        }
+        .itemOverlay{
+            opacity: 0;
+        }
+        #potion_Iamge{
+            opacity: 1;
+            width: 100%;
+            height: 100%;
+            border:2px solid rgb(5, 5, 5);
+            background-color: rgba(0, 0, 0, 0.6) ;
+            .potion_Background{
+                width: 150px;
+                height: 150px;
+                // background-image: url("s2r://panorama/images/custom_game/potion/hd_potion_healing_4.png");
+                background-size: 100% 100%;
+                // background-position: 50% 50%;
+                background-repeat: no-repeat;
+            }
+    
+            #potionImage{
+                align: center center;
+                width: 80px;
+                height: 150px;
+            }
+            .potion_cover{
+                width: 150px;
+                height: 150px;
+                background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/ability_bevel_overlay.png");
+                background-size: 120% 120%;
+                background-position: 50% 50%;
+                background-repeat: no-repeat;
+            }
+            > Label{
+                color: #937fa8;
+                font-size: 23px;
+                font-weight: bold;
+                margin-top: 3px;
+                text-shadow: 2px 2px 0px 1.0 #00000088;
+                font-family: monospaceNumbersFont;
+                align: right bottom;
+                opacity: 1;
+                margin-right: 5px;
+            }
+    
+        }
+    }
+}
+
+
+
+
+.itemCostRoot{
+    width: 100%;
+    height: 32px;
+    box-shadow: rgb(20, 20, 20)  0px 0px 3px 0px; 
+    flow-children:right;
+
+
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/persona_name_bg.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+    #itemLockButton{
+        width: 30px;
+        height: 30px;
+        background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/lock_button.png");
+        background-size: 100% 100%;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        horizontal-align: right;
+        opacity: 0;
+    }
+    #itemLockButton.show{
+        opacity: 1;
+    }
+    #itemLockButton:hover{
+        brightness: 1.8;
+    }
+    #itemLockButton:active{
+        brightness: 5;
+        sound: "Shop.Available";
+    }
+
+    #itemLockButton.lock{
+        background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/unlock_button.png");
+        wash-color: red;
+    }
+}
+
+
+
+.itemCostIcon{
+    width: 23px;
+    height: 23px;
+    background-image: url("s2r://panorama/images/hud/icon_gold_psd.vtex");
+    background-size: 100% 100%;
+    margin-right:5px;
+    margin-left:4px;
+}
+
+.buyCostLabel{
+    color: #FFCC33;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 3px;
+    text-shadow: 2px 2px 0px 1.0 #00000088;
+    font-family: monospaceNumbersFont;
+}
+
+.buyCostLabel.deficit{
+    color: #e03e2e;
+}
+
+
+.itemChargeLabel{
+    color: #937fa8;
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 3px;
+    text-shadow: 2px 2px 0px 1.0 #00000088;
+    font-family: monospaceNumbersFont;
+    align: right bottom;
+    opacity: 1;
+    margin-right: 5px;
+    /* box-shadow: #27272776 0px 0px 2px 2px; */
+}
+.itemChargeLabel.show{
+    opacity: 1;
+}
+
+#shop_disable{
+    width: 100%;
+    height: 100%;
+    
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/play_panel_bg.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+    box-shadow: rgba(20, 20, 20, 0.774)  0px 0px 3px 0px; 
+    &.hide{
+        opacity: 0;
+    }
+
+}
+
+
+#center_message{
+    width: 100%;
+    height: 100px;
+    align: center center;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/draft_results_bg.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+    /* border-top:1px solid rgb(48, 48, 48); */
+    border-left:4px solid rgb(20, 20, 20);
+    border-right:4px solid rgb(20,20, 20);
+    border-bottom:1px solid rgb(48, 48, 48);
+}
+
+#center_message_label{
+    color: #ffffffff;
+    font-family: titleFont;
+    font-size: 20px;
+    align:  center center;
+    text-overflow: shrink;
+    color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8) , to(#3e6461) ) ;
+     
+}
+
+
+
+#spellEva_Image{
+    width: 100%;
+    height: 100%;
+    margin-top: 1px;
+    margin-bottom: 2px;
+    margin-right: 1px;
+    margin-left: 2px;
+    border-radius: 15px;
+
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/draft_results_bg.png");
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+

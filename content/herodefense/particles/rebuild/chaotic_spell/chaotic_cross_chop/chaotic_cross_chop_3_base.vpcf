@@ -1,0 +1,122 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_flConstantRadius = 2.0
+	m_bShouldSort = false
+	m_nBehaviorVersion = 4
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 4
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 8
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_trail_dark.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_trail_g.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_trail.vpcf"
+		},
+		{
+			m_bEndCap = true
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_destruction.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_trail_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_trail_d.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_trail_f.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_trail_c.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_trail_h.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_trail_light.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_cloud.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_fire.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_dust.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_spray.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_leading.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_arrow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_model.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_arc.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_arc_b.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_cross_chop/chaotic_cross_chop_3_leading_glow.vpcf"
+			m_bDisableChild = true
+		},
+	]
+}

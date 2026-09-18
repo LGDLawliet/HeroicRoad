@@ -1,0 +1,15 @@
+.Challenge_Level1{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#0abce9), to(#0dada0));
+}
+.Challenge_Level2{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#62d316), to(#f5f77d));
+}
+.Challenge_Level3{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#d49d05), to(#f5f77d));
+}
+.Challenge_Level4{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#d49d05), to(#f7817d));
+}
+.Challenge_Level5{
+    color: gradient(linear, 0% 0%, 0% 90%, from(#ff0000), to(#f7817d));
+}

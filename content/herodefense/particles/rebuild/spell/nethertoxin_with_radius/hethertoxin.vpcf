@@ -1,0 +1,132 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 1
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_CreateWithinSphere"
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin = [ 0.0, 0.0, 512.0 ]
+			m_OffsetMax = [ 0.0, 0.0, 512.0 ]
+		},
+		{
+			_class = "C_INIT_VelocityRandom"
+			m_LocalCoordinateSystemSpeedMin = [ 0.0, 0.0, -1000.0 ]
+			m_LocalCoordinateSystemSpeedMax = [ 0.0, 0.0, -1000.0 ]
+		},
+		{
+			_class = "C_INIT_LifespanFromVelocity"
+			m_flMaxTraceLength = 2048.0
+			m_CollisionGroupName = "DEBRIS"
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+			m_nOpEndCapState = "PARTICLE_ENDCAP_ENDCAP_ON"
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_projection_dark.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_projection.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_edge.vpcf"
+			m_flDelay = 0.2
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_burst_b.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_burst.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_dark.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_splat.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_swirl.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_aura.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_ring.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_beam.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_beam_b.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_beam_c.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_splash_c.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_bubbles.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_bubbles_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_fizz.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_steam.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_cloud.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/nethertoxin_with_radius/hethertoxin_impact.vpcf"
+		},
+	]
+}

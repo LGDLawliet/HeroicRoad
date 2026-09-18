@@ -1,0 +1,2101 @@
+
+
+
+
+
+
+// 以下为状态
+
+"DOTA_Tooltip_modifier_Primary_Body_of_Effulgent_Beryl"                   "低阶光辉翠绿体"
+"DOTA_Tooltip_modifier_Primary_Body_of_Effulgent_Beryl_Description"                   "赋予物理伤害格挡"
+"DOTA_Tooltip_modifier_Middle_Body_of_Effulgent_Beryl"                   "中阶光辉翠绿体"
+"DOTA_Tooltip_modifier_Middle_Body_of_Effulgent_Beryl_Description"                   "赋予物理伤害格挡"
+"DOTA_Tooltip_modifier_Advanced_Body_of_Effulgent_Beryl"                   "高阶光辉翠绿体"
+"DOTA_Tooltip_modifier_Advanced_Body_of_Effulgent_Beryl_Description"                   "赋予物理伤害格挡"
+
+
+
+
+"DOTA_Tooltip_modifier_Shop_first_N8"                   "登峰造极"
+"DOTA_Tooltip_modifier_Shop_first_N8_Description"                   "首位单通N8的玩家，赋予全属性提升"
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Dragons_Lighting_debuff"                   "魔力穿透"
+"DOTA_Tooltip_modifier_Advanced_Dragons_Lighting_debuff_Description"                   "减少魔法抗性"
+"DOTA_Tooltip_modifier_Advanced_laguna_blade_buff"                   "魂匣"
+"DOTA_Tooltip_modifier_Advanced_laguna_blade_buff_Description"                   "赋予神灭斩伤害提升"
+
+
+
+"DOTA_Tooltip_modifier_Primary_pulse_nova"                   "低阶脉冲新星"
+"DOTA_Tooltip_modifier_Primary_pulse_nova_Description"                   "赋予每秒造成魔法伤害的能力"
+"DOTA_Tooltip_modifier_Middle_pulse_nova"                   "中阶脉冲新星"
+"DOTA_Tooltip_modifier_Middle_pulse_nova_Description"                   "赋予每秒造成魔法伤害的能力"
+"DOTA_Tooltip_modifier_Advanced_pulse_nova"                   "高阶脉冲新星"
+"DOTA_Tooltip_modifier_Advanced_pulse_nova_Description"                   "赋予每秒造成魔法伤害的能力"
+
+
+
+"DOTA_Tooltip_modifier_Primary_lightning_storm"                   "低阶闪电风暴"
+"DOTA_Tooltip_modifier_Primary_lightning_storm_Description"                   "减缓移动速度"
+"DOTA_Tooltip_modifier_Middle_lightning_storm"                   "中阶闪电风暴"
+"DOTA_Tooltip_modifier_Middle_lightning_storm_Description"                   "减缓移动速度"
+"DOTA_Tooltip_modifier_Advanced_lightning_storm"                   "高阶闪电风暴"
+"DOTA_Tooltip_modifier_Advanced_lightning_storm_Description"                   "减缓移动速度"
+"DOTA_Tooltip_modifier_Advanced_lightning_storm_buff"                   "高阶闪电风暴"
+"DOTA_Tooltip_modifier_Advanced_lightning_storm_buff_Description"                   "赋予智力增加"      
+
+"DOTA_Tooltip_modifier_Primary_frost_armor_buff"                   "低阶冰霜魔盾"
+"DOTA_Tooltip_modifier_Primary_frost_armor_buff_Description"                   "赋予物理攻击伤害减免"
+"DOTA_Tooltip_modifier_Middle_frost_armor_buff"                   "中阶冰霜魔盾"
+"DOTA_Tooltip_modifier_Middle_frost_armor_buff_Description"                   "赋予物理攻击伤害减免"
+"DOTA_Tooltip_modifier_Advanced_frost_armor_buff"                   "高阶冰霜魔盾"
+"DOTA_Tooltip_modifier_Advanced_frost_armor_buff_Description"                   "赋予物理攻击伤害减免"
+"DOTA_Tooltip_modifier_Primary_frost_armor_debuff"                   "低阶冰霜魔盾"
+"DOTA_Tooltip_modifier_Primary_frost_armor_debuff_Description"                   "减缓移动速度"
+"DOTA_Tooltip_modifier_Middle_frost_armor_debuff"                   "中阶冰霜魔盾"
+"DOTA_Tooltip_modifier_Middle_frost_armor_debuff_Description"                   "减缓移动速度"
+"DOTA_Tooltip_modifier_Advanced_frost_armor_debuff"                   "高阶冰霜魔盾"
+"DOTA_Tooltip_modifier_Advanced_frost_armor_debuff_Description"                   "减缓移动速度"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_marksmanship_ice_buff"                   "坚冰之心"
+"DOTA_Tooltip_modifier_Advanced_marksmanship_ice_buff_Description"                   "赋予攻击速度增加"
+"DOTA_Tooltip_modifier_Advanced_marksmanship_ice_debuff"                   "坚冰之心"
+"DOTA_Tooltip_modifier_Advanced_marksmanship_ice_debuff_Description"                   "移动速度减缓"
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_split_earth_debuff"                   "颤魂"
+"DOTA_Tooltip_modifier_Advanced_split_earth_debuff_Description"                   "受到魔法伤害加深"
+"DOTA_Tooltip_modifier_Middle_split_earth_debuff"                   "颤魂"
+"DOTA_Tooltip_modifier_Middle_split_earth_debuff_Description"                   "受到魔法伤害加深"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Fury_Strike_slow"                   "狂怒重击"
+"DOTA_Tooltip_modifier_creeps_spell_Fury_Strike_slow_Description"                   "减速"
+"DOTA_Tooltip_modifier_creeps_spell_Great_Fury_Strike_slow"                   "狂怒重击"
+"DOTA_Tooltip_modifier_creeps_spell_Great_Fury_Strike_slow_Description"                   "减速"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave32_p3_buff"                   "隐身"
+"DOTA_Tooltip_modifier_creeps_spell_Boggart_buff"                   "幻形"
+
+
+"DOTA_Tooltip_modifier_Primary_Arcane_Aura_effect"                   "低阶奥术光环"
+"DOTA_Tooltip_modifier_Primary_Arcane_Aura_effect_Description"                   "赋予魔法能力增强"
+"DOTA_Tooltip_modifier_Middle_Arcane_Aura_effect"                   "中阶奥术光环"
+"DOTA_Tooltip_modifier_Middle_Arcane_Aura_effect_Description"                   "赋予魔法能力增强"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_effect"                   "高阶奥术光环"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_effect_Description"                   "赋予魔法能力增强"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_effect2"                   "能量共通"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_effect2_Description"                   "赋予技能伤害"
+
+
+
+"DOTA_Tooltip_modifier_Primary_overpower"                   "低阶超强力量"
+"DOTA_Tooltip_modifier_Primary_overpower_Description"                   "赋予攻击速度提升"
+"DOTA_Tooltip_modifier_Middle_overpower"                   "中阶超强力量"
+"DOTA_Tooltip_modifier_Middle_overpower_Description"                   "赋予攻击速度提升"
+"DOTA_Tooltip_modifier_Advanced_overpower"                   "高阶超强力量"
+"DOTA_Tooltip_modifier_Advanced_overpower_Description"                   "赋予攻击速度提升"
+
+
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_debuff"                   "千钧一击"
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_debuff_Description"                   "破坏被动"
+"DOTA_Tooltip_modifier_Middle_Anchor_Smash_debuff"                   "千钧一击"
+"DOTA_Tooltip_modifier_Middle_Anchor_Smash_debuff_Description"                   "破坏被动"
+
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_armor"                   "碎甲"
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_armor_Description"                   "减少防御力"
+
+"DOTA_Tooltip_modifier_cooking"                   "正在做饭"
+"DOTA_Tooltip_modifier_cooking_Description"                   "不找个安全的地方小心饭锅爆炸噜"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_doom_bringer_2"                   "监视者"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_doom_bringer_2_Description"                   "务必遵守监视规则！"
+
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_buff"                   "野性狂暴"
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_buff_Description"                   "赋予攻击速度提升"
+
+"DOTA_Tooltip_modifier_Primary_Inner_Beast_arua_effect"                   "低阶野性之心"
+"DOTA_Tooltip_modifier_Primary_Inner_Beast_arua_effect_Description"                   "赋予攻击速度提升"
+"DOTA_Tooltip_modifier_Middle_Inner_Beast_arua_effect"                   "中阶野性之心"
+"DOTA_Tooltip_modifier_Middle_Inner_Beast_arua_effect_Description"                   "赋予攻击速度与移动速度提升"
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_arua_effect"                   "高阶野性之心"
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_arua_effect_Description"                   "赋予攻击速度移动速度与魔法抗性提升"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Acid_bomb_debuff"                   "酸液侵蚀"
+"DOTA_Tooltip_modifier_creeps_spell_Acid_bomb_debuff_Description"                   "沉默破坏被动，减速且受到持续性伤害"
+"DOTA_Tooltip_modifier_creeps_spell_Jump_debuff"                   "脑震荡"
+"DOTA_Tooltip_modifier_creeps_spell_Jump_debuff_Description"                   "移动速度减缓"
+
+"DOTA_Tooltip_modifier_creeps_spell_Jump_tower_form"                   "炮台模式"
+"DOTA_Tooltip_modifier_creeps_spell_Jump_tower_form_Description"                   "将会持续性释放酸液弹"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave31_form3_debuff"                   "物质吸引"
+"DOTA_Tooltip_modifier_creeps_spell_Wave31_form3_debuff_Description"                   "额外受到伤害且被友军牵引"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Soul_Link_effect"                   "领域"
+"DOTA_Tooltip_modifier_Advanced_Soul_Link_effect_Description"                   "赋予伤害增强与伤害减免"
+
+"DOTA_Tooltip_modifier_creeps_power"                   "狂暴"
+"DOTA_Tooltip_modifier_creeps_power_Description"                   "每5秒增加5点移动速度,到达50层后将突破移速限制且每层额外的层数提供2点攻击速度"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff2"                   "过度献祭"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff2_Description"                   "被恶魔吸取了攻击速度"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_buff2"                   "过度献祭"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_buff2_Description"                   "赋予攻击速度提升"
+
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff"                   "虚弱"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff_Description"                   "被恶魔吸取了属性"
+"DOTA_Tooltip_modifier_Middle_summon_Dave_Chisnall_debuff"                   "虚弱"
+"DOTA_Tooltip_modifier_Middle_summon_Dave_Chisnall_debuff_Description"                   "被恶魔吸取了属性"
+
+"DOTA_Tooltip_modifier_Primary_summon_Dave_Chisnall_debuff"                   "虚弱"
+"DOTA_Tooltip_modifier_Primary_summon_Dave_Chisnall_debuff_Description"                   "被恶魔吸取了属性"
+
+"DOTA_Tooltip_modifier_Respawn_weak"                   "鲜血献祭"
+"DOTA_Tooltip_modifier_Respawn_weak_Description"                   "短时间内失去了部分全属性"
+"DOTA_Tooltip_modifier_Respawn_weak_target"                   "虚弱"
+"DOTA_Tooltip_modifier_Respawn_weak_target_Description"                   "状态消失前不可再次被复活"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave31_stun"                   "两极反转·质引"
+"DOTA_Tooltip_modifier_creeps_spell_Wave31_stun_Description"                   "眩晕"
+
+
+"DOTA_Tooltip_modifier_Advanced_return_arua_effect"                   "领域反击"
+"DOTA_Tooltip_modifier_Advanced_return_arua_effect_Description"                   "赋予反击能力"
+"DOTA_Tooltip_modifier_Advanced_hoof_stomp_buff"                   "能量汇聚"
+"DOTA_Tooltip_modifier_Advanced_hoof_stomp_buff_Description"                   "赋予力量提升"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_lv20debuff"                   "圣洁"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_lv20debuff_Description"                   "被缴械沉默且破坏被动"
+"DOTA_Tooltip_modifier_Advanced_Dual_Breath_debuff"                   " 高阶冰火交加减速"
+"DOTA_Tooltip_modifier_Advanced_Dual_Breath_debuff_Description"                   "造成每秒伤害与减速效果，每过一段时间减速效果会被增强"
+"DOTA_Tooltip_modifier_Middle_Dual_Breath_debuff"                   " 中阶冰火交加减速"
+"DOTA_Tooltip_modifier_Middle_Dual_Breath_debuff_Description"                   "造成每秒伤害与减速效果"
+"DOTA_Tooltip_modifier_Primary_Dual_Breath_debuff"                   " 低阶冰火交加减速"
+"DOTA_Tooltip_modifier_Primary_Dual_Breath_debuff_Description"                   "造成每秒伤害与减速效果"
+
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_attack_reduction2"                   " 高阶邪能攻击削减叠加态"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_attack_reduction2_Description"                   "削减堆栈数的攻击力"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_passive"                   " 高阶邪能"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_passive_Description"                   "赋予冷却时间减少"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_passive2"                   "渗透"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_passive2_Description"                   "赋予冷却时间减少"
+
+"DOTA_Tooltip_modifier_Middle_Bad_Juju_attack_reduction2"                   " 中阶邪能攻击削减叠加态"
+"DOTA_Tooltip_modifier_Middle_Bad_Juju_attack_reduction2_Description"                   "削减堆栈数的攻击力"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_armor_reduction2"                   " 高阶邪能护甲削减叠加态"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_armor_reduction2_Description"                   "削减堆栈数的护甲"
+"DOTA_Tooltip_modifier_Advanced_Shadow_Wave_armor_bonus"                   "高阶暗影波护甲增益"
+"DOTA_Tooltip_modifier_Advanced_Shadow_Wave_armor_bonus_Description"                   "每层堆栈增加数点护甲"
+
+"DOTA_Tooltip_modifier_Advanced_Shadow_Wave_armor_debuff"                   "黯淡波"
+"DOTA_Tooltip_modifier_Advanced_Shadow_Wave_armor_debuff_Description"                   "削减护甲"
+
+
+"DOTA_Tooltip_modifier_Advanced_Demonic_Conversion_debuff"                   "属性被汲取-来自[恶魔转换]"
+"DOTA_Tooltip_modifier_Advanced_Demonic_Conversion_debuff_Description"                   "你的三围属性丢失了一部分"
+"DOTA_Tooltip_modifier_Middle_Demonic_Conversion_debuff"                   "属性被汲取-来自[恶魔转换]"
+"DOTA_Tooltip_modifier_Middle_Demonic_Conversion_debuff_Description"                   "你的三围属性丢失了一部分"
+"DOTA_Tooltip_modifier_Primary_Demonic_Conversion_debuff"                   "属性被汲取-来自[恶魔转换]"
+"DOTA_Tooltip_modifier_Primary_Demonic_Conversion_debuff_Description"                   "你的三围属性丢失了一部分"
+"DOTA_Tooltip_modifier_Advanced_Demonic_Conversion_buff"                   "太初之力"
+"DOTA_Tooltip_modifier_Advanced_Demonic_Conversion_buff_Description"                   "每隔一段时间获得属性加强"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_buff"                   "销魂夺魄魔抗增益"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_buff_Description"                   "赋予魔法抗性增强"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_debuff"                   "销魂夺魄魔抗减益"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_debuff_Description"                   "削减魔法抗性"
+
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_buff2"                   "分魂"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_buff2_Description"                   "赋予技能伤害"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_debuff2"                   "分魂"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_debuff2_Description"                   "削减技能伤害"
+
+"DOTA_Tooltip_modifier_Advanced_Decrepify_ally_bonus"                   "灵魂置换魔抗增益"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_ally_bonus_Description"                   "汲取了被释放【衰老】的单位的魔法抗性"
+
+
+"DOTA_Tooltip_modifier_Advanced_Arc_Lightning"                   "高阶弧形闪电"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Decrepify_ally"                   "高阶衰老"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_ally_Description"                   "缴械但免疫物理伤害"
+"DOTA_Tooltip_modifier_Middle_Decrepify_ally"                   "中阶衰老"
+"DOTA_Tooltip_modifier_Middle_Decrepify_ally_Description"                   "缴械但免疫物理伤害"
+
+"DOTA_Tooltip_modifier_Primary_Decrepify_ally"                   "低阶衰老"
+"DOTA_Tooltip_modifier_Primary_Decrepify_ally_Description"                   "缴械但免疫物理伤害"
+
+"DOTA_Tooltip_modifier_Advanced_Decrepify_enemy"                   "高阶衰老"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_enemy_Description"                   "免疫物理伤害但受到魔法伤害增加且缴械"
+"DOTA_Tooltip_modifier_Middle_Decrepify_enemy"                   "中阶衰老"
+"DOTA_Tooltip_modifier_Middle_Decrepify_enemy_Description"                   "免疫物理伤害但受到魔法伤害增加且缴械"
+
+"DOTA_Tooltip_modifier_Primary_Decrepify_enemy"                   "低阶衰老"
+"DOTA_Tooltip_modifier_Primary_Decrepify_enemy_Description"                   "免疫物理伤害但受到魔法伤害增加且缴械"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_enemy_stack"                   "极速衰老"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_enemy_stack_Description"                   "受到魔法伤害增加"
+"DOTA_Tooltip_modifier_Middle_Decrepify_enemy_stack"                   "极速衰老"
+"DOTA_Tooltip_modifier_Middle_Decrepify_enemy_stack_Description"                   "受到魔法伤害增加"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_WeLiveTogether_Melee_effect_count"                   "哥布林群居性（近）"
+"DOTA_Tooltip_modifier_creeps_spell_WeLiveTogether_Melee_effect_count_Description"                   "提升一定防御力"
+"DOTA_Tooltip_modifier_creeps_spell_WeLiveTogether_Ranger_effect_count"                   "哥布林群居性（远）"
+"DOTA_Tooltip_modifier_creeps_spell_WeLiveTogether_Ranger_effect_count_Description"                   "提升一定攻击力"
+"DOTA_Tooltip_modifier_creeps_spell_callous_effect"                          "寒冰护盾"
+"DOTA_Tooltip_modifier_creeps_spell_callous_effect_Description"                   "减免受到的伤害%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_Tooltip_modifier_creeps_spell_callous_debuff"                                       "寒气"
+"DOTA_Tooltip_modifier_creeps_spell_callous_debuff_Description"                   "太过靠近寒冰护盾，移动速度减缓%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%，攻击速度减缓%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%"
+"DOTA_Tooltip_modifier_creeps_spell_callous_effectt"                          "寒冰护盾"
+"DOTA_Tooltip_modifier_creeps_spell_callous_effect_Description"                   "减免受到的伤害，且减速靠近的敌人"
+"DOTA_Tooltip_modifier_creeps_spell_Excitation_effect"                          "激励"
+"DOTA_Tooltip_modifier_creeps_spell_Excitation_effect_Description"                   "增加攻速与移速"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Prey_debuff"                                       "被扑食"
+"DOTA_Tooltip_modifier_creeps_spell_Prey_debuff_Description"                   "移动速度减缓%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%，攻击速度减缓%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%"
+
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_damage_count"                                       "静电护甲"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_damage_count_Description"                   "增加魔法抗性%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%，记录累计伤害"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_triger"                                       "电场蓄能中"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_triger_Description"                   "状态结束后发动电场"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_spell"                                       "电场施法中"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_spell_Description"                   "施法完成后获得护盾"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_shield"                                       "电场护盾"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_shield_Description"                   "抵消所有受到的伤害值，剩余护盾值%dMODIFIER_PROPERTY_TOTAL_CONSTANT_BLOCK%"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_stun"                                       "眩晕"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_stun_Description"                   "被静电连接反噬了"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Connection_effect"                                       "静电连接·被锁定"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Connection_effect_Description"                   "第一个靠近你的友军会被连接"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_damage_count"                                       "不稳定电流场"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstabler_damage_count_Description"                   "增加魔法抗性，记录累计伤害"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_triger"                                       "电场蓄能中"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_triger_Description"                   "状态结束后发动电场"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_spell"                                       "电场施法中"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_spell_Description"                   "不稳定态"
+
+"DOTA_Tooltip_modifier_creeps_spell_long_Range_effect_count"                                       "远射"
+"DOTA_Tooltip_modifier_creeps_spell_long_Range_effect_count_Description"                   "提高攻击距离%dMODIFIER_PROPERTY_TOOLTIP%"
+"DOTA_Tooltip_modifier_creeps_spell_Shield_Wall_effect_count"                                       "盾墙"
+"DOTA_Tooltip_modifier_creeps_spell_Shield_Wall_effect_count_Description"                   "减免受到伤害%dMODIFIER_PROPERTY_TOOLTIP%%%"
+"DOTA_Tooltip_modifier_creeps_spell_Great_Shield_Wall_effect_count"                                       "高级盾墙"
+"DOTA_Tooltip_modifier_creeps_spell_Great_Shield_Wall_effect_count_Description"                   "减免受到伤害%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_Tooltip_modifier_creeps_spell_Miser"                                       "财富累计值"
+"DOTA_Tooltip_modifier_creeps_spell_Miser_Description"                   "攻击附带%dMODIFIER_PROPERTY_TOOLTIP%点伤害"
+"DOTA_Tooltip_modifier_creeps_spell_Overwhelm"                                       "人多势众"
+"DOTA_Tooltip_modifier_creeps_spell_Overwhelm_Description"                   "攻击附带%dMODIFIER_PROPERTY_TOOLTIP%点伤害"
+"DOTA_Tooltip_modifier_creeps_spell_Spur_On_effect"                                       "鞭策"
+"DOTA_Tooltip_modifier_creeps_spell_Spur_On_effect_Description"                   "增加%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%点攻击速度"
+
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Wake_damage_count"                                       "静电护甲"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Wake_damage_count_Description"                   "增加魔法抗性%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Wake_spell"                                       "电场施法中"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Thunderstrike_ready"                                       "天雷"
+"DOTA_Tooltip_modifier_creeps_spell_Thunderstrike_ready_Description"                   "准备已就绪，锁定目标中"
+
+"DOTA_Tooltip_modifier_creeps_spell_Thunderstrike_Wake_ready"                                       "天雷"
+"DOTA_Tooltip_modifier_creeps_spell_Thunderstrike_Wake_ready_Description"                   "准备已就绪，锁定目标中"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Tether_effect"                                       "羁绊"
+"DOTA_Tooltip_modifier_creeps_spell_Tether_effect_Description"                   "将生命力传输给艾欧，每秒获得金钱"
+"DOTA_Tooltip_modifier_creeps_spell_Swift"                                       "极速"
+"DOTA_Tooltip_modifier_creeps_spell_Swift_Description"                   "晚上增加%dMODIFIER_PROPERTY_TOOLTIP2%点攻击速度，白天减少%dMODIFIER_PROPERTY_TOOLTIP%点攻击速度（无叠加则为白天状态）"
+
+"DOTA_Tooltip_modifier_creeps_spell_Strike"                                       "强击"
+"DOTA_Tooltip_modifier_creeps_spell_Strike_Description"                   "晚上增加%dMODIFIER_PROPERTY_TOOLTIP2%%%攻击力，白天减少%dMODIFIER_PROPERTY_TOOLTIP%%%攻击力（无叠加则为白天状态）"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Competing_For_Nutrients1"                                       "争夺养分"
+"DOTA_Tooltip_modifier_creeps_spell_Competing_For_Nutrients1_Description"                   "增加%dMODIFIER_PROPERTY_TOOLTIP%%%的攻击力，生命力"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Competing_For_Nutrients2"                                       "争夺养分"
+"DOTA_Tooltip_modifier_creeps_spell_Competing_For_Nutrients2_Description"                   "增加%dMODIFIER_PROPERTY_TOOLTIP%%%的攻击力，生命力"
+
+"DOTA_Tooltip_modifier_creeps_spell_Commander_effect"                                       "统领光环"
+"DOTA_Tooltip_modifier_creeps_spell_Commander_effect_Description"                   "增强攻击力，攻击速度，移动速度，防御力与生命恢复"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Howl_buff"                                       "嚎叫"
+"DOTA_Tooltip_modifier_creeps_spell_Howl_buff_Description"                   "增加%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%的攻击力"
+"DOTA_Tooltip_modifier_creeps_spell_Howl_debuff"                                       "嚎叫"
+"DOTA_Tooltip_modifier_creeps_spell_Howl_debuff_Description"                   "减少%dMODIFIER_PROPERTY_TOOLTIP%点护甲"
+
+"DOTA_Tooltip_modifier_creeps_spell_Biting_debuff"                                       "撕咬"
+"DOTA_Tooltip_modifier_creeps_spell_Biting_debuff_Description"                   "减少速度且受到持续伤害"
+
+"DOTA_Tooltip_modifier_creeps_spell_Grow_Up_night"                                       "月之精华"
+"DOTA_Tooltip_modifier_creeps_spell_Grow_Up_night_Description"                   "增加%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%攻击力"
+"DOTA_Tooltip_modifier_creeps_spell_Grow_Up"                                       "成长"
+"DOTA_Tooltip_modifier_creeps_spell_Grow_Up_Description"                   "到达35/70/105层后长大"
+"DOTA_Tooltip_modifier_creeps_spell_Shackles"                                       "枷锁"
+"DOTA_Tooltip_modifier_creeps_spell_Shackles_Description"                   "被捆绑"
+
+"DOTA_Tooltip_modifier_creeps_spell_Counter_time"                                       "剩余时间"
+"DOTA_Tooltip_modifier_creeps_spell_Counter_time_Description"                   "状态销毁后斧王会离开"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff1"                                       "魅惑·法尔纳"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff1_Description"                   "来自法尔纳的魅惑，降低了你40%%魔法抗性，直到击败她"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff2"                                       "魅惑·法尔纳"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff2_Description"                   "来自法尔纳的魅惑，减速50%%，施法前摇提升200%%，直到击败她"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff3"                                       "魅惑·法尔纳"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff3_Description"                   "来自法尔纳的魅惑，降低了你的魔法抗性，直到击败她"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave5_debuff1"                                       "弱点暴露"
+"DOTA_Tooltip_modifier_creeps_spell_Wave5_debuff1_Description"                   "在巴尔诺克的静电场下，你暴露了弱点，受到的伤害增加了50%%"
+"DOTA_Tooltip_modifier_creeps_spell_Inviolability_slow_stack"                                       "不可侵犯"
+"DOTA_Tooltip_modifier_creeps_spell_Inviolability_slow_stack_Description"                   "每层都会增加2%%不可侵犯的攻击减速效果"
+
+"DOTA_Tooltip_modifier_creeps_spell_Inviolability_spell_slow"                                       "魔力抗拒"
+"DOTA_Tooltip_modifier_creeps_spell_Inviolability_spell_slow_Description"                   "每层增加75%%的施法前摇时间"
+"DOTA_Tooltip_modifier_creeps_spell_Waveform_Upgrade"                                       "生生不息"
+"DOTA_Tooltip_modifier_creeps_spell_Waveform_Upgrade_Description"                   "增加%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%攻击力，%dMODIFIER_PROPERTY_TOOLTIP%%%最大生命值，%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%点攻击速度"
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Light_And_Dark_passive"                                       "光与暗"
+"DOTA_Tooltip_modifier_creeps_spell_Light_And_Dark_passive_Description"                   "汇聚着两股力量的神之子，当叠加层数到达15后会开启暗影态。"
+"DOTA_Tooltip_modifier_creeps_spell_Light"                                       "慧光态"
+"DOTA_Tooltip_modifier_creeps_spell_Light_Description"                   "阳光所带来的的光之力提升了攻击速度，并且可以损毁敌人的法力值转化为自身的魔力"
+"DOTA_Tooltip_modifier_creeps_spell_Dark_sheild"                                       "魔力"
+"DOTA_Tooltip_modifier_creeps_spell_Dark_sheild_Description"                   "由慧光态所带来的魔力，进入暗影态后将转化为护盾"
+"DOTA_Tooltip_modifier_creeps_spell_Dark"                                       "暗影态"
+"DOTA_Tooltip_modifier_creeps_spell_Dark_Description"                   "深渊所带来的暗之力提高攻击力，且可以抵消一切攻击至魔力归零，从而返回慧光态"
+
+"DOTA_Tooltip_modifier_creeps_spell_Static_Link_debuff"                                       "静电链接"
+"DOTA_Tooltip_modifier_creeps_spell_Static_Link_debuff_Description"                   "攻击力减少%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%，三围减少%dMODIFIER_PROPERTY_STATS_AGILITY_BONUS%"
+
+"DOTA_Tooltip_modifier_creeps_spell_Static_Link_buff"                                       "静电链接"
+"DOTA_Tooltip_modifier_creeps_spell_Static_Link_buff_Description"                   "攻击力增加%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%"
+"DOTA_Tooltip_modifier_creeps_spell_Frozen_Soil_effect"                                       "寒冷"
+"DOTA_Tooltip_modifier_creeps_spell_Frozen_Soil_effect_Description"                   "受到伤害增加%dMODIFIER_PROPERTY_TOOLTIP%%%，且每秒有几率被冻结"
+"DOTA_Tooltip_modifier_modifier_creeps_spell_Frozen_Soil_effect_forzen"                                       "冻结"
+"DOTA_Tooltip_modifier_modifier_creeps_spell_Frozen_Soil_effect_forzen_Description"                   "无法移动，无法攻击"
+
+"DOTA_Tooltip_modifier_modifier_creeps_spell_Frozen_Soil_effect_forzen"                                       "冻结"
+"DOTA_Tooltip_modifier_modifier_creeps_spell_Frozen_Soil_effect_forzen_Description"                   "无法移动，无法攻击"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Blood_Lust"                   "高阶嗜血术"
+"DOTA_Tooltip_modifier_Advanced_Blood_Lust_Description"                   "赋予战斗能力大幅度提升"
+"DOTA_Tooltip_modifier_Middle_Blood_Lust"                   "中阶嗜血术"
+"DOTA_Tooltip_modifier_Middle_Blood_Lust_Description"                   "赋予战斗能力提升"
+"DOTA_Tooltip_modifier_Primary_Blood_Lust"                   "低阶嗜血术"
+"DOTA_Tooltip_modifier_Primary_Blood_Lust_Description"                   "赋予战斗能力小幅度提升"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Blur_activate"                   "高阶魅影无形-无敌"
+"DOTA_Tooltip_modifier_Advanced_Blur_activate_Description"                   "你目前是无敌的"
+"DOTA_Tooltip_modifier_Advanced_Blur_detected"                   "高阶魅影无形"
+"DOTA_Tooltip_modifier_Advanced_Blur_detected_Description"                   "巧妙的身法可以躲避敌人的攻击"
+
+"DOTA_Tooltip_modifier_Advanced_Blur_Invisibility"                   "潜影"
+"DOTA_Tooltip_modifier_Advanced_Blur_Invisibility_Description"                   "赋予隐身能力"
+
+"DOTA_Tooltip_modifier_Middle_Blur_activate"                   "中阶魅影无形-无敌"
+"DOTA_Tooltip_modifier_Middle_Blur_activate_Description"                   "你目前是无敌的"
+"DOTA_Tooltip_modifier_Primary_Blur_activate"                   "低阶魅影无形-无敌"
+"DOTA_Tooltip_modifier_Primary_Blur_activate_Description"                   "你目前是无敌的"
+"DOTA_Tooltip_modifier_Middle_Blur_detected"                   "中阶魅影无形"
+"DOTA_Tooltip_modifier_Middle_Blur_detected_Description"                   "巧妙的身法可以躲避敌人的攻击"
+"DOTA_Tooltip_modifier_Advanced_Bulwark"                   "高阶护身甲盾"
+"DOTA_Tooltip_modifier_Advanced_Bulwark_Description"                   "抵挡来自正面与侧面的部分伤害"
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_debuff"                   "高阶上界重锤灼烧"
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_debuff_Description"                   "每隔一段时间受到伤害"
+"DOTA_Tooltip_modifier_Middle_Celestial_Hammer_debuff"                   "中阶上界重锤灼烧"
+"DOTA_Tooltip_modifier_Middle_Celestial_Hammer_debuff_Description"                   "每隔一段时间受到伤害"
+"DOTA_Tooltip_modifier_Primary_Celestial_Hammer_debuff"                   "低阶上界重锤灼烧"
+"DOTA_Tooltip_modifier_Primary_Celestial_Hammer_debuff_Description"                   "每隔一段时间受到伤害"
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_nohammer_buff"                   "武神"
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_nohammer_buff_Description"                   "赋予攻击速度提升"
+
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_attack"                   "高阶寒冰之触"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_attack_Description"                   "赋予攻击能力强化"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_attack"                   "中阶寒冰之触"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_attack_Description"                   "赋予攻击能力强化"
+"DOTA_Tooltip_modifier_Primary_Chilling_Touch_attack"                   "低阶寒冰之触"
+"DOTA_Tooltip_modifier_Primary_Chilling_Touch_attack_Description"                   "赋予攻击能力强化"
+
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_debuff"                   "绝对零度"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_debuff_Description"                   "禁疗且被动被破坏"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_debuff"                   "绝对零度"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_debuff_Description"                   "禁疗且被动被破坏"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_kill"                   "易碎"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_kill_Description"                   "陷入极寒"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_buff"                   "温度吸收"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_buff_Description"                   "赋予攻击速度提升"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_slow"                   "高阶寒冰之触减速"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_slow_Description"                   "速度减缓"
+"DOTA_Tooltip_modifier_Primary_Chilling_Touch_slow"                   "低阶寒冰之触减速"
+"DOTA_Tooltip_modifier_Primary_Chilling_Touch_slow_Description"                   "速度减缓"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_slow"                   "中阶寒冰之触减速"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_slow_Description"                   "速度减缓"
+
+"DOTA_Tooltip_modifier_Advanced_Chronosphere_debuff"                   "高阶时间结界"
+"DOTA_Tooltip_modifier_Advanced_Chronosphere_debuff_Description"                   "你位于时间泡沫之中"
+"DOTA_Tooltip_modifier_Middle_Chronosphere_debuff"                   "中阶时间结界"
+"DOTA_Tooltip_modifier_Middle_Chronosphere_debuff_Description"                   "你位于时间泡沫之中"
+"DOTA_Tooltip_modifier_Primary_Chronosphere_debuff"                   "低阶时间结界"
+"DOTA_Tooltip_modifier_Primary_Chronosphere_debuff_Description"                   "你位于时间泡沫之中"
+
+"DOTA_Tooltip_modifier_Advanced_Coup_De_Grace_secondstrike"                   "恩赐补刀"
+"DOTA_Tooltip_modifier_Advanced_Coup_De_Grace_secondstrike_Description"                   "接下来的攻击你可能造成更高的暴击伤害"
+
+"DOTA_Tooltip_modifier_Middle_Coup_De_Grace_secondstrike"                   "恩赐补刀"
+"DOTA_Tooltip_modifier_Middle_Coup_De_Grace_secondstrike_Description"                   "接下来的攻击你可能造成更高的暴击伤害"
+
+"DOTA_Tooltip_modifier_Advanced_Fire_Blast_stun"                   "眩晕"
+"DOTA_Tooltip_modifier_Advanced_Fire_Blast_debuff"                   "高阶火焰爆轰灼烧"
+"DOTA_Tooltip_modifier_Advanced_Fire_Blast_debuff_Description"                   "每秒受到伤害"
+
+"DOTA_Tooltip_modifier_Advanced_Focus_Fire_debuff"                   "全方位创伤"
+"DOTA_Tooltip_modifier_Advanced_Focus_Fire_debuff_Description"                   "护甲、魔法抗性、移动速度均被创伤"
+"DOTA_Tooltip_modifier_Advanced_Focus_Fire"                   "高阶集中火力"
+"DOTA_Tooltip_modifier_Advanced_Focus_Fire_Description"                   "赋予大幅攻击速度获增强"
+"DOTA_Tooltip_modifier_Middle_Focus_effect"                   "中阶集中火力"
+"DOTA_Tooltip_modifier_Middle_Focus_effect_Description"                   "赋予大幅攻击速度获增强"
+"DOTA_Tooltip_modifier_Middle_Focus_Fire"                   "中阶集中火力"
+"DOTA_Tooltip_modifier_Middle_Focus_Fire_Description"                   "赋予大幅攻击速度获增强"
+"DOTA_Tooltip_modifier_Primary_Focus_effect"                   "低阶集中火力"
+"DOTA_Tooltip_modifier_Primary_Focus_effect_Description"                   "赋予大幅攻击速度获增强"
+"DOTA_Tooltip_modifier_Primary_Focus_Fire"                   "低阶集中火力"
+"DOTA_Tooltip_modifier_Primary_Focus_Fire_Description"                   "赋予大幅攻击速度获增强"
+
+
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_debuff"                   "高阶冰封路径"
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_debuff_Description"                   "眩晕且受到魔法伤害提升"
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_debuff2"                   "寒风刺骨"
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_debuff2_Description"                   "速度减缓,无法进入魔法免疫"
+"DOTA_Tooltip_modifier_Middle_Ice_Path_debuff"                   "中阶冰封路径"
+"DOTA_Tooltip_modifier_Middle_Ice_Path_debuff_Description"                   "眩晕且受到魔法伤害提升"
+"DOTA_Tooltip_modifier_Primary_Ice_Path_debuff"                   "低阶冰封路径"
+"DOTA_Tooltip_modifier_Primary_Ice_Path_debuff_Description"                   "眩晕"
+
+
+"DOTA_Tooltip_modifier_Advanced_Ice_Vortex_debuff"                   "高阶寒冰漩涡"
+"DOTA_Tooltip_modifier_Advanced_Ice_Vortex_debuff_Description"                   "攻击速度减缓且受到伤害提升"
+"DOTA_Tooltip_modifier_Advanced_Ice_Vortex_buff"                   "冷却"
+"DOTA_Tooltip_modifier_Advanced_Ice_Vortex_buff_Description"                   "赋予技能冷却加快"
+
+"DOTA_Tooltip_modifier_Middle_Ice_Vortex_debuff"                   "中阶寒冰漩涡"
+"DOTA_Tooltip_modifier_Middle_Ice_Vortex_debuff_Description"                   "攻击速度减缓且受到伤害提升"
+"DOTA_Tooltip_modifier_Primary_Ice_Vortex_debuff"                   "低阶寒冰漩涡"
+"DOTA_Tooltip_modifier_Primary_Ice_Vortex_debuff_Description"                   "攻击速度减缓且受到伤害提升"
+
+"DOTA_Tooltip_modifier_Advanced_Liquid_Fire_sub"                   "次级高阶液态火"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Fire_sub_Description"                   "攻击速度减缓"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Fire"                   "高阶液态火"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Fire_Description"                   "速度减缓且会流动到附近友军"
+
+"DOTA_Tooltip_modifier_Middle_Liquid_Fire_sub"                   "次级中阶液态火"
+"DOTA_Tooltip_modifier_Middle_Liquid_Fire_sub_Description"                   "攻击速度减缓"
+"DOTA_Tooltip_modifier_Middle_Liquid_Fire"                   "中阶液态火"
+"DOTA_Tooltip_modifier_Middle_Liquid_Fire_Description"                   "速度减缓且会流动到附近友军"
+"DOTA_Tooltip_modifier_Primary_Liquid_Fire"                   "低阶液态火"
+"DOTA_Tooltip_modifier_Primary_Liquid_Fire_Description"                   "速度减缓且会流动到附近友军"
+
+"DOTA_Tooltip_modifier_Advanced_Liquid_Frost_sub"                   "次级高阶液态冰"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Frost_sub_Description"                   "移动速度减缓且受到伤害增加"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Frost"                   "高阶液态冰"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Frost_Description"                   "移动速度减缓且受到伤害增加会流动到附近友军"
+"DOTA_Tooltip_modifier_Middle_Liquid_Frost_subf"                   "次级中阶液态冰"
+"DOTA_Tooltip_modifier_Middle_Liquid_Frost_sub_Description"                   "移动速度减缓且受到伤害增加"
+"DOTA_Tooltip_modifier_Middle_Liquid_Frost"                   "中阶液态冰"
+"DOTA_Tooltip_modifier_Middle_Liquid_Frost_Description"                   "移动速度减缓且受到伤害增加会流动到附近友军"
+
+"DOTA_Tooltip_modifier_Primary_Liquid_Frost"                   "低阶液态冰"
+"DOTA_Tooltip_modifier_Primary_Liquid_Frost_Description"                   "移动速度减缓且受到伤害增加"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Malefice"                   "高阶憎恶"
+"DOTA_Tooltip_modifier_Advanced_Malefice_Description"                   "被重力拉扯"
+"DOTA_Tooltip_modifier_Middle_Malefice"                   "中阶憎恶"
+"DOTA_Tooltip_modifier_Middle_Malefice_Description"                   "被重力拉扯"
+"DOTA_Tooltip_modifier_Primary_Malefice"                   "低阶憎恶"
+"DOTA_Tooltip_modifier_Primary_Malefice_Description"                   "被重力拉扯"
+"DOTA_Tooltip_modifier_Advanced_Nature_Attendants_hp"                   "高阶自然之助"
+"DOTA_Tooltip_modifier_Advanced_Nature_Attendants_hp_Description"                   "赋予范围生命恢复"
+"DOTA_Tooltip_modifier_Middle_Nature_Attendants_hp"                   "中阶自然之助"
+"DOTA_Tooltip_modifier_Middle_Nature_Attendants_hp_Description"                   "赋予范围生命恢复"
+"DOTA_Tooltip_modifier_Primary_Nature_Attendants_hp"                   "低阶自然之助"
+"DOTA_Tooltip_modifier_Primary_Nature_Attendants_hp_Description"                   "赋予范围生命恢复"
+"DOTA_Tooltip_modifier_Advanced_Nether_Ward_debuff"                   "高阶幽冥守卫"
+"DOTA_Tooltip_modifier_Advanced_Nether_Ward_debuff_Description"                   "法力正在流失"
+"DOTA_Tooltip_modifier_Middle_Nether_Ward_debuff"                   "中阶幽冥守卫"
+"DOTA_Tooltip_modifier_Middle_Nether_Ward_debuff_Description"                   "法力正在流失"
+"DOTA_Tooltip_modifier_Primary_Nether_Ward_debuff"                   "低阶幽冥守卫"
+"DOTA_Tooltip_modifier_Primary_Nether_Ward_debuff_Description"                   "法力正在流失"
+"DOTA_Tooltip_modifier_Advanced_Nether_Ward_silenced"                   "幽冥静默"
+"DOTA_Tooltip_modifier_Advanced_Nether_Ward_silenced_Description"                   "咏唱能力被剥夺"
+"DOTA_Tooltip_modifier_Advanced_Phantom_Strike"                   "高阶幻影突袭"
+"DOTA_Tooltip_modifier_Advanced_Phantom_Strike_Description"                   "攻击速度获得提升"
+
+"DOTA_Tooltip_modifier_Primary_Phantom_Strike"                   "低阶幻影突袭"
+"DOTA_Tooltip_modifier_Primary_Phantom_Strike_Description"                   "攻击速度获得提升"
+
+"DOTA_Tooltip_modifier_Middle_Phantom_Strike"                   "中阶幻影突袭"
+"DOTA_Tooltip_modifier_Middle_Phantom_Strike_Description"                   "攻击速度获得提升"
+
+
+
+"DOTA_Tooltip_modifier_Middle_Solar_Guardian"                   "中阶天光现世"
+"DOTA_Tooltip_modifier_Middle_Solar_Guardian_Description"                   "正在释放技能"
+"DOTA_Tooltip_modifier_Middle_Solar_Guardian_buff"                   "圣光福佑"
+"DOTA_Tooltip_modifier_Middle_Solar_Guardian_buff_Description"                   "赋予所有伤害增强"
+
+"DOTA_Tooltip_modifier_Primary_Solar_Guardian"                   "低阶天光现世"
+"DOTA_Tooltip_modifier_Primary_Solar_Guardian_Description"                   "正在释放技能"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Spear_War_God"                   "狂战"
+"DOTA_Tooltip_modifier_Advanced_Spear_War_God_Description"                   "生命值低于50%%时获得吸血能力"
+
+"DOTA_Tooltip_modifier_Advanced_Static_Field"                   "高阶静电场"
+"DOTA_Tooltip_modifier_Advanced_Static_Field_Description"                   "赋予施法能力强化"
+"DOTA_Tooltip_modifier_Middle_Static_Field"                   "中阶静电场"
+"DOTA_Tooltip_modifier_Middle_Static_Field_Description"                   "赋予施法能力强化"
+"DOTA_Tooltip_modifier_Primary_Static_Field"                   "低阶静电场"
+"DOTA_Tooltip_modifier_Primary_Static_Field_Description"                   "赋予施法能力强化"
+"DOTA_Tooltip_modifier_Advanced_Stifling_Dagger_slow"                   "高阶窒息短匕"
+"DOTA_Tooltip_modifier_Advanced_Stifling_Dagger_slow_Description"                   "速度减缓"
+"DOTA_Tooltip_modifier_Middle_Stifling_Dagger_slow"                   "中阶窒息短匕"
+"DOTA_Tooltip_modifier_Middle_Stifling_Dagger_slow_Description"                   "速度减缓"
+"DOTA_Tooltip_modifier_Primary_Stifling_Dagger_slow"                   "低阶窒息短匕"
+"DOTA_Tooltip_modifier_Primary_Stifling_Dagger_slow_Description"                   "速度减缓"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_Power"                   "重利用"
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_Power_Description"                   "赋予攻击能力强化"
+"DOTA_Tooltip_modifier_Middle_Thundergods_Wrath_Power"                   "重利用"
+"DOTA_Tooltip_modifier_Middle_Thundergods_Wrath_Power_Description"                   "赋予攻击能力强化"
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_Liquid_Cloud"                   "流云"
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_Liquid_Cloud_Description"                   "赋予被动能力强化"
+"DOTA_Tooltip_modifier_Advanced_Time_Dilation_slow"                   "高阶时间窃取"
+"DOTA_Tooltip_modifier_Advanced_Time_Dilation_slow_Description"                   "速度减缓"
+"DOTA_Tooltip_modifier_Advanced_Time_Dilation_buff"                   "高阶时间窃取"
+"DOTA_Tooltip_modifier_Advanced_Time_Dilation_buff_Description"                   "赋予速度提升"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_slow"                   "高阶时间漫游"
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_slow_Description"                   "速度减缓"
+"DOTA_Tooltip_modifier_Middle_Void_time_walk_slow"                   "中阶时间漫游"
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_slow_Description"                   "速度减缓"
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_buff"                   "高阶时间漫游"
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_buff_Description"                   "赋予速度提升"
+"DOTA_Tooltip_modifier_Middle_Void_time_walk_buff"                   "中阶时间漫游"
+"DOTA_Tooltip_modifier_Middle_Void_time_walk_buff_Description"                   "赋予速度提升"
+"DOTA_Tooltip_modifier_Advanced_Windrun_buff"                   "高阶风行"
+"DOTA_Tooltip_modifier_Advanced_Windrun_buff_Description"                   "赋予大幅移速提升与闪避能力以及移动攻击能力"
+"DOTA_Tooltip_modifier_Middle_Windrun_buff"                   "中阶风行"
+"DOTA_Tooltip_modifier_Middle_Windrun_buff_Description"                   "赋予大幅移速提升与闪避能力以及移动攻击能力"
+"DOTA_Tooltip_modifier_Primary_Windrun_buff"                   "低阶风行"
+"DOTA_Tooltip_modifier_Primary_Windrun_buff_Description"                   "赋予大幅移速提升与闪避能力以及移动攻击能力"
+
+"DOTA_Tooltip_modifier_Advanced_Untouchable_slow_stack"                   "高阶不可侵犯"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_slow_stack_Description"                   "赋予大幅攻击速度减缓"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_spell_slow"                   "魔力抗拒"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_spell_slow_Description"                   "赋予30%%施法速度减缓"
+
+"DOTA_Tooltip_modifier_Middle_Untouchable_slow_stack"                   "中阶不可侵犯"
+"DOTA_Tooltip_modifier_Middle_Untouchable_slow_stack_Description"                   "赋予大幅攻击速度减缓"
+"DOTA_Tooltip_modifier_Middle_Untouchable_spell_slow"                   "魔力抗拒"
+"DOTA_Tooltip_modifier_Middle_Untouchable_spell_slow_Description"                   "赋予30%%施法速度减缓"
+"DOTA_Tooltip_modifier_Primary_Untouchable_slow_stack"                   "低阶不可侵犯"
+"DOTA_Tooltip_modifier_Primary_Untouchable_slow_stack_Description"                   "赋予大幅攻击速度减缓"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Evil_debuff"                   "诅咒"
+"DOTA_Tooltip_modifier_creeps_spell_Evil_debuff_Description"                   "移动速度减缓且受到伤害增加"
+"DOTA_Tooltip_modifier_creeps_spell_Hypertoxic_debuff"                   "毒素残留"
+"DOTA_Tooltip_modifier_creeps_spell_Hypertoxic_debuff_Description"                   "受到持续伤害且被动被破坏"
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_active"                   "蜷缩"
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_active_Description"                   "此刻你360°都是刚毛后背"
+"DOTA_Tooltip_modifier_goo_stack"                   "鼻涕"
+"DOTA_Tooltip_modifier_goo_stack_Description"                   "速度减缓且护甲减少"
+"DOTA_Tooltip_modifier_goo_stack2"                   "鼻涕(次级)"
+"DOTA_Tooltip_modifier_goo_stack2_Description"                   "速度减缓且护甲减少"
+"DOTA_Tooltip_modifier_goo_stack3"                   "交叉感染"
+"DOTA_Tooltip_modifier_goo_stack3_Description"                   "永久性损伤"
+
+
+
+"DOTA_Tooltip_modifier_middle_goo_stack"                   "鼻涕"
+"DOTA_Tooltip_modifier_middle_goo_stack_Description"                   "速度减缓且护甲减少"
+"DOTA_Tooltip_modifier_middle_goo_stack2"                   "鼻涕(次级)"
+"DOTA_Tooltip_modifier_middle_goo_stack2_Description"                   "速度减缓且护甲减少"
+"DOTA_Tooltip_modifier_middle_goo_stack3"                   "交叉感染"
+"DOTA_Tooltip_modifier_middle_goo_stack3_Description"                   "永久性损伤"
+
+
+
+"DOTA_Tooltip_modifier_advanced_goo_stack"                   "鼻涕"
+"DOTA_Tooltip_modifier_advanced_goo_stack_Description"                   "速度减缓且护甲减少"
+"DOTA_Tooltip_modifier_advanced_goo_stack2"                   "鼻涕(次级)"
+"DOTA_Tooltip_modifier_advanced_goo_stack2_Description"                   "速度减缓且护甲减少"
+"DOTA_Tooltip_modifier_advanced_goo_stack3"                   "交叉感染"
+"DOTA_Tooltip_modifier_advanced_goo_stack3_Description"                   "永久性损伤"
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Warpath"                   "高阶战意"
+"DOTA_Tooltip_modifier_Advanced_Warpath_Description"                   "赋予战斗能力大幅度提升"
+"DOTA_Tooltip_modifier_Advanced_Warcry_active"                   "高阶战吼"
+"DOTA_Tooltip_modifier_Advanced_Warcry_active_Description"                   "赋予属性大幅度提升"
+
+"DOTA_Tooltip_modifier_Middle_Warpath"                   "中阶战意"
+"DOTA_Tooltip_modifier_Middle_Warpath_Description"                   "赋予战斗能力大幅度提升"
+"DOTA_Tooltip_modifier_Middle_Warcry_active"                   "中阶战吼"
+"DOTA_Tooltip_modifier_Middle_Warcry_active_Description"                   "赋予属性大幅度提升"
+
+"DOTA_Tooltip_modifier_Primary_Warpath"                   "低阶战意"
+"DOTA_Tooltip_modifier_Primary_Warpath_Description"                   "赋予战斗能力大幅度提升"
+
+"DOTA_Tooltip_modifier_Primary_Warcry_active"                   "低阶战吼"
+"DOTA_Tooltip_modifier_Primary_Warcry_active_Description"                   "赋予属性大幅度提升"
+
+
+"DOTA_Tooltip_modifier_Advanced_Warcry_Winters_Coming"                   "凛冬将至"
+"DOTA_Tooltip_modifier_Advanced_Warcry_Winters_Coming_Description"                   "受到伤害增加"
+"DOTA_Tooltip_modifier_Advanced_Warcry_effect"                   "守夜法印"
+"DOTA_Tooltip_modifier_Advanced_Warcry_effect_Description"                   "赋予属性提升"
+"DOTA_Tooltip_modifier_Middle_Warcry_effect"                   "守夜法印"
+"DOTA_Tooltip_modifier_Middle_Warcry_effect_Description"                   "赋予属性提升"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Caustic_Finale_slow"                   "高阶腐尸毒"
+"DOTA_Tooltip_modifier_Advanced_Caustic_Finale_slow_Description"                   "被减速"
+"DOTA_Tooltip_modifier_Advanced_Caustic_Finale"                   "高阶腐尸毒"
+"DOTA_Tooltip_modifier_Advanced_Caustic_Finale_Description"                   "数秒后会爆炸"
+
+"DOTA_Tooltip_modifier_Middle_Caustic_Finale_slow"                   "中阶腐尸毒"
+"DOTA_Tooltip_modifier_Middle_Caustic_Finale_slow_Description"                   "被减速"
+"DOTA_Tooltip_modifier_Middle_Caustic_Finale"                   "中阶腐尸毒"
+"DOTA_Tooltip_modifier_Middle_Caustic_Finale_Description"                   "数秒后会爆炸"
+
+"DOTA_Tooltip_modifier_Primary_Caustic_Finale_slow"                   "低阶腐尸毒"
+"DOTA_Tooltip_modifier_Primary_Caustic_Finale_slow_Description"                   "被减速"
+"DOTA_Tooltip_modifier_Primary_Caustic_Finale"                   "低阶腐尸毒"
+"DOTA_Tooltip_modifier_Primary_Caustic_Finale_Description"                   "数秒后会爆炸"
+
+
+"DOTA_Tooltip_modifier_Advanced_Epicenter_slow"                   "高阶地震"
+"DOTA_Tooltip_modifier_Advanced_Epicenter_slow_Description"                   "被减速"
+"DOTA_Tooltip_modifier_Advanced_Epicenter"                   "高阶地震"
+"DOTA_Tooltip_modifier_Advanced_Epicenter_Description"                   "地震的能量"
+"DOTA_Tooltip_modifier_Advanced_Epicenter_debuff"                   "共振"
+"DOTA_Tooltip_modifier_Advanced_Epicenter_debuff_Description"                   "削弱护甲与魔法抗性"
+
+"DOTA_Tooltip_modifier_Primary_Epicenter_slow"                   "低阶地震"
+"DOTA_Tooltip_modifier_Primary_Epicenter_slow_Description"                   "被减速"
+"DOTA_Tooltip_modifier_Primary_Epicenter"                   "低阶地震"
+"DOTA_Tooltip_modifier_Primary_Epicenter_Description"                   "地震的能量"
+"DOTA_Tooltip_modifier_Middle_Epicenter_slow"                   "中阶地震"
+"DOTA_Tooltip_modifier_Middle_Epicenter_slow_Description"                   "被减速"
+"DOTA_Tooltip_modifier_Middle_Epicenter"                   "中阶地震"
+"DOTA_Tooltip_modifier_Middle_Epicenter_Description"                   "地震的能量"
+
+
+"DOTA_Tooltip_modifier_Advanced_Berserkers_Call_armor"                   "高阶狂战士之吼"
+"DOTA_Tooltip_modifier_Advanced_Berserkers_Call_armor_Description"                   "正在嘲讽敌人"
+"DOTA_Tooltip_modifier_Middle_Berserkers_Call_armor"                   "高阶狂战士之吼"
+"DOTA_Tooltip_modifier_Middle_Berserkers_Call_armor_Description"                   "正在嘲讽敌人"
+"DOTA_Tooltip_modifier_Primary_Berserkers_Call_armor"                   "低阶狂战士之吼"
+"DOTA_Tooltip_modifier_Primary_Berserkers_Call_armor_Description"                   "正在嘲讽敌人"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Plague_Ward_armor"                   "毒液腐蚀"
+"DOTA_Tooltip_modifier_Advanced_Plague_Ward_armor_Description"                   "削弱防御力与魔法抗性"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_active"                   "高阶幽冥护罩"
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_active_Description"                   "赋予无视物理伤害但受到魔法伤害增加"
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_aura"                   "高阶幽冥护罩"
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_aura_Description"                   "颤抖吧，弱者"
+"DOTA_Tooltip_modifier_Advanced_Poison_Sting"                   "高阶毒刺"
+"DOTA_Tooltip_modifier_Advanced_Poison_Sting_Description"                   "受到持续伤害"
+"DOTA_Tooltip_modifier_Primary_Poison_Sting"                   "低阶毒刺"
+"DOTA_Tooltip_modifier_Primary_Poison_Sting_Description"                   "受到持续伤害"
+"DOTA_Tooltip_modifier_Middle_Poison_Sting"                   "中阶毒刺"
+"DOTA_Tooltip_modifier_Middle_Poison_Sting_Description"                   "受到持续伤害"
+
+
+
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_active"                   "中阶幽冥护罩"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_active_Description"                   "赋予无视物理伤害但受到魔法伤害增加"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_debuff"                   "中阶幽冥护罩"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_debuff_Description"                   "减速"
+
+"DOTA_Tooltip_modifier_Primary_Ghost_Shroud_active"                   "低阶幽冥护罩"
+"DOTA_Tooltip_modifier_Primary_Ghost_Shroud_active_Description"                   "赋予无视物理伤害但受到魔法伤害增加"
+"DOTA_Tooltip_modifier_Primary_Ghost_Shroud_debuff"                   "低阶幽冥护罩"
+"DOTA_Tooltip_modifier_Primary_Ghost_Shroud_debuff_Description"                   "减速"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_Despair_Aura_buff"                   "绝望灵气"
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_Despair_Aura_buff_Description"                   "饶命啊"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_Despair_Aura_buff"                   "绝望灵气"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_Despair_Aura_buff_Description"                   "饶命啊"
+
+"DOTA_Tooltip_modifier_Primary_Heart_Stopper_Aura_damage"                   "低阶竭心光环"
+"DOTA_Tooltip_modifier_Primary_Heart_Stopper_Aura_damage_Description"                   "生命值不断减少"
+"DOTA_Tooltip_modifier_Middle_Heart_Stopper_Aura_damage"                   "中阶竭心光环"
+"DOTA_Tooltip_modifier_Middle_Heart_Stopper_Aura_damage_Description"                   "生命值不断减少"
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_damage"                   "高阶竭心光环"
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_damage_Description"                   "生命值不断减少"
+
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_active"                   "戒律之戒"
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_active_Description"                   "赋予技能伤害大幅度提升"
+
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_energy"                   "横裂之魄"
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_energy_Description"                   "伤害累计中"
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_in_path"                   "高阶幽鬼之刃"
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_in_path_Description"                   "赋予大幅速度增加"
+
+
+"DOTA_Tooltip_modifier_Primary_Spectral_Dagger_in_path"                   "低阶幽鬼之刃"
+"DOTA_Tooltip_modifier_Primary_Spectral_Dagger_in_path_Description"                   "赋予大幅速度增加"
+"DOTA_Tooltip_modifier_Middle_Spectral_Dagger_in_path"                   "中阶幽鬼之刃"
+"DOTA_Tooltip_modifier_Middle_Spectral_Dagger_in_path_Description"                   "赋予大幅速度增加"
+
+
+"DOTA_Tooltip_modifier_Advanced_Dispersion_release"                   "高阶折射"
+"DOTA_Tooltip_modifier_Advanced_Dispersion_release_Description"                   "到达100以上将会释放"
+"DOTA_Tooltip_modifier_Primary_Dispersion_release"                   "低阶折射"
+"DOTA_Tooltip_modifier_Primary_Dispersion_release_Description"                   "到达100以上将会释放"
+"DOTA_Tooltip_modifier_Middle_Dispersion_release"                   "中阶折射"
+"DOTA_Tooltip_modifier_Middle_Dispersion_release_Description"                   "到达100以上将会释放"
+"DOTA_Tooltip_modifier_Advanced_Haunt_shield"                   "能量聚合"
+"DOTA_Tooltip_modifier_Advanced_Haunt_shield_Description"                   "抵消所有伤害"
+"DOTA_Tooltip_modifier_item_new_bottle_heal"                   "魔瓶"
+"DOTA_Tooltip_modifier_item_new_bottle_heal_Description"                   "月之井的魔力正在恢复你的精力"
+
+
+
+"DOTA_Tooltip_modifier_Middle_Black_Hole_aura"                   "中阶黑洞"
+"DOTA_Tooltip_modifier_Middle_Black_Hole_aura_Description"                   "被拉扯"
+"DOTA_Tooltip_modifier_Advanced_Black_Hole_aura"                   "高阶黑洞"
+"DOTA_Tooltip_modifier_Advanced_Black_Hole_aura_Description"                   "被拉扯"
+"DOTA_Tooltip_modifier_Primary_Black_Hole_aura"                   "低阶黑洞"
+"DOTA_Tooltip_modifier_Primary_Black_Hole_aura_Description"                   "被拉扯"
+
+
+
+"DOTA_Tooltip_modifier_Middle_Macropyre"                   "中阶烈焰焚身"
+"DOTA_Tooltip_modifier_Middle_Macropyre_Description"                   "受到持续伤害"
+"DOTA_Tooltip_modifier_Advanced_Macropyre"                   "高阶烈焰焚身"
+"DOTA_Tooltip_modifier_Advanced_Macropyre_Description"                   "受到持续伤害"
+"DOTA_Tooltip_modifier_Primary_Macropyre"                   "低阶烈焰焚身"
+"DOTA_Tooltip_modifier_Primary_Macropyre_Description"                   "受到持续伤害"
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_Shallow_Grave"                   "中阶薄葬"
+"DOTA_Tooltip_modifier_Middle_Shallow_Grave_Description"                   "赋予免疫致死伤害的能力"
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave"                   "高阶薄葬"
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_Description"                   "赋予免疫致死伤害的能力"
+"DOTA_Tooltip_modifier_Primary_Shallow_Grave"                   "低阶薄葬"
+"DOTA_Tooltip_modifier_Primary_Shallow_Grave_Description"                   "赋予免疫致死伤害的能力"
+
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_bonus"                   "灵葬"
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_bonus_Description"                   "赋予属性加成"
+
+
+"DOTA_Tooltip_modifier_Middle_Powershot_slow"                   "中阶强力击"
+"DOTA_Tooltip_modifier_Middle_Powershot_slow_Description"                   "减速"
+"DOTA_Tooltip_modifier_Advanced_Powershot_slow"                   "高阶强力击"
+"DOTA_Tooltip_modifier_Advanced_Powershot_slow_Description"                   "减速"
+
+"DOTA_Tooltip_modifier_creeps_spell_Gain_Base_Difficulty_gain"                   "难度增幅"
+"DOTA_Tooltip_modifier_creeps_spell_Gain_Base_Difficulty_gain_Description"                   "该单位属性受到难度的影响"
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_2"                   "形态转换"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_2_Description"                   "正在转换为形态二"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_3"                   "形态转换"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_3_Description"                   "正在转换为形态三"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_3_slow"                   "形态转换"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_3_slow_Description"                   "被减速了"
+
+"DOTA_Tooltip_modifier_creeps_spell_Sproink_buff"                   "跃动"
+"DOTA_Tooltip_modifier_creeps_spell_Sproink_buff_Description"                   "获得攻击距离加成"
+
+"DOTA_Tooltip_modifier_creeps_spell_Thorns_reflection"                   "荆棘"
+"DOTA_Tooltip_modifier_creeps_spell_Thorns_reflection_Description"                   "攻击法尔纳时受到反伤"
+
+"DOTA_Tooltip_modifier_creeps_spell_Magnetize"                   "磁化"
+"DOTA_Tooltip_modifier_creeps_spell_Magnetize_Description"                   "受到持续伤害"
+
+"DOTA_Tooltip_modifier_creeps_spell_Power_Core_effect"                   "能量源"
+"DOTA_Tooltip_modifier_creeps_spell_Power_Core_effect_Description"                   "赋予属性增幅"
+
+
+"DOTA_Tooltip_modifier_Primary_Acid_Sparay_debuff"                   "低阶酸性喷雾"
+"DOTA_Tooltip_modifier_Primary_Acid_Sparay_debuff_Description"                   "受到持续伤害且护甲降低"
+
+"DOTA_Tooltip_modifier_Middle_Acid_Sparay_debuff"                   "中阶酸性喷雾"
+"DOTA_Tooltip_modifier_Middle_Acid_Sparay_debuff_Description"                   "受到持续伤害护甲降低，且减速"
+"DOTA_Tooltip_modifier_Advanced_Acid_Sparay_debuff"                   "高阶酸性喷雾"
+"DOTA_Tooltip_modifier_Advanced_Acid_Sparay_debuff_Description"                   "受到持续伤害护甲降低，且减速"
+
+"DOTA_Tooltip_modifier_generic_stunned_long"                   "眩晕"
+"DOTA_Tooltip_modifier_generic_stunned_long_Description"                   "被眩晕了"
+"DOTA_Tooltip_modifier_generic_stunned_shot"                   "眩晕"
+"DOTA_Tooltip_modifier_generic_stunned_long_Description"                   "被眩晕了"
+"DOTA_Tooltip_modifier_generic_stunned_normal"                   "眩晕"
+"DOTA_Tooltip_modifier_generic_stunned_long_Description"                   "被眩晕了"
+"DOTA_Tooltip_modifier_normal_stun"                   "眩晕"
+"DOTA_Tooltip_modifier_normal_stun_Description"                   "被眩晕了"
+
+"DOTA_Tooltip_modifier_Middle_Unstable_Concoction_u235"                   "辐射"
+"DOTA_Tooltip_modifier_Middle_Unstable_Concoction_u235_Description"                   "对周围友军造成持续伤害"
+"DOTA_Tooltip_modifier_Advanced_Unstable_Concoction_u235"                   "辐射"
+"DOTA_Tooltip_modifier_Advanced_Unstable_Concoction_u235_Description"                   "对周围友军造成持续伤害"
+"DOTA_Tooltip_modifier_Advanced_Unstable_Concoction_debuff"       "化学反应"    
+"DOTA_Tooltip_modifier_Advanced_Unstable_Concoction_debuff"       "降低防御力与魔法抗性" 
+
+"DOTA_Tooltip_modifier_Primary_Chemical_Rage"                   "低阶化学狂暴"
+"DOTA_Tooltip_modifier_Primary_Chemical_Rage_Description"                   "赋予战斗能力大幅度增强"
+"DOTA_Tooltip_modifier_Middle_Chemical_Rage"                   "中阶化学狂暴"
+"DOTA_Tooltip_modifier_Middle_Chemical_Rage_Description"                   "赋予战斗能力大幅度增强"
+"DOTA_Tooltip_modifier_Advanced_Chemical_Rage"                   "高阶化学狂暴"
+"DOTA_Tooltip_modifier_Advanced_Chemical_Rage_Description"                   "赋予战斗能力大幅度增强"
+
+
+
+"DOTA_Tooltip_modifier_Primary_Blade_Fury"                   "低阶剑刃风暴"
+"DOTA_Tooltip_modifier_Primary_Blade_Fury_Description"                   "持续对周围敌人造成伤害"
+"DOTA_Tooltip_modifier_Middle_Blade_Fury"                   "中阶剑刃风暴"
+"DOTA_Tooltip_modifier_Middle_Blade_Fury_Description"                   "持续对周围敌人造成伤害"
+"DOTA_Tooltip_modifier_Advanced_Blade_Fury"                   "高阶剑刃风暴"
+"DOTA_Tooltip_modifier_Advanced_Blade_Fury_Description"                   "持续对周围敌人造成伤害"
+
+"DOTA_Tooltip_modifier_Middle_Blade_Dance_Dance_For_Young"                   "舞动青春"
+"DOTA_Tooltip_modifier_Middle_Blade_Dance_Dance_For_Young_Description"                   "赋予攻击速度增加"
+
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_Dance_For_Young"                   "舞动青春"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_Dance_For_Young_Description"                   "赋予攻击速度增加"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance"                   "拔刀"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_Description"                   "赋予攻击力加成"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_buff"                   "迅剑：樱舞"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_buff_Description"                   "赋予攻击速度加成"
+
+"DOTA_Tooltip_modifier_Primary_Omni_Slash_caster"                   "低阶无敌斩"
+"DOTA_Tooltip_modifier_Primary_Omni_Slash_caster_Description"                   "持续对周围敌人造成伤害"
+"DOTA_Tooltip_modifier_Middle_Omni_Slash_caster"                   "中阶无敌斩"
+"DOTA_Tooltip_modifier_Middle_Omni_Slash_caster_Description"                   "持续对周围敌人造成伤害"
+"DOTA_Tooltip_modifier_Advanced_Omni_Slash_caster"                   "高阶无敌斩"
+"DOTA_Tooltip_modifier_Advanced_Omni_Slash_caster_Description"                   "持续对周围敌人造成伤害"
+"DOTA_Tooltip_modifier_Advanced_Omni_Slash_transfer"                   "传承"
+"DOTA_Tooltip_modifier_Advanced_Omni_Slash_transfer_Description"                   "使下一次释放无敌斩时斩击更快"
+"DOTA_Tooltip_modifier_item_hd_heavens_halberd_disarm"                   "缴械"
+"DOTA_Tooltip_modifier_item_hd_heavens_halberd_disarm_Description"                   "无法进行普通攻击"
+
+"DOTA_Tooltip_modifier_item_hd_satanic_active_lifesteal"                   "不洁狂热"
+"DOTA_Tooltip_modifier_item_hd_satanic_active_lifesteal_Description"                   "赋予大幅攻击吸血能力"
+"DOTA_Tooltip_modifier_item_hd_vladmir"                   "弗拉迪米尔的光环"
+"DOTA_Tooltip_modifier_item_hd_vladmir_Description"                   "赋予战斗能力提升"
+
+"DOTA_Tooltip_modifier_item_hd_eternal_shroud_active_shield"                   "法衣"
+"DOTA_Tooltip_modifier_item_hd_eternal_shroud_active_shield_Description"                   "抵消所有受到的魔法伤害"
+
+"DOTA_Tooltip_modifier_item_hd_shivas_guard_arua_effect"                   "霜冷光环"
+"DOTA_Tooltip_modifier_item_hd_shivas_guard_arua_effect_Description"                   "降低攻击速度，生命恢复速率，吸血效果与受到治疗效果。"
+
+"DOTA_Tooltip_modifier_item_hd_holy_locket_arua_effect"                   "恢复光环"
+"DOTA_Tooltip_modifier_item_hd_holy_locket_arua_effect_Description"                   "赋予生命恢复速度加成"
+
+"DOTA_Tooltip_modifier_item_hd_shivas_guard_debuff"                   "极寒冲击"
+"DOTA_Tooltip_modifier_item_hd_shivas_guard_debuff_Description"                   "降低攻击速度与移动速度"
+"DOTA_Tooltip_modifier_item_hd_travel_boots_lv2_active"                   "神行"
+"DOTA_Tooltip_modifier_item_hd_travel_boots_lv2_active_Description"                   "赋予大幅度移动速度提升且突破限制"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_active"                   "相位移动"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_active_Description"                   "赋予移动速度提升且无视单位碰撞"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2_void"                   "虚空融合"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2_void_Description"                   "无视伤害"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2_active"                   "相位移动"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2_active_Description"                   "赋予移动速度提升且无视单位碰撞"
+"DOTA_Tooltip_modifier_item_hd_power_treads_str"                   "力量源"
+"DOTA_Tooltip_modifier_item_hd_power_treads_str_Description"                   "赋予力量与魔法抗性加成"
+"DOTA_Tooltip_modifier_item_hd_power_treads_agi"                   "敏捷源"
+"DOTA_Tooltip_modifier_item_hd_power_treads_agi_Description"                   "赋予敏捷与攻击速度加成"
+"DOTA_Tooltip_modifier_item_hd_power_treads_int"                   "智力源"
+"DOTA_Tooltip_modifier_item_hd_power_treads_int_Description"                   "赋予智力与技能伤害加成"
+
+
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_str"                   "力量源"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_str_Description"                   "赋予力量与魔法抗性加成"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_agi"                   "敏捷源"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_agi_Description"                   "赋予敏捷与攻击速度加成"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_int"                   "智力源"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_int_Description"                   "赋予智力与技能伤害加成"
+
+"DOTA_Tooltip_modifier_item_hd_tranquil_boots_2_active"                   "守序"
+"DOTA_Tooltip_modifier_item_hd_tranquil_boots_2_active_Description"                   "赋予技能伤害加成"
+
+"DOTA_Tooltip_modifier_item_hd_invis_sword_active"                   "暗影步"
+"DOTA_Tooltip_modifier_item_hd_invis_sword_active_Description"                   "赋予隐身且破影一击造成额外效果"
+"DOTA_Tooltip_modifier_item_hd_silver_edge_active"                   "暗影步"
+"DOTA_Tooltip_modifier_item_hd_silver_edge_active_Description"                   "赋予隐身且破影一击造成额外效果"
+"DOTA_Tooltip_modifier_item_hd_silver_edge_active_debuff"                   "破影"
+"DOTA_Tooltip_modifier_item_hd_silver_edge_active_debuff_Description"                   "被动被破坏且减少双防"
+
+"DOTA_Tooltip_modifier_item_hd_orchid_active"                   "紫苑"
+"DOTA_Tooltip_modifier_item_hd_orchid_active_Description"                   "沉默且受到伤害增加"
+
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active_standby"                   "血肉撕裂"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active_standby_Description"                   ""
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active"                   "血棘"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active_Description"                   "沉默且受到伤害增加"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_magic_active"                   "魂棘"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_magic_active_Description"                   "沉默且减少魔抗"
+
+"DOTA_Tooltip_modifier_item_hd_black_king_bar_active"                   "黑皇杖"
+"DOTA_Tooltip_modifier_item_hd_black_king_bar_active_Description"                   "赋予魔法免疫"
+
+
+
+
+
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active"                   "妖术"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active_Description"                   "无力，啥都干不了"
+
+"DOTA_Tooltip_modifier_item_hd_skadi_active"                   "霜冻攻击"
+"DOTA_Tooltip_modifier_item_hd_skadi_active_Description"                   "减速且恢复吸血受到治疗被弱化"
+
+
+
+"DOTA_Tooltip_modifier_item_hd_courier_radiant"                   "小马驹"
+"DOTA_Tooltip_modifier_item_hd_courier_radiant_Description"                   "赋予移动速度增加"
+"DOTA_Tooltip_modifier_item_hd_ocean_heart"                   "海洋祝福"
+"DOTA_Tooltip_modifier_item_hd_ocean_heart_Description"                   "赋予生命与魔法恢复"
+"DOTA_Tooltip_modifier_item_hd_royal_jelly2"                   "蜂王浆"
+"DOTA_Tooltip_modifier_item_hd_royal_jelly2_Description"                   "赋予生命与魔法恢复"
+"DOTA_Tooltip_modifier_item_hd_arcane_ring_active"                   "奥术赋予"
+"DOTA_Tooltip_modifier_item_hd_arcane_ring_active_Description"                   "赋予技能伤害与魔法消耗减少"
+"DOTA_Tooltip_modifier_item_hd_energy_ring_active"                   "活力赋予"
+"DOTA_Tooltip_modifier_item_hd_energy_ring_active_Description"                   "赋予生命恢复增强与受到治疗效果增强"
+
+"DOTA_Tooltip_modifier_item_hd_anti_arcane_ring_active"                   "奥术反制"
+"DOTA_Tooltip_modifier_item_hd_anti_arcane_ring_active_Description"                   "减少技能伤害"
+"DOTA_Tooltip_modifier_item_hd_anti_energy_ring_active"                   "活力反制"
+"DOTA_Tooltip_modifier_item_hd_anti_energy_ring_active_Description"                   "减少生命恢复速率与受到治疗效果"
+"DOTA_Tooltip_modifier_item_hd_dust_active"                   "魂魄灵袋"
+"DOTA_Tooltip_modifier_item_hd_dust_active_Description"                   "赋予主属性提升"
+"DOTA_Tooltip_modifier_item_hd_slakes_scales_active"                   "暗影之舞"
+"DOTA_Tooltip_modifier_item_hd_slakes_scales_active_Description"                   "赋予隐身与生命恢复"
+
+"DOTA_Tooltip_modifier_item_hd_soul"                   "支配死灵"
+"DOTA_Tooltip_modifier_item_hd_soul_Description"                   "赋予攻击力加成"
+"DOTA_Tooltip_modifier_item_hd_mad_potion_active"                   "狂化药剂"
+"DOTA_Tooltip_modifier_item_hd_mad_potion_active_Description"                   "赋予攻击速度提升，施法速度提升，但减少防御力"
+"DOTA_Tooltip_modifier_item_hd_nian_flag_trap"                   "战旗"
+"DOTA_Tooltip_modifier_item_hd_nian_flag_trap_Description"                   "赋予攻击速度与移动速度提升"
+
+"DOTA_Tooltip_modifier_item_hd_creed_of_omniscience"                   "全能庇护"
+"DOTA_Tooltip_modifier_item_hd_creed_of_omniscience_Description"                   "受到伤害时被恢复"
+
+
+"DOTA_Tooltip_modifier_item_hd_ring_of_aquila_active_arua_effect"                   "天鹰光环"
+"DOTA_Tooltip_modifier_item_hd_ring_of_aquila_active_arua_effect_Description"                   "赋予护甲和攻击力"
+"DOTA_Tooltip_modifier_item_hd_nether_shawl_active"                   "幽冥光环"
+"DOTA_Tooltip_modifier_item_hd_nether_shawl_active_Description"                   "减少魔法抗性"
+"DOTA_Tooltip_modifier_item_hd_dragon_scale_active"                   "后燃"
+"DOTA_Tooltip_modifier_item_hd_dragon_scale_active_Description"                   "受到持续伤害"
+"DOTA_Tooltip_modifier_item_hd_grove_bow_active"                   "肉体削弱"
+"DOTA_Tooltip_modifier_item_hd_grove_bow_active_Description"                   "减少护甲"
+"DOTA_Tooltip_modifier_item_hd_arcane_bow_active"                   "精神体削弱"
+"DOTA_Tooltip_modifier_item_hd_arcane_bow_active_Description"                   "减少魔法抗性"
+
+"DOTA_Tooltip_modifier_item_hd_bullwhip_active_effect"                   "鞭策"
+"DOTA_Tooltip_modifier_item_hd_bullwhip_active_effect_Description"                   "赋予攻击速度与移动速度加成"
+"DOTA_Tooltip_modifier_item_hd_skeletology"                   "骨骼结构学"
+"DOTA_Tooltip_modifier_item_hd_skeletology_Description"                   "伤害提升%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_Tooltip_modifier_item_hd_soul_of_orc_active"                   "精神外溢"
+"DOTA_Tooltip_modifier_item_hd_soul_of_orc_active_Description"                   "受到伤害增加但赋予技能伤害"
+"DOTA_Tooltip_modifier_item_hd_curse_staff_active"                   "诅咒"
+"DOTA_Tooltip_modifier_item_hd_curse_staff_active_Description"                   "降低攻击力百分比与状态抗性"
+"DOTA_Tooltip_modifier_item_hd_expired_meat_active"                   "拉肚子"
+"DOTA_Tooltip_modifier_item_hd_expired_meat_active_Description"                   "食用了过期的肉块，受到的治疗效果减少了"
+"DOTA_Tooltip_modifier_item_hd_demons_heart_02_active"                   "血欲"
+"DOTA_Tooltip_modifier_item_hd_demons_heart_02_active_Description"                   "赋予额外的生命恢复速率"
+
+"DOTA_Tooltip_modifier_item_hd_qingnan_sheet_active"                   "治疗结界"
+"DOTA_Tooltip_modifier_item_hd_qingnan_sheet_active_Description"                   "赋予受到治疗效果增强"
+
+"DOTA_Tooltip_modifier_item_hd_pheromone_active"                   "激励"
+"DOTA_Tooltip_modifier_item_hd_pheromone_active_Description"                   "赋予攻击速度与移动速度提升"
+
+"DOTA_Tooltip_modifier_item_hd_Ice_coat_debuff"                   "缓速"
+"DOTA_Tooltip_modifier_item_hd_Ice_coat_debuff_Description"                   "减缓移动速度与攻击速度"
+
+"DOTA_Tooltip_modifier_item_hd_Ice_coat_effect"                   "寒冰护盾"
+"DOTA_Tooltip_modifier_item_hd_Ice_coat_effect_Description"                   "赋予防御提升"
+
+
+"DOTA_Tooltip_modifier_item_hd_evil_coat_effect"                   "邪恶诅咒"
+"DOTA_Tooltip_modifier_item_hd_evil_coat_effect_Description"                   "造成伤害降低"
+
+"DOTA_Tooltip_modifier_item_hd_evil_coat_effect2"                   "邪恶死咒"
+"DOTA_Tooltip_modifier_item_hd_evil_coat_effect2_Description"                   "造成伤害降低"
+
+"DOTA_Tooltip_modifier_item_hd_evil_poison_coat_debuff"                   "剧毒侵袭"
+"DOTA_Tooltip_modifier_item_hd_evil_poison_coat_debuff_Description"                   "破坏被动"
+
+"DOTA_Tooltip_modifier_item_hd_sparkle_active"                   "日耀"
+"DOTA_Tooltip_modifier_item_hd_sparkle_active_Description"                   "强制进入白天"
+"DOTA_Tooltip_modifier_item_hd_SilenceDarkness_active"                   "夜寂"
+"DOTA_Tooltip_modifier_item_hd_SilenceDarkness_active_Description"                   "强制进入黑夜"
+
+"DOTA_Tooltip_modifier_item_hd_star_calling_cloak_active"                   "唤星术"
+"DOTA_Tooltip_modifier_item_hd_star_calling_cloak_active_Description"                   "生效中"
+"DOTA_Tooltip_modifier_item_hd_blade_mail_active"                   "伤害反弹"
+"DOTA_Tooltip_modifier_item_hd_blade_mail_active_Description"                   "生效中"
+
+"DOTA_Tooltip_modifier_item_hd_deathly_scepter_active"                   "死灵缠身"
+"DOTA_Tooltip_modifier_item_hd_deathly_scepter_active_Description"                   "死亡后会召唤一个死灵"
+
+"DOTA_Tooltip_modifier_item_hd_valhalla_helmet_active"                   "凡人的勇气"
+"DOTA_Tooltip_modifier_item_hd_valhalla_helmet_active_Description"                   "最大生命值增加"
+"DOTA_Tooltip_modifier_item_hd_advanced_mathematics"                   "高等数学"
+"DOTA_Tooltip_modifier_item_hd_advanced_mathematics_Description"                   "赋予施法距离与攻击距离提升"
+"DOTA_Tooltip_modifier_item_hd_introduction_of_arcane"                   "奥术概论"
+"DOTA_Tooltip_modifier_item_hd_introduction_of_arcane_Description"                   "赋予技能伤害"
+
+"DOTA_Tooltip_modifier_item_hd_anti_energy_ring_2_active"                   "反精华赋予"
+"DOTA_Tooltip_modifier_item_hd_anti_energy_ring_2_active_Description"                   "减少生命恢复速率与受到治疗效果"
+
+"DOTA_Tooltip_modifier_item_hd_anti_arcane_ring_2_active"                   "反魔导赋予"
+"DOTA_Tooltip_modifier_item_hd_anti_arcane_ring_2_active_Description"                   "减少技能伤害"
+
+"DOTA_Tooltip_modifier_item_hd_spider_legs_active"                   "急奔"
+"DOTA_Tooltip_modifier_item_hd_spider_legs_active_Description"                   "赋予移动速度大幅度提升与穿越地形的能力"
+"DOTA_Tooltip_modifier_item_hd_orb_of_destruction_active"                   "腐蚀阻碍"
+"DOTA_Tooltip_modifier_item_hd_orb_of_destruction_active_Description"                   "减少护甲并减缓移动速度"
+
+"DOTA_Tooltip_modifier_item_hd_mind_breaker_active"                   "沉默打击"
+"DOTA_Tooltip_modifier_item_hd_mind_breaker_active_Description"                   "被沉默"
+
+"DOTA_Tooltip_modifier_item_hd_cloak_of_flames_active"                   "烈焰护盾"
+"DOTA_Tooltip_modifier_item_hd_cloak_of_flames_active_Description"                   "赋予减免伤害且造成范围持续伤害"
+"DOTA_Tooltip_modifier_item_hd_ceremonial_robe_active"                   "祭礼光环"
+"DOTA_Tooltip_modifier_item_hd_ceremonial_robe_active_Description"                   "降低状态抗性与魔法抗性"
+
+"DOTA_Tooltip_modifier_item_hd_risk_dice_active"                   "风险骰子"
+"DOTA_Tooltip_modifier_item_hd_risk_dice_active_Description"                   "赋予全属性增加"
+    "DOTA_Tooltip_modifier_item_hd_risk_dice_active_2"                   "风险骰子"
+"DOTA_Tooltip_modifier_item_hd_risk_dice_active_2_Description"                   "全属性减少"
+        "DOTA_Tooltip_modifier_item_hd_helm_of_the_undying_active"                   "死亡延迟"
+"DOTA_Tooltip_modifier_item_hd_helm_of_the_undying_active_Description"                   "状态结束后才会死亡"
+                "DOTA_Tooltip_modifier_item_hd_ring_of_aquila_arua_effect"                   "天鹰光环"
+"DOTA_Tooltip_modifier_item_hd_ring_of_aquila_arua_effect_Description"                   "赋予护甲，攻击力与魔法恢复加成"
+"DOTA_Tooltip_modifier_item_hd_shield_of_lackeys_active"                   "盾墙"
+"DOTA_Tooltip_modifier_item_hd_shield_of_lackeys_active_Description"                   "赋予护甲与魔法抗性提升"
+"DOTA_Tooltip_modifier_item_hd_staff_of_lackeys_active"                   "远射"
+"DOTA_Tooltip_modifier_item_hd_staff_of_lackeys_active_Description"                   "赋予远程攻击距离与施法距离提升"
+"DOTA_Tooltip_modifier_item_hd_slave_owners_flame_whip_active"                   "鞭策"
+"DOTA_Tooltip_modifier_item_hd_slave_owners_flame_whip_active_Description"                   "对于穷人赋予全属性提升"
+"DOTA_Tooltip_modifier_creeps_spell_Aether_Remnant_pull_debuff"                   "残阴"
+"DOTA_Tooltip_modifier_creeps_spell_Aether_Remnant_pull_debuff_Description"                   "被拖拽"
+"DOTA_Tooltip_modifier_creeps_spell_Astral_Step_debuff"                   "太虚之径"
+"DOTA_Tooltip_modifier_creeps_spell_Astral_Step_debuff_Description"                   "被减速，经过一段时间后爆炸"
+"DOTA_Tooltip_modifier_item_hd_minotaur_horn_active"                   "统领光环"
+"DOTA_Tooltip_modifier_item_hd_minotaur_horn_active_Description"                   "赋予伤害加成"   
+"DOTA_Tooltip_modifier_item_hd_spy_gadget_active"                   "预知光环"
+"DOTA_Tooltip_modifier_item_hd_spy_gadget_active_Description"                   "赋予远程攻击距离与施法距离加成"   
+"DOTA_Tooltip_modifier_item_hd_trickster_cloak_active"                   "隐身"
+"DOTA_Tooltip_modifier_item_hd_trickster_cloak_active_Description"                   "不会被发现"   
+
+"DOTA_Tooltip_modifier_item_hd_breath_of_life_active"                   "生命集中"
+"DOTA_Tooltip_modifier_item_hd_breath_of_life_active_Description"                   "死亡时赋予源头正面恢复增快"
+
+"DOTA_Tooltip_modifier_item_hd_hunters_hoard_active"                   "悬赏"
+"DOTA_Tooltip_modifier_item_hd_hunters_hoard_active_Description"                   "根据施法者金币使其受到伤害增加"
+
+"DOTA_Tooltip_modifier_item_hd_holy_cross_cloak_active"                   "救赎"
+"DOTA_Tooltip_modifier_item_hd_holy_cross_cloak_active_Description"                   "被戒律者治疗"      
+
+"DOTA_Tooltip_modifier_item_hd_secret_of_time_active"                   "缓时"
+"DOTA_Tooltip_modifier_item_hd_secret_of_time_active_Description"                   "技能冷却暂停但赋予正面以及负面状态持续时间增强增强大幅度提升"      
+
+"DOTA_Tooltip_modifier_item_hd_neutral"                   "饮茶哥福佑"
+"DOTA_Tooltip_modifier_item_hd_neutral_Description"                   "赋予受到恢复增强"        
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Ambient_Sorcery_active"                   "环域巫术"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Ambient_Sorcery_active_Description"                   "降低魔法抗性"   
+"DOTA_Tooltip_modifier_item_hd_sheepstick_active"                   "妖术"
+"DOTA_Tooltip_modifier_item_hd_sheepstick_active_Description"                   "被变成无害的小动物"   
+"DOTA_Tooltip_modifier_item_hd_soul_booster_active"                   "狂乱"
+"DOTA_Tooltip_modifier_item_hd_soul_booster_active_Description"                   "赋予无前摇施法，技能伤害与技能速度提升"   
+
+"DOTA_Tooltip_modifier_item_hd_moon_shard"                   "银月之晶"
+"DOTA_Tooltip_modifier_item_hd_moon_shard_Description"                   "赋予攻击速度提升"   
+
+"DOTA_Tooltip_modifier_item_hd_grandmasters_glaive_active"                   "接着奏乐接着舞"
+"DOTA_Tooltip_modifier_item_hd_grandmasters_glaive_active_Description"                   "赋予攻击速度提升"       
+
+"DOTA_Tooltip_modifier_item_hd_combo_breaker_active"                   "永恒之盘"
+"DOTA_Tooltip_modifier_item_hd_combo_breaker_active_Description"                   "赋予伤害减免与状态抗性"     
+
+
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Watcher_Gaze_active"                   "石化"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Watcher_Gaze_active_Description"                   "无法做出动作且受到物理伤害增加"     
+"DOTA_Tooltip_modifier_item_hd_crimson_guard_active"                   "坚盾"
+"DOTA_Tooltip_modifier_item_hd_crimson_guard_active_Description"                   "赋予物理攻击伤害抵挡"     
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Preserved_Skull_active"                   "祈灵光环"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Preserved_Skull_active_Description"                   "赋予技能伤害与技能冷却缩减"          
+
+"DOTA_Tooltip_modifier_item_hd_lamb_divine_staff_active"                   "妖术"
+"DOTA_Tooltip_modifier_item_hd_lamb_divine_staff_active_Description"                   "被变成无害的小动物,击杀者将恢复生命值"  
+"DOTA_Tooltip_modifier_item_hd_the_secret_of_light_active"                   "光之福佑"
+"DOTA_Tooltip_modifier_item_hd_the_secret_of_light_active_Description"                   "赋予智力提升"      
+
+"DOTA_Tooltip_modifier_item_hd_desolator_2_active"                   "高阶腐蚀"
+"DOTA_Tooltip_modifier_item_hd_desolator_2_active_Description"                   "减少护甲"    
+
+"DOTA_Tooltip_modifier_item_hd_seer_stone_active"                   "透镜增幅"
+"DOTA_Tooltip_modifier_item_hd_seer_stone_active_Description"                   "赋予技能伤害大幅度提升"    
+
+"DOTA_Tooltip_modifier_item_hd_fallen_sky_stunned"                   "眩晕"
+"DOTA_Tooltip_modifier_item_hd_verodicias_rune_staff_active"                   "自然亲和"
+"DOTA_Tooltip_modifier_item_hd_verodicias_rune_staff_active_Description"                   "赋予伤害加成"          
+
+
+
+"DOTA_Tooltip_modifier_item_hd_assault_active"                   "强袭光环"
+"DOTA_Tooltip_modifier_item_hd_assault_active_Description"                   "对敌减护甲，对友赋予攻击速度与护甲提升" 
+"DOTA_Tooltip_modifier_item_hd_radiance_active"                   "辉耀"
+"DOTA_Tooltip_modifier_item_hd_radiance_active_Description"                   "每秒造成伤害" 
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Glimmerdark_Shield_active"                   "闪光"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Glimmerdark_Shield_active_Description"                   "赋予物理抗性但受到魔法伤害加深" 
+"DOTA_Tooltip_modifier_item_hd_ice_blossom_active"                   "霜冻护盾"
+"DOTA_Tooltip_modifier_item_hd_ice_blossom_active_Description"                   "赋予技能伤害与魔法伤害抵挡"    
+
+
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_active2"                   "能量操控"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_active2_Description"                   "赋予攻击速度与移动速度增加但沉默"  
+
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_active"                   "能量操控"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_active_Description"                   "赋予攻击速度与移动速度减缓但恢复魔力"  
+
+
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active1"                   "命运揭示"
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active1_Description"                   "受到持续治疗"  
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active2"                   "命运揭示"
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active2_Description"                   "赋予魔法无消耗能量"  
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active3"                   "命运揭示"
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active3_Description"                   "赋予全属性提升"  
+
+
+"DOTA_Tooltip_modifier_item_hd_sagas_of_the_cymurrin_sage_active"                   "命运降言"
+"DOTA_Tooltip_modifier_item_hd_sagas_of_the_cymurrin_sage_active_Description"                   "暂时性降低魔法抗性与护甲" 
+
+"DOTA_Tooltip_modifier_item_hd_sagas_of_the_cymurrin_sage_effect"                   "命运降言"
+"DOTA_Tooltip_modifier_item_hd_sagas_of_the_cymurrin_sage_effect_Description"                   "赋予魔法抗性与护甲提升" 
+
+"DOTA_Tooltip_modifier_item_hd_yulsarias_mantle_effect"                   "雪国之息"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_mantle_effect_Description"                   "冻结且受到伤害提升" 
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Unhallowed_active"                   "狂乱"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Unhallowed_active_Description"                   "赋予施法能力增强" 
+
+"DOTA_Tooltip_modifier_item_hd_yulsarias_mantle_active"                   "雪国之息"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_mantle_active_Description"                   "每秒都有几率被冻结" 
+
+"DOTA_Tooltip_modifier_item_hd_paragons_rebuke_active"                   "完人之诫"
+"DOTA_Tooltip_modifier_item_hd_paragons_rebuke_active_Description"                   "赋予状态抗性提升" 
+
+"DOTA_Tooltip_modifier_item_hd_fetters_of_omniscience_effect"                   "神化"
+"DOTA_Tooltip_modifier_item_hd_fetters_of_omniscience_effect_Description"                   "赋予治疗与正面状态持续时间增强大幅度提升"     
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_mist_coil_active"                   "迷雾缠身"
+"DOTA_Tooltip_modifier_Middle_mist_coil_active_Description"                   "赋予受到治疗效果增强/减少" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_mist_coil_active"                   "迷雾缠身"
+"DOTA_Tooltip_modifier_Advanced_mist_coil_active_Description"                   "赋予受到治疗效果增强/减少" 
+
+
+"DOTA_Tooltip_modifier_Primary_aphotic_shield"                   "低阶无光之盾"
+"DOTA_Tooltip_modifier_Primary_aphotic_shield_Description"                   "赋予抵消受到伤害" 
+"DOTA_Tooltip_modifier_Middle_aphotic_shield"                   "中阶无光之盾"
+"DOTA_Tooltip_modifier_Middle_aphotic_shield_Description"                   "赋予抵消受到伤害" 
+"DOTA_Tooltip_modifier_Advanced_aphotic_shield"                   "高阶无光之盾"
+"DOTA_Tooltip_modifier_Advanced_aphotic_shield_Description"                   "赋予抵消受到伤害" 
+
+
+"DOTA_Tooltip_modifier_Primary_borrowed_time_buff_hot_caster"                   "低阶回光返照"
+"DOTA_Tooltip_modifier_Primary_borrowed_time_buff_hot_caster_Description"                   "赋予伤害化为治疗的能力"  
+"DOTA_Tooltip_modifier_Middle_borrowed_time_buff_hot_caster"                   "中阶回光返照"
+"DOTA_Tooltip_modifier_Middle_borrowed_time_buff_hot_caster_Description"                   "赋予伤害化为治疗的能力"  
+"DOTA_Tooltip_modifier_Advanced_borrowed_time_buff_hot_caster"                   "高阶回光返照"
+"DOTA_Tooltip_modifier_Advanced_borrowed_time_buff_hot_caster_Description"                   "赋予伤害化为治疗的能力"   
+
+
+"DOTA_Tooltip_modifier_Primary_tether"                   "低阶羁绊"
+"DOTA_Tooltip_modifier_Primary_tether_Description"                   "赋予每秒恢复链接目标生命值的能力"  
+"DOTA_Tooltip_modifier_Middle_tether"                   "中阶羁绊"
+"DOTA_Tooltip_modifier_Middle_tether_Description"                   "赋予每秒恢复链接目标生命值的能力"  
+"DOTA_Tooltip_modifier_Middle_tether_buff"                   "超负荷"
+"DOTA_Tooltip_modifier_Middle_tether_buff_Description"                   "赋予生命恢复速度加成"  
+
+"DOTA_Tooltip_modifier_Advanced_tether"                   "高阶羁绊"
+"DOTA_Tooltip_modifier_Advanced_tether_Description"                   "赋予每秒恢复链接目标生命值的能力"  
+"DOTA_Tooltip_modifier_Advanced_tether_buff"                   "超负荷"
+"DOTA_Tooltip_modifier_Advanced_tether_buff_Description"                   "赋予生命恢复速度加成"        
+
+"DOTA_Tooltip_modifier_Advanced_tether_buff_target"                   "善意"
+"DOTA_Tooltip_modifier_Advanced_tether_buff_target_Description"                   "赋予受到治疗效果与正面状态持续时间增强"  
+
+
+"DOTA_Tooltip_modifier_Primary_overcharge_active"                   "低阶过载"
+"DOTA_Tooltip_modifier_Primary_overcharge_active_Description"                   "赋予每秒恢复最大生命值与攻击速度提升"  
+
+"DOTA_Tooltip_modifier_Middle_overcharge_active"                   "中阶过载"
+"DOTA_Tooltip_modifier_Middle_overcharge_active_Description"                   "赋予每秒恢复最大生命值，攻击速度与全属性提升" 
+
+"DOTA_Tooltip_modifier_Advanced_overcharge_active"                   "高阶过载"
+"DOTA_Tooltip_modifier_Advanced_overcharge_active_Description"                   "赋予每秒恢复最大生命值，攻击速度，全属性，技能伤害提升，魔法消耗减少" 
+
+
+"DOTA_Tooltip_modifier_Primary_spirits"                   "低阶幽魂"
+"DOTA_Tooltip_modifier_Primary_spirits_Description"                   "每秒对幽魂周围敌人造成伤害" 
+
+"DOTA_Tooltip_modifier_Middle_spirits"                   "中阶幽魂"
+"DOTA_Tooltip_modifier_Middle_spirits_Description"                   "每秒对幽魂周围敌人造成伤害" 
+
+"DOTA_Tooltip_modifier_Advanced_spirits"                   "高阶幽魂"
+"DOTA_Tooltip_modifier_Advanced_spirits_Description"                   "每秒对幽魂周围敌人造成伤害" 
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_fortunes_end_debuff"                   "低阶气运之末"
+"DOTA_Tooltip_modifier_Primarye_fortunes_end_debuff_Description"                   "被缠绕" 
+"DOTA_Tooltip_modifier_Middle_fortunes_end_debuff"                   "中阶气运之末"
+"DOTA_Tooltip_modifier_Middle_fortunes_end_debuff_Description"                   "被缠绕" 
+"DOTA_Tooltip_modifier_Middle_fortunes_end_buff"                   "协调"
+"DOTA_Tooltip_modifier_Middle_fortunes_end_buff_Description"                   "赋予持续弱驱散" 
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_debuff"                   "高阶气运之末"
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_debuff_Description"                   "被缠绕" 
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_buff"                   "协调"
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_buff_Description"                   "赋予持续弱驱散" 
+
+
+"DOTA_Tooltip_modifier_Primary_purifying_flames_active"                   "低阶涤罪之焰"
+"DOTA_Tooltip_modifier_Primary_purifying_flames_active_Description"                   "赋予持续治疗" 
+"DOTA_Tooltip_modifier_Middle_purifying_flame_active"                   "中阶涤罪之焰"
+"DOTA_Tooltip_modifier_Middle_purifying_flame_active_Description"                   "赋予持续治疗" 
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_active"                   "高阶涤罪之焰"
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_active_Description"                   "赋予持续治疗" 
+
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_debuff"                   "重生"
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_debuff_Description"                   "削减/增强魔法抗性" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_fates_edict_buff"                   "低阶命运敕令"
+"DOTA_Tooltip_modifier_Primary_fates_edict_buff_Description"                   "赋予100%%魔法抗性" 
+"DOTA_Tooltip_modifier_Primary_fates_edict_debuff"                   "低阶命运敕令"
+"DOTA_Tooltip_modifier_Primary_fates_edict_debuff_Description"                   "缴械"     
+
+"DOTA_Tooltip_modifier_Middle_fates_edict_buff"                   "中阶命运敕令"
+"DOTA_Tooltip_modifier_Middle_fates_edict_buff_Description"                   "赋予100%%魔法抗性" 
+"DOTA_Tooltip_modifier_Middle_fates_edict_debuff"                   "中阶命运敕令"
+"DOTA_Tooltip_modifier_Middle_fates_edict_debuff_Description"                   "缴械"     
+
+
+"DOTA_Tooltip_modifier_Advanced_fates_edict_buff"                   "高阶命运敕令"
+"DOTA_Tooltip_modifier_Advanced_fates_edict_buff_Description"                   "赋予100%%魔法抗性" 
+"DOTA_Tooltip_modifier_Advanced_fates_edict_debuff"                   "高阶命运敕令"
+"DOTA_Tooltip_modifier_Advanced_fates_edict_debuff_Description"                   "缴械"     
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Electric_Induction_triger"                   "感电"
+"DOTA_Tooltip_modifier_creeps_spell_Electric_Induction_triger_Description"                   "持续性吸引周围敌人且造成伤害"     
+
+
+"DOTA_Tooltip_modifier_Primary_Bulwark"                   "低阶护身甲盾"
+"DOTA_Tooltip_modifier_Primary_Bulwark_Description"                   "抵挡来自正面与侧面的部分伤害"     
+
+"DOTA_Tooltip_modifier_Middle_Bulwark"                   "中阶护身甲盾"
+"DOTA_Tooltip_modifier_Middle_Bulwark_Description"                   "抵挡来自正面与侧面的部分伤害"  
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Resonance_Pulse_physical_buff"                   "共鸣脉冲"
+"DOTA_Tooltip_modifier_creeps_spell_Resonance_Pulse_physical_buff_Description"                   "赋予护盾，抵挡伤害"       
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_in_path_debuff"                   "荆棘之路"
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_in_path_debuff_Description"                   "缠绕，无法移动"      
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Desolate_debuff"                   "沙鲁之击"
+"DOTA_Tooltip_modifier_Advanced_Desolate_debuff_Description"                   "破坏被动技能"  
+
+"DOTA_Tooltip_modifier_Advanced_Desolate_debuff2"                   "灵魂撕裂"
+"DOTA_Tooltip_modifier_Advanced_Desolate_debuff2_Description"                   "减少魔法抗性与护甲"    
+
+"DOTA_Tooltip_modifier_Advanced_dragon_blood_active"                   "龙化"
+"DOTA_Tooltip_modifier_Advanced_dragon_blood_active_Description"                   "赋予生命恢复护甲加成并免疫普通魔法"    
+
+
+ 
+
+"DOTA_Tooltip_modifier_Primary_kraken_shell"                   "低阶海妖外壳"
+"DOTA_Tooltip_modifier_Primary_kraken_shell_Description"                   "赋予伤害格挡，受到伤害到达临界值时驱散自身负面状态"   
+
+"DOTA_Tooltip_modifier_Middle_kraken_shell"                   "中阶海妖外壳"
+"DOTA_Tooltip_modifier_Middle_kraken_shell_Description"                   "赋予伤害格挡，受到伤害到达临界值时驱散自身负面状态"    
+"DOTA_Tooltip_modifier_Middle_kraken_shell_active"                   "强抵挡"
+"DOTA_Tooltip_modifier_Middle_kraken_shell_active_Description"                   "赋予双倍伤害抵挡"     
+
+"DOTA_Tooltip_modifier_Advanced_kraken_shell"                   "高阶海妖外壳"
+"DOTA_Tooltip_modifier_Advanced_kraken_shell_Description"                   "赋予伤害格挡，受到伤害到达临界值时驱散自身负面状态"    
+"DOTA_Tooltip_modifier_Advanced_kraken_shell_active"                   "强抵挡"
+"DOTA_Tooltip_modifier_Advanced_kraken_shell_active_Description"                   "赋予双倍伤害抵挡"     
+
+
+        "DOTA_Tooltip_modifier_Advanced_kraken_shell_arua_effect"                   "领域抵挡"
+"DOTA_Tooltip_modifier_Advanced_kraken_shell_arua_effect_Description"                   "赋予伤害抵挡"   
+
+"DOTA_Tooltip_modifier_Primary_reactive_armor_active"                   "低阶活性护甲"
+"DOTA_Tooltip_modifier_Primary_reactive_armor_active_Description"                   "赋予生命恢复护甲加成"   
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active"                   "中阶活性护甲"
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_Description"                   "赋予生命恢复护甲加成"   
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active"                   "高阶活性护甲"
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_Description"                   "赋予生命恢复护甲加成"   
+
+
+
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_physical"                   "伤害适配·物理"
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_physical_Description"        "赋予物理伤害减免"   
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_magical"                   "伤害适配·魔法"
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_magical_Description"        "赋予魔法伤害减免"   
+
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_physical"                   "伤害适配·物理"
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_physical_Description"        "赋予物理伤害减免"   
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_magical"                   "伤害适配·魔法"
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_magical_Description"        "赋予魔法伤害减免"   
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_shapeshift_transform"                   "低阶狼形态"
+"DOTA_Tooltip_modifier_Primary_shapeshift_transform_Description"        "赋予战斗能力提升"   
+
+"DOTA_Tooltip_modifier_Middle_shapeshift_transform"                   "中阶狼形态"
+"DOTA_Tooltip_modifier_Middle_shapeshift_transform_Description"        "赋予战斗能力提升"   
+
+
+"DOTA_Tooltip_modifier_Advanced_shapeshift_transform"                   "高阶狼形态"
+"DOTA_Tooltip_modifier_Advanced_shapeshift_transform_Description"        "赋予战斗能力提升"   
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_true_form_transform"                   "低阶熊形态"
+"DOTA_Tooltip_modifier_Primary_true_form_transform_Description"       "赋予战斗能力提升" 
+"DOTA_Tooltip_modifier_Middle_true_form_transform"                   "中阶熊形态"
+"DOTA_Tooltip_modifier_Middle_true_form_transform_Description"       "赋予战斗能力提升" 
+"DOTA_Tooltip_modifier_Advanced_true_form_transform"                   "高阶熊形态"
+"DOTA_Tooltip_modifier_Advanced_true_form_transform_Description"       "赋予战斗能力提升" 
+
+
+"DOTA_Tooltip_modifier_Advanced_true_form_debuff"                   "战场支配"
+"DOTA_Tooltip_modifier_Advanced_true_form_debuff_Description"       "造成伤害降低" 
+
+
+"DOTA_Tooltip_modifier_Primary_metamorphosis_transform"                   "低阶魔化"
+"DOTA_Tooltip_modifier_Primary_metamorphosis_transform_Description"       "赋予战斗能力提升" 
+"DOTA_Tooltip_modifier_Middle_metamorphosis_transform"                   "中阶魔化"
+"DOTA_Tooltip_modifier_Middle_metamorphosis_transform_Description"       "赋予战斗能力提升" 
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_transform"                   "高阶魔化"
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_transform_Description"       "赋予战斗能力提升"      
+
+"DOTA_Tooltip_modifier_Middle_metamorphosis_transform_debuff"                   "邪恶契约"
+"DOTA_Tooltip_modifier_Middle_metamorphosis_transform_debuff_Description"       "被魔化吸取了全属性" 
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_transform_debuff"                   "邪恶契约"
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_transform_debuff_Description"       "被魔化吸取了全属性" 
+
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform"                   "高阶魔神形态"
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_Description"       "赋予魔法能力提升" 
+"DOTA_Tooltip_modifier_Primary_chaos_form_transform"                   "低阶魔神形态"
+"DOTA_Tooltip_modifier_Primary_chaos_form_transform_Description"       "赋予魔法能力提升"  
+"DOTA_Tooltip_modifier_Middle_chaos_form_transform"                   "中阶魔神形态"
+"DOTA_Tooltip_modifier_Middle_chaos_form_transform_Description"       "赋予魔法能力提升" 
+
+"DOTA_Tooltip_modifier_Primary_counterspell_effect"                   "魔法反制"
+"DOTA_Tooltip_modifier_Primary_counterspell_effect_Description"       "此单位受到的伤害将会被转移一部分" 
+"DOTA_Tooltip_modifier_Middle_counterspell_effect"                   "魔法反制"
+"DOTA_Tooltip_modifier_Middle_counterspell_effect_Description"       "此单位受到的伤害将会被转移一部分" 
+"DOTA_Tooltip_modifier_Advanced_counterspell_effect"                   "魔法反制"
+"DOTA_Tooltip_modifier_Advanced_counterspell_effect_Description"       "此单位受到的伤害将会被转移一部分" 
+
+"DOTA_Tooltip_modifier_Primary_reincarnation_debuff"                   "重生虚弱"
+"DOTA_Tooltip_modifier_Primary_reincarnation_debuff_Description"       "短时间内降低全属性"
+"DOTA_Tooltip_modifier_Middle_reincarnation_debuff"                   "重生虚弱"
+"DOTA_Tooltip_modifier_Middle_reincarnation_debuff_Description"       "短时间内降低全属性"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff"                   "重生虚弱"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff_Description"       "短时间内降低全属性"
+
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff_enemy"                   "灵气释放"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff_enemy_Description"       "被大幅度减速且沉默"
+
+"DOTA_Tooltip_modifier_Advanced_reincarnation_active"                   "灵魂存续"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_active_Description"       "仍然可以战斗一段时间"
+"DOTA_Tooltip_modifier_Middle_reincarnation_active"                   "灵魂存续"
+"DOTA_Tooltip_modifier_Middle_reincarnation_active_Description"       "仍然可以战斗一段时间"
+
+"DOTA_Tooltip_modifier_Middle_reincarnation_weak"                   "极度虚弱"
+"DOTA_Tooltip_modifier_Middle_reincarnation_weak_Description"       "全属性被归零"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_weak"                   "极度虚弱"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_weak_Description"       "全属性被归零"
+
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_Agility_Gain"                   "迅敏特化"
+
+"DOTA_Tooltip_modifier_creep_special_gain_Damage_Gain"                   "攻击特化"
+"DOTA_Tooltip_modifier_creep_special_gain_Rage"                   "暴躁"
+
+"DOTA_Tooltip_modifier_creep_special_gain_Shrink"                   "龟缩"
+
+"DOTA_Tooltip_modifier_creep_special_gain_phase"                   "相位"
+
+"DOTA_Tooltip_modifier_creep_special_gain_heal_suppression_aura"                   "失效力场"
+
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_mana_gain"                   "魔力特化"
+"DOTA_Tooltip_modifier_creep_special_gain_shallow_grave"   "薄葬"
+
+"DOTA_Tooltip_modifier_creep_special_gain_good_climber"                   "攀爬好手"
+
+"DOTA_Tooltip_modifier_item_hd_saurian_fasciculus"                   "束缚"
+"DOTA_Tooltip_modifier_creep_special_gain_Perseverance"                   "坚毅"
+"DOTA_Tooltip_modifier_creep_special_gain_Perseverance2"                   "坚毅(精英)"
+
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_life_stealer_feast"                   "盛宴"
+
+"DOTA_Tooltip_modifier_creep_special_gain_counterspell_reflect"                   "法术抵抗"
+"DOTA_Tooltip_modifier_creep_special_gain_earthshaker_echo_slam"   "反分裂领域"
+"DOTA_Tooltip_modifier_creep_special_gain_eva_Gain"   "模糊"
+"DOTA_Tooltip_modifier_creep_special_gain_StatusGain_reduce"   "福佑损毁"
+"DOTA_Tooltip_modifier_creep_special_gain_StatusNegativeGain_reduce"   "诅咒损毁"   
+"DOTA_Tooltip_modifier_creep_special_gain_LifeStealGain_reduce"   "嗜血损毁"   
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_life_steal"   "生命摄取无效化"   
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_split_attack"   "分裂箭无效化"   
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_Shield"   "护盾破坏" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_health_regen"   "生命禁用" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_magic"   "魔力反噬"  
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message"   "虚假情报" 
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_pre"   "虚假情报开启中……" 
+
+"DOTA_Tooltip_modifier_creep_special_gain_anti_time_arua"   "反时间领域" 
+"DOTA_Tooltip_modifier_creep_special_gain_Painful_last_wish"   "痛苦遗愿" 
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_Painful_last_wish_active"                   "痛苦遗愿"
+"DOTA_Tooltip_modifier_creep_special_gain_Painful_last_wish_active_Description"       "赋予加害者痛苦" 
+"DOTA_Tooltip_modifier_creep_special_gain_anti_time_arua_active"                   "反时间领域"
+"DOTA_Tooltip_modifier_creep_special_gain_anti_time_arua_active_Description"       "位于区域内的敌人将被持续性增加技能冷却时间" 
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_on"                   "虚假情报"
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_on_Description"       "此时攻击自身的单位将被缴械" 
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_active"                   "虚假情报"
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_active_Description"       "被虚假情报所欺骗，暂时无法攻击" 
+
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_magic_active"                   "魔力反噬"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_magic_active_Description"       "技能伤害受到了削弱" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_health_regen_arua"                   "生命禁用"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_health_regen_arua_Description"       "达到6层后无法恢复生命值" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_Shield_active"                   "护盾破坏"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_Shield_active_Description"       "无效化护盾效果" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_life_steal_active"                   "生命摄取无效化"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_life_steal_active_Description"       "无法造成吸血效果" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_split_attack_active"                   "分裂箭无效化"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_split_attack_active_Description"       "无法触发分裂箭"  
+"DOTA_Tooltip_modifier_creep_special_gain_heal_suppression"                   "失效"
+"DOTA_Tooltip_modifier_creep_special_gain_heal_suppression_Description"       "受到治疗效果被削弱了"  
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_heal_death_delay_active"                   "死亡延迟"
+"DOTA_Tooltip_modifier_creep_special_gain_heal_death_delay_active_Description"       "仍然可以战斗一段时间"  
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_shallow_grave_active"                   "薄葬激活"
+"DOTA_Tooltip_modifier_creep_special_gain_shallow_grave_active_Description"       "在一段时间内不会死亡"       
+
+
+
+"DOTA_Tooltip_modifier_item_hd_saurian_fasciculus_active"                   "束缚"
+"DOTA_Tooltip_modifier_item_hd_saurian_fasciculus_active_Description"       "被拉扯向另外一个友军"   
+
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_earthshaker_echo_slam_arua"                   "分裂禁用"
+"DOTA_Tooltip_modifier_creep_special_gain_earthshaker_echo_slam_arua_Description"       "无法触发分裂攻击"  
+
+"DOTA_Tooltip_modifier_creep_special_gain_StatusGain_reduce_active"                   "福佑损毁"
+"DOTA_Tooltip_modifier_creep_special_gain_StatusGain_reduce_active_Description"       "减少正面状态持续时间增强效果"  
+
+"DOTA_Tooltip_modifier_creep_special_gain_StatusNegativeGain_reduce_active"                   "诅咒损毁"
+"DOTA_Tooltip_modifier_creep_special_gain_StatusNegativeGain_reduce_active_Description"       "减少负面状态持续时间增强增强效果"
+"DOTA_Tooltip_modifier_creep_special_gain_LifeStealGain_reduce_active"                   "嗜血损毁"
+"DOTA_Tooltip_modifier_creep_special_gain_LifeStealGain_reduce_active_Description"       "减少吸血效果"   
+
+"DOTA_Tooltip_modifier_creeps_spell_Power_Core_buff"                   "狂暴"
+"DOTA_Tooltip_modifier_creeps_spell_Power_Core_buff_Description"       "太过于远离能量核心，元素体狂暴了"  
+
+
+
+"DOTA_Tooltip_modifier_item_hd_glimmer_cape_active"       "微光潜行"    
+"DOTA_Tooltip_modifier_item_hd_glimmer_cape_active_Description"       "赋予隐身且减免部分伤害"    
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_rage"       "低阶狂暴"    
+"DOTA_Tooltip_modifier_Primary_rage_Description"       "赋予魔法免疫与移动速度提升"    
+
+"DOTA_Tooltip_modifier_Middle_rage"       "中阶狂暴"    
+"DOTA_Tooltip_modifier_Middle_rage_Description"       "赋予魔法免疫与移动速度提升,且击杀单位可获得生命恢复"  
+
+"DOTA_Tooltip_modifier_Advanced_rage"       "高阶狂暴"    
+"DOTA_Tooltip_modifier_Advanced_rage_Description"       "赋予魔法免疫与移动速度提升,且击杀单位可获得生命恢复"     
+
+
+
+"DOTA_Tooltip_modifier_Primary_enrage"       "低阶激怒"    
+"DOTA_Tooltip_modifier_Primary_enrage_Description"       "赋予伤害减免与状态抗性"    
+
+"DOTA_Tooltip_modifier_Middle_enrage"       "中阶激怒"    
+"DOTA_Tooltip_modifier_Middle_enrage_Description"      "赋予伤害减免与状态抗性"  
+
+"DOTA_Tooltip_modifier_Advanced_enrage"       "高阶激怒"    
+"DOTA_Tooltip_modifier_Advanced_enrage_Description"       "赋予伤害减免与状态抗性"   
+
+"DOTA_Tooltip_modifier_Middle_take_aim"       "中阶瞄准"    
+"DOTA_Tooltip_modifier_Middle_take_aim_Description"      "赋予攻击距离加成"  
+
+"DOTA_Tooltip_modifier_Advanced_take_aim"       "高阶瞄准"    
+"DOTA_Tooltip_modifier_Advanced_take_aim_Description"       "赋予攻击距离加成"  
+
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_passive"       "高阶刚毛后背"    
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_passive_Description"       "赋予受到伤害减免"  
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_debuff"       "刺针"    
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_debuff_Description"       "受到额外的刺针伤害" 
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_debuff"       "高阶幽冥护罩"    
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_debuff_Description"       "减缓移速且附加负面状态持续时间增强" 
+
+
+"DOTA_Tooltip_modifier_Advanced_borrowed_time_handler"       "高阶回光返照"    
+"DOTA_Tooltip_modifier_Advanced_borrowed_time_handler_Description"       "低生命值时会自动开启技能" 
+
+"DOTA_Tooltip_modifier_Advanced_dragon_blood"       "高阶龙族血统"    
+"DOTA_Tooltip_modifier_Advanced_dragon_blood_Description"       "赋予生命恢复与护甲提升" 
+"DOTA_Tooltip_modifier_Advanced_counterspell_trigger_buff"       "法术吸收"    
+"DOTA_Tooltip_modifier_Advanced_counterspell_trigger_buff_Description"       "赋予抵挡指向性技能能力" 
+
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff2"       "灵魂漫步"    
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff2_Description"       "削弱魔法抗性与护甲" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Dual_Breath_debuff2"       "冻结"    
+"DOTA_Tooltip_modifier_Advanced_Dual_Breath_debuff2_Description"       "被冻结，无法行动" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Static_Field_debuff"       "电离辐射"    
+"DOTA_Tooltip_modifier_Advanced_Static_Field_debuff_Description"       "减少部分魔法抗性" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_buff"       "通电"    
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_buff_Description"       "赋予技能伤害提升" 
+
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_buff"       "魔神之眼"    
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_buff_Description"       "赋予施法距离、视野范围巨额提升" 
+
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_shield"       "魔力护盾"    
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_shield_Description"       "赋予伤害抵挡" 
+
+"DOTA_Tooltip_modifier_creeps_spell_Prey_charge"       "捕食待发"    
+"DOTA_Tooltip_modifier_creeps_spell_Prey_charge_Description"       "准备攻击中" 
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Warpath_buff"       "天神下凡"    
+"DOTA_Tooltip_modifier_Advanced_Warpath_buff_Description"       "赋予免疫魔法伤害" 
+
+"DOTA_Tooltip_modifier_Advanced_false_promise_timer"       "高阶虚妄之诺"    
+"DOTA_Tooltip_modifier_Advanced_false_promise_timer_Description"       "赋予伤害暂缓结算" 
+"DOTA_Tooltip_modifier_Primary_false_promise_timer"       "低阶虚妄之诺"    
+"DOTA_Tooltip_modifier_Primary_false_promise_timer_Description"       "赋予伤害暂缓结算" 
+"DOTA_Tooltip_modifier_Middle_false_promise_timer"       "中阶虚妄之诺"    
+"DOTA_Tooltip_modifier_Middle_false_promise_timer_Description"       "赋予伤害暂缓结算" 
+
+
+"DOTA_Tooltip_modifier_fool_power"       "傻之力"    
+"DOTA_Tooltip_modifier_fool_power_Description"       "这位玩家比较傻，还请各位多多照顾。赋予了额外的全属性，金币奖励，等级奖励以及技能伤害，魔法抗性" 
+
+"DOTA_Tooltip_modifier_wolf_power"       "孤傲者赐福"    
+"DOTA_Tooltip_modifier_wolf_power_Description"       "·单人玩家被赋予了额外的初始全属性，技能增强，魔法抗性，每8秒施加一次强驱散<br><br>·回合结算时额外获得10%%金币奖励(乘法叠加)，偶数回合额外获得一次等级提升<br><br>·可以有三次复活机会，于死亡2秒后(在挑战排行榜的情况下每关开始时如果没有复活次数,每2回合可以补充1次,但会产生惩罚，具体查看排行榜的魔晶图标说明)<br><br>·出售技能返还所有技能点<br><br>·所有伤害提升(普通难度+1.5*试炼难度)*4%%<br><br>·乱纪元模式下获得20%%伤害总增和伤害减免" 
+"DOTA_Tooltip_modifier_it_takes_two"       "双人成行"    
+"DOTA_Tooltip_modifier_it_takes_two_Description"       "·双人玩家被赋予了额外的初始全属性，技能增强，魔法抗性，每12秒施加一次强驱散<br><br>·回合结算时额外获得8%%金币奖励(乘法叠加)<br><br>·出售技能返还所有技能点<br><br>·乱纪元模式下获得15%%伤害总增和伤害减免" 
+"DOTA_Tooltip_modifier_Trine"       "三位一体"    
+"DOTA_Tooltip_modifier_Trine_Description"       "三人玩家被赋予了额外的初始全属性，技能增强，魔法抗性" 
+
+"DOTA_Tooltip_modifier_Shop_king_of_challenge1"       "无尽苦难1"    
+"DOTA_Tooltip_modifier_Shop_king_of_challenge1_Description"       "陷于无尽的苦难之中而无法重回物质位面" 
+"DOTA_Tooltip_modifier_Shop_king_of_challenge2"       "无尽苦难2"    
+"DOTA_Tooltip_modifier_Shop_king_of_challenge2_Description"       "陷于无尽的苦难之中而无法重回物质位面" 
+"DOTA_Tooltip_modifier_Shop_king_of_challenge3"       "无尽苦难3"    
+"DOTA_Tooltip_modifier_Shop_king_of_challenge3_Description"       "陷于无尽的苦难之中而无法重回物质位面" 
+
+
+"DOTA_Tooltip_modifier_Sleeping_king"       "睡王"    
+"DOTA_Tooltip_modifier_Sleeping_king_Description"       "这位玩家常年在睡觉，减缓了攻击速度与移动速度，但输出能力有了较大提升" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_mana_shield"       "高阶魔法盾"    
+"DOTA_Tooltip_modifier_Advanced_mana_shield_Description"       "赋予伤害减免" 
+"DOTA_Tooltip_modifier_Primary_mana_shield"       "低阶魔法盾"    
+"DOTA_Tooltip_modifier_Primary_mana_shield_Description"       "赋予伤害减免" 
+"DOTA_Tooltip_modifier_Middle_mana_shield"       "中阶魔法盾"    
+"DOTA_Tooltip_modifier_Middle_mana_shield_Description"       "赋予伤害减免" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_split_shot"       "高阶分裂箭"    
+"DOTA_Tooltip_modifier_Advanced_split_shot_Description"       "赋予分裂攻击能力" 
+"DOTA_Tooltip_modifier_Primary_split_shot"       "低阶分裂箭"    
+"DOTA_Tooltip_modifier_Primary_split_shot_Description"       "赋予分裂攻击能力" 
+"DOTA_Tooltip_modifier_Middle_split_shot"       "中阶分裂箭"    
+"DOTA_Tooltip_modifier_Middle_split_shot_Description"       "赋予分裂攻击能力" 
+
+
+"DOTA_Tooltip_modifier_Advanced_repel"       "高阶天国恩赐"    
+"DOTA_Tooltip_modifier_Advanced_repel_Description"       "赋予战斗能力提升" 
+"DOTA_Tooltip_modifier_Middle_repel"       "中阶天国恩赐"    
+"DOTA_Tooltip_modifier_Middle_repel_Description"       "赋予战斗能力提升" 
+"DOTA_Tooltip_modifier_Primary_repel"       "低阶天国恩赐"    
+"DOTA_Tooltip_modifier_Primary_repel_Description"       "赋予战斗能力提升" 
+
+
+"DOTA_Tooltip_modifier_Middle_earth_spike"       "地狱之息"    
+"DOTA_Tooltip_modifier_Middle_earth_spike_Description"       "持续时间内死亡将触发额外效果" 
+"DOTA_Tooltip_modifier_Advanced_earth_spike"       "地狱之息"    
+"DOTA_Tooltip_modifier_Advanced_earth_spike_Description"       "持续时间内死亡将触发额外效果" 
+
+
+"DOTA_Tooltip_modifier_Advanced_earth_spike_gain"       "潜影之灵"    
+"DOTA_Tooltip_modifier_Advanced_earth_spike_gain_Description"       "赋予本技能伤害增强" 
+"DOTA_Tooltip_modifier_ChallengeInfo_010_debuff"       "脑虫"    
+"DOTA_Tooltip_modifier_ChallengeInfo_010_debuff_Description"       "被沉默且破坏被动" 
+"DOTA_Tooltip_modifier_ChallengeInfo_012_effect"       "化学狂暴"    
+"DOTA_Tooltip_modifier_ChallengeInfo_012_effect_Description"       "赋予大幅度攻速增加" 
+    "DOTA_Tooltip_modifier_ChallengeInfo_013_effect"       "死亡自爆"    
+"DOTA_Tooltip_modifier_ChallengeInfo_013_effect_Description"       "死亡后将对周围敌人造成大量伤害" 
+
+
+        "DOTA_Tooltip_modifier_ChallengeInfo_014_debuff"       "死神诅咒"    
+"DOTA_Tooltip_modifier_ChallengeInfo_014_debuff_Description"       "击杀敌人后会受到基于损失生命值的伤害" 
+
+        "DOTA_Tooltip_modifier_nevermore_challenge_dark_lord_effect"       "魔王降临"    
+"DOTA_Tooltip_modifier_nevermore_challenge_dark_lord_effect_Description"       "基础护甲被大幅度降低" 
+
+
+
+
+"DOTA_Tooltip_modifier_slark_challenge_pounce_debuff"       "突袭"    
+"DOTA_Tooltip_modifier_slark_challenge_pounce_debuff_Description"       "被束缚无法移动" 
+"DOTA_Tooltip_modifier_slark_challenge_essence_shift"       "能量转移"    
+"DOTA_Tooltip_modifier_slark_challenge_essence_shift_Description"       "赋予攻击速度加成" 
+"DOTA_Tooltip_modifier_slark_challenge_essence_shift_debuff"       "能量转移"    
+"DOTA_Tooltip_modifier_slark_challenge_essence_shift_debuff_Description"       "全属性被削减" 
+"DOTA_Tooltip_modifier_slark_challenge_shadow_dance"       "暗影之舞"    
+"DOTA_Tooltip_modifier_slark_challenge_shadow_dance_Description"       "赋予生命值低时隐身的能力" 
+
+"DOTA_Tooltip_modifier_Advanced_purification"       "圣礼"    
+"DOTA_Tooltip_modifier_Advanced_purification_Description"       "赋予伤害抗性" 
+
+"DOTA_Tooltip_modifier_creeps_spell_reverse_polarity_rebuild"       "两极反转·世界重铸"    
+"DOTA_Tooltip_modifier_creeps_spell_reverse_polarity_rebuild_Description"       "施法中" 
+
+"DOTA_Tooltip_modifier_creeps_spell_skewer"       "巨角冲撞"    
+"DOTA_Tooltipmodifier_creeps_spell_skewer_Description"       "沿途带动所有敌人" 
+"DOTA_Tooltip_modifier_creeps_spell_skewer_slow"       "巨角冲撞"    
+"DOTA_Tooltip_modifier_creeps_spell_skewer_slow_Description"       "被赋予减速" 
+
+"DOTA_Tooltip_modifier_creeps_spell_shockwave"       "震荡波"    
+"DOTA_Tooltip_modifier_creeps_spell_shockwave_Description"       "被赋予减速" 
+
+
+"DOTA_Tooltip_modifier_Primary_unleash"       "低阶怒拳破"    
+"DOTA_Tooltip_modifier_Primary_unleash_Description"       "大幅度提升战斗能力" 
+"DOTA_Tooltip_modifier_Primary_unleash_fury"       "低阶怒拳破"    
+"DOTA_Tooltip_modifier_Primary_unleash_fury_Description"       "大幅度提升攻击速度" 
+"DOTA_Tooltip_modifier_Primary_unleash_recovery"       "低阶怒拳破回复中"    
+"DOTA_Tooltip_modifier_Primary_unleash_debuff"       "低阶怒拳破"    
+"DOTA_Tooltip_modifier_Primary_unleash_debuff_Description"       "减缓攻击速度与移动速度" 
+
+
+"DOTA_Tooltip_modifier_Middle_unleash"       "中阶怒拳破"    
+"DOTA_Tooltip_modifier_Middle_unleash_Description"       "大幅度提升战斗能力" 
+"DOTA_Tooltip_modifier_Middle_unleash_fury"       "中阶怒拳破"    
+"DOTA_Tooltip_modifier_Middle_unleash_fury_Description"       "大幅度提升攻击速度" 
+"DOTA_Tooltip_modifier_Middle_unleash_recovery"       "中阶怒拳破回复中"    
+"DOTA_Tooltip_modifier_Middle_unleash_debuff"       "中阶怒拳破"    
+"DOTA_Tooltip_modifier_Middle_unleash_debuff_Description"       "减缓攻击速度与移动速度" 
+
+
+"DOTA_Tooltip_modifier_Advanced_unleash"       "高阶怒拳破"    
+"DOTA_Tooltip_modifier_Advanced_unleash_Description"       "大幅度提升战斗能力" 
+"DOTA_Tooltip_modifier_Advanced_unleash_fury"       "高阶怒拳破"    
+"DOTA_Tooltip_modifier_Advanced_unleash_fury_Description"       "大幅度提升攻击速度" 
+"DOTA_Tooltip_modifier_Advanced_unleash_recovery"       "高阶怒拳破回复中"    
+"DOTA_Tooltip_modifier_Advanced_unleash_debuff"       "高阶怒拳破"    
+"DOTA_Tooltip_modifier_Advanced_unleash_debuff_Description"       "减缓攻击速度与移动速度" 
+
+"DOTA_Tooltip_modifier_creeps_spell_Wind_Howled_silend"       "狂风呼啸"    
+"DOTA_Tooltip_modifier_creeps_spell_Wind_Howled_silend_Description"       "被沉默" 
+
+"DOTA_Tooltip_modifier_Primary_aether_remnant"       "低阶残阴"    
+"DOTA_Tooltip_modifier_Primary_aether_remnant_Description"       "被拉扯" 
+"DOTA_Tooltip_modifier_Middle_aether_remnant"       "中阶残阴"    
+"DOTA_Tooltip_modifier_Middle_aether_remnant_Description"       "被拉扯" 
+"DOTA_Tooltip_modifier_Advanced_aether_remnant"       "高阶残阴"    
+"DOTA_Tooltip_modifier_Advanced_aether_remnant_Description"       "被拉扯" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_dissimilate"       "低阶异化"    
+"DOTA_Tooltip_modifier_Primary_dissimilate_Description"       "隐藏于其他位面" 
+"DOTA_Tooltip_modifier_Middle_dissimilate"       "中阶异化"    
+"DOTA_Tooltip_modifier_Middle_dissimilate_Description"       "隐藏于其他位面" 
+"DOTA_Tooltip_modifier_Advanced_dissimilate"       "高阶异化"    
+"DOTA_Tooltip_modifier_Advanced_dissimilate_Description"       "隐藏于其他位面" 
+
+
+"DOTA_Tooltip_modifier_Primary_astral_step"       "低阶太虚之径"    
+"DOTA_Tooltip_modifier_Primary_astral_step_Description"       "一段时间后爆炸" 
+"DOTA_Tooltip_modifier_Middle_astral_step"       "中阶太虚之径"    
+"DOTA_Tooltip_modifier_Middle_astral_step_Description"       "一段时间后爆炸" 
+"DOTA_Tooltip_modifier_Advanced_astral_step"       "高阶太虚之径"    
+"DOTA_Tooltip_modifier_Advanced_astral_step_Description"       "一段时间后爆炸" 
+
+"DOTA_Tooltip_modifier_Advanced_astral_step_buff"       "高阶太虚之径"    
+"DOTA_Tooltip_modifier_Advanced_astral_step_buff_Description"       "赋予隐身" 
+"DOTA_Tooltip_modifier_Advanced_astral_step_buff2"       "高阶太虚之径"    
+"DOTA_Tooltip_modifier_Advanced_astral_step_buff2_Description"       "赋予短时间内的太虚之径额外能力" 
+
+"DOTA_Tooltip_modifier_Middle_astral_step_buff"       "中阶太虚之径"    
+"DOTA_Tooltip_modifier_Middle_astral_step_buff_Description"       "赋予隐身" 
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_magic_blessing"       "魔力操控"    
+"DOTA_Tooltip_modifier_Middle_magic_blessing_Description"       "赋予吸收周围友军魔法的能力" 
+
+"DOTA_Tooltip_modifier_Advanced_magic_blessing"       "魔力操控"    
+"DOTA_Tooltip_modifier_Advanced_magic_blessing_Description"       "赋予吸收周围友军魔法的能力" 
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_laser_buff_2"                   "战略部署 "
+"DOTA_Tooltip_modifier_Advanced_laser_buff_2_Description"       "冷却完成后将自动释放激光" 
+
+
+"DOTA_Tooltip_modifier_Advanced_laser_buff"                   "热能集束 "
+"DOTA_Tooltip_modifier_Advanced_laser_buff_Description"       "赋予下次激光威力提升" 
+"DOTA_Tooltip_modifier_Advanced_laser"                   "高阶激光 "
+"DOTA_Tooltip_modifier_Advanced_laser_Description"       "攻击有几率丢失" 
+
+"DOTA_Tooltip_modifier_Advanced_laser_debuff2"                   "高阶激光 "
+"DOTA_Tooltip_modifier_Advanced_laser_debuff2_Description"       "攻击有几率丢失" 
+
+"DOTA_Tooltip_modifier_Primary_laser"                   "低阶激光 "
+"DOTA_Tooltip_modifier_Primary_laser_Description"       "攻击有几率丢失"  
+"DOTA_Tooltip_modifier_Middle_laser"                   "中阶激光 "
+"DOTA_Tooltip_modifier_Middle_laser_Description"       "攻击有几率丢失" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Einherjar_buff"                   "高阶英灵战士"
+
+"DOTA_Tooltip_modifier_Primary_Einherjar_buff"                   "低阶英灵战士"
+
+"DOTA_Tooltip_modifier_Middle_Einherjar_buff"                   "中阶英灵战士"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Einherjar_buff2"                   "共鸣"
+"DOTA_Tooltip_modifier_Advanced_Einherjar_buff2_Description"       "赋予敏捷提升" 
+
+
+
+
+"DOTA_Tooltip_modifier_the_last_hero"                   "最后的英雄"
+"DOTA_Tooltip_modifier_the_last_hero_Description"       "赋予全属性大幅度提升" 
+
+
+"DOTA_Tooltip_modifier_stroke_of_fate_buff"                   "沾墨"
+
+"DOTA_Tooltip_modifier_stroke_of_fate_buff2"                   "命运痕迹"
+"DOTA_Tooltip_modifier_stroke_of_fate_buff2_Description"       "状态销毁时强制移动" 
+
+"DOTA_Tooltip_modifier_Advanced_stroke_of_fate"                   "高阶命运之笔"
+"DOTA_Tooltip_modifier_Advanced_stroke_of_fate_Description"       "减缓移动速度" 
+"DOTA_Tooltip_modifier_Primary_stroke_of_fate"                   "低阶命运之笔"
+"DOTA_Tooltip_modifier_Primary_stroke_of_fate_Description"       "减缓移动速度"  
+"DOTA_Tooltip_modifier_Middle_stroke_of_fate"                   "中阶命运之笔"
+"DOTA_Tooltip_modifier_Middle_stroke_of_fate_Description"       "减缓移动速度" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_effect"                   "高阶复仇光环"
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_effect_Description"       "赋予攻击力提升" 
+"DOTA_Tooltip_modifier_Primary_Vengeance_Aura_effect"                   "低阶复仇光环"
+"DOTA_Tooltip_modifier_Primary_Vengeance_Aura_effect_Description"       "赋予攻击力提升"  
+"DOTA_Tooltip_modifier_Middle_Vengeance_Aura_effect"                   "中阶复仇光环"
+"DOTA_Tooltip_modifier_Middle_Vengeance_Aura_effect_Description"       "赋予攻击力提升" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_effect_buff"                   "龙王归来"
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_effect_buff_Description"       "赋予全属性提升" 
+
+"DOTA_Tooltip_modifier_Advanced_aftershock_buff"                   "续震"
+"DOTA_Tooltip_modifier_Advanced_aftershock_buff_Description"       "赋予余震威力提升" 
+
+"DOTA_Tooltip_modifier_wolf_challenge_Primitive_fear_effect"                   "原始恐惧"
+"DOTA_Tooltip_modifier_wolf_challenge_Primitive_fear_effect_Description"       "造成伤害减少且受到额外伤害" 
+
+"DOTA_Tooltip_modifier_Advanced_Chakra_buff"                   "过度冷却"
+"DOTA_Tooltip_modifier_Advanced_Chakra_buff_Description"       "赋予技能冷却速度增加" 
+"DOTA_Tooltip_modifier_Middle_Chakra_buff"                   "过度冷却"
+"DOTA_Tooltip_modifier_Middle_Chakra_buff_Description"       "赋予技能冷却速度增加" 
+
+    "DOTA_Tooltip_modifier_Advanced_Greevils_Greed"                   "高阶贪婪"
+"DOTA_Tooltip_modifier_Advanced_Greevils_Greed_Description"       "当前能量点" 
+
+"DOTA_Tooltip_modifier_Shop_king_of_bug"                   "BUG统御者"
+"DOTA_Tooltip_modifier_Shop_king_of_bug_Description"       "赋予全属性提升，三兄弟平衡自身为代价换来了此能力" 
+
+"DOTA_Tooltip_modifier_item_hd_poison_coat_debuff"                   "剧毒侵袭"
+"DOTA_Tooltip_modifier_item_hd_poison_coat_debuff_Description"                   "受到持续伤害且被动被破坏"
+
+
+"DOTA_Tooltip_modifier_Shop_Novice_tutor"       "新手导师"   
+"DOTA_Tooltip_modifier_Shop_Novice_tutor_Description"       "赋予5%%魔法抗性与2点护甲提升" 
+
+"DOTA_Tooltip_modifier_Shop_Publicity_Ambassador"       "宣传大使"   
+"DOTA_Tooltip_modifier_Shop_Publicity_Ambassador_Description"       "赋予4点生命恢复提升" 
+
+"DOTA_Tooltip_modifier_Shop_noob"       "坑比"   
+"DOTA_Tooltip_modifier_Shop_noob_Description"       "赋予1点全属性提升" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Voodoo_Restoration_heal"                   "高阶巫毒疗法"
+"DOTA_Tooltip_modifier_Advanced_Voodoo_Restoration_heal_Description"       "赋予生命恢复" 
+"DOTA_Tooltip_modifier_Middle_Voodoo_Restoration_heal_effect"                   "中阶巫毒疗法"
+"DOTA_Tooltip_modifier_Middle_Voodoo_Restoration_heal_effect_Description"       "赋予生命恢复" 
+"DOTA_Tooltip_modifier_Primary_Voodoo_Restoration_heal_effect"                   "低阶巫毒疗法"
+"DOTA_Tooltip_modifier_Primary_Voodoo_Restoration_heal_effect_Description"       "赋予生命恢复"  
+
+
+"DOTA_Tooltip_modifier_Advanced_Chaos_Meteor_debuff"                   "高阶混乱陨石"
+"DOTA_Tooltip_modifier_Advanced_Chaos_Meteor_debuff_Description"       "受到持续烧灼伤害" 
+"DOTA_Tooltip_modifier_Advanced_Chaos_Meteor_debuff2"                   "次级高阶混乱陨石"
+"DOTA_Tooltip_modifier_Advanced_Chaos_Meteor_debuff2_Description"       "受到持续烧灼伤害" 
+"DOTA_Tooltip_modifier_Middle_Chaos_Meteor_debuff"                   "中阶混乱陨石"
+"DOTA_Tooltip_modifier_Middle_Chaos_Meteor_debuff_Description"       "受到持续烧灼伤害" 
+"DOTA_Tooltip_modifier_Primary_Chaos_Meteor_debuff"                   "低阶混乱陨石"
+"DOTA_Tooltip_modifier_Primary_Chaos_Meteor_debuff_Description"       "受到持续烧灼伤害"  
+
+
+
+"DOTA_Tooltip_modifier_masters_players"      "资深指导者"
+"DOTA_Tooltip_modifier_masters_players_Description"     "极长的游玩时间，深刻的玩法见解，热情的指导风格，当之无愧"
+
+"DOTA_Tooltip_modifier_Shop_Dove_of_peace"                   "和平鸽"
+"DOTA_Tooltip_modifier_Shop_Dove_of_peace_Description"       "赋予2点全属性加成"  
+
+
+"DOTA_Tooltip_modifier_Shop_tool"                   "工具人"
+"DOTA_Tooltip_modifier_Shop_tool_Description"       "作者的工具人，赋予少许攻击速度与移动速度提升"  
+"DOTA_Tooltip_modifier_Shop_adviser"                   "建议人"
+"DOTA_Tooltip_modifier_Shop_adviser_Description"       "作者的建议人，赋予智力提升"  
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit_effect"                   "高阶吸血光环"
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit_effect_Description"       "赋予吸血能力" 
+"DOTA_Tooltip_modifier_Middle_Vampiric_Spirit_effect"                   "中阶吸血光环"
+"DOTA_Tooltip_modifier_Middle_Vampiric_Spirit_effect_Description"       "赋予吸血能力" 
+"DOTA_Tooltip_modifier_Primary_Vampiric_Spirit_effect"                   "低阶吸血光环"
+"DOTA_Tooltip_modifier_Primary_Vampiric_Spirit_effect_Description"       "赋予吸血能力"  
+
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit_buff"                   "生命储蓄"
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit_buff_Description"       "当受伤时恢复自己"
+
+"DOTA_Tooltip_modifier_Advanced_shockwave"                   "高阶震荡波"
+"DOTA_Tooltip_modifier_Advanced_shockwave_Description"       "减缓移速" 
+"DOTA_Tooltip_modifier_Advanced_shockwave_debuff"                   "PTSD"
+"DOTA_Tooltip_modifier_Advanced_shockwave_debuff_Description"       "下次受到震荡波伤害提高" 
+"DOTA_Tooltip_modifier_Middle_shockwave"                   "中阶震荡波"
+"DOTA_Tooltip_modifier_Middle_shockwave_Description"       "减缓移速" 
+"DOTA_Tooltip_modifier_Primary_shockwave"                   "低阶震荡波"
+"DOTA_Tooltip_modifier_Primary_shockwave_Description"       "减缓移速"  
+
+
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment"                   "高阶星体禁锢"
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_Description"       "被禁锢在星体之中" 
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_buff"                   "殁境庇护所"
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_buff_Description"       "被禁锢在星体之中" 
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_debuff"                   "天体囚牢"
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_debuff_Description"       "被禁锢在星体之中" 
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment"                   "高阶星体禁锢"
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_Description"       "被禁锢在星体之中" 
+
+"DOTA_Tooltip_modifier_Middle_astral_imprisonment"                   "中阶星体禁锢"
+"DOTA_Tooltip_modifier_Middle_astral_imprisonment_Description"       "被禁锢在星体之中" 
+"DOTA_Tooltip_modifier_Primary_astral_imprisonment"                   "低阶星体禁锢"
+"DOTA_Tooltip_modifier_Primary_astral_imprisonment_Description"       "被禁锢在星体之中"  
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_summon_water_element_buff"                   "生生不息"
+"DOTA_Tooltip_modifier_Middle_summon_water_element_buff_Description"       "赋予生命恢复的机会" 
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff"                   "生生不息"
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff_Description"       "赋予生命恢复的机会" 
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff2"                   "源远流长"
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff2_Description"       "赋予攻击力增幅" 
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff4"                   "渗透作用"
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff4_Description"       "赋予攻击速度提升" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_monkey_king_3"     "斗战技艺计数"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_monkey_king_3_active"     "斗战之势"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_monkey_king_3_active_Description"     "赋予强化攻击"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_imag"   "虚数潜航"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_imag_Description"   "移动速度提升，积蓄力量"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_qed"   "实数证明"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_qed_Description"   "刚从虚数维度显现，正在缓冲"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_shadow_demon_debuff"     "暗影剧毒"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_shadow_demon_debuff_Description"     "基础攻击力降低，状态抗性降低"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_silencer_int"                   "言语吸收"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_silencer_int_Description"       "通过吸收言语获得了智力" 
+
+"DOTA_Tooltip_modifier_hd_poison"                   "中毒"
+"DOTA_Tooltip_modifier_hd_poison_Description"       "该单位中毒了，每秒受到%dMODIFIER_PROPERTY_TOOLTIP%点魔法伤害。" 
+
+"DOTA_Tooltip_modifier_item_hd_bullwhip"                   "快乐"
+"DOTA_Tooltip_modifier_item_hd_bullwhip_Description"       "攻击速度和移动速度得到提升" 
+
+"DOTA_Tooltip_modifier_item_hd_mekansm_active"                   "生命保险"
+"DOTA_Tooltip_modifier_item_hd_mekansm_active_Description"       "梅肯斯姆维系着你的生命" 
+
+"DOTA_Tooltip_modifier_item_hd_evil_coat_active"                   "死咒"
+"DOTA_Tooltip_modifier_item_hd_evil_coat_active_Description"       "你的手抬不起来了" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_antimage"                   "闪现时刻"

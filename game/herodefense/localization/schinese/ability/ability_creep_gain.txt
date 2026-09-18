@@ -1,0 +1,307 @@
+
+"DOTA_Tooltip_ability_creep_special_gain_Energy_Gain"	"体能透支"
+"DOTA_Tooltip_ability_creep_special_gain_Energy_Gain_Description"	"最大生命值增加%bonus_hp_max%% ，但是每次受到直接伤害时都会叠加%each_incoming_up%% 易伤效果。"
+"DOTA_Tooltip_ability_creep_special_gain_Energy_Gain_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_modifier_creep_special_gain_Energy_Gain"                   "体能透支"
+"DOTA_Tooltip_modifier_creep_special_gain_Energy_Gain_Description"        "受到的伤害增加%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_Tooltip_ability_creep_special_gain_Armor_Gain"	"简陋地精装甲-物理"
+"DOTA_Tooltip_ability_creep_special_gain_Armor_Gain_Description"	"受到的物理伤害降低%incoming_down%% ，但是被破坏被动时装甲会过载，不再提供伤害减免，而是使自身受到的物理伤害增加%break_incoming_up%% 。"
+"DOTA_Tooltip_ability_creep_special_gain_Armor_Gain_Lore"	"早就跟你说了！这玩意不是能随便捡来用的！"
+"DOTA_Tooltip_modifier_creep_special_gain_Armor_Gain"	"简陋地精装甲-物理"
+"DOTA_Tooltip_modifier_creep_special_gain_Armor_Gain_Description"	"求你了，别打坏他！"
+
+"DOTA_Tooltip_ability_creep_special_gain_nihility"	"虚无馈赠"
+"DOTA_Tooltip_ability_creep_special_gain_nihility_Description"	"每隔一段时间进入不会缴械的虚无状态，但是会降低自身%magic_res_down%% 魔法抗性。\n<font color=\"#606060\">破坏不会封禁这个技能，而是使其持续时间降低一半；<br>沉默不会封禁这个技能，而是使其持续时间降低一半。</font>"
+"DOTA_Tooltip_ability_creep_special_gain_nihility_Lore"	"古老知识的馈赠。"
+"DOTA_Tooltip_modifier_creep_special_gain_nihility_buff"                   "虚无"
+"DOTA_Tooltip_modifier_creep_special_gain_nihility_buff_Description"       "暂时性免疫物理伤害但受到额外魔法伤害"
+"DOTA_Tooltip_modifier_creep_special_gain_nihility"                   "虚无馈赠"
+"DOTA_Tooltip_modifier_creep_special_gain_nihility_Description"                   "间隔性进入虚无状态"
+
+"DOTA_Tooltip_ability_creep_special_gain_insulator"	"简陋地精装甲-魔法"
+"DOTA_Tooltip_ability_creep_special_gain_insulator_Description"	"受到的魔法伤害降低%incoming_down%% ，但是被破坏被动时装甲会过载，不再提供伤害减免，而是使自身受到的魔法伤害增加%break_incoming_up%% 。"
+"DOTA_Tooltip_ability_creep_special_gain_insulator_Lore"	"早就跟你说了！这玩意不是能随便捡来用的！"
+"DOTA_Tooltip_modifier_creep_special_gain_insulator"	"简陋地精装甲-魔法"
+"DOTA_Tooltip_modifier_creep_special_gain_insulator_Description"	"求你了，别打坏他！"
+
+"DOTA_Tooltip_ability_creep_special_gain_heal_death_delay"	"背水一战"
+"DOTA_Tooltip_ability_creep_special_gain_heal_death_delay_Description"	"死亡时获得%bonus_hp_max%% 最大生命值加成并立刻回复至满额，随后在%duration%秒内快速流失，期间获得%bonus_attack_speed%点攻击速度和%bonus_move%% 移动速度。"
+"DOTA_Tooltip_ability_creep_special_gain_heal_death_delay_Lore"	"要么战斗，要么死！"
+"DOTA_Tooltip_modifier_creep_special_gain_heal_death_delay"       "背水一战"
+"DOTA_Tooltip_modifier_creep_special_gain_heal_death_delayDescription"       "死亡后重新战斗"
+
+"DOTA_Tooltip_ability_creep_special_gain_soul_transfer"	"意志传承"
+"DOTA_Tooltip_ability_creep_special_gain_soul_transfer_Description"	"死亡后，将自身属性的一部分交付给%radius%范围内最近的友方单位，并使其同样获得此技能。"
+"DOTA_Tooltip_ability_creep_special_gain_soul_transfer_Lore"	"赶走这帮入侵者！"
+"DOTA_Tooltip_ability_creep_special_gain_soul_transfer_bonus_health"	"%交付最大生命值："
+"DOTA_Tooltip_ability_creep_special_gain_soul_transfer_bonus_damage"	"%交付基础攻击力："
+"DOTA_Tooltip_modifier_creep_special_gain_soul_transfer"          "意志传承"
+"DOTA_Tooltip_modifier_creep_special_gain_soul_transfer_Description"          "死亡后提高最近友军的属性"
+"DOTA_Tooltip_modifier_creep_special_gain_soul_transfer_active"                   "传承者"
+"DOTA_Tooltip_modifier_creep_special_gain_soul_transfer_active_Description"       "生命值和基础攻击力提高"  
+
+"DOTA_Tooltip_ability_creep_special_gain_gods_bless"	"灵魂牺牲"
+"DOTA_Tooltip_ability_creep_special_gain_gods_bless_Description"	"死亡后，护佑自身周围%radius%范围内最多%max%个友方单位，每秒治疗他们%heal_lose_hp%% 已损失生命值并进行强驱散，持续%duration%秒。\n<font color=\"#606060\">破坏不会封禁这个技能，而是使其持续时间降低一半。</font>"
+"DOTA_Tooltip_ability_creep_special_gain_gods_bless_Lore"	"你们要继续前进，直到尽头。"
+"DOTA_Tooltip_modifier_creep_special_gain_gods_bless"                   "灵魂牺牲"
+"DOTA_Tooltip_modifier_creep_special_gain_gods_bless_Description"                   "死亡后强力治疗周围的友军"
+
+"DOTA_Tooltip_ability_creep_special_gain_enraged"	"濒死狂暴"
+"DOTA_Tooltip_ability_creep_special_gain_enraged_Description"	"生命值低于%hp_line%% 时进入狂暴状态，提升%enrage_attack_speed_bonus%点攻击速度和%enrage_movespeed_bonus%点移动速度，强驱散自身并且变得魔法免疫，持续%duration%秒。\n<font color=\"#606060\">破坏不会封禁这个技能，而是使其持续时间降低25%%。</font>"
+"DOTA_Tooltip_ability_creep_special_gain_enraged_Lore"	"带着他们一起下地狱！"
+"DOTA_Tooltip_modifier_creep_special_gain_enraged"                   "濒死狂暴"
+"DOTA_Tooltip_modifier_creep_special_gain_enraged_Description"                   "生命过低时进入爆发魔法免疫状态"
+"DOTA_Tooltip_modifier_creep_special_gain_enraged_buff"                   "狂暴"
+"DOTA_Tooltip_modifier_creep_special_gain_enraged_buff_Description"       "速度提升，免疫魔法"   
+
+"DOTA_Tooltip_ability_creep_special_gain_last_word"	"临终的轻语"
+"DOTA_Tooltip_ability_creep_special_gain_last_word_Description"	"死亡后，击杀者会感到无可避免的愧疚，魔法消耗增加%bonus_mp_cost%% ，持续%duration%秒。"
+"DOTA_Tooltip_ability_creep_special_gain_last_word_Lore"	"没关系...我知道你们也是不得已..."
+"DOTA_Tooltip_modifier_creep_special_gain_last_word"                   "临终的轻语"
+"DOTA_Tooltip_modifier_creep_special_gain_last_word_Description"                   "对击杀者造成魔法消耗巨幅增加的亡语"    
+"DOTA_Tooltip_modifier_creep_special_gain_last_word_active"                   "愧疚"
+"DOTA_Tooltip_modifier_creep_special_gain_last_word_active_Description"       "魔法消耗大幅增加"   
+
+"DOTA_Tooltip_ability_creep_special_gain_bloodseeker_bloodrage"	"胃酸反刍"
+"DOTA_Tooltip_ability_creep_special_gain_bloodseeker_bloodrage_Description"	"攻击时使目标及其周围%radius%范围内的敌人进入被动破坏状态，持续%active_duration%秒。\n<font color=\"#606060\">对于魔法免疫的单位破坏持续时间减半。</font>"
+"DOTA_Tooltip_ability_creep_special_gain_bloodseeker_bloodrage_Lore"	"用酸液来攻击敌人，也是生物进化出的一种功能。"
+"DOTA_Tooltip_modifier_creep_special_gain_bloodseeker_bloodrage"                   "胃酸反刍"
+"DOTA_Tooltip_modifier_creep_special_gain_bloodseeker_bloodrage_Description"                   "攻击敌人会使其进入群体破坏状态"
+"DOTA_Tooltip_modifier_creep_special_gain_bloodseeker_bloodrage_active"                   "被动破坏"
+
+"DOTA_Tooltip_ability_creep_special_gain_life_essence"	"生命共鸣"
+"DOTA_Tooltip_ability_creep_special_gain_life_essence_Description"	"首次受到伤害时，获得等同伤害来源%hp_max_index%% 最大生命值的生命值加成，最大值为自身当前的最大生命值。"
+"DOTA_Tooltip_ability_creep_special_gain_life_essence_Lore"	"渴望与强者一较高下的本能。"
+"DOTA_Tooltip_modifier_creep_special_gain_life_essence"	"生命共鸣"
+"DOTA_Tooltip_modifier_creep_special_gain_life_essence_Description"	"最大生命值提高"
+
+"DOTA_Tooltip_ability_creep_special_gain_vengefulspirit_command_aura"	"罪恶清算"
+"DOTA_Tooltip_ability_creep_special_gain_vengefulspirit_command_aura_Description"	"死亡后，对击杀者造成其%hp_damage%% 当前生命值的伤害并使其进入禁疗状态，持续%duration%秒。\n<font color=\"#606060\">破坏不会封禁这个技能，而是使其持续时间降低一半。</font>"
+"DOTA_Tooltip_ability_creep_special_gain_vengefulspirit_command_aura_Lore"	"你们的罪恶不会被宽恕。"
+"DOTA_Tooltip_modifier_creep_special_gain_vengefulspirit_command_aura"                   "罪恶清算"
+"DOTA_Tooltip_modifier_creep_special_gain_vengefulspirit_command_aura_Description"                   "对击杀者造成亡语伤害"
+"DOTA_Tooltip_modifier_creep_special_gain_vengefulspirit_command_aura_active"                   "禁疗"
+"DOTA_Tooltip_modifier_creep_special_gain_vengefulspirit_command_aura_active_Description"                   "生命值无法回复"
+
+"DOTA_Tooltip_ability_creep_special_fear_alone"	"胆小鬼"
+"DOTA_Tooltip_ability_creep_special_fear_alone_Description"	"移动速度降低%move_down%% 。<br><br>只要自身%radius%范围内还有非[胆小鬼]友军存活，受到的伤害就会降低%incoming_down%% ，造成的伤害则提高%outgoing_up%% 。<br><br>若场上已经没有相应友军，受到的伤害则会增加%noman_incoming_down%% ，而造成的伤害降低%noman_outgoing_up%% 。"
+"DOTA_Tooltip_ability_creep_special_fear_alone_Lore"	"别...别丢下我！"
+"DOTA_Tooltip_modifier_creep_special_fear_alone"                   "胆小鬼"
+"DOTA_Tooltip_modifier_creep_special_fear_alone_Description"                   "害怕孤独"
+
+"DOTA_Tooltip_ability_creep_special_gain_super"	"超级精英"
+"DOTA_Tooltip_ability_creep_special_gain_super_Description"	"移动速度降低%move_down%% ，但是获得大量属性加成，同时必定获得[坚毅][背水一战][濒死狂暴]三个增益。死亡后，为所有英雄提供额外金币。"
+"DOTA_Tooltip_ability_creep_special_gain_super_Lore"	"杀光他们！"
+"DOTA_Tooltip_ability_creep_special_gain_super_bonus_hp_max"	"%额外最大生命值："
+"DOTA_Tooltip_ability_creep_special_gain_super_bonus_armor"	"额外护甲："
+"DOTA_Tooltip_ability_creep_special_gain_super_bonus_magic_res"	"%额外魔法抗性："
+"DOTA_Tooltip_ability_creep_special_gain_super_death_gold"	"奖励金币："
+"DOTA_Tooltip_modifier_creep_special_gain_super"                   "超级精英"
+"DOTA_Tooltip_modifier_creep_special_gain_super_Description"                   "更强大的单位，击杀会提供全队金币"
+
+"DOTA_Tooltip_ability_creep_special_gain_counterspell"	"法术适性护盾"
+"DOTA_Tooltip_ability_creep_special_gain_counterspell_Description"	"获得法术护盾，可以抵挡指向性技能，护盾未破碎时受到的技能伤害减少%ability_res%% 。"
+"DOTA_Tooltip_ability_creep_special_gain_counterspell_Lore"	"经过一遍又一遍无差别地铺式法术攻击，基因选择进化出这样的能力。"
+"DOTA_Tooltip_modifier_creep_special_gain_counterspell"    "法术适性护盾"
+"DOTA_Tooltip_modifier_creep_special_gain_counterspell_Description"    "受到技能伤害降低，破除后失效"
+
+"DOTA_Tooltip_ability_creep_special_gain_death_poison"	"剧毒体质"
+"DOTA_Tooltip_ability_creep_special_gain_death_poison_Description"	"死亡后，爆出一滩毒液使击杀者%radius%范围内的敌人每秒叠加其%poison%% 最大生命值的中毒层数，持续%duration%秒。\n<font color=\"#606060\">破坏不会封禁这个技能，而是使其持续时间降低一半。</font>"
+"DOTA_Tooltip_ability_creep_special_gain_death_poison_Lore"	"剧毒熊怪传授给其他同伴的能力，更加致命，腐蚀性却大幅降低了"
+"DOTA_Tooltip_modifier_creep_special_gain_death_poison"    "剧毒体质"
+"DOTA_Tooltip_modifier_creep_special_gain_death_poison_Description"    "死亡后产生毒液池"
+
+"DOTA_Tooltip_ability_creep_special_gain_back"	"回光返照"
+"DOTA_Tooltip_ability_creep_special_gain_back_Description"	"受到伤害时，若生命值即将低于%hp_line%% 会进入回光返照状态，期间吸收所有来自敌人的伤害并转化为对自身的回复效果，但是以此方式最多回复到%max_line%% 最大生命值。"
+"DOTA_Tooltip_ability_creep_special_gain_back_Lore"	"最后一搏，但是否有效呢"
+"DOTA_Tooltip_modifier_creep_special_gain_back"    "回光返照"
+"DOTA_Tooltip_modifier_creep_special_gain_back_Description"    "生命值过低时倒反天罡"
+
+"DOTA_Tooltip_ability_creep_special_gain_Agility_Gain"	"基因修饰·敏捷型"
+"DOTA_Tooltip_ability_creep_special_gain_Agility_Gain_Description"	"提升%bonus_attack_speed%% 攻击速度和%bonus_move%% 移动速度，同时突破移动速度限制。"
+"DOTA_Tooltip_ability_creep_special_gain_Agility_Gain_Lore"	"进化过程中，选择了更快速，更轻盈的道路"
+
+
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain"	"攻击特化"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_Description"	"攻击力得到了提升"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_Note0"	"额外的说明：<br>攻击力提升并非基础攻击力，不会影响到以攻击力为系数的技能伤害"
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_bonus_health"	"%生命值加成："
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_bonus_regeneration_amplification"	"%生命恢复速率加成："
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_clone_bonus_health"	"%生命值加成："
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_clone_bonus_regeneration_amplification"	"%生命恢复速率加成："
+"DOTA_Tooltip_ability_creep_special_gain_Damage_Gain_bonus_damage"	"%攻击力提升："
+"DOTA_Tooltip_ability_creep_special_gain_Rage"	"暴躁"
+"DOTA_Tooltip_ability_creep_special_gain_Rage_Description"	"攻击有几率造成暴击。"
+"DOTA_Tooltip_ability_creep_special_gain_Rage_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_Rage_blade_dance_crit_chance"	"%暴击几率："
+"DOTA_Tooltip_ability_creep_special_gain_Rage_blade_dance_crit_mult"	"%暴击伤害："
+
+"DOTA_Tooltip_ability_creep_special_gain_Shrink"	"龟缩"
+"DOTA_Tooltip_ability_creep_special_gain_Shrink_Description"	"大幅度提升防御力，但相对的移动速度被减缓了。"
+"DOTA_Tooltip_ability_creep_special_gain_Shrink_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_Shrink_bonus_armor"	"防御加成："
+"DOTA_Tooltip_ability_creep_special_gain_Shrink_bonus_move"	"<font color=\"#d9534f\">移动速度减少：</font>"
+
+"DOTA_Tooltip_ability_creep_special_gain_phase"	"相位"
+"DOTA_Tooltip_ability_creep_special_gain_phase_Description"	"此单位无视碰撞体积，且不会被减缓移动速度。"
+"DOTA_Tooltip_ability_creep_special_gain_phase_Lore"	"吸收了自然的气息强化了生物的属性。"
+
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura"	"失效力场"
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_Description"	"周围的敌人的受到治疗效果降低。"
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_bonus_magic_resistance"	"%魔法抗性加成："
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_bonus_heal"	"%受到治疗效果削减："
+"DOTA_Tooltip_ability_creep_special_gain_heal_suppression_aura_radius"	"作用范围："
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain"	"魔力特化"
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain_Description"	"魔法能力得到了提升。"
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_mana_gain_bonus_spell_damage_gain"	"%技能伤害提升："
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave"	"薄葬"
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave_Description"	"当受到致死伤害时进入薄葬状态，不会死亡，最低生命值为1，但可以被即死效果影响。<br><br>固定冷却：10秒"
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave_bonus_spell_damage_gain"	"%技能伤害提升："
+"DOTA_Tooltip_ability_creep_special_gain_shallow_grave_duration"	"持续时间："
+
+"DOTA_Tooltip_ability_creep_special_gain_good_climber"	"攀爬好手"
+"DOTA_Tooltip_ability_creep_special_gain_good_climber_Description"	"可以忽略地形移动，同时可以相位移动。"
+"DOTA_Tooltip_ability_creep_special_gain_good_climber_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_good_climber_bonus_spell_damage_gain"	"%技能伤害提升："
+"DOTA_Tooltip_ability_creep_special_gain_good_climber_bonus_move"	"移动速度加成："
+
+"DOTA_Tooltip_ability_creep_special_gain_saurian_fasciculus"	"束缚"
+"DOTA_Tooltip_ability_creep_special_gain_saurian_fasciculus_Description"	"每隔一段时间使1000范围内的一个敌军与其友军链接到一起，互相吸引且减速10%%，持续5秒。<br><br>触发间隔：25秒"
+"DOTA_Tooltip_modifier_creep_special_gain_saurian_fasciculus"	"束缚"
+
+
+"DOTA_Tooltip_ability_creep_special_gain_saurian_fasciculus_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_Perseverance"	"坚毅"
+"DOTA_Tooltip_ability_creep_special_gain_Perseverance_Description"	"状态抗性提高40%%。"
+"DOTA_Tooltip_ability_creep_special_gain_Perseverance_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_Primary_Ice_Path_Note0"	"额外的说明："
+
+"DOTA_Tooltip_ability_creep_special_gain_earthshaker_echo_slam"	"反分裂领域"
+"DOTA_Tooltip_ability_creep_special_gain_earthshaker_echo_slam_Description"	"区域内的敌人每秒叠加一层状态，达到%line%层时，其分裂攻击将被禁用。"
+"DOTA_Tooltip_ability_creep_special_gain_earthshaker_echo_slam_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_earthshaker_echo_slam_bonus_heal"	"受到治疗效果削减："
+"DOTA_Tooltip_ability_creep_special_gain_earthshaker_echo_slam_radius"	"作用范围："
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_life_stealer_feast"	"盛宴"
+"DOTA_Tooltip_ability_creep_special_gain_life_stealer_feast_Description"	"攻击时，回复目标最大生命值1%%+自身最大生命值0.2%%的生命。"
+"DOTA_Tooltip_ability_creep_special_gain_life_stealer_feast_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_life_stealer_feast_Note0"	"额外的说明：<br>被吸血增强影响。"
+
+"DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect"	"法术抵抗"
+"DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect_Description"	"当生命值低于15%%后将不会再受到指向性技能的影响。"
+"DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect_Lore"	"吸收了自然的气息强化了生物的属性。"
+// "DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect_clone"	"增幅词条"
+// "DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect_clone_Description"	"当生命值低于15%%后将不会再受到指向性技能的影响。"
+// "DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect_clone_Lore"	"吸收了自然的气息强化了生物的属性。"
+// "DOTA_Tooltip_ability_creep_special_gain_counterspell_reflect_clone_Note0"	"额外的说明：<br>会被被动破坏禁用。"
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_split_attack"	"分裂箭无效化"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_split_attack_Description"	"受到伤害后，如果攻击者在自己400码范围内，将将使攻击者的【分裂箭】类效果无效化0.5秒。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_split_attack_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_split_attack_radius"	"作用范围："
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_life_steal"	"生命摄取无效化"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_life_steal_Description"	"每4次攻击可以完全禁止目标的吸血效果1秒。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_life_steal_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_life_steal_radius"	"作用范围："
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_Shield"	"护盾破坏"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_Shield_Description"	"每次攻击使目标的护盾效果无效化0.3秒。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_Shield_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_Shield_Note0"	"额外的说明：<br>将使类似于无光之盾的护盾效果失效。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_health_regen"	"生命禁用"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_health_regen_Description"	"位于400范围内超过6秒的单位将被禁止以任何手段回复生命值。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_health_regen_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_of_health_regen_Note0"	"额外的说明：<br>虚妄之诺下仍然可以计算恢复效果。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_magic"	"魔力反噬"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_magic_Description"	"每次被施加魔法伤害时，每达到自身生命值2%%的伤害将降低加害者1%%的技能伤害，持续10秒。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_magic_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_Invalidation_magic_Note0"	"额外的说明:<br>单次伤害量达不到生命值2%%时不会生效。"
+"DOTA_Tooltip_ability_creep_special_gain_fake_message"	"虚假情报"
+"DOTA_Tooltip_ability_creep_special_gain_fake_message_Description"	"每15秒进入一次虚态，持续1秒（伴随前置2秒特效提示），如果此时有目标对自身发动物理攻击，缴械目标5秒。"
+"DOTA_Tooltip_ability_creep_special_gain_fake_message_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_anti_time_arua"	"反时间领域"
+"DOTA_Tooltip_ability_creep_special_gain_anti_time_arua_Description"	"每25秒将开启反时间领域，使500范围中的敌人每秒所有位于冷却中的技能增加2秒冷却时间，持续5秒。"
+"DOTA_Tooltip_ability_creep_special_gain_anti_time_arua_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_anti_time_arua_Note0"	"额外的说明：<br>反时间领域可以被净化掉。"
+"DOTA_Tooltip_ability_creep_special_gain_Painful_last_wish"	"痛苦遗愿"
+"DOTA_Tooltip_ability_creep_special_gain_Painful_last_wish_Description"	"死亡诅咒目标，使目标在60秒内受到伤害增加5%%。"
+"DOTA_Tooltip_ability_creep_special_gain_Painful_last_wish_Lore"	"吸收了自然的气息强化了生物的属性。"
+
+
+"DOTA_Tooltip_ability_creep_special_gain_cleave"	"分裂攻击"
+"DOTA_Tooltip_ability_creep_special_gain_cleave_Description"	"攻击效果附带距离700的50%%分裂效果。"
+"DOTA_Tooltip_ability_creep_special_gain_cleave_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_cleave_Note0"	"额外的说明：<br>被分裂无效化禁用。"
+"DOTA_Tooltip_ability_creep_special_gain_axe_culling_blade"	"淘汰之击"
+"DOTA_Tooltip_ability_creep_special_gain_axe_culling_blade_Description"	"10次攻击后，下一次攻击如果目标生命值低于自身攻击力的5%%，可将其秒杀。"
+"DOTA_Tooltip_ability_creep_special_gain_axe_culling_blade_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_axe_culling_blade_Note0"	"额外的说明：第300只往后的无尽怪必定拥有整个技能。"
+
+"DOTA_Tooltip_modifier_creep_special_gain_cleave"	"分裂攻击"
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain"	"模糊"
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain_Description"	"有一定几率闪避敌人的攻击。"
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain_bonus_attack_speed"	"攻击速度加成："
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain_bonus_move"	"%移动速度加成："
+"DOTA_Tooltip_ability_creep_special_gain_eva_Gain_evasion"	"%闪避："
+"DOTA_Tooltip_ability_creep_special_gain_Perseverance2"	"坚毅（精英）"
+"DOTA_Tooltip_ability_creep_special_gain_Perseverance2_Description"	"状态抗性提高%bonus_status%% ，受到来自英雄的伤害降低%incoming_down%% ，来自非英雄的伤害降低%incoming_down_summon%% 。"
+"DOTA_Tooltip_ability_creep_special_gain_Perseverance2_Lore"	"吸收了自然的气息强化了生物的属性。"
+
+
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_Expansion_flame"	"膨胀烈焰"
+"DOTA_Tooltip_ability_creep_special_gain_Expansion_flame_Description"	"每秒对周围100范围内敌人造成攻击力2%%的魔法伤害，但如果目标为魔免状态，伤害减少90%%但转化为纯粹伤害。且每秒影响范围提升6点。如果这个伤害大于目标当前生命值的五倍，造成即死效果。"
+"DOTA_Tooltip_ability_creep_special_gain_Expansion_flame_Lore"	"吸收了自然的气息强化了生物的属性。"
+
+"DOTA_Tooltip_ability_creep_special_gain_Magic_Conversion"	"魔力攻击"
+"DOTA_Tooltip_ability_creep_special_gain_Magic_Conversion_Description"	"获得亡魂胸针道具，每秒有8%%几率触发该道具的使用。在状态持续期间将优先攻击虚无的英雄单位。"
+"DOTA_Tooltip_ability_creep_special_gain_Magic_Conversion_Lore"	"吸收了自然的气息强化了生物的属性。"
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_StatusGain_reduce"	"福佑损毁"
+"DOTA_Tooltip_ability_creep_special_gain_StatusGain_reduce_Description"	"下一次攻击将使目标的正面状态持续时间增强减少35%%，状态独立计算持续时间可叠加，持续7秒。<br><br>固定冷却时间：25秒"
+"DOTA_Tooltip_ability_creep_special_gain_StatusGain_reduce_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_StatusNegativeGain_reduce"	"诅咒损毁"
+"DOTA_Tooltip_ability_creep_special_gain_StatusNegativeGain_reduce_Description"	"下一次攻击将使目标的负面状态持续时间增强减少35%%，状态独立计算持续时间可叠加，持续7秒。<br><br>固定冷却时间：25秒"
+"DOTA_Tooltip_ability_creep_special_gain_StatusNegativeGain_reduce_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_LifeStealGain_reduce"	"嗜血损毁"
+"DOTA_Tooltip_ability_creep_special_gain_LifeStealGain_reduce_Description"	"下一次攻击将使目标的吸血增强减少50%%，状态独立计算持续时间可叠加，持续5秒。<br><br>固定冷却时间：25秒"
+"DOTA_Tooltip_ability_creep_special_gain_LifeStealGain_reduce_Lore"	"吸收了自然的气息强化了生物的属性。"
+
+
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_pierce_the_veil"	"越界"
+"DOTA_Tooltip_ability_creep_special_gain_pierce_the_veil_Description"	"将攻击转化为10%%的魔法攻击，可以攻击虚无的敌人，对魔免敌人仅造成20%%伤害。"
+"DOTA_Tooltip_ability_creep_special_gain_pierce_the_veil_Lore"	"吸收了自然的气息强化了生物的属性。"
+"DOTA_Tooltip_ability_creep_special_gain_pierce_the_veil_Note0"	"额外的说明：<br>400回合后的迷雾守卫有30%%几率获得。"
+
+
+
+"DOTA_Tooltip_ability_creep_special_gain_act1_oil"	"焦油·改"
+"DOTA_Tooltip_ability_creep_special_gain_act1_oil_Description"	"死亡时，对击杀者所在地点周围%radius%范围内泼洒焦油，使其攻击速度减少%attack_speed%点、移动速度降低%move%%%，独立叠加持续%duration%秒。"
+"DOTA_Tooltip_ability_creep_special_gain_act1_oil_Lore"	"为我们的噬魔之王效命！"
+
+
+"DOTA_Tooltip_ability_creep_special_gain_act1_angry"	"我怒了·改"
+"DOTA_Tooltip_ability_creep_special_gain_act1_angry_Description"	"死亡时，鼓舞周围%radius%范围内伙伴的士气，使其攻击速度提高%attack_speed%%%，移动速度提高%move%%%，独立叠加持续%duration%秒。"
+"DOTA_Tooltip_ability_creep_special_gain_act1_angry_Lore"	"为我们的噬魔之王效命！"

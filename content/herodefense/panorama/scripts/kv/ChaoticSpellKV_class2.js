@@ -1,0 +1,98 @@
+GameUI.CustomUIConfig().ChaoticSpellKV_class2 = {
+	"chaotic_aid": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_alchemy": {
+		"class_level": 2,
+		"weight": 50,
+	},
+	"chaotic_enlarge": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_scorching_ray": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_web": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_blindness": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_darkvision": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_darkness": {
+		"class_level": 2,
+		"weight": 30,
+	},
+	"chaotic_shatter": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_kalia_swordcraft": {
+		"class_level": 2,
+		"weight": 300,
+	},
+	"chaotic_gaias_prayer": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_caius_chaos_enchantment": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_eyes_in_the_back": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_defense_enhancement": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_step": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_summon_red_wolf": {
+		"class_level": 2,
+		"weight": 300,
+	},
+	"chaotic_tri_hurricane": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_tri_shadow_blade": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_backstab_mastery": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_blade_of_backstab": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_qi_shield": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_liquid_fire": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_crystal_nova": {
+		"class_level": 2,
+		"weight": 100,
+	},
+	"chaotic_plasma_field": {
+		"class_level": 2,
+		"weight": 100,
+	},
+};

@@ -1,0 +1,133 @@
+
+
+"HUD_Level1" "<font color=\"#ffffff\">普通</font>"
+"HUD_Level2" "<font color=\"#a2a2a2\">罕见</font>"
+"HUD_Level3" "<font color=\"#8bb6ff\">稀有</font>"
+"HUD_Level4" "<font color=\"#c092fd\">神话</font>"
+"HUD_Level5" "<font color=\"#f0ad4e\">不朽</font>"
+"HUD_Level6" "<font color=\"#ADE55C\">至宝</font>"
+
+
+
+"HUD_Rune_Title" "符石：<font color=\"#6de2c5\">{s:ability_owner}</font>"
+"HUD_Rune_Rarity" "稀有度：{s:rune_rarity}"
+"HUD_Rune_Description" "<font color=\"#8bb6ff\">说明</font>：装配符石后，此技能的能力将获得提升："
+
+
+"HUD_Rune_Bonus_Title" "<font color=\"#8bb6ff\">加成</font>："
+"HUD_Rune_ID_Title" "<font color=\"#8bb6ff\">符石ID</font>：{s:runeID}"
+
+"HUD_Rune_Type_Bonus_Title" "<font color=\"#8bb6ff\">激活效果</font>："
+
+
+"HUD_Rune_Type_Particle_Title" "<font color=\"#e2776d\">特效铭刻</font>："
+"HUD_Rune_Modify_Count" "已魔改次数："
+"HUD_Rune_Modify_Count_Label" "已魔改次数：<font color=\"#ffffff\">{s:modify_count}</font>"
+
+
+"HUD_Rune_state_1" "未装备"
+"HUD_Rune_state_2" "已装备"
+"HUD_Rune_state_3" "装备"
+
+
+"HUD_Rune_equip_1" "装备成功，下局生效"
+
+"HUD_Rune_equip_2" "失败，可能系网络波动"
+"HUD_Rune_equip_3" "失败，正在装备一个符石"
+"HUD_Rune_equip_4" "失败，未知错误"
+
+"HUD_NO_SELECT_RUNE"  "需要选中一个符石"
+
+"HUD_Rune_error_1" "无法操作被装备的符石"
+
+
+"HUD_Rune_Modify_1" "分解"
+"HUD_Rune_Modify_2" "置换"
+"HUD_Rune_Modify_3" "魔改"
+"HUD_Rune_Modify_4" "抽选"
+
+"HUD_Rune_Modify_4_info" "抽选"
+
+
+"HUD_Rune_Modify_Title" "符石魔改"
+"HUD_Rune_Modify_info" "通过消耗资源来更改符石的词条/效果，魔改次数越多则消耗越多"
+
+
+"HUD_Rune_Del_Title" "符石分解"
+"HUD_Rune_Del_info" ""
+"HUD_Rune_Del_return" "分解后获得"
+
+
+
+
+
+"HUD_Rune_Edit_1" "词条重铸"
+"HUD_Rune_Edit_1_info" "重新随机词条的数值"
+"HUD_Rune_Edit_1_Ok" "词条重铸成功"
+"HUD_Rune_Del_Ok" "符石已分解"
+
+
+
+
+"HUD_Rune_Edit_2" "词条重随"
+"HUD_Rune_Edit_2_info" "重新随机词条的类型"
+
+
+
+
+
+// "HUD_Rune_Edit_2" "不朽重铸"
+// "HUD_Rune_Edit_2_info" "重新生成不朽效果（即激活效果）"
+
+
+// "HUD_Rune_Edit_3" "特效铭刻"
+// "HUD_Rune_Edit_3_info" "将不朽级符石升级至至宝级符石"
+
+
+"Rune_Progress_Title" "符石生成进度"
+
+"Rune_Progress_Task_Button" "查看队列"
+"Rune_Progress_Task_Title"  "怪物队列"
+"Rune_Progress_Task_Select_Title"  "怪物征召"
+"Rune_Progress_Task_Select_Button"  "征召"
+
+
+
+"Rune_Progress_Generate_interval"  "生成间隔：{s:interval}/s"
+"Rune_Progress_Generate_count"  "生成数量：{s:count}"
+
+"Rune_Progress_Generate_count_bonus"  "提供上限：{s:bonus_count}"
+
+"Rune_Progress_Generate_level1"  "<font color=\"#ffffff\">普通：</font>{s:level1}"
+"Rune_Progress_Generate_level2"  "<font color=\"#a2a2a2\">罕见：</font>{s:level2}"
+"Rune_Progress_Generate_level3"  "<font color=\"#8bb6ff\">稀有：</font>{s:level3}"
+"Rune_Progress_Generate_level4"  "<font color=\"#c092fd\">神话：</font>{s:level4}"
+"Rune_Progress_Generate_level5"  "<font color=\"#f0ad4e\">不朽：</font>{s:level5}"
+
+"Rune_Progress_Generate_health"  "生命值：{s:health}"
+"Rune_Progress_Generate_attackdamage"  "攻击力：{s:attackdamage}"
+
+"HUD_Bounty"  "赏金会根据回合数变化"
+"HUD_RuneProgress"  "每产生一次怪物，就可以增加些许符石生成进度"
+
+
+"New_Task_Added" "一组新的<font color=\"#c092fd\">{s:locstring_value}</font>被添加进队列中"
+"New_AdvancedTask_Added"  "一组被<font color=\"#8bb6ff\">升阶</font>的<font color=\"#c092fd\">{s:locstring_value}</font>被添加进队列中"
+
+
+"HUD_Del_Fliter_Info" "选中/取消所有该级别的符石"
+
+
+"HUD_Rune_Special_None"  "暂无不朽效果"
+
+
+"New_BuffCardInit" "新词条<font color=\"#c092fd\">{s:locstring_value}</font>已成立"
+
+
+"HUD_Rune_Modify_warning_1"  "是否重铸红色词条"
+
+
+
+"New_Task_Copied"  "一组<font color=\"#c092fd\">{s:locstring_value}</font>被复制进了队列"
+
+

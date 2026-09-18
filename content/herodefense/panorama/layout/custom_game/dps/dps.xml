@@ -1,0 +1,67 @@
+<root>
+
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/dps/dps.css"/>
+	
+	</styles>
+	
+	<scripts>
+		<include src="s2r://panorama/layout/custom_game/dps/dps.js"/>
+	</scripts>
+	
+	<snippets>
+	 
+		<snippet name="Player">
+		
+			<Panel class="Player"> 
+				<Panel id="LeftSide"> 
+					<Panel id="HeroMovie_Root"> 
+						<Panel id="HeroMovie_mask"> 
+							<DOTAHeroMovie id="HeroMovie"  heroname="npc_dota_hero_juggernaut"/> 
+						</Panel>
+						<Label id="PlayerHeroSignal" text="Player Hero" />
+					</Panel>
+					
+					<Label id="PlayerDamageDealtSignal" text="#Damage_Dealt" />
+					<Label id="PlayerDamageTakenSignal" text="#Damage_Taken" /> 
+					<Label id="PlayerDamageHealedSignal" text="#Damage_Healed" />
+					<Label id="PlayerDPSSignal" text="DPS" />
+					<Panel id="PlayerDamageTypes"> 
+						<Panel id="PlayerPhysical">
+							<Label id="Playerphysdamagepercent" text="0%" />
+						</Panel>
+						<Panel id="PlayerMagical">
+							<Label id="Playermagdamagepercent" text="0%" />
+						</Panel>
+						<Panel id="PlayerPure">
+							<Label id="Playerpuredamagepercent" text="0%" />
+						</Panel>
+					</Panel>
+				</Panel>
+				<Panel id = "RightSide">
+					<Label id="EmptySpace"		text=""	/>
+					<Label id="PlayerDamageDealt" text="Sample" />
+					<Label id="PlayerDamageTaken" text="Sample" /> 
+					<Label id="PlayerDamageHealed" text="Sample" />
+					<Label id="PlayerDPS" text="Sample" />
+				</Panel>
+			</Panel>
+			
+		</snippet> 
+		
+	</snippets>
+	
+	<Panel class ="DamageList_ROOT" hittest="false" >
+		<Button id="OpenDamageListButton" onactivate="OpenDamageListButton();"   onmouseover="DOTAShowTextTooltip('#DOTA_HUD_showDamageInfo')" onmouseout="DOTAHideTextTooltip()">  </Button>
+		<Panel id="DamageList"  hittest="false" class ="DamageList">
+
+			<Panel id="Players" hittest="false" >
+			
+			</Panel>
+	
+		</Panel>
+
+	</Panel>
+
+
+</root>

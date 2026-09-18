@@ -1,0 +1,206 @@
+
+"npc_monster_wave_1_2"	"Миньоны ближнего боя"
+"npc_monster_wave_1_2_hype"	"Привратник"
+"npc_monster_wave_2_1"	"Гоблин-страж"
+"npc_monster_wave_2_1_hype"	"Гоблин-страж"
+"npc_monster_wave_2_2"	"Гоблин лучник"
+"npc_monster_wave_2_2_hype"	"Гоблин-страж"
+"npc_monster_wave_1_1"	"Удаленные миньоны"
+"npc_monster_wave_1_1_hype"	"Привратник"
+"npc_monster_wave_3_4"	"Злой фурболг"
+"npc_monster_wave_3_5"	"Ядовитый фурболг"
+"npc_monster_wave_3_1"	"Яростный фурболг"
+"npc_monster_wave_3_3"	"Мрачный фурболг"
+"npc_monster_wave_3_2"	"Неугомонный фурболг"
+"npc_monster_wave_3_3_hype"	"Пятицветный корпус"
+"npc_monster_wave_3_4_hype"	"Пятицветный корпус"
+"npc_monster_wave_3_5_hype"	"Пятицветный корпус"
+"npc_monster_wave_3_2_hype"	"Пятицветный корпус"
+"npc_monster_wave_3_1_hype"	"Пятицветный корпус"
+"npc_monster_wave_3_6"	"медвежонок"
+"npc_monster_wave_3_6_hype"	"Пятицветный корпус"
+"npc_monster_wave_4_1_1"	"Взволнованный паук-хищник(личинки)"
+"npc_monster_wave_4_1_2"	"Взволнованный паук-хищник(яйца)"
+"npc_monster_wave_4_1"	"Взволнованный паук-хищник"
+"npc_monster_wave_4_2"	"Безжалостный пожиратель сородичей"
+"npc_monster_wave_4_3"	"сморщенная рождаемость"
+"npc_monster_wave_5_1"	"Сын Элиты Барнок"
+"npc_monster_wave_6_1"	"Средние миньоны ближнего боя"
+"npc_monster_wave_6_2"	"Миньоны среднего дальнего боя"
+"npc_monster_wave_6_2_hype"	"Привратник"
+"npc_monster_wave_7_1"	"Кобольд  хозяин"
+"npc_monster_wave_7_2"	"Кобольды-наемники"
+"npc_monster_wave_7_3"	"Кобольд раб"
+"npc_monster_wave_8_1"	"Громовой Воин"
+"npc_monster_wave_5_1_clone"	"Сын Элиты Барнок"
+"npc_monster_wave_8_2"	"Командир Легиона Громовой Шкуры"
+"npc_monster_wave_9_1"	"Ио"
+
+
+
+
+
+
+
+"npc_monster_wave_10_1"	"Пролог Привратник Балнок"
+"npc_monster_wave_11_1"	"Ночной убийца Экстрим"
+"npc_monster_wave_11_2"	"Удар ночного убийцы"
+"npc_monster_wave_12_1"	"Рыцарь Новолуния"
+"npc_monster_wave_12_2"	"Лунный рыцарь"
+"npc_monster_wave_13_1"	"Дриада"
+"npc_monster_wave_13_2"	"Столетняя дриада"
+"npc_monster_wave_13_3"	"Тысячелетняя дриада"
+"npc_monster_wave_13_4"	"Тысячелетняя дриада"
+"npc_monster_wave_14_1"	"Командир Ван Вольф"
+"npc_monster_wave_14_2"	"Кровавый страж"
+"npc_monster_wave_14_3"	"Обычный волк"
+"npc_monster_wave_15_1"	"Дочь Элиты Фарнер"
+"npc_monster_wave_20_1"	"Вторая дочь природы Фарнер"
+"npc_monster_wave_16_1"	"ungle Prophet"
+"npc_monster_wave_16_2"	"Jungle Shaman"
+"npc_monster_wave_16_1"	"Пророк джунглей"
+"npc_monster_wave_16_2"	"Шаман джунглей"
+"npc_monster_wave_18_1"	"Древний камень"
+"npc_monster_wave_18_2"	"Древний камень · Чжунчжун"
+"npc_monster_wave_18_3"	"Древний камень · Великий"
+"npc_monster_wave_18_4"	"Древний каменный великан"
+"npc_monster_wave_19_1"	"Топор Мунго Хан"
+
+
+"npc_monster_wave_17_1"	"Старейшина энтов десяти тысяч лет"
+"npc_monster_wave_21_1"	"элемент низкого уровня воды"
+"npc_monster_wave_22_1"	"Элемент огня низкого уровня"
+"npc_monster_wave_23_1"	"низкоуровневый ветровой элемент"
+"npc_monster_wave_24_1"	"темный элемент низкого уровня"
+"npc_monster_wave_25_1"	"Элита, Сын Света и Тьмы, Меллонд"
+"npc_monster_wave_26_1"	"низкий элемент земли"
+"npc_monster_wave_27_1"	"нижний электрический элемент"
+"npc_monster_wave_28_1"	"ледяной элемент низкого уровня"
+"npc_monster_wave_29_1"	"Пустой блок_для обратного отсчета 29 волн"
+"npc_monster_wave_30_1"	"Элементальное ядро"
+"npc_monster_wave_30_2"	"Электрический элементалист·Дух бури"
+"npc_monster_wave_30_3"	"Дух пепла повелителя огня"
+"npc_monster_wave_30_4"	"Повелительница· Дух пустоты"
+"npc_monster_wave_30_5"	"Элементалист земли, дух земли"
+"npc_monster_wave_31_1"	"Брейкер Магнус"
+"npc_monster_wave_33_1"	"Туманный страж"
+
+"npc_monster_wave_34_1"	"Миньоны ближнего боя среднего уровня"
+"npc_monster_wave_35_1"	"Кристаллизованный кобольд-разбойник"
+"npc_monster_wave_36_1"	"Кристаллизованный фурболг"
+
+
+
+"npc_monster_harpy"	"Harpy"
+"npc_monster_Medium_water_element"	"Medium Water Element"
+"npc_monster_Advanced_lackeys"	"Advvanced Melee Pawn"
+"npc_dota_creature_ogre_tank"	"Ogre the Mallet"
+"npc_monster_little_greevil"	"Little Greevil"
+"npc_monster_mega_greevil"	"Hell Greevil"
+"npc_monster_darkreef_prisoner_crab"	"Darkreef Small Crab"
+"npc_dota_creature_troll"	"Cave Troll"
+"npc_monster_warewolf"	"BloodyNight Warewolf"
+"npc_monster_big_crab"	"Darkreef Adult Crab"
+"npc_monster_king_crab"	"Darkreef King Crab"
+"npc_hd_Claszian_Apostasy_phantom"	"Phantom of Claszian Apostasy"
+"npc_hd_Claszian_Apostasy"	"Original of Claszian Apostasy"
+
+"npc_hd_Supreme_Nevermore"  "Nevermore,the KING of the Shadow and Soul"
+
+
+
+"npc_monster_middle_fire_element"	"Medium Fire Element"
+"npc_monster_middle_earth_element"	"Medium Earth Element"
+"npc_monster_middle_earth_element_statue" "Earth Statue"
+
+
+
+
+
+
+
+"npc_monster_wave_10_1_clone"	"Ревенант Барнок"
+"npc_monster_wave_31_1_clone"	"Ревенант Магнус"
+
+"npc_hd_lina"	"Происхождение Огненной Лины"
+"npc_hd_fire_dragon"	"Отец Огня Слирик"
+
+"npc_hd_Brain_worm"	"Неизвестный взрослый мозговой червь"
+"npc_hd_Brain_worm_clone"	"Неизвестный взрослый мозговой червь"
+"npc_dota_creature_cyclops"	"Cyclops"
+
+
+
+"npc_monster_challenge_001"	"Аватара Навинмора"
+"npc_monster_challenge_002"	"Тень Сларка"
+"npc_monster_challenge_003"	"Кусочки тайны"
+"npc_monster_challenge_004"	"Сердце Волчьего Короля"
+"npc_monster_challenge_005"	"Морозный великан"
+"npc_monster_challenge_006"	"Пит лорд"
+"npc_monster_challenge_007"	"Капитан рыцарей Новолуния"
+"npc_monster_challenge_008"	"Lightning Revenant"
+"npc_monster_challenge_009"  "The avatar of Somnus丶M"
+
+
+"npc_fallenSky_unit"	"Проклинатель"
+
+
+"npc_hd_Dave_Chisnall"	"Chisnall"
+"npc_dota_wisp_spirit"	"Spirit"
+"npc_creater_spawner"	"Спойлер"
+
+
+
+"npc_eidolon"	"Eidolon"
+"npc_eidolon_hype"	"Рожденный в пустоте, постоянно поглощающий энергию начала."
+"npc_eidolon_2"	"Eidolon 2"
+"npc_eidolon_2_hype"	"Рожденный в пустоте, постоянно поглощающий энергию начала."
+"npc_eidolon_3"	"Eidolon 3"
+"npc_eidolon_3_hype"	"Рожденный в пустоте, постоянно поглощающий энергию начала."
+"npc_hd_healing_ward"	"Healing ward"
+"npc_hd_earth_element"	"Элемент земли"
+"npc_hd_jack_the_ripper"	"Джек Потрошитель"
+"npc_hd_aghanim"	"Большой умный аганим"
+"npc_hd_Slime"	"Слизь"
+"npc_nether_ward"	"Страж Пустоты"
+"npc_hd_water_element"	"Элемент воды"
+"npc_hd_Dave_Chisnall"	"Крис Нолл"
+"npc_Advanced_Plague_Ward"	"Plague Ward"
+"npc_Advanced_Plague_Ward_2"	"Plague Ward 2"
+"npc_hd_skeleton_archer"	"Некромант"
+"npc_hd_skeleton_archer_warrior"	"Некромант"
+"npc_hd_balnock"	"Душа Балнока"
+"npc_hd_blood_wolf"	"Кровавый волк"
+"npc_dota_wisp_spirit"	"Призрак"
+"npc_hd_normal_wolf"	"Волк"
+"npc_hd_Golem"	"Огонь ада"
+"npc_hd_elder_little_dragon"	"dragon"
+"npc_hd_double"	"Имитация слезной железы"
+
+"DOTA_Tooltip_ability_GAME_Portal1"	"Portal 1"
+"DOTA_Tooltip_ability_GAME_Portal2"	"Portal 2"
+"npc_hd_mars_spear"	"SPARTAN SOLDIER"
+
+"npc_hd_shadowshaman_totem"	"Serpent Ward "
+"npc_hd_sk_double"	"Overlord"
+"npc_forge_spirit" "Forge Spirit"
+"npc_hd_water_element_advanced"	"Superior Water Element"
+
+"npc_hd_spider"	"Small Spider"
+
+
+
+"npc_hd_embodiment_of_the_terror_blade"  "Avatar · Terrorblade"
+
+
+
+
+
+
+
+"npc_hd_dark_rift"  "Dark Rift"
+"npc_hd_small_demon_1"  "Small Demon"
+"npc_hd_cave_troll"  "Cave Troll"
+"npc_hd_wind_element" "Wind Element"
+"npc_hd_immortal_sarcophagus" "Immortal Sarcophagus"
+"npc_hd_the_wings_of_oberis" "Wings of Oberis"

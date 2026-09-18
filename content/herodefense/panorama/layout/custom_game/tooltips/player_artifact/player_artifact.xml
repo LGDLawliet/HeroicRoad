@@ -1,0 +1,178 @@
+<root>
+	<styles>
+		<include src="s2r://panorama/styles/dotastyles.vcss_c" />
+		<include src="s2r://panorama/styles/hudstyles.vcss_c" />
+		<include src="s2r://panorama/styles/hud/hud_reborn.vcss_c" />
+		<include src="file://{resources}/layout/custom_game/tooltips/player_artifact/player_artifact.css" />
+
+	</styles>
+	<scripts>
+		<include src="file://{resources}/scripts/custom_game/common.js" />
+		<include src="file://{resources}/layout/custom_game/tooltips/player_artifact/player_artifact.js" />
+	</scripts>
+
+   <snippets>
+        <!-- 描述 -->
+        <snippet name="DescriptionBlock">
+            <Panel class="single_DescriptionBlock">
+				<Label id="single_DescriptionLabel_left" html="true"/>
+         		<Label id="single_DescriptionLabel" html="true"/>
+            </Panel>
+        </snippet>
+        <snippet name="SpecialBonusBlock">
+            <Panel class="single_DescriptionBlock">
+         		<Label id="SpecialBonus_TitleLabel" text="#HUD_Rune_Bonus_Title" html="true"/>
+				<Panel id="bonusInfo_Block">
+         		
+            	</Panel>
+            </Panel>
+        </snippet>
+
+		<snippet name="specialBonus">
+			<Panel  class="single_specialBonus_root">
+				<Label id="specialBonus_info1" 	class = 	"left_note" text="{s:bonus}" html = "true"/>
+				<Label id="specialBonus_header" class = 	"middle_note" text="{s:header}" html = "true"/>
+				<Label id="specialBonus_info2" 	class = 	"right_note" text="#HUD_player_artifact_bonus_per_level" html = "true"/>
+			</Panel>
+		</snippet>
+
+		<snippet name="DescriptionBlock_BonusResource">
+            <Panel class="single_DescriptionBlock_bous">
+				<Label class="single_bonus_label_title" text="#DOTA_Tooltip_Bonus_Target" html="true"/>
+				<Panel id="bonus_block_exp">
+					<Image class='bonus_icon' src='s2r://panorama/images/battle_report/silver_medal_small_psd.vtex' />
+         			<Label class="single_bonus_label" text="#DOTA_Tooltip_Bonus_Exp" html="true"/>
+				</Panel>
+				<Panel id="bonus_block_aurum">
+					<Image class='bonus_icon' src='s2r://panorama/images/compendium/compendiumcoins_ti5_png.vtex' />
+         			<Label class="single_bonus_label" text="#DOTA_Tooltip_Bonus_Aurum" html="true"/>
+				</Panel>
+
+            </Panel>
+        </snippet>
+
+  		<snippet name="DescriptionBlock2">
+            <Panel class="single_DescriptionBlock2">
+
+            </Panel>
+        </snippet>
+
+		<snippet name="additionalBlock">
+            <Panel class="single_additionalBlock">
+				<Label id="single_additionalLabelLeft" text="#HUD_player_artifact_additional_unlock" html="true"/>
+         		<Label id="single_additionalLabel" html="true"/>
+            </Panel>
+        </snippet>
+
+
+
+
+    </snippets>
+
+
+	<Panel class="unitStatsRoot" ontooltiploaded="setupTooltip()" >
+		<!-- <Label class="ContainerHeader" text="#DOTA_HUD_Advanced_Attribue"/> -->
+		<Panel id="tooltipRoot">
+			<Panel id="Header">
+				<!-- <DOTAItemImage id="ItemImage" /> -->
+				<Panel id="HeaderLabels">
+					<Panel id="AbilityHeader">
+						<Label id="AbilityName" class="TitleFont" text="#HUD_player_artifact_Title" html="true" />
+						<Label id="AbilityLevel" class="" text="#HUD_player_artifact_Rarity" html="true" />
+					</Panel>
+					
+				</Panel>
+			</Panel>
+
+			<Panel id="AbilityTarget">
+				<Panel id="artifactLevelRoot">
+					<Label id="SubTitle" text="#HUD_player_artifact_Level" html="true" />
+					<Label id="SubTitle2" text="#HUD_player_artifact_LevelProgress" html="true" />
+					<ProgressBar id="artifactLevelProgress" min="0" max="1" value="0.2" />
+				</Panel>
+				
+				<Panel id="AbilityTopRowContainer">
+					<Label id="AbilityCastType"  class = "hidden" text="#DOTA_AbilityTooltip_CastType" html="true" />
+					<Panel id="CurrentAbilityCosts">
+						<Label id="CurrentAbilityManaCost" class="ManaCost hidden" text="{s:current_manacost}" html="true" />
+						<Label id="CurrentAbilityCooldown" class="Cooldown hidden" text="{s:current_cooldown}" html="true" />
+					</Panel>
+				</Panel>
+				<Label id="AbilityTargetType" class = "hidden" text="#DOTA_AbilityTooltip_TargetType" html="true" />
+				<Label id="AbilityDamageType" class = "hidden" text="#DOTA_AbilityTooltip_DamageType" html="true" />
+				<Label id="AbilitySpellImmunityType" class = "hidden" text="#DOTA_AbilityTooltip_SpellImmunityType" html="true" />
+				<Label id="AbilityDispelType" class = "hidden" text="#DOTA_AbilityTooltip_DispelType" html="true" />
+			</Panel>
+			<!-- <Panel id="AbilityUpgradeProgress">
+				<Label class="UpgradeDescription" text="{s:upgrade_description}" />
+				<Panel class="BarContents">
+					<ProgressBar id="UpgradeProgressBar" />
+					<Label text="{d:upgrade_progress}/{d:upgrade_goal}" />
+				</Panel>
+				<Label class="UpgradeBonuses" html="true" text="{s:upgrade_bonuses}" />
+			</Panel> -->
+			<Panel id="AbilityCoreDetails">
+				<Label id="AbilityAttributes" class = "hidden" text="#DOTA_AbilityTooltip_Attributes" html="true" />
+				<!-- 默认描述 -->
+				<Panel id="AbilityDescriptionOuterContainer" class = "hidden">
+					<!-- <Panel id="CurrentItemCosts">
+						<Label class="Cooldown" text="{s:current_cooldown}" html="true" />
+						<Label class="ManaCost" text="{s:current_manacost}" html="true" />
+					</Panel> -->
+					<Panel id="AbilityDescriptionContainer" />
+				</Panel>
+				<Panel id="AbilityScepterDescriptionContainer" class = "hidden">
+					<Panel id="ScepterUpgradeHeader">
+						<Panel class="ScepterSpecialAbilityDataIcon" />
+						<Label class="ScepterUpgradeHeaderLabel" text="#DOTA_AbilityTooltip_ScepterUpgrade_Header" />
+					</Panel>
+					<Label class="ScepterUpgradeBodyLabel" text="{s:scepter_upgrade_description}" html="true" />
+				</Panel>
+				
+				<Panel id="AbilityDraftDescriptionContainer" class = "hidden">
+					<Panel class="AbilityDraftUpgradeHeader">
+						<Panel class="AbilityDraftIcon" />
+						<Label class="AbilityDraftHeaderLabel" text="#DOTA_AbilityTooltip_AbilityDraftNote_Header" />
+					</Panel>
+					<Panel id="ScepterDesc" class="AghsDescriptions">
+						<Panel class="AghsIcon" />
+						<Label class="AghsBodyLabel" text="{s:ability_draft_scepter}" html="true" />
+					</Panel>
+					<Panel id="ShardDesc" class="AghsDescriptions">
+						<Panel class="AghsIcon" />
+						<Label class="AghsBodyLabel" text="{s:ability_draft_shard}" html="true" />
+					</Panel>
+					<Label id="ADNote" class="ScepterUpgradeBodyLabel" text="{s:ability_draft_note}" html="true" />
+				</Panel>
+				<Label id="AbilityExtraDescription" class = "hidden" text="#DOTA_AbilityTooltip_ExtraDescription" html="true" />
+				<DOTAAghsDescription class = "hidden" id="ScepterUpgradeDescription" />
+				<DOTAAghsDescription class = "hidden" id="ShardUpgradeDescription" />
+				<Label id="AbilityCharges" class = "hidden" text="#DOTA_AbilityTooltip_AbilityCharges" html="true" />
+				<Label id="AbilityExtraAttributes" class = "hidden" text="{s:extra_attributes}" html="true" />
+				<Panel id="AbilityCosts" class = "hidden">
+					<Label id="AbilityCooldown" class="Cooldown" text="#DOTA_AbilityTooltip_Cooldown" html="true" />
+					<Label id="AbilityManaCost" class="ManaCost" text="#DOTA_AbilityTooltip_ManaCost" html="true" />
+				</Panel>
+				<Panel id="AbilityGameplayChanges" class = "hidden" />
+				<Label id="AbilityLevelRequire" class = "" text="#HUD_player_artifact_hero_level_require" html="true" />
+				<Label id="AbilityLore" class = "hidden" text="#HUD_player_artifact_lore" html="true" />
+				<Label id="AbilityUpgradeLevel" class = "hidden" text="#DOTA_AbilityTooltip_UpgradeLevel" html="true" />
+				<Label class="AbilityBuildHeader hidden" text="{s:guide_header}" />
+				<Label id="AbilityBuildComment" class = "hidden" text="#DOTA_AbilityTooltip_BuildComment" html="true" />
+				<Label id="OwnedBy" class = "hidden" text="#DOTA_HUD_Item_Owned_By" html="true" />
+				<Label id="SellPriceLabel" class = "hidden" text="#DOTA_HUD_Item_Tooltip_Sell_Price" />
+				<Label id="SellPriceTimeLabel" class = "hidden" text="#DOTA_HUD_Item_Tooltip_Sell_Price_Time" />
+				<Label id="DisassembleLabel" class = "hidden" text="#DOTA_HUD_Item_Tooltip_Disassemble" />
+				<Label id="DisassembleTimeLabel" class = "hidden" text="#DOTA_HUD_Item_Tooltip_Disassemble_Time" />
+				<Label id="NotEnoughGoldLabel" class = "hidden" text="#DOTA_Shop_Item_Error_Cant_Afford" />
+				
+			</Panel>
+			<!-- <Label id="ConsumableAbilityInfo" text="#DOTA_HUD_Item_Tooltip_Consumable_Info" />
+			<Label class="AbilityBuildHeader Edit" text="{s:guide_header}" />
+			<TextEntry id="AbilityBuildCommentEdit" html="true" multiline="true" placeholder="#DOTA_AbilityGuide_PlaceholderComment" />
+			-->
+		</Panel>
+		<Panel id="artifact_bg">
+		</Panel>
+	</Panel>
+</root>

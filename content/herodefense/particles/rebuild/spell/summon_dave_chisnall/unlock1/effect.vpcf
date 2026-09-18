@@ -1,0 +1,173 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 128
+	m_flConstantRadius = 100.0
+	m_ConstantColor = [ 231, 150, 63, 255 ]
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 3
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flEmissionDuration = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.2
+			}
+			m_flEmitRate = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 700.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_RingWave"
+			m_bEvenDistribution = true
+			m_flParticlesPerOrbit = 100.0
+			m_flInitialRadius = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 100.0
+			}
+		},
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMin = 0.25
+			m_fLifetimeMax = 0.25
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+			m_flDegrees = 90.0
+			m_flDegreesMax = 0.0
+			m_bRandomlyFlipDirection = false
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_flOutputMax = 0.0
+			m_flOutputMin = 1.0
+			m_nFieldOutput = 7
+			m_nInputMax = 128
+			m_nInputMin = 100
+			m_nSetMethod = "PARTICLE_SET_SCALE_INITIAL_VALUE"
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMax = [ 0.0, 0.0, 20.0 ]
+			m_OffsetMin = [ 0.0, 0.0, 20.0 ]
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flEndScale = 0.0
+			m_flStartScale = 5.0
+		},
+		{
+			_class = "C_OP_RemapCPtoVector"
+			m_nCPInput = 60
+			m_nFieldOutput = 6
+			m_vInputMax = [ 255.0, 255.0, 255.0 ]
+			m_vOutputMax = [ 0.5, 0.5, 0.5 ]
+			m_flOpStrength = 
+			{
+				m_nType = "PF_TYPE_CONTROL_POINT_COMPONENT"
+				m_nControlPoint = 61
+				m_nVectorComponent = 0
+				m_nMapType = "PF_MAP_TYPE_REMAP"
+				m_flInput0 = 0.0
+				m_flInput1 = 1.0
+				m_flOutput0 = 0.0
+				m_flOutput1 = 1.0
+			}
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/particle_flares/aircraft_white_v2.vtex"
+				},
+			]
+			m_nOutputBlendMode = "PARTICLE_OUTPUT_BLEND_MODE_ADD"
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_regen.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_magic.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_body_sparkle.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_halo_body.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_body_flash.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_buff.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_buff_elec.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_sphere.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_magic_burst.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_light.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_ribbon.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/summon_dave_chisnall/unlock1/effect_base.vpcf"
+		},
+	]
+}

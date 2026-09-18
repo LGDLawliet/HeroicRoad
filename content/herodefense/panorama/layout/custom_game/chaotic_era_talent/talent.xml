@@ -1,0 +1,38 @@
+<root>
+    <styles>
+        <include src="s2r://panorama/styles/dotastyles.vcss_c"/>
+        <include src="s2r://panorama/styles/hudstyles.vcss_c"/>
+        <!-- <include src="s2r://panorama/styles/hud/dota_hud_spectre_arcana.vcss_c" /> -->
+        <!-- <include src="s2r://panorama/layout/custom_game/playerinfo/playerinfo.css"/> -->
+        <include src="s2r://panorama/layout/custom_game/chaotic_era_talent/talent.css"/>
+        <include src="s2r://panorama/styles/custom_game/common_hd.css"/>
+
+    </styles>
+
+    <scripts>
+
+        <!-- <include src="s2r://panorama/layout/custom_game/playerinfo/playerinfo.js" /> -->
+        <include src="s2r://panorama/layout/custom_game/chaotic_era_talent/talent.js" />
+    </scripts>
+
+
+
+
+    <!--大框架-->
+    <Panel hittest="false" class="TalentRoot" >
+        <Button class ="HD_Hover_Brightness" id="open_button" onactivate="OpenTalentMenu();" onmouseover="DOTAShowTextTooltip('分配天赋')" onmouseout="DOTAHideTextTooltip()">  </Button>
+        <!--天赋背景框01，大小为100%，目的是和下方的背景框构成“点击外缘可以退出界面”的功能-->
+        <Panel id="talent_bg"  onactivate="CloseWheelMenu();" hittest="true" class="Visible mainMenuDesign">
+            <!--真正的大背景框-->
+            <Panel id="talent"  onactivate="" hittest="true" class="Visible">
+                <!--第一天赋树的背景框-->
+                <Panel id="talent_1" onactivate="" class="Visible">
+                    <!--有10个基点，是可点击的图标-->
+                    <Button id="talent_1_skill1-1" onmouseover="DOTAShowTextTooltip('天赋1效果：')" onmouseout="DOTAHideTextTooltip()" class="talent_1_skill1-1">
+                        <DOTAAbilityImage id="talent_1_skill1-1_image" abilityname="abaddon_borrowed_time" class="talent_1_skill1-1"/>
+                    </Button>
+                </Panel>
+            </Panel>
+        </Panel>
+    </Panel>
+</root>

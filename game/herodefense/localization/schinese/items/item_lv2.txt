@@ -1,0 +1,11 @@
+"DOTA_Tooltip_ability_item_hd_star_mace_2"	"糖果<font color=\"#777777\">-第二梯队</font>"
+"DOTA_Tooltip_ability_item_hd_star_mace_2_Description"	"<h1>消耗：食用</h1>恢复500+最大生命值25%%的生命值。<br><br>可使用次数： 2"
+"DOTA_Tooltip_ability_item_hd_star_mace_2_Lore"	"一块精心调配的糖果。"
+
+//精通
+"DOTA_Tooltip_ability_item_hd_occult_bracelet"	"玄奥手镯<font color=\"#777777\">-第二梯队</font>"
+"DOTA_Tooltip_ability_item_hd_occult_bracelet_Description"	"<h1>被动：埃罗莎仪式</h1>受到伤害时，回复自身%mana_regen%%%已损失魔法值并提高自身%bonus_profic%%%精通，持续%duration%秒。"
+"DOTA_Tooltip_ability_item_hd_occult_bracelet_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_occult_bracelet_Lore"	"奇妙的手镯，能够激发使用者的天赋"
+"DOTA_Tooltip_modifier_item_hd_occult_bracelet_buff"	"埃罗莎仪式"
+"DOTA_Tooltip_modifier_item_hd_occult_bracelet_buff_Description"	"精通提高，天赋效果增加"

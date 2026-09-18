@@ -1,0 +1,102 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 4
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ -257.844635, -533.465332, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ -245.358002, -505.953003, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 5
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ -283.683533, -516.226196, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ -888.002808, 746.377197, -245.258301 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_nCP1 = 2
+			m_vecCP1Pos = [ 0.0, 0.0, 1000.0 ]
+			m_transformInput = 
+			{
+				m_nControlPoint = 1
+			}
+			m_bDisableOperator = true
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_rings_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_shaft_bits_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_smoke_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_moonlight_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_burst_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_flare_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_shaft03_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_shaft02_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_shaft04_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_shaft05_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_wave_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_shaft06_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/lucent_beam_impact_rings_notarget_ti_5_gold.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_sunbeam/effect_beam/eclipse_impact_moonlight_shaftwide_ti_5_gold.vpcf"
+		},
+	]
+}

@@ -1,0 +1,218 @@
+"npc_eidolon"	"Eidolon"
+"npc_eidolon_hype"	"Born in the void, constantly drain Taichu Power"
+
+"npc_eidolon_2"	"Eidolon2"
+"npc_eidolon_2_hype"	"Born in the void, constantly drain Taichu Power"
+"npc_eidolon_3"	"Eidolon3"
+"npc_eidolon_3_hype"	"Born in the void, constantly drain Taichu Power"
+"npc_monster_wave_1_2"	"Melee Pawn"
+"npc_monster_wave_1_2_hype"	"Gatekeeper"
+"npc_monster_wave_2_1"	"Goblin Guardian"
+"npc_monster_wave_2_1_hype"	"Goblin Guardian"
+"npc_monster_wave_2_2"	"Goblin Archer"
+"npc_monster_wave_2_2_hype"	"Goblin Guardian"
+"npc_monster_wave_1_1"	"Ranger Pawn"
+"npc_monster_wave_1_1_hype"	"Gatekeeper"
+"npc_monster_wave_3_4"	"Evil Furbolg"
+"npc_monster_wave_3_5"	"Venomous Furbolg"
+"npc_monster_wave_3_1"	"Furious Furbolg"
+"npc_monster_wave_3_3"	"Grim furbolg"
+"npc_monster_wave_3_2"	"Restless Furbolg"
+"npc_monster_wave_3_3_hype"	"Five Colour Legion"
+"npc_monster_wave_3_4_hype"	"Five Colour Legion"
+"npc_monster_wave_3_5_hype"	"Five Colour Legion"
+"npc_monster_wave_3_2_hype"	"Five Colour Legion"
+"npc_monster_wave_3_1_hype"	"Five Colour Legion"
+"npc_monster_wave_3_6"	"Hellbear"
+"npc_monster_wave_3_6_hype"	"Five Colour Legion"
+"npc_monster_wave_4_1"	"Agitated Predatory spiders"
+"npc_monster_wave_4_2"	"Ruthless Relatives eater"
+"npc_monster_wave_4_3"	"Shrinking Spawner"
+"npc_monster_wave_4_1_1"	"Agitated Predatory spiders (larvae)"
+"npc_monster_wave_4_1_2"	"Agitated Predatory spiders(eggs) "
+
+"npc_monster_wave_5_1"	"Elite·Son of Barnock "
+
+"npc_monster_wave_6_1"	"Middle Melee Pawn"
+"npc_monster_wave_6_2"	"Middle Ranger Pawn"
+"npc_monster_wave_6_2_hype"	"Gatekeeper"
+
+
+
+"npc_monster_wave_7_1"	"Kobold Slave Owner"
+"npc_monster_wave_7_2"	"Kobold Mercenary"
+"npc_monster_wave_7_3"	"Kobold Slave"
+
+
+
+
+"npc_monster_wave_8_1"	"Thunderhide Warrior"
+"npc_monster_wave_5_1_clone"	"Elite·Son of Barnock"
+"npc_monster_wave_8_2"	"Thunderhide Legion Commander"
+
+"npc_monster_wave_9_1"	"Io"
+
+
+
+"npc_monster_wave_10_1"	"Prologue Gatekeeper Barnock"
+"npc_monster_wave_11_1"	"Night Assassin Extreme"
+"npc_monster_wave_11_2"	" Night Assassin Srike"
+"npc_monster_wave_12_1"	"Dark Moon Knight"
+"npc_monster_wave_12_2"	"Moonlight Knight"
+"npc_monster_wave_13_1"	"Treant"
+"npc_monster_wave_13_2"	"Centennial Treant"
+"npc_monster_wave_13_3"	"Millennium Treant"
+"npc_monster_wave_13_4"	"Millennium Treant"
+"npc_monster_wave_14_1"	"Commander King Wolf "
+"npc_monster_wave_14_2"	"Blood Clan Protector"
+"npc_monster_wave_14_3"	"Wolf"
+"npc_monster_wave_15_1"	"Elite · Daughter of Farna"
+"npc_monster_wave_20_1"	"Nature's Second Daughter Farner"
+"npc_monster_wave_16_1"	"ungle Prophet"
+"npc_monster_wave_16_2"	"Jungle Shaman"
+"npc_monster_wave_18_1"	"Ancient Stone"
+"npc_monster_wave_19_1"	" Axe · Mogul Khan"
+
+"npc_monster_wave_17_1"	"Ten-Thousand-Years Elder Treant"
+"npc_monster_wave_21_1"	"Primary Water Element"
+
+"npc_monster_wave_22_1"	"Primary Fire Element"
+"npc_monster_wave_23_1"	"Primary Wind Element"
+"npc_monster_wave_24_1"	"Primary Dark Element"
+"npc_monster_wave_25_1"	"Elite ·Son of Dark and Light · Mellond"
+"npc_monster_wave_26_1"	"Primary Earth Element"
+
+
+
+"npc_monster_wave_27_1"	"Primary Lightning Element"
+"npc_monster_wave_28_1"	"Primary Ice Element"
+
+"npc_monster_wave_30_1"	"The Origin · Elemental Core"
+"npc_monster_wave_30_2"	"Electric Elementalist Storm Spirit"
+"npc_monster_wave_30_3"	"Fire Elementalist Ember Spirit"
+"npc_monster_wave_30_4"	"Dark Elementalist · Void Spirit"
+"npc_monster_wave_30_5"	"Earth Elementalist, Earth Spirit"
+"npc_monster_wave_31_1"	"Collapse·Magnus"
+"npc_monster_wave_33_1"	"Fog Guardian"
+"npc_monster_wave_34_1"	"Corrupted Middle Melee Pawn"
+"npc_monster_wave_35_1"	"Crystallized Kobold Slave"
+"npc_monster_wave_36_1"	"Crystallized Furbolg"
+"npc_monster_wave_10_1_clone"	"Spectre·Balnock"
+"npc_monster_wave_31_1_clone"	"Spectre·Magnus"
+"npc_monster_harpy"	"Harpy"
+"npc_monster_Medium_water_element"	"Medium Water Element"
+"npc_monster_Advanced_lackeys"	"Advvanced Melee Pawn"
+"npc_dota_creature_ogre_tank"	"Ogre the Mallet"
+"npc_monster_little_greevil"	"Little Greevil"
+"npc_monster_mega_greevil"	"Hell Greevil"
+"npc_dota_creature_troll"	"Cave Troll"
+
+
+"npc_hd_lina"	"Ultimate Source Of Fire·Lina"
+"npc_hd_fire_dragon"	"Father of Fire·Slyrak"
+"npc_hd_Brain_worm"	"Nameless adult Brain Worm"
+"npc_hd_Brain_worm_clone"	"Nameless adult Brain Worm"
+"npc_monster_darkreef_prisoner_crab"	"Darkreef Small Crab"
+"npc_dota_creature_troll"	"Cave Troll"
+"npc_dota_creature_cyclops"	"Cyclops"
+"npc_monster_warewolf"	"BloodMoon Warewolf"
+"npc_monster_big_crab"	"Darkreef Adult Crab"
+"npc_monster_king_crab"	"Darkreef King Crab"
+"npc_hd_Claszian_Apostasy_phantom"	"Phantom of Claszian Apostasy"
+"npc_hd_Claszian_Apostasy"	"Original of Claszian Apostasy"
+
+
+
+"npc_monster_middle_fire_element"	"Medium Fire Element"
+"npc_monster_middle_earth_element"	"Medium Earth Element"
+"npc_monster_middle_earth_element_statue" "Earth Statue"
+
+
+// 乱纪元生物
+"npc_monster_wave_thirsty_servant"  "Thirsty Servant"
+"npc_monster_wave_thirsty_servant_ranger"  "Thirsty Servant"
+"npc_monster_wave_thirsty_servant_elite"  "Thirsty Pioneer"
+
+// 苦难
+"npc_monster_challenge_001"	"Nevermore's Avatar"
+"npc_monster_challenge_002"	"Slark's Shadow"
+"npc_monster_challenge_003"	"Fragments of Enigma"
+"npc_monster_challenge_004"	"Heart of the Wolf king"
+"npc_monster_challenge_005"	"Frozen Giant"
+"npc_monster_challenge_006"	"Abyss Lord"
+"npc_monster_challenge_007"	"Moon Rider Commander"
+"npc_monster_challenge_008"	"Lightning Revenant"
+"npc_monster_challenge_009"  "The avatar of Somnus丶M"
+
+"npc_fallenSky_unit"	"Heavenly punishment"
+
+
+"npc_hd_Dave_Chisnall"	"Chisnall"
+"npc_dota_wisp_spirit"	"Spirit"
+"npc_creater_spawner"	"Spawner"
+"npc_nether_ward"	"Nether Ward"
+"npc_hd_blood_wolf"	"Bloody Wolf"
+"npc_Advanced_Plague_Ward"	"Plague Ward"
+"npc_Advanced_Plague_Ward_2"	"Plague Ward(Sub)"
+"npc_hd_balnock"	"Soul of Balnock"
+"npc_hd_skeleton_archer"	"Skeleton Archer"
+"npc_hd_skeleton_archer_warrior"	"Skeleton Warrior"
+"npc_hd_normal_wolf"	"Wolf"
+"npc_hd_Golem"	"Golem"
+"npc_hd_water_element"	"Water Element"
+"npc_hd_healing_ward"	"Healing Ward"
+"npc_hd_earth_element"	"Earth Element"
+"npc_hd_jack_the_ripper"	"Jack The Ripper"
+"npc_hd_aghanim"	"Aghanim"
+
+"npc_hd_Slime"	"Slime"
+
+"npc_hd_double"	"Double"
+
+"DOTA_Tooltip_ability_GAME_Portal1"	"Portal 1"
+"DOTA_Tooltip_ability_GAME_Portal2"	"Portal 2"
+"npc_hd_mars_spear"	"SPARTAN SOLDIER"
+
+"npc_hd_shadowshaman_totem"	"Serpent Ward "
+"npc_hd_sk_double"	"Overlord"
+"npc_forge_spirit" "Forge Spirit"
+"npc_hd_water_element_advanced"	"Superior Water Element"
+"npc_hd_Beast_King_Guard"	"Boar Guard"
+"npc_hd_red_wolf"	"Scarlet Wolf"
+"npc_hd_wild_bear"	"Jungle Overlord"
+"npc_hd_cadaver_collector"	"Cadaver Collector"
+"npc_hd_undead_archmage"  "Undead Archmage"
+"npc_hd_lightning_sphere_element"  "Lightning Sphere Element"
+"npc_hd_advanced_lightning_sphere_element"  "Source Lightning Sphere Element"
+"npc_hd_verdant_predator"  "Verdant Predator"
+"npc_hd_chaotic_executive"  "Chaotic Executive"
+"npc_hd_astral_earth_element"  "Astral Earth Element"
+"npc_hd_fanged_seeker"  "Fanged Seeker"
+"npc_hd_healing_guard"  "IceHeart:Eil"
+"npc_hd_spirit_of_miyamoto"  "Spirit of Miyamoto"
+"npc_hd_Golem_5"    "Chaos Golem"
+
+
+
+
+
+
+
+
+
+
+"npc_hd_spider"	"Small Spider"
+
+
+
+
+"npc_hd_embodiment_of_the_terror_blade"  "Avatar · Terrorblade"
+
+
+
+"npc_hd_dark_rift"  "Dark Rift"
+"npc_hd_small_demon_1"  "Small Demon"
+"npc_hd_cave_troll"  "Cave Troll"
+"npc_hd_wind_element" "Wind Element"
+"npc_hd_immortal_sarcophagus" "Immortal Sarcophagus"
+"npc_hd_the_wings_of_oberis" "Wings of Oberis"

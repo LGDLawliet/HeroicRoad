@@ -1,0 +1,11 @@
+<root>
+  <Panel class="MapEffectContainer" hittest="false">
+    <Panel id="MapEffectList" />
+  </Panel>
+  <scripts>
+    <include src="file://{resources}/layout/custom_game/chaotic_mapeffect/map_effect_display.js" />
+  </scripts>
+  <styles>
+    <include src="file://{resources}/layout/custom_game/chaotic_mapeffect/map_effect_display.css" />
+  </styles>
+</root>

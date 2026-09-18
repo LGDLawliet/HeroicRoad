@@ -1,0 +1,799 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+
+{
+
+   sound_wheel_bobo_index_1 = 
+	{
+		type = "dota_src1_2d"
+		volume = 10.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_whys_that.vsnd",
+		]
+		vsnd_duration = 3.858435
+	}
+
+   sound_wheel_bobo_index_2 = 
+	{
+		type = "dota_src1_2d"
+		volume = 10.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_giegie.vsnd",
+		]
+		vsnd_duration = 3.858435
+	}
+	sound_wheel_bobo_index_3 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_i_killed_it.vsnd",
+		]
+		vsnd_duration = 6.858435
+	}
+	sound_wheel_bobo_index_4 = 
+	{
+		type = "dota_src1_2d"
+		volume = 10.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_i_love_hentai.vsnd",
+		]
+		vsnd_duration = 3.858435
+	}
+
+	sound_wheel_bobo_index_5 = 
+	{
+		type = "dota_src1_2d"
+		volume = 10.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_i_want_to_be_a_hentai.vsnd",
+		]
+		vsnd_duration = 4.858435
+	}
+	sound_wheel_bobo_index_6 = 
+	{
+		type = "dota_src1_2d"
+		volume = 10.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_u_should_know_what_u_know.vsnd",
+		]
+		vsnd_duration = 5.858435
+	}
+	sound_wheel_bobo_index_7 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_fight.vsnd",
+		]
+		vsnd_duration = 7.858435
+	}
+	sound_wheel_bobo_index_8 = 
+	{
+		type = "dota_src1_2d"
+		volume = 3.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_u_eat_xx.vsnd",
+		]
+		vsnd_duration = 3
+	}
+	sound_wheel_bobo_index_9 = 
+	{
+		type = "dota_src1_2d"
+		volume = 3.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_gahsdhgjasd_sha_le_ni.vsnd",
+		]
+		vsnd_duration = 3
+	}
+	sound_wheel_bobo_index_10 = 
+	{
+		type = "dota_src1_2d"
+		volume = 35.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_afk.vsnd",
+		]
+		vsnd_duration = 4
+	}
+	sound_wheel_bobo_index_11 = 
+	{
+		type = "dota_src1_2d"
+		volume = 35.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_miss_click.vsnd",
+		]
+		vsnd_duration = 3
+	}
+	sound_wheel_bobo_index_12 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_aiya.vsnd",
+		]
+		vsnd_duration = 5
+	}
+	sound_wheel_bobo_index_13 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_my_god.vsnd",
+		]
+		vsnd_duration = 5
+	}
+	sound_wheel_bobo_index_14 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_sad_for_u.vsnd",
+		]
+		vsnd_duration = 8
+	}
+	sound_wheel_bobo_index_15 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_so_gentle.vsnd",
+		]
+		vsnd_duration = 8
+	}
+
+	sound_wheel_bobo_index_16 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_so_many_green.vsnd",
+		]
+		vsnd_duration = 10
+	}
+	sound_wheel_bobo_index_17 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_wtf.vsnd",
+		]
+		vsnd_duration = 2
+	}
+
+	sound_wheel_bobo_index_18 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_ya_zhesha_yamp3.vsnd",
+		]
+		vsnd_duration = 10
+	}
+	sound_wheel_bobo_index_19 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_womeisi.vsnd",
+		]
+		vsnd_duration = 5
+	}
+		sound_wheel_bobo_index_20 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_aiyo.vsnd",
+		]
+		vsnd_duration = 7
+	}
+	sound_wheel_bobo_index_21 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_biwosha.vsnd",
+		]
+		vsnd_duration = 7
+	}
+	sound_wheel_bobo_index_22 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_jiuwo.vsnd",
+		]
+		vsnd_duration = 5
+	}
+	sound_wheel_bobo_index_23 = 
+	{
+		type = "dota_src1_2d"
+		volume = 30.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_duiduidui.vsnd",
+		]
+		vsnd_duration = 4
+	}
+	sound_wheel_bobo_index_24 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_be_careful_of_my_diss.vsnd",
+		]
+		vsnd_duration = 3
+	}
+	sound_wheel_bobo_index_25 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_diss_him.vsnd",
+		]
+		vsnd_duration = 4
+	}
+	sound_wheel_bobo_index_26 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_kan_le_le.vsnd",
+		]
+		vsnd_duration = 2.5
+	}
+	sound_wheel_bobo_index_27 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_laji.vsnd",
+		]
+		vsnd_duration = 6
+	}
+	sound_wheel_bobo_index_28 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_sinwo.vsnd",
+		]
+		vsnd_duration = 4
+	}
+
+
+	sound_wheel_bobo_index_29 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_thank_you.vsnd",
+		]
+		vsnd_duration = 2.5
+	}
+
+
+	sound_wheel_bobo_index_30 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_bieshuohua.vsnd",
+		]
+		vsnd_duration = 5
+	}
+
+
+	sound_wheel_bobo_index_31 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_dengdengwo.vsnd",
+		]
+		vsnd_duration = 5
+	}
+
+
+	sound_wheel_bobo_index_32 = 
+	{
+		type = "dota_src1_2d"
+		volume = 15.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_nice_guy.vsnd",
+		]
+		vsnd_duration = 5
+	}
+
+	sound_wheel_bobo_index_33 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_guofendian.vsnd",
+		]
+		vsnd_duration = 5
+	}
+
+	sound_wheel_bobo_index_34 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/bobo/bobo_i_fllow_u.vsnd",
+		]
+		vsnd_duration = 7
+	}
+
+
+
+
+
+
+
+
+
+	sound_wheel_chinese_index_1 = 
+	{
+		type = "dota_src1_2d"
+		volume = 10.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/chinese_iam_dead.vsnd",
+		]
+		vsnd_duration = 7.058435
+	}
+	sound_wheel_chinese_index_2 = 
+	{
+		type = "dota_src1_2d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/xiaoshao_duojian.vsnd",
+		]
+		vsnd_duration = 7.058435
+	}
+	sound_wheel_chinese_index_3 = 
+	{
+		type = "dota_src1_2d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/chenshao_shufu.vsnd",
+		]
+		vsnd_duration = 2.058435
+	}
+		sound_wheel_chinese_index_4 = 
+	{
+		type = "dota_src1_2d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/chenshao_wode.vsnd",
+		]
+		vsnd_duration = 2.058435
+	}
+	sound_wheel_chinese_index_5 = 
+	{
+		type = "dota_src1_2d"
+		volume = 10.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/xiaoshao_kanbudao.vsnd",
+		]
+		vsnd_duration = 3.058435
+	}
+
+	sound_wheel_chinese_index_6 = 
+	{
+		type = "dota_src1_2d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/lengmo_dont_chose_this.vsnd",
+		]
+		vsnd_duration = 3.058435
+	}
+
+	sound_wheel_chinese_index_7 = 
+	{
+		type = "dota_src1_2d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/lengmo_not_my_bad.vsnd",
+		]
+		vsnd_duration = 3.058435
+	}
+
+	sound_wheel_chinese_index_8 = 
+	{
+		type = "dota_src1_2d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/lengmo_ty_bros.vsnd",
+		]
+		vsnd_duration = 4.058435
+	}
+
+
+	sound_wheel_chinese_index_9 = 
+	{
+		type = "dota_src1_2d"
+		volume = 20.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/lengmo_xiaomituan.vsnd",
+		]
+		vsnd_duration = 5.058435
+	}
+
+
+
+
+
+	sound_wheel_japanese_index_1 = 
+	{
+		type = "dota_src1_2d"
+		volume = 4.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/l_i_will_do_it.vsnd",
+		]
+		vsnd_duration = 7.058435
+	}
+	sound_wheel_japanese_index_2 = 
+	{
+		type = "dota_src1_2d"
+		volume = 4.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/chinese/l_i_will_use_my_true_power.vsnd",
+		]
+		vsnd_duration = 8.058435
+	}
+
+
+
+
+	sound_wheel_xisuo_index_1 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/xisuo/xisuo_go_away.vsnd",
+		]
+		vsnd_duration = 1
+	}
+
+	sound_wheel_xisuo_index_2 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/xisuo/xisuo_i_am_e_dou.vsnd",
+		]
+		vsnd_duration = 10
+	}
+
+
+	sound_wheel_xisuo_index_3 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/xisuo/xisuo_no_bro_please.vsnd",
+		]
+		vsnd_duration = 5
+	}
+
+	sound_wheel_xisuo_index_4 = 
+	{
+		type = "dota_src1_2d"
+		volume = 25.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/xisuo/xisuo_u_cant_become_liubei.vsnd",
+		]
+		vsnd_duration = 6
+	}
+
+
+	sound_wheel_zhaoyun_index_1 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/zhaoyun/zhaoyun_big_bro_please_no.vsnd",
+		]
+		vsnd_duration = 3
+	}
+
+	sound_wheel_zhaoyun_index_2 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/zhaoyun/zhaoyun_help_me.vsnd",
+		]
+		vsnd_duration = 3
+	}
+
+	sound_wheel_zhaoyun_index_3 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/zhaoyun/zhaoyun_let_me_do_this.vsnd",
+		]
+		vsnd_duration = 3
+	}
+	sound_wheel_zhaoyun_index_4 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/zhaoyun/zhaoyun_wash_face.vsnd",
+		]
+		vsnd_duration = 3
+	}
+	sound_wheel_zhaoyun_index_5 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/zhaoyun/zhaoyun_where_is_zhaoyun.vsnd",
+		]
+		vsnd_duration = 3
+	}
+	sound_wheel_zhaoyun_index_6 = 
+	{
+		type = "dota_src1_2d"
+		volume = 5.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/zhaoyun/zhaoyun_whos_zhaoyun.vsnd",
+		]
+		vsnd_duration = 4
+	}
+
+
+
+
+
+	sound_wheel_tiejia_index_1 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/tiejia/tiejia_chemen.vsnd",
+		]
+		vsnd_duration = 4
+	}
+	sound_wheel_tiejia_index_2 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/tiejia/tiejia_die_again.vsnd",
+		]
+		vsnd_duration = 4
+	}
+	sound_wheel_tiejia_index_3 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/tiejia/tiejia_joker.vsnd",
+		]
+		vsnd_duration = 5
+	}
+	sound_wheel_tiejia_index_4 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/tiejia/tiejia_niemamadi.vsnd",
+		]
+		vsnd_duration = 5
+	}
+	sound_wheel_tiejia_index_5 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/tiejia/tiejia_revenge.vsnd",
+		]
+		vsnd_duration = 5
+	}
+	sound_wheel_tiejia_index_6 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/tiejia/tiejia_xiaocaibi.vsnd",
+		]
+		vsnd_duration = 4
+	}
+	sound_wheel_tiejia_index_7 = 
+	{
+		type = "dota_src1_2d"
+		volume = 2.000000
+		pitch = 1.000000
+		limiter_on = 4.000000
+		vsnd_files = 
+		[
+			"sounds/soud_wheel/tiejia/tiejia_yeyemeni.vsnd",
+		]
+		vsnd_duration = 4
+	}
+}

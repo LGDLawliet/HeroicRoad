@@ -1,0 +1,332 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc32:version{c5dcef98-b629-46ab-88e3-a17c005c935e} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "model"
+						filename = "models/rebuild/creeps/chaotic_era_chaoc_form/chaotic_era_chaoc_form_base.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimBindPose"
+						name = "bind_pose"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+					},
+					{
+						_class = "AnimIncludeModel"
+						disabled = true
+						model = "models/heroes/brewmaster/brewmaster_earthspirit.vmdl"
+					},
+					{
+						_class = "AnimIncludeModel"
+						disabled = true
+						model = "models/creeps/darkreef/gaoler/darkreef_gaoler.vmdl"
+					},
+					{
+						_class = "AnimIncludeModel"
+						model = "models/items/warlock/golem/warlock_the_infernal_master_golem/warlock_the_infernal_master_golem.vmdl"
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "BoneMarkupList"
+				bone_cull_type = "None"
+				primary_root_bone = ""
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "djinn_hub1_spine1_T2"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "djinn_hub1_spine1_arm2_hand"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack2"
+						parent_bone = "djinn_hub1_spine1_arm2_hand"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "Head_1"
+						parent_bone = "djinn_hub1_spine1_spine1_chain21"
+						relative_origin = [ -7.21896, 0.0, -4.26849 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "wrist_R"
+						parent_bone = "djinn_hub1_spine1_arm2_hand"
+						relative_origin = [ -25.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "wrist_L"
+						parent_bone = "djinn_hub1_spine1_arm1_hand"
+						relative_origin = [ 25.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_hand_left_fx"
+						parent_bone = "djinn_hub1_spine1_arm1_handBlend"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_eye_l_fx"
+						parent_bone = "djinn_hub1_spine1_spine1"
+						relative_origin = [ 5.330704, -16.791336, -5.653411 ]
+						relative_angles = [ 0.0, 0.0, -0.000229 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_eye_r_fx"
+						parent_bone = "djinn_hub1_spine1_spine1"
+						relative_origin = [ 5.3307, -16.7913, 5.65341 ]
+						relative_angles = [ 0.0, 0.0, -0.000229 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_tail_fx"
+						parent_bone = "djinn_hub1_chain19"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "select_low"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -101.198898, -93.520302, -97.4879 ]
+								hitbox_maxs = [ 99.670776, 93.522797, 78.428497 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "select_high"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -15.0934, -43.786499, -44.484924 ]
+								hitbox_maxs = [ 107.423065, 44.705399, 33.284901 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -107.866859, -52.2929, -43.799534 ]
+								hitbox_maxs = [ 15.6284, 52.295399, 34.520088 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "head"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_spine1_spine1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.11171, -23.749365, -19.024958 ]
+								hitbox_maxs = [ 19.148041, 14.402438, 14.502084 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "hands"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_spine1_arm1_hand"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -6.320793, -34.5098, -23.586933 ]
+								hitbox_maxs = [ 50.748634, 9.96039, 20.863199 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_spine1_arm2_hand"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -8.815865, -28.055361, -30.0226 ]
+								hitbox_maxs = [ 63.584202, 16.968918, 27.329399 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "feet"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_chain14"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -18.489767, -22.6429, -25.287252 ]
+								hitbox_maxs = [ 46.38628, 13.2644, 30.096231 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "djinn_hub1_chain15"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -30.042122, -46.392551, -37.354702 ]
+								hitbox_maxs = [ 13.4149, 7.316105, 20.722065 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "WeightListList"
+				children = 
+				[
+					{
+						_class = "WeightList"
+						name = "trail"
+						default_weight = 0.0
+						weights = 
+						[
+							{
+								bone = "sven_ti7_blade"
+								weight = 0.0
+							},
+							{
+								bone = "sven_ti7_blade_tip"
+								weight = 0.0
+							},
+							{
+								bone = "sven_ti7_side_l"
+								weight = 0.0
+							},
+							{
+								bone = "wrist_l"
+								weight = 0.0
+							},
+						]
+						master_morph_weight = -1.0
+						morph_weights = [  ]
+					},
+				]
+				disabled = true
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "materials/models/items/warlock/golem/warlock_the_infernal_master_golem/warlock_the_infernal_master_golem.vmat"
+								to = "models/rebuild/creeps/chaotic_era_chaoc_form/textures/chaoc_form_evil.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

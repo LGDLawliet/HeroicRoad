@@ -1,0 +1,83 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf37:version{f9a1c8c4-159b-4786-b740-4d1a118c8f46} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_bShouldSort = false
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 300.0, 300.0, 300.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_ground_proj.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_ground_detail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_ring.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_flek.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_shockwave_detail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_volume.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_totem_ground_crack.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_totem_sphere.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_dust.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_sphere.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_warp.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_light.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_shake.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_ground_crack.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_shockwave.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/after_shock/talent2/effect_streak.vpcf"
+		},
+	]
+}

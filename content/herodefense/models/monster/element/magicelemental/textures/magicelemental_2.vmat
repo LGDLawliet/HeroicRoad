@@ -1,0 +1,163 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 2 // Add Self Illum
+
+	//---- Effect Proxies ----
+	F_USE_HERO_EFFECTS_PROXY 1
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Enable wind ----
+	F_ENABLE_WIND 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.000"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[1.000 1.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "materials/models/heroes/ancient_apparition/ancientapparition_detail.psd"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "127.218"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[3.000 3.200]"
+	TextureDetail "[1.000000 1.000000 1.000000 1.000000]"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.000"
+	TextureDetail2 "materials/default/default_detail2.tga"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "1.000"
+	g_flBloomShift "1.000"
+	g_vBloomColor "[0.007843 0.000000 0.294118 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "[0.000000 0.000000 0.000000 0.000000]"
+	TextureDiffuseWarpMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureMetalnessMask "[0.000000 0.000000 0.000000 0.000000]"
+	TextureSelfIllumMask "models/monster/element/magicelemental/textures/t_magicelemental_e.png"
+
+	//---- Mask 2 ----
+	TextureRimMask "[0.929000 0.929000 0.929000 0.000000]"
+	TextureSpecularExponent "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularMask "[0.049000 0.049000 0.049000 0.000000]"
+	TextureTintByBaseMask "[0.027000 0.027000 0.027000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "[0.501961 0.501961 1.000000 0.000000]"
+
+	//---- Rim ----
+	g_flRimLightScale "12.435"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "32.000"
+	g_flSpecularScale "1000.000"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Wind ----
+	g_flWindFlexibility "0.042"
+	g_flWindHighFrequencyEffects "5.000"
+	g_flWindLowFrequencyEffects "5.000"
+	g_flWindSpeedMultiplier "2.000"
+	TextureWindMaskHigh "[1.000000 1.000000 1.000000 0.000000]"
+	TextureWindMaskLow "[1.000000 1.000000 1.000000 0.000000]"
+	TextureWindRandomNoise "materials/example/sand_path_example_normal.tif"
+
+	Attributes
+	{
+		PreviewModel "models/monster/element/magicelemental/magicelemental.vmdl"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+			"_expanded" 0
+		}
+		"Cloak"
+		{
+			"_expanded" 0
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+			"_expanded" 0
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+			"_expanded" 0
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+			"_expanded" 0
+		}
+		"Normal Map"
+		{
+			"_expanded" 0
+		}
+		"Rim"
+		{
+			"_expanded" 0
+		}
+		"Specular"
+		{
+			"_expanded" 0
+		}
+		"Wind"
+		{
+		}
+	}
+}

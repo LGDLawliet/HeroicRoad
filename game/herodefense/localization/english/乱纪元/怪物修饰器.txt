@@ -1,0 +1,106 @@
+
+
+
+"DOTA_Tooltip_modifier_lifeseeker_lifesteal"                   "Bloodthirsty"
+"DOTA_Tooltip_modifier_lifeseeker_lifesteal_Description"       "Attacks have %dMODIFIER_PROPERTY_TOOLTIP%%% lifesteal" 
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_assassin"                   "Assassin"
+"DOTA_Tooltip_modifier_chaotic_era_assassin_Description"       "Only becomes visible when within %dMODIFIER_PROPERTY_TOOLTIP% distance of an enemy" 
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_thirsty_furblog"                   "Hunger Attack"
+"DOTA_Tooltip_modifier_chaotic_era_thirsty_furblog_Description"       "Increases attack damage by %dMODIFIER_PROPERTY_TOOLTIP% with each attack" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_sharp_tooth_raider"                   "Fangs Attack"
+"DOTA_Tooltip_modifier_chaotic_era_sharp_tooth_raider_Description"       "Attacks can reduce target's armor by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_undying"                   "Death Resistance"
+"DOTA_Tooltip_modifier_chaotic_era_undying_Description"       "Upon receiving fatal damage, it can regenerate %dMODIFIER_PROPERTY_TOOLTIP%% of max health, and this effect can trigger multiple times until the allotted number of uses is exhausted" 
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_lava_attack"                   "Lava Attack"
+"DOTA_Tooltip_modifier_chaotic_era_lava_attack_Description"       "Attacks can cause %dMODIFIER_PROPERTY_TOOLTIP% radius of %dMODIFIER_PROPERTY_TOOLTIP%%% splash damage in an area" 
+
+
+"DOTA_Tooltip_modifier_chaotic_era_sea_attack"                   "Iron Tail"
+"DOTA_Tooltip_modifier_chaotic_era_sea_attack_Description"       "Gain %dMODIFIER_PROPERTY_TOOLTIP% points of attack armor penetration. If the target's armor is below %dMODIFIER_PROPERTY_TOOLTIP%, it also causes a stun for %fMODIFIER_PROPERTY_TOOLTIP% seconds."
+
+"DOTA_Tooltip_modifier_chaotic_era_acid_attack"                   "Brine Erosion"
+"DOTA_Tooltip_modifier_chaotic_era_acid_attack_Description"       "Attacks reduce the target's armor by %dMODIFIER_PROPERTY_TOOLTIP% points and decrease evasion by %fMODIFIER_PROPERTY_TOOLTIP%%%. The duration is refreshed on each hit and lasts for %dMODIFIER_PROPERTY_TOOLTIP% seconds. Can be weakly dispelled."
+"DOTA_Tooltip_modifier_chaotic_era_acid_attack_debuff"                   "Brine Erosion"
+"DOTA_Tooltip_modifier_chaotic_era_acid_attack_debuff_Description"       "Armor reduced by %dMODIFIER_PROPERTY_TOOLTIP% points, evasion decreased by %fMODIFIER_PROPERTY_TOOLTIP%%%. Can be weakly dispelled."
+
+"DOTA_Tooltip_modifier_chaotic_era_ice_attack"                   "Ice Crystal Attack"
+"DOTA_Tooltip_modifier_chaotic_era_ice_attack_Description"       "Attacks cause the target to take %dMODIFIER_PROPERTY_TOOLTIP%%% more damage, lasting for %MODIFIER_PROPERTY_TOOLTIP% seconds."
+"DOTA_Tooltip_modifier_chaotic_era_ice_attack_debuff"                   "Fragile Ice Crystal"
+"DOTA_Tooltip_modifier_chaotic_era_ice_attack_debuff_Description"       "Increases damage taken by %fMODIFIER_PROPERTY_TOOLTIP%%%."
+
+"DOTA_Tooltip_modifier_chaotic_era_chaotic_executive"                   "Chaotic Execution"
+"DOTA_Tooltip_modifier_chaotic_era_chaotic_executive_Description"       "Attacks can apply a debuff effect to the target, lasting for %dMODIFIER_PROPERTY_TOOLTIP% seconds. Each stack reduces the target's final damage by %dMODIFIER_PROPERTY_TOOLTIP%%%, and the duration is calculated independently, stacking with each application." 
+
+"DOTA_Tooltip_modifier_chaotic_era_chaotic_executive_debuff"                   "Chaotic Execution"
+"DOTA_Tooltip_modifier_chaotic_era_chaotic_executive_debuff_Description"       "Outgoing damage reduced by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_super_boxing"                   "Serious Punch"
+"DOTA_Tooltip_modifier_chaotic_era_super_boxing_Description"       "After every %dMODIFIER_PROPERTY_TOOLTIP% attacks, it can knockback the target by %dMODIFIER_PROPERTY_TOOLTIP% distance." 
+
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_hypnotic_pollen"                   "Hypnotic Pollen"
+"DOTA_Tooltip_modifier_chaotic_era_hypnotic_pollen_Description"       "When hit by attacks from within %dMODIFIER_PROPERTY_TOOLTIP% range, emit sleep-inducing pollen, reducing their attack speed by %dMODIFIER_PROPERTY_TOOLTIP% and movement speed by %dMODIFIER_PROPERTY_TOOLTIP%, lasting for %dMODIFIER_PROPERTY_TOOLTIP% seconds." 
+
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_hypnotic_pollen_debuff"                   "Hypnotic Pollen"
+"DOTA_Tooltip_modifier_chaotic_era_hypnotic_pollen_debuff_Description"       "Attack speed redeuced by %dMODIFIER_PROPERTY_TOOLTIP%%%, movespeed reduced by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_modifier_chaotic_era_self_regen"                   "Self-Healing"
+"DOTA_Tooltip_modifier_chaotic_era_self_regen_Description"       "Regenerate %dMODIFIER_PROPERTY_TOOLTIP%%% of maximum health per second." 
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_poison_boom"                   "Choking Deadwood"
+"DOTA_Tooltip_modifier_chaotic_era_poison_boom_Description"       "The Immortal Stump has a lifespan of only %dMODIFIER_PROPERTY_TOOLTIP% seconds. If it is not killed before its time runs out, it will release poisonous gas, permanently reducing all attributes of allied heroes by %dMODIFIER_PROPERTY_TOOLTIP% and applying a poison state dealing damage equal to %dMODIFIER_PROPERTY_TOOLTIP%%% of their maximum health."
+
+"DOTA_Tooltip_modifier_chaotic_era_poison_boom_debuff"                   "Miasma Infection"
+"DOTA_Tooltip_modifier_chaotic_era_poison_boom_debuff_Description"       "Infected by the miasma from the Immortal Stump, all attributes are reduced."
+
+
+"DOTA_Tooltip_modifier_chaotic_era_weak"                   "Level1 Weak"
+"DOTA_Tooltip_modifier_chaotic_era_weak_Description"       "The battle lasts too long, you become weak. All spell cooldowns increase by %dMODIFIER_PROPERTY_TOOLTIP%%%, and movement speed decreases by %dMODIFIER_PROPERTY_TOOLTIP%." 
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_weak2"                   "Level2 Weak"
+"DOTA_Tooltip_modifier_chaotic_era_weak2_Description"       "All attributes reduced by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_modifier_chaotic_era_weak3"                   "Level3 Weak"
+"DOTA_Tooltip_modifier_chaotic_era_weak3_Description"       "Unable to regenerate health, and mana recovery is significantly reduced." 
+
+
+

@@ -1,0 +1,38 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "global_lit_simple.vfx"
+
+	//---- Enable wind ----
+	F_ENABLE_WIND 1
+
+	//---- Translucent ----
+	F_TRANSLUCENT 1
+
+	//---- Wind that follows object Z ----
+	F_TRAVELLING_WIND_OBJECT_Z 1
+
+	//---- Color ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "materials/example/water_2.tif"
+
+	//---- Translucent ----
+	g_flOpacityScale "0.150"
+	TextureTranslucency "materials/default/default_trans.tga"
+
+	//---- Wind ----
+	g_flTravellingWindMagnitude "200.000"
+	g_flTravellingWindSpeed "0.200"
+	g_flTravellingWindWavelength "200.000"
+	g_flWindFlexibility "1.000"
+	g_flWindHighFrequencyEffects "0.000"
+	g_flWindLinearity "1.000"
+	g_flWindLowFrequencyEffects "5.000"
+	g_flWindSpeedMultiplier "2.000"
+	TextureWindMaskHigh "materials/default/default_mask.tga"
+	TextureWindMaskLow "[1.000000 1.000000 1.000000 0.000000]"
+	TextureWindRandomNoise "materials/models/heroes/invoker/forge_spirit_motion_detail.psd"
+}

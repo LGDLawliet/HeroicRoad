@@ -1,0 +1,14 @@
+
+
+"HUD_GAME_SHOP_Item_type_consumables"  "Consumables"
+"HUD_GAME_SHOP_Item_type_Equipment"  "Equipment"
+
+
+"HUD_GAME_SHOP_Item_type_All"  "Goods List"
+"HUD_GAME_SHOP_Item_type_EraSpecial"  "Era Special"
+
+
+
+
+"HUD_Potion_regen"  "Regen"
+"HUD_Potion_Buff"  "Buff"

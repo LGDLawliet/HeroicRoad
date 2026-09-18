@@ -1,0 +1,85 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "spring_meteor.vfx"
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Reflection cube map ----
+	F_REFLECT_CUBE_MAP 1
+
+	//---- Refraction cube map ----
+	F_REFRACT_CUBE_MAP 1
+
+	//---- Tint Color Cyling ----
+	F_TINT_CYCLE 1
+
+	//---- Tint Color Cyling Look Up Texture ----
+	F_TINT_CYCLE_LOOKUP_TEXTURE 1
+
+	//---- Color ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/monster/element/magicelemental/textures/magicelemental_diff.png"
+
+	//---- MeteorFX ----
+	g_flCubeMapPowerReflect "1.000"
+	g_flCubeMapPowerRefract "1.000"
+	g_flCubeMapScalarReflect "5.000"
+	g_flCubeMapScalarRefract "1.000"
+	g_flMeteorBloom "0.500"
+	g_flMeteorBloomSaturation "2.000"
+	g_flMeteorBloomThreshold "0.250"
+	g_flReflectBumpStrength "0.000"
+	g_flReflectRimPower "8.000"
+	g_flReflectRimStrength "1.000"
+	g_flRefractBumpStrength "2.000"
+	g_flRefractInnerGlow "1.000"
+	g_flRefractionIndex "1.200"
+	g_flSaturation "1.000"
+	g_flTintCycleFresnel "0.200"
+	g_flTintCycleMask "0.000"
+	g_flTintCycleSpeed "0.200"
+	g_flTintCycleWorldScale "[0.000 0.000 0.000]"
+	TextureCubeMapReflect "models/monster/element/magicelemental/textures/magicelemental_cube.png"
+	TextureCubeMapRefract "[0.721569 0.427451 1.000000 1.000000]"
+	TextureTintCycleLookup "models/monster/element/magicelemental/textures/color_looping.png"
+
+	//---- Normal Map ----
+	g_flBumpStrength "1.000"
+	TextureNormal "models/monster/element/magicelemental/textures/magicelemental_normal.png"
+
+	//---- Self Illum ----
+	TextureSelfIllumMask "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularIntensity "1.000"
+	TextureBloom "[1.000000 1.000000 1.000000 0.000000]"
+	TextureReflectance "[0.100000 0.100000 0.100000 0.000000]"
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+		"MeteorFX"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Self Illum"
+		{
+		}
+		"Specular"
+		{
+		}
+	}
+}

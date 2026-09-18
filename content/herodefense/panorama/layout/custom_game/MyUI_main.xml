@@ -1,0 +1,20 @@
+<root>
+         <styles>
+        <include src="file://{resources}/styles/custom_game/MyUI_main.css" />
+    </styles>
+    <scripts>
+        <include src="file://{resources}/scripts/custom_game/MyUI.js" />
+    </scripts>
+         <Panel hittest="false">
+                   <Panel id="MyUIMain" hittest="false">
+                            <Panel id="content">
+                                     <Label id="title" text="#MyUIMain_title"/>
+                                     <Panel id="buttons">
+                                               <Label class="buttonStyle" text="JavaScript-->Lua" onactivate ="JsToLua()"/>
+                                               <Label class="buttonStyle" text="Lua-->JavaScript" onactivate ="LuaToJs()"/>
+                                     </Panel>
+                                     <Image id="test" src="s2r://panorama/images/skills/first.png"/>
+                            </Panel>
+                   </Panel>
+         </Panel>
+</root>

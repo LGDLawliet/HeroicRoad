@@ -1,0 +1,103 @@
+// No spaces in event names, max length 32
+// All strings are case sensitive
+//
+// valid data key types are:
+//   string : a zero terminated string
+//   bool   : unsigned int, 1 bit
+//   byte   : unsigned int, 8 bit
+//   short  : signed int, 16 bit
+//   long   : signed int, 32 bit
+//   float  : float, 32 bit
+//   uint64 : unsigned int 64 bit
+//   local  : any data, but not networked to clients
+//
+// following key names are reserved:
+//   local      : if set to 1, event is not networked to clients
+//   unreliable : networked, but unreliable
+//   suppress   : never fire this event
+//   time	: firing server time
+//   eventid	: holds the event ID
+
+"CustomEvents"
+{
+	"dota_on_summon"
+	{
+		"unit"				"short"
+		"target"		"short"
+		"inflictor"			"short"
+		"duration"        "float"
+ 	}
+
+	"dota_on_Challenge_boss_die"
+	{
+		"unit"			"short"
+		"attacker"		"short"
+ 	}
+
+	"dota_on_game_fail"
+	{
+		"wave"		"short"
+ 	}
+
+
+	// "dota_hd_crit_hit"
+	// {
+	// 	"unit"			"short"
+	// 	"target"		"short"
+	// 	"inflictor"			"short"
+	// 	"damage_mul"			"short"
+	// 	"damage_mul_index" 	"short"
+	// 	"record" 	"short"
+		
+ 	// }
+
+	
+	"dota_hd_challenge_init"
+	{
+		"unit"			"short"
+		"difficulty" 	"short"
+		"challengeName"	"string"
+ 	}
+
+	"hd_get_unit_data"
+	{
+		// "modifier_index"			"short"
+		"unit_ent_index"			"short"
+		"function_name"				"string"
+	}
+	"openArtifactList"{
+		// "unit"			"short"
+	}
+
+
+	"hd_data_syn"
+	{
+		"data_name"			"string"
+		"value"		"short"
+ 	}
+	"hd_data_syn_abilityCustomValue"
+	{
+		"ability"				"short"
+		"data_name"			"string"
+		"value"		"short"
+ 	}
+	"ability_custom_indicator"
+	{
+		"type"			"string"
+		"ownerIndex"	"short"
+		"targetIndex"	"short"
+		"abilityName"	"string"
+		"x"				"float"
+		"y"				"float"
+		"z"				"float"
+		"startX"		"float"
+		"startY"		"float"
+		"startZ"		"float"
+		"forwardX"		"float"
+		"forwardY"		"float"
+		"forwardZ"		"float"
+		"overlap"		"bool"
+		"AOERadius"		"float"
+	}
+}
+

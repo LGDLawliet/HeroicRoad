@@ -1,0 +1,280 @@
+{
+	_class = "ClothShapeCapsule"
+	name = "elbow_R_clothCapsule"
+	parent_bone = "elbow_R"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 12.000000
+	radius1 = 12.000000
+	point0 = [-11.830142,0.291995,-0.034501]
+	point1 = [-7.821750,0.702053,0.135460]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "bicep_R_clothCapsule"
+	parent_bone = "bicep_R"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 9.900001
+	radius1 = 9.900001
+	point0 = [-20.612503,0.147137,-1.089896]
+	point1 = [-6.288788,0.590357,-3.244479]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "elbow_L_clothCapsule"
+	parent_bone = "elbow_L"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 12.000000
+	radius1 = 12.000000
+	point0 = [11.830142,-0.291994,0.034500]
+	point1 = [7.821750,-0.702052,-0.135460]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "bicep_L_clothCapsule"
+	parent_bone = "bicep_L"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 9.900001
+	radius1 = 9.900001
+	point0 = [20.612503,-0.147138,1.089895]
+	point1 = [6.288788,-0.590357,3.244479]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "clavicle_L_clothCapsule"
+	parent_bone = "clavicle_L"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 8.900001
+	radius1 = 8.900001
+	point0 = [13.182047,3.736854,-0.602556]
+	point1 = [7.110523,4.689295,1.409736]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "spine3_clothCapsule"
+	parent_bone = "spine3"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 12.000000
+	radius1 = 12.000000
+	point0 = [2.199999,10.000000,3.300000]
+	point1 = [2.200000,-10.000000,3.300000]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "spine2_clothCapsule"
+	parent_bone = "spine2"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 9.400001
+	radius1 = 9.400001
+	point0 = [1.599997,11.999999,6.599999]
+	point1 = [1.599995,-11.999999,6.599999]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "spine1_clothCapsule"
+	parent_bone = "spine1"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 10.500000
+	radius1 = 10.500000
+	point0 = [7.099998,9.999999,2.900000]
+	point1 = [7.099998,-9.999999,2.900000]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "root_clothCapsule"
+	parent_bone = "root"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 14.300000
+	radius1 = 14.300000
+	point0 = [-2.000000,7.000000,2.000000]
+	point1 = [-2.000000,-7.000000,2.000000]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "clavicle_R_clothCapsule"
+	parent_bone = "clavicle_R"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 8.900001
+	radius1 = 8.900001
+	point0 = [-13.182047,-3.736854,0.602556]
+	point1 = [-7.110523,-4.689295,-1.409736]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "knee_L_clothCapsule"
+	parent_bone = "knee_L"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 15.100000
+	radius1 = 15.100000
+	point0 = [25.750362,0.503747,-3.697975]
+	point1 = [6.798559,0.984456,-5.894590]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "knee_R_clothCapsule"
+	parent_bone = "knee_R"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 15.100000
+	radius1 = 15.100000
+	point0 = [-25.750362,-0.503744,3.697976]
+	point1 = [-6.798561,-0.984455,5.894590]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "thigh_R_clothCapsule"
+	parent_bone = "thigh_R"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 13.000000
+	radius1 = 13.000000
+	point0 = [-25.599138,0.815839,5.161068]
+	point1 = [-2.966272,3.659437,0.065151]
+
+},
+
+{
+	_class = "ClothShapeCapsule"
+	name = "thigh_L_clothCapsule"
+	parent_bone = "thigh_L"
+	cloth_collision_layer0 = true
+	cloth_collision_layer1 = true
+	cloth_collision_layer2 = true
+	cloth_collision_layer3 = true
+	cloth_stickiness = 0.0
+	cloth_collision_priority = 0
+	vertex_map = ""
+	inverted_collision = false
+	planarize = false
+	radius0 = 13.000000
+	radius1 = 13.000000
+	point0 = [25.599138,-0.815836,-5.161068]
+	point1 = [2.966272,-3.659437,-0.065151]
+
+},
+

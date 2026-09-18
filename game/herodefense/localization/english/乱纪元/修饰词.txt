@@ -1,0 +1,28 @@
+// chaotic_era_4  
+"step_to_the_top"   "Step to the Top"  
+"HUD_step_to_the_top_Info" "Selected monster queue:<br>Total growth increased by <font color=\"#92d3f8\"><upgrade_value>%</font><br>Total Rune progress increased by <font color=\"#92d3f8\"><progress_bonus>%</font><br>Total outgoing damage increased by <font color=\"#92d3f8\"><outgoing>%</font><br>Status resistance increased by <font color=\"#92d3f8\"><status>%</font><br><br>This bonus is already reflected in the data preview."  
+"DOTA_Tooltip_modifier_word_step_to_the_top"                   "Remaining Modifiers: Step to the Top"  
+"DOTA_Tooltip_modifier_word_step_to_the_top_Description"       "A modifier obtained through achievements, used to enhance selected monster queues via the top-right panel:<br><br>Increases monster growth, Rune progress, and outgoing damage, while granting status resistance."  
+
+// chaotic_era_rune_4  
+"word_bulky"   "Champion's Burden"  
+"HUD_word_bulky_Info" "Selected monster queue:<br>Total growth increased by <font color=\"#92d3f8\"><upgrade_value>%</font><br>Total Rune progress increased by <font color=\"#92d3f8\"><progress_bonus>%</font><br>Gains <font color=\"#92d3f8\"><no_armor></font> armor penetration<br>Status resistance increased by <font color=\"#92d3f8\"><status>%</font><br><br>This bonus is already reflected in the data preview."  
+"DOTA_Tooltip_modifier_word_bulky"                   "Remaining Modifiers: Champion's Burden"  
+"DOTA_Tooltip_modifier_word_bulky_Description"       "A modifier obtained through achievements, used to enhance selected monster queues via the top-right panel:<br><br>Increases monster growth and Rune progress, while granting armor penetration and status resistance."  
+
+"artifact_barracks"   "Legion's Gate"
+"artifact_barracks_info"   "Designated monster queue:<br><br>Bounty reduced by <font color=\"#92d3f8\"><gold_down>%</font><br>Spawn interval reduced by <font color=\"#92d3f8\"><interval_reduction>%</font><br><br>This bonus is already reflected in the data preview."
+"HUD_artifact_barracks_Info" "Designated monster queue:<br><br>Bounty reduced by <font color=\"#92d3f8\"><gold_down>%</font><br>Spawn interval reduced by <font color=\"#92d3f8\"><interval_reduction>%</font><br><br>This bonus is already reflected in the data preview."
+"DOTA_Tooltip_modifier_artifact_barracks"                   "Remaining Modifiers: Legion's Gate"
+"DOTA_Tooltip_modifier_artifact_barracks_Description"       "A modifier obtained through achievements, used to modify the monster queue via the upper-right panel:<br><br>Total monster growth increase, spawn interval reduction, and bounty decrease."
+// chaotic_era_rune_killer_4  
+// "divine_punishment"   "Divine Punishment"  
+// "HUD_divine_punishment_Info" "Selected monster queue:<br>Loses <font color=\"#92d3f8\"><lost_hp>%</font> of their health immediately upon spawning."  
+// "DOTA_Tooltip_modifier_divine_punishment"                   "Remaining Modifiers: Divine Punishment"  
+// "DOTA_Tooltip_modifier_divine_punishment_Description"       "A modifier obtained through achievements, used to enhance selected monster queues via the top-right panel:<br><br>Monsters immediately lose a portion of their health upon spawning."  
+
+// chaotic_era_rune_single_get_4  
+"the_more_the_better"   "The More, The Better"  
+"HUD_the_more_the_better_Info" "Selected non-elite monster queue: Monster count doubles, but the additional monsters only provide bounty."  
+"DOTA_Tooltip_modifier_the_more_the_better"                   "Remaining Modifiers: The More, The Better"  
+"DOTA_Tooltip_modifier_the_more_the_better_Description"       "A modifier obtained through achievements, used to enhance selected monster queues via the top-right panel:<br><br>Doubles the count of non-elite monsters."

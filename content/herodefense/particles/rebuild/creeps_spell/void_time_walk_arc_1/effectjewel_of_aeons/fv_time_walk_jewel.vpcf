@@ -1,0 +1,178 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf45:version{73c3d623-a141-4df2-b548-41dd786e6300} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 64
+	m_ConstantColor = [ 36, 216, 155, 255 ]
+	m_bShouldSort = false
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			m_flStartFadeSize = 0.2
+			m_flEndFadeSize = 0.25
+			m_flMaxSize = 0.25
+			m_flOverbrightFactor = 2.0
+			m_flAnimationRate = 1.25
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/smoke/maya_wispy/wispy_v2.vtex"
+				},
+			]
+			m_nOutputBlendMode = "PARTICLE_OUTPUT_BLEND_MODE_ADD"
+			m_nFogType = "PARTICLE_FOG_GAME_DEFAULT"
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+		},
+		{
+			_class = "C_OP_FadeOutSimple"
+			m_flFadeOutTime = 0.75
+		},
+		{
+			_class = "C_OP_ColorInterpolate"
+			m_ColorFade = [ 55, 32, 137, 255 ]
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 0.75
+				m_flRandomMax = 0.85
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+			}
+			m_nOutputField = 1
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 120.0
+				m_flRandomMax = 160.0
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+			}
+			m_nOutputField = 3
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 0.588235
+				m_flRandomMax = 0.784314
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+			}
+			m_nOutputField = 7
+		},
+		{
+			_class = "C_INIT_RandomSequence"
+			m_nSequenceMax = 10
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 0.0
+				m_flRandomMax = 360.0
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+				m_bHasRandomSignFlip = true
+			}
+			m_nOutputField = 4
+		},
+		{
+			_class = "C_INIT_CreateOnModel"
+			m_vecDirectionBias = [ 0.0, 0.0, -0.5 ]
+			m_vecHitBoxScale = 
+			{
+				m_nType = "PVEC_TYPE_LITERAL"
+				m_vLiteralValue = [ 0.5, 0.5, 0.5 ]
+			}
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMax = [ 41, 224, 235, 255 ]
+			m_ColorMin = [ 36, 216, 155, 255 ]
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin = [ 0.0, 0.0, 70.0 ]
+			m_OffsetMax = [ 0.0, 0.0, 70.0 ]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flOpEndFadeInTime = 1.0
+			m_flEmissionDuration = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 3.0
+			}
+			m_flStartTime = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.0
+			}
+			m_flEmitRate = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 60.0
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_pentagon_jewel.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_b_jewel.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_c_jewel.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_trail_b_jewel.vpcf"
+		},
+		{
+			m_flDelay = 0.1
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_trail_c_jewel.vpcf"
+		},
+		{
+			m_flDelay = 0.195
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_trail_d_jewel.vpcf"
+		},
+		{
+			m_flDelay = 0.13
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_trail_e_jewel.vpcf"
+		},
+		{
+			m_flDelay = 0.175
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_trail_f_jewel.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_burst_jewel.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/creeps_spell/void_time_walk_arc_1/effectjewel_of_aeons/fv_time_walk_pentagon_sml_jewel.vpcf"
+		},
+	]
+	m_PreEmissionOperators = [  ]
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 7
+	m_nViewModelEffect = "INHERITABLE_BOOL_INHERIT"
+}

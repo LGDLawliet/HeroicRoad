@@ -1,0 +1,90 @@
+GameUI.CustomUIConfig().ChaoticSpellKV_class4 = {
+	"chaotic_banishment": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_blight": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_ice_storm": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_stoneskin": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_greater_invisibility": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_freedom_of_movement": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_otilukes_resilient_sphere": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_phantasmal_killer": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_concentration_of_War_qi": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_cross_chop": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_savage_roar": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_protection_of_dodge": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_heimdallr_aura": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_insight": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_ability_promotion": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_gluttony": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_summon_element_water": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_physkill_master": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_lucent_beam": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_Arc_Lightning": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_frostmourne": {
+		"class_level": 4,
+		"weight": 100,
+	},
+	"chaotic_headshot": {
+		"class_level": 4,
+		"weight": 100,
+	},
+};

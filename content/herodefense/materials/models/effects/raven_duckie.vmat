@@ -1,0 +1,12 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"TextureColor"	"materials/models/effects/raven_balloon.png"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/models/effects/raven_balloon_psd_2469a4fe.vtex"
+	}
+}

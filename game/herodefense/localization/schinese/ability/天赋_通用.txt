@@ -1,0 +1,29 @@
+
+
+
+// 法术天才
+// magic_talent
+
+
+"DOTA_Tooltip_ability_general_talent_magic_insider"	"魔力洞悉者"
+"DOTA_Tooltip_ability_general_talent_magic_insider_Description"	"你获得了魔力感知的能力，随着回合的增加，你的施法能力获得提升.\n<h1>被动：魔力感知</h1>你的塑能系法术的效用获得回合数x%bonus_damage%%%，环数为%level_require%以内的塑能系法术额外获得%bonus_damage_low%%%效用加成。"
+"DOTA_Tooltip_ability_general_talent_magic_insider_Lore"	"有那么一些魔法师，对特定类型的法术的悟性超乎常人，因此使用时能发挥出额外的威力。"
+
+
+"DOTA_Tooltip_ability_general_talent_eternal_speed"	"永恒速度赋予"
+"DOTA_Tooltip_ability_general_talent_eternal_speed_Description"	"你的施加的加速永远生效，只要你不遗忘这个技能。"
+"DOTA_Tooltip_ability_general_talent_eternal_speed_Lore"	""
+
+
+"DOTA_Tooltip_ability_general_talent_budget_strictly"	"精打细算"
+"DOTA_Tooltip_ability_general_talent_budget_strictly_Description"	"学习此天赋后，你在商店列表中的物品都会以%bonus_discount%%%的优惠进行销售。"
+"DOTA_Tooltip_ability_general_talent_budget_strictly_Lore"	""
+
+
+
+
+"DOTA_Tooltip_ability_general_talent_budget_strictly"	"大客户"
+"DOTA_Tooltip_ability_general_talent_budget_strictly_Description"	"学习此天赋后，你在商店列表中的物品都会以%bonus_discount%%%的优惠进行销售。"
+"DOTA_Tooltip_ability_general_talent_budget_strictly_Lore"	""
+
+

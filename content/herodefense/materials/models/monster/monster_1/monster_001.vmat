@@ -1,0 +1,96 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- 2-Sided Rendering ----
+	F_RENDER_BACKFACES 1
+
+	//---- Detail ----
+	F_DETAIL 2 // Add Self Illum
+
+	//---- Effect Proxies ----
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.100"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.100"
+	g_flCloakIntensity "0.483"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[0.000 0.000 0.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "materials/models/monster/monster_1/t_tyranopode_basecolor2.jpg"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[1.000 1.000]"
+	TextureDetail "materials/models/heroes/earthshaker/totem_glow_detail.psd"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "1.000"
+	TextureDetail2 "[1.000000 1.000000 1.000000 1.000000]"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "2.261"
+	g_flBloomScale "0.200"
+	g_flBloomShift "0.000"
+	g_vBloomColor "[0.454902 0.454902 0.454902 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "materials/models/monster/monster_1/t_tyranopode_emissive.tga"
+	TextureDiffuseWarpMask "materials/default/default_diffusemask.tga"
+	TextureMetalnessMask "materials/models/monster/monster_1/t_tyranopode_metallicsmoothness.tga"
+	TextureSelfIllumMask "[0.317000 0.317000 0.317000 0.000000]"
+
+	//---- Mask 2 ----
+	TextureRimMask "materials/models/monster/monster_1/t_tyranopode_emissive.tga"
+	TextureSpecularExponent "materials/default/default_specexp.tga"
+	TextureSpecularMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureTintByBaseMask "materials/models/monster/monster_1/t_tyranopode_emissive.tga"
+
+	//---- Normal Map ----
+	TextureNormal "[0.501961 0.501961 1.000000 0.000000]"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[0.219608 0.219608 0.219608 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "13.463"
+	g_flSpecularScale "34.146"
+	g_vSpecularColor "[0.458824 0.458824 0.458824 0.000000]"
+
+	DynamicParams
+	{
+		g_vDetailTexCoordOffset "frac(float2(0,.3)*time())"
+	}
+}

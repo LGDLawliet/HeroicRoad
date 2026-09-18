@@ -1,0 +1,15 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"F_TRANSLUCENT"	"1"
+	"g_flOpacityScale"	"1"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"TextureColor"	"[1.000000 1.000000 1.000000 1.000000]"
+	"TextureTranslucency"	"materials/models/effects/gradient_shadow_00_trans.png"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/models/effects/gradient_shadow_00_trans_psd_84ff1577.vtex"
+	}
+}

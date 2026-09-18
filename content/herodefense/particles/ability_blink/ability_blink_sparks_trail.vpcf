@@ -1,0 +1,219 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vrfunknown:version{326b1595-45e8-4004-aa5a-3e08655ff51f} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 100
+	m_Renderers = 
+	[
+		
+		{
+			_class = "C_OP_RenderTrails"
+			m_flOverbrightFactor = 6.000000
+			m_flAddSelfAmount = 2.000000
+			m_bSaturateColorPreAlphaBlend = false
+			m_bIgnoreDT = true
+			m_flRadiusScale = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.500000
+			}
+			m_flTailAlphaScale = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.000000
+			}
+			m_vecTexturesInput = 
+			[
+				
+				{
+					m_hTexture = resource:"materials/particle/sparks/sparks.vtex"
+					m_TextureControls = 
+					{
+						m_flFinalTextureScaleV = 
+						{
+							m_nType = "PF_TYPE_LITERAL"
+							m_flLiteralValue = -1.000000
+						}
+						m_flFinalTextureOffsetV = 
+						{
+							m_nType = "PF_TYPE_LITERAL"
+							m_flLiteralValue = 1.000000
+						}
+					}
+				},
+			]
+		},
+	]
+	m_Operators = 
+	[
+		
+		{
+			_class = "C_OP_Decay"
+			m_flOpStartFadeInTime = 3.000000
+			m_flOpEndFadeInTime = 3.000000
+		},
+		
+		{
+			_class = "C_OP_FadeOutSimple"
+			m_flFadeOutTime = 0.500000
+		},
+		
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flStartScale = 3.000000
+			m_flEndScale = 0.000000
+			m_flBias = 0.750000
+		},
+		
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_Rate = -2.000000
+			m_nField = 10
+		},
+	]
+	m_Initializers = 
+	[
+		
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 0.130000
+				m_flRandomMax = 0.150000
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+			}
+			m_nOutputField = 1
+		},
+		
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 2.000000
+				m_flRandomMax = 10.000000
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+			}
+		},
+		
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 0.094118
+				m_flRandomMax = 0.501961
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+			}
+			m_nOutputField = 7
+		},
+		
+		{
+			_class = "C_INIT_CreateWithinSphereTransform"
+		},
+		
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMax = 
+			[
+				91,
+				133,
+				248,
+				255,
+			]
+			m_ColorMin = 
+			[
+				104,
+				229,
+				255,
+				255,
+			]
+		},
+		
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_RANDOM_UNIFORM"
+				m_flRandomMin = 0.050000
+				m_flRandomMax = 0.170000
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+			}
+			m_nOutputField = 10
+		},
+		
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMax = 
+			[
+				0.000000,
+				0.000000,
+				80.000000,
+			]
+			m_OffsetMin = 
+			[
+				0.000000,
+				0.000000,
+				80.000000,
+			]
+		},
+		
+		{
+			_class = "C_INIT_InitVec"
+			m_InputValue = 
+			{
+				m_nType = "PVEC_TYPE_RANDOM_UNIFORM_OFFSET"
+				m_vRandomMin = 
+				[
+					-2000.000000,
+					-2000.000000,
+					-2000.000000,
+				]
+				m_vRandomMax = 
+				[
+					2000.000000,
+					2000.000000,
+					2000.000000,
+				]
+				m_nVectorAttribute = 0
+				m_vVectorAttributeScale = 
+				[
+					1.000000,
+					1.000000,
+					1.000000,
+				]
+			}
+			m_nOutputField = 2
+		},
+	]
+	m_Emitters = 
+	[
+		
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 96.000000
+			}
+		},
+	]
+	m_controlPointConfigurations = 
+	[
+		
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_nBehaviorVersion = 5
+	m_nFirstMultipleOverride_BackwardCompat = 6
+}

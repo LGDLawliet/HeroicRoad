@@ -1,0 +1,16 @@
+<!-- xml reconstructed by ValveResourceFormat: https://vrf.steamdb.info/ -->
+<root>
+	<scripts>
+
+	</scripts>
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/ability_note/ability_note.css" />
+	</styles>
+	<snippets>
+
+	</snippets>
+	<Panel class="Additional_note_root hide">
+		<Label id="header" class = "additional_note_header small" text="#HUD_Chaotic_era_spell_level_info" html = "true"/>
+		<!-- <Label id="info"  class = "additional_note_info" text="{s:value2}"  html = "true"/> -->
+	</Panel>
+</root>

@@ -1,0 +1,1417 @@
+"DOTA_Tooltip_modifier_hd_cleave_damage"                   "分裂伤害"
+
+"DOTA_Tooltip_modifier_creeps_spell_fiery_soul"                   "炽魂"
+"DOTA_Tooltip_modifier_creeps_spell_fiery_soul_Description"       "赋予攻击速度与移动速度提升" 
+
+
+"DOTA_Tooltip_modifier_creeps_spell_breathe_fire"                   "火焰气息"
+"DOTA_Tooltip_modifier_creeps_spell_breathe_fire_Description"       "降低了攻击力" 
+
+
+"DOTA_Tooltip_modifier_creeps_spell_dracarys_damage_count"                   "龙焰"
+"DOTA_Tooltip_modifier_creeps_spell_dracarys_damage_count_Description"       "累计到一定数值后将进入龙怒状态" 
+
+
+"DOTA_Tooltip_modifier_dragon_blood_damage_count"                   "龙之血"
+"DOTA_Tooltip_modifier_dragon_blood_damage_count_Description"       "累计到一定数值后恢复生命值" 
+
+"DOTA_Tooltip_modifier_creeps_spell_source_fire"                   "始源之火"
+"DOTA_Tooltip_modifier_creeps_spell_source_fire_Description"       "受到持续伤害" 
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave38_fire_link_buff"                   "火焰本源之链"
+"DOTA_Tooltip_modifier_creeps_spell_Wave38_fire_link_buff_Description"       "累计到一定数值将为对方赋予强化" 
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave38_fire_link_buff_triger"                   "燃尽"
+"DOTA_Tooltip_modifier_creeps_spell_Wave38_fire_link_buff_triger_Description"       "赋予伤害无效化，赋予持续性范围伤害能力" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Aethrak_effect"                   "低阶埃斯瑞克之魂"
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Aethrak_effect_Description"       "赋予攻击速度与移动速度加成" 
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Aethrak_effect"                   "中阶埃斯瑞克之魂"
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Aethrak_effect_Description"       "赋予攻击速度与移动速度加成" 
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Aethrak_effect"                   "高阶埃斯瑞克之魂"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Aethrak_effect_Description"       "赋予攻击速度与移动速度加成" 
+
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_slark_buff"                   "能量转移"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_slark_buff_Description"       "赋予敏捷加成" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_skywrath_mage_buff"                   "顿悟"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_skywrath_mage_buff_Description"       "赋予智力与防御加成" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_tidehunter_effect"                   "毁灭"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_tidehunter_effect_Description"       "赋予状态抗性，魔法抗性，力量加成" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_morphling_effect_move"                   "平衡"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_morphling_effect_move_Description"       "赋予攻击力提升" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_morphling_effect_notMove"                   "平衡"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_morphling_effect_notMove_Description"       "赋予移动速度提升" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_earthshaker_buff"                   "回响"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_earthshaker_buff_Description"       "赋予力量提升" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_storm_spirit_debuff"                   "超负荷"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_storm_spirit_debuff_Description"       "攻击速度与移动速度被减缓" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_lina_buff"                   "燃魂"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_lina_buff_Description"       "移动速度和施法速度提高" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_gyrocopter"                   "侧面机枪"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_gyrocopter_Description"       "赋予额外攻击效果" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_legion_commander_effect"                   "决斗"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_legion_commander_effect_Description"       "赋予攻击力提升" 
+
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_doom_bringer"                   "恶魔领主"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_doom_bringer_Description"       "赋予攻击力提升，防御提升与魔法抗性提升" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_pudge"                   "腐肉堆叠"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_pudge_Description"       "赋予力量提升" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_ember_spirit"                   "余火"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_ember_spirit_Description"       "赋予免疫死亡的能力" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_void_spirit"                   "虚无之盾"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_void_spirit_Description"       "赋予伤害免疫" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_snapfire_buff"                   "霹雳铁手"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_snapfire_buff_Description"       "赋予忽略护甲与攻速提升" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_dawnbreaker_buff"                   "星魂"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_dawnbreaker_buff_Description"       "赋予全属性提升" 
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_marci_effect"                   "健体术"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_marci_effect_Description"       "赋予为同伴恢复生命的能力" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_elder_titan_effect"                   "自然秩序"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_elder_titan_effect_Description"       "减少护甲与魔法抗性" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_clinkz_damage"                   "死亡契约"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_clinkz_damage_Description"       "赋予攻击力提升" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_clinkz_health"                   "死亡契约"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_clinkz_health_Description"       "赋予生命值提升" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_drow_ranger_effect"                   "精准光环"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_drow_ranger_effect_Description"       "赋予敏捷提升" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_razor_active"                   "风暴之眼"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_razor_active_Description"       "削减防御" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_venomancer_active"                   "毒素混合"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_venomancer_active_Description"       "削减状态抗性" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_templar_assassin_effect"                   "折光"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_templar_assassin_effect_Description"       "赋予伤害减免" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_vengefulspirit_effect"                   "复仇"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_vengefulspirit_effect_Description"       "该单位受到伤害增加" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_naga_siren_arua_debuff"                   "海妖之歌"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_naga_siren_arua_debuff_Description"       "赋予生命恢复，但无法行动" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_naga_siren_arua"                   "海妖之歌"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_naga_siren_arua_Description"       "施法中" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_troll_warlord"                   "热血战魂"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_troll_warlord_Description"       "赋予攻击速度提升" 
+
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_nevermore_effect"                   "魔王降临"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_nevermore_effect_Description"       "降低防御力" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_hoodwink"                   "爆栗出击"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_hoodwink_Description"       "赋予额外的伤害" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_ursa_debuff"                   "怒意狂击"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_ursa_debuff_Description"       "熊战士对其攻击造成额外的伤害" 
+
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_medusa_effect"                   "石化凝视"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_medusa_effect_Description"       "这个单位随时可能被石化" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_medusa_stone"                   "石化凝视"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_medusa_stone_Description"       "被石化，受到额外物理伤害" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_medusa_delay"                   "石化凝视间隔时间"
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_puck_effect"                   "半步进化"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_puck_effect_Description"       "赋予法术能力提升" 
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_pugna"                   "湮灭术"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_pugna_Description"       "赋予法术能力提升" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_disruptor_effect"                   "风雷之击"
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_leshrac_effect"                   "虚无主义"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_leshrac_effect_Description"       "减少魔法抗性" 
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_necrolyte_effect"                   "死亡之域"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_necrolyte_effect_Description"       "治疗增强被削减" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_death_prophet"                   "死亡透支"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_death_prophet_Description"       "赋予技能伤害" 
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_shadow_shaman_debuff"                   "妖术"
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_visage"                   "陵卫斗篷"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_visage_Description"       "赋予伤害减免" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_lion_effect"                   "法力吸取"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_lion_effect_Description"       "被莱恩吸取法力中" 
+
+"DOTA_Tooltip_modifier_Shop_noob2"                   "又菜又爱玩"
+"DOTA_Tooltip_modifier_Shop_noob2_Description"       "来自作者的怜悯，希望这位玩家能早日变强" 
+
+
+"DOTA_Tooltip_modifier_Advanced_summons_undead_jack_the_ripper_buff"                   "嗜血"
+"DOTA_Tooltip_modifier_Advanced_summons_undead_jack_the_ripper_buff_Description"       "赋予攻击力提升" 
+
+"DOTA_Tooltip_modifier_Advanced_summons_undead_jack_the_ripper_debuff"                   "撕裂伤口"
+"DOTA_Tooltip_modifier_Advanced_summons_undead_jack_the_ripper_debuff_Description"       "敌人攻击自己可以吸血" 
+
+"DOTA_Tooltip_modifier_Shop_water"                   "水群哥"
+"DOTA_Tooltip_modifier_Shop_water_Description"       "赋予1点魔法恢复提升" 
+
+"DOTA_Tooltip_modifier_Shop_Bullshit"                   "屁话哥"
+"DOTA_Tooltip_modifier_Shop_Bullshit_Description"       "赋予1点魔法恢复提升" 
+
+
+
+"DOTA_Tooltip_modifier_Shop_Athenas_blessing"                   "雅典娜的福佑"
+"DOTA_Tooltip_modifier_Shop_Athenas_blessing_Description"       "尊贵的女玩家" 
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Vahdrak_effect"                   "混沌之力"
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Vahdrak_effect_Description"       "赋予攻击力提升" 
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Vahdrak_effect"                   "混沌之力"
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Vahdrak_effect_Description"       "赋予攻击力提升" 
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Vahdrak_effect"                   "混沌之力"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Vahdrak_effect_Description"       "赋予攻击能力提升" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Uldorak_effect"                   "大地之力"
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Uldorak_effect_Description"       "赋予防御能力提升" 
+
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Uldorak_effect"                   "大地之力"
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Uldorak_effect_Description"       "赋予防御能力提升" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Uldorak_effect"                   "大地之力"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Uldorak_effect_Description"       "赋予防御能力提升" 
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Uldorak_buff"                   "时间锁定"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Uldorak_buff_Description"       "多个维度的自己在互相影响" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_summons_ward_Aghanim_the_Wisest_buff_effect"                   "大聪明阿哈利姆之力"
+"DOTA_Tooltip_modifier_Primary_summons_ward_Aghanim_the_Wisest_buff_effect_Description"       "赋予法术能力提升" 
+
+"DOTA_Tooltip_modifier_Middle_summons_ward_Aghanim_the_Wisest_buff_effect"                   "大聪明阿哈利姆之力"
+"DOTA_Tooltip_modifier_Middle_summons_ward_Aghanim_the_Wisest_buff_effect_Description"       "赋予法术能力提升" 
+
+
+"DOTA_Tooltip_modifier_Advanced_summons_ward_Aghanim_the_Wisest_buff_effect"                   "大聪明阿哈利姆之力"
+"DOTA_Tooltip_modifier_Advanced_summons_ward_Aghanim_the_Wisest_buff_effect_Description"       "赋予法术能力提升" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Rot_slow"                   "高阶腐烂"
+"DOTA_Tooltip_modifier_Advanced_Rot_slow_Description"       "受到持续伤害且死亡爆炸" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_Blood_grudge_Dagger"                   "低阶怨血匕首"
+"DOTA_Tooltip_modifier_Primary_Blood_grudge_Dagger_Description"       "每秒受到持续伤害" 
+
+"DOTA_Tooltip_modifier_Middle_Blood_grudge_Dagger"                   "中阶怨血匕首"
+"DOTA_Tooltip_modifier_Middle_Blood_grudge_Dagger_Description"       "每秒受到持续伤害" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Blood_grudge_Dagger"                   "高阶怨血匕首"
+"DOTA_Tooltip_modifier_Advanced_Blood_grudge_Dagger_Description"       "每秒受到持续伤害" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Shop_sendBug_man"                   "自我抑制的回赠LV1"
+"DOTA_Tooltip_modifier_Shop_sendBug_man_Description"       "此人以抑制自己的套路换取游戏平衡获得的回赠奖励" 
+"DOTA_Tooltip_modifier_Shop_sendBug_man_2"                   "自我抑制的回赠LV2"
+"DOTA_Tooltip_modifier_Shop_sendBug_man_2_Description"       "此人以抑制自己的套路换取游戏平衡获得的回赠奖励" 
+"DOTA_Tooltip_modifier_Shop_sendBug_man_3"                   "自我抑制的回赠LV3"
+"DOTA_Tooltip_modifier_Shop_sendBug_man_3_Description"       "此人以抑制自己的套路换取游戏平衡获得的回赠奖励" 
+"DOTA_Tooltip_modifier_Shop_sendBug_man_4"                   "自我抑制的回赠LV4"
+"DOTA_Tooltip_modifier_Shop_sendBug_man_4_Description"       "此人以抑制自己的套路换取游戏平衡获得的回赠奖励" 
+"DOTA_Tooltip_modifier_Shop_sendBug_man_5"                   "自我抑制的回赠LV5"
+"DOTA_Tooltip_modifier_Shop_sendBug_man_5_Description"       "此人以抑制自己的套路换取游戏平衡获得的回赠奖励" 
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_clock_and_dagger"                   "中阶刀光谍影"
+"DOTA_Tooltip_modifier_Middle_clock_and_dagger_Description"       "赋予战斗能力加成" 
+"DOTA_Tooltip_modifier_Advanced_clock_and_dagger"                   "高阶刀光谍影"
+"DOTA_Tooltip_modifier_Advanced_clock_and_dagger_Description"       "赋予战斗能力加成" 
+
+"DOTA_Tooltip_modifier_Advanced_clock_and_dagger_delay"                   "大隐隐于市"
+"DOTA_Tooltip_modifier_Advanced_clock_and_dagger_delay_Description"       "延迟发动" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_necromastery"                   "低阶支配死灵"
+"DOTA_Tooltip_modifier_Primary_necromastery_Description"       "赋予攻击力提升" 
+"DOTA_Tooltip_modifier_Middle_necromastery"                   "中阶支配死灵"
+"DOTA_Tooltip_modifier_Middle_necromastery_Description"       "赋予攻击力提升" 
+"DOTA_Tooltip_modifier_Advanced_necromastery"                   "高阶支配死灵"
+"DOTA_Tooltip_modifier_Advanced_necromastery_Description"       "赋予攻击力提升" 
+
+"DOTA_Tooltip_modifier_Advanced_necromastery_bonus"                   "临时灵魂"
+"DOTA_Tooltip_modifier_Advanced_necromastery_bonus_Description"       "赋予攻击力提升" 
+
+"DOTA_Tooltip_modifier_Advanced_necromastery_debuff"                   "灵魂提取"
+"DOTA_Tooltip_modifier_Advanced_necromastery_debuff_Description"       "承受额外的物理伤害" 
+
+
+"DOTA_Tooltip_modifier_Middle_Corrosive_Skin"                   "中阶腐蚀皮肤"
+"DOTA_Tooltip_modifier_Middle_Corrosive_Skin_Description"       "赋予魔法抗性提升" 
+"DOTA_Tooltip_modifier_Advanced_Corrosive_Skin"                   "高阶腐蚀皮肤"
+"DOTA_Tooltip_modifier_Advanced_Corrosive_Skin_Description"       "赋予魔法抗性提升" 
+
+"DOTA_Tooltip_modifier_Primary_Corrosive_Skin_debuff"                   "低阶腐蚀皮肤"
+"DOTA_Tooltip_modifier_Primary_Corrosive_Skin_debuff_Description"       "降低攻击速度并受到持续伤害" 
+"DOTA_Tooltip_modifier_Middle_Corrosive_Skin_debuff"                   "中阶腐蚀皮肤"
+"DOTA_Tooltip_modifier_Middle_Corrosive_Skin_debuff_Description"       "降低攻击速度并受到持续伤害" 
+"DOTA_Tooltip_modifier_Advanced_Corrosive_Skin_debuff"                   "高阶腐蚀皮肤"
+"DOTA_Tooltip_modifier_Advanced_Corrosive_Skin_debuff_Description"       "降低攻击速度并受到持续伤害" 
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Corrosive_Skin_debuff2"                   "毒泉"
+"DOTA_Tooltip_modifier_Advanced_Corrosive_Skin_debuff2_Description"       "降低攻击速度并受到持续伤害" 
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_empower"                   "低阶授予力量"
+"DOTA_Tooltip_modifier_Primary_empower_Description"       "赋予%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%攻击力加成与%dMODIFIER_PROPERTY_TOOLTIP%%%分裂伤害效果" 
+"DOTA_Tooltip_modifier_Middle_empower"                   "中阶授予力量"
+"DOTA_Tooltip_modifier_Middle_empower_Description"       "赋予%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%攻击力加成与%dMODIFIER_PROPERTY_TOOLTIP%%%分裂伤害效果" 
+"DOTA_Tooltip_modifier_Advanced_empower"                   "高阶授予力量"
+"DOTA_Tooltip_modifier_Advanced_empower_Description"       "赋予%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%攻击力加成与%dMODIFIER_PROPERTY_TOOLTIP%%%分裂伤害效果" 
+
+
+"DOTA_Tooltip_modifier_Advanced_hyakkiyakou_debuff"                   "睡眠"
+"DOTA_Tooltip_modifier_Advanced_hyakkiyakou_debuff_Description"       "陷入沉睡" 
+
+
+"DOTA_Tooltip_modifier_Primary_fear_arua_effect"                   "恐惧"
+"DOTA_Tooltip_modifier_Primary_fear_arua_effect_Description"       "降低攻击力并受到额外伤害"
+"DOTA_Tooltip_modifier_Advanced_fear_arua_effect"                   "恐惧"
+"DOTA_Tooltip_modifier_Advanced_fear_arua_effect_Description"       "降低攻击力并受到额外伤害"
+"DOTA_Tooltip_modifier_Middle_fear_arua_effect"                   "恐惧"
+"DOTA_Tooltip_modifier_Middle_fear_arua_effect_Description"       "降低攻击力并受到额外伤害"
+
+"DOTA_Tooltip_modifier_Advanced_fear_arua_debuff"                   "恐慌"
+"DOTA_Tooltip_modifier_Advanced_fear_arua_debuff_Description"       "受到额外伤害"
+"DOTA_Tooltip_modifier_Middle_fear_arua_debuff"                   "恐慌"
+"DOTA_Tooltip_modifier_Middle_fear_arua_debuff_Description"       "受到额外伤害"
+
+
+"DOTA_Tooltip_modifier_Advanced_fear_arua_force_debuff"                   "集中恐惧"
+"DOTA_Tooltip_modifier_Advanced_fear_arua_force_debuff_Description"       "受到治疗效果降低，状态抗性削弱"
+"DOTA_Tooltip_modifier_Advanced_fear_arua_force_debuff"                   "恐惧传递"
+"DOTA_Tooltip_modifier_Advanced_fear_arua_force_debuff_Description"       "状态抗性削弱"
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_water_prison"                   "低阶水牢术"
+"DOTA_Tooltip_modifier_Primary_water_prison_Description"       "无法行动" 
+"DOTA_Tooltip_modifier_Middle_water_prison"                   "中阶水牢术"
+"DOTA_Tooltip_modifier_Middle_water_prison_Description"       "无法行动" 
+"DOTA_Tooltip_modifier_Advanced_water_prison"                   "高阶水牢术"
+"DOTA_Tooltip_modifier_Advanced_water_prison_Description"       "无法行动" 
+
+
+"DOTA_Tooltip_modifier_Middle_water_prison_debuff"                   "缓冲区"
+"DOTA_Tooltip_modifier_Middle_water_prison_debuff_Description"       "减缓速度" 
+"DOTA_Tooltip_modifier_Advanced_water_prison_debuff"                   "水牢术"
+
+
+
+
+
+"DOTA_Tooltip_modifier_Slime_arua_effect"                   "受到保护"
+"DOTA_Tooltip_modifier_Slime_arua_effect_Description"       "伤害将由史莱姆承担" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_bash_of_the_deep"                   "低阶深海重击"
+"DOTA_Tooltip_modifier_Primary_bash_of_the_deep_Description"       "到达一定点数后可以触发重击" 
+
+"DOTA_Tooltip_modifier_Primary_bash_of_the_deep_debuff"                   "低阶深海重击弱化"
+"DOTA_Tooltip_modifier_Primary_bash_of_the_deep_debuff_Description"       "眩晕效果受到削弱" 
+
+
+"DOTA_Tooltip_modifier_Middle_Boundless_Strike_effect"                   "定海"
+"DOTA_Tooltip_modifier_Middle_Boundless_Strike_effect_Description"       "赋予攻击力与攻击距离提升" 
+"DOTA_Tooltip_modifier_Advanced_Boundless_Strike_effect"                   "定海"
+"DOTA_Tooltip_modifier_Advanced_Boundless_Strike_effect_Description"       "赋予攻击力与攻击距离提升" 
+
+"DOTA_Tooltip_modifier_Advanced_Boundless_Strike_buff2"                   "战天"
+"DOTA_Tooltip_modifier_Advanced_Boundless_Strike_buff2_Description"       "赋予范围攻击效果" 
+
+
+"DOTA_Tooltip_modifier_Advanced_assassinate_effect"                   "等离子弹药"
+"DOTA_Tooltip_modifier_Advanced_assassinate_effect_Description"       "就绪后可以发射等离子弹药" 
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_corrosive_haze"                   "低阶侵蚀雾霭"
+"DOTA_Tooltip_modifier_Primary_corrosive_haze_Description"       "削弱护甲" 
+"DOTA_Tooltip_modifier_Middle_corrosive_haze"                   "中阶侵蚀雾霭"
+"DOTA_Tooltip_modifier_Middle_corrosive_haze_Description"       "削弱护甲" 
+"DOTA_Tooltip_modifier_Advanced_corrosive_haze"                   "高阶侵蚀雾霭"
+"DOTA_Tooltip_modifier_Advanced_corrosive_haze_Description"       "削弱护甲" 
+
+"DOTA_Tooltip_modifier_Advanced_corrosive_haze_debuff"                   "心智侵蚀"
+"DOTA_Tooltip_modifier_Advanced_corrosive_haze_debuff_Description"       "奖励基础攻击力" 
+
+"DOTA_Tooltip_modifier_Advanced_invincible_army_buff"                   "天雷之域"
+"DOTA_Tooltip_modifier_Advanced_invincible_army_buff_Description"       "赋予伤害提升" 
+
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2"                   "虚空鞋"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2_Description"       "显示冷却时间" 
+
+
+"DOTA_Tooltip_modifier_novice_player"                   "觉醒中"
+"DOTA_Tooltip_modifier_novice_player_Description"       "新手玩家：<br>自身经验和黄金结算收益增加40%% [+]<br>本局经验和黄金结算收益增加15%% [+]<br>乱纪元自身不会掉落阶级卷轴<br><br>满足以下条件时脱离新手：<br>解锁阶级技能>=70个<br>左上角图鉴内升至15级的阶级技能>=15个" 
+
+
+
+
+"DOTA_Tooltip_modifier_underlord_challenge_Atrophy_Aura_effect"                   "衰退"
+"DOTA_Tooltip_modifier_underlord_challenge_Atrophy_Aura_effect_Description"       "削弱了基础攻击力" 
+
+
+"DOTA_Tooltip_modifier_underlord_challenge_Pit_of_Malice_effect"                   "怨念深渊"
+"DOTA_Tooltip_modifier_underlord_challenge_Pit_of_Malice_effect_Description"       "被缠绕，受到额外伤害，对孽主造成伤害减少" 
+
+"DOTA_Tooltip_modifier_underlord_challenge_Firestorm_effect"                   "火焰风暴"
+"DOTA_Tooltip_modifier_underlord_challenge_Firestorm_effect_Description"       "受到持续伤害" 
+
+"DOTA_Tooltip_modifier_luna_challenge_Lunar_Blessing_effect"                   "月之祝福"
+"DOTA_Tooltip_modifier_luna_challenge_Lunar_Blessing_effect_Description"       "赋予攻击力加成" 
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Stifling_Dagger_Unlock1_effect"                   "狂风暴雨"
+"DOTA_Tooltip_modifier_Advanced_Greevils_Greed_units_buff"                   "潘多拉魔盒"
+"DOTA_Tooltip_modifier_Advanced_Greevils_Greed_units_buff_Description"       "赋予属性全面提升" 
+
+"DOTA_Tooltip_modifier_Advanced_Greevils_Greed_have_father"                   "父亲的承诺"
+"DOTA_Tooltip_modifier_Advanced_Greevils_Greed_have_father_Description"       "已经拥有一名父亲" 
+"DOTA_Tooltip_modifier_Advanced_Greevils_Greed_father"                   "父子情深"
+"DOTA_Tooltip_modifier_Advanced_Greevils_Greed_father_Description"       "为一名英雄的父亲" 
+
+"DOTA_Tooltip_modifier_Advanced_Lightning_Bolt_debuff"                   "电透"
+"DOTA_Tooltip_modifier_Advanced_Lightning_Bolt_debuff_Description"       "受到更多的雷击伤害" 
+
+
+"DOTA_Tooltip_modifier_unit_cooldownReduction"                   "冷却缩减"
+"DOTA_Tooltip_modifier_unit_cooldownReduction_Description"       "减少%fMODIFIER_PROPERTY_COOLDOWN_PERCENTAGE%%%冷却时间" 
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Static_Field_bound_fields_thinker"                   "高斯束缚场"
+"DOTA_Tooltip_modifier_Advanced_Static_Field_bound_fields_thinker_Description"       "对周围敌人限制移动速度且造成持续伤害" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_Unlock1"                   "融合"
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_Unlock1_Description"       "赋予锚击的全部效果" 
+
+"DOTA_Tooltip_modifier_Advanced_Soul_Link"                   "灵魂链接"
+"DOTA_Tooltip_modifier_Advanced_Soul_Link_Description"       "赋予召唤增强" 
+
+"DOTA_Tooltip_modifier_Advanced_Soul_Link_unlock3_buff"                   "灵魂变迁"
+"DOTA_Tooltip_modifier_Advanced_Soul_Link_unlock3_buff_Description"       "赋予全属性提升" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Blood_Lust_unlock3"                   "嗜血印记"
+"DOTA_Tooltip_modifier_Advanced_Blood_Lust_unlock3_Description"       "赋予战斗能力大幅度提升" 
+
+"DOTA_Tooltip_modifier_Advanced_Blood_Lust_unlock3_sub"                   "嗜血"
+"DOTA_Tooltip_modifier_Advanced_Blood_Lust_unlock3_sub_Description"       "赋予战斗能力大幅度提升" 
+
+"DOTA_Tooltip_modifier_Advanced_aether_remnant_passive"                   "维度重合"
+"DOTA_Tooltip_modifier_Advanced_aether_remnant_passive_Description"       "赋予攻击触发残阴" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Dispersion_receive_point"                   "衍射孔"
+"DOTA_Tooltip_modifier_Advanced_Dispersion_receive_point_Description"       "充当折射衍射孔" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Dispersion_unlock3_effect"                   "折射"
+"DOTA_Tooltip_modifier_Advanced_Dispersion_unlock3_effect_Description"       "状态到期后结算伤害" 
+
+"DOTA_Tooltip_modifier_Advanced_Counter_Helix"                   "反击风暴"
+"DOTA_Tooltip_modifier_Advanced_Counter_Helix_Description"       "储存反击点数" 
+
+"DOTA_Tooltip_modifier_Advanced_Coup_De_Grace_unlock2"                   "宿命"
+"DOTA_Tooltip_modifier_Advanced_Coup_De_Grace_unlock2_Description"       "刀刀烈火" 
+
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_Aura_effect"                   "威压"
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_Aura_effect_Description"       "减少护甲" 
+
+"DOTA_Tooltip_modifier_king_of_translation"                   "翻译之神"
+"DOTA_Tooltip_modifier_king_of_translation_Description"       "此人以闪电般的速度在一周的时间里几乎完成了俄语翻译，其中更有连续3天没睡觉，为表达感谢赠与了一些属性" 
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_active_unlock3"                   "永恒的预言微光"
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_active_unlock3_Description"       "赋予持续治疗" 
+
+"DOTA_Tooltip_modifier_Advanced_shockwave_debuff2"                   "崩坏"
+"DOTA_Tooltip_modifier_Advanced_shockwave_debuff2_Description"       "减少护甲" 
+
+"DOTA_Tooltip_modifier_Advanced_chaos_strike_buff"                   "混沌裁决"
+"DOTA_Tooltip_modifier_Advanced_chaos_strike_buff_Description"       "赋予攻击力提升" 
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_Electrostatic_Armor_damage_count"                   "低阶静电护甲"
+"DOTA_Tooltip_modifier_Primary_Electrostatic_Armor_damage_count_Description"       "赋予魔法抗性，记录伤害值" 
+"DOTA_Tooltip_modifier_Middle_Electrostatic_Armor_damage_count"                   "中阶静电护甲"
+"DOTA_Tooltip_modifier_Middle_Electrostatic_Armor_damage_count_Description"       "赋予魔法抗性，记录伤害值" 
+"DOTA_Tooltip_modifier_Advanced_Electrostatic_Armor_damage_count"                   "高阶静电护甲"
+"DOTA_Tooltip_modifier_Advanced_Electrostatic_Armor_damage_count_Description"       "赋予魔法抗性，记录伤害值" 
+
+"DOTA_Tooltip_modifier_Advanced_Electrostatic_Armor_shield"                   "高阶静电护甲"
+"DOTA_Tooltip_modifier_Advanced_Electrostatic_Armor_shield_Description"       "赋予护盾" 
+
+
+"DOTA_Tooltip_modifier_Primary_Acid_bomb_debuff"                   "低阶酸液池"
+"DOTA_Tooltip_modifier_Primary_Acid_bomb_debuff_Description"       "造成持续伤害与减速" 
+"DOTA_Tooltip_modifier_Middle_Acid_bomb_debuff"                   "中阶酸液池"
+"DOTA_Tooltip_modifier_Middle_Acid_bomb_debuff_Description"       "造成持续伤害与减速" 
+"DOTA_Tooltip_modifier_Advanced_Acid_bomb_debuff"                   "高阶酸液池"
+"DOTA_Tooltip_modifier_Advanced_Acid_bomb_debuff_Description"       "造成持续伤害与减速" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Acid_bomb_turret"                   "霰弹枪"
+"DOTA_Tooltip_modifier_Advanced_Acid_bomb_turret_Description"       "持续释放酸液弹" 
+
+
+"DOTA_Tooltip_modifier_creeps_spell_harpy_wind_debuff"                   "闪电链"
+"DOTA_Tooltip_modifier_creeps_spell_harpy_wind_debuff_Description"       "减缓移动速度" 
+
+"DOTA_Tooltip_modifier_creeps_spell_Fist_of_anger_debuff"                   "愤怒之拳"
+"DOTA_Tooltip_modifier_creeps_spell_Fist_of_anger_debuff_Description"       "减缓移动速度" 
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Crab_bubble_effect"                   "泡泡中的生活"
+"DOTA_Tooltip_modifier_creeps_spell_Crab_bubble_effect_Description"       "减缓移动速度" 
+
+
+"DOTA_Tooltip_modifier_creeps_spell_troll_roar_buff"                   "激怒"
+"DOTA_Tooltip_modifier_creeps_spell_troll_roar_buff_Description"       "增加移动速度与攻击速度" 
+
+"DOTA_Tooltip_modifier_creeps_spell_troll_roar_trigger_effect"                   "惊吓"
+"DOTA_Tooltip_modifier_creeps_spell_troll_roar_trigger_effect_Description"       "减少部分护甲" 
+
+
+"DOTA_Tooltip_modifier_creeps_spell_troll_regen_damage_count"                   "巨魔之血"
+"DOTA_Tooltip_modifier_creeps_spell_troll_regen_damage_count_Description"       "赋予生命恢复" 
+
+
+"DOTA_Tooltip_modifier_creeps_spell_damage_delay_damage_count"                   "无视痛苦"
+"DOTA_Tooltip_modifier_creeps_spell_damage_delay_damage_count_Description"       "累计伤害值" 
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_evil_eye_debuff"                   "邪恶之眸"
+"DOTA_Tooltip_modifier_creeps_spell_evil_eye_debuff_Description"       "减少伤害与状态抗性" 
+
+
+
+
+"DOTA_Tooltip_modifier_stroke_of_fate_debuff_unlock1"                   "败笔"
+"DOTA_Tooltip_modifier_stroke_of_fate_debuff_unlock1_Description"       "大幅度提升受到伤害" 
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura"                   "隆冬之种"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_Description"       "寒气累计值" 
+
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_frozen"                   "冰封"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_frozen_Description"       "冻结且受到额外魔法伤害" 
+
+"DOTA_Tooltip_modifier_Advanced_quadruple_chop_passive"                   "剑术专研"
+"DOTA_Tooltip_modifier_Advanced_quadruple_chop_passive_Description"       "累计点数" 
+"DOTA_Tooltip_modifier_Advanced_quadruple_chop_debuff"                   "灭魂"
+"DOTA_Tooltip_modifier_Advanced_quadruple_chop_debuff_Description"       "永久性降低护甲" 
+"DOTA_Tooltip_modifier_Advanced_Plague_unlock3"                   "进化"
+"DOTA_Tooltip_modifier_Advanced_Plague_unlock3_Description"       "累计点数" 
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_unlock3"                   "反活性"
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_unlock3_Description"       "减少护甲" 
+"DOTA_Tooltip_modifier_Advanced_summon_wolves_leder_unlock1"                   "协同作战"
+"DOTA_Tooltip_modifier_Advanced_summon_wolves_leder_unlock1_Description"       "攻击有几率使狼族头领发动攻击" 
+"DOTA_Tooltip_modifier_Chaotic_Offering_ambient_buff_unlock3"                   "共体"
+"DOTA_Tooltip_modifier_Chaotic_Offering_ambient_buff_unlock3_Description"       "大幅度提升属性" 
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff"                   "重力魔法"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff_Description"       "被大幅度减缓移动速度" 
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_unlock2"                   "悲鸣绝唱"
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_unlock2_Description"       "赋予全属性提升" 
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_unlock3_effect"                   "绝死之声"
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_unlock3_effect_Description"       "受到额外伤害" 
+
+"DOTA_Tooltip_modifier_Advanced_Body_of_Effulgent_Beryl_unlock2_effect"                   "不可破之域"
+"DOTA_Tooltip_modifier_Advanced_Body_of_Effulgent_Beryl_unlock2_effect_Description"       "赋予光辉翠绿体被动效果" 
+
+"DOTA_Tooltip_modifier_Advanced_dragon_slave_unlock1"                   "红魔女的奥秘"
+"DOTA_Tooltip_modifier_Advanced_dragon_slave_unlock1_effect_Description"       "赋予龙破斩伤害增强" 
+
+
+"DOTA_Tooltip_modifier_Primary_cold_embrace_buff"                   "低价极寒之拥"
+"DOTA_Tooltip_modifier_Primary_cold_embrace_buff_Description"       "赋予物理伤害格挡与生命恢复" 
+"DOTA_Tooltip_modifier_Middle_cold_embrace_buff"                   "中阶极寒之拥"
+"DOTA_Tooltip_modifier_Middle_cold_embrace_buff_Description"       "赋予物理伤害格挡与生命恢复" 
+"DOTA_Tooltip_modifier_Advanced_cold_embrace_buff"                   "高阶极寒之拥"
+"DOTA_Tooltip_modifier_Advanced_cold_embrace_buff_Description"       "赋予物理伤害格挡与生命恢复" 
+"DOTA_Tooltip_modifier_Advanced_cold_embrace_buff_bonus"                   "冰镇西瓜"
+"DOTA_Tooltip_modifier_Advanced_cold_embrace_buff_bonus_Description"       "赋予物理伤害格挡与生命恢复" 
+
+
+"DOTA_Tooltip_modifier_Primary_howl_debuff"                   "低价嗥叫"
+"DOTA_Tooltip_modifier_Primary_howl_debuff_Description"       "减少攻击力与防御力" 
+"DOTA_Tooltip_modifier_Middle_howl_debuff"                   "中阶嗥叫"
+"DOTA_Tooltip_modifier_Middle_howl_debuff_Description"       "减少攻击力与防御力" 
+"DOTA_Tooltip_modifier_Advanced_howl_debuff"                   "高阶嗥叫"
+"DOTA_Tooltip_modifier_Advanced_howl_debuff_Description"       "减少攻击力与防御力" 
+
+"DOTA_Tooltip_modifier_Advanced_howl_buff"                   "高阶嗥叫"
+"DOTA_Tooltip_modifier_Advanced_howl_buff_Description"       "赋予攻击力与防御力提升" 
+
+"DOTA_Tooltip_modifier_Primary_lunar_blessing_effect"                   "低价月之祝福"
+"DOTA_Tooltip_modifier_Primary_lunar_blessing_effect_Description"       "赋予攻击力提升" 
+"DOTA_Tooltip_modifier_Middle_lunar_blessing_effect"                   "中阶月之祝福"
+"DOTA_Tooltip_modifier_Middle_lunar_blessing_effect_Description"       "赋予攻击力提升" 
+"DOTA_Tooltip_modifier_Advanced_lunar_blessing_effect"                   "高阶月之祝福"
+"DOTA_Tooltip_modifier_Advanced_lunar_blessing_effect_Description"       "赋予攻击力提升" 
+
+
+"DOTA_Tooltip_modifier_Middle_lunar_blessing_active"                   "进入良夜"
+"DOTA_Tooltip_modifier_Middle_lunar_blessing_active_Description"       "强制进入夜晚" 
+"DOTA_Tooltip_modifier_Advanced_lunar_blessing_active"                   "进入良夜"
+"DOTA_Tooltip_modifier_Advanced_lunar_blessing_active_Description"       "强制进入夜晚" 
+
+"DOTA_Tooltip_modifier_Advanced_hunter_in_the_night_active"                   "暗夜降临"
+"DOTA_Tooltip_modifier_Advanced_hunter_in_the_night_active_Description"       "强制进入黑夜" 
+"DOTA_Tooltip_modifier_Middle_hunter_in_the_night_active"                   "暗夜降临"
+"DOTA_Tooltip_modifier_Middle_hunter_in_the_night_active_Description"       "强制进入黑夜" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_Bloodrage_buff"                   "低价血怒"
+"DOTA_Tooltip_modifier_Primary_Bloodrage_buff_Description"       "赋予攻击速度与物理技能伤害提升" 
+"DOTA_Tooltip_modifier_Middle_Bloodrage_buff"                   "中阶血怒"
+"DOTA_Tooltip_modifier_Middle_Bloodrage_buff_Description"       "赋予攻击速度与物理技能伤害提升" 
+"DOTA_Tooltip_modifier_Advanced_Bloodrage_buff"                   "高阶血怒"
+"DOTA_Tooltip_modifier_Advanced_Bloodrage_buff_Description"       "赋予攻击速度与物理技能伤害提升" 
+
+"DOTA_Tooltip_modifier_Advanced_Bloodrage_buff_lv20"                   "血液储蓄"
+"DOTA_Tooltip_modifier_Advanced_Bloodrage_buff_lv20_Description"       "能量点数" 
+"DOTA_Tooltip_modifier_Advanced_double_edge_buff"                   "无视痛苦"
+"DOTA_Tooltip_modifier_Advanced_double_edge_buff_Description"       "减少对己伤害" 
+
+
+"DOTA_Tooltip_modifier_Advanced_double_edge_buff_lv15"                   "战行"
+"DOTA_Tooltip_modifier_Advanced_double_edge_buff_lv15_Description"       "根据移动距离提升伤害" 
+"DOTA_Tooltip_modifier_Advanced_double_edge_buff_lv20"                   "自我挑战"
+"DOTA_Tooltip_modifier_Advanced_double_edge_buff_lv20_Description"       "将可以附带最大生命值伤害" 
+
+
+"DOTA_Tooltip_modifier_Primary_enchant_totem"                   "低价强化图腾"
+"DOTA_Tooltip_modifier_Primary_enchant_totem_Description"       "赋予攻击力提升" 
+"DOTA_Tooltip_modifier_Middle_enchant_totem"                   "中阶强化图腾"
+"DOTA_Tooltip_modifier_Middle_enchant_totem_Description"       "赋予攻击力提升" 
+"DOTA_Tooltip_modifier_Advanced_enchant_totem"                   "高阶强化图腾"
+"DOTA_Tooltip_modifier_Advanced_enchant_totem_Description"       "赋予攻击力提升" 
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_finger_of_death_count"                   "死亡一指击杀数"
+"DOTA_Tooltip_modifier_Primary_finger_of_death_count_Description"       "增加技能伤害" 
+
+"DOTA_Tooltip_modifier_Middle_finger_of_death_count"                   "死亡一指击杀数"
+"DOTA_Tooltip_modifier_Middle_finger_of_death_count_Description"       "增加技能伤害" 
+
+"DOTA_Tooltip_modifier_Advanced_finger_of_death_count"                   "死亡一指击杀数"
+"DOTA_Tooltip_modifier_Advanced_finger_of_death_count_Description"       "增加技能伤害" 
+
+"DOTA_Tooltip_modifier_Middle_finger_of_death_debuff"                   "魔力枯竭"
+"DOTA_Tooltip_modifier_Middle_finger_of_death_debuff_Description"       "需要使用更多的魔法才能施展法术" 
+"DOTA_Tooltip_modifier_Advanced_finger_of_death_debuff"                   "魔力枯竭"
+"DOTA_Tooltip_modifier_Advanced_finger_of_death_debuff_Description"       "需要使用更多的魔法才能施展法术" 
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_brain_sap_debuff"                   "恶念"
+"DOTA_Tooltip_modifier_Middle_brain_sap_debuff_Description"       "累计伤害值" 
+"DOTA_Tooltip_modifier_Advanced_brain_sap_debuff"                   "恶念"
+"DOTA_Tooltip_modifier_Advanced_brain_sap_debuff_Description"       "累计伤害值" 
+
+
+"DOTA_Tooltip_modifier_Advanced_brain_sap_buff"                   "痛苦倍增"
+"DOTA_Tooltip_modifier_Advanced_brain_sap_buff_Description"       "提升技能伤害" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_unlock2_debuff"                   "猩红腐败"
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_unlock2_debuff_Description"       "受到持续性伤害" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Chakra_unlock1"                   "魔力宝库"
+"DOTA_Tooltip_modifier_Advanced_Chakra_unlock1_Description"       "增加最大魔法值" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Chakra_unlock3"                   "神灯赐福"
+"DOTA_Tooltip_modifier_Advanced_Chakra_unlock3_Description"       "我想要……" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_pulse_nova_debuff"                   "灵体脉冲"
+"DOTA_Tooltip_modifier_Advanced_pulse_nova_debuff_Description"       "减少魔法抗性" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_frost_armor_debuff_unlock2"                   "大缓速"
+"DOTA_Tooltip_modifier_Advanced_frost_armor_debuff_unlock2_Description"       "降低攻击速度" 
+
+
+"DOTA_Tooltip_modifier_Advanced_marksmanship_unlock1"                   "狂人之境"
+"DOTA_Tooltip_modifier_Advanced_marksmanship_unlock1_Description"       "赋予攻击伤害提升" 
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_return_debuff"                   "卸甲"
+"DOTA_Tooltip_modifier_Advanced_return_debuff_Description"       "减少防御力" 
+"DOTA_Tooltip_modifier_Advanced_repel_unlock1"                   "完美之盾"
+"DOTA_Tooltip_modifier_Advanced_repel_unlock1_Description"       "赋予伤害抵挡" 
+"DOTA_Tooltip_modifier_Advanced_repel_unlock3"                   "全能之神的庇护"
+"DOTA_Tooltip_modifier_Advanced_repel_unlock3_Description"       "赋予力量提升与生命恢复" 
+
+
+"DOTA_Tooltip_modifier_Advanced_purification_unlock1"                   "神佑"
+"DOTA_Tooltip_modifier_Advanced_purification_unlock1_Description"       "赋予力量提升" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_berserkers_blood_unlock1"                   "力量涌动"
+"DOTA_Tooltip_modifier_Advanced_berserkers_blood_unlock1_Description"       "赋予力量提升" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_berserkers_blood"                   "奥尼克斯的罪血"
+"DOTA_Tooltip_modifier_Advanced_berserkers_blood_Description"       "层数" 
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_magic_blessing_unlock1"                   "魔导的极致"
+"DOTA_Tooltip_modifier_Advanced_magic_blessing_unlock1_Description"       "赋予技能伤害" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_magic_blessing_unlock2"                   "八大原罪·强欲"
+"DOTA_Tooltip_modifier_Advanced_magic_blessing_unlock2_Description"       "我渴望知识" 
+
+"DOTA_Tooltip_modifier_Advanced_mana_shield_stone"                   "美杜莎之盾"
+"DOTA_Tooltip_modifier_Advanced_mana_shield_stone_Description"       "石化" 
+
+
+"DOTA_Tooltip_modifier_Advanced_mana_shield_unlock3"                   "美杜莎之盾"
+"DOTA_Tooltip_modifier_Advanced_mana_shield_unlock3_Description"       "目前累计点数" 
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Windrun_walk_unlock3"                   "风元素的赐福"
+"DOTA_Tooltip_modifier_Advanced_Windrun_walk_unlock3_Description"       "赋予攻击力提升" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_Time_Drain"                   "低阶时间汲取"
+"DOTA_Tooltip_modifier_Middle_Time_Drain"                   "中阶时间汲取"
+"DOTA_Tooltip_modifier_Advanced_Time_Drain"                   "高阶时间汲取"
+
+
+"DOTA_Tooltip_modifier_Advanced_Time_Drain_unlock3"                   "回到过去冷却"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Time_Lock_unlock3"                   "万世"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Decrepify_aura_effect"                   "衰老光环"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_aura_effect_Description"       "改变魔法抗性与移动速度" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Nature_Attendants_hp_unlock2"                   "治愈的赐福"
+"DOTA_Tooltip_modifier_Advanced_Nature_Attendants_hp_unlock2_Description"       "赋予生命值提升" 
+
+"DOTA_Tooltip_modifier_Advanced_Nature_Attendants_unlock3"                   "林渊"
+"DOTA_Tooltip_modifier_Advanced_Nature_Attendants_unlock3_Description"       "治疗可以对敌人造成伤害" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Blood_Sacrifice_unlock3_buff"                   "高阶献祭"
+"DOTA_Tooltip_modifier_Advanced_Blood_Sacrifice_unlock3_buff_Description"                   "赋予战斗能力大幅度提升"
+
+"DOTA_Tooltip_modifier_Advanced_tether_buff_unlock2"                   "肉体增强"
+"DOTA_Tooltip_modifier_Advanced_tether_buff_unlock2_buff_Description"                   "赋予最大生命值提升"
+
+
+"DOTA_Tooltip_modifier_Advanced_tether_buff_unlock3"                   "精神增强"
+"DOTA_Tooltip_modifier_Advanced_tether_buff_unlock3_buff_Description"                   "赋予最大魔法值提升"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_fates_edict_unlock2_effect"                   "正操纵"
+"DOTA_Tooltip_modifier_Advanced_fates_edict_unlock2_effect_Description"                   "赋予属性提升" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_fates_edict_unlock3_effect"                   "反操纵"
+"DOTA_Tooltip_modifier_Advanced_fates_edict_unlock3_effect_Description"                   "赋予属性下降" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_unlock2_bonus"                   "视死如归"
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_unlock2_bonus_Description"                   "赋予伤害增加" 
+
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_unlock3_delay"                   "厚葬倒计时"
+
+
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_unlock3_bonus"                   "厚葬"
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_unlock3_bonus_Description"                   "赋予全属性提升" 
+
+"DOTA_Tooltip_modifier_Advanced_Viscous_Nasal_Goo_unlock2"                   "病毒进化点数"
+
+
+"DOTA_Tooltip_modifier_Advanced_Warcry_unlock3_target"                   "弑君者"
+"DOTA_Tooltip_modifier_Advanced_Warcry_unlock3_target_Description"                   "你被你的队友盯上了" 
+
+
+"DOTA_Tooltip_modifier_Advanced_feast_unlock3_active"                   "血亲"
+"DOTA_Tooltip_modifier_Advanced_feast_unlock3_active_Description"                   "你已被一名队友转化为吸血鬼" 
+
+"DOTA_Tooltip_modifier_Advanced_Blur_unlock3"                   "消形"
+"DOTA_Tooltip_modifier_Advanced_Blur_unlock3_Description"                   "可以完全抵挡伤害" 
+"DOTA_Tooltip_modifier_Advanced_Warpath_unlock1"                   "狂怒"
+"DOTA_Tooltip_modifier_Advanced_Warpath_unlock1_Description"                   "赋予战意相同的效果"
+
+"DOTA_Tooltip_modifier_Advanced_Warpath_unlock3"                   "无能狂怒"
+
+
+"DOTA_Tooltip_modifier_Advanced_Epicenter_unlock3"                   "沙之魂"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_unlock1_effect"                   "气运吸收"
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_unlock1_effect_Description"                   "力量增加:%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%<br>敏捷增加:%dMODIFIER_PROPERTY_STATS_AGILITY_BONUS%<br>智力增加:%dMODIFIER_PROPERTY_STATS_INTELLECT_BONUS%"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Black_Hole_unlock1"                   "虫洞"
+"DOTA_Tooltip_modifier_Advanced_Black_Hole_unlock1_Description"                   "就绪中……"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_unlock2"                   "常驻冰"
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_unlock2_Description"                   "储存能量点"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_counterspell_unlock2_debuff"                   "崩坏"
+"DOTA_Tooltip_modifier_Advanced_counterspell_unlock2_debuff_Description"                   "减少防御力"
+
+
+"DOTA_Tooltip_modifier_Advanced_counterspell_unlock3"                   "魔力反震"
+"DOTA_Tooltip_modifier_Advanced_counterspell_unlock3_Description"                   "能量点"
+
+
+"DOTA_Tooltip_modifier_Advanced_true_form_transform_unlock2_active"                   "森林的族人"
+"DOTA_Tooltip_modifier_Advanced_true_form_transform_unlock2_active_Description"                   "赋予一半的增强"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_true_form_unlock3_thinker_arua_effect"                   "领域"
+"DOTA_Tooltip_modifier_Advanced_true_form_unlock3_thinker_arua_effect_Description"                   "赋予伤害增强"
+
+
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_unlock2_debuff"                   "生命锁链"
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_unlock2_debuff_Description"                   "受到额外伤害"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_unlock1_debuff"                   "负向接触·麻痹"
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_unlock1_debuff_Description"                   "无法行动"
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Haunt_unlock2"                   "猎手"
+"DOTA_Tooltip_modifier_Advanced_Haunt_unlock2_Description"                   "攻击有几率召唤鬼影"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_unlock2_mark"                   "猎影"
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_unlock2_mark_Description"                   "将受到额外的伤害"
+
+//
+"DOTA_Tooltip_modifier_Advanced_light_strike_array_unlock3"                   "红魔女的炙烤"
+"DOTA_Tooltip_modifier_Advanced_light_strike_array_unlock3_Description"                   "你当前拥有的火属性技能数"
+
+
+"DOTA_Tooltip_modifier_creeps_Melting_Strike_debuff"                   "灼烧攻击"
+"DOTA_Tooltip_modifier_creeps_Melting_Strike_debuff_Description"                   "减少%fMODIFIER_PROPERTY_TOOLTIP%点护甲"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_silencer_2_buff"                   "智慧之刃"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_silencer_2_buff_Description"                   "智力提升%dMODIFIER_PROPERTY_STATS_INTELLECT_BONUS%"
+
+
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_undying_2_buff"                   "腐朽"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_undying_2_buff_Description"                   "力量提升%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_undying_2_debuff"                   "腐朽"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_undying_2_debuff_Description"                   "力量减少%d%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%%"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_slark_2"                   "能量转移"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_slark_2_Description"                   "敏捷提升%dMODIFIER_PROPERTY_STATS_AGILITY_BONUS%"
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_legion_commander_2"                   "决斗"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_legion_commander_2_Description"                   "攻击力提升%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%，基础攻击力提升%dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE%"
+
+
+"DOTA_Tooltip_modifier_generic_water_zoom_buff"                   "水域"
+"DOTA_Tooltip_modifier_generic_water_zoom_buff_Description"                   "你正处于一片水域中"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_kunkka_2_buff"                   "复仇"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_kunkka_2_buff_Description"                   "昆卡与潮汐猎人不得不说的故事……"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_kunkka_2_debuff"                   "复仇"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_kunkka_2_debuff_Description"                   "昆卡与潮汐猎人不得不说的故事……"
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_razor_buff"                   "静电链接"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_razor_buff_Description"                   "赋予攻击力提升"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_razor_debuff"                   "静电链接"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_razor_debuff_Description"                   "减少攻击力"
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_viper_2_debuff"                   "剧毒"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_viper_2_debuff_Description"                   "降低移动速度与魔法抗性，并受到持续伤害"
+
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_naga_siren_2_debuff"                   "激流"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_naga_siren_2_debuff_Description"                   "减少%dMODIFIER_PROPERTY_TOOLTIP%点护甲"
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_naga_siren_2"                   "激流"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_naga_siren_2_Description"                   "每6次攻击触发激流"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_life_stealer_2_buff"                   "狂宴"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_life_stealer_2_buff_Description"                   "增加%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%点攻击力"
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_death_prophet_2"                   "亡魂悲叹"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_death_prophet_2_Description"                   "能量点数"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_death_prophet_2_buff"                   "亡魂之力"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_death_prophet_2_buff_Description"                   "技能伤害提升%dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%"
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_drow_ranger_2_effect"                   "黑鸦破寂"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_drow_ranger_2_effect_Description"                   "增加%dMODIFIER_PROPERTY_TOOLTIP%%%伤害"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_bloodseeker_2_effect"                   "焦渴嗜血"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_bloodseeker_2_effect_Description"                   "增加%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻击速度与%dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT%移动速度"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_lich_2_debuff"                   "连环霜冻"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_lich_2_debuff_Description"                   "大幅度减缓移动速度"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_gyrocopter_2"                   "侧面机枪·改"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_gyrocopter_2_Description"       "赋予额外攻击效果" 
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_lucent_beam_lv15"                   "月华"
+"DOTA_Tooltip_modifier_Advanced_lucent_beam_lv15_Description"       "攻击力提升%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_lucent_beam_unlock1_trigger"                   "月蚀"
+"DOTA_Tooltip_modifier_Advanced_lucent_beam_unlock1_trigger_Description"       "持续召唤月光" 
+
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Slyrak_effect"                   "低阶斯莱瑞克之魂"
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Slyrak_effect_Description"       "攻击力提升%fMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%<br>攻击速度提升%fMODIFIER_PROPERTY_TOOLTIP%%%<br><font color=\"#d9534f\">防御力减少%fMODIFIER_PROPERTY_TOOLTIP%</font>" 
+
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Slyrak_effect"                   "中阶斯莱瑞克之魂"
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Slyrak_effect_Description"       "攻击力提升%fMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%<br>攻击速度提升%fMODIFIER_PROPERTY_TOOLTIP%%%<br><font color=\"#d9534f\">防御力减少%fMODIFIER_PROPERTY_TOOLTIP%</font>" 
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Slyrak_effect"                   "高阶斯莱瑞克之魂"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Slyrak_effect_Description"       "攻击力提升%fMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%<br>攻击速度提升%fMODIFIER_PROPERTY_TOOLTIP%%%<br><font color=\"#d9534f\">防御力减少%fMODIFIER_PROPERTY_TOOLTIP%</font>" 
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Slyrak_effect_over_lv15"                   "高阶斯莱瑞克之魂"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Slyrak_effect_over_lv15_Description"       "攻击力提升%fMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%<br>攻击速度提升%fMODIFIER_PROPERTY_TOOLTIP%%%<br><font color=\"#d9534f\">防御力减少%fMODIFIER_PROPERTY_TOOLTIP%</font>" 
+
+
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Slyrak_debuff"                   "愤怒之火"
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Slyrak_debuff_Description"       "防御力减少%fMODIFIER_PROPERTY_TOOLTIP%" 
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Slyrak_debuff"                   "愤怒之火"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Slyrak_debuff_Description"       "防御力减少%fMODIFIER_PROPERTY_TOOLTIP%" 
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Slyrak_unlock2_debuff"                   "始源吐息"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Slyrak_unlock2_debuff_Description"       "全额攻击力减少%fMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Voodoo_Restoration_heal"                   "巫毒疗法"
+"DOTA_Tooltip_modifier_Advanced_Voodoo_Restoration_heal_debuff_Description"       "受到治疗中" 
+"DOTA_Tooltip_modifier_Advanced_Voodoo_Restoration_unlock3"                   "冷酒"
+"DOTA_Tooltip_modifier_Advanced_Voodoo_Restoration_unlock3_Description"       "你已不惧任何不造成即死的伤害" 
+
+
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_unlock1"                   "神蚀者"
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_unlock1_Description"       "提升%fMODIFIER_PROPERTY_EXTRA_MANA_PERCENTAGE%%%最大魔法值" 
+
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_unlock2"                   "星体之能"
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_unlock2_Description"       "提升%fMODIFIER_PROPERTY_MANA_BONUS%最大魔法值" 
+
+
+"DOTA_Tooltip_modifier_creeps_spell_time_dilation_debuff"                   "时间膨胀"
+"DOTA_Tooltip_modifier_creeps_spell_time_dilation_debuff_Description"       "你的时间流逝变得十分缓慢" 
+
+"DOTA_Tooltip_modifier_creeps_spell_Chronosphere_debuff"                   "时间结界"
+"DOTA_Tooltip_modifier_creeps_spell_Chronosphere_debuff_Description"       "感受无力吧" 
+"DOTA_Tooltip_modifier_creeps_spell_Wave51_debuff"                   "时间结界"
+"DOTA_Tooltip_modifier_creeps_spell_Wave51_debuff_Description"       "感受无力吧" 
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave51_form3_debuff"                   "时间反噬"
+"DOTA_Tooltip_modifier_creeps_spell_Wave51_form3_debuff_Description"       "减少了护甲与魔法抗性" 
+
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff_unlock3"                   "海洋之心"
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff_unlock3_Description"       "吸收周围友方英雄的魔力……" 
+
+"DOTA_Tooltip_modifier_Advanced_summons_undead_jack_the_ripper_unlock1"                   "猩红腐败者"
+"DOTA_Tooltip_modifier_Advanced_summons_undead_jack_the_ripper_unlock1_Description"       "增加%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%点攻击速度" 
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Rot_unlock1_debuff"                   "恶性肿瘤"
+"DOTA_Tooltip_modifier_Advanced_Rot_unlock1_debuff_Description"       "持续性受到腐烂的伤害" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_pudge_unlock"                   "贪欲与无欲"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_pudge_unlock_Description"       "赋予力量增强" 
+
+
+"DOTA_Tooltip_modifier_Advanced_fear_arua_unlock1_debuff"                   "黑馆"
+"DOTA_Tooltip_modifier_Advanced_fear_arua_unlock1_debuff_Description"       "求求你杀了我吧……" 
+
+"DOTA_Tooltip_modifier_Advanced_hyakkiyakou_unlock2_effect"                   "恐怖公"
+"DOTA_Tooltip_modifier_Advanced_hyakkiyakou_unlock2_effect_Description"       "该眷属受到了加成效果影响" 
+
+
+"DOTA_Tooltip_modifier_Advanced_water_prison_unlock3_buff"                   "吸能天牢"
+"DOTA_Tooltip_modifier_Advanced_water_prison_unlock3_buff_Description"       "生命值提升：%dMODIFIER_PROPERTY_HEALTH_BONUS%<br>魔法值提升：%dMODIFIER_PROPERTY_MANA_BONUS%" 
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_rubick_2"                   "魔导的极致"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_rubick_2_Description"       "大幅度提升技能效果" 
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_morphling_2_Upgrade"                   "叠浪"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_morphling_2_Upgrade_Description"       "赋予攻击速度与移动速度加成" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_fiery_soul"                   "初阶炽魂"
+"DOTA_Tooltip_modifier_Primary_fiery_soul_Description"       "赋予攻击速度与移动速度加成" 
+"DOTA_Tooltip_modifier_Middle_fiery_soul"                   "中阶炽魂"
+"DOTA_Tooltip_modifier_Middle_fiery_soul_Description"       "赋予攻击速度与移动速度加成" 
+"DOTA_Tooltip_modifier_Advanced_fiery_soul"                   "高阶炽魂"
+"DOTA_Tooltip_modifier_Advanced_fiery_soul_Description"       "赋予攻击速度与移动速度加成" 
+
+
+
+"DOTA_Tooltip_modifier_Middle_fiery_soul_active"                   "烈焰之息"
+"DOTA_Tooltip_modifier_Middle_fiery_soul_active_Description"       "赋予魔法伤害大幅度提升" 
+"DOTA_Tooltip_modifier_Advanced_fiery_soul_active"                   "烈焰之息"
+"DOTA_Tooltip_modifier_Advanced_fiery_soul_active_Description"       "赋予魔法伤害大幅度提升" 
+
+
+"DOTA_Tooltip_modifier_Advanced_fiery_soul_unlock3"                   "绝对时间"
+"DOTA_Tooltip_modifier_Advanced_fiery_soul_unlock3_Description"       "大幅度提升全属性，施法距离与技能伤害" 
+
+
+"DOTA_Tooltip_modifier_Primary_reverse_polarity_debuff"                   "初阶两极反转"
+"DOTA_Tooltip_modifier_Primary_reverse_polarity_debuff_Description"       "受到额外%dMODIFIER_PROPERTY_TOOLTIP%%%伤害" 
+
+"DOTA_Tooltip_modifier_Middle_reverse_polarity_debuff"                   "中阶两极反转"
+"DOTA_Tooltip_modifier_Middle_reverse_polarity_debuff_Description"       "受到额外%dMODIFIER_PROPERTY_TOOLTIP%%%伤害,减少%dMODIFIER_PROPERTY_TOOLTIP%点护甲，减少%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%魔法抗性" 
+"DOTA_Tooltip_modifier_Advanced_reverse_polarity_debuff"                   "高阶两极反转"
+"DOTA_Tooltip_modifier_Advanced_reverse_polarity_debuff_Description"       "受到额外%dMODIFIER_PROPERTY_TOOLTIP%%%伤害,减少%dMODIFIER_PROPERTY_TOOLTIP%点护甲，减少%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%魔法抗性" 
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_reverse_polarity_unlock1"                   "世界重铸"
+
+"DOTA_Tooltip_modifier_Advanced_shockwave_debuff2"                   "崩坏"
+"DOTA_Tooltip_modifier_Advanced_shockwave_debuff2_Description"                   "减少%dMODIFIER_PROPERTY_TOOLTIP%护甲"
+
+
+"DOTA_Tooltip_modifier_Primary_onslaught_charge"                   "突"
+"DOTA_Tooltip_modifier_Primary_onslaught_charge_Description"                   "蓄力中"
+"DOTA_Tooltip_modifier_Middle_onslaught_charge"                   "突"
+"DOTA_Tooltip_modifier_Middle_onslaught_charge_Description"                   "蓄力中"
+"DOTA_Tooltip_modifier_Advanced_onslaught_charge"                   "突"
+"DOTA_Tooltip_modifier_Advanced_onslaught_charge_Description"                   "蓄力中"
+
+
+"DOTA_Tooltip_modifier_Middle_onslaught_debuff"                   "破阵"
+"DOTA_Tooltip_modifier_Middle_onslaught_debuff_Description"                   "减少%dMODIFIER_PROPERTY_TOOLTIP%护甲"
+"DOTA_Tooltip_modifier_Advanced_onslaught_debuff"                   "破阵"
+"DOTA_Tooltip_modifier_Advanced_onslaught_debuff_Description"                   "减少%dMODIFIER_PROPERTY_TOOLTIP%护甲"
+
+"DOTA_Tooltip_modifier_Advanced_arcane_bolt_buff"                   "奥法之辉"
+"DOTA_Tooltip_modifier_Advanced_arcane_bolt_buff_Description"                   "提升%dMODIFIER_PROPERTY_STATS_INTELLECT_BONUS%智力"
+
+"DOTA_Tooltip_modifier_Advanced_arcane_bolt_debuff"                   "奥法印记"
+
+
+"DOTA_Tooltip_modifier_item_hd_Song_of_Eagle_Voice_of_Dragonus_buff"                   "鹰之歌"
+"DOTA_Tooltip_modifier_item_hd_Song_of_Eagle_Voice_of_Dragonus_buff_Description"                   "提升%dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%技能伤害"
+"DOTA_Tooltip_modifier_Advanced_arcane_bolt_debuff_unlock3"                   "鹰之歌·奥法封印"
+"DOTA_Tooltip_modifier_Advanced_arcane_bolt_debuff_unlock3_Description"                   "减少%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%魔法抗性"
+
+"DOTA_Tooltip_modifier_Slime_buff_unlock1_count"                   "孕育点数"
+"DOTA_Tooltip_modifier_Slime_buff_unlock2_debuff"                   "消化"
+"DOTA_Tooltip_modifier_Slime_buff_unlock2_debuff_Description"                   "减少%dMODIFIER_PROPERTY_TOOLTIP%点防御力"
+
+"DOTA_Tooltip_modifier_Advanced_assassinate_unlock3"                   "弹药仓库"
+"DOTA_Tooltip_modifier_Advanced_assassinate_unlock3_Description"                   "离子弹药库"
+
+
+"DOTA_Tooltip_modifier_Advanced_finger_of_death_unlock2"                   "暂存法力"
+
+"DOTA_Tooltip_modifier_Advanced_finger_of_death_unlock3"                   "阿兹斯的魔手"
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_corrosive_haze_unlock1_debuff"                   "海洋刻印·侵蚀"
+"DOTA_Tooltip_modifier_Advanced_corrosive_haze_unlock1_debuff_Description"                   "额外受到%fMODIFIER_PROPERTY_INCOMING_PHYSICAL_DAMAGE_PERCENTAGE%%%物理伤害"
+
+"DOTA_Tooltip_modifier_Advanced_corrosive_haze_unlock3_active"                   "苍洋魔咒"
+
+"DOTA_Tooltip_modifier_item_hd_infernal_menace_buff"                   "尸横遍野"
+"DOTA_Tooltip_modifier_item_hd_infernal_menace_buff_Description"                   "提升%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%点力量"
+
+"DOTA_Tooltip_modifier_Advanced_brain_sap_unlock2_debuff"                   "恐惧的化身"
+"DOTA_Tooltip_modifier_Advanced_brain_sap_unlock2_debuff_Description"                   "每受到%dMODIFIER_PROPERTY_TOOLTIP%次伤害后将受到一次蚀脑作用"
+
+
+"DOTA_Tooltip_modifier_Advanced_brain_sap_unlock3_debuff"                   "恐惧侵袭"
+"DOTA_Tooltip_modifier_Advanced_brain_sap_unlock3_debuff_Description"                   "额外受到%dMODIFIER_PROPERTY_TOOLTIP%%%伤害,造成伤害减少%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+
+"DOTA_Tooltip_modifier_Advanced_lunar_blessing_unlock1_buff"                   "指引"
+"DOTA_Tooltip_modifier_Advanced_lunar_blessing_unlock1_buff_Description"                   "月之祝福获得全属性加成"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_howl_unlock2_debuff"                   "痛苦回音恐慌"
+"DOTA_Tooltip_modifier_Advanced_howl_unlock2_debuff_Description"                   "受到额外%dMODIFIER_PROPERTY_TOOLTIP%%%伤害"
+
+"DOTA_Tooltip_modifier_Advanced_Electrostatic_Armor_unlock2_buff"                   "肉体刺激"
+"DOTA_Tooltip_modifier_Advanced_Electrostatic_Armor_unlock2_buff_Description"                   "增加%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%点攻击力"
+
+
+"DOTA_Tooltip_modifier_Advanced_Electrostatic_Armor_unlock3_buff"                   "高阶静电护甲"
+
+"DOTA_Tooltip_modifier_Advanced_chaos_strike_unlock3"                   "混沌制造"
+
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_unlock2_buff"                   "移魂"
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_unlock2_buff_Description"                   "增加%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%点攻击力"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Acid_Sparay_unlock3_effect"                   "柠檬精"
+"DOTA_Tooltip_modifier_Advanced_Acid_Sparay_unlock3_effect_Description"                   "受到额外%dMODIFIER_PROPERTY_INCOMING_PHYSICAL_DAMAGE_PERCENTAGE%%%物理伤害"
+
+"DOTA_Tooltip_modifier_Advanced_Caustic_Finale_unlock2_passive"                   "高阶腐尸毒"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit"                   "血之联合"
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit_Description"                   "目前储蓄点数"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_Chronosphere_debuff"                   "时间结界"
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_Chronosphere_debuff_Description"                   "你位于时间泡沫之中"
+"DOTA_Tooltip_modifier_Middle_Void_time_walk_Chronosphere_debuff"                   "时间结界"
+"DOTA_Tooltip_modifier_Middle_Void_time_walk_Chronosphere_debuff_Description"                   "你位于时间泡沫之中"
+"DOTA_Tooltip_modifier_Primary_Void_time_walk_Chronosphere_debuff"                   "时间结界"
+"DOTA_Tooltip_modifier_Primary_Void_time_walk_Chronosphere_debuff_Description"                   "你位于时间泡沫之中"
+
+
+
+"DOTA_Tooltip_modifier_primary_Holy_light_shield"                   "低价圣光护盾"
+"DOTA_Tooltip_modifier_primary_Holy_light_shield_Description"       "赋予伤害抵挡" 
+
+"DOTA_Tooltip_modifier_Middle_Holy_light_shield"                   "中阶圣光护盾"
+"DOTA_Tooltip_modifier_Middle_Holy_light_shield_Description"       "赋予伤害抵挡" 
+
+"DOTA_Tooltip_modifier_Advanced_Holy_light_shield"                   "高阶圣光护盾"
+"DOTA_Tooltip_modifier_Advanced_Holy_light_shield_Description"       "赋予伤害抵挡" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Byssrak_effect"                   "低阶比斯瑞克之魂"
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Byssrak_effect_Description"       "增加%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%全额攻击力，减少%dMODIFIER_PROPERTY_TOOLTIP%%%攻击速度" 
+
+
+
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Byssrak_effect"                   "中阶比斯瑞克之魂"
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Byssrak_effect_Description"       "增加%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%全额攻击力，减少%dMODIFIER_PROPERTY_TOOLTIP%%%攻击速度;<br>累计了%dMODIFIER_PROPERTY_TOOLTIP%%%伤害加成。" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Byssrak_effect"                   "高阶比斯瑞克之魂"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Byssrak_effect_Description"       "增加%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%全额攻击力，减少%dMODIFIER_PROPERTY_TOOLTIP%%%攻击速度;<br>累计了%dMODIFIER_PROPERTY_TOOLTIP%%%伤害加成。" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Lirrak_effect"                   "低阶里瑞克之魂"
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Lirrak_effect_Description"       "增加%dMODIFIER_PROPERTY_TOOLTIP%生命恢复与%dMODIFIER_PROPERTY_TOOLTIP%%%攻击距离" 
+
+
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Lirrak_effect"                   "中阶里瑞克之魂"
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Lirrak_effect_Description"       "增加%dMODIFIER_PROPERTY_TOOLTIP%生命恢复与%dMODIFIER_PROPERTY_TOOLTIP%%%攻击距离" 
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_effect"                   "高阶里瑞克之魂"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_effect_Description"       "增加%dMODIFIER_PROPERTY_TOOLTIP%生命恢复与%dMODIFIER_PROPERTY_TOOLTIP%%%攻击距离" 
+
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Lirrak_effect2"                   "孕育"
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Lirrak_effect2_Description"       "增加%dMODIFIER_PROPERTY_TOOLTIP%%%召唤时间增强" 
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_effect2"                   "孕育"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_effect2_Description"       "增加%dMODIFIER_PROPERTY_TOOLTIP%%%召唤时间增强" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_debuff"                   "寒冬之吻"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_debuff_Description"       "受到额外%dMODIFIER_PROPERTY_TOOLTIP%%%伤害" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_lv20"                   "鲸落"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_lv20_Description"       "提高%dMODIFIER_PROPERTY_TOOLTIP%%%伤害" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_unlock1"                   "里瑞克龙魂"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Lirrak_unlock1_Description"       "受到伤害减少%dMODIFIER_PROPERTY_TOOLTIP%%%，受到治疗效果提升%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Indrak_effect"                   "低阶因德瑞克之魂"
+"DOTA_Tooltip_modifier_Primary_Eldwurm_soul_Indrak_effect_Description"       "提高%dMODIFIER_PROPERTY_TOOLTIP%%%攻击速度" 
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Indrak_effect"                   "中阶因德瑞克之魂"
+"DOTA_Tooltip_modifier_Middle_Eldwurm_soul_Indrak_effect_Description"       "提高%dMODIFIER_PROPERTY_TOOLTIP%%%+%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻击速度" 
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Indrak_effect"                   "高阶因德瑞克之魂"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Indrak_effect_Description"       "提高%dMODIFIER_PROPERTY_TOOLTIP%%%+%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻击速度" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_Arcane_Replacement"                   "低阶奥斯特的权能·奥法置换"
+"DOTA_Tooltip_modifier_Primary_Arcane_Replacement_Description"       "储蓄治疗能量" 
+"DOTA_Tooltip_modifier_Middle_Arcane_Replacement"                   "中阶奥斯特的权能·奥法置换"
+"DOTA_Tooltip_modifier_Middle_Arcane_Replacement_Description"       "储蓄治疗能量" 
+"DOTA_Tooltip_modifier_Advanced_Arcane_Replacement"                   "高阶奥斯特的权能·奥法置换"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Replacement_Description"       "储蓄治疗能量" 
+
+"DOTA_Tooltip_modifier_Middle_Arcane_Replacement_effect"                   "奥能掌控"
+"DOTA_Tooltip_modifier_Middle_Arcane_Replacement_effect_Description"       "提高%dMODIFIER_PROPERTY_TOOLTIP%%%治疗增强" 
+"DOTA_Tooltip_modifier_Advanced_Arcane_Replacement_effect"                   "奥能掌控"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Replacement_effect_Description"       "提高%dMODIFIER_PROPERTY_TOOLTIP%%%治疗增强" 
+
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Aethrak_damage_effect"                   "雷霆"
+"DOTA_Tooltip_modifier_Advanced_Eldwurm_soul_Aethrak_damage_effect_Description"       "延缓伤害" 
+
+
+"DOTA_Tooltip_modifier_Primary_Haunt_damage"                   "低阶鬼影重重"
+"DOTA_Tooltip_modifier_Primary_Haunt_damage_Description"       "延缓伤害" 
+"DOTA_Tooltip_modifier_Middle_Haunt_damage"                   "中阶鬼影重重"
+"DOTA_Tooltip_modifier_Middle_Haunt_damage_Description"       "延缓伤害" 
+"DOTA_Tooltip_modifier_Advanced_Haunt_damage"                   "高阶鬼影重重"
+"DOTA_Tooltip_modifier_Advanced_Haunt_damage_Description"       "延缓伤害" 
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_invincible_army_damage"                   "低阶天兵降世"
+"DOTA_Tooltip_modifier_Primary_invincible_army_damage_Description"       "延缓伤害" 
+"DOTA_Tooltip_modifier_Middle_invincible_army_damage"                   "中阶天兵降世"
+"DOTA_Tooltip_modifier_Middle_invincible_army_damage_Description"       "延缓伤害" 
+"DOTA_Tooltip_modifier_Advanced_invincible_army_damage"                   "高阶天兵降世"
+"DOTA_Tooltip_modifier_Advanced_invincible_army_damage_Description"       "延缓伤害" 
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_frost_arrows_damage_delay"                   "中阶霜冻之箭"
+"DOTA_Tooltip_modifier_Middle_frost_arrows_damage_delay_Description"       "延缓伤害" 
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_double_edge_buff_unlock2"                   "圆舞曲·超越极限"
+
+
+"DOTA_Tooltip_modifier_knockback"                   "击退"
+
+
+
+"DOTA_Tooltip_modifier_item_hd_ancient_living_stone_active"                   "上古活石"
+
+
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_debuff"                   "能量操控"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_debuff_Description"       "技能伤害减少%dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_buff"                   "能量操控"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_buff_Description"       "技能伤害增加%dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%" 
+
+
+
+

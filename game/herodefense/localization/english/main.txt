@@ -1,0 +1,2132 @@
+
+"DOTA_Tooltip_modifier_Primary_Body_of_Effulgent_Beryl"                   "Primary Body Of Effulgent Beryl"
+"DOTA_Tooltip_modifier_Primary_Body_of_Effulgent_Beryl_Description"                   "Gives physical damage block"
+"DOTA_Tooltip_modifier_Middle_Body_of_Effulgent_Beryl"                   "Middle Body Of Effulgent Beryl"
+"DOTA_Tooltip_modifier_Middle_Body_of_Effulgent_Beryl_Description"                   "Gives physical damage block"
+"DOTA_Tooltip_modifier_Advanced_Body_of_Effulgent_Beryl"                   "Advanced Body Of Effulgent Beryl"
+"DOTA_Tooltip_modifier_Advanced_Body_of_Effulgent_Beryl_Description"                   "Gives physical damage block"
+
+
+
+
+"DOTA_Tooltip_modifier_Shop_first_N8"                   "Reach The Peak Of Perfection"
+"DOTA_Tooltip_modifier_Shop_first_N8_Description"                   "the first player pass difficulty 8 (1.0 version), increase all attributes"
+
+
+"DOTA_Tooltip_modifier_Primary_unrivaled"                   "Primary Unrivaled"
+"DOTA_Tooltip_modifier_Primary_unrivaled_Description"                   "Gives combat ability increases"
+"DOTA_Tooltip_modifier_Middle_unrivaled"                   "Middle Unrivaled"
+"DOTA_Tooltip_modifier_Middle_unrivaled_Description"                   "Gives combat ability increases"
+"DOTA_Tooltip_modifier_Advanced_unrivaled"                   "Advanced Unrivaled"
+"DOTA_Tooltip_modifier_Advanced_unrivaled_Description"                   "Gives combat ability increases"
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Dragons_Lighting_debuff"                   "Magic Penetration"
+"DOTA_Tooltip_modifier_Advanced_Dragons_Lighting_debuff_Description"                   "Reduce magic resistance"
+"DOTA_Tooltip_modifier_Advanced_laguna_blade_buff"                   "Soul Box"
+"DOTA_Tooltip_modifier_Advanced_laguna_blade_buff_Description"                   "Increase the damage of laguna blade"
+
+
+
+"DOTA_Tooltip_modifier_Primary_pulse_nova"                   "Primary Pulse Nova"
+"DOTA_Tooltip_modifier_Primary_pulse_nova_Description"                   "Provide AoE damage per second"
+"DOTA_Tooltip_modifier_Middle_pulse_nova"                   "Middle Pulse Nova"
+"DOTA_Tooltip_modifier_Middle_pulse_nova_Description"                   "Provide AoE damage per second"
+"DOTA_Tooltip_modifier_Advanced_pulse_nova"                   "Advanced Pulse Nova"
+"DOTA_Tooltip_modifier_Advanced_pulse_nova_Description"                   "Provide AoE damage per second"
+
+
+
+"DOTA_Tooltip_modifier_Primary_lightning_storm"                   "Primary Lightning Storm"
+"DOTA_Tooltip_modifier_Primary_lightning_storm_Description"                   "Move Speed Slow"
+"DOTA_Tooltip_modifier_Middle_lightning_storm"                   "Middle Lightning Storm"
+"DOTA_Tooltip_modifier_Middle_lightning_storm_Description"                   "Move Speed Slow"
+"DOTA_Tooltip_modifier_Advanced_lightning_storm"                   "Advanced Lightning Storm"
+"DOTA_Tooltip_modifier_Advanced_lightning_storm_Description"                   "Move Speed Slow"
+"DOTA_Tooltip_modifier_Advanced_lightning_storm_buff"                   "Advanced Lightning Storm"
+"DOTA_Tooltip_modifier_Advanced_lightning_storm_buff_Description"                   "Increase Intelligence"      
+
+"DOTA_Tooltip_modifier_Primary_frost_armor_buff"                   "Primary Frost Armor"
+"DOTA_Tooltip_modifier_Primary_frost_armor_buff_Description"                   "Gives physical attack damage reduction"
+"DOTA_Tooltip_modifier_Middle_frost_armor_buff"                   "Middle Frost Armor"
+"DOTA_Tooltip_modifier_Middle_frost_armor_buff_Description"                   "Gives physical attack damage reduction"
+"DOTA_Tooltip_modifier_Advanced_frost_armor_buff"                   "Advanced Frost Armor"
+"DOTA_Tooltip_modifier_Advanced_frost_armor_buff_Description"                   "Gives physical attack damage reduction"
+"DOTA_Tooltip_modifier_Primary_frost_armor_debuff"                   "Primary Frost Armor"
+"DOTA_Tooltip_modifier_Primary_frost_armor_debuff_Description"                   "Move Speed Slow"
+"DOTA_Tooltip_modifier_Middle_frost_armor_debuff"                   "Middle Frost Armor"
+"DOTA_Tooltip_modifier_Middle_frost_armor_debuff_Description"                   "Move Speed Slow"
+"DOTA_Tooltip_modifier_Advanced_frost_armor_debuff"                   "Advanced Frost Armor"
+"DOTA_Tooltip_modifier_Advanced_frost_armor_debuff_Description"                   "Move Speed Slow"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_marksmanship_ice_buff"                   "Cold of Heart"
+"DOTA_Tooltip_modifier_Advanced_marksmanship_ice_buff_Description"                   "Increase attack speed"
+"DOTA_Tooltip_modifier_Advanced_marksmanship_ice_debuff"                   "Cold of Heart"
+"DOTA_Tooltip_modifier_Advanced_marksmanship_ice_debuff_Description"                   "Move Speed Slow"
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_frost_arrows_slow"                   "Primary Frost Arrows"
+"DOTA_Tooltip_modifier_Primary_frost_arrows_slow_Description"                   "Move Speed Slow"
+"DOTA_Tooltip_modifier_Middle_frost_arrows_slow"                   "Middle Frost Arrows"
+"DOTA_Tooltip_modifier_Middle_frost_arrows_slow_Description"                   "Move Speed Slow"
+
+"DOTA_Tooltip_modifier_Advanced_split_earth_debuff"                   "Soul Trembling"
+"DOTA_Tooltip_modifier_Advanced_split_earth_debuff_Description"                   "Increase incoming magical damage"
+"DOTA_Tooltip_modifier_Middle_split_earth_debuff"                   "Soul Trembling"
+"DOTA_Tooltip_modifier_Middle_split_earth_debuff_Description"                   "Increase incoming magical damage"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Fury_Strike_slow"                   "Fury Strike"
+"DOTA_Tooltip_modifier_creeps_spell_Fury_Strike_slow_Description"                   "Slow"
+"DOTA_Tooltip_modifier_creeps_spell_Great_Fury_Strike_slow"                   "Fury Strike"
+"DOTA_Tooltip_modifier_creeps_spell_Great_Fury_Strike_slow_Description"                   "Slow"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave32_p3_buff"                   "Invisible"
+"DOTA_Tooltip_modifier_creeps_spell_Boggart_buff"                   "Boggart"
+
+
+"DOTA_Tooltip_modifier_Primary_Arcane_Aura_effect"                   "Primary Arcane Aura"
+"DOTA_Tooltip_modifier_Primary_Arcane_Aura_effect_Description"                   "Increase magical power"
+"DOTA_Tooltip_modifier_Middle_Arcane_Aura_effect"                   "Middle Arcane Aura"
+"DOTA_Tooltip_modifier_Middle_Arcane_Aura_effect_Description"                   "Increase magical power"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_effect"                   "Advanced Arcane Aura"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_effect_Description"                   "Increase magical power"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_effect2"                   "Energy Commonality"
+"DOTA_Tooltip_modifier_Advanced_Arcane_Aura_effect2_Description"                   "Gives spell amplify"
+
+
+
+"DOTA_Tooltip_modifier_Primary_overpower"                   "Primary Overpower"
+"DOTA_Tooltip_modifier_Primary_overpower_Description"                   "Increase attack speed"
+"DOTA_Tooltip_modifier_Middle_overpower"                   "Middle Overpower"
+"DOTA_Tooltip_modifier_Middle_overpower_Description"                   "Increase attack speed"
+"DOTA_Tooltip_modifier_Advanced_overpower"                   "Advanced Overpower"
+"DOTA_Tooltip_modifier_Advanced_overpower_Description"                   "Increase attack speed"
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_debuff"                   "Heavy Blow"
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_debuff_Description"                   "Passives Disabled"
+"DOTA_Tooltip_modifier_Middle_Anchor_Smash_debuff"                   "Heavy Blow"
+"DOTA_Tooltip_modifier_Middle_Anchor_Smash_debuff_Description"                   "Passives Disabled"
+
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_armor"                   "Defense Destroy"
+"DOTA_Tooltip_modifier_Advanced_Anchor_Smash_armor_Description"                   "Reduce armor"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_buff"                   "Inner Beast"
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_buff_Description"                   "Increase attack speed"
+
+"DOTA_Tooltip_modifier_Primary_Inner_Beast_arua_effect"                   "Primary Inner Beast"
+"DOTA_Tooltip_modifier_Primary_Inner_Beast_arua_effect_Description"                   "Increase attack speed"
+"DOTA_Tooltip_modifier_Middle_Inner_Beast_arua_effect"                   "Middle Inner Beast"
+"DOTA_Tooltip_modifier_Middle_Inner_Beast_arua_effect_Description"                   "Increase attack speed and movement speed"
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_arua_effect"                   "Advanced Inner Beast"
+"DOTA_Tooltip_modifier_Advanced_Inner_Beast_arua_effect_Description"                   "Increase attack speed, movement speed and Magic Resistance"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Acid_bomb_debuff"                   "Acid bomb"
+"DOTA_Tooltip_modifier_creeps_spell_Acid_bomb_debuff_Description"                   "Silence, Passives Disabled, slow and takes sustained damage"
+"DOTA_Tooltip_modifier_creeps_spell_Jump_debuff"                   "Cerebral Concussion"
+"DOTA_Tooltip_modifier_creeps_spell_Jump_debuff_Description"                   "Move Speed Slow"
+
+"DOTA_Tooltip_modifier_creeps_spell_Jump_tower_form"                   "Fort Mode"
+"DOTA_Tooltip_modifier_creeps_spell_Jump_tower_form_Description"                   "The acid bomb will be released continuously"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave31_form3_debuff"                   "Material Attraction"
+"DOTA_Tooltip_modifier_creeps_spell_Wave31_form3_debuff_Description"                   "Take additional damage and Take additional damage and be forced to pull to friendly units"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Soul_Link_effect"                   "Fury"
+"DOTA_Tooltip_modifier_Advanced_Soul_Link_effect_Description"                   "Gives outgoing damage increase and incoming damage reduction"
+
+"DOTA_Tooltip_modifier_creeps_power"                   "Fury"
+"DOTA_Tooltip_modifier_creeps_power_Description"                   "Increase 5 move speedevery 5 seconds. Ignoring move speed limit when over 50 stacks, for each stack over 50, attack speed increased by 2"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff2"                   "Excessive sacrifice"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff2_Description"                   "Attack speed  was absorbed by a demon"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_buff2"                   "Excessive sacrifice"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_buff2_Description"                   "Increase attack speed"
+
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff"                   "Weak"
+"DOTA_Tooltip_modifier_Advanced_summon_Dave_Chisnall_debuff_Description"                   "The attributes  was absorbed by a demon"
+"DOTA_Tooltip_modifier_Middle_summon_Dave_Chisnall_debuff"                   "Weak"
+"DOTA_Tooltip_modifier_Middle_summon_Dave_Chisnall_debuff_Description"                   "The attributes  was absorbed by a demon"
+
+"DOTA_Tooltip_modifier_Primary_summon_Dave_Chisnall_debuff"                   "Weak"
+"DOTA_Tooltip_modifier_Primary_summon_Dave_Chisnall_debuff_Description"                   "The attributes  was absorbed by a demon"
+
+"DOTA_Tooltip_modifier_Respawn_weak"                   "Blood Sacrifice"
+"DOTA_Tooltip_modifier_Respawn_weak_Description"                   "Lost some attributes in a short time"
+"DOTA_Tooltip_modifier_Respawn_weak_target"                   "Weak"
+"DOTA_Tooltip_modifier_Respawn_weak_target_Description"                   "Cannot be resurrected again until this debuff expire"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave31_stun"                   "Reverse Polarity·Mass attraction"
+"DOTA_Tooltip_modifier_creeps_spell_Wave31_stun_Description"                   "stunned"
+
+
+"DOTA_Tooltip_modifier_Advanced_return_arua_effect"                   "Return Arua"
+"DOTA_Tooltip_modifier_Advanced_return_arua_effect_Description"                   "Gives return capability to the nearby allies"
+"DOTA_Tooltip_modifier_Advanced_hoof_stomp_buff"                   "Energy Convergence"
+"DOTA_Tooltip_modifier_Advanced_hoof_stomp_buff_Description"                   "Increase strength"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_lv20debuff"                   "Sanctity"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_lv20debuff_Description"                   "Be disarmed, silent, and passives Disabled"
+"DOTA_Tooltip_modifier_Advanced_Dual_Breath_debuff"                   " Advanced Dual Breath"
+"DOTA_Tooltip_modifier_Advanced_Dual_Breath_debuff_Description"                   "Cause sustained damage and slow move speed and attack speed"
+"DOTA_Tooltip_modifier_Middle_Dual_Breath_debuff"                   " Middle Dual Breath"
+"DOTA_Tooltip_modifier_Middle_Dual_Breath_debuff_Description"                   "Cause sustained damage and slow move speed and attack speed"
+"DOTA_Tooltip_modifier_Primary_Dual_Breath_debuff"                   " PrimaryDual Breath"
+"DOTA_Tooltip_modifier_Primary_Dual_Breath_debuff_Description"                   "Cause sustained damage and slow move speed and attack speed"
+
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_attack_reduction2"                   " Advanced Bad Juju Damage Reduction Stack"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_attack_reduction2_Description"                   "Reduce damage by debuff's stack"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_passive"                   "Advanced Bad Juju"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_passive_Description"                   "Gives ability cooldown reduction"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_passive2"                   "Advanced Bad Juju"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_passive2_Description"                   "Gives ability cooldown reduction"
+
+"DOTA_Tooltip_modifier_Middle_Bad_Juju_attack_reduction2"                   " Middle Bad Juju Damage Reduction Stack"
+"DOTA_Tooltip_modifier_Middle_Bad_Juju_attack_reduction2_Description"                   "Reduce damage by debuff's stack"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_armor_reduction2"                   " Advanced Bad Juju Armor Reduction Stack"
+"DOTA_Tooltip_modifier_Advanced_Bad_Juju_armor_reduction2_Description"                   "Reduce armor by debuff's stack"
+"DOTA_Tooltip_modifier_Advanced_Shadow_Wave_armor_bonus"                   "Advanced Shadow Wave"
+"DOTA_Tooltip_modifier_Advanced_Shadow_Wave_armor_bonus_Description"                   "Increase armor by buff's stack"
+
+"DOTA_Tooltip_modifier_Advanced_Shadow_Wave_armor_debuff"                   "Dim Wave"
+"DOTA_Tooltip_modifier_Advanced_Shadow_Wave_armor_debuff_Description"                   "Reduce armor"
+
+
+"DOTA_Tooltip_modifier_Advanced_Demonic_Conversion_debuff"                   "Attribute absorbed"
+"DOTA_Tooltip_modifier_Advanced_Demonic_Conversion_debuff_Description"                   "Lost some attributes"
+"DOTA_Tooltip_modifier_Middle_Demonic_Conversion_debuff"                   "Attribute absorbed"
+"DOTA_Tooltip_modifier_Middle_Demonic_Conversion_debuff_Description"                   "Lost some attributes"
+"DOTA_Tooltip_modifier_Primary_Demonic_Conversion_debuff"                   "Attribute absorbed"
+"DOTA_Tooltip_modifier_Primary_Demonic_Conversion_debuff_Description"                   "Lost some attributes"
+"DOTA_Tooltip_modifier_Advanced_Demonic_Conversion_buff"                   "Taichu Power"
+"DOTA_Tooltip_modifier_Advanced_Demonic_Conversion_buff_Description"                   "Gains attribute by time's pass"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_buff"                   "Soul Capture"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_buff_Description"                   "Increase Magic Resistance"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_debuff"                   "Soul Capture"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_debuff_Description"                   "Reduce Magic Resistance"
+
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_buff2"                   "Soul Split"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_buff2_Description"                   "Gives spell amplify"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_debuff2"                   "Soul Split"
+"DOTA_Tooltip_modifier_Advanced_Nether_Blast_debuff2_Description"                   "Reduce spell amplify"
+
+"DOTA_Tooltip_modifier_Advanced_Decrepify_ally_bonus"                   "Soul Replacement"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_ally_bonus_Description"                   "Increase Magic Resistance"
+
+
+"DOTA_Tooltip_modifier_Advanced_Arc_Lightning"                   "Advanced Arc Lightning"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Decrepify_ally"                   "Advanced Decrepify"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_ally_Description"                   "Disarmed but immune physical damage"
+"DOTA_Tooltip_modifier_Middle_Decrepify_ally"                   "Middle Decrepify"
+"DOTA_Tooltip_modifier_Middle_Decrepify_ally_Description"                   "Disarmed but immune physical damage"
+
+"DOTA_Tooltip_modifier_Primary_Decrepify_ally"                   "Primary Decrepify"
+"DOTA_Tooltip_modifier_Primary_Decrepify_ally_Description"                   "Disarmed but immune physical damage"
+
+"DOTA_Tooltip_modifier_Advanced_Decrepify_enemy"                   "Advanced Decrepify"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_enemy_Description"                   "Immune physical damage, but disarmed and take more magical damage"
+"DOTA_Tooltip_modifier_Middle_Decrepify_enemy"                   "Middle Decrepify"
+"DOTA_Tooltip_modifier_Middle_Decrepify_enemy_Description"                   "Immune physical damage, but disarmed and take more magical damage"
+
+"DOTA_Tooltip_modifier_Primary_Decrepify_enemy"                   "Primary Decrepify"
+"DOTA_Tooltip_modifier_Primary_Decrepify_enemy_Description"                   "Immune physical damage, but disarmed and take more magical damage"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_enemy_stack"                   "Fast Aging"
+"DOTA_Tooltip_modifier_Advanced_Decrepify_enemy_stack_Description"                   "Increase incoming magical damage"
+"DOTA_Tooltip_modifier_Middle_Decrepify_enemy_stack"                   "Fast Aging"
+"DOTA_Tooltip_modifier_Middle_Decrepify_enemy_stack_Description"                   "Increase incoming magical damage"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_WeLiveTogether_Melee_effect_count"                   "Goblin sociability[Melee]"
+"DOTA_Tooltip_modifier_creeps_spell_WeLiveTogether_Melee_effect_count_Description"                   "Increase armor"
+"DOTA_Tooltip_modifier_creeps_spell_WeLiveTogether_Ranger_effect_count"                   "Goblin sociability[Ranger]"
+"DOTA_Tooltip_modifier_creeps_spell_WeLiveTogether_Ranger_effect_count_Description"                   "Increase damage"
+"DOTA_Tooltip_modifier_creeps_spell_callous_effect"                          "Frost Shield"
+"DOTA_Tooltip_modifier_creeps_spell_callous_effect_Description"                   "Reduce %dMODIFIER_PROPERTY_TOOLTIP%%% incoming damage, slow nearby enemies"
+
+"DOTA_Tooltip_modifier_creeps_spell_callous_debuff"                                       "Cold air"
+"DOTA_Tooltip_modifier_creeps_spell_callous_debuff_Description"                   "Too close the Frost Shield, reduce %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% move speed,%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed"
+"DOTA_Tooltip_modifier_creeps_spell_callous_effectt"                          "Frost Shield"
+"DOTA_Tooltip_modifier_creeps_spell_callous_effect_Description"                   "Rudce incoming damage, can slow nearby enemies "
+"DOTA_Tooltip_modifier_creeps_spell_Excitation_effect"                          "Excitation"
+"DOTA_Tooltip_modifier_creeps_spell_Excitation_effect_Description"                   "Increase attack speed and movement speed"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Prey_debuff"                                       "Prey"
+"DOTA_Tooltip_modifier_creeps_spell_Prey_debuff_Description"                   "Move Speed Slow by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, attack speed slow by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%"
+
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_damage_count"                                       "Electrostatic Armor"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_damage_count_Description"                   "Increase %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS% Magic Resistance, calculate damage taken"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_triger"                                       "Electric field energy storaging"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_triger_Description"                   "will release energy when buff expire"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_spell"                                       "Electric field releasing"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_spell_Description"                   "will gain shield when damage enemies"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_shield"                                       "Electric field Shield"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_shield_Description"                   "Block all damage"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_stun"                                       "stunned"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_stun_Description"                   "was backfired by electrostatic connection"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Connection_effect"                                       "Static connection · locked"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Connection_effect_Description"                   "The first allies which close to you will be connected"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_damage_count"                                       "Unstable Electrostatic Armor"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstabler_damage_count_Description"                   "Increase Magic Resistance, calculate damage taken"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_triger"                                       "Electric field energy storaging"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_triger_Description"                   "will release aoe damage when buff expire"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_spell"                                       "Electric field energy releasing"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Unstable_spell_Description"                   "releasing"
+
+"DOTA_Tooltip_modifier_creeps_spell_long_Range_effect_count"                                       "Long Range"
+"DOTA_Tooltip_modifier_creeps_spell_long_Range_effect_count_Description"                   "Increase attack range by %dMODIFIER_PROPERTY_TOOLTIP%"
+"DOTA_Tooltip_modifier_creeps_spell_Shield_Wall_effect_count"                                       "Shield Wall"
+"DOTA_Tooltip_modifier_creeps_spell_Shield_Wall_effect_count_Description"                   "reduce incoming damage by %dMODIFIER_PROPERTY_TOOLTIP%%%"
+"DOTA_Tooltip_modifier_creeps_spell_Great_Shield_Wall_effect_count"                                       "Great Shield Wall"
+"DOTA_Tooltip_modifier_creeps_spell_Great_Shield_Wall_effect_count_Description"                   "reduce incoming damage by %dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_Tooltip_modifier_creeps_spell_Miser"                                       "Rich Value"
+"DOTA_Tooltip_modifier_creeps_spell_Miser_Description"                   "Additional attack damage by %dMODIFIER_PROPERTY_TOOLTIP%"
+"DOTA_Tooltip_modifier_creeps_spell_Overwhelm"                                       "Overwhelm"
+"DOTA_Tooltip_modifier_creeps_spell_Overwhelm_Description"                   "Additional attack damage by %dMODIFIER_PROPERTY_TOOLTIP%"
+"DOTA_Tooltip_modifier_creeps_spell_Spur_On_effect"                                       "Spur On"
+"DOTA_Tooltip_modifier_creeps_spell_Spur_On_effect_Description"                   "Increase attack speed by%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%"
+
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Wake_damage_count"                                       "Electrostatic Armor"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Wake_damage_count_Description"                   "Increase Magic Resistance by %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%"
+"DOTA_Tooltip_modifier_creeps_spell_Electrostatic_Armor_Wake_spell"                                       "releasing"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Thunderstrike_ready"                                       "Thunderstrike"
+"DOTA_Tooltip_modifier_creeps_spell_Thunderstrike_ready_Description"                   "Ready to locked in target"
+
+"DOTA_Tooltip_modifier_creeps_spell_Thunderstrike_Wake_ready"                                       "Thunderstrike"
+"DOTA_Tooltip_modifier_creeps_spell_Thunderstrike_Wake_ready_Description"                   "Ready to locked in target"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Tether_effect"                                       "Tether"
+"DOTA_Tooltip_modifier_creeps_spell_Tether_effect_Description"                   "Transfer health to iO and get money every second"
+"DOTA_Tooltip_modifier_creeps_spell_Swift"                                       "Swift"
+"DOTA_Tooltip_modifier_creeps_spell_Swift_Description"                   "Increase attack speed by %dMODIFIER_PROPERTY_TOOLTIP2% at night, reduce %dMODIFIER_PROPERTY_TOOLTIP% at day"
+
+"DOTA_Tooltip_modifier_creeps_spell_Strike"                                       "Strike"
+"DOTA_Tooltip_modifier_creeps_spell_Strike_Description"                   "Increase damage by %dMODIFIER_PROPERTY_TOOLTIP2%%% at night, reduce %dMODIFIER_PROPERTY_TOOLTIP%%% at day"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Competing_For_Nutrients1"                                       "Compete For Nutrients"
+"DOTA_Tooltip_modifier_creeps_spell_Competing_For_Nutrients1_Description"                   "Increase %dMODIFIER_PROPERTY_TOOLTIP%%% damage and health"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Competing_For_Nutrients2"                                       "Compete For Nutrients"
+"DOTA_Tooltip_modifier_creeps_spell_Competing_For_Nutrients2_Description"                   "Increase %dMODIFIER_PROPERTY_TOOLTIP%%% damage and health"
+
+"DOTA_Tooltip_modifier_creeps_spell_Commander_effect"                                       "Commander Arua"
+"DOTA_Tooltip_modifier_creeps_spell_Commander_effect_Description"                   "Increase damage, attack speed, move speed, armor, health regen"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Howl_buff"                                       "Howl"
+"DOTA_Tooltip_modifier_creeps_spell_Howl_buff_Description"                   "Increase damage by %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%"
+"DOTA_Tooltip_modifier_creeps_spell_Howl_debuff"                                       "Howl"
+"DOTA_Tooltip_modifier_creeps_spell_Howl_debuff_Description"                   "Reduce armor by %dMODIFIER_PROPERTY_TOOLTIP%"
+
+"DOTA_Tooltip_modifier_creeps_spell_Biting_debuff"                                       "Biting"
+"DOTA_Tooltip_modifier_creeps_spell_Biting_debuff_Description"                   "Reduce speed and take continuous damage"
+
+"DOTA_Tooltip_modifier_creeps_spell_Grow_Up_night"                                       "Essence of moon"
+"DOTA_Tooltip_modifier_creeps_spell_Grow_Up_night_Description"                   "Increase damage by %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%"
+"DOTA_Tooltip_modifier_creeps_spell_Grow_Up"                                       "Grow Up"
+"DOTA_Tooltip_modifier_creeps_spell_Grow_Up_Description"                   "Grow Up when get 35/70/105 stacks"
+"DOTA_Tooltip_modifier_creeps_spell_Shackles"                                       "Shackles"
+"DOTA_Tooltip_modifier_creeps_spell_Shackles_Description"                   "cant action"
+
+"DOTA_Tooltip_modifier_creeps_spell_Counter_time"                                       "Remaining time"
+"DOTA_Tooltip_modifier_creeps_spell_Counter_time_Description"                   "Axe will leave when this buff expire"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff1"                                       "Charm·Farner"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff1_Description"                   "Charm from farna, reduce Magic Resistance by 40%%, until u beat her"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff2"                                       "Charm·Farner"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff2_Description"                   "Charm from farna, move speed and attack speed reduce by 50%%, cast speed reduce by 200%%, until u beat her"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff3"                                       "Charm·Farner"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_debuff3_Description"                   "Charm from farna, reduce Magic Resistance, until u beat her"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave5_debuff1"                                       "Vulnerability Exposure"
+"DOTA_Tooltip_modifier_creeps_spell_Wave5_debuff1_Description"                   "Under the static electricity field of Balnock, he exposed your weakness and you will take 50%% more damage"
+"DOTA_Tooltip_modifier_creeps_spell_Inviolability_slow_stack"                                       "Inviolability"
+"DOTA_Tooltip_modifier_creeps_spell_Inviolability_slow_stack_Description"                   "Each stack will add 2%% Inviolability attack slow down effect"
+
+"DOTA_Tooltip_modifier_creeps_spell_Inviolability_spell_slow"                                       "Spell Inviolability"
+"DOTA_Tooltip_modifier_creeps_spell_Inviolability_spell_slow_Description"                   "Each stack will increase cast time by 75%%"
+"DOTA_Tooltip_modifier_creeps_spell_Waveform_Upgrade"                                       "Life And Growth In Nature"
+"DOTA_Tooltip_modifier_creeps_spell_Waveform_Upgrade_Description"                   "Increase damage by %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%, maxHealth by %dMODIFIER_PROPERTY_TOOLTIP%%%, attack speed by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%"
+"DOTA_Tooltip_modifier_creeps_spell_Energy_Convergence_debuff"                                       "Energy Convergence"
+"DOTA_Tooltip_modifier_creeps_spell_Energy_Convergence_debuff_Description"                   "Energy Convergence's onwer cause extra %dMODIFIER_PROPERTY_TOOLTIP%%% attack damage to them"
+
+"DOTA_Tooltip_modifier_creeps_spell_Light_And_Dark_passive"                                       "Light And Dark"
+"DOTA_Tooltip_modifier_creeps_spell_Light_And_Dark_passive_Description"                   "The son of god, who gathers two forces, will turn on the shadow state when the number of stack reaches 15"
+"DOTA_Tooltip_modifier_creeps_spell_Light"                                       "Light State"
+"DOTA_Tooltip_modifier_creeps_spell_Light_Description"                   "The power of sun light increases the attack speed, and can burn enemy's mana and turn it into its own power"
+"DOTA_Tooltip_modifier_creeps_spell_Dark_sheild"                                       "Magic Power"
+"DOTA_Tooltip_modifier_creeps_spell_Dark_sheild_Description"                   "The magic power brought by light state will be transformed into a shield after entering the shadow state"
+"DOTA_Tooltip_modifier_creeps_spell_Dark"                                       "Shadow State"
+"DOTA_Tooltip_modifier_creeps_spell_Dark_Description"                   "The dark power brought by the abyss increases the attack damage, and can block all damage until the stack returns to zero, so as to return to the light state"
+
+"DOTA_Tooltip_modifier_creeps_spell_Static_Link_debuff"                                       "Static Link"
+"DOTA_Tooltip_modifier_creeps_spell_Static_Link_debuff_Description"                   "Reduce damage by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%, all attributes reduce by %dMODIFIER_PROPERTY_STATS_AGILITY_BONUS%"
+
+"DOTA_Tooltip_modifier_creeps_spell_Static_Link_buff"                                       "Static Link"
+"DOTA_Tooltip_modifier_creeps_spell_Static_Link_buff_Description"                   "Increase damage by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%"
+"DOTA_Tooltip_modifier_creeps_spell_Frozen_Soil_effect"                                       "Frozen Soil"
+"DOTA_Tooltip_modifier_creeps_spell_Frozen_Soil_effect_Description"                   "Increase incoming damage, has a chance to freeze every second "
+"DOTA_Tooltip_modifier_modifier_creeps_spell_Frozen_Soil_effect_forzen"                                       "Freeze"
+"DOTA_Tooltip_modifier_modifier_creeps_spell_Frozen_Soil_effect_forzen_Description"                   "cant move, cant attack"
+
+"DOTA_Tooltip_modifier_modifier_creeps_spell_Frozen_Soil_effect_forzen"                                       "Freeze"
+"DOTA_Tooltip_modifier_modifier_creeps_spell_Frozen_Soil_effect_forzen_Description"                   "cant move, cant attack"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Blood_Lust"                   "Advanced Blood Lust"
+"DOTA_Tooltip_modifier_Advanced_Blood_Lust_Description"                   "Gives combat capability increase"
+"DOTA_Tooltip_modifier_Middle_Blood_Lust"                   "Middle Blood Lust"
+"DOTA_Tooltip_modifier_Middle_Blood_Lust_Description"                   "Gives combat ability increases"
+"DOTA_Tooltip_modifier_Primary_Blood_Lust"                   "Primary Blood Lust"
+"DOTA_Tooltip_modifier_Primary_Blood_Lust_Description"                   "Gives combat capability increase"
+
+
+
+"DOTA_Tooltip_modifier_Middle_Blood_Sacrifice_buff"                   "Middle Blood Sacrifice"
+"DOTA_Tooltip_modifier_Middle_Blood_Sacrifice_buff_Description"                   "Gives combat ability increases"
+"DOTA_Tooltip_modifier_Primary_Blood_Sacrifice_buff"                   "Primary Blood Sacrifice"
+"DOTA_Tooltip_modifier_Primary_Blood_Sacrifice_buff_Description"                   "Gives combat capability increase"
+
+"DOTA_Tooltip_modifier_Advanced_Blur_activate"                   "Advanced Blur"
+"DOTA_Tooltip_modifier_Advanced_Blur_activate_Description"                   "Invincible at present"
+"DOTA_Tooltip_modifier_Advanced_Blur_detected"                   "Advanced Blur"
+"DOTA_Tooltip_modifier_Advanced_Blur_detected_Description"                   "Increase evasion"
+
+"DOTA_Tooltip_modifier_Advanced_Blur_Invisibility"                   "Invisibility"
+"DOTA_Tooltip_modifier_Advanced_Blur_Invisibility_Description"                   "Gives Invisibility "
+
+"DOTA_Tooltip_modifier_Middle_Blur_activate"                   "Middle Blur"
+"DOTA_Tooltip_modifier_Middle_Blur_activate_Description"                   "Invincible at present"
+"DOTA_Tooltip_modifier_Primary_Blur_activate"                   "Primary Blur"
+"DOTA_Tooltip_modifier_Primary_Blur_activate_Description"                   "Invincible at present"
+"DOTA_Tooltip_modifier_Middle_Blur_detected"                   "Middle Blur"
+"DOTA_Tooltip_modifier_Middle_Blur_detected_Description"                   "Increase evasion"
+"DOTA_Tooltip_modifier_Advanced_Bulwark"                   "Advanced Bulwark"
+"DOTA_Tooltip_modifier_Advanced_Bulwark_Description"                   "Block damage from front and side"
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_debuff"                   "Advanced 上Celestial Hammer Burn"
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_debuff_Description"                   "Cause continuous damage"
+"DOTA_Tooltip_modifier_Middle_Celestial_Hammer_debuff"                   "Middle 上Celestial Hammer Burn"
+"DOTA_Tooltip_modifier_Middle_Celestial_Hammer_debuff_Description"                   "Cause continuous damage"
+"DOTA_Tooltip_modifier_Primary_Celestial_Hammer_debuff"                   "Primary 上Celestial Hammer Burn"
+"DOTA_Tooltip_modifier_Primary_Celestial_Hammer_debuff_Description"                   "Cause continuous damage"
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_nohammer_buff"                   "God of War"
+"DOTA_Tooltip_modifier_Advanced_Celestial_Hammer_nohammer_buff_Description"                   "Increase attack speed"
+
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_attack"                   "Advanced Chilling Touch"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_attack_Description"                   "Gives attack effect"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_attack"                   "Middle Chilling Touch"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_attack_Description"                   "Gives attack effect"
+"DOTA_Tooltip_modifier_Primary_Chilling_Touch_attack"                   "Primary Chilling Touch"
+"DOTA_Tooltip_modifier_Primary_Chilling_Touch_attack_Description"                   "Gives attack effect"
+
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_debuff"                   "Absolute zero"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_debuff_Description"                   "Loss health recovery and passive-disabled"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_debuff"                   "Absolute zero"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_debuff_Description"                   "Loss health recovery and passive-disabled"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_kill"                   "Vulnerable"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_kill_Description"                   "be vulnerable"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_buff"                   "Temperature absorption"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_buff_Description"                   "Increase attack speed"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_slow"                   "Advanced Chilling Touch slow"
+"DOTA_Tooltip_modifier_Advanced_Chilling_Touch_slow_Description"                   "Reduce speed"
+"DOTA_Tooltip_modifier_Primary_Chilling_Touch_slow"                   "Primary Chilling Touch slow"
+"DOTA_Tooltip_modifier_Primary_Chilling_Touch_slow_Description"                   "Reduce speed"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_slow"                   "Middle Chilling Touch slow"
+"DOTA_Tooltip_modifier_Middle_Chilling_Touch_slow_Description"                   "Reduce speed"
+
+"DOTA_Tooltip_modifier_Advanced_Chronosphere_debuff"                   "Advanced Chronosphere"
+"DOTA_Tooltip_modifier_Advanced_Chronosphere_debuff_Description"                   "You are in the time bubble"
+"DOTA_Tooltip_modifier_Middle_Chronosphere_debuff"                   "Middle Chronosphere"
+"DOTA_Tooltip_modifier_Middle_Chronosphere_debuff_Description"                   "You are in the time bubble"
+"DOTA_Tooltip_modifier_Primary_Chronosphere_debuff"                   "Primary Chronosphere"
+"DOTA_Tooltip_modifier_Primary_Chronosphere_debuff_Description"                   "You are in the time bubble"
+
+"DOTA_Tooltip_modifier_Advanced_Coup_De_Grace_secondstrike"                   "Coup De Grace Secondstrike"
+"DOTA_Tooltip_modifier_Advanced_Coup_De_Grace_secondstrike_Description"                   "The next attack may cause higher critical damage"
+
+"DOTA_Tooltip_modifier_Middle_Coup_De_Grace_secondstrike"                   "Coup De Grace Secondstrike"
+"DOTA_Tooltip_modifier_Middle_Coup_De_Grace_secondstrike_Description"                   "The next attack may cause higher critical damage"
+
+"DOTA_Tooltip_modifier_Advanced_Fire_Blast_stun"                   "stunned"
+"DOTA_Tooltip_modifier_Advanced_Fire_Blast_debuff"                   "Advanced Fire Blast"
+"DOTA_Tooltip_modifier_Advanced_Fire_Blast_debuff_Description"                   "Take continuous damage"
+
+"DOTA_Tooltip_modifier_Advanced_Focus_effect"                   "Advanced Focus Fire"
+"DOTA_Tooltip_modifier_Advanced_Focus_effect_Description"                   "Increase attack speed"
+"DOTA_Tooltip_modifier_Advanced_Focus_Fire"                   "Advanced Focus Fire"
+"DOTA_Tooltip_modifier_Advanced_Focus_Fire_Description"                   "Increase attack speed"
+"DOTA_Tooltip_modifier_Middle_Focus_effect"                   "Middle Focus Fire"
+"DOTA_Tooltip_modifier_Middle_Focus_effect_Description"                   "Increase attack speed"
+"DOTA_Tooltip_modifier_Middle_Focus_Fire"                   "Middle Focus Fire"
+"DOTA_Tooltip_modifier_Middle_Focus_Fire_Description"                   "Increase attack speed"
+"DOTA_Tooltip_modifier_Primary_Focus_effect"                   "Primary Focus Fire"
+"DOTA_Tooltip_modifier_Primary_Focus_effect_Description"                   "Increase attack speed"
+"DOTA_Tooltip_modifier_Primary_Focus_Fire"                   "Primary Focus Fire"
+"DOTA_Tooltip_modifier_Primary_Focus_Fire_Description"                   "Increase attack speed"
+
+
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_debuff"                   "Advanced Ice Path"
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_debuff_Description"                   "stunned, increased incoming magical damage"
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_debuff2"                   "Bone-Chilling"
+"DOTA_Tooltip_modifier_Advanced_Ice_Path_debuff2_Description"                   "Reduce speed,cant be magic immune"
+"DOTA_Tooltip_modifier_Middle_Ice_Path_debuff"                   "Middle Ice Path"
+"DOTA_Tooltip_modifier_Middle_Ice_Path_debuff_Description"                   "stunned, increased incoming magical damage"
+"DOTA_Tooltip_modifier_Primary_Ice_Path_debuff"                   "Primary Ice Path"
+"DOTA_Tooltip_modifier_Primary_Ice_Path_debuff_Description"                   "stunned"
+
+
+"DOTA_Tooltip_modifier_Advanced_Ice_Vortex_debuff"                   "Advanced Ice Vortex"
+"DOTA_Tooltip_modifier_Advanced_Ice_Vortex_debuff_Description"                   "Reduce attack speed, increased incoming  damage"
+"DOTA_Tooltip_modifier_Advanced_Ice_Vortex_buff"                   "Cooling"
+"DOTA_Tooltip_modifier_Advanced_Ice_Vortex_buff_Description"                   "Increase ability cooldown speed"
+
+"DOTA_Tooltip_modifier_Middle_Ice_Vortex_debuff"                   "Middle Ice Vortex"
+"DOTA_Tooltip_modifier_Middle_Ice_Vortex_debuff_Description"                   "Reduce attack speed, increased incoming  damage"
+"DOTA_Tooltip_modifier_Primary_Ice_Vortex_debuff"                   "Primary Ice Vortex"
+"DOTA_Tooltip_modifier_Primary_Ice_Vortex_debuff_Description"                   "Reduce attack speed, increased incoming  damage"
+
+"DOTA_Tooltip_modifier_Advanced_Liquid_Fire_sub"                   "Sub Advanced Liquid Fire"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Fire_sub_Description"                   "Reduce attack speed"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Fire"                   "Advanced Liquid Fire"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Fire_Description"                   "Slow down and will flow to nearby allies"
+
+"DOTA_Tooltip_modifier_Middle_Liquid_Fire_sub"                   "Sub Middle Liquid Fire"
+"DOTA_Tooltip_modifier_Middle_Liquid_Fire_sub_Description"                   "Reduce attack speed"
+"DOTA_Tooltip_modifier_Middle_Liquid_Fire"                   "Middle Liquid Fire"
+"DOTA_Tooltip_modifier_Middle_Liquid_Fire_Description"                   "Slow down and will flow to nearby allies"
+"DOTA_Tooltip_modifier_Primary_Liquid_Fire"                   "Primary Liquid Fire"
+"DOTA_Tooltip_modifier_Primary_Liquid_Fire_Description"                   "Slow down and will flow to nearby allies"
+
+"DOTA_Tooltip_modifier_Advanced_Liquid_Frost_sub"                   "Sub Advanced Liquid Frost"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Frost_sub_Description"                   "Move Speed Slow, increase incoming damage"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Frost"                   "Advanced Liquid Frost"
+"DOTA_Tooltip_modifier_Advanced_Liquid_Frost_Description"                   "Move Speed Slow, increase incoming damage and will flow to nearby allies"
+"DOTA_Tooltip_modifier_Middle_Liquid_Frost_subf"                   "Sub Middle Liquid Frost"
+"DOTA_Tooltip_modifier_Middle_Liquid_Frost_sub_Description"                   "Move Speed Slow,increase incoming damage"
+"DOTA_Tooltip_modifier_Middle_Liquid_Frost"                   "Middle Liquid Frost"
+"DOTA_Tooltip_modifier_Middle_Liquid_Frost_Description"                   "Move Speed Slow,increase incoming damage and will flow to nearby allies"
+
+"DOTA_Tooltip_modifier_Primary_Liquid_Frost"                   "Primary Liquid Frost"
+"DOTA_Tooltip_modifier_Primary_Liquid_Frost_Description"                   "Move Speed Slow,increase incoming damage"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Malefice"                   "Advanced Malefice"
+"DOTA_Tooltip_modifier_Advanced_Malefice_Description"                   "Pulled by gravity"
+"DOTA_Tooltip_modifier_Middle_Malefice"                   "Middle Malefice"
+"DOTA_Tooltip_modifier_Middle_Malefice_Description"                   "Pulled by gravity"
+"DOTA_Tooltip_modifier_Primary_Malefice"                   "Primary Malefice"
+"DOTA_Tooltip_modifier_Primary_Malefice_Description"                   "Pulled by gravity"
+"DOTA_Tooltip_modifier_Advanced_Nature_Attendants_hp"                   "Advanced Attendants"
+"DOTA_Tooltip_modifier_Advanced_Nature_Attendants_hp_Description"                   "Gives arua health recovery"
+"DOTA_Tooltip_modifier_Middle_Nature_Attendants_hp"                   "Middle Attendants"
+"DOTA_Tooltip_modifier_Middle_Nature_Attendants_hp_Description"                   "Gives arua health recovery"
+"DOTA_Tooltip_modifier_Primary_Nature_Attendants_hp"                   "Primary Attendants"
+"DOTA_Tooltip_modifier_Primary_Nature_Attendants_hp_Description"                   "Gives arua health recovery"
+"DOTA_Tooltip_modifier_Advanced_Nether_Ward_debuff"                   "Advanced Nether Ward"
+"DOTA_Tooltip_modifier_Advanced_Nether_Ward_debuff_Description"                   "Losing mana"
+"DOTA_Tooltip_modifier_Middle_Nether_Ward_debuff"                   "Middle Nether Ward"
+"DOTA_Tooltip_modifier_Middle_Nether_Ward_debuff_Description"                   "Losing mana"
+"DOTA_Tooltip_modifier_Primary_Nether_Ward_debuff"                   "Primary Nether Ward"
+"DOTA_Tooltip_modifier_Primary_Nether_Ward_debuff_Description"                   "Losing mana"
+"DOTA_Tooltip_modifier_Advanced_Nether_Ward_silenced"                   "Nether Silence"
+"DOTA_Tooltip_modifier_Advanced_Nether_Ward_silenced_Description"                   "Deprived of cast ability"
+"DOTA_Tooltip_modifier_Advanced_Phantom_Strike"                   "Advanced Phantom Strike"
+"DOTA_Tooltip_modifier_Advanced_Phantom_Strike_Description"                   "Increase attack speed"
+
+"DOTA_Tooltip_modifier_Primary_Phantom_Strike"                   "Primary Phantom Strike"
+"DOTA_Tooltip_modifier_Primary_Phantom_Strike_Description"                   "Increase attack speed"
+
+"DOTA_Tooltip_modifier_Middle_Phantom_Strike"                   "Middle Phantom Strike"
+"DOTA_Tooltip_modifier_Middle_Phantom_Strike_Description"                   "Increase attack speed"
+
+"DOTA_Tooltip_modifier_Advanced_Poison_Touch_armor"                   "Induced Disease"
+"DOTA_Tooltip_modifier_Advanced_Poison_Touch_armor_Description"                   "Reduce armor"
+"DOTA_Tooltip_modifier_Advanced_Poison_Touch_stack"                   "Advanced Poison Touch"
+"DOTA_Tooltip_modifier_Advanced_Poison_Touch_stack_Description"                   "Cause continuous damage"
+"DOTA_Tooltip_modifier_Primary_Poison_Touch_stack"                   "Primary Poison Touch"
+"DOTA_Tooltip_modifier_Primary_Poison_Touch_stack_Description"                   "Cause continuous damage"
+"DOTA_Tooltip_modifier_Middle_Poison_Touch_stack"                   "Middle Poison Touch"
+"DOTA_Tooltip_modifier_Middle_Poison_Touch_stack_Description"                   "Cause continuous damage"
+"DOTA_Tooltip_modifier_Advanced_Solar_Guardian"                   "Advanced Solar Guardian"
+"DOTA_Tooltip_modifier_Advanced_Solar_Guardian_Description"                   "Casting"
+"DOTA_Tooltip_modifier_Advanced_Solar_Guardian_buff"                   "Holy Blessing"
+"DOTA_Tooltip_modifier_Advanced_Solar_Guardian_buff_Description"                   "Increase outgoing damage"
+
+"DOTA_Tooltip_modifier_Middle_Solar_Guardian"                   "Middle Solar Guardian"
+"DOTA_Tooltip_modifier_Middle_Solar_Guardian_Description"                   "Casting"
+"DOTA_Tooltip_modifier_Middle_Solar_Guardian_buff"                   "Holy Blessing"
+"DOTA_Tooltip_modifier_Middle_Solar_Guardian_buff_Description"                   "Increase outgoing damage"
+
+"DOTA_Tooltip_modifier_Primary_Solar_Guardian"                   "Primary Solar Guardian"
+"DOTA_Tooltip_modifier_Primary_Solar_Guardian_Description"                   "Casting"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Spear_War_God"                   "War God"
+"DOTA_Tooltip_modifier_Advanced_Spear_War_God_Description"                   "Gives LifeSteal ability when HP is lower than 50%%"
+
+"DOTA_Tooltip_modifier_Advanced_Static_Field"                   "Advanced Static Field"
+"DOTA_Tooltip_modifier_Advanced_Static_Field_Description"                   "Increase spell power"
+"DOTA_Tooltip_modifier_Middle_Static_Field"                   "Middle Static Field"
+"DOTA_Tooltip_modifier_Middle_Static_Field_Description"                   "Increase spell power"
+"DOTA_Tooltip_modifier_Primary_Static_Field"                   "Primary Static Field"
+"DOTA_Tooltip_modifier_Primary_Static_Field_Description"                   "Increase spell power"
+"DOTA_Tooltip_modifier_Advanced_Stifling_Dagger_slow"                   "Advanced Stifling Dagger"
+"DOTA_Tooltip_modifier_Advanced_Stifling_Dagger_slow_Description"                   "slow"
+"DOTA_Tooltip_modifier_Middle_Stifling_Dagger_slow"                   "Middle Stifling Dagger"
+"DOTA_Tooltip_modifier_Middle_Stifling_Dagger_slow_Description"                   "slow"
+"DOTA_Tooltip_modifier_Primary_Stifling_Dagger_slow"                   "Primary Stifling Dagger"
+"DOTA_Tooltip_modifier_Primary_Stifling_Dagger_slow_Description"                   "slow"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_Power"                   "Reuse"
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_Power_Description"                   "Gives attack effect"
+"DOTA_Tooltip_modifier_Middle_Thundergods_Wrath_Power"                   "Reuse"
+"DOTA_Tooltip_modifier_Middle_Thundergods_Wrath_Power_Description"                   "Gives attack effect"
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_Liquid_Cloud"                   "Liquid Cloud"
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_Liquid_Cloud_Description"                   "Gives passive ability power increase"
+"DOTA_Tooltip_modifier_Advanced_Time_Dilation_slow"                   "Advanced Time Dilation"
+"DOTA_Tooltip_modifier_Advanced_Time_Dilation_slow_Description"                   "slow"
+"DOTA_Tooltip_modifier_Advanced_Time_Dilation_buff"                   "Advanced Time Dilation"
+"DOTA_Tooltip_modifier_Advanced_Time_Dilation_buff_Description"                   "Increase speed"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_slow"                   "Advanced Time Walk"
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_slow_Description"                   "slow"
+"DOTA_Tooltip_modifier_Middle_Void_time_walk_slow"                   "Middle Time Walk"
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_slow_Description"                   "slow"
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_buff"                   "Advanced Time Walk"
+"DOTA_Tooltip_modifier_Advanced_Void_time_walk_buff_Description"                   "increase speed"
+"DOTA_Tooltip_modifier_Middle_Void_time_walk_buff"                   "Middle Time Walk"
+"DOTA_Tooltip_modifier_Middle_Void_time_walk_buff_Description"                   "increase speed"
+"DOTA_Tooltip_modifier_Advanced_Windrun_buff"                   "Advanced Windrun"
+"DOTA_Tooltip_modifier_Advanced_Windrun_buff_Description"                   "Increases movement speed and adds evasion from all physical attacks,also knocking enemy back."
+"DOTA_Tooltip_modifier_Middle_Windrun_buff"                   "Middle Windrun"
+"DOTA_Tooltip_modifier_Middle_Windrun_buff_Description"                   "Increases movement speed and adds evasion from all physical attacks"
+"DOTA_Tooltip_modifier_Primary_Windrun_buff"                   "Primary Windrun"
+"DOTA_Tooltip_modifier_Primary_Windrun_buff_Description"                   "Increases movement speed and adds evasion from all physical attacks"
+
+"DOTA_Tooltip_modifier_Advanced_Untouchable_slow_stack"                   "Advanced Untouchable"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_slow_stack_Description"                   "Reduce attack speed"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_spell_slow"                   "Magic Denies"
+"DOTA_Tooltip_modifier_Advanced_Untouchable_spell_slow_Description"                   "slow casting speed"
+
+"DOTA_Tooltip_modifier_Middle_Untouchable_slow_stack"                   "Middle Untouchable"
+"DOTA_Tooltip_modifier_Middle_Untouchable_slow_stack_Description"                   "Reduce attack speed"
+"DOTA_Tooltip_modifier_Middle_Untouchable_spell_slow"                   "Magic Denies"
+"DOTA_Tooltip_modifier_Middle_Untouchable_spell_slow_Description"                   "slow casting speed"
+"DOTA_Tooltip_modifier_Primary_Untouchable_slow_stack"                   "Primary Untouchable"
+"DOTA_Tooltip_modifier_Primary_Untouchable_slow_stack_Description"                   "Reduce attack speed"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Evil_debuff"                   "Maledict"
+"DOTA_Tooltip_modifier_creeps_spell_Evil_debuff_Description"                   "Move Speed Slow and taking extra damage"
+"DOTA_Tooltip_modifier_creeps_spell_Hypertoxic_debuff"                   "Hypertoxic"
+"DOTA_Tooltip_modifier_creeps_spell_Hypertoxic_debuff_Description"                   "taking an increasing damage over time and Disabled passives"
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_active"                   "Rolled up"
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_active_Description"                   "Bristleback angle:360°"
+"DOTA_Tooltip_modifier_goo_stack"                   "snot"
+"DOTA_Tooltip_modifier_goo_stack_Description"                   "reduce movement speed and armor"
+"DOTA_Tooltip_modifier_goo_stack2"                   "snot(Sub)"
+"DOTA_Tooltip_modifier_goo_stack2_Description"                   "reduce movement speed and armor"
+"DOTA_Tooltip_modifier_goo_stack3"                   "Across infected"
+"DOTA_Tooltip_modifier_goo_stack3_Description"                   "Permanent damaged"
+
+
+"DOTA_Tooltip_modifier_middle_goo_stack"                   "snot"
+"DOTA_Tooltip_modifier_middle_goo_stack_Description"                   "reduce movement speed and armor"
+"DOTA_Tooltip_modifier_middle_goo_stack2"                   "snot(Sub)"
+"DOTA_Tooltip_modifier_middle_goo_stack2_Description"                   "reduce movement speed and armor"
+"DOTA_Tooltip_modifier_middle_goo_stack3"                   "Across infected"
+"DOTA_Tooltip_modifier_middle_goo_stack3_Description"                   "Permanent damaged"
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_advanced_goo_stack"                   "snot"
+"DOTA_Tooltip_modifier_advanced_goo_stack_Description"                   "reduce movement speed and armor"
+"DOTA_Tooltip_modifier_advanced_goo_stack2"                   "snot(Sub)"
+"DOTA_Tooltip_modifier_advanced_goo_stack2_Description"                   "reduce movement speed and armor"
+"DOTA_Tooltip_modifier_advanced_goo_stack3"                   "Across infected"
+"DOTA_Tooltip_modifier_advanced_goo_stack3_Description"                   "Permanent damaged"
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Warpath"                   "Advanced Warpath"
+"DOTA_Tooltip_modifier_Advanced_Warpath_Description"                   "Gives combat capability increase"
+"DOTA_Tooltip_modifier_Advanced_Warcry_active"                   "Advanced Warcry"
+"DOTA_Tooltip_modifier_Advanced_Warcry_active_Description"                   "increased attribute"
+
+"DOTA_Tooltip_modifier_Middle_Warpath"                   "Middle Warpath"
+"DOTA_Tooltip_modifier_Middle_Warpath_Description"                   "Gives combat capability increase"
+"DOTA_Tooltip_modifier_Middle_Warcry_active"                   "Middle Warcry"
+"DOTA_Tooltip_modifier_Middle_Warcry_active_Description"                   "increased attribute"
+
+"DOTA_Tooltip_modifier_Primary_Warpath"                   "Primary Warpath"
+"DOTA_Tooltip_modifier_Primary_Warpath_Description"                   "Gives combat capability increase"
+
+"DOTA_Tooltip_modifier_Primary_Warcry_active"                   "Primary Warcry"
+"DOTA_Tooltip_modifier_Primary_Warcry_active_Description"                   "increased attribute"
+
+
+"DOTA_Tooltip_modifier_Advanced_Warcry_Winters_Coming"                   "Winter is coming"
+"DOTA_Tooltip_modifier_Advanced_Warcry_Winters_Coming_Description"                   "taking extra damage"
+"DOTA_Tooltip_modifier_Advanced_Warcry_effect"                   "Night Watcher Seal"
+"DOTA_Tooltip_modifier_Advanced_Warcry_effect_Description"                   "increased attribute"
+"DOTA_Tooltip_modifier_Middle_Warcry_effect"                   "Night Watcher Seal"
+"DOTA_Tooltip_modifier_Middle_Warcry_effect_Description"                   "increased attribute"
+
+"DOTA_Tooltip_modifier_Primary_God_Strength"                   "Primary God's Strength"
+"DOTA_Tooltip_modifier_Primary_God_Strength_Description"                   "You're now invincible"
+"DOTA_Tooltip_modifier_Middle_God_Strength"                   "Middle God's Strength"
+"DOTA_Tooltip_modifier_Middle_God_Strength_Description"                   "You're now invincible"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Caustic_Finale_slow"                   "Advanced Caustic Finale"
+"DOTA_Tooltip_modifier_Advanced_Caustic_Finale_slow_Description"                   "Being slow"
+"DOTA_Tooltip_modifier_Advanced_Caustic_Finale"                   "Advanced Caustic Finale"
+"DOTA_Tooltip_modifier_Advanced_Caustic_Finale_Description"                   "Exploded in a seconds"
+
+"DOTA_Tooltip_modifier_Middle_Caustic_Finale_slow"                   "Middle Caustic Finale"
+"DOTA_Tooltip_modifier_Middle_Caustic_Finale_slow_Description"                   "Being slow"
+"DOTA_Tooltip_modifier_Middle_Caustic_Finale"                   "Middle Caustic Finale"
+"DOTA_Tooltip_modifier_Middle_Caustic_Finale_Description"                   "Exploded in a seconds"
+
+"DOTA_Tooltip_modifier_Primary_Caustic_Finale_slow"                   "Primary Caustic Finale"
+"DOTA_Tooltip_modifier_Primary_Caustic_Finale_slow_Description"                   "Being slow"
+"DOTA_Tooltip_modifier_Primary_Caustic_Finale"                   "Primary Caustic Finale"
+"DOTA_Tooltip_modifier_Primary_Caustic_Finale_Description"                   "Exploded in a seconds"
+
+
+"DOTA_Tooltip_modifier_Advanced_Epicenter_slow"                   "Advanced Epicenter"
+"DOTA_Tooltip_modifier_Advanced_Epicenter_slow_Description"                   "Being slow"
+"DOTA_Tooltip_modifier_Advanced_Epicenter"                   "Advanced Epicenter"
+"DOTA_Tooltip_modifier_Advanced_Epicenter_Description"                   "Epicenter's enegy"
+"DOTA_Tooltip_modifier_Advanced_Epicenter_debuff"                   "resonance"
+"DOTA_Tooltip_modifier_Advanced_Epicenter_debuff_Description"                   "reduce armor and Magic Resistance"
+
+"DOTA_Tooltip_modifier_Primary_Epicenter_slow"                   "Primary Epicenter"
+"DOTA_Tooltip_modifier_Primary_Epicenter_slow_Description"                   "Being slow"
+"DOTA_Tooltip_modifier_Primary_Epicenter"                   "Primary Epicenter"
+"DOTA_Tooltip_modifier_Primary_Epicenter_Description"                   "Epicenter's enegy"
+"DOTA_Tooltip_modifier_Middle_Epicenter_slow"                   "Middle Epicenter"
+"DOTA_Tooltip_modifier_Middle_Epicenter_slow_Description"                   "Being slow"
+"DOTA_Tooltip_modifier_Middle_Epicenter"                   "Middle Epicenter"
+"DOTA_Tooltip_modifier_Middle_Epicenter_Description"                   "Epicenter's enegy"
+
+
+"DOTA_Tooltip_modifier_Advanced_Berserkers_Call_armor"                   "Advanced Berserker's Call"
+"DOTA_Tooltip_modifier_Advanced_Berserkers_Call_armor_Description"                   "taunting nearby enemy units"
+"DOTA_Tooltip_modifier_Middle_Berserkers_Call_armor"                   "Advanced Berserker's Call"
+"DOTA_Tooltip_modifier_Middle_Berserkers_Call_armor_Description"                   "taunting nearby enemy units"
+"DOTA_Tooltip_modifier_Primary_Berserkers_Call_armor"                   "Primary Berserker's Call"
+"DOTA_Tooltip_modifier_Primary_Berserkers_Call_armor_Description"                   "taunting nearby enemy units"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Plague_Ward_armor"                   "Corrosive Venom"
+"DOTA_Tooltip_modifier_Advanced_Plague_Ward_armor_Description"                   "reduce armor and Magic Resistance"
+"DOTA_Tooltip_modifier_Advanced_Poison_Nova"                   "Advanced Poison Nova"
+"DOTA_Tooltip_modifier_Advanced_Poison_Nova_Description"                   "cause continuous damage"
+
+"DOTA_Tooltip_modifier_Advanced_Poison_Nova"                   "Advanced Poison Nova"
+"DOTA_Tooltip_modifier_Advanced_Poison_Nova_Description"                   "cause continuous damage"
+"DOTA_Tooltip_modifier_Primary_Poison_Nova"                   "Primary Poison Nova"
+"DOTA_Tooltip_modifier_Primary_Poison_Nova_Description"                   "cause continuous damage"
+"DOTA_Tooltip_modifier_Middle_Poison_Nova"                   "Middle Poison Nova"
+"DOTA_Tooltip_modifier_Middle_Poison_Nova_Description"                   "cause continuous damage"
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_active"                   "Advanced Ghost Shroud"
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_active_Description"                   "renders it unable to  be attacked,but taking extra magic damage"
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_aura"                   "Advanced Ghost Shroud"
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_aura_Description"                   "Be afraid! The weak!"
+
+
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_active"                   "Middle Ghost Shroud"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_active_Description"                   "renders it unable to  be attacked,but taking extra magic damage"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_debuff"                   "Middle Ghost Shroud"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_debuff_Description"                   "Being slow"
+
+"DOTA_Tooltip_modifier_Primary_Ghost_Shroud_active"                   "Primary Ghost Shroud"
+"DOTA_Tooltip_modifier_Primary_Ghost_Shroud_active_Description"                   "renders it unable to  be attacked,but taking extra magic damage"
+"DOTA_Tooltip_modifier_Primary_Ghost_Shroud_debuff"                   "Primary Ghost Shroud"
+"DOTA_Tooltip_modifier_Primary_Ghost_Shroud_debuff_Description"                   "Being slow"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_Despair_Aura_buff"                   "Despair Aura"
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_Despair_Aura_buff_Description"                   "Spare my life!"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_Despair_Aura_buff"                   "Despair Aura"
+"DOTA_Tooltip_modifier_Middle_Ghost_Shroud_Despair_Aura_buff_Description"                   "Spare my life!"
+
+"DOTA_Tooltip_modifier_Primary_Heart_Stopper_Aura_damage"                   "Primary Heartstopper Aura"
+"DOTA_Tooltip_modifier_Primary_Heart_Stopper_Aura_damage_Description"                   "causing  enemy units to lose health over time"
+"DOTA_Tooltip_modifier_Middle_Heart_Stopper_Aura_damage"                   "Middle Heartstopper Aura"
+"DOTA_Tooltip_modifier_Middle_Heart_Stopper_Aura_damage_Description"                   "causing  enemy units to lose health over time"
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_damage"                   "Advanced Heartstopper Aura"
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_damage_Description"                   "causing  enemy units to lose health over time"
+
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_active"                   "Ring of discipline"
+"DOTA_Tooltip_modifier_Advanced_Heart_Stopper_Aura_active_Description"                   "increased spell damage"
+
+
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_energy"                   "Transversant Soul"
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_energy_Description"                   "Cumulating damage"
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_in_path"                   "Advanced Spectral Dagger"
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_in_path_Description"                   "increased movement speed greatly"
+
+
+"DOTA_Tooltip_modifier_Primary_Spectral_Dagger_in_path"                   "Primary Spectral Dagger"
+"DOTA_Tooltip_modifier_Primary_Spectral_Dagger_in_path_Description"                   "increased movement speed greatly"
+"DOTA_Tooltip_modifier_Middle_Spectral_Dagger_in_path"                   "Middle Spectral Dagger"
+"DOTA_Tooltip_modifier_Middle_Spectral_Dagger_in_path_Description"                   "increased movement speed greatly"
+
+
+"DOTA_Tooltip_modifier_Advanced_Dispersion_release"                   "Advanced Dispersion"
+"DOTA_Tooltip_modifier_Advanced_Dispersion_release_Description"                   "release when it reach more than 100 stack"
+"DOTA_Tooltip_modifier_Primary_Dispersion_release"                   "Primary Dispersion"
+"DOTA_Tooltip_modifier_Primary_Dispersion_release_Description"                   "release when it reach more than 100 stack"
+"DOTA_Tooltip_modifier_Middle_Dispersion_release"                   "Middle Dispersion"
+"DOTA_Tooltip_modifier_Middle_Dispersion_release_Description"                   "release when it reach more than 100 stack"
+"DOTA_Tooltip_modifier_Advanced_Haunt_shield"                   "Energy aggregation"
+"DOTA_Tooltip_modifier_Advanced_Haunt_shield_Description"                   "Block all the damage"
+"DOTA_Tooltip_modifier_item_new_bottle_heal"                   "Bottle"
+"DOTA_Tooltip_modifier_item_new_bottle_heal_Description"                   "the magic power of Moon well is healing your energy"
+
+
+
+"DOTA_Tooltip_modifier_Middle_Black_Hole_aura"                   "Middle Black Hole"
+"DOTA_Tooltip_modifier_Middle_Black_Hole_aura_Description"                   "get sucked"
+"DOTA_Tooltip_modifier_Advanced_Black_Hole_aura"                   "Advanced Black Hole"
+"DOTA_Tooltip_modifier_Advanced_Black_Hole_aura_Description"                   "get sucked"
+"DOTA_Tooltip_modifier_Primary_Black_Hole_aura"                   "Primary Black Hole"
+"DOTA_Tooltip_modifier_Primary_Black_Hole_aura_Description"                   "get sucked"
+
+
+
+"DOTA_Tooltip_modifier_Middle_Macropyre"                   "Middle Macropyre"
+"DOTA_Tooltip_modifier_Middle_Macropyre_Description"                   "cause continuous damage"
+"DOTA_Tooltip_modifier_Advanced_Macropyre"                   "Advanced Macropyre"
+"DOTA_Tooltip_modifier_Advanced_Macropyre_Description"                   "cause continuous damage"
+"DOTA_Tooltip_modifier_Primary_Macropyre"                   "Primary Macropyre"
+"DOTA_Tooltip_modifier_Primary_Macropyre_Description"                   "cause continuous damage"
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_Shallow_Grave"                   "Middle Shallow Grave"
+"DOTA_Tooltip_modifier_Middle_Shallow_Grave_Description"                   "gain a ability to inmune the lethal damage"
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave"                   "Advanced Shallow Grave"
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_Description"                   "gain a ability to inmune the lethal damage"
+"DOTA_Tooltip_modifier_Primary_Shallow_Grave"                   "Primary Shallow Grave"
+"DOTA_Tooltip_modifier_Primary_Shallow_Grave_Description"                   "gain a ability to inmune the lethal damage"
+
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_bonus"                   "Spirit Grave"
+"DOTA_Tooltip_modifier_Advanced_Shallow_Grave_bonus_Description"                   "gain attribute increased"
+
+
+"DOTA_Tooltip_modifier_Middle_Powershot_slow"                   "Middle Powershot"
+"DOTA_Tooltip_modifier_Middle_Powershot_slow_Description"                   "Being slow"
+"DOTA_Tooltip_modifier_Advanced_Powershot_slow"                   "Advanced Powershot"
+"DOTA_Tooltip_modifier_Advanced_Powershot_slow_Description"                   "Being slow"
+
+"DOTA_Tooltip_modifier_creeps_spell_Gain_Base_Difficulty_gain"                   "Difficulty Gain"
+"DOTA_Tooltip_modifier_creeps_spell_Gain_Base_Difficulty_gain_Description"                   "units' attribute affected by the difficulty"
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_2"                   "Form Change"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_2_Description"                   "Transforming to Form 2"
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_3"                   "Form Change"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_3_Description"                   "Transforming to Form 3"
+
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_3_slow"                   "Form Change"
+"DOTA_Tooltip_modifier_creeps_spell_Wave20_changing_to_3_slow_Description"                   "Being slow"
+
+"DOTA_Tooltip_modifier_creeps_spell_Sproink_buff"                   "Sproink"
+"DOTA_Tooltip_modifier_creeps_spell_Sproink_buff_Description"                   "gain attack range"
+
+"DOTA_Tooltip_modifier_creeps_spell_Thorns_reflection"                   "Thorns"
+"DOTA_Tooltip_modifier_creeps_spell_Thorns_reflection_Description"                   "get damage back when attacking Farna"
+
+"DOTA_Tooltip_modifier_creeps_spell_Magnetize"                   "Magnetize"
+"DOTA_Tooltip_modifier_creeps_spell_Magnetize_Description"                   "cause continuous damage"
+
+"DOTA_Tooltip_modifier_creeps_spell_Power_Core_effect"                   "Power Source"
+"DOTA_Tooltip_modifier_creeps_spell_Power_Core_effect_Description"                   "Increase attribute "
+
+
+"DOTA_Tooltip_modifier_Primary_Acid_Sparay_debuff"                   "Primary Acid Spray"
+"DOTA_Tooltip_modifier_Primary_Acid_Sparay_debuff_Description"                   "cause continuous damage, reduce armor"
+
+"DOTA_Tooltip_modifier_Middle_Acid_Sparay_debuff"                   "Middle Acid Spray"
+"DOTA_Tooltip_modifier_Middle_Acid_Sparay_debuff_Description"                   "cause continuous damage, reduce armor and movement speed"
+"DOTA_Tooltip_modifier_Advanced_Acid_Sparay_debuff"                   "Advanced Acid Spray"
+"DOTA_Tooltip_modifier_Advanced_Acid_Sparay_debuff_Description"                   "cause continuous damage, reduce armor and movement speed"
+
+"DOTA_Tooltip_modifier_generic_stunned_long"                   "stunned"
+"DOTA_Tooltip_modifier_generic_stunned_long_Description"                   "stunned"
+"DOTA_Tooltip_modifier_generic_stunned_shot"                   "stunned"
+"DOTA_Tooltip_modifier_generic_stunned_long_Description"                   "stunned"
+"DOTA_Tooltip_modifier_generic_stunned_normal"                   "stunned"
+"DOTA_Tooltip_modifier_generic_stunned_long_Description"                   "stunned"
+"DOTA_Tooltip_modifier_normal_stun"                   "stunned"
+"DOTA_Tooltip_modifier_normal_stun_Description"                   "stunned"
+
+"DOTA_Tooltip_modifier_Middle_Unstable_Concoction_u235"                   "Radiation"
+"DOTA_Tooltip_modifier_Middle_Unstable_Concoction_u235_Description"                   "Cause continuous damage to the nearby enemy"
+"DOTA_Tooltip_modifier_Advanced_Unstable_Concoction_u235"                   "Radiation"
+"DOTA_Tooltip_modifier_Advanced_Unstable_Concoction_u235_Description"                   "Cause continuous damage to the nearby enemy"
+"DOTA_Tooltip_modifier_Advanced_Unstable_Concoction_debuff"       "Chemical Reaction"    
+"DOTA_Tooltip_modifier_Advanced_Unstable_Concoction_debuff"       "Reduce armor and Magic Resistance" 
+
+"DOTA_Tooltip_modifier_Primary_Chemical_Rage"                   "Primary Chemical Rage"
+"DOTA_Tooltip_modifier_Primary_Chemical_Rage_Description"                   "Gives battle ability greatly"
+"DOTA_Tooltip_modifier_Middle_Chemical_Rage"                   "Middle Chemical Rage"
+"DOTA_Tooltip_modifier_Middle_Chemical_Rage_Description"                   "Gives battle ability greatly"
+"DOTA_Tooltip_modifier_Advanced_Chemical_Rage"                   "Advanced Chemical Rage"
+"DOTA_Tooltip_modifier_Advanced_Chemical_Rage_Description"                   "Gives battle ability greatly"
+
+
+
+"DOTA_Tooltip_modifier_Primary_Blade_Fury"                   "Primary Blade Fury"
+"DOTA_Tooltip_modifier_Primary_Blade_Fury_Description"                   "Cause continuous damage to the nearby enemy "
+"DOTA_Tooltip_modifier_Middle_Blade_Fury"                   "Middle Blade Fury"
+"DOTA_Tooltip_modifier_Middle_Blade_Fury_Description"                   "Cause continuous damage to the nearby enemy "
+"DOTA_Tooltip_modifier_Advanced_Blade_Fury"                   "Advanced Blade Fury"
+"DOTA_Tooltip_modifier_Advanced_Blade_Fury_Description"                   "Cause continuous damage to the nearby enemy "
+
+"DOTA_Tooltip_modifier_Middle_Blade_Dance_Dance_For_Young"                   "Dancing Youth"
+"DOTA_Tooltip_modifier_Middle_Blade_Dance_Dance_For_Young_Description"                   "Increased attack speed"
+
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_Dance_For_Young"                   "Dancing Youth"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_Dance_For_Young_Description"                   "Increased attack speed"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance"                   "Draw Knife slash"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_Description"                   "Increased attack damage"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_buff"                   "Secret Sword: Swallow Return"
+"DOTA_Tooltip_modifier_Advanced_Blade_Dance_buff_Description"                   "Increased attack speed"
+
+"DOTA_Tooltip_modifier_Primary_Omni_Slash_caster"                   "Primary Omni Slash"
+"DOTA_Tooltip_modifier_Primary_Omni_Slash_caster_Description"                   "Cause continuous damage to the nearby enemy "
+"DOTA_Tooltip_modifier_Middle_Omni_Slash_caster"                   "Middle Omni Slash"
+"DOTA_Tooltip_modifier_Middle_Omni_Slash_caster_Description"                   "Cause continuous damage to the nearby enemy "
+"DOTA_Tooltip_modifier_Advanced_Omni_Slash_caster"                   "Advanced Omni Slash"
+"DOTA_Tooltip_modifier_Advanced_Omni_Slash_caster_Description"                   "Cause continuous damage to the nearby enemy "
+"DOTA_Tooltip_modifier_Advanced_Omni_Slash_transfer"                   "Legacy"
+"DOTA_Tooltip_modifier_Advanced_Omni_Slash_transfer_Description"                   "Make the next Omni Slash's attack speed faster"
+"DOTA_Tooltip_modifier_item_hd_heavens_halberd_disarm"                   "Disarm"
+"DOTA_Tooltip_modifier_item_hd_heavens_halberd_disarm_Description"                   "Cant attack"
+
+"DOTA_Tooltip_modifier_item_hd_satanic_active_lifesteal"                   "Impurity mania"
+"DOTA_Tooltip_modifier_item_hd_satanic_active_lifesteal_Description"                   "Endow large attack lifesteal ability"
+"DOTA_Tooltip_modifier_item_hd_vladmir"                   "Vladmi Arua"
+"DOTA_Tooltip_modifier_item_hd_vladmir_Description"                   "Gives combat ability increases"
+
+"DOTA_Tooltip_modifier_item_hd_eternal_shroud_active_shield"                   "Eternal Shroud"
+"DOTA_Tooltip_modifier_item_hd_eternal_shroud_active_shield_Description"                   "Counteract all magic damage received"
+
+"DOTA_Tooltip_modifier_item_hd_shivas_guard_arua_effect"                   "Frost Aura"
+"DOTA_Tooltip_modifier_item_hd_shivas_guard_arua_effect_Description"                   "Reduce attack speed, health recovery rate, lifesteal effect and healing effect. "
+
+"DOTA_Tooltip_modifier_item_hd_holy_locket_arua_effect"                   "Healing Aura "
+"DOTA_Tooltip_modifier_item_hd_holy_locket_arua_effect_Description"                   "Give health restore"
+
+"DOTA_Tooltip_modifier_item_hd_shivas_guard_debuff"                   "Arctic Blast "
+"DOTA_Tooltip_modifier_item_hd_shivas_guard_debuff_Description"                   "Reduce attack speed and movement speed"
+"DOTA_Tooltip_modifier_item_hd_travel_boots_lv2_active"                   "Superspeed"
+"DOTA_Tooltip_modifier_item_hd_travel_boots_lv2_active_Description"                   "Increase movement speed and ignore the limit"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_active"                   "Phase"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_active_Description"                   "Increase movement speed and phase"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2_void"                   "Void Fusion"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2_void_Description"                   "Ingore damage"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2_active"                   "Phase"
+"DOTA_Tooltip_modifier_item_hd_phase_boots_2_active_Description"                   "Increase movement speed and phase"
+"DOTA_Tooltip_modifier_item_hd_power_treads_str"                   "STR Force"
+"DOTA_Tooltip_modifier_item_hd_power_treads_str_Description"                   "Increase STR and Magic Resistance"
+"DOTA_Tooltip_modifier_item_hd_power_treads_agi"                   "AGI Force"
+"DOTA_Tooltip_modifier_item_hd_power_treads_agi_Description"                   "Increase AGI and attack speed"
+"DOTA_Tooltip_modifier_item_hd_power_treads_int"                   "INT Force"
+"DOTA_Tooltip_modifier_item_hd_power_treads_int_Description"                   "Increase INT and spell damage"
+
+
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_str"                   "STR Force"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_str_Description"                   "Increase STR and Magic Resistance"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_agi"                   "AGI Force"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_agi_Description"                   "Increase AGI and attack speed"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_int"                   "INT Force"
+"DOTA_Tooltip_modifier_item_hd_power_treads_2_int_Description"                   "Increase INT and spell damage"
+
+"DOTA_Tooltip_modifier_item_hd_tranquil_boots_2_active"                   "Tranquil"
+"DOTA_Tooltip_modifier_item_hd_tranquil_boots_2_active_Description"                   "Increase spell damage"
+
+"DOTA_Tooltip_modifier_item_hd_invis_sword_active"                   "Shadow Walk"
+"DOTA_Tooltip_modifier_item_hd_invis_sword_active_Description"                   "Invisible, attacking to end the invisibility will deal bonus damage"
+"DOTA_Tooltip_modifier_item_hd_silver_edge_active"                   "Shadow Walk"
+"DOTA_Tooltip_modifier_item_hd_silver_edge_active_Description"                   "Invisible, attacking to end the invisibility will deal bonus damage"
+"DOTA_Tooltip_modifier_item_hd_silver_edge_active_debuff"                   "invisibility break"
+"DOTA_Tooltip_modifier_item_hd_silver_edge_active_debuff_Description"                   "disable passive abilities and reduce armor/Magic Resistance"
+
+"DOTA_Tooltip_modifier_item_hd_orchid_active"                   "Orchid"
+"DOTA_Tooltip_modifier_item_hd_orchid_active_Description"                   "Silenced and taking extra damage"
+
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active_standby"                   "Flesh and blood tear"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active_standby_Description"                   ""
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active"                   "Bloodthorn"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active_Description"                   "silent and taking extra damage"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_magic_active"                   "Spiritthorn"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_magic_active_Description"                   "silent and reduce magic resistance"
+
+"DOTA_Tooltip_modifier_item_hd_black_king_bar_active"                   "Black King Bar"
+"DOTA_Tooltip_modifier_item_hd_black_king_bar_active_Description"                   "Immune to magic"
+
+
+
+
+
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active"                   "Hex"
+"DOTA_Tooltip_modifier_item_hd_bloodthorn_active_Description"                   "cant do anything"
+
+"DOTA_Tooltip_modifier_item_hd_skadi_active"                   "Frost Attack "
+"DOTA_Tooltip_modifier_item_hd_skadi_active_Description"                   "slow"
+
+"DOTA_Tooltip_modifier_item_hd_blight_stone_active"                   "withered"
+"DOTA_Tooltip_modifier_item_hd_blight_stone_active_Description"                   "reduce armor"
+
+"DOTA_Tooltip_modifier_item_hd_courier_radiant"                   "Foal"
+"DOTA_Tooltip_modifier_item_hd_courier_radiant_Description"                   "Increase movement speed"
+"DOTA_Tooltip_modifier_item_hd_ocean_heart"                   "Bless of Ocean"
+"DOTA_Tooltip_modifier_item_hd_ocean_heart_Description"                   "Increase health regen and mana regen"
+"DOTA_Tooltip_modifier_item_hd_royal_jelly2"                   "Royal jelly"
+"DOTA_Tooltip_modifier_item_hd_royal_jelly2_Description"                   "Increase health regen and mana regen"
+"DOTA_Tooltip_modifier_item_hd_arcane_ring_active"                   "Arcane Enhance"
+"DOTA_Tooltip_modifier_item_hd_arcane_ring_active_Description"                   "Gives spell amplify increase and mana cost reduction"
+"DOTA_Tooltip_modifier_item_hd_energy_ring_active"                   "Vitality Enhance"
+"DOTA_Tooltip_modifier_item_hd_energy_ring_active_Description"                   "Give health recovery enhancement and heal receive effect enhancement"
+
+"DOTA_Tooltip_modifier_item_hd_anti_arcane_ring_active"                   "Anti-Arcane"
+"DOTA_Tooltip_modifier_item_hd_anti_arcane_ring_active_Description"                   "Reduce spell amplify"
+"DOTA_Tooltip_modifier_item_hd_anti_energy_ring_active"                   "Anti-Vitalit"
+"DOTA_Tooltip_modifier_item_hd_anti_energy_ring_active_Description"                   "Reduce the rate of health recovery and the heal effect"
+"DOTA_Tooltip_modifier_item_hd_dust_active"                   "Soul Dust"
+"DOTA_Tooltip_modifier_item_hd_dust_active_Description"                   "Give main attribute increase"
+"DOTA_Tooltip_modifier_item_hd_slakes_scales_active"                   "Shadow Dance"
+"DOTA_Tooltip_modifier_item_hd_slakes_scales_active_Description"                   "Endow invisibility and health restoration"
+
+"DOTA_Tooltip_modifier_item_hd_soul"                   "Domination"
+"DOTA_Tooltip_modifier_item_hd_soul_Description"                   "increase attack damage"
+"DOTA_Tooltip_modifier_item_hd_mad_potion_active"                   "Berserk"
+"DOTA_Tooltip_modifier_item_hd_mad_potion_active_Description"                   "Increase attack speed, cast speed, but reduce armor"
+"DOTA_Tooltip_modifier_item_hd_nian_flag_trap"                   "Banner"
+"DOTA_Tooltip_modifier_item_hd_nian_flag_trap_Description"                   "Increase attack speed and movement speed"
+
+"DOTA_Tooltip_modifier_item_hd_creed_of_omniscience"                   "Bless of Omni God"
+"DOTA_Tooltip_modifier_item_hd_creed_of_omniscience_Description"                   "Be recovered when being injured"
+
+"DOTA_Tooltip_modifier_item_hd_buckler_active"                   "Armor Arua"
+"DOTA_Tooltip_modifier_item_hd_buckler_active_Description"                   "Increase armor"
+"DOTA_Tooltip_modifier_item_hd_ring_of_aquila_active_arua_effect"                   "Aquila aura"
+"DOTA_Tooltip_modifier_item_hd_ring_of_aquila_active_arua_effect_Description"                   "Increase armor and mana regen"
+"DOTA_Tooltip_modifier_item_hd_nether_shawl_active"                   "Nether Aura"
+"DOTA_Tooltip_modifier_item_hd_nether_shawl_active_Description"                   "Reduce magic resistance"
+"DOTA_Tooltip_modifier_item_hd_dragon_scale_active"                   "Afterburn"
+"DOTA_Tooltip_modifier_item_hd_dragon_scale_active_Description"                   "cause continuous damage"
+"DOTA_Tooltip_modifier_item_hd_grove_bow_active"                   "Weaken Body"
+"DOTA_Tooltip_modifier_item_hd_grove_bow_active_Description"                   "Reduce armor"
+"DOTA_Tooltip_modifier_item_hd_arcane_bow_active"                   "Weaken Spirit"
+"DOTA_Tooltip_modifier_item_hd_arcane_bow_active_Description"                   "Reduce magic resistance"
+
+"DOTA_Tooltip_modifier_item_hd_bullwhip_active_effect"                   "Motivate"
+"DOTA_Tooltip_modifier_item_hd_bullwhip_active_effect_Description"                   "increase attack speed and move speed"
+"DOTA_Tooltip_modifier_item_hd_skeletology"                   "Skeletology"
+"DOTA_Tooltip_modifier_item_hd_skeletology_Description"                   "increase outgoing damage by %dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_Tooltip_modifier_item_hd_soul_of_orc_active"                   "Spirit Overflow"
+"DOTA_Tooltip_modifier_item_hd_soul_of_orc_active_Description"                   "taking extra damage but gives spell amplify"
+"DOTA_Tooltip_modifier_item_hd_curse_staff_active"                   "Curse"
+"DOTA_Tooltip_modifier_item_hd_curse_staff_active_Description"                   "Reduce attack damage percentage and state resistance"
+"DOTA_Tooltip_modifier_item_hd_expired_meat_active"                   "suffer from diarrhea"
+"DOTA_Tooltip_modifier_item_hd_expired_meat_active_Description"                   "After eating expired meat pieces, the heal receive effect is reduced"
+"DOTA_Tooltip_modifier_item_hd_demons_heart_02_active"                   "Bloodlust"
+"DOTA_Tooltip_modifier_item_hd_demons_heart_02_active_Description"                   "Give extra health recovery rate"
+
+"DOTA_Tooltip_modifier_item_hd_qingnan_sheet_active"                   "Healing Aura"
+"DOTA_Tooltip_modifier_item_hd_qingnan_sheet_active_Description"                   "increase Healing Receive Amplification"
+
+"DOTA_Tooltip_modifier_item_hd_pheromone_active"                   "Encourage"
+"DOTA_Tooltip_modifier_item_hd_pheromone_active_Description"                   "Increase attack speed and movement speed"
+
+"DOTA_Tooltip_modifier_item_hd_Ice_coat_debuff"                   "slow"
+"DOTA_Tooltip_modifier_item_hd_Ice_coat_debuff_Description"                   "Move Speed Slow and attack speed"
+
+"DOTA_Tooltip_modifier_item_hd_Ice_coat_effect"                   "Frost Shield"
+"DOTA_Tooltip_modifier_item_hd_Ice_coat_effect_Description"                   "increase armor"
+
+
+"DOTA_Tooltip_modifier_item_hd_evil_coat_effect"                   "Evil Curse"
+"DOTA_Tooltip_modifier_item_hd_evil_coat_effect_Description"                   "reduce damage"
+
+"DOTA_Tooltip_modifier_item_hd_evil_coat_effect2"                   "Evil Death Curse"
+"DOTA_Tooltip_modifier_item_hd_evil_coat_effect2_Description"                   "reduce damage"
+
+"DOTA_Tooltip_modifier_item_hd_evil_poison_coat_debuff"                   "Toxic Pool"
+"DOTA_Tooltip_modifier_item_hd_evil_poison_coat_debuff_Description"                   "Passives Disabled"
+
+"DOTA_Tooltip_modifier_item_hd_sparkle_active"                   "Dawn"
+"DOTA_Tooltip_modifier_item_hd_sparkle_active_Description"                   "Force into day time"
+"DOTA_Tooltip_modifier_item_hd_SilenceDarkness_active"                   "Dark Night"
+"DOTA_Tooltip_modifier_item_hd_SilenceDarkness_active_Description"                   "Force into night time"
+
+"DOTA_Tooltip_modifier_item_hd_star_calling_cloak_active"                   "Star Calling"
+"DOTA_Tooltip_modifier_item_hd_star_calling_cloak_active_Description"                   "Calling"
+"DOTA_Tooltip_modifier_item_hd_blade_mail_active"                   "Damage rebound"
+"DOTA_Tooltip_modifier_item_hd_blade_mail_active_Description"                   "In effect"
+
+"DOTA_Tooltip_modifier_item_hd_deathly_scepter_active"                   "Haunted by dead spirits"
+"DOTA_Tooltip_modifier_item_hd_deathly_scepter_active_Description"                   "A dead spirit will be summoned after death"
+
+"DOTA_Tooltip_modifier_item_hd_valhalla_helmet_active"                   "Mortal's Courage"
+"DOTA_Tooltip_modifier_item_hd_valhalla_helmet_active_Description"                   "increase MAXHP"
+"DOTA_Tooltip_modifier_item_hd_advanced_mathematics"                   "Advanced Mathematics"
+"DOTA_Tooltip_modifier_item_hd_advanced_mathematics_Description"                   "increase attack range and cast range"
+"DOTA_Tooltip_modifier_item_hd_introduction_of_arcane"                   "Introduction of Arcane"
+"DOTA_Tooltip_modifier_item_hd_introduction_of_arcane_Description"                   "Gives spell amplify"
+
+"DOTA_Tooltip_modifier_item_hd_anti_energy_ring_2_active"                   "Anti-Vitality"
+"DOTA_Tooltip_modifier_item_hd_anti_energy_ring_2_active_Description"                   "Reduce the rate of health recovery and the heal effect"
+
+"DOTA_Tooltip_modifier_item_hd_anti_arcane_ring_2_active"                   "Anti-Mage"
+"DOTA_Tooltip_modifier_item_hd_anti_arcane_ring_2_active_Description"                   "redece spell damage"
+
+"DOTA_Tooltip_modifier_item_hd_spider_legs_active"                   "Spider Rush"
+"DOTA_Tooltip_modifier_item_hd_spider_legs_active_Description"                   "Give the ability to greatly increase the moving speed and cross the terrain"
+"DOTA_Tooltip_modifier_item_hd_orb_of_destruction_active"                   "Corruption"
+"DOTA_Tooltip_modifier_item_hd_orb_of_destruction_active_Description"                   "reduce armor and move Speed"
+
+"DOTA_Tooltip_modifier_item_hd_mind_breaker_active"                   "Silence Strike"
+"DOTA_Tooltip_modifier_item_hd_mind_breaker_active_Description"                   "Silenced"
+
+"DOTA_Tooltip_modifier_item_hd_cloak_of_flames_active"                   "Flame Shield"
+"DOTA_Tooltip_modifier_item_hd_cloak_of_flames_active_Description"                   "Grant damage reduction and cause AOE continuous damage"
+"DOTA_Tooltip_modifier_item_hd_ceremonial_robe_active"                   "Ceremonial Aura"
+"DOTA_Tooltip_modifier_item_hd_ceremonial_robe_active_Description"                   "Reduce state resistance and Magic Resistance"
+
+"DOTA_Tooltip_modifier_item_hd_risk_dice_active"                   "Risk Dice"
+"DOTA_Tooltip_modifier_item_hd_risk_dice_active_Description"                   "increase all attributes bonus"
+"DOTA_Tooltip_modifier_item_hd_risk_dice_active_2"                   "Risk Dice"
+"DOTA_Tooltip_modifier_item_hd_risk_dice_active_2_Description"                   "reduce all attributes"
+"DOTA_Tooltip_modifier_item_hd_helm_of_the_undying_active"                   "Death delay"
+"DOTA_Tooltip_modifier_item_hd_helm_of_the_undying_active_Description"                   "It will not die until the state is over"
+"DOTA_Tooltip_modifier_item_hd_ring_of_aquila_arua_effect"                   "Aquila Aura"
+"DOTA_Tooltip_modifier_item_hd_ring_of_aquila_arua_effect_Description"                   "increase armor, attack damage and mana regen"
+"DOTA_Tooltip_modifier_item_hd_shield_of_lackeys_active"                   "Shield Wall"
+"DOTA_Tooltip_modifier_item_hd_shield_of_lackeys_active_Description"                   "increase armor and Magic Resistance"
+"DOTA_Tooltip_modifier_item_hd_staff_of_lackeys_active"                   "Farshot"
+"DOTA_Tooltip_modifier_item_hd_staff_of_lackeys_active_Description"                   "Increase ranged attack distance and casting distance"
+"DOTA_Tooltip_modifier_item_hd_slave_owners_flame_whip_active"                   "spur"
+"DOTA_Tooltip_modifier_item_hd_slave_owners_flame_whip_active_Description"                   "Give all attribute promotion to the poor"
+"DOTA_Tooltip_modifier_creeps_spell_Aether_Remnant_pull_debuff"                   "Aether Remnant"
+"DOTA_Tooltip_modifier_creeps_spell_Aether_Remnant_pull_debuff_Description"                   "Dragged"
+"DOTA_Tooltip_modifier_creeps_spell_Astral_Step_debuff"                   "Astral Step"
+"DOTA_Tooltip_modifier_creeps_spell_Astral_Step_debuff_Description"                   "Be decelerated, Explosion after a period of time"
+"DOTA_Tooltip_modifier_item_hd_minotaur_horn_active"                   "Commander Arua"
+"DOTA_Tooltip_modifier_item_hd_minotaur_horn_active_Description"                   "Give damage bonus"   
+"DOTA_Tooltip_modifier_item_hd_spy_gadget_active"                   "Aura of prediction"
+"DOTA_Tooltip_modifier_item_hd_spy_gadget_active_Description"                   "Add bonus to ranged attack distance and casting distance"   
+"DOTA_Tooltip_modifier_item_hd_trickster_cloak_active"                   "invisible"
+"DOTA_Tooltip_modifier_item_hd_trickster_cloak_active_Description"                   "Will not be found"   
+
+"DOTA_Tooltip_modifier_item_hd_breath_of_life_active"                   "Life concentration"
+"DOTA_Tooltip_modifier_item_hd_breath_of_life_active_Description"                   "Increase health regen"
+
+"DOTA_Tooltip_modifier_item_hd_hunters_hoard_active"                   "Reward"
+"DOTA_Tooltip_modifier_item_hd_hunters_hoard_active_Description"                   "Make it taking extra damage according to the caster's gold coin"
+
+"DOTA_Tooltip_modifier_item_hd_holy_cross_cloak_active"                   "Holy Help"
+"DOTA_Tooltip_modifier_item_hd_holy_cross_cloak_active_Description"                   "Give healing"      
+
+"DOTA_Tooltip_modifier_item_hd_secret_of_time_active"                   "Slow time"
+"DOTA_Tooltip_modifier_item_hd_secret_of_time_active_Description"                   "Ability cooling pause but the duration of positive and negative states is  greatly improved"      
+
+"DOTA_Tooltip_modifier_item_hd_neutral"                   "Tea drinking man's blessing"
+"DOTA_Tooltip_modifier_item_hd_neutral_Description"                   "increase heal receive effect"        
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Ambient_Sorcery_active"                   "Ambient Sorcery"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Ambient_Sorcery_active_Description"                   "Reduce Magic Resistance"   
+"DOTA_Tooltip_modifier_item_hd_sheepstick_active"                   "Hex"
+"DOTA_Tooltip_modifier_item_hd_sheepstick_active_Description"                   "Become harmless animals"   
+"DOTA_Tooltip_modifier_item_hd_soul_booster_active"                   "Frenzy"
+"DOTA_Tooltip_modifier_item_hd_soul_booster_active_Description"                   "no cast point, increase spell amplify"   
+
+"DOTA_Tooltip_modifier_item_hd_moon_shard"                   "Moon Shard"
+"DOTA_Tooltip_modifier_item_hd_moon_shard_Description"                   "Increase attack speed"   
+
+"DOTA_Tooltip_modifier_item_hd_grandmasters_glaive_active"                   "Play and dance"
+"DOTA_Tooltip_modifier_item_hd_grandmasters_glaive_active_Description"                   "Increase attack speed"       
+
+"DOTA_Tooltip_modifier_item_hd_combo_breaker_active"                   "Aeon Disk"
+"DOTA_Tooltip_modifier_item_hd_combo_breaker_active_Description"                   "Endow damage reduction and state resistance"     
+
+
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Watcher_Gaze_active"                   "petrifaction"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Watcher_Gaze_active_Description"                   "Unable to make actions and increased incoming physical damage"     
+"DOTA_Tooltip_modifier_item_hd_crimson_guard_active"                   "Hard shield"
+"DOTA_Tooltip_modifier_item_hd_crimson_guard_active_Description"                   "Give physical attack damage block"     
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Preserved_Skull_active"                   "Conjuration Aura"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Preserved_Skull_active_Description"                   "Gives spell amplify and cooldown reduction"          
+
+"DOTA_Tooltip_modifier_item_hd_lamb_divine_staff_active"                   "Hex"
+"DOTA_Tooltip_modifier_item_hd_lamb_divine_staff_active_Description"                   "Become harmless animals"  
+"DOTA_Tooltip_modifier_item_hd_the_secret_of_light_active"                   "Blessing of light"
+"DOTA_Tooltip_modifier_item_hd_the_secret_of_light_active_Description"                   "Give intelligence improvement"      
+
+"DOTA_Tooltip_modifier_item_hd_desolator_2_active"                   "Advanced corrosion"
+"DOTA_Tooltip_modifier_item_hd_desolator_2_active_Description"                   "Reduce armor"    
+
+"DOTA_Tooltip_modifier_item_hd_seer_stone_active"                   "Lens amplification"
+"DOTA_Tooltip_modifier_item_hd_seer_stone_active_Description"                   "Gives spell amplify bonus"    
+
+"DOTA_Tooltip_modifier_item_hd_fallen_sky_stunned"                   "stunned"
+"DOTA_Tooltip_modifier_item_hd_verodicias_rune_staff_active"                   "natural affinity "
+"DOTA_Tooltip_modifier_item_hd_verodicias_rune_staff_active_Description"                   "Give damage bonus"          
+
+
+"DOTA_Tooltip_modifier_item_hd_butterfly_active"                   "flutter"
+"DOTA_Tooltip_modifier_item_hd_butterfly_active_Description"                   "Give agility bonus" 
+
+
+"DOTA_Tooltip_modifier_item_hd_assault_active"                   "Assault Aura"
+"DOTA_Tooltip_modifier_item_hd_assault_active_Description"                   "Reduce armor against enemies and increase attack speed and armor against friends" 
+"DOTA_Tooltip_modifier_item_hd_radiance_active"                   "Radiance"
+"DOTA_Tooltip_modifier_item_hd_radiance_active_Description"                   "cause damage per second " 
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Glimmerdark_Shield_active"                   "flash of light"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Glimmerdark_Shield_active_Description"                   "Give physical resistance but increase incoming magical damage" 
+"DOTA_Tooltip_modifier_item_hd_ice_blossom_active"                   "Frost shield"
+"DOTA_Tooltip_modifier_item_hd_ice_blossom_active_Description"                   "Gives spell amplify and magical damage block"    
+
+
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_active2"                   "Energy manipulation"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_active2_Description"                   "Increase attack speed and movement speed but silence"  
+
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_active"                   "Energy manipulation"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_glacier_active_Description"                   "reduce attack speed and Move Speed but regen the mana"  
+
+
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active1"                   "Fate Revelation"
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active1_Description"                   "Receive continuous heal"  
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active2"                   "Fate Revelation"
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active2_Description"                   "Endow ability: cast without consuming mana"  
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active3"                   "Fate Revelation"
+"DOTA_Tooltip_modifier_item_hd_alluvion_prophecy_active3_Description"                   "Give all attribute promotion"  
+
+
+"DOTA_Tooltip_modifier_item_hd_sagas_of_the_cymurrin_sage_active"                   "Fate speaks down"
+"DOTA_Tooltip_modifier_item_hd_sagas_of_the_cymurrin_sage_active_Description"                   "Temporary decrease Magic Resistance and armor" 
+
+"DOTA_Tooltip_modifier_item_hd_sagas_of_the_cymurrin_sage_effect"                   "Fate speaks down"
+"DOTA_Tooltip_modifier_item_hd_sagas_of_the_cymurrin_sage_effect_Description"                   "Increase Magic Resistance and armor" 
+
+"DOTA_Tooltip_modifier_item_hd_yulsarias_mantle_effect"                   " Breath of Snow kingdom"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_mantle_effect_Description"                   "Frozen and increased incoming damage" 
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Unhallowed_active"                   "Frenzy"
+"DOTA_Tooltip_modifier_item_hd_Siltbreaker_Unhallowed_active_Description"                   "Increase spell casting ability" 
+
+"DOTA_Tooltip_modifier_item_hd_yulsarias_mantle_active"                   " Breath of Snow kingdom"
+"DOTA_Tooltip_modifier_item_hd_yulsarias_mantle_active_Description"                   "Every second has a chance to be frozen" 
+
+"DOTA_Tooltip_modifier_item_hd_paragons_rebuke_active"                   "Paragon's Rebuke"
+"DOTA_Tooltip_modifier_item_hd_paragons_rebuke_active_Description"                   "Give state resistance increase" 
+
+"DOTA_Tooltip_modifier_item_hd_fetters_of_omniscience_effect"                   "Deify"
+"DOTA_Tooltip_modifier_item_hd_fetters_of_omniscience_effect_Description"                   " Increase positive state duration gain and heal effect gain"     
+
+
+ 
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_mist_coil_active"                   "Mist haunt"
+"DOTA_Tooltip_modifier_Middle_mist_coil_active_Description"                   "Increase/reduce heal effect" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_mist_coil_active"                   "Mist haunt"
+"DOTA_Tooltip_modifier_Advanced_mist_coil_active_Description"                   "Increase/reduce heal receive effect" 
+
+
+"DOTA_Tooltip_modifier_Primary_aphotic_shield"                   "Primary aphotic shield"
+"DOTA_Tooltip_modifier_Primary_aphotic_shield_Description"                   "block damage" 
+"DOTA_Tooltip_modifier_Middle_aphotic_shield"                   "Middle aphotic shield"
+"DOTA_Tooltip_modifier_Middle_aphotic_shield_Description"                   "block damage" 
+"DOTA_Tooltip_modifier_Advanced_aphotic_shield"                   "Advanced aphotic shield"
+"DOTA_Tooltip_modifier_Advanced_aphotic_shield_Description"                   "block damage" 
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_borrowed_time_buff_hot_caster"                   "Primary Borrowed Time"
+"DOTA_Tooltip_modifier_Primary_borrowed_time_buff_hot_caster_Description"                   "Give the ability to turn injury into treatment"  
+"DOTA_Tooltip_modifier_Middle_borrowed_time_buff_hot_caster"                   "Middle Borrowed Time"
+"DOTA_Tooltip_modifier_Middle_borrowed_time_buff_hot_caster_Description"                   "Give the ability to turn injury into treatment"  
+"DOTA_Tooltip_modifier_Advanced_borrowed_time_buff_hot_caster"                   "Advanced Borrowed Time"
+"DOTA_Tooltip_modifier_Advanced_borrowed_time_buff_hot_caster_Description"                   "Give the ability to turn injury into treatment"   
+
+
+"DOTA_Tooltip_modifier_Primary_tether"                   "Primary Tether"
+"DOTA_Tooltip_modifier_Primary_tether_Description"                   "Give the ability to restore the health of the linked target every second"  
+"DOTA_Tooltip_modifier_Middle_tether"                   "Middle Tether"
+"DOTA_Tooltip_modifier_Middle_tether_Description"                   "Give the ability to restore the health of the linked target every second"  
+"DOTA_Tooltip_modifier_Middle_tether_buff"                   "Overload"
+"DOTA_Tooltip_modifier_Middle_tether_buff_Description"                   "Give health recovery bonus"  
+
+"DOTA_Tooltip_modifier_Advanced_tether"                   "Advanced Tether"
+"DOTA_Tooltip_modifier_Advanced_tether_Description"                   "Give the ability to restore the health of the linked target every second"  
+"DOTA_Tooltip_modifier_Advanced_tether_buff"                   "Overload"
+"DOTA_Tooltip_modifier_Advanced_tether_buff_Description"                   "Give health recovery bonus"        
+
+"DOTA_Tooltip_modifier_Advanced_tether_buff_target"                   "goodwill"
+"DOTA_Tooltip_modifier_Advanced_tether_buff_target_Description"                   "give heal receive effect and Positive state duration gain"  
+
+
+"DOTA_Tooltip_modifier_Primary_overcharge_active"                   "Primary Overcharge"
+"DOTA_Tooltip_modifier_Primary_overcharge_active_Description"                   "Give maximum health recovery per second and increase attack speed"  
+
+"DOTA_Tooltip_modifier_Middle_overcharge_active"                   "Middle Overcharge"
+"DOTA_Tooltip_modifier_Middle_overcharge_active_Description"                   "Give maximum health recovery per second and increase attack speed" 
+
+"DOTA_Tooltip_modifier_Advanced_overcharge_active"                   "Advanced Overcharge"
+"DOTA_Tooltip_modifier_Advanced_overcharge_active_Description"                   "Give maximum health recovery per second and increase attack speed" 
+
+
+"DOTA_Tooltip_modifier_Primary_spirits"                   "Primary Spirits"
+"DOTA_Tooltip_modifier_Primary_spirits_Description"                   "Damage enemies around spirits every second" 
+
+"DOTA_Tooltip_modifier_Middle_spirits"                   "Middle Spirits"
+"DOTA_Tooltip_modifier_Middle_spirits_Description"                   "Damage enemies around spirits every second" 
+
+        "DOTA_Tooltip_modifier_Advanced_spirits"                   "Advanced Spirits"
+"DOTA_Tooltip_modifier_Advanced_spirits_Description"                   "Damage enemies around spirits every second" 
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_fortunes_end_debuff"                   "Primary Fortunes"
+"DOTA_Tooltip_modifier_Primarye_fortunes_end_debuff_Description"                   "rooted" 
+"DOTA_Tooltip_modifier_Middle_fortunes_end_debuff"                   "Middle Fortunes"
+"DOTA_Tooltip_modifier_Middle_fortunes_end_debuff_Description"                   "rooted" 
+"DOTA_Tooltip_modifier_Middle_fortunes_end_buff"                   "coordinate"
+"DOTA_Tooltip_modifier_Middle_fortunes_end_buff_Description"                   "Give sustained dispel" 
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_debuff"                   "Advanced Fortunes"
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_debuff_Description"                   "rooted" 
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_buff"                   "coordinate"
+"DOTA_Tooltip_modifier_Advanced_fortunes_end_buff_Description"                   "Give sustained dispel" 
+
+
+"DOTA_Tooltip_modifier_Primary_purifying_flames_active"                   "Primary Purifying Flames"
+"DOTA_Tooltip_modifier_Primary_purifying_flames_active_Description"                   "Give continuous treatment" 
+"DOTA_Tooltip_modifier_Middle_purifying_flame_active"                   "Middle Purifying Flames"
+"DOTA_Tooltip_modifier_Middle_purifying_flame_active_Description"                   "Give continuous treatment" 
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_active"                   "Advanced Purifying Flames"
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_active_Description"                   "Give continuous treatment" 
+
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_debuff"                   "be reborn"
+"DOTA_Tooltip_modifier_Advanced_purifying_flame_debuff_Description"                   "increase/reduce Magic Resistance" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_fates_edict_buff"                   "Primary Fates Edict"
+"DOTA_Tooltip_modifier_Primary_fates_edict_buff_Description"                   "100%%Magic Resistance" 
+"DOTA_Tooltip_modifier_Primary_fates_edict_debuff"                   "Primary Fates Edict"
+"DOTA_Tooltip_modifier_Primary_fates_edict_debuff_Description"                   "disarm"     
+
+"DOTA_Tooltip_modifier_Middle_fates_edict_buff"                   "Middle Fates Edict"
+"DOTA_Tooltip_modifier_Middle_fates_edict_buff_Description"                   "100%%Magic Resistance" 
+"DOTA_Tooltip_modifier_Middle_fates_edict_debuff"                   "Middle Fates Edict"
+"DOTA_Tooltip_modifier_Middle_fates_edict_debuff_Description"                   "disarm"     
+
+
+"DOTA_Tooltip_modifier_Advanced_fates_edict_buff"                   "Advanced Fates Edict"
+"DOTA_Tooltip_modifier_Advanced_fates_edict_buff_Description"                   "100%% Magic Resistance" 
+"DOTA_Tooltip_modifier_Advanced_fates_edict_debuff"                   "Advanced Fates Edict"
+"DOTA_Tooltip_modifier_Advanced_fates_edict_debuff_Description"                   "disarm"     
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Electric_Induction_triger"                   "Induced electricity"
+"DOTA_Tooltip_modifier_creeps_spell_Electric_Induction_triger_Description"                   "Continuously attract surrounding enemies and cause damage"     
+
+
+"DOTA_Tooltip_modifier_Primary_Bulwark"                   "Primary Bulwark"
+"DOTA_Tooltip_modifier_Primary_Bulwark_Description"                   "Block damage from front and side"     
+
+"DOTA_Tooltip_modifier_Middle_Bulwark"                   "Middle Bulwark"
+"DOTA_Tooltip_modifier_Middle_Bulwark_Description"                   "Block damage from front and side"  
+
+
+
+"DOTA_Tooltip_modifier_creeps_spell_Resonance_Pulse_physical_buff"                   "Resonance Pulse"
+"DOTA_Tooltip_modifier_creeps_spell_Resonance_Pulse_physical_buff_Description"                   "block damage"       
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_in_path_debuff"                   "Thorns Road"
+"DOTA_Tooltip_modifier_Advanced_Spectral_Dagger_in_path_debuff_Description"                   "Entangled, unable to move"      
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Desolate_debuff"                   "Charu's Strike"
+"DOTA_Tooltip_modifier_Advanced_Desolate_debuff_Description"                   "passive disable"  
+
+"DOTA_Tooltip_modifier_Advanced_Desolate_debuff2"                   "Soul Catcher"
+"DOTA_Tooltip_modifier_Advanced_Desolate_debuff2_Description"                   "Reduce magic resistance and armor"    
+
+"DOTA_Tooltip_modifier_Advanced_dragon_blood_active"                   "Dragon Transformation"
+"DOTA_Tooltip_modifier_Advanced_dragon_blood_active_Description"                   "Increase health regen and armor and immune to ordinary magic"    
+
+
+
+"DOTA_Tooltip_modifier_Primary_kraken_shell"                   "Primary Kraken Shell"
+"DOTA_Tooltip_modifier_Primary_kraken_shell_Description"                   "Give damage block, Strengthen dispel when the damage reaches the critical value"   
+
+"DOTA_Tooltip_modifier_Middle_kraken_shell"                   "Middle Kraken Shell"
+"DOTA_Tooltip_modifier_Middle_kraken_shell_Description"                   "Give damage block, Strengthen dispel when the damage reaches the critical value"    
+"DOTA_Tooltip_modifier_Middle_kraken_shell_active"                   "Strong block"
+"DOTA_Tooltip_modifier_Middle_kraken_shell_active_Description"                   "Give double damage block"     
+
+"DOTA_Tooltip_modifier_Advanced_kraken_shell"                   "Advanced Kraken Shell"
+"DOTA_Tooltip_modifier_Advanced_kraken_shell_Description"                   "Give damage block, Strengthen dispel when the damage reaches the critical value"    
+"DOTA_Tooltip_modifier_Advanced_kraken_shell_active"                   "Strong block"
+"DOTA_Tooltip_modifier_Advanced_kraken_shell_active_Description"                   "Give double damage block"     
+
+
+"DOTA_Tooltip_modifier_Advanced_kraken_shell_arua_effect"                   "Domain resistance"
+"DOTA_Tooltip_modifier_Advanced_kraken_shell_arua_effect_Description"                   "Give damage resistance"   
+
+"DOTA_Tooltip_modifier_Primary_reactive_armor_active"                   "Primary Reactive Armor"
+"DOTA_Tooltip_modifier_Primary_reactive_armor_active_Description"                   "Increase health regen and armor"   
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active"                   "Middle Reactive Armor"
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_Description"                   "Increase health regen and armor"   
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active"                   "Advanced Reactive Armor"
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_Description"                   "Increase health regen and armor"   
+
+
+
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_physical"                   "Damage Adaptation·Physics"
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_physical_Description"        "Give physical damage reduction"   
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_magical"                   "Damage Adaptation·magic"
+"DOTA_Tooltip_modifier_Middle_reactive_armor_active_magical_Description"        "Grant magic damage reduction"   
+
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_physical"                   "Damage Adaptation·Physics"
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_physical_Description"        "Give physical damage reduction"   
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_magical"                   "Damage Adaptation·magic"
+"DOTA_Tooltip_modifier_Advanced_reactive_armor_active_magical_Description"        "Grant magic damage reduction"   
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_shapeshift_transform"                   "Primary Shapeshift"
+"DOTA_Tooltip_modifier_Primary_shapeshift_transform_Description"        "Gives combat ability increases"   
+
+"DOTA_Tooltip_modifier_Middle_shapeshift_transform"                   "Middle Shapeshift"
+"DOTA_Tooltip_modifier_Middle_shapeshift_transform_Description"        "Gives combat ability increases"   
+
+
+"DOTA_Tooltip_modifier_Advanced_shapeshift_transform"                   "Advanced Shapeshift"
+"DOTA_Tooltip_modifier_Advanced_shapeshift_transform_Description"        "Gives combat ability increases"   
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_true_form_transform"                   "Primary true form"
+"DOTA_Tooltip_modifier_Primary_true_form_transform_Description"       "Gives combat ability increases" 
+"DOTA_Tooltip_modifier_Middle_true_form_transform"                   "Middle true form"
+"DOTA_Tooltip_modifier_Middle_true_form_transform_Description"       "Gives combat ability increases" 
+"DOTA_Tooltip_modifier_Advanced_true_form_transform"                   "Advanced true form"
+"DOTA_Tooltip_modifier_Advanced_true_form_transform_Description"       "Gives combat ability increases" 
+
+
+"DOTA_Tooltip_modifier_Advanced_true_form_debuff"                   "Battlefield Domination"
+"DOTA_Tooltip_modifier_Advanced_true_form_debuff_Description"       "reduce damage" 
+
+
+"DOTA_Tooltip_modifier_Primary_metamorphosis_transform"                   "Primary Metamorphosis"
+"DOTA_Tooltip_modifier_Primary_metamorphosis_transform_Description"       "Gives combat ability increases" 
+"DOTA_Tooltip_modifier_Middle_metamorphosis_transform"                   "Middle Metamorphosis"
+"DOTA_Tooltip_modifier_Middle_metamorphosis_transform_Description"       "Gives combat ability increases" 
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_transform"                   "Advanced Metamorphosis"
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_transform_Description"       "Gives combat ability increases"      
+
+"DOTA_Tooltip_modifier_Middle_metamorphosis_transform_debuff"                   "Evil Pact"
+"DOTA_Tooltip_modifier_Middle_metamorphosis_transform_debuff_Description"       "be absorbed some all attributes" 
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_transform_debuff"                   "Evil Pact"
+"DOTA_Tooltip_modifier_Advanced_metamorphosis_transform_debuff_Description"       "be absorbed some all attributes" 
+
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform"                   "Advanced Chaos Form"
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_Description"       "Increase magic ability" 
+"DOTA_Tooltip_modifier_Primary_chaos_form_transform"                   "Middle Chaos Form"
+"DOTA_Tooltip_modifier_Primary_chaos_form_transform_Description"       "Increase magic ability"  
+"DOTA_Tooltip_modifier_Middle_chaos_form_transform"                   "Primary Chaos Form"
+"DOTA_Tooltip_modifier_Middle_chaos_form_transform_Description"       "Increase magic ability" 
+
+"DOTA_Tooltip_modifier_Advanced_counterspell_active"                   "Anti magic field"
+"DOTA_Tooltip_modifier_Advanced_counterspell_active_Description"       "reduce spell damage" 
+
+"DOTA_Tooltip_modifier_Primary_reincarnation_debuff"                   "reincarnation Weak"
+"DOTA_Tooltip_modifier_Primary_reincarnation_debuff_Description"       "Reduce all attributes in a short time"
+"DOTA_Tooltip_modifier_Middle_reincarnation_debuff"                   "reincarnation Weak"
+"DOTA_Tooltip_modifier_Middle_reincarnation_debuff_Description"       "Reduce all attributes in a short time"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff"                   "reincarnation Weak"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff_Description"       "Reduce all attributes in a short time"
+
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff_enemy"                   "Reiki release"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff_enemy_Description"       "slow and silent"
+
+"DOTA_Tooltip_modifier_Advanced_reincarnation_active"                   "Soul survival"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_active_Description"       "You can still fight for a while"
+"DOTA_Tooltip_modifier_Middle_reincarnation_active"                   "Soul survival"
+"DOTA_Tooltip_modifier_Middle_reincarnation_active_Description"       "You can still fight for a while"
+
+"DOTA_Tooltip_modifier_Middle_reincarnation_weak"                   "Extremely Weak"
+"DOTA_Tooltip_modifier_Middle_reincarnation_weak_Description"       "All attributes are zeroed"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_weak"                   "Extremely Weak"
+"DOTA_Tooltip_modifier_Advanced_reincarnation_weak_Description"       "All attributes are zeroed"
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Great_Cleave_buff1"                   "Qichu"
+"DOTA_Tooltip_modifier_Advanced_Great_Cleave_buff1_Description"       "Give armor bonus"
+"DOTA_Tooltip_modifier_Advanced_Great_Cleave_buff2"                   "Qijin"
+"DOTA_Tooltip_modifier_Advanced_Great_Cleave_buff2_Description"       "Give attack damage bonus"
+"DOTA_Tooltip_modifier_Advanced_Great_Cleave_buff3"                   "brave heart"
+"DOTA_Tooltip_modifier_Advanced_Great_Cleave_buff3_Description"       "Give attack damage and attack speed bonus"
+
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_Agility_Gain"                   "Agility Specialization"
+"DOTA_Tooltip_modifier_creep_special_gain_Damage_Gain"                   "Attack Specialization"
+"DOTA_Tooltip_modifier_creep_special_gain_Rage"                   "Rage"
+
+"DOTA_Tooltip_modifier_creep_special_gain_Shrink"                   "Shrink"
+
+"DOTA_Tooltip_modifier_creep_special_gain_phase"                   "phase"
+
+"DOTA_Tooltip_modifier_creep_special_gain_heal_suppression_aura"                   "Heal Suppression Aura"
+
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_mana_gain"                   "Mana Specialization"
+"DOTA_Tooltip_modifier_creep_special_gain_shallow_grave"   "Shallow Grave"
+
+"DOTA_Tooltip_modifier_creep_special_gain_good_climber"                   "Good Climber"
+
+"DOTA_Tooltip_modifier_item_hd_saurian_fasciculus"                   "shackles"
+"DOTA_Tooltip_modifier_creep_special_gain_Perseverance"                   "Perseverance"
+"DOTA_Tooltip_modifier_creep_special_gain_Perseverance2"                   "Advanced Perseverance"
+
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_life_stealer_feast"                   "Feast"
+
+"DOTA_Tooltip_modifier_creep_special_gain_counterspell_reflect"                   "Spell Deny"
+"DOTA_Tooltip_modifier_creep_special_gain_earthshaker_echo_slam"   "Split disable"
+"DOTA_Tooltip_modifier_creep_special_gain_eva_Gain"   "Blur"
+"DOTA_Tooltip_modifier_creep_special_gain_StatusGain_reduce"   "Blessing damage"
+"DOTA_Tooltip_modifier_creep_special_gain_StatusNegativeGain_reduce"   "Curse damage"   
+"DOTA_Tooltip_modifier_creep_special_gain_LifeStealGain_reduce"   "Bloodthirsty damage"   
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_life_steal"   "Lifesteal Disable"   
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_split_attack"   "Split Shot Invalidation"   
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_Shield"   "Shield Disable" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_health_regen"   "Health Den" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_magic"   "Mana Reverse Phagocytosis" 
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message"   "Fake Message" 
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_pre"   "Fake Message active" 
+
+"DOTA_Tooltip_modifier_creep_special_gain_anti_time_arua"   "Anti time aura" 
+"DOTA_Tooltip_modifier_creep_special_gain_Painful_last_wish"   "Painful will" 
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_Painful_last_wish_active"                   "Painful will"
+"DOTA_Tooltip_modifier_creep_special_gain_Painful_last_wish_active_Description"       "Inflict pain on the perpetrator" 
+"DOTA_Tooltip_modifier_creep_special_gain_anti_time_arua_active"                   "Anti time aura"
+"DOTA_Tooltip_modifier_creep_special_gain_anti_time_arua_active_Description"       "Enemies in the area will be continuously increased the ability cooling time" 
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_on"                   "Fake Message"
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_on_Description"       "At this time, the unit attacking itself will be disarmed" 
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_active"                   "Fake Message"
+"DOTA_Tooltip_modifier_creep_special_gain_fake_message_active_Description"       "Disarmed" 
+
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_magic_active"                   "Mana Reverse Phagocytosis"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_magic_active_Description"       "spell damage has been weakened" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_health_regen_arua"                   "Health Deny"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_health_regen_arua_Description"       "Unable to restore health after reaching 6 stacks" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_Shield_active"                   "Shield Disable"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_Shield_active_Description"       "Invalid shield effect" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_life_steal_active"                   "Lifesteal Disable"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_life_steal_active_Description"       "Cannot cause lifesteal effect" 
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_split_attack_active"                   "Split Shot Invalidation"
+"DOTA_Tooltip_modifier_creep_special_gain_Invalidation_of_split_attack_active_Description"       "Unable to trigger Split Shot"  
+"DOTA_Tooltip_modifier_creep_special_gain_heal_suppression"                   "invalid"
+"DOTA_Tooltip_modifier_creep_special_gain_heal_suppression_Description"       "reduce heal receive effect"  
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_heal_death_delay_active"                   "Death delay"
+"DOTA_Tooltip_modifier_creep_special_gain_heal_death_delay_active_Description"       "You can still fight for a while"  
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_shallow_grave_active"                   "Shallow Grave active"
+"DOTA_Tooltip_modifier_creep_special_gain_shallow_grave_active_Description"       "Will not die for a period of time"       
+
+
+"DOTA_Tooltip_modifier_item_hd_saurian_fasciculus_active"                   "shackles"
+"DOTA_Tooltip_modifier_item_hd_saurian_fasciculus_active_Description"       "get sucked to another friendly Army"   
+
+
+
+"DOTA_Tooltip_modifier_creep_special_gain_earthshaker_echo_slam_arua"                   "Split disable"
+"DOTA_Tooltip_modifier_creep_special_gain_earthshaker_echo_slam_arua_Description"       "Unable to trigger split attack"  
+
+"DOTA_Tooltip_modifier_creep_special_gain_StatusGain_reduce_active"                   "Blessing damage"
+"DOTA_Tooltip_modifier_creep_special_gain_StatusGain_reduce_active_Description"       "reduce Positive state duration gain"  
+
+"DOTA_Tooltip_modifier_creep_special_gain_StatusNegativeGain_reduce_active"                   "Curse damage"
+"DOTA_Tooltip_modifier_creep_special_gain_StatusNegativeGain_reduce_active_Description"       "reduce Negative state duration gain"
+"DOTA_Tooltip_modifier_creep_special_gain_LifeStealGain_reduce_active"                   "Bloodthirsty damage"
+"DOTA_Tooltip_modifier_creep_special_gain_LifeStealGain_reduce_active_Description"       "Reduce lifesteal effect"   
+
+"DOTA_Tooltip_modifier_creeps_spell_Power_Core_buff"                   "rage"
+"DOTA_Tooltip_modifier_creeps_spell_Power_Core_buff_Description"       "Too far away from the energy core, Element enter rage"  
+
+
+
+"DOTA_Tooltip_modifier_item_hd_glimmer_cape_active"       "Twilight stealth"    
+"DOTA_Tooltip_modifier_item_hd_glimmer_cape_active_Description"       "Give invisibility and reduce some damage"    
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Primary_rage"       "Primary rage"    
+"DOTA_Tooltip_modifier_Primary_rage_Description"       "Give magic immunity and increase movement speed"    
+
+"DOTA_Tooltip_modifier_Middle_rage"       "Middle rage"    
+"DOTA_Tooltip_modifier_Middle_rage_Description"       "Give magic immunity and increase movement speed"  
+
+"DOTA_Tooltip_modifier_Advanced_rage"       "Advanced rage"    
+"DOTA_Tooltip_modifier_Advanced_rage_Description"       "Give magic immunity and increase movement speed"     
+
+
+
+"DOTA_Tooltip_modifier_Primary_enrage"       "Primary Enrage"    
+"DOTA_Tooltip_modifier_Primary_enrage_Description"       "Endow damage reduction and state resistance"    
+
+"DOTA_Tooltip_modifier_Middle_enrage"       "Middle Enrage"    
+"DOTA_Tooltip_modifier_Middle_enrage_Description"      "Endow damage reduction and state resistance"  
+
+"DOTA_Tooltip_modifier_Advanced_enrage"       "Advanced Enrage"    
+"DOTA_Tooltip_modifier_Advanced_enrage_Description"       "Endow damage reduction and state resistance"   
+
+"DOTA_Tooltip_modifier_Middle_take_aim"       "Middle Take Aim"    
+"DOTA_Tooltip_modifier_Middle_take_aim_Description"      "increase attack range"  
+
+"DOTA_Tooltip_modifier_Advanced_take_aim"       "Advanced Take Aim"    
+"DOTA_Tooltip_modifier_Advanced_take_aim_Description"       "increase attack range"  
+
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_passive"       "Advanced Bristle Back"    
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_passive_Description"       "Grant damage reduction"  
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_debuff"       "Quill"    
+"DOTA_Tooltip_modifier_Advanced_Bristle_Back_debuff_Description"       "Take additional Quill damage" 
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_debuff"       "Advanced Ghost Shroud"    
+"DOTA_Tooltip_modifier_Advanced_Ghost_Shroud_debuff_Description"       "Reduce move speed" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_borrowed_time_handler"       "Advanced Borrowed Time"    
+"DOTA_Tooltip_modifier_Advanced_borrowed_time_handler_Description"       "Low HP will automatically turn on the skill" 
+
+"DOTA_Tooltip_modifier_Advanced_dragon_blood"       "Advanced dragon Blood"    
+"DOTA_Tooltip_modifier_Advanced_dragon_blood_Description"       "Give health recovery and armor bonus" 
+"DOTA_Tooltip_modifier_Advanced_counterspell_trigger_buff"       "Spell absorption"    
+"DOTA_Tooltip_modifier_Advanced_counterspell_trigger_buff_Description"       "Give the ability to resist directional skills" 
+
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff2"       "Spirit Walk "    
+"DOTA_Tooltip_modifier_Advanced_reincarnation_debuff2_Description"       "reduce Magic Resistance and armor" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Dual_Breath_debuff2"       "frozen"    
+"DOTA_Tooltip_modifier_Advanced_Dual_Breath_debuff2_Description"       "Frozen, unable to move" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Static_Field_debuff"       "ionizing radiation"    
+"DOTA_Tooltip_modifier_Advanced_Static_Field_debuff_Description"       "reduce Magic Resistance" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_buff"       "Power on"    
+"DOTA_Tooltip_modifier_Advanced_Thundergods_Wrath_buff_Description"       "Gives spell amplify" 
+
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_buff"       "Orbital aiming"    
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_buff_Description"       "Give the casting distance a huge increase" 
+
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_shield"       "Magic shield"    
+"DOTA_Tooltip_modifier_Advanced_chaos_form_transform_shield_Description"       "block damage" 
+
+"DOTA_Tooltip_modifier_creeps_spell_Prey_charge"       "Predation ready"    
+"DOTA_Tooltip_modifier_creeps_spell_Prey_charge_Description"       "Preparing for attack" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Warpath_buff"       "Gods descend to earth"    
+"DOTA_Tooltip_modifier_Advanced_Warpath_buff_Description"       "Immune to magic damage" 
+
+"DOTA_Tooltip_modifier_Advanced_false_promise_timer"       "Advanced False Promise"    
+"DOTA_Tooltip_modifier_Advanced_false_promise_timer_Description"       "Grant damage suspension settlement" 
+"DOTA_Tooltip_modifier_Primary_false_promise_timer"       "Primary False Promise"    
+"DOTA_Tooltip_modifier_Primary_false_promise_timer_Description"       "Grant damage suspension settlement" 
+"DOTA_Tooltip_modifier_Middle_false_promise_timer"       "Middle False Promise"    
+"DOTA_Tooltip_modifier_Middle_false_promise_timer_Description"       "Grant damage suspension settlement" 
+
+
+"DOTA_Tooltip_modifier_fool_power"       "Fool power"    
+"DOTA_Tooltip_modifier_fool_power_Description"       "This player is stupid. Please take care of her" 
+
+"DOTA_Tooltip_modifier_wolf_power"       "Wolf Power"    
+"DOTA_Tooltip_modifier_wolf_power_Description"       "·The single player team is given an additional initial all attribute, spell amplify, Magic Resistance, Apply a strong dispel every 8 seconds<br><br>·Gain an additional 10%% gold coin reward (Nonlinear superposition) when round settlement, Gain an additional level increase in even rounds<br><br>·Three resurrection opportunities, (In the case of challenging the leaderboard, if there is no resurrection chance at the beginning of each wave, it can be supplemented once every two rounds, but there will have some punishment)<br><br>·Sell abilities can return all ability points<br><br>·All damage increased(Ordinary difficulty+1.5* challenge difficulty)*4%%<br><br>·In chaotic mode,damage take and damage deal up 20%%" 
+"DOTA_Tooltip_modifier_it_takes_two"       "It Takes Two"    
+"DOTA_Tooltip_modifier_it_takes_two_Description"       "·The tow player team is given an additional initial all attribute, spell amplify, Magic Resistance,  Apply a strong dispel every 12 seconds<br><br>·Gain an additional 8%% gold coin reward (Nonlinear superposition) when round settlement<br><br>·Sell abilities can return all ability points<br><br>·In chaotic mode,damage take and damage deal up 15%%" 
+"DOTA_Tooltip_modifier_Trine"       "Trine"    
+"DOTA_Tooltip_modifier_Trine_Description"       "The three player team is given an additional initial all attribute, spell amplify, Magic Resistance" 
+
+"DOTA_Tooltip_modifier_Shop_king_of_challenge1"       "Endless suffering"    
+"DOTA_Tooltip_modifier_Shop_king_of_challenge1_Description"       "Trapped in endless suffering and unable to return to the material plane" 
+"DOTA_Tooltip_modifier_Shop_king_of_challenge2"       "Endless suffering"    
+"DOTA_Tooltip_modifier_Shop_king_of_challenge2_Description"       "Trapped in endless suffering and unable to return to the material plane" 
+"DOTA_Tooltip_modifier_Shop_king_of_challenge3"       "Endless suffering"    
+"DOTA_Tooltip_modifier_Shop_king_of_challenge3_Description"       "Trapped in endless suffering and unable to return to the material plane" 
+
+
+"DOTA_Tooltip_modifier_Sleeping_king"       "Sleeping King"    
+"DOTA_Tooltip_modifier_Sleeping_king_Description"       "This player sleeps all year round, slowing down his attack speed and movement speed, but his outgoing damage has been greatly improved" 
+
+
+
+"DOTA_Tooltip_modifier_Advanced_mana_shield"       "Advanced Mana Shield"    
+"DOTA_Tooltip_modifier_Advanced_mana_shield_Description"       "Grant damage reduction" 
+"DOTA_Tooltip_modifier_Primary_mana_shield"       "Primary Mana Shield"    
+"DOTA_Tooltip_modifier_Primary_mana_shield_Description"       "Grant damage reduction" 
+"DOTA_Tooltip_modifier_Middle_mana_shield"       "Middle Mana Shield"    
+"DOTA_Tooltip_modifier_Middle_mana_shield_Description"       "Grant damage reduction" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_repel"       "Advanced repel"    
+"DOTA_Tooltip_modifier_Advanced_repel_Description"       "Gives combat ability increases" 
+"DOTA_Tooltip_modifier_Middle_repel"       "Middle repel"    
+"DOTA_Tooltip_modifier_Middle_repel_Description"       "Gives combat ability increases" 
+"DOTA_Tooltip_modifier_Primary_repel"       "Primary repel"    
+"DOTA_Tooltip_modifier_Primary_repel_Description"       "Gives combat ability increases" 
+
+
+"DOTA_Tooltip_modifier_Middle_earth_spike"       "Breath of Hell"    
+"DOTA_Tooltip_modifier_Middle_earth_spike_Description"       "Death within the duration will trigger additional effects" 
+"DOTA_Tooltip_modifier_Advanced_earth_spike"       "Breath of Hell"    
+"DOTA_Tooltip_modifier_Advanced_earth_spike_Description"       "Death within the duration will trigger additional effects" 
+
+
+"DOTA_Tooltip_modifier_Advanced_earth_spike_gain"       "Spirit of Hidden Shadow"    
+"DOTA_Tooltip_modifier_Advanced_earth_spike_gain_Description"       "Give this skill damage enhancement" 
+"DOTA_Tooltip_modifier_ChallengeInfo_010_debuff"       "Brain worm"    
+"DOTA_Tooltip_modifier_ChallengeInfo_010_debuff_Description"       "Be silent and passive disable" 
+"DOTA_Tooltip_modifier_ChallengeInfo_012_effect"       "Chemical Rage"    
+"DOTA_Tooltip_modifier_ChallengeInfo_012_effect_Description"       "increase attack speed" 
+"DOTA_Tooltip_modifier_ChallengeInfo_013_effect"       "Self explosion"    
+"DOTA_Tooltip_modifier_ChallengeInfo_013_effect_Description"       "Death will cause a AOE damage to the surrounding enemies" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_014_debuff"       "Curse of death"    
+"DOTA_Tooltip_modifier_ChallengeInfo_014_debuff_Description"       "After killing the enemy, you will receive damage based on lost HP" 
+
+"DOTA_Tooltip_modifier_nevermore_challenge_dark_lord_effect"       "Dark Lord"    
+"DOTA_Tooltip_modifier_nevermore_challenge_dark_lord_effect_Description"       "Basic armor has been greatly reduced" 
+
+
+
+"DOTA_Tooltip_modifier_slark_challenge_pounce_debuff"       "Pounce"    
+"DOTA_Tooltip_modifier_slark_challenge_pounce_debuff_Description"       "Bound and unable to move" 
+"DOTA_Tooltip_modifier_slark_challenge_essence_shift"       "Essence Shift"    
+"DOTA_Tooltip_modifier_slark_challenge_essence_shift_Description"       "Increased attack speed" 
+"DOTA_Tooltip_modifier_slark_challenge_essence_shift_debuff"       "Essence Shift"    
+"DOTA_Tooltip_modifier_slark_challenge_essence_shift_debuff_Description"       "All attributes are reduced" 
+"DOTA_Tooltip_modifier_slark_challenge_shadow_dance"       "Shadow dance "    
+"DOTA_Tooltip_modifier_slark_challenge_shadow_dance_Description"       "Endow the ability of stealth when HP is low" 
+
+"DOTA_Tooltip_modifier_Advanced_purification"       "Sacrament"    
+"DOTA_Tooltip_modifier_Advanced_purification_Description"       "Give damage resistance" 
+
+"DOTA_Tooltip_modifier_creeps_spell_reverse_polarity_rebuild"       "Bipolar reversal · world recasting"    
+"DOTA_Tooltip_modifier_creeps_spell_reverse_polarity_rebuild_Description"       "Casting" 
+
+"DOTA_Tooltip_modifier_creeps_spell_skewer"       "skewer"    
+"DOTA_Tooltipmodifier_creeps_spell_skewer_Description"       "Drive all enemies along the way" 
+"DOTA_Tooltip_modifier_creeps_spell_skewer_slow"       "skewer"    
+"DOTA_Tooltip_modifier_creeps_spell_skewer_slow_Description"       "Being slow" 
+
+"DOTA_Tooltip_modifier_creeps_spell_shockwave"       "Shockwave"    
+"DOTA_Tooltip_modifier_creeps_spell_shockwave_Description"       "Being slow" 
+
+
+"DOTA_Tooltip_modifier_Primary_unleash"       "Primary unleash"    
+"DOTA_Tooltip_modifier_Primary_unleash_Description"       "Greatly improve combat capability" 
+"DOTA_Tooltip_modifier_Primary_unleash_fury"       "Primary unleash"    
+"DOTA_Tooltip_modifier_Primary_unleash_fury_Description"       "Greatly increase attack speed" 
+"DOTA_Tooltip_modifier_Primary_unleash_recovery"       "Primary unleash Recovering"    
+"DOTA_Tooltip_modifier_Primary_unleash_debuff"       "Primary unleash"    
+"DOTA_Tooltip_modifier_Primary_unleash_debuff_Description"       "Reduce attack speed and movement speed" 
+
+
+"DOTA_Tooltip_modifier_Middle_unleash"       "Middle unleash"    
+"DOTA_Tooltip_modifier_Middle_unleash_Description"       "Greatly improve combat capability" 
+"DOTA_Tooltip_modifier_Middle_unleash_fury"       "Middle unleash"    
+"DOTA_Tooltip_modifier_Middle_unleash_fury_Description"       "Greatly increase attack speed" 
+"DOTA_Tooltip_modifier_Middle_unleash_recovery"       "Middle unleash Recovering"    
+"DOTA_Tooltip_modifier_Middle_unleash_debuff"       "Middle unleash"    
+"DOTA_Tooltip_modifier_Middle_unleash_debuff_Description"       "Reduce attack speed and movement speed" 
+
+
+"DOTA_Tooltip_modifier_Advanced_unleash"       "Advanced unleash"    
+"DOTA_Tooltip_modifier_Advanced_unleash_Description"       "Greatly improve combat capability" 
+"DOTA_Tooltip_modifier_Advanced_unleash_fury"       "Advanced unleash"    
+"DOTA_Tooltip_modifier_Advanced_unleash_fury_Description"       "Greatly increase attack speed" 
+"DOTA_Tooltip_modifier_Advanced_unleash_recovery"       "Advanced unleash Recovering"    
+"DOTA_Tooltip_modifier_Advanced_unleash_debuff"       "Advanced unleash"    
+"DOTA_Tooltip_modifier_Advanced_unleash_debuff_Description"       "Reduce attack speed and movement speed" 
+
+"DOTA_Tooltip_modifier_creeps_spell_Wind_Howled_silend"       "Howling Storm"    
+"DOTA_Tooltip_modifier_creeps_spell_Wind_Howled_silend_Description"       "Be silent" 
+
+"DOTA_Tooltip_modifier_Primary_aether_remnant"       "Primary Aether Remnant"    
+"DOTA_Tooltip_modifier_Primary_aether_remnant_Description"       "get sucked" 
+"DOTA_Tooltip_modifier_Middle_aether_remnant"       "Middle Aether Remnant"    
+"DOTA_Tooltip_modifier_Middle_aether_remnant_Description"       "get sucked" 
+"DOTA_Tooltip_modifier_Advanced_aether_remnant"       "Advanced Aether Remnant"    
+"DOTA_Tooltip_modifier_Advanced_aether_remnant_Description"       "get sucked" 
+
+
+
+"DOTA_Tooltip_modifier_Primary_dissimilate"       "Primary Dissimilate"    
+"DOTA_Tooltip_modifier_Primary_dissimilate_Description"       "Hidden in other planes" 
+"DOTA_Tooltip_modifier_Middle_dissimilate"       "Middle Dissimilate"    
+"DOTA_Tooltip_modifier_Middle_dissimilate_Description"       "Hidden in other planes" 
+"DOTA_Tooltip_modifier_Advanced_dissimilate"       "Advanced Dissimilate"    
+"DOTA_Tooltip_modifier_Advanced_dissimilate_Description"       "Hidden in other planes" 
+
+
+"DOTA_Tooltip_modifier_Primary_astral_step"       "Primary Astral Step"    
+"DOTA_Tooltip_modifier_Primary_astral_step_Description"       "Explosion after a period of time" 
+"DOTA_Tooltip_modifier_Middle_astral_step"       "Middle Astral Step"    
+"DOTA_Tooltip_modifier_Middle_astral_step_Description"       "Explosion after a period of time" 
+"DOTA_Tooltip_modifier_Advanced_astral_step"       "Advanced Astral Step"    
+"DOTA_Tooltip_modifier_Advanced_astral_step_Description"       "Explosion after a period of time" 
+
+"DOTA_Tooltip_modifier_Advanced_astral_step_buff"       "Advanced Astral Step"    
+"DOTA_Tooltip_modifier_Advanced_astral_step_buff_Description"       "Endow invisibility" 
+"DOTA_Tooltip_modifier_Advanced_astral_step_buff2"       "Advanced Astral Step"    
+"DOTA_Tooltip_modifier_Advanced_astral_step_buff2_Description"       "can cast Astral Step" 
+
+"DOTA_Tooltip_modifier_Middle_astral_step_buff"       "Advanced Astral Step"    
+"DOTA_Tooltip_modifier_Middle_astral_step_buff_Description"       "Endow invisibility" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_magic_blessing"       "Magic control"    
+"DOTA_Tooltip_modifier_Middle_magic_blessing_Description"       "Give the ability to absorb the mana of surrounding friendly forces" 
+
+"DOTA_Tooltip_modifier_Advanced_magic_blessing"       "Magic control"    
+"DOTA_Tooltip_modifier_Advanced_magic_blessing_Description"       "Give the ability to absorb the mana of surrounding friendly forces" 
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_Advanced_laser_buff_2"                   "Strategic Deployment "
+"DOTA_Tooltip_modifier_Advanced_laser_buff_2_Description"       "The laser will be released automatically after cooling" 
+
+
+"DOTA_Tooltip_modifier_Advanced_laser_buff"                   "Thermal energy Concentration "
+"DOTA_Tooltip_modifier_Advanced_laser_buff_Description"       "Give the next laser power increase" 
+"DOTA_Tooltip_modifier_Advanced_laser"                   "Advanced Laser "
+"DOTA_Tooltip_modifier_Advanced_laser_Description"       "Attack has a chance to miss" 
+
+"DOTA_Tooltip_modifier_Advanced_laser_debuff2"                   "Advanced Laser "
+"DOTA_Tooltip_modifier_Advanced_laser_debuff2_Description"       "Attack has a chance to miss" 
+"DOTA_Tooltip_modifier_Primary_laser"                   "Primary Laser "
+"DOTA_Tooltip_modifier_Primary_laser_Description"       "Attack has a chance to miss"  
+"DOTA_Tooltip_modifier_Middle_laser"                   "Middle Laser "
+"DOTA_Tooltip_modifier_Middle_laser_Description"       "Attack has a chance to miss" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Einherjar_buff"                   "Advanced Einherjar"
+
+"DOTA_Tooltip_modifier_Primary_Einherjar_buff"                   "Primary Einherjar"
+
+"DOTA_Tooltip_modifier_Middle_Einherjar_buff"                   "Middle Einherjar"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Einherjar_buff2"                   "resonance"
+"DOTA_Tooltip_modifier_Advanced_Einherjar_buff2_Description"       "Increase agility" 
+
+
+
+
+"DOTA_Tooltip_modifier_the_last_hero"                   "The last hero"
+"DOTA_Tooltip_modifier_the_last_hero_Description"       "Endow all attributes with substantial improvement" 
+
+
+"DOTA_Tooltip_modifier_stroke_of_fate_buff"                   "Stained with ink"
+
+"DOTA_Tooltip_modifier_stroke_of_fate_buff2"                   "Trace of fate"
+"DOTA_Tooltip_modifier_stroke_of_fate_buff2_Description"       "Force move when status is destroyed" 
+
+"DOTA_Tooltip_modifier_Advanced_stroke_of_fate"                   "Advanced Stroke of Fate"
+"DOTA_Tooltip_modifier_Advanced_stroke_of_fate_Description"       "Move Speed Slow" 
+"DOTA_Tooltip_modifier_Primary_stroke_of_fate"                   "Primary Stroke of Fate"
+"DOTA_Tooltip_modifier_Primary_stroke_of_fate_Description"       "Move Speed Slow"  
+"DOTA_Tooltip_modifier_Middle_stroke_of_fate"                   "Middle Stroke of Fate"
+"DOTA_Tooltip_modifier_Middle_stroke_of_fate_Description"       "Move Speed Slow" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_effect"                   "Advanced Vengeance Aura"
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_effect_Description"       "Increase attack damage" 
+"DOTA_Tooltip_modifier_Primary_Vengeance_Aura_effect"                   "Primary Vengeance Aura"
+"DOTA_Tooltip_modifier_Primary_Vengeance_Aura_effect_Description"       "Increase attack damage"  
+"DOTA_Tooltip_modifier_Middle_Vengeance_Aura_effect"                   "Middle Vengeance Aura"
+"DOTA_Tooltip_modifier_Middle_Vengeance_Aura_effect_Description"       "Increase attack damage" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_effect_buff"                   "Return of the Dragon King"
+"DOTA_Tooltip_modifier_Advanced_Vengeance_Aura_effect_buff_Description"       "Give all attribute promotion" 
+
+"DOTA_Tooltip_modifier_Advanced_aftershock_buff"                   "Aftershock"
+"DOTA_Tooltip_modifier_Advanced_aftershock_buff_Description"       "Increase aftershock power" 
+
+"DOTA_Tooltip_modifier_wolf_challenge_Primitive_fear_effect"                   "Primitive fear"
+"DOTA_Tooltip_modifier_wolf_challenge_Primitive_fear_effect_Description"       "Reduce damage and take additional damage" 
+
+"DOTA_Tooltip_modifier_Advanced_Chakra_buff"                   "Overcooling"
+"DOTA_Tooltip_modifier_Advanced_Chakra_buff_Description"       "increase ability cooling speed" 
+"DOTA_Tooltip_modifier_Middle_Chakra_buff"                   "Overcooling"
+"DOTA_Tooltip_modifier_Middle_Chakra_buff_Description"       "increase ability cooling speed" 
+
+"DOTA_Tooltip_modifier_Advanced_Greevils_Greed"                   "Advanced Greevils Greed"
+"DOTA_Tooltip_modifier_Advanced_Greevils_Greed_Description"       "Current energy point" 
+
+"DOTA_Tooltip_modifier_Shop_king_of_bug"                   "King of Bug"
+"DOTA_Tooltip_modifier_Shop_king_of_bug_Description"       "increase all attributes" 
+
+"DOTA_Tooltip_modifier_item_hd_poison_coat_debuff"                   "Toxic Pool"
+"DOTA_Tooltip_modifier_item_hd_poison_coat_debuff_Description"                   "taking an increasing damage over time and Disabled passives"
+
+
+
+"DOTA_Tooltip_modifier_Shop_Novice_tutor"       "Novice Tuto"   
+"DOTA_Tooltip_modifier_Shop_Novice_tutor_Description"       "increase 5%% Magic Resistance and 2 armor" 
+
+"DOTA_Tooltip_modifier_Shop_Publicity_Ambassador"       "Publicity Ambassador"   
+"DOTA_Tooltip_modifier_Shop_Publicity_Ambassador_Description"       "increase 4 health regen" 
+
+"DOTA_Tooltip_modifier_Shop_noob"       "Noob"   
+"DOTA_Tooltip_modifier_Shop_noob_Description"       "increase all attributes by 1" 
+
+
+"DOTA_Tooltip_modifier_Advanced_Voodoo_Restoration_heal"                   "Advanced Voodoo Restoration Heal"
+"DOTA_Tooltip_modifier_Advanced_Voodoo_Restoration_heal_Description"       "Increase health regen" 
+"DOTA_Tooltip_modifier_Middle_Voodoo_Restoration_heal_effect"                   "Middle Voodoo Restoration Heal"
+"DOTA_Tooltip_modifier_Middle_Voodoo_Restoration_heal_effect_Description"       "Increase health regen" 
+"DOTA_Tooltip_modifier_Primary_Voodoo_Restoration_heal_effect"                   "Primary Voodoo Restoration Heal"
+"DOTA_Tooltip_modifier_Primary_Voodoo_Restoration_heal_effect_Description"       "Increase health regen"  
+
+
+"DOTA_Tooltip_modifier_Advanced_Chaos_Meteor_debuff"                   "Advanced Chaos Meteo"
+"DOTA_Tooltip_modifier_Advanced_Chaos_Meteor_debuff_Description"       "Suffer continuous burning damage" 
+"DOTA_Tooltip_modifier_Advanced_Chaos_Meteor_debuff2"                   "Sub Advanced Chaos Meteo"
+"DOTA_Tooltip_modifier_Advanced_Chaos_Meteor_debuff2_Description"       "Suffer continuous burning damage" 
+"DOTA_Tooltip_modifier_Middle_Chaos_Meteor_debuff"                   "Middle Chaos Meteo"
+"DOTA_Tooltip_modifier_Middle_Chaos_Meteor_debuff_Description"       "Suffer continuous burning damage" 
+"DOTA_Tooltip_modifier_Primary_Chaos_Meteor_debuff"                   "Primary Chaos Meteo"
+"DOTA_Tooltip_modifier_Primary_Chaos_Meteor_debuff_Description"       "Suffer continuous burning damage"  
+
+
+
+"DOTA_Tooltip_modifier_masters_players"      "Master Player"
+"DOTA_Tooltip_modifier_masters_players_Description"     "Play lots of times, have lots of experience, passionful and warm-hearted"
+
+"DOTA_Tooltip_modifier_Shop_Dove_of_peace"                   "Dove of peace"
+"DOTA_Tooltip_modifier_Shop_Dove_of_peace_Description"       "Give 2 points of all attribute bonus"  
+
+"DOTA_Tooltip_modifier_Shop_Great_Teacher"                   "Hot master"
+"DOTA_Tooltip_modifier_Shop_Great_Teacher_Description"       "max health and mana gains 3%%"  
+
+"DOTA_Tooltip_modifier_Shop_tool"                   "Tool man"
+"DOTA_Tooltip_modifier_Shop_tool_Description"       "Author's tool man"  
+"DOTA_Tooltip_modifier_Shop_adviser"                   "Proposer"
+"DOTA_Tooltip_modifier_Shop_adviser_Description"       "Author's proposer"  
+
+
+
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit_effect"                   "Advanced Vampiric Spirit"
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit_effect_Description"       "Endow lifesteal ability" 
+"DOTA_Tooltip_modifier_Middle_Vampiric_Spirit_effect"                   "Middle Vampiric Spirit"
+"DOTA_Tooltip_modifier_Middle_Vampiric_Spirit_effect_Description"       "Endow lifesteal ability" 
+"DOTA_Tooltip_modifier_Primary_Vampiric_Spirit_effect"                   "Primary Vampiric Spirit"
+"DOTA_Tooltip_modifier_Primary_Vampiric_Spirit_effect_Description"       "Endow lifesteal ability"  
+
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit_buff"                   "Life savings"
+"DOTA_Tooltip_modifier_Advanced_Vampiric_Spirit_buff_Description"       "Recover when injured"
+
+
+
+"DOTA_Tooltip_modifier_Advanced_shockwave"                   "Advanced Shockwave"
+"DOTA_Tooltip_modifier_Advanced_shockwave_Description"       "Reduce move speed" 
+"DOTA_Tooltip_modifier_Advanced_shockwave_debuff"                   "PTSD"
+"DOTA_Tooltip_modifier_Advanced_shockwave_debuff_Description"       "Increase the damage caused by shockwave next time" 
+"DOTA_Tooltip_modifier_Middle_shockwave"                   "Middle Shockwave"
+"DOTA_Tooltip_modifier_Middle_shockwave_Description"       "Reduce move speed" 
+"DOTA_Tooltip_modifier_Primary_shockwave"                   "Primary Shockwave"
+"DOTA_Tooltip_modifier_Primary_shockwave_Description"       "Reduce move speed"  
+
+
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment"                   "Advanced Astral Imprisonment"
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_Description"       "Trapped in the Astral" 
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_buff"                   "Outworld Sanctuary"
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_buff_Description"       "Trapped in the Astral" 
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_debuff"                   "Heaven and Earth Cage"
+"DOTA_Tooltip_modifier_Advanced_astral_imprisonment_debuff_Description"       "Trapped in the Astral" 
+
+
+"DOTA_Tooltip_modifier_Middle_astral_imprisonment"                   "Middle Astral Imprisonment"
+"DOTA_Tooltip_modifier_Middle_astral_imprisonment_Description"       "Trapped in the Astral" 
+"DOTA_Tooltip_modifier_Primary_astral_imprisonment"                   "Primary Astral Imprisonment"
+"DOTA_Tooltip_modifier_Primary_astral_imprisonment_Description"       "Trapped in the Astral"  
+
+
+
+
+"DOTA_Tooltip_modifier_Middle_summon_water_element_buff"                   "Life And Growth In Nature"
+"DOTA_Tooltip_modifier_Middle_summon_water_element_buff_Description"       "Give health a chance to recover" 
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff"                   "Life And Growth In Nature"
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff_Description"       "Give health a chance to recover" 
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff2"                   "Long History"
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff2_Description"       "Increase attack damage" 
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff4"                   "Osmosis"
+"DOTA_Tooltip_modifier_Advanced_summon_water_element_buff4_Description"       "Increase attack speed" 
+
+
+
+"DOTA_Tooltip_modifier_cooking"                   "cooking"
+"DOTA_Tooltip_modifier_cooking_Description"                   "Find a safe pls~"
+
+
+"DOTA_Tooltip_modifier_hd_poison"                   "Poisoned"
+"DOTA_Tooltip_modifier_hd_poison_Description"       "The unit is poisoned, taking %dMODIFIER_PROPERTY_TOOLTIP% of magic damage per second." 
+
+
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_monkey_king_3"     "Warrior's Momentum"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_monkey_king_3_Description"     "4 stacks brings one super attack!"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_monkey_king_3_buff"     "Riumphant Stance"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_monkey_king_3_buff_Description"     "attack speed up and reduce taken damage"
+
+"DOTA_Tooltip_modifier_Advanced_Focus_Fire_debuff"                   "Allround break"
+"DOTA_Tooltip_modifier_Advanced_Focus_Fire_debuff_Description"                   "lose armor,magic resistance and movespeed"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_imag" "Imaginary Submerged Navigation" 
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_imag_Description" "Increased movement speed, accumulating power" 
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_qed" "Real Number Manifestation" 
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_spirit_breaker_2_qed_Description" "Freshly emerged from the imaginary dimension, currently buffering"
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_silencer_int"                   "Silence growing"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_silencer_int_Description"       "Get int up" 
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_shadow_demon_debuff"     "Shadow Toxin"
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_shadow_demon_debuff_Description"     "lose attack and status resistance"
+
+"DOTA_Tooltip_modifier_item_hd_bullwhip"                   "Joy"
+"DOTA_Tooltip_modifier_item_hd_bullwhip_Description"       "Increases attack speed and movement speed."
+
+"DOTA_Tooltip_modifier_item_hd_mekansm_active"                   "Life Insurance"
+"DOTA_Tooltip_modifier_item_hd_mekansm_active_Description"       "Mekansm sustains your life."
+
+"DOTA_Tooltip_modifier_item_hd_evil_coat_active"                   "Death Curse"
+"DOTA_Tooltip_modifier_item_hd_evil_coat_active_Description"       "Your hand cannot be lifted."
+
+"DOTA_Tooltip_modifier_heroTalent_npc_dota_hero_antimage"                   "dash！"

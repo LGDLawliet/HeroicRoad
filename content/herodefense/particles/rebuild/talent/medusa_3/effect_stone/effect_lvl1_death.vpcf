@@ -1,0 +1,138 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_flConstantRadius = 1.0
+	m_bShouldSort = false
+	m_nBehaviorVersion = 12
+	m_nFirstMultipleOverride_BackwardCompat = 3
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+			m_bDisableOperator = true
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			m_bDisableOperator = true
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 17.0
+			}
+			m_nOutputField = 1
+		},
+		{
+			_class = "C_INIT_CreateWithinSphereTransform"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_INIT_RemapTransformOrientationToRotations"
+			m_vecRotation = [ 0.0, -90.0, 0.0 ]
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_INIT_PositionPlaceOnGround"
+			m_flMaxTraceLength = 2048.0
+			m_CollisionGroupName = "DEBRIS"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_INIT_RandomNamedModelSequence"
+			m_names = 
+			[
+				"p_tiny_01_deathsim",
+			]
+			m_bModelFromRenderer = true
+			m_bDisableOperator = true
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_BasicMovement"
+			m_Gravity = [ 0.0, 0.0, -10.0 ]
+			m_flOpEndFadeInTime = 12.0
+			m_flOpStartFadeInTime = 12.0
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_RemapNamedModelSequenceOnceTimed"
+			m_flRemapTime = 3.95
+			m_bModelFromRenderer = true
+			m_inNames = 
+			[
+				"p_tiny_01_deathsim",
+				"p_tiny_01_deathsim_end_pose",
+			]
+			m_outNames = 
+			[
+				"p_tiny_01_deathsim_end_pose",
+				"p_tiny_01_deathsim_end_pose",
+			]
+			m_nFieldOutput = 9
+			m_bDisableOperator = true
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderModels"
+			m_bOrientZ = true
+			m_bSuppressTint = true
+			m_ModelList = 
+			[
+				{
+					m_model = resource:"models/items/tiny/tiny_prestige/tiny_prestige_lvl_01_deathsim.vmdl"
+				},
+			]
+			m_bAnimated = true
+			m_nLOD = 1
+			m_nBodyGroupField = 19
+			m_nSubModelField = 19
+			m_nAnimationField = 9
+			m_modelInput = 
+			{
+			}
+			m_bDisableOperator = true
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/medusa_3/effect_stone/effect_death_rocks.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/medusa_3/effect_stone/effect_death_dust.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/medusa_3/effect_stone/effect_death_embers.vpcf"
+		},
+	]
+}

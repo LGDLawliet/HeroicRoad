@@ -1,0 +1,91 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Effect Proxies ----
+	F_USE_HERO_EFFECTS_PROXY 1
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Separate Transform fo the Normal Component ----
+	F_SEPARATE_NORMAL_TRANSFORM 1
+
+	//---- Blend To Full ----
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/monster/giant_crab/textures/giant_crab_color.jpg"
+
+	//---- Detail 1 ----
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordScale "[1.000 1.000]"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.000"
+	TextureDetail2 "materials/default/default_detail2.tga"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "0.500"
+	g_flBloomShift "0.000"
+	g_vBloomColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "materials/default/default_detailmask.tga"
+	TextureDiffuseWarpMask "materials/default/default_diffusemask.tga"
+	TextureMetalnessMask "models/monster/giant_crab/textures/giantcrab_metallicsmoothness.tga"
+	TextureSelfIllumMask "[0.110000 0.110000 0.110000 0.000000]"
+
+	//---- Mask 2 ----
+	TextureRimMask "[0.201000 0.201000 0.201000 0.000000]"
+	TextureSpecularExponent "[0.736000 0.736000 0.736000 0.000000]"
+	TextureSpecularMask "[0.122000 0.122000 0.122000 0.000000]"
+	TextureTintByBaseMask "[0.429000 0.429000 0.429000 0.000000]"
+
+	//---- Normal Map ----
+	g_flNormalTexCoordRotation "0.000"
+	g_vNormalTexCoordOffset "[0.000 0.000]"
+	g_vNormalTexCoordScale "[1.000 1.000]"
+	TextureNormal "models/monster/giant_crab/textures/t_giantcrab_normal.jpg"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "25.927"
+	g_flSpecularScale "247.967"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	Attributes
+	{
+		PreviewModel "models/monster/giant_crab/giant_crab.vmdl"
+	}
+}

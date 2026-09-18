@@ -1,0 +1,139 @@
+<root>
+	<styles>
+		<include src="s2r://panorama/styles/dotastyles.vcss_c" />
+		<include src="s2r://panorama/styles/hudstyles.vcss_c" />
+		<include src="s2r://panorama/styles/hud/hud_reborn.vcss_c" />
+		<include src="s2r://panorama/styles/custom_ui.vcss_c" />
+		<include src="s2r://panorama/styles/hud/dota_hud_stat_branch.vcss_c" />
+		<include src="s2r://panorama/styles/hud/dota_hud_ability_panel.vcss_c" />
+		<include src="s2r://panorama/styles/hud/dota_hud_xp.vcss_c" />
+		<include src="file://{resources}/layout/custom_game/hud_main/hud_main.css" />
+
+	</styles>
+	<scripts>
+		<include src="s2r://panorama/scripts/sequence_actions.vts_c" />
+		<include src="file://{resources}/scripts/custom_game/common.js" />
+		<include src="file://{resources}/layout/custom_game/hud_main/hud_main.js" />
+
+	</scripts>
+
+	<snippets>
+
+		<snippet name="AbilityCustomUI">
+			<Panel class="AbilityCustomUI" hittest="false">
+				<Button id="upgrateTab">
+					<Panel id="upgrateButton">
+						<Panel id="upgrateIcon">
+						
+						</Panel>
+					</Panel>
+				</Button>
+
+				<Panel id="HotkeyContainer">
+					<Panel id="HD_Hotkey">
+						<Label id="HD_HotkeyText" text="z"/>
+					</Panel>
+				</Panel>
+				<!-- <Label text="{d:current_charges}" hittest="false" /> -->
+			</Panel>
+		</snippet>
+
+
+		<snippet name="playerArtifactSlot">
+			<Panel class="playerArtifactSlot_root" hittest="false">
+				<Button id="EquipmentExpandButton" class="Expand"></Button>
+				<!-- <Panel id="EquipmentSlotTitleBG" hittest="false"></Panel> -->
+				<Panel id="EquipmentSlotContainer" class="Expand" hittest="false">
+					<Panel id="EquipmentSlot" class="inventory"></Panel>
+				</Panel>
+			</Panel>
+		</snippet>
+
+
+		<snippet name="customAbilityHotKeySetting">
+			<Panel id="singleHotkey1" class="singleHotkey_class">
+				<DOTAAbilityImage  id="abilityIcon" abilityname="" />
+				<TextEntry id="hotKeyText" text="Z" />
+				<Button id="HotkeyButton" class="HotkeyButton"  onmouseover="DOTAShowTextTooltip('#HUD_Hotkey_setting_info')" onmouseout="DOTAHideTextTooltip()">
+					<Label text="绑定快捷键" />
+				</Button>
+			</Panel>
+		</snippet>
+
+	</snippets>
+
+	<Panel class="hudRoot" hittest="false">
+		<!-- 技能自定义UI -->
+		<Panel id="AbilitiesCustomUIContainer" class="AbilityMaxLevel7" hittest="false" />
+		<Panel id="artifactCustomUIContainer" class="" hittest="false" >
+			<Panel id="artifactList" class="hidden">
+				<Panel id="artifact_slot1" class="playerArtifactSlot_root" hittest="false">
+					<Button id="EquipmentExpandButton" class="Expand"></Button>
+					<!-- <Panel id="EquipmentSlotTitleBG" hittest="false"></Panel> -->
+					<Panel id="EquipmentSlotContainer" class="Expand" hittest="false">
+						<Panel id="EquipmentSlot" class="inventory"></Panel>
+					</Panel>
+				</Panel>
+				<Panel id="artifact_slot2" class="playerArtifactSlot_root" hittest="false">
+					<Button id="EquipmentExpandButton" class="Expand"></Button>
+					<!-- <Panel id="EquipmentSlotTitleBG" hittest="false"></Panel> -->
+					<Panel id="EquipmentSlotContainer" class="Expand" hittest="false">
+						<Panel id="EquipmentSlot" class="inventory"></Panel>
+					</Panel>
+				</Panel>
+				<Panel id="artifact_slot3" class="playerArtifactSlot_root" hittest="false">
+					<Button id="EquipmentExpandButton" class="Expand"></Button>
+					<!-- <Panel id="EquipmentSlotTitleBG" hittest="false"></Panel> -->
+					<Panel id="EquipmentSlotContainer" class="Expand" hittest="false">
+						<Panel id="EquipmentSlot" class="inventory"></Panel>
+					</Panel>
+				</Panel>
+				<Panel id="artifact_slot4" class="playerArtifactSlot_root" hittest="false">
+					<Button id="EquipmentExpandButton" class="Expand"></Button>
+					<!-- <Panel id="EquipmentSlotTitleBG" hittest="false"></Panel> -->
+					<Panel id="EquipmentSlotContainer" class="Expand" hittest="false">
+						<Panel id="EquipmentSlot" class="inventory"></Panel>
+					</Panel>
+				</Panel>
+			</Panel>
+
+
+			<Panel id="GetPlayerArtifactRoot" class="GetPlayerArtifactRoot hidden">
+				<Button id="GoToArtifactList" class="ChaoticEraSpellButton" onactivate="OpenArtifactList();">  
+                     <Label text="#HUD_player_artifact_Take" />
+                </Button> 
+				<Button id="ClearArtifactSlot" class="ChaoticEraSpellButton" onactivate="">  
+                     <Label text="#HUD_player_artifact_Clear" />
+                </Button> 
+				<!-- <Button class="ItemMenuBtn" onactivate="$.Msg('333')">
+					<Label text="{s:text}" />
+				</Button> -->
+			</Panel>
+	
+		</Panel>
+
+		<Panel id="hotKeySetting">
+			<Panel id="hotkeySettingList">
+
+
+
+
+
+			</Panel>
+
+			<Panel id="toolModeHideArrow" onactivate="OpenHotkeySetting();" >
+			</Panel>
+
+		</Panel>
+
+		<Panel id="BossHP" hittest="false">
+			<Label id="BossLabel" class="HoldoutLabelSmall" hittest="false" text="" />
+			<Panel id="BossProgressBarContainer" hittest="false">
+				<!-- <Panel id="BossIcon" /> -->
+				<ProgressBar hittest="false" id="BossProgressBar" value="0" />
+			</Panel>
+		</Panel>
+
+	</Panel>
+
+</root>

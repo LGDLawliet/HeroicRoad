@@ -1,0 +1,25 @@
+<root>
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/hero_selection/hero_selection.css" />
+	</styles>
+	<scripts>
+        <include src="file://{resources}/scripts/custom_game/common.js" />
+		<include src="s2r://panorama/layout/custom_game/hero_selection/hero_selection.js" />
+        <include src="s2r://panorama/layout/custom_game/hero_selection/hero_selection_suggest.js" />
+	</scripts>
+	<Panel class="HeroSelection" hittest="false">
+        <Button id="CloseButton"  onactivate="CloaseLoading();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_return')" onmouseout="DOTAHideTextTooltip()">  </Button>
+        <Panel id="HeroSelectionRootBG" hittest="false" onactivate="Donothing();" class="Visible" ></Panel>
+		<Panel id="HeroSelectionRoot" hittest="true" onactivate="Donothing();" class="Visible" >
+            <Label hittest="false" id="LoadingLabel" text="#DOTA_CUSTOM_heroSelection_1" html ="true"/>
+            <Label hittest="false" id="LoadingLabel2" text="#DOTA_CUSTOM_heroSelection_3" html ="true"/>
+            <Panel id="loading_player" onmouseover="DOTAShowTextTooltip('#DOTA_CUSTOM_heroSelection_2')" onmouseout="DOTAHideTextTooltip()" hittest = "true">
+                <Panel id="loading_player_Progress" hittest="false" class="Visible">
+                    <DOTAScenePanel hittest="false"  id="loading_player_scenePanel" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                </Panel>
+                <!-- <Panel id="King_info_health_Right_team1" hittest="false" class="Visible"></Panel> -->
+                <!-- <Label id="King_info_health_text" text="1200/1500"/> -->
+            </Panel>
+        </Panel>
+	</Panel>
+</root>

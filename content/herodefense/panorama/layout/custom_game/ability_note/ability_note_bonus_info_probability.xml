@@ -1,0 +1,27 @@
+<!-- xml reconstructed by ValveResourceFormat: https://vrf.steamdb.info/ -->
+<root>
+
+	<scripts>
+
+	</scripts>
+	<styles>
+		<include src="s2r://panorama/styles/dotastyles.vcss_c" />
+
+		<include src="s2r://panorama/layout/custom_game/ability_note/ability_note.css" />
+	</styles>
+	<snippets>
+
+	</snippets>
+	<Panel class="Additional_note_root buffCheck hide">
+		<Label id="header" class = "additional_note_header" text="{s:header1}{s:header2}" html = "true"/>
+		<Panel id="buffCheckPanel">
+			<Panel  id="PositiveGain" class="single_note_block">
+				<Label id="PositiveGain_header" class = "left_note" text="#HUD_NOTE_Probability_Bonus" html = "true"/>
+				<Label id="PositiveGain_info" class = "right_note" text="{s:value1}%" html = "true"/>
+			</Panel>
+
+
+		</Panel>
+		
+	</Panel>
+</root>

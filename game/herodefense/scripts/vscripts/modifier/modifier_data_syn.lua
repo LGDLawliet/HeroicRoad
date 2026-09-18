@@ -1,0 +1,42 @@
+
+--------------------------------------------------------------------------------
+-- modifier_data_syn = advanced_modifier({})
+-- -- require('internal/timers')   --计时器功能
+-- --------------------------------------------------------------------------------
+-- -- Classifications
+-- function modifier_data_syn:IsHidden()return true end
+-- function modifier_data_syn:IsDebuff()return false end
+-- function modifier_data_syn:IsStunDebuff()return false end
+-- function modifier_data_syn:IsPurgable()return false end
+-- -- function modifier_data_syn:GetTexture() return "lycan/ti9_immortal_head/lycan_howl_immortal" end
+-- function modifier_data_syn:IsPurgeException() 	return false end
+-- function modifier_data_syn:RemoveOnDeath() return false end
+
+-- function modifier_data_syn:OnCreated()
+-- 	-- self.hNpcSpawnedGameEvent = ListenToGameEvent( "hd_data_syn", Dynamic_Wrap( self, 'OnEventReceive' ),self )
+-- 	-- print("self.hNpcSpawnedGameEvent=",self.hNpcSpawnedGameEvent)
+-- 	if IsServer() then
+-- 		print("create")
+-- 		self.hNpcSpawnedGameEvent = ListenToGameEvent( "hd_data_syn", Dynamic_Wrap( self, 'OnEventReceive' ),self )
+-- 	end
+-- end
+-- function modifier_data_syn:OnDestroy()
+-- 	if self.hNpcSpawnedGameEvent then
+-- 		StopListeningToGameEvent(self.hNpcSpawnedGameEvent)
+-- 	end
+-- end
+
+-- function modifier_data_syn:OnEventReceive(keys)
+-- 	if IsClient() then
+-- 		local data_name =  keys.data_name
+-- 		local value = keys.value
+-- 		print("aaaaaaaaaaaaaaaaaa")
+-- 		if data_name and value then
+-- 			print("_G[data_name]",_G[data_name])
+-- 			_G[data_name] = value
+-- 			print("_G[data_name]_after",_G[data_name])
+-- 			print("syn ok")
+-- 		end
+		
+-- 	end
+-- end

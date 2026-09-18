@@ -1,0 +1,38 @@
+<root>
+	<styles>	
+		<include src="s2r://panorama/styles/dotastyles.vcss_c" />
+		<include src="s2r://panorama/layout/custom_game/test/test.css" />
+
+
+	</styles>
+
+	<scripts>
+		<include src="s2r://panorama/scripts/util.vjs_c" />
+		<!-- <include src="s2r://panorama/layout/custom_game/test/test.js" /> -->
+	
+	</scripts>
+
+
+
+
+		<Panel hittest="false" class="BGPanelRoot">
+            <!-- <DOTAScenePanel hittest="false"  id="PostGameBG" map="scenes/events/newblom2018/parallax_eventhome_particles" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+            <!-- <DOTAScenePanel hittest="false"  id="PostGameBG" map="scenes/new_player/scenario_preview_regen" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+
+            <!-- scenes/battlepass_ti10/aghslogofx -->
+			<!-- <DOTAScenePanel hittest="false"  id="PostGameBG" map="camp_defense" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+            <!-- <DOTAScenePanel hittest="false"  id="PostGameBG" map="testbackground" camera="camera4" light="light" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+
+
+		</Panel>
+
+</root>
+
+
+
+<!-- background -->
+<!-- <DOTAScenePanel hittest="false"  id="PostGameBG" map="backgrounds/dashboard_parallax_ti9" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+<!-- <DOTAScenePanel hittest="false"  id="PostGameBG" map="backgrounds/dashboard_parallax_ti6_initial" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+<!-- <DOTAScenePanel hittest="false"  id="PostGameBG" map="backgrounds/dashboard_test" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+<!-- <DOTAScenePanel hittest="false"  id="PostGameBG" map="backgrounds/dueling_fates_main_bg" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->
+<!-- <DOTAScenePanel hittest="false"  id="PostGameBG" map="terrain_previews/dota_ti10_preview" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/> -->

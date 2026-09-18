@@ -1,0 +1,507 @@
+<root>
+    <styles>
+        <include src="s2r://panorama/styles/dotastyles.vcss_c"/>
+        <include src="s2r://panorama/styles/hudstyles.vcss_c"/>
+        <include src="s2r://panorama/layout/custom_game/spell_shop/spell_shop.css"/>
+        <include src="s2r://panorama/layout/custom_game/spell_shop/game_shop.css"/>
+        <include src="s2r://panorama/layout/custom_game/spell_shop/potion_bag.css"/>
+        <include src="s2r://panorama/layout/custom_game/spell_shop/game_shop_chaotic_era.css"/>
+        <include src="s2r://panorama/styles/custom_game/common_hd.css"/>
+    </styles>
+
+    <scripts>
+        <include src="file://{resources}/scripts/custom_game/common.js" />
+        <include src="s2r://panorama/layout/custom_game/spell_shop/potion_bag.js" />
+        <include src="s2r://panorama/layout/custom_game/spell_shop/spell_shop.js" />
+        <include src="s2r://panorama/layout/custom_game/spell_shop/game_shop.js" />
+        
+    </scripts>
+    <snippets>
+        <!-- 技能画布 -->
+        <snippet name="spell">
+            <Panel class="SingleSpellPanel_root">
+                <Panel class="SingleSpellPanel" id = "SingleSpellPanel_id" >
+                    <Button id="SingleSpellPanelButton" onactivate="BuySpell()">
+                        <Panel id="HeroBorder"/>
+                        <Panel id="SingleSpellImage">
+                            <DOTAAbilityImage id="SingleSpellPictureImage"/>
+                        </Panel>
+                    </Button>
+                    <Label class="CpCostIndicator" id="SpellCostorReturn" text="#DOTA_HUD_Spells_Menu_Spell_Cost"/>
+                    <Label class="CpCostIndicator" id="SpellCost" text=""/>
+                </Panel>
+
+                <Panel id = "Recommended_icon"> </Panel>
+            </Panel>
+        </snippet>
+
+
+        <!-- 技能画布2 -->
+        <snippet name="spell2">
+            <Panel class="SingleSpellPanel2">
+                <Button id="SingleSpellPanelButton2">
+                    <Panel id="HeroBorder"/>
+                    <Panel id="SingleSpellImage">
+                        <DOTAAbilityImage id="SingleSpellPictureImage2"/>
+                    </Panel>
+                </Button>
+            </Panel>
+        </snippet>
+
+        <snippet name="itemList">
+            <Panel class="singleItemListBlock">
+                <Panel class="singleItemListBlockBG"/>
+                <Label  text="{s:itemType}"/>
+                <Panel id="itemListBlock" class="singleItemListBlock_itemList">
+                </Panel>
+            </Panel>
+
+        </snippet>
+
+        <snippet name="singleShopItem">
+            <Panel class="singleShopItem"  >
+                <Panel id="image_root" class="singleItemRoot">
+                    <Panel id="potion_Iamge">
+                        <Panel class="potion_Background"/>
+                        <Image id="potionImage"/>
+                        <Panel class="potion_cover"/>
+                        <Label id="potionCount"  text="{s:potionCount}"/>
+                    </Panel>
+                    <DOTAItemImage class="singleItem_Class" id="singleItem" hittest="true" itemname="item_hd_Song_of_Eagle_Voice_of_Dragonus"/>
+                    <Panel class="itemOverlay"  hittest="false"/>
+                    <!-- <Label id="itemCharge" class="itemChargeLabel" text="{s:currentCount}/{s:maxCount}"/> -->
+                </Panel>
+                
+                <Panel class="itemCostRoot">
+                    <Panel class="itemCostIcon"/>
+                    <Label id="buyCostLabel" class="buyCostLabel" text="{s:cost}"/>
+                    <Button id="itemLockButton" onmouseover="DOTAShowTextTooltip('#HUD_LOCK_ITEM_INFO')" onmouseout="DOTAHideTextTooltip()"/>
+                    <!-- <Label class="buyCostDeficit" text="(-10000)"/> -->
+                </Panel>
+                
+            </Panel>
+
+        </snippet>
+
+        <snippet name="singlePotion">
+            <Panel class="singlePotion"  >
+                <Panel id="potion_Iamge">
+                    <Panel class="potion_Background"/>
+                    <Image id="potionImage"/>
+                    <Panel class="potion_cover"/>
+                </Panel>
+                <Panel id="potion_info">
+                    <Panel id="potion_info_background"/>
+                    <Label text="#HUD_Potion_count"/>
+                </Panel>
+                
+                
+            </Panel>
+        </snippet>
+
+        <snippet name="singleArtifact">
+            <Panel class="singleArtifact">
+                <Panel id="singleArtifactIcon"/>
+            </Panel>
+        </snippet>
+
+
+
+
+
+
+    </snippets>
+
+
+
+    <Panel hittest="false" class="spell_shopMenuRoot">
+
+        <!-- 通过技能商店按钮打开的界面 -->
+        <Panel id="SpellsShopMenuwindowROOT" hittest="false" class="Visible mainMenuDesign"  >
+            <Panel class="hd_genaral_Background_spellShop">
+            </Panel>
+            <Label id="SpellsShopMenuwindowTitle" text="#DOTA_HUD_SpellsShopMenuwindowTitle" />
+            <!-- 关闭该窗口按钮 -->
+            <Button id="CloseSpellsShopMenuwindowButton" onactivate="CloseSpellsShopMenuwindow();">  </Button> 
+             <!--给出技能种类分类按钮  -->
+             <!-- 物理 -->
+             <Button id="PhysicalSpellsButton"  class="generalHDButton"  onactivate="OpenPhysicalSpellsMenu();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_SpellShop_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label id="PhysicalSpellsButtonLabel" text="#DOTA_HUD_PhysicalSpells_Button"/>
+            </Button>
+            <!-- 魔法 -->
+             <Button id="MagicalSpellsButton" class="generalHDButton"  onactivate="OpenMagicalSpellsMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_SpellShop_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label id="MagicalSpellsButtonLabel" text="#DOTA_HUD_MagicalSpells_Button"/>
+            </Button>
+            <!-- 召唤 -->
+            <Button id="SummonSpellsButton"  class="generalHDButton" onactivate="OpenSummonSpellsMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_SpellShop_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label id="SummonSpellsButtonLabel" text="#DOTA_HUD_SummonSpells_Button"/>
+            </Button>
+            <!-- 防御 -->
+            <Button id="DefenseSpellsButton" class="generalHDButton"  onactivate="OpenDefenseSpellsMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_SpellShop_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label id="DefenseSpellsButtonLabel" text="#DOTA_HUD_DefenseSpells_Button"/>
+            </Button>
+            <!-- 辅助 -->
+            <Button id="AssistSpellsButton" class="generalHDButton"  onactivate="OpenAssistSpellsMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_SpellShop_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label id="AssistSpellsButtonLabel" text="#DOTA_HUD_AssistSpells_Button"/>
+            </Button>
+            <!-- 其他 -->
+            <Button id="OtherSpellsButton" class="generalHDButton"  onactivate="OpenOtherSpellsMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_SpellShop_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label id="OtherSpellsButtonLabel" text="#DOTA_HUD_OtherSpells_Button"/>
+            </Button>
+
+            <!-- 切换技能位置按钮 -->
+            <Button id="SpellsMenuSwapSpellsButton"  class="generalHDButton"  onactivate="OpenSpellsListingForPlayerHero();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_SpellShop_info2')" onmouseout="DOTAHideTextTooltip()">
+                <Label  id="SpellsMenuSwapSpellsButtonLabel"  text="#DOTA_HUD_Spells_Menu_Swap_Spells_Button"/>
+            </Button>
+
+            <!-- 升级技能按钮 -->
+            <Button id="SpellsMenuUpgradeSpellsButton"  class="generalHDButton"  onactivate="OpenSpellsUpgradeListingForPlayerHero();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_SpellShop_info')" onmouseout="DOTAHideTextTooltip()">
+                <Label  id="SpellsMenuUpgradeSpellsButtonLabel"  text="#DOTA_HUD_Spells_Menu_Upgrade_Button"/>
+            </Button>
+
+            <!-- 出售技能按钮 -->
+            <Button id="SpellsMenuSellSpellsButton"  class="generalHDButton"   onactivate="OpenSpellsSellListingForPlayerHero();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_SpellShop_info3')" onmouseout="DOTAHideTextTooltip()">
+                <Label  id="SpellsMenuSellSpellsButtonLabel"  text="#DOTA_HUD_Spells_Menu_Sell_Button"/>
+            </Button>
+
+            <!-- 左边的技能窗口 -->
+      
+            <Panel id="SpellsWindowPanel_root" class="Visible">   
+                <Panel class="hd_genaral_Background">
+                    <Panel class="hd_genaral_Background_layer2">
+                        <Panel class="hd_genaral_Background_layer3">
+                        </Panel>
+                    </Panel>
+                
+                </Panel>   
+                <Panel id="SpellsWindowPanel" class="Visible">
+
+                </Panel>
+            </Panel>
+            <!-- 右边的技能详细说明窗口 -->
+            <Panel id="SpellsinfoWindowPanel_root" class="Visible">
+                <!-- <DOTAScenePanel hittest="false"  id="SpellMemuPostGameBG" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/> -->
+                <Panel class="hd_genaral_Background_long_width">
+                    <!-- <Panel class="hd_genaral_Background_layer2">
+                        <Panel class="hd_genaral_Background_layer3">
+                        </Panel>
+                    </Panel> -->
+                
+                </Panel>        
+                <Panel id="SpellsinfoWindowPanel" class="Visible">
+                   
+    
+                </Panel>
+            </Panel>
+           
+
+            <Panel id="SpellsShopMenuClose"  class="Visible"  ></Panel>
+
+        </Panel>
+
+
+        <!-- 技能商店按钮 -->
+        <Panel id="SpellsShopButtonPanel" hittest="false" class="Visible">
+
+            <Panel id="shopButtonList">
+                <Button id="gameShopOpenButton" onactivate="OpenGameShop();"   > 
+                    <Label id="goldLabel" text="{s:value}"/>
+                    <Panel id="goldIcon" />
+                </Button>
+
+                <Button id="SpellsShopOpenButton" onactivate="OpenSpellsShop();"> 
+                    <Label id="SpellsMenuOpenButtonLabel" text="#DOTA_HUD_Spells_Menu_Open_Button"/>
+                </Button>
+            </Panel>
+
+
+
+            <Button id="PotionBagButton" onactivate="OpenPotionBag();"> 
+                <Label id="SpellsMenuOpenButtonLabel" text="F2"/>
+            </Button>
+
+
+  
+        </Panel>
+
+
+        <!-- 游戏商店 -->
+        <Panel id="gameShopPanelRoot" hittest="false" class=""  >
+            <Panel id="gameShopPanel" hittest="true" onactivate="" class=""  >
+                <!-- 背景 -->
+                <Panel class="hd_genaral_Background">
+                    <Panel class="hd_genaral_Background_layer2">
+                        <Panel class="hd_genaral_Background_layer3">
+                        </Panel>
+                    </Panel>
+                
+                </Panel>
+                <Label  text="#DOTA_HUD_GameShopMenuwindowTitle"/>
+                <Panel id="itemListPanel" hittest="true" class="">
+
+                </Panel>
+
+                <Panel id ="shop_disable">
+                    <Panel id="center_message" hittest="true" class="">
+                        <Label id="center_message_label" text="#DOTA_HUD_Game_Shop_state_1"/>
+                    </Panel>
+                </Panel>
+            </Panel>
+            <!-- <Panel id="SpellsShopMenuClose"  class="Visible"  ></Panel> -->
+        </Panel>
+
+        <!-- 乱纪元商店 -->
+        <Panel id="gameShop_chaoticEraRoot" hittest="false">
+            <Panel id="chaoticEra_gameShopPanel" hittest="false"  class=""  >
+                <!-- 背景 -->
+                <Panel class="hd_genaral_Background low_opacity">
+                    <Panel class="hd_genaral_Background_layer2">
+                        <Panel class="hd_genaral_Background_layer3">
+                        </Panel>
+                    </Panel>
+                
+                </Panel>
+
+                <Label  text="#DOTA_HUD_ChaoticEraGameShopMenuwindowTitle"/>
+                <Button class="CloseButton" onactivate="OpenGameShop();"/> 
+                <Panel id="chaotc_era_itemListPanel" hittest="true" class="">
+
+                    <!-- 装备列表 -->
+                    <Panel id="chaotic_era_ItemList" class="singleChaoticEraItemListBlock">
+                        <Panel class="singleItemListBlockBG"/>
+                        <Label  text="#HUD_GAME_SHOP_Item_type_All"/>
+                        <Panel id="itemListBlock" class="singleItemListBlock_itemList">
+                        </Panel>
+                    </Panel>
+                    <!-- 纪元特殊物品 -->
+                    <Panel id="chaotic_era_SpecialItemList" class="singleChaoticEraItemListBlock">
+                        <Panel class="singleItemListBlockBG"/>
+                        <Label  text="#HUD_GAME_SHOP_Item_type_EraSpecial"/>
+                        <!-- 列表 -->
+                        <Panel id="specialItemListBlock" class="singleItemListBlock_itemList">
+                            <!-- 购买技能 -->
+                            <Panel id="BuySpellPanel" class="singleSpeicalItem"  >
+                                <Panel class="singleSpecialItemRoot">
+                                    <Panel id="BuySpell_Image"  />
+                                    <!-- <Panel class="itemOverlay"  hittest="false"/> -->
+                                    <Label id="itemCharge" class="itemChargeLabel" text="{s:charge}/{s:max}"/>
+                                </Panel>
+                                
+                                <Panel class="chaoticEraShopCost_special">
+                                    <Panel id="goldIcon" />
+                                    <Label text="{s:cost}"/>
+                                </Panel>
+                                
+                            </Panel>
+                            <!-- 购买神器 -->
+                            <Panel id="ArtifactPanel" class="singleSpeicalItem"  >
+                                <Panel class="singleSpecialItemRoot">
+                                    <Panel id="Artifact_Image"/>
+                                    <!-- <Panel class="itemOverlay"  hittest="false"/> -->
+                                    <Label id="itemCharge" class="itemChargeLabel" text="{s:charge}/{s:max}"/>
+                                </Panel>
+                                
+                                <Panel class="chaoticEraShopCost_special">
+                                    <Panel id="goldIcon" />
+                                    <Label text="{s:cost}"/>
+                                </Panel>
+                                
+                            </Panel>
+
+                            <!-- 购买升阶机会，通过hidden隐藏，原class：singleSpeicalItem-->
+                            <Panel id="EvolutionPanel" class="hidden"  >
+                                <Panel class="singleSpecialItemRoot">
+                                    <Panel id="specialEva_Image"  />
+                                    <!-- <Panel class="itemOverlay"  hittest="false"/> -->
+                                    <Label id="itemCharge" class="itemChargeLabel" text="{s:charge}/{s:max}"/>
+                                </Panel>
+                                
+                                <Panel class="chaoticEraShopCost_special">
+                                    <Panel id="goldIcon" />
+                                    <Label text="{s:cost}"/>
+                                </Panel>
+                                
+                            </Panel>
+
+                            <!-- 购买升级机会，通过hidden隐藏，原class：singleSpeicalItem -->
+                            <Panel id="UpgradePanel" class="hidden"  >
+                                <Panel class="singleSpecialItemRoot">
+                                    <Panel id="spellUpgrade_Image"/>
+                                    <!-- <Panel class="itemOverlay"  hittest="false"/> -->
+                                    <Label id="itemCharge" class="itemChargeLabel" text="{s:charge}/{s:max}"/>
+                                </Panel>
+                                
+                                <Panel class="chaoticEraShopCost_special">
+                                    <Panel id="goldIcon" />
+                                    <Label text="{s:cost}"/>
+                                </Panel>
+                                
+                            </Panel>
+
+                            
+                            <!-- 注释：删除技能机会，已废弃 -->
+                            <!-- <Panel id="SellPanel" class="singleSpeicalItem"  >
+                                <Panel class="singleSpecialItemRoot">
+                                    <Panel id="spellSell_Image"/>
+                                    <Label id="itemCharge" class="itemChargeLabel" text="{s:charge}/{s:max}"/>
+                                </Panel>
+                                
+                                <Panel class="chaoticEraShopCost_special">
+                                    <Panel id="goldIcon" />
+                                    <Label text="{s:cost}"/>
+                                </Panel>
+                                
+                            </Panel> -->
+                            
+                            <!-- 注释：整备时间，通过hidden隐藏，原class：singleSpeicalItem -->
+                            <Panel id="PauseTaskPanel" class="hidden"  >
+                                <Panel class="singleSpecialItemRoot">
+                                    <Panel id="PauseTask_Image"/>
+                                    <Panel id="item_timeInfo">
+                                        <Label id="itemTime_Label"  text="{s:time}s"/>
+                                        <Panel id="itemTime_Overlay"  hittest="false"/>
+                                    </Panel>
+                                    <!-- <Panel class="itemOverlay"  hittest="false"/> -->
+                                    <!-- <Label id="itemCharge" class="itemChargeLabel" text="{s:charge}/{s:max}"/> -->
+                                </Panel>
+                                
+                                <Panel class="chaoticEraShopCost_special">
+                                    <Panel id="goldIcon" />
+                                    <Label text="{s:cost}"/>
+                                </Panel>
+                                
+                            </Panel>
+
+                            <!-- 注释：刷新怪物征召，通过hidden隐藏 原class：singleSpeicalItem-->
+                            <Panel id="TaskRefreshPanel" class="hidden"  >
+                                <Panel class="singleSpecialItemRoot">
+                                    <Panel id="TaskRefresh_Image"/>
+                                    <!-- <Panel class="itemOverlay"  hittest="false"/> -->
+                                    <Label id="itemCharge" class="itemChargeLabel" text="{s:charge}/{s:max}"/>
+                                </Panel>
+                                
+                                <Panel class="chaoticEraShopCost_special">
+                                    <Panel id="goldIcon" />
+                                    <Label text="{s:cost}"/>
+                                </Panel>
+                                
+                            </Panel>
+
+
+
+
+                        </Panel>
+                    </Panel>
+
+                    <!-- 商店特殊按钮队列 -->
+                    <Panel id="chaoticEra_ShopSpecialButton">
+                        <Panel class="singleItemListBlockBG"/>
+                        <Panel class="ButtonList">
+                            <Panel id="ChaoticEraButton_UpgrateShop" onactivate="UpgradeChaoticEraShop();" onmouseover="DOTAShowTextTooltip('#HUD_ChaoticEra_Shop')" onmouseout="DOTAHideTextTooltip()">
+                                <!-- 消耗 -->
+                                <Panel id="chaoticEraShopUpgradeCost" class="chaoticEraShopCost">
+                                    <Panel id="goldIcon" />
+                                    <Label text="{s:value}"/>
+                                       
+                                </Panel>
+                                <!--进度饼图 -->
+                                <Panel id="UpgradeProgress_PieChart" hittest="false" class="Visible">
+                                    <Label  text="{s:level}"/>
+                                    <Panel id="UpgradeProgress_PieChart_Background" hittest="false" class="Visible">
+                                        <CircularProgressBar id = "UpgradeProgress_PieChart_CircleBar"  value="60" min="0" max ="100" ></CircularProgressBar>
+                                    </Panel>
+                                </Panel>
+                                <Label id="chaoticEraShopUpgrade_exp"  text="#DOTA_HUD_ChaoticEraShop_Upgrade"/>
+
+                            </Panel>
+                            
+				            <Button id="ChaoticEraButton_RefreshShop" onactivate="RefreshChaoticEraShop();" onmouseover="DOTAShowTextTooltip('#HUD_ChaoticEra_RefreshShop')" onmouseout="DOTAHideTextTooltip()">  
+                                <Panel class="chaoticEraShopCost">
+                                    <Panel id="goldIcon" />
+                                    <Label text="{s:refreshShopCost}"/>
+                                </Panel>
+                                <Panel id="RefreshShopButton1"/>
+                                <Panel class="RefreshIcon"/>
+                            </Button> 
+
+                            <Panel id="resourceList">
+                                <Panel id="EvolutionChance">
+                                    <Panel id="EvolutionChanceIcon" />
+                                    <Label text="{s:value}"/>
+                                </Panel>
+                                <Panel id="UpgradeChance">
+                                    <Panel id="UpgradeChanceIcon" />
+                                    <Label text="{s:value}"/>
+                                </Panel>
+
+                                <!-- <Panel id="SellChance">
+                                    <Panel id="SellChanceIcon" />
+                                    <Label text="{s:value}"/>
+                                </Panel> -->
+
+
+                            </Panel>
+                            <Panel id="ArtifactList">
+                                
+                            </Panel>
+                  
+
+
+				
+                        </Panel>
+                    </Panel>
+                </Panel>
+
+    
+            </Panel>
+
+        </Panel>
+
+        <!-- 药剂背包 -->
+        <Panel id="potionBagRoot">
+            <Panel id="chaoticEra_potionBag" hittest="true" onactivate="" class=""  >
+                <!-- 背景 -->
+                <Panel class="hd_genaral_Background">
+                    <Panel class="hd_genaral_Background_layer2">
+                        <Panel class="hd_genaral_Background_layer3">
+                        </Panel>
+                    </Panel>
+                </Panel>
+                <Label  text="#HUD_PotionBagTitle"/>
+                <Button class="CloseButton" onactivate="OpenPotionBag();"/> 
+                <Panel id="chaotc_era_itemListPanel" hittest="true" class="">
+                    <!-- 药剂 -->
+                    <Panel id="chaotic_era_PotionList1" class="singleChaoticEraItemListBlock">
+                        <Panel class="singleItemListBlockBG"/>
+                        <Label  text="#HUD_Potion_regen"/>
+                        <Panel id="itemListBlock_regen_potion" class="singleItemListBlock_itemList">
+
+                        </Panel>
+                    </Panel>
+
+                    <Panel id="chaotic_era_ItemList2" class="singleChaoticEraItemListBlock">
+                        <Panel class="singleItemListBlockBG"/>
+                        <Label  text="#HUD_Potion_Buff"/>
+                        <Panel id="itemListBlock_buff_potion" class="singleItemListBlock_itemList">
+
+                        </Panel>
+                    </Panel>
+                </Panel>
+            </Panel>
+        </Panel>
+
+
+
+
+        <Panel id="SpellsMysteryWindowPanel" class="Visible">
+            <Button id="CloseSpellsMysteryWindowPanel" onactivate="CloseSpellsMysteryWindowPanel();">  </Button> 
+			<Label id="MysterySelectTitle" text="#DOTA_HUD_MysterySelectTitle" />
+			<!-- <Label id="DropSelectLabel" text="#DOTA_HUD_DropSelectTitle_message" /> -->
+			<Panel id="MysterySelectContainer">
+            
+			</Panel>
+    
+        </Panel>
+
+    </Panel>
+</root>

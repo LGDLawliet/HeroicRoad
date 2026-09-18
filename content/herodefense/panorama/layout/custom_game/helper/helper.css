@@ -1,0 +1,207 @@
+
+
+.HelperMenuRoot{
+    width: 100%;
+    height: 100%;
+}
+
+#helper_button{
+    width: 44px;
+    height: 44px;
+    align: right bottom;
+    margin-right: 355px;
+    margin-bottom: 15px;
+
+    background-image: url("file://{images}/custom_game/helper.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-img-opacity:0.1;
+    border: 2px solid rgba(255, 255, 255, 0.06);
+    transition-property:brightness;
+    transition-duration:0.2s;
+    z-index: 10;
+    /* padding: 20px; */
+    border-radius: 50%;
+}
+#helper_menu_background{
+    width: 100%;
+    height: 100%;
+    /* visibility: collapse; */
+    opacity: 1;
+    transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+    transition-duration: 0.20s, 0.10s, 0.05s;
+    transition-timing-function: ease-in-out;
+
+    opacity: 0.0;
+    transform: translateX( 120px )  translateY( 60px ) ;
+    pre-transform-scale2d:0.95;
+    wash-color: #33cccc;
+
+
+
+}
+
+
+#helper_menu_background.Visible{
+    /* visibility: Visible; */
+    opacity: 1;
+    transform: translateX( 0px )  translateY( 0px ) ;
+    pre-transform-scale2d:1;
+    wash-color: #fafcfc;
+}
+.Visible_helper
+{
+    /* visibility: Visible; */
+    opacity: 0;
+    transform: translateX( 0px )  translateY( 0px ) ;
+    pre-transform-scale2d:1;
+    wash-color: #fafcfc;
+}
+#helper_menu{
+    width: 80%;
+    height: 70%;
+    
+    /* background-img-opacity: 0.50; */
+    align: center center;
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 10px 0px; */
+    z-index: 0;
+    transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+    transition-duration: 0.20s, 0.10s, 0.05s;
+    transition-timing-function: ease-in-out;
+    /* box-shadow: rgb(0, 0, 0) 0px 0px 1000px 0px; */
+
+    /* background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_long2.png"); */
+    background-image: url("file://{images}/custom_game/chaotic_era/hud/helper/chaotic_helper_1.png");
+    background-size: 100% 100%;
+    background-position: 100% 100%;
+}
+
+
+.helper_button{
+    width: 65px;
+    height: 65px;
+    wash-color: #4e5152;
+}
+#helper_right_button{
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/right_arrow_double_active.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    position: 95.9% 50% 0;
+    
+}
+#helper_left_button{
+    background-image: url("file://{images}/custom_game/chaotic_era/hud/left_arrow_double_active.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    position: 0 50% 0;
+}
+.helper_root{
+    flow-children: down;
+    /* margin-left: 4px; */
+    /* margin-top: 10px; */
+    padding: 6px;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+
+#helper_id {
+    flow-children: down-wrap;
+    padding: 2px;
+    background-color: rgba(0, 0, 0, 0.99) ;
+    
+}
+
+#helper_id:hover{
+    box-shadow: rgba(154, 173, 173,0.2) 0px 0px 10px 0px;
+    brightness: 1.5;
+}
+
+#SingleSpellPictureImage{
+    width: 128px;
+    height: 128px;
+    border:2px solid rgb(48, 48, 48);
+    box-shadow: rgb(100, 100, 100)  0px 0px 3px 0px; 
+    border-bottom:0px solid rgb(48, 48, 48);
+}
+#sound_hero_name{
+    align: center center;
+    color: #e1e1e1;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    font-family:titleFont;
+    /* width: fill-parent-flow(1.0); */
+    text-overflow: shrink;
+    letter-spacing: 0.5px;
+    text-shadow: 2px 2px 0px 1.0 #00000090;
+    text-transform: uppercase;
+    font-weight: semi-bold;
+    box-shadow: rgb(20, 20, 20)  0px 0px 3px 0px; 
+    border:2px solid rgb(95, 95, 95);
+    border-top:0px solid rgb(95, 95, 95);
+}
+
+#single_sound_event{
+    width: 100%;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.1) ;
+    /* flow-children: right-wrap; */
+    border:1.5px solid rgb(54, 54, 54);
+    margin-top: 3px;
+}
+
+
+#single_sound_event_icon{
+    /* h-align: left; */
+    horizontal-align: left;
+    width: 25px;
+    height: 25px;
+    background-image: url("s2r://panorama/images/hud/reborn/icon_scoreboard_mute_sound_psd.vtex");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#single_sound_event_icon:active{
+   brightness: 1.8;
+}
+/* #single_sound_event_icon:hover{
+    brightness: 1.3;
+ } */
+#single_sound_Lable{
+    height: 80%;
+    width: 100%;
+    margin-left: 30px;
+}
+
+#single_sound_event_text{
+
+    font-family: TH Sarabun New, YDYGO 540;
+    font-size: 20px;
+    width: 100%;
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; /* 雕刻 */
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: -3px;
+    text-align: left;
+    color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+    horizontal-align: center;
+    vertical-align: middle;
+}
+.single_helper_root{
+    width: 100%;
+    /* height: 40px; */
+}
+.single_helper_root:hover{
+    brightness: 2;
+    box-shadow: rgba(63, 0, 111, 0.25) 0px 0px 10px 0px;
+}
+/* #helper_schinese_1{background-image: url("file://{images}/custom_game/chaotic_era/hud/helper/chaotic_helper_1.png"); width: 100%; height: 100%;} */
+/* #helper_schinese_2{background-image: url("file://{images}/custom_game/chaotic_era/hud/helper/dac_profile_level_progressbar_bg0.png"); width: 100%; height: 100%;}
+#helper_schinese_3{background-image: url("file://{images}/custom_game/chaotic_era/hud/helper/dotaplus_logo.png"); width: 100%; height: 100%;}
+#helper_schinese_4{background-image: url("file://{images}/custom_game/chaotic_era/hud/helper/hero_hint_backer.png"); width: 100%; height: 100%;} */

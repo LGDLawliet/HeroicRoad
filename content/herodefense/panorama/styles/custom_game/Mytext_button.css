@@ -1,0 +1,44 @@
+#Mytext_button{
+    margin-top: 510px;
+    margin-left: 115px;
+}
+
+#Mytext_buttonLabel{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    margin: 10px;
+    padding: 5px;
+    font-size: 25px;
+    background-color: #0a3552;
+    border: 2px solid #f8f7f7;
+    transition-property:border;
+    transition-duration:0.3s;
+}
+
+#Mytext_buttonLabel:hover{
+    border: 2px solid #888888;
+    
+}
+
+
+#Mytext_button2{
+    margin-top: 510px;
+    margin-left: 155px;
+}
+
+#Mytext_buttonLabel2{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    margin: 10px;
+    padding: 5px;
+    font-size: 25px;
+    background-color: #00454D;
+    border: 2px solid #444444;
+    transition-property:border;
+    transition-duration:0.3s;
+}
+
+#Mytext_buttonLabel2:hover{
+    border: 2px solid #888888;
+    
+}

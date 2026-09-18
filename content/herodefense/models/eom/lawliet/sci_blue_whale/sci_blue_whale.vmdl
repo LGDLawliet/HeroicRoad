@@ -1,0 +1,891 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc39:version{1ceecb0d-4093-4729-ab18-b76886c64cde} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "mat_scifi_beast04_armor_skin1.vmat"
+								to = "models/eom/lawliet/sci_blue_whale/sci_blue_whale_armor.vmat"
+							},
+							{
+								from = "mi_scifi_beast04_body_skin1_inst.vmat"
+								to = "models/eom/lawliet/sci_blue_whale/sci_blue_whale_body.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/eom/lawliet/sci_blue_whale/sk_scifi_beast04_skin1.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Idle1"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Idle1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 15.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Idle1_InPlace"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_IDLE_RARE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Idle1_InPlace.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 15.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Idle2"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Idle2.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Rage"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Rage.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Swim_F"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_RUN_RARE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Swim_F.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_SwimF_InPlace"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_RUN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_SwimF_InPlace.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Attack1"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Attack1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Attack2"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Attack2.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Attack3"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Attack3.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Attack4"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Attack4.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Attack5"
+						is_default_idle_anim = false
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Attack5.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_AttackShoot1"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_CAST_ABILITY_1"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_AttackShoot1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 20.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_AttackShoot2"
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_CAST_ABILITY_2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_AttackShoot2.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 15.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Death1"
+						children = 
+						[
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 14
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Giant"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+						]
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Death1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Beast4_Death2"
+						children = 
+						[
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 48
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Giant"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 55
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Light"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+						]
+						is_default_idle_anim = false
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_blue_whale/Animations/anim_SciFi_Beast4_Death2.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "ModelModifierList"
+				children = 
+				[
+					{
+						_class = "ModelModifier_ScaleAndMirror"
+						disabled = true
+						scale = 0.35
+						mirror_x = false
+						mirror_y = false
+						mirror_z = false
+						flip_bone_forward = false
+						swap_left_and_right_bones = false
+					},
+				]
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "Neck"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "Gun_roll"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_fin_front_l1"
+						parent_bone = "Fin_Front_l1"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 180.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_fin_front_r1"
+						parent_bone = "Fin_Front_r1"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_fin_back_l1"
+						parent_bone = "Fin_Back_l1"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 180.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_fin_back_r1"
+						parent_bone = "Fin_Back_r1"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_tail"
+						parent_bone = "Tail1"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_center"
+						parent_bone = "Chest1"
+						relative_origin = [ 3.432787, -43.742462, -74.74324 ]
+						relative_angles = [ 0.0, 0.0, 89.99958 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "Softbody"
+				children = 
+				[
+					{
+						_class = "ClothParams"
+						default_stretch = 1.0
+						additional_shear_stretch = 0.186
+						extra_iterations = 0
+						extra_goal_iterations = 0
+						extra_pressure_iterations = 0
+						goal_strength_bias = 0.4
+						default_gravity_scale = 1.0
+						default_vel_air_drag = 1.0
+						default_exp_air_drag = 1.0
+						velocity_smooth_rate = 1.0
+						internal_pressure = 0.0
+						windage = 0.0
+						wind_drag = 0.0
+						velocity_smooth_iterations = 1
+						default_ground_friction = 0.0
+						default_world_collision_penetration = 0.0
+						add_world_collision_radius = 2.0
+						local_force = 1.0
+						local_rotation = 0.0
+						add_curvature = 1.0
+						quad_bend_tolerance = 0.05
+						local_drag1 = 0.0
+						follow_the_lead = true
+						use_per_node_local_force_and_rotation = false
+						uninertial_rods = false
+						explicit_masses = false
+						unitless_damping = true
+						force_world_collision_on_all_nodes = false
+						new_style = true
+						can_collide_with_world_hulls = true
+						can_collide_with_world_meshes = true
+						can_collide_with_world_capsule_and_spheres = true
+						add_stiffness_rods = true
+						rigid_edge_hinges = false
+						add_bend_only_rods = false
+						immovable = false
+					},
+				]
+				stiffness_on_ragdoll = 0.0
+				motion_smooth_cdt = 0.0
+				cloth_sleep_enabled = false
+				cloth_immovable_hint = false
+				cloth_per_bone_scale_enabled = false
+				cloth_enable_empty_model = false
+				cloth_keychain_motion = false
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						disabled = true
+						game_class = "particle"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_dragon/fx/maintenance_ambientb.vpcf"
+							attachment_point = "attach_fin_back_l1"
+							attachment_type = "point_follow"
+							attachment_offset = null
+						}
+					},
+					{
+						_class = "GenericGameData"
+						disabled = true
+						game_class = "particle"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_dragon/fx/maintenance_ambientb.vpcf"
+							attachment_point = "attach_fin_front_l1"
+							attachment_type = "point_follow"
+							attachment_offset = null
+						}
+					},
+					{
+						_class = "GenericGameData"
+						disabled = true
+						game_class = "particle"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_dragon/fx/maintenance_ambientb.vpcf"
+							attachment_point = "attach_fin_front_r1"
+							attachment_type = "point_follow"
+							attachment_offset = null
+						}
+					},
+					{
+						_class = "GenericGameData"
+						disabled = true
+						game_class = "particle"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_dragon/fx/maintenance_ambientb.vpcf"
+							attachment_point = "attach_fin_back_r1"
+							attachment_type = "point_follow"
+							attachment_offset = null
+						}
+					},
+					{
+						_class = "GenericGameData"
+						disabled = true
+						game_class = "particle"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_blue_whale/fx/ambient_cloud/effect.vpcf"
+							attachment_point = "attach_hitloc"
+							attachment_type = "point_follow"
+							attachment_offset = null
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "particle_cfg"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_blue_whale/fx/ambient_cloud/effect.vpcf"
+							config = "preview"
+						}
+					},
+					{
+						_class = "GenericGameData"
+						disabled = true
+						game_class = "particle_cfg"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_blue_whale/fx/ambient_ring/effect.vpcfhead_ring.vpcf"
+							config = "preview"
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "particle_cfg"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_blue_whale/fx/ambient_ring/effect.vpcfhead_ring.vpcf"
+							config = "game"
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "particle_cfg"
+						game_keys = 
+						{
+							name = resource:"models/eom/lawliet/sci_blue_whale/fx/ambient_ring/effect.vpcfhead_ring.vpcf"
+							config = "Config 3"
+						}
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "Fin_Front_l"
+								parent_bone = "Fin_Front_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -6.363014, -7.577744, -25.971153 ]
+								hitbox_maxs = [ 79.0681, 8.251175, 27.256195 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Fin_Front_r"
+								parent_bone = "Fin_Front_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -79.068016, -8.251038, -27.256203 ]
+								hitbox_maxs = [ 6.363075, 7.57785, 25.971153 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Spine1"
+								parent_bone = "Spine1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -78.798065, -87.219894, -102.5672 ]
+								hitbox_maxs = [ 78.800964, 90.782654, 32.024261 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Spine2"
+								parent_bone = "Spine2"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -25.807266, -84.877411, -71.210236 ]
+								hitbox_maxs = [ 158.020355, 84.877579, 71.838913 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Spine3"
+								parent_bone = "Spine3"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -19.057838, -57.931759, -64.738861 ]
+								hitbox_maxs = [ 62.225189, 56.375668, 53.299118 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail"
+								parent_bone = "Tail"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -49.331207, -46.412376, -64.738892 ]
+								hitbox_maxs = [ 69.619583, 46.412743, 44.742096 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail1"
+								parent_bone = "Tail1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -59.748123, -46.412376, -89.233231 ]
+								hitbox_maxs = [ 87.975494, 46.41275, 35.391312 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Fin_Back_r"
+								parent_bone = "Fin_Back_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -49.898781, -5.029556, -17.646179 ]
+								hitbox_maxs = [ 3.910767, 4.549301, 16.712646 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Fin_Back_l"
+								parent_bone = "Fin_Back_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.91029, -4.548965, -16.712585 ]
+								hitbox_maxs = [ 49.899109, 5.029999, 17.64621 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail2"
+								parent_bone = "Tail2"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -25.315369, -34.461708, -30.296661 ]
+								hitbox_maxs = [ 91.303619, 34.462166, 33.297897 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail3"
+								parent_bone = "Tail3"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -21.74234, -26.265007, -25.521225 ]
+								hitbox_maxs = [ 69.190613, 26.26495, 25.284302 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail4"
+								parent_bone = "Tail4"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -27.209198, -20.829123, -20.724594 ]
+								hitbox_maxs = [ 58.919495, 20.829248, 21.711212 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail5"
+								parent_bone = "Tail5"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -21.907166, -16.289968, -20.637276 ]
+								hitbox_maxs = [ 46.065979, 16.289881, 17.066879 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail6"
+								parent_bone = "Tail6"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -15.992615, -13.996738, -16.659821 ]
+								hitbox_maxs = [ 43.23645, 13.997101, 13.202103 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Tail7"
+								parent_bone = "Tail7"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -22.04834, -16.400063, -13.965515 ]
+								hitbox_maxs = [ 73.541809, 16.400517, 13.998386 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Neck"
+								parent_bone = "Neck"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -78.292908, -78.045288, -51.340744 ]
+								hitbox_maxs = [ 78.292358, 72.205414, 78.169739 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Head"
+								parent_bone = "Head"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -60.123531, -70.319283, -75.285522 ]
+								hitbox_maxs = [ 141.912506, 70.319054, 66.98024 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Gun1"
+								parent_bone = "Gun1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -17.919027, -17.981216, -0.608963 ]
+								hitbox_maxs = [ 17.916792, 17.872681, 59.011818 ]
+							},
+						]
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

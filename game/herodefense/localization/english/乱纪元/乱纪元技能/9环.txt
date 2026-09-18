@@ -1,0 +1,451 @@
+
+
+
+"DOTA_Tooltip_ability_chaotic_foresigh"	"Foresigh"
+"DOTA_Tooltip_ability_chaotic_foresigh_Description"	"You touch a willing creature, granting it limited precognitive abilities to foresee upcoming events. The target gains an evasion effect and an increased likelihood of enhanced probability events during the spell's duration. Additionally, the target's initial damage instances will inflict additional damage."
+"DOTA_Tooltip_ability_chaotic_foresigh_Lore"	"Most of those claiming to predict the future on the streets are charlatans. Prophecy spells are generally highly mana-consuming, and the most powerful ones are within the reach of only a select few."
+
+
+
+"DOTA_Tooltip_ability_chaotic_foresigh_bonus_evasion"	"%Evasion Bonus:"
+"DOTA_Tooltip_ability_chaotic_foresigh_bonus_trigger"	"%Probability Event Trigger AMP:"
+"DOTA_Tooltip_ability_chaotic_foresigh_count"	"Bonus Damage Chance:"
+"DOTA_Tooltip_ability_chaotic_foresigh_bonus_damage"	"%Bonus Final Damage:"
+"DOTA_Tooltip_ability_chaotic_foresigh_duration"	"Duration:"
+
+
+"DOTA_Tooltip_modifier_chaotic_foresigh"                   "Foresigh"
+"DOTA_Tooltip_modifier_chaotic_foresigh_Description"       "Increase evasion by %dMODIFIER_PROPERTY_TOOLTIP%%, Probability Event Trigger AMP increased by %dMODIFIER_PROPERTY_TOOLTIP%%, and final damage  increased by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_foresigh_rune_1"              "Destiny Quest"
+"DOTA_Tooltip_ability_chaotic_foresigh_rune_1_Description"  "Each time you deal damage, there is a %rune_1_chance%%% chance to restore %rune_1_count% stacks of additional damage opportunity"
+"HUD_Spell_Rune_chaotic_foresigh_cooldown_time" "Cooldown Time"
+
+
+"DOTA_Tooltip_ability_chaotic_foresigh_rune_2"              "Herald Liberation"
+"DOTA_Tooltip_ability_chaotic_foresigh_rune_2_Description"  "Simultaneously affects targets count increased by %rune_2_bonus%"
+
+
+
+"DOTA_Tooltip_ability_chaotic_power_word_heal"	"Power Word Heal"
+"DOTA_Tooltip_ability_chaotic_power_word_heal_Description"	"A wave of healing energy envelops the creatures you touch, restoring all their injuries. Additionally, for a duration, they receive a continuous strong dispel. Regardless of their condition, they will receive healing equal to their injuries during this time."
+"DOTA_Tooltip_ability_chaotic_power_word_heal_Lore"	"This is a high-level magic spell that imbues text with powerful magical energy, turning it into a spoken spell. Under the effects of this magic, any injury or damage can be instantly and completely healed."
+
+"DOTA_Tooltip_ability_chaotic_power_word_heal_interval"	"Trigger Interval:"
+"DOTA_Tooltip_ability_chaotic_power_word_heal_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_power_word_heal_cast_range"	"Cast Range:"
+
+"HUD_Spell_Rune_chaotic_power_word_heal_cooldown_time" "Cooldown Time"
+
+
+"DOTA_Tooltip_modifier_chaotic_power_word_heal"                   "Power Word Heal"
+"DOTA_Tooltip_modifier_chaotic_power_word_heal_Description"       "Gain continuous dispel and healing effects." 
+
+
+"DOTA_Tooltip_ability_chaotic_power_word_heal_rune_1"              "Death Resist"
+"DOTA_Tooltip_ability_chaotic_power_word_heal_rune_1_Description"  "During the spell's duration, the target can trigger a recovery effect when taking fatal damage, but it will consume %rune_1_cost% seconds of the duration."
+
+
+"DOTA_Tooltip_ability_chaotic_power_word_heal_rune_2"              "Energy Burst"
+"DOTA_Tooltip_ability_chaotic_power_word_heal_rune_2_Description"  "After each healing, converts the accumulated healing amount into %rune_2_bonus%%% magical damage, affecting enemies within a %rune_2_radius% radius around the target"
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_invulnerability"	"Invulnerability"
+"DOTA_Tooltip_ability_chaotic_invulnerability_Description"	"Holy energy envelops you for a duration. In the first few seconds, you become immune to all damage except instant death, and your various attributes receive a boost, with a significant increase in your main attribute."
+"DOTA_Tooltip_ability_chaotic_invulnerability_Lore"	"This is one of the most exaggerated spells. In the face of this spell, any damage is rendered useless. The only drawback is that you cannot grant this state to your teammates."
+
+"DOTA_Tooltip_ability_chaotic_invulnerability_invulnerability_duration"	"the time of invincibility:"
+"DOTA_Tooltip_ability_chaotic_invulnerability_bonus_attribute"	"Secondary Attribute Bonus:"
+"DOTA_Tooltip_ability_chaotic_invulnerability_bonus_primary_attribute"	"Primary Attribute Bonus:"
+"DOTA_Tooltip_ability_chaotic_invulnerability_duration"	"Duration:"
+
+
+"HUD_Spell_Rune_chaotic_invulnerability_cooldown_time" "Cooldown Time"
+
+"DOTA_Tooltip_modifier_chaotic_invulnerability"                   "Invulnerability"
+"DOTA_Tooltip_modifier_chaotic_invulnerability_Description"       "Primary Attribute increased by %dMODIFIER_PROPERTY_TOOLTIP%,Secondary Attribute increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+"DOTA_Tooltip_modifier_chaotic_invulnerability2"                   "Invulnerability"
+"DOTA_Tooltip_modifier_chaotic_invulnerability2_Description"       "" 
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_meteor_swarm"	"Meteor Burst"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_Description"	"Guides blazing meteors to strike different locations you continuously specify, dealing devastating damage to enemies around the impact points, but each enemy can only be hit by one meteor.<br><br>After the first release of the ability, you need to specify the remaining areas within the next %time_require% seconds. If you do not fully specify the areas, each unselected meteor reduces the skill cooldown time by %cooldown_reduction%%% but cannot reduce it by more than %cooldown_reduction_max%%%."
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_Lore"	"The principle of this spell involves manipulating gravity in a particular direction within a region, attracting asteroids from outside the planet to crash onto targeted locations with great destructive power. However, there are occasional embarrassing situations where no asteroids can be summoned in a certain direction."
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_base_damage"	"☆Base Damage:"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_bonus_damage"	"☆Extra Damage: Primary Attribute x"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_burn_base_damage"	"☆Burn Base Damage:"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_burn_bonus_damage"	"☆Burn Extra Damage: Primary Attribute x"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_burn_duration"	"Burn Duration:"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_radius"	"Single Meteor Radius:"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_count"	"Meteor Count:"
+"DOTA_Tooltip_modifier_chaotic_meteor_swarm_buff"                   "Remaining Meteors"
+"HUD_Spell_Rune_chaotic_meteor_swarm_cooldown_reduction"                   "Cooldown Reduction per Remaining Meteor"
+"DOTA_Tooltip_modifier_chaotic_meteor_swarm_debuff_burn"                   "Meteor Burst Burn"
+"DOTA_Tooltip_modifier_chaotic_meteor_swarm_debuff_burn_Description"       "Sustained Damage"
+
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_rune_1"              "Immortal I: Extinction Cataclysm"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_rune_1_Description"  "Each overlapping meteor increases the damage in the area by %rune_1_damage_stack%%% [+]."
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_rune_2"              "Immortal II: End of the Century"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_rune_2_Description"  "Meteor damage is increased by %rune_2_damage%%% [×], and the radius is increased by %rune_2_radius%%% [×]."
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_rune_3"              "Immortal III: Meteor Shower"
+"DOTA_Tooltip_ability_chaotic_meteor_swarm_rune_3_Description"  "Meteor damage is increased by %rune_3_damage%%% [×], but the number of meteors increases by %rune_3_count%."
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_true_resurrection"	"True Resurrection"
+"DOTA_Tooltip_ability_chaotic_true_resurrection_Description"	"When reviving a teammate through the normal process, you can instantly resurrect the target, and the target will not enter a weakened state. The required resurrection time for the target is converted into the cooldown time of this skill. As long as the cooldown time is not greater than a certain value, you can revive the next teammate."
+"DOTA_Tooltip_ability_chaotic_true_resurrection_Lore"	"This spell has the ability to heal all fatal wounds, neutralize any toxins and diseases, and remove all curses previously inflicted. The spell can even restore damaged or lost organs and limbs. If the subject's body no longer exists, the spell is powerful enough to create a new body for it."
+"DOTA_Tooltip_ability_chaotic_true_resurrection_Note0"	"Note: This effect is not triggered through the Phoenix's rebirth process."
+
+"DOTA_Tooltip_ability_chaotic_true_resurrection_cooldown_rate"	"%Cooldown Time Chance Rate:"
+"DOTA_Tooltip_ability_chaotic_true_resurrection_cooldown_fixed"	"Base Cooldown Time:"
+"DOTA_Tooltip_ability_chaotic_true_resurrection_wave_time_fix"	"%Reduction in self-weakening duration:"
+"DOTA_Tooltip_ability_chaotic_true_resurrection_max_cooldown_index"	"Max Cooldown Time:"
+
+
+"DOTA_Tooltip_ability_chaotic_true_resurrection_rune_1"              "Potent Respawn"
+"DOTA_Tooltip_ability_chaotic_true_resurrection_rune_1_Description"  "The target, upon being resurrected, gains %rune_1_bonus%%% damage reduction for %rune_1_duration% seconds."
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_true_resurrection_rune_1_buff"                   "Potent Respawn"
+"DOTA_Tooltip_modifier_chaotic_true_resurrection_rune_1_buff_Description"       "damage reduction increased by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_time_stop"	"Time Stop"
+"DOTA_Tooltip_ability_chaotic_time_stop_Description"	"<font color='#E6E6FA'>Consumes all remaining mana to extend duration</font>, halts the flow of time in the world's surface, stopping all units except yourself from acting. Stopped units cannot regenerate health, cannot deal damage, and take significantly increased damage."
+"DOTA_Tooltip_ability_chaotic_time_stop_Lore"	"Manipulating time is dangerous, as it means you will bear a tremendous burden."
+"DOTA_Tooltip_ability_chaotic_time_stop_Note0"	"<font color='#606060'>The time of the First Demon God Baal will not be stopped, but it still suffers from other effects.</font>"
+"DOTA_Tooltip_ability_chaotic_time_stop_incoming"	"% Increased Damage Taken:"
+"DOTA_Tooltip_ability_chaotic_time_stop_mana_to_duration"	"Every 100 mana consumed extends duration by:"
+"DOTA_Tooltip_ability_chaotic_time_stop_duration_max"	"Maximum Duration:"
+"DOTA_Tooltip_ability_chaotic_time_stop_duration"	"Base Duration:"
+"DOTA_Tooltip_modifier_chaotic_time_stop_aura"                   "Time Stop"
+
+"DOTA_Tooltip_ability_chaotic_time_stop_rune_1"              "Immortal I: Time Raider"
+"DOTA_Tooltip_ability_chaotic_time_stop_rune_1_Description"  "No longer stops allies' time, and units that die during Time Stop restore %rune_1_mp%%% of your maximum mana"
+"DOTA_Tooltip_ability_chaotic_time_stop_rune_2"              "Immortal II: Sea of Stone"
+"DOTA_Tooltip_ability_chaotic_time_stop_rune_2_Description"  "No longer consumes all mana to extend duration, and during Time Stop, other allied heroes are immune to damage, immune to poison status, and continuously forcibly dispelled from monster debuffs"
+"DOTA_Tooltip_ability_chaotic_time_stop_rune_3"              "Immortal III: Rift Devourer"
+"DOTA_Tooltip_ability_chaotic_time_stop_rune_3_Description"  "Enemies stopped by Time Stop are slain when their health falls below %rune_3_line%%% "
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_wish"	"Wish"
+"DOTA_Tooltip_ability_chaotic_wish_Description"	"Gain additional options when generating ability and additional item options when refreshing the shop. Also, receive a slight bonus to get gold."
+"DOTA_Tooltip_ability_chaotic_wish_Lore"	"The wish spell is the mightiest enchantment that mortal beings can cast, granting you the power to fulfill your desires. However, be wary, for these wishes are not without limits. If you wish for something unattainable, it may recoil upon thee."
+"DOTA_Tooltip_ability_chaotic_wish_bonus_spell_count"	"Number of Additional Abilities:"
+"DOTA_Tooltip_ability_chaotic_wish_bonus_item_count"	"Number of Additional Items:"
+"DOTA_Tooltip_ability_chaotic_wish_bonus_rune"	"%Gold bonus:"
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_chop_soul"	"Chop Soul"
+"DOTA_Tooltip_ability_chaotic_chop_soul_Description"	"Passive effect: Your attacks can ignore the target's armor and inflict additional damage based on the target's maximum health. However, the maximum value of the additional damage is related to your base attack damage."
+"DOTA_Tooltip_ability_chaotic_chop_soul_Lore"	"An attack that strikes directly at the soul, making it difficult for even the strongest defenses to escape unscathed."
+"DOTA_Tooltip_ability_chaotic_chop_soul_armor_reduction"	"Armor Igonore:"
+"DOTA_Tooltip_ability_chaotic_chop_soul_bonus_damage"	"Bonus Damage: Target Max Health x"
+"DOTA_Tooltip_ability_chaotic_chop_soul_bonus_damage_max"	"%Max Bonus Damage: Self Base ATK x"
+
+
+
+"DOTA_Tooltip_ability_chaotic_chop_soul_rune_1"              "Soul Cancellation"
+"DOTA_Tooltip_ability_chaotic_chop_soul_rune_1_Description"  "When automatic casting is enabled, you can consume %rune_1_health_cost%%% of your current health with each attack, gaining a damage boost equal to %rune_1_gain%%%."
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_time_cleave"	"Time Slash"
+"DOTA_Tooltip_ability_chaotic_time_cleave_Description"	"A ring of sword energy emanates outward, stunning all nearby enemies for %duration% seconds. During this time, they are unable to move, attack, or cast abilities. Additionally, it reduces the armor of affected enemies for a certain duration. After the stun ends, it inflicts damage on the affected targets. You can activate this ability once every few attacks."
+"DOTA_Tooltip_ability_chaotic_time_cleave_Lore"	"A slash that can cut through time, instantly severing the connection between the enemy and time, rendering their defenses ineffective."
+"DOTA_Tooltip_ability_chaotic_time_cleave_radius"	"Effect Radius:"
+"DOTA_Tooltip_ability_chaotic_time_cleave_armor_reduction"	"Armor Reduction:"
+"DOTA_Tooltip_ability_chaotic_time_cleave_bonus_damage"	"Damage:Full ATK x"
+"DOTA_Tooltip_ability_chaotic_time_cleave_stack_require"	"Attack Count:"
+
+"DOTA_Tooltip_modifier_chaotic_time_cleave_passive"                   "Time Slash"
+"DOTA_Tooltip_modifier_chaotic_time_cleave_passive_Description"       "The ability can be triggered after attacking %dMODIFIER_PROPERTY_TOOLTIP% times." 
+
+"DOTA_Tooltip_modifier_chaotic_time_cleave_debuff"                   "Time Slash"
+"DOTA_Tooltip_modifier_chaotic_time_cleave_debuff_Description"       "Armor reduced by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"HUD_Spell_Rune_chaotic_time_cleave_duration"  "Shock Time"
+
+"DOTA_Tooltip_ability_chaotic_time_cleave_rune_1"              "Time Storage"
+"DOTA_Tooltip_ability_chaotic_time_cleave_rune_1_Description"  "The stored attack count can exceed the required number, and releasing the ability no longer resets the stored count."
+
+"DOTA_Tooltip_ability_chaotic_time_cleave_rune_2"              "Time Cutoff"
+"DOTA_Tooltip_ability_chaotic_time_cleave_rune_2_Description"  "Each cast can advance the spawn time of all non-single-summon creatures in the current summoning queue by %rune_2_duration% seconds,but its cant deal control effect or armor-reduce."
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou"	"Getsuga Tenshou"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_Description"	"Slash a sword qi in the specified direction, knocking back enemies and dealing massive damage. When the sword qi kills an enemy, it returns a portion of its cooldown time, and if it's a melee hero, it also increases the hero's attack power for a duration."
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_Lore"	"All beings possess magical power. However, compared to magic, martial arts use another method to channel magical power, thus presenting completely different properties. This is akin to the wave-particle duality of light, representing the dual nature of magical power. Moonlight Heaven Rush is a typical move that channels magical power through martial arts. Under the ultimate refinement of mental strength, vitality and magical power blend perfectly together, culminating in a flawless strike that slices through the night sky."
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_Note0"	"<font color='#606060'>The kill effect does not trigger when the cooldown is less than %cooldown_min% seconds.</font>"
+"HUD_Spell_Rune_chaotic_getsuga_tenshou_damage" "Base Damage"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_distance"	"Sword Qi Distance:"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_repel_distance"	"Knockback Distance:"
+//"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_move_speed_reduction"	"Movement Speed Slow:"
+//"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_debuff_duration"	"Movement Speed Slow Duration:"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_bonus_damage"	"Base Damage:"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_bonus_damage"	"Additional Damage: Primary Attribute x"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_cooldown_reduction"	"Cool Down Return Time Upon Kill:"
+
+//"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_bonus_attack_range"	"Attack Range Bonus:"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_bonus_attack_damage"	"Attack Power Bonus:"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_buff_duration"	"Attack Power Bonus Duration:"
+
+//"DOTA_Tooltip_modifier_chaotic_getsuga_tenshou_debuff"                   "Moonlight Heaven Rush"
+//"DOTA_Tooltip_modifier_chaotic_getsuga_tenshou_debuff_Description"       "Movement Speed Slow %dMODIFIER_PROPERTY_TOOLTIP%"
+"DOTA_Tooltip_modifier_chaotic_getsuga_tenshou_buff"                   "Moonlight Heaven Rush"
+"DOTA_Tooltip_modifier_chaotic_getsuga_tenshou_buff_Description"       "Attack Power Increase %dMODIFIER_PROPERTY_TOOLTIP% Points"
+
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_rune_1"              "Immortal I: Limit Break Rush"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_rune_1_Description"  "The kill effect can trigger even when the cooldown is less than %cooldown_min% seconds."
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_rune_2"              "Immortal II: Air Sweep"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_rune_2_Description"  "The sword qi distance becomes infinite."
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_rune_3"              "Immortal III: Cut Through Dimensions · Void"
+"DOTA_Tooltip_ability_chaotic_getsuga_tenshou_rune_3_Description"  "If holding 'Present Cut', apply 'Present Cut' before dealing damage; otherwise, increase damage by %rune_3_damage%%% [×]."
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world"	"Returning to the Mortal World"
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_Description"	"Special ability, cannot be sold, grants multiple chances of resurrection. Each resurrection grants an increase in all attributes and base attack damage. After the final return to the mortal realm, you will gain damage reduction and bonus final damage. However, when you run out of chances and die again, all the benefits from this ability will be lost, and you will lose a significant amount of all attributes."
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_Lore"	"The flow of magic is generally a cycle, of course, there are ways to disrupt this cycle. When the circulation of magic is broken, it can be sustained in a specific area for an extended period. However, this method comes with consequences. Although you gain a resilient physique and vitality, you lose any retreat. When the magic becomes chaotic, you lose even more."
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_respawn_chance"	"Respawn Chance:"
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_bonus_all_attribute"	"Bonus All Attribute:"
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_bonus_attack_damage"	"Bonus Base ATK:"
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_damage_reduction"	"%Damage Reduction:"
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_total_damage"	"%Bonus Final Damage:"
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_all_attribute_reduction"	"All Attribute Reduction:"
+
+"DOTA_Tooltip_modifier_chaotic_returning_to_the_mortal_world"                   "Returning to the Mortal World"
+"DOTA_Tooltip_modifier_chaotic_returning_to_the_mortal_world_Description"       "You can respawn %dMODIFIER_PROPERTY_TOOLTIP% times" 
+
+
+
+"DOTA_Tooltip_modifier_chaotic_returning_to_the_mortal_world_buff"                   "Returning to the Mortal World"
+"DOTA_Tooltip_modifier_chaotic_returning_to_the_mortal_world_buff_Description"       "All attributes increased by %dMODIFIER_PROPERTY_TOOLTIP%, base attack damage increased by %dMODIFIER_PROPERTY_TOOLTIP%, damage reduction increased by %dMODIFIER_PROPERTY_TOOLTIP%%%, final damage increassed by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+"DOTA_Tooltip_modifier_chaotic_returning_to_the_mortal_world_debuff"                   "Returning to the Mortal World"
+"DOTA_Tooltip_modifier_chaotic_returning_to_the_mortal_world_debuff_Description"       "All attributes reduced by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_rune_1"              "Indestructible"
+"DOTA_Tooltip_ability_chaotic_returning_to_the_mortal_world_rune_1_Description"  "No longer incurs penalties beyond the death limit."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element"	"Spirit Summon: Source Lightning Element Orb"
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_Description"	"Create a Source Lightning Elemental Orb that releases a level 6 Chain Lightning to the aggro target at regular intervals."
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_Lore"	"The elemental source is an extremely rare elemental body, only occasionally found in extremely natural environments. Today, we are going to learn about the initial history of the Empire's covenant with the elemental source. Among all of you present, only less than one percent of students can reach the level of being able to form a contract with it. However, remember, even if you cannot summon the elemental source, your knowledge can help you achieve victory when facing it as an enemy. - Classroom of Imperial Magic History"
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_Note0"	"Note: Skills cast with this ability use attack damage as damage instead of the primary attribute."
+
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_base_damage"	"☆Base Attack Damage:"
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_bonus_damage"	"%Attack Damage Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_bonus_health"	"%Health Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_bonus_armor"	"%Armor Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_interval"	"Spell Interval:"
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_duration"	"Duration:"
+
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_max_count"	"Maximum Summon Count:"
+
+
+"DOTA_Tooltip_modifier_chaotic_summon_advanced_lightning_sphere_element_buff"              "Lightning Orb"
+"DOTA_Tooltip_modifier_chaotic_summon_advanced_lightning_sphere_element_buff_Description"  "It can cast the spell for each %1fMODIFIER_PROPERTY_TOOLTIP% seconds"
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_rune_1"              "Overcharge"
+"DOTA_Tooltip_ability_chaotic_summon_advanced_lightning_sphere_element_rune_1_Description"  "You can enable automatic casting, consuming %rune_1_bonus%%% of your current mana. For every %rune_1_require% mana consumed, the interval between the casting reduced by %rune_1_reduce% seconds, with a maximum additional cost of %rune_1_max_cost% mana."
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive"	"Spirit Summon: Chaos Executor"
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_Description"	"Summon the Executor, possessing an extremely long range. It can unleash the level 7 Ruby Reverse Radiation against enemies, but it can only target a single target."
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_Lore"	"Having a high vitality elemental body, it itself does not possess much offensive capability. It can weaken enemies from an extremely long distance. This type of elemental is often seen in evil alignments. - Classroom of Imperial Magic History"
+
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_base_health"	"☆Base Health:"
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_bonus_damage"	"%Attack Damage Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_bonus_health"	"%Health Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_bonus_armor"	"%Armor Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_interval"	"Spell Interval:"
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_interval_reduction"	"Reduce the Interval with each 4000 Health:"
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_min_interval"	"Min Interval:"
+
+
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_duration"	"Duration:"
+
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_max_count"	"Maximum Summon Count:"
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_rune_1"              "Intense Ray"
+"DOTA_Tooltip_ability_chaotic_summon_chaotic_executive_rune_1_Description"  "The beam gains a %rune_1_bonus%%% effect bonus."
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto"	"Indenture Summon: Sword Spirit of Miyamoto"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_Description"	"Summon the Sword Spirit from Miyamoto, possessing extremely fast attack speed and having two skills:Chaotic-BladeDance and Chaotic-GreatGrave."
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_Lore"	"In the magical history of the empire, any weapon, as long as it possesses intelligence, is called an intelligent weapon. However, such weapons are extremely rare. Although advanced blacksmiths can imbue their forged weapons with this property, people have always been searching for naturally attuned weapons."
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_base_health"	"☆Base Health"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_base_armor"	"☆Base Armor:"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_base_damage"	"☆Base Attack Damage:"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_bonus_damage"	"%Attack Damage Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_bonus_health"	"%Health Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_bonus_armor"	"%Armor Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_bonus_gain"	"%Effect Gain:"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_max_count"	"Maximum Summon Count:"
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_rune_1"              "Sword Saint Inheritance"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_rune_1_Description"  "The Sword Spirit gains a %rune_1_bonus%%% cooldown reduction."
+
+
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_rune_2"              "Newly Comprehended"
+"DOTA_Tooltip_ability_chaotic_summon_spirit_of_miyamoto_rune_2_Description"  "The Spirit learns a new ability [Kalia swordcraft]"
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_overcharge"	"Overcharge"
+"DOTA_Tooltip_ability_chaotic_overcharge_Description"	"Channel energy into yourself and the nearest allied hero, granting both damage amplification [×] and damage reduction. The effect is stronger on other allied heroes."
+"DOTA_Tooltip_ability_chaotic_overcharge_Lore"	"The chaotic flow of time and space has caused skills to mutate."
+"DOTA_Tooltip_ability_chaotic_overcharge_outgoing_mult"	"% Total Damage Increase:"
+"DOTA_Tooltip_ability_chaotic_overcharge_incoming"	"% Damage Reduction:"
+"DOTA_Tooltip_ability_chaotic_overcharge_ally_index"	"% Effect Multiplier for Other Allied Heroes:"
+"DOTA_Tooltip_ability_chaotic_overcharge_duration"	"Duration:"
+"DOTA_Tooltip_modifier_chaotic_overcharge_active"	"Overcharge"
+"DOTA_Tooltip_modifier_chaotic_overcharge_active_Description"	"Increased damage dealt, reduced damage taken"
+"DOTA_Tooltip_modifier_chaotic_overcharge_active_ally"	"Overcharge"
+"DOTA_Tooltip_modifier_chaotic_overcharge_active_ally_Description"	"Increased damage dealt, reduced damage taken"
+"DOTA_Tooltip_modifier_chaotic_overcharge_active_rune1"	"Valiant Hymn"
+"DOTA_Tooltip_modifier_chaotic_overcharge_active_rune1_Description"	"This harmless blue light grants you additional attack power and skill enhancement."
+"DOTA_Tooltip_ability_chaotic_overcharge_rune_1"              "Immortal I: Valiant Hymn"
+"DOTA_Tooltip_ability_chaotic_overcharge_rune_1_Description"  "Emits an aggressive-looking blue glow, granting you and the nearest %rune_1_max% allied heroes within range %rune_1_bonus%%% of full attack power and total skill enhancement increase. The duration is equal to %rune_1_duration%%% of the 'Overcharge' duration."
+"DOTA_Tooltip_ability_chaotic_overcharge_rune_2"              "Immortal II: None"
+"DOTA_Tooltip_ability_chaotic_overcharge_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_overcharge_rune_3"              "Immortal III: None"
+"DOTA_Tooltip_ability_chaotic_overcharge_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_element_ice"	"Elemental Orb: Ice"
+"DOTA_Tooltip_ability_chaotic_element_ice_Description"	"Passively gain armor, mana regeneration, and cooldown reduction, while increasing the ice damage you deal [×]."
+"DOTA_Tooltip_ability_chaotic_element_ice_Lore"	"One of the three origins of Invoker."
+"DOTA_Tooltip_ability_chaotic_element_ice_outgoing_ice"	"% Increased Ice Damage:"
+"DOTA_Tooltip_ability_chaotic_element_ice_bonus_armor"	"Bonus Armor:"
+"DOTA_Tooltip_ability_chaotic_element_ice_bonus_mana_regen"	"Bonus Mana Regeneration:"
+"DOTA_Tooltip_ability_chaotic_element_ice_bonus_cds"	"% Bonus Cooldown Reduction:"
+"DOTA_Tooltip_ability_chaotic_element_ice_rune_1"	"Immortality I: Frost Magic Concentration"
+"DOTA_Tooltip_ability_chaotic_element_ice_rune_1_Description"	"Each ice-type ability increases your damage reduction by %rune_1_incoming%%% and maximum mana by %rune_1_mana%"
+"DOTA_Tooltip_ability_chaotic_element_ice_rune_2"              "Immortal II: None"
+"DOTA_Tooltip_ability_chaotic_element_ice_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_element_ice_rune_3"              "Immortal III: None"
+"DOTA_Tooltip_ability_chaotic_element_ice_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_static_storm"	"Static Storm"
+"DOTA_Tooltip_ability_chaotic_static_storm_Description"	"Triggers a gradually intensifying storm at the target location, applying <font color='#6481d9'>Elecshocking</font> and dealing lightning damage to enemies inside each second. Damage increases over the storm's duration."
+"DOTA_Tooltip_ability_chaotic_static_storm_Lore"	"The Disruptor's magical nature allows him to control storms anytime, anywhere."
+"DOTA_Tooltip_ability_chaotic_static_storm_radius"	"Range:"
+"DOTA_Tooltip_ability_chaotic_static_storm_grow"	"% Damage increase per second:"
+"DOTA_Tooltip_ability_chaotic_static_storm_elecshocking"	"% Elecshocking application per second:"
+"DOTA_Tooltip_ability_chaotic_static_storm_damage"	"Base Damage:"
+"DOTA_Tooltip_ability_chaotic_static_storm_bonus_damage"	"Bonus Damage: Primary Attribute ×"
+"DOTA_Tooltip_ability_chaotic_static_storm_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_static_storm_rune_1"              "Immortal I: Unstable Storm"
+"DOTA_Tooltip_ability_chaotic_static_storm_rune_1_Description"  "The damage from Static Storm becomes random, ranging from a minimum of 1 point to a maximum of %rune_1_max%%% of the original value. When 1 point or the maximum damage is dealt, Static Storm immediately refreshes."
+"DOTA_Tooltip_ability_chaotic_static_storm_rune_2"              "Immortal II: Unavailable"
+"DOTA_Tooltip_ability_chaotic_static_storm_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_static_storm_rune_3"              "Immortal III: Unavailable"
+"DOTA_Tooltip_ability_chaotic_static_storm_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_shapeshift"	"Wolf Form"
+"DOTA_Tooltip_ability_chaotic_shapeshift_Description"	"Transform into Wolf Form, gaining a large bonus to base attack damage, evasion, and critical strike damage.<br><br>Killing enemies in Wolf Form extends the duration by %bonus% seconds."
+"DOTA_Tooltip_ability_chaotic_shapeshift_Lore"	"The chaos of spacetime warps abilities."
+"DOTA_Tooltip_ability_chaotic_shapeshift_attack"	        "Base Attack Damage Bonus:"
+"DOTA_Tooltip_ability_chaotic_shapeshift_evasion"	    "%Evasion Bonus:"
+"DOTA_Tooltip_ability_chaotic_shapeshift_crit"	            "%Critical Strike Damage Bonus:"
+"DOTA_Tooltip_ability_chaotic_shapeshift_duration"	        "Initial Duration:"
+"DOTA_Tooltip_modifier_chaotic_shapeshift_transform"	"Wolf Form"
+"DOTA_Tooltip_modifier_chaotic_shapeshift_transform_Description"	"Increased Base Attack Damage, Increased Evasion, Increased Critical Strike Damage"
+"DOTA_Tooltip_ability_chaotic_shapeshift_rune_1"              "Immortal I: Terrifying Werewolf"
+"DOTA_Tooltip_ability_chaotic_shapeshift_rune_1_Description"  "When dealing a critical strike in Wolf Form, gain %rune_1_crit%%% bonus critical strike damage, stacking up to %rune_1_max%%%. Additionally, passively gain damage reduction equal to %rune_1_incoming%%% of your evasion percentage."
+"DOTA_Tooltip_ability_chaotic_shapeshift_rune_2"              "Immortal II: Unavailable"
+"DOTA_Tooltip_ability_chaotic_shapeshift_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_shapeshift_rune_3"              "Immortal III: Unavailable"
+"DOTA_Tooltip_ability_chaotic_shapeshift_rune_3_Description"  ""

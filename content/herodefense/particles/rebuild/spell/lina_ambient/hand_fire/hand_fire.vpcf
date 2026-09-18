@@ -1,0 +1,66 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iControlPoint = 4
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/items/courier/hand_courier/hand_courier_radiant_lv7.vmdl"
+				m_sequenceName = "idle"
+				m_hitboxSetName = "select_high"
+			}
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_RepeatedTriggerChildGroup"
+			m_bDisableOperator = true
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire_base.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire_flare.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire_dark.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire_ray.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire_rope.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire_streak.vpcf"
+			m_bDisableChild = true
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire_ring_rope.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/lina_ambient/hand_fire/hand_fire_ring_halo.vpcf"
+		},
+	]
+}

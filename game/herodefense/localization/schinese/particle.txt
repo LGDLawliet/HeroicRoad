@@ -1,0 +1,531 @@
+"DOTA_Tooltip_ability_ability_particle_0"	"默认特效"
+"DOTA_Tooltip_ability_ability_particle_0_Description"	"没有任何特别之处"
+"DOTA_Tooltip_ability_ability_particle_1"	"测试特效1"
+"DOTA_Tooltip_ability_ability_particle_2"	"测试特效2"
+// "<font color=\"#ffffff\">稀有度：普通</font>"
+// "<font color=\"#777777\">稀有度：罕见</font>"
+// "<font color=\"#8bb6ff\">稀有度：稀有</font>"
+// "<font color=\"#6f00ff\">稀有度：神话</font>"
+// "<font color=\"#f0ad4e\">稀有度：不朽</font>"
+// "<font color=\"#ADE55C\">稀有度：至宝</font>"
+"DOTA_HUD_Forver" "永久"
+"DOTA_HUD_Particle_on"  "装备"
+"DOTA_HUD_Particle_off"  "卸下"
+"DOTA_HUD_Particle_locked"  "锁定"
+"DOTA_HUD_Particle_error1"  "无法卸下默认特效"
+"DOTA_HUD_Particle_type_1" "周身特效"
+"DOTA_HUD_Particle_type_2" "近战刀光"
+"DOTA_HUD_Particle_type_3" "远程弹道"
+"DOTA_HUD_Particle_type_4" "技能特效"
+"DOTA_HUD_Particle_type_5" "英雄天赋"
+"particle_buy_failed_forever"                   "购买失败，因为已解锁永久特效"
+"DOTA_HUD_TYPE"  "类型："
+"DOTA_HUD_HERO"  "英雄："
+
+"DOTA_Tooltip_ability_attach_particle_1"	"内卷之王的金辉"
+"DOTA_Tooltip_ability_attach_particle_1_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_2_Lore"	"经历的无数的试炼，你有权佩戴象征着王的金"
+"DOTA_Tooltip_ability_attach_particle_2"	"位面之王的耀光"
+"DOTA_Tooltip_ability_attach_particle_2_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_1_Lore"	"在某些位面下的最强之人"
+
+"DOTA_Tooltip_ability_attach_particle_3"	"神力觉醒之人"
+"DOTA_Tooltip_ability_attach_particle_3_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_3_Lore"	"虽然无法巅峰造极，但有朝一日你也能成为最强的那一位。"
+
+"DOTA_Tooltip_ability_attach_particle_4"	"寒冰之息LV1"
+"DOTA_Tooltip_ability_attach_particle_4_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_4_Lore"	"我的王啊……您何时才能将我从这幽暗的监牢中带走呢……"
+"DOTA_Tooltip_ability_attach_particle_5"	"寒冰之息LV2"
+"DOTA_Tooltip_ability_attach_particle_5_Description"	"<font color=\"#ffffff\">稀有度：普通</font>"
+"DOTA_Tooltip_ability_attach_particle_5_Lore"	"我的王啊……您何时才能将我从这幽暗的监牢中带走呢……"
+"DOTA_Tooltip_ability_attach_particle_6"	"寒冰之息LV3"
+"DOTA_Tooltip_ability_attach_particle_6_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_6_Lore"	"我的王啊……您何时才能将我从这幽暗的监牢中带走呢……"
+"DOTA_Tooltip_ability_attach_particle_7"	"地狱之手"
+"DOTA_Tooltip_ability_attach_particle_7_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_7_Lore"	"地狱的邪恶之力将把你拽入地狱的深渊……"
+"DOTA_Tooltip_ability_attach_particle_8"	"冥界之手"
+"DOTA_Tooltip_ability_attach_particle_8_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_8_Lore"	"来吧，抓住我的手一起走到三途川的对岸……"
+"DOTA_Tooltip_ability_attach_particle_9"	"多重维度"
+"DOTA_Tooltip_ability_attach_particle_9_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_9_Lore"	"我就是你，你就是我，只不过我们来自不同的维度……"
+"DOTA_Tooltip_ability_attach_particle_10"	"冰疗"
+"DOTA_Tooltip_ability_attach_particle_10_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_10_Lore"	"这个奇妙的冰块看起来能治愈伤口……"
+"DOTA_Tooltip_ability_attach_particle_11"	"自然的宠爱"
+"DOTA_Tooltip_ability_attach_particle_11_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_11_Lore"	"我的头顶不会太绿了吧……"
+
+"DOTA_Tooltip_ability_attach_particle_12"	"末日"
+"DOTA_Tooltip_ability_attach_particle_12_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_12_Lore"	"感受地狱的怒火吧凡人！"
+
+"DOTA_Tooltip_ability_attach_particle_13"	"飞沙走石"
+"DOTA_Tooltip_ability_attach_particle_13_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_13_Lore"	"沙子在一粒一粒的增长……"
+
+"DOTA_Tooltip_ability_attach_particle_14"	"生根"
+"DOTA_Tooltip_ability_attach_particle_14_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_14_Lore"	"树木在生长。"
+"DOTA_Tooltip_ability_attach_particle_15"	"圣洁"
+"DOTA_Tooltip_ability_attach_particle_15_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_15_Lore"	"此身被神祝福。"
+
+"DOTA_Tooltip_ability_attach_particle_16"	"洞察之光"
+"DOTA_Tooltip_ability_attach_particle_16_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_16_Lore"	"任何造物在光辉之下都无法隐藏它的弱点。"
+
+"DOTA_Tooltip_ability_attach_particle_17"	"厄运"
+"DOTA_Tooltip_ability_attach_particle_17_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_17_Lore"	"你看起来似乎不太好……"
+
+"DOTA_Tooltip_ability_attach_particle_18"	"黯淡幻象"
+"DOTA_Tooltip_ability_attach_particle_18_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_18_Lore"	"猜猜我在哪？"
+
+"DOTA_Tooltip_ability_attach_particle_19"	"离子之汽"
+"DOTA_Tooltip_ability_attach_particle_19_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_19_Lore"	"劈里啪啦"
+
+"DOTA_Tooltip_ability_attach_particle_20"	"绝望灵气"
+"DOTA_Tooltip_ability_attach_particle_20_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_20_Lore"	"恐惧朝你袭来"
+
+"DOTA_Tooltip_ability_attach_particle_21"	"迈达斯之触"
+"DOTA_Tooltip_ability_attach_particle_21_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_21_Lore"	"看得出我很有钱吗？"
+
+
+"DOTA_Tooltip_ability_attach_particle_22"	"玛瑙光泽"
+"DOTA_Tooltip_ability_attach_particle_22_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_22_Lore"	"瞧瞧这色泽，这反光"
+
+"DOTA_Tooltip_ability_attach_particle_23"	"祖母绿"
+"DOTA_Tooltip_ability_attach_particle_23_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_23_Lore"	"会不会太绿了点。。。"
+"DOTA_Tooltip_ability_attach_particle_24"	"夜魇暗潮的荒芜1"
+"DOTA_Tooltip_ability_attach_particle_24_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_24_Lore"	"每年一度的节日"
+
+
+
+"DOTA_Tooltip_ability_attach_particle_25"	"灰烬灵气"
+"DOTA_Tooltip_ability_attach_particle_25_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_25_Lore"	"灰烬大人，您还能听到我的声音吗？"
+// Ashen one, hearest thou my voice still?
+
+"DOTA_Tooltip_ability_attach_particle_26"	"水汽环绕"
+"DOTA_Tooltip_ability_attach_particle_26_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_26_Lore"	"这水雾能不能解渴呢？"
+
+"DOTA_Tooltip_ability_attach_particle_27"	"花嫁"
+"DOTA_Tooltip_ability_attach_particle_27_Description"	"<font color=\"#ffffff\">稀有度：普通</font>"
+"DOTA_Tooltip_ability_attach_particle_27_Lore"	"没想到DOTA也能有这个"
+
+"DOTA_Tooltip_ability_attach_particle_28"	"虚无之焰"
+"DOTA_Tooltip_ability_attach_particle_28_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_28_Lore"	"脚下的虚空缓缓地浮现"
+
+"DOTA_Tooltip_ability_attach_particle_29"	"虚无之焰(深蓝变体)"
+"DOTA_Tooltip_ability_attach_particle_29_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_29_Lore"	"脚下的虚空缓缓地浮现"
+
+"DOTA_Tooltip_ability_attach_particle_30"	"虚无之焰(深红变体)"
+"DOTA_Tooltip_ability_attach_particle_30_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_30_Lore"	"脚下的虚空缓缓地浮现"
+"DOTA_Tooltip_ability_attach_particle_31"	"虚无之焰(深绿变体)"
+"DOTA_Tooltip_ability_attach_particle_31_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_31_Lore"	"脚下的虚空缓缓地浮现"
+
+
+
+
+"DOTA_Tooltip_ability_attach_particle_32"	"迎霜冰雪"
+"DOTA_Tooltip_ability_attach_particle_32_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_32_Lore"	"冬天又到了"
+
+"DOTA_Tooltip_ability_attach_particle_33"	"燃焰之触"
+"DOTA_Tooltip_ability_attach_particle_33_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_33_Lore"	"忽然有点热"
+
+"DOTA_Tooltip_ability_attach_particle_34"	"冰霜之触"
+"DOTA_Tooltip_ability_attach_particle_34_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_34_Lore"	"忽然有点冷"
+
+"DOTA_Tooltip_ability_attach_particle_35"	"夜魇暗潮的荒芜2"
+"DOTA_Tooltip_ability_attach_particle_35_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_35_Lore"	"每年一度的节日"
+
+"DOTA_Tooltip_ability_attach_particle_36"	"清风LV1"
+"DOTA_Tooltip_ability_attach_particle_36_Description"	"<font color=\"#ffffff\">稀有度：普通</font>"
+"DOTA_Tooltip_ability_attach_particle_36_Lore"	"微风拂面"
+
+"DOTA_Tooltip_ability_attach_particle_37"	"清风LV2"
+"DOTA_Tooltip_ability_attach_particle_37_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_37_Lore"	"微风拂面"
+
+"DOTA_Tooltip_ability_attach_particle_38"	"电解水LV1"
+"DOTA_Tooltip_ability_attach_particle_38_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_38_Lore"	"小心你周围的氢气"
+
+"DOTA_Tooltip_ability_attach_particle_39"	"电解水LV2"
+"DOTA_Tooltip_ability_attach_particle_39_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_39_Lore"	"小心你周围的氢气"
+
+
+"DOTA_Tooltip_ability_attach_particle_40"	"电解水LV3"
+"DOTA_Tooltip_ability_attach_particle_40_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_40_Lore"	"小心你周围的氢气"
+
+"DOTA_Tooltip_ability_attach_particle_41"	"电解水LV4"
+"DOTA_Tooltip_ability_attach_particle_41_Description"	"<font color=\"#ADE55C\">稀有度：至宝</font>"
+"DOTA_Tooltip_ability_attach_particle_41_Lore"	"小心你周围的氢气"
+
+"DOTA_Tooltip_ability_attach_particle_42"	"血色落羽"
+"DOTA_Tooltip_ability_attach_particle_42_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_42_Lore"	"带血的羽毛述说着它的主人悲惨的过去"
+
+"DOTA_Tooltip_ability_attach_particle_43"	"紫罗兰色泽"
+"DOTA_Tooltip_ability_attach_particle_43_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_43_Lore"	"光线开始从紫罗兰色的天空渐渐消退。"
+// The light was beginning to drain from a violet sky. 
+
+// overgrown_emblem
+"DOTA_Tooltip_ability_attach_particle_44"	"蔓生纹章"
+"DOTA_Tooltip_ability_attach_particle_44_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_44_Lore"	"这件珍稀绝伦的奖赏将在2019年国际邀请赛勇士令状活动期间解封不朽宝藏时随机掉落。"
+// This cosmically rare prize was awarded as a random drop while opening Immortal Treasures during The International 2019 Battle Pass season.
+
+// Crystal emblem
+"DOTA_Tooltip_ability_attach_particle_45"	"晶阶纹章"
+"DOTA_Tooltip_ability_attach_particle_45_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_45_Lore"	"这件珍稀绝伦的奖赏将在2018年国际邀请赛勇士令状活动期间解封不朽宝藏时随机掉落。"
+
+
+// nemestice emblem
+"DOTA_Tooltip_ability_attach_particle_46"	"天陨旦纹章"
+"DOTA_Tooltip_ability_attach_particle_46_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_46_Lore"	"这件珍稀绝伦的奖赏将在2021年国际邀请赛勇士令状活动期间解封不朽宝藏时随机掉落。"
+
+"DOTA_Tooltip_ability_attach_particle_47"	"磁场石"
+"DOTA_Tooltip_ability_attach_particle_47_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_47_Lore"	"脚下似乎存在着某种神秘的力量，以至于周围的磁场发送了急剧的变化。"
+
+// Foul
+"DOTA_Tooltip_ability_attach_particle_48"	"荒邪"
+"DOTA_Tooltip_ability_attach_particle_48_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_48_Lore"	"来自七度地狱的邪恶之力"
+
+"DOTA_Tooltip_ability_attach_particle_49"	"魔晶之能LV1"
+"DOTA_Tooltip_ability_attach_particle_49_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_49_Lore"	"这是阿哈利姆的能量碎片吗？"
+"DOTA_Tooltip_ability_attach_particle_50"	"魔晶之能LV2"
+"DOTA_Tooltip_ability_attach_particle_50_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_50_Lore"	"这是阿哈利姆的能量碎片吗？"
+"DOTA_Tooltip_ability_attach_particle_51"	"魔晶之能LV3"
+"DOTA_Tooltip_ability_attach_particle_51_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_51_Lore"	"这是阿哈利姆的能量碎片吗？"
+
+
+"DOTA_Tooltip_ability_attach_particle_52"	"星云"
+"DOTA_Tooltip_ability_attach_particle_52_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_52_Lore"	"总有一天，群星将不再是秘密"
+
+
+
+"DOTA_Tooltip_ability_attach_particle_53"	"金色陛下LV2"
+"DOTA_Tooltip_ability_attach_particle_53_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_53_Lore"	"我乃所有黄金的化身"
+
+
+"DOTA_Tooltip_ability_attach_particle_54"	"金色陛下LV1"
+"DOTA_Tooltip_ability_attach_particle_54_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_54_Lore"	"我乃所有黄金的化身"
+
+"DOTA_Tooltip_ability_attach_particle_55"	"金色陛下LV3"
+"DOTA_Tooltip_ability_attach_particle_55_Description"	"<font color=\"#ADE55C\">稀有度：至宝</font>"
+"DOTA_Tooltip_ability_attach_particle_55_Lore"	"我乃所有黄金的化身"
+
+
+"DOTA_Tooltip_ability_attach_particle_56"	"糖果店"
+"DOTA_Tooltip_ability_attach_particle_56_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_56_Lore"	"来点美味的糖果吗？但小心，也许会把肉山吸引过来"
+
+
+"DOTA_Tooltip_ability_attach_particle_57"	"黄金口袋"
+"DOTA_Tooltip_ability_attach_particle_57_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_57_Lore"	"我的口袋似乎破了"
+"DOTA_Tooltip_ability_attach_particle_58"	"黄金口袋(金色变体)"
+"DOTA_Tooltip_ability_attach_particle_58_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_58_Lore"	"我的口袋似乎破了"
+
+"DOTA_Tooltip_ability_attach_particle_59"	"死人复生"
+"DOTA_Tooltip_ability_attach_particle_59_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_59_Lore"	"那边的土块好像动了？"
+
+"DOTA_Tooltip_ability_attach_particle_60"	"霜天"
+"DOTA_Tooltip_ability_attach_particle_60_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_60_Lore"	"雾浓香鸭，冰凝泪烛，霜天难晓"
+
+"DOTA_Tooltip_ability_attach_particle_61"	"佩恩的黑棒"
+"DOTA_Tooltip_ability_attach_particle_61_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_61_Lore"	"这种神奇的物质可以由具备轮回眼的人创造出来"
+
+// cheeseman
+
+"DOTA_Tooltip_ability_attach_particle_62"	"奶酪人"
+"DOTA_Tooltip_ability_attach_particle_62_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_62_Lore"	"那是只鸟？那是飞机？那是——奶酪人！"
+
+
+// gemstone_crystal_worm
+"DOTA_Tooltip_ability_attach_particle_63"	"宝石结晶虫"
+"DOTA_Tooltip_ability_attach_particle_63_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_63_Lore"	"给块楔形石原盘吧！"
+
+
+"DOTA_Tooltip_ability_attach_particle_64"	"猫咪伙伴"
+"DOTA_Tooltip_ability_attach_particle_64_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_64_Lore"	"别跑到我头上去"
+
+"DOTA_Tooltip_ability_attach_particle_65"	"猫咪伙伴(真视宝石)"
+"DOTA_Tooltip_ability_attach_particle_65_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_65_Lore"	"别跑到我头上去"
+
+"DOTA_Tooltip_ability_attach_particle_66"	"猫咪伙伴(极限发球)"
+"DOTA_Tooltip_ability_attach_particle_66_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_66_Lore"	"别跑到我头上去"
+
+"DOTA_Tooltip_ability_attach_particle_67"	"猫咪伙伴（振魂石）"
+"DOTA_Tooltip_ability_attach_particle_67_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_67_Lore"	"别跑到我头上去"
+
+"DOTA_Tooltip_ability_attach_particle_68"	"猫咪伙伴（刷新球）"
+"DOTA_Tooltip_ability_attach_particle_68_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_68_Lore"	"别跑到我头上去"
+
+"DOTA_Tooltip_ability_attach_particle_69"	"猫咪伙伴（玲珑心）"
+"DOTA_Tooltip_ability_attach_particle_69_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_69_Lore"	"别跑到我头上去"
+"DOTA_Tooltip_ability_attach_particle_70"	"猫咪伙伴（不朽）"
+"DOTA_Tooltip_ability_attach_particle_70_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_70_Lore"	"别跑到我头上去"
+
+"DOTA_Tooltip_ability_attach_particle_72"	"月之精灵"
+"DOTA_Tooltip_ability_attach_particle_72_Description"	"<font color=\"#ADE55C\">稀有度：至宝</font>"
+"DOTA_Tooltip_ability_attach_particle_72_Lore"	"月之女神的化身"
+
+
+"DOTA_Tooltip_ability_attach_particle_73"	"3D打印机"
+"DOTA_Tooltip_ability_attach_particle_73_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_73_Lore"	"最近想买一台了"
+
+"DOTA_Tooltip_ability_attach_particle_74"	"撒币LV1"
+"DOTA_Tooltip_ability_attach_particle_74_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_74_Lore"	"你的超能力是啥？"
+
+"DOTA_Tooltip_ability_attach_particle_75"	"撒币LV2"
+"DOTA_Tooltip_ability_attach_particle_75_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_75_Lore"	"你的超能力是啥？"
+
+"DOTA_Tooltip_ability_attach_particle_76"	"木头人"
+"DOTA_Tooltip_ability_attach_particle_76_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_76_Lore"	"1，2，3……"
+
+// Truth Lasso
+"DOTA_Tooltip_ability_attach_particle_77"	"真言套索LV1"
+"DOTA_Tooltip_ability_attach_particle_77_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_77_Lore"	"戴安娜的主武器真言套索是火神赫淮斯托斯用大地女神盖亚的金腰带为材料打制的。套索由家室女神赫斯提亚所赐予，并由月亮女神阿尔忒弥斯亲自绑在神箭上从奥林匹斯神山上射下凡间。"
+
+"DOTA_Tooltip_ability_attach_particle_78"	"真言套索LV2"
+"DOTA_Tooltip_ability_attach_particle_78_Description"	"<font color=\"#ADE55C\">稀有度：至宝</font>"
+"DOTA_Tooltip_ability_attach_particle_78_Lore"	"戴安娜的主武器真言套索是火神赫淮斯托斯用大地女神盖亚的金腰带为材料打制的。套索由家室女神赫斯提亚所赐予，并由月亮女神阿尔忒弥斯亲自绑在神箭上从奥林匹斯神山上射下凡间。"
+
+
+"DOTA_Tooltip_ability_attach_particle_79"	"真言套索LV2(猩红变体)"
+"DOTA_Tooltip_ability_attach_particle_79_Description"	"<font color=\"#ADE55C\">稀有度：至宝</font>"
+"DOTA_Tooltip_ability_attach_particle_79_Lore"	"戴安娜的主武器真言套索是火神赫淮斯托斯用大地女神盖亚的金腰带为材料打制的。套索由家室女神赫斯提亚所赐予，并由月亮女神阿尔忒弥斯亲自绑在神箭上从奥林匹斯神山上射下凡间。"
+
+// spectre's shadow
+"DOTA_Tooltip_ability_attach_particle_80"	"幽鬼的阴影"
+"DOTA_Tooltip_ability_attach_particle_80_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_80_Lore"	"或许你只是她的一个鬼影，而你却不自知"
+
+// Hamon
+"DOTA_Tooltip_ability_attach_particle_81"	"波纹"
+"DOTA_Tooltip_ability_attach_particle_81_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_81_Lore"	"就如同在水中投入一块石头会掀起波纹一样，使用特殊的呼吸法在肉体里面产生波纹，从而产生强大的力量。"
+
+
+"DOTA_Tooltip_ability_attach_particle_82"	"脑虫的粘液"
+"DOTA_Tooltip_ability_attach_particle_82_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_82_Lore"	"你的脑子还清醒吗？"
+
+"DOTA_Tooltip_ability_attach_particle_83"	"筋斗云"
+"DOTA_Tooltip_ability_attach_particle_83_Description"		"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_83_Lore"	"筋斗云乃是天地间第一飞行之术，一个跟头便可远去十万八千里"
+
+
+// secret_of_the_rubik_cube
+
+"DOTA_Tooltip_ability_attach_particle_84"	"魔方之秘LV1"
+"DOTA_Tooltip_ability_attach_particle_84_Description"		"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_84_Lore"	"令人愉悦的力量！"
+"DOTA_Tooltip_ability_attach_particle_85"	"魔方之秘LV2"
+"DOTA_Tooltip_ability_attach_particle_85_Description"			"<font color=\"#ADE55C\">稀有度：至宝</font>"
+"DOTA_Tooltip_ability_attach_particle_85_Lore"	"令人愉悦的力量！"
+
+
+"DOTA_Tooltip_ability_attach_particle_86"	"蝙蝠侠"
+"DOTA_Tooltip_ability_attach_particle_86_Description"		"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_86_Lore"	"Because I am Batman！"
+
+
+"DOTA_Tooltip_ability_attach_particle_87"	"珠宝收藏家LV1"
+"DOTA_Tooltip_ability_attach_particle_87_Description"		"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_87_Lore"	"买一块吗？可以当传家宝哦"
+
+"DOTA_Tooltip_ability_attach_particle_88"	"珠宝收藏家LV2"
+"DOTA_Tooltip_ability_attach_particle_88_Description"		"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_88_Lore"	"买一块吗？可以当传家宝哦"
+
+"DOTA_Tooltip_ability_attach_particle_89"	"金色传说"
+"DOTA_Tooltip_ability_attach_particle_89_Description"		"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_89_Lore"	"哇！金色传说！"
+
+"DOTA_Tooltip_ability_attach_particle_90"	"冰封王座"
+"DOTA_Tooltip_ability_attach_particle_90_Description"		"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_90_Lore"	"冬天的马桶……"
+
+"DOTA_Tooltip_ability_attach_particle_91"	"新星lv1"
+"DOTA_Tooltip_ability_attach_particle_91_Description"		"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_91_Lore"	"涅槃……"
+
+"DOTA_Tooltip_ability_attach_particle_92"	"赞美太阳LV1"
+"DOTA_Tooltip_ability_attach_particle_92_Description"		"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_92_Lore"	"太阳骑士索拉尔为不死人们带来了一丝温暖和光明……"
+"DOTA_Tooltip_ability_attach_particle_93"	"赞美太阳LV2"
+"DOTA_Tooltip_ability_attach_particle_93_Description"		"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_93_Lore"	"太阳骑士索拉尔为不死人们带来了一丝温暖和光明……"
+"DOTA_Tooltip_ability_attach_particle_94"	"赞美太阳LV3"
+"DOTA_Tooltip_ability_attach_particle_94_Description"		"<font color=\"#ADE55C\">稀有度：至宝</font>"
+"DOTA_Tooltip_ability_attach_particle_94_Lore"	"太阳骑士索拉尔为不死人们带来了一丝温暖和光明……"
+
+
+"DOTA_Tooltip_ability_attach_particle_95"	"新星lv2"
+"DOTA_Tooltip_ability_attach_particle_95_Description"		"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_95_Lore"	"涅槃……"
+
+"DOTA_Tooltip_ability_attach_particle_96"	"重力场"
+"DOTA_Tooltip_ability_attach_particle_96_Description"		"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_96_Lore"	"为什么我感觉有时候移动很吃力，有时候很轻松？"
+
+// Gudōdama
+"DOTA_Tooltip_ability_attach_particle_98"	"求道玉LV1"
+"DOTA_Tooltip_ability_attach_particle_98_Description"	"<font color=\"#8bb6ff\">稀有度：稀有</font>"
+"DOTA_Tooltip_ability_attach_particle_98_Lore"	"封印森罗万象之力，呼唤混沌的漆黑之玉"
+
+
+"DOTA_Tooltip_ability_attach_particle_99"	"金箍之环"
+"DOTA_Tooltip_ability_attach_particle_99_Description"	"<font color=\"#777777\">稀有度：罕见</font>"
+"DOTA_Tooltip_ability_attach_particle_99_Lore"	"悟空十分欢喜，拿出海藏看时，原来两头是两个金箍，中间乃一段乌铁"
+
+"DOTA_Tooltip_ability_attach_particle_101"	"求道玉LV2"
+"DOTA_Tooltip_ability_attach_particle_101_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_101_Lore"	"封印森罗万象之力，呼唤混沌的漆黑之玉"
+
+"DOTA_Tooltip_ability_attach_particle_102"	"求道玉LV3"
+"DOTA_Tooltip_ability_attach_particle_102_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_102_Lore"	"封印森罗万象之力，呼唤混沌的漆黑之玉"
+
+"DOTA_Tooltip_ability_attach_particle_103"	"求道玉(六道鸣人)"
+"DOTA_Tooltip_ability_attach_particle_103_Description"	"<font color=\"#ADE55C\">稀有度：至宝</font>"
+"DOTA_Tooltip_ability_attach_particle_103_Lore"	"封印森罗万象之力，呼唤混沌的漆黑之玉"
+
+
+"DOTA_Tooltip_ability_attach_particle_104"	"死灵飞蛾"
+"DOTA_Tooltip_ability_attach_particle_104_Description"	"<font color=\"#6f00ff\">稀有度：神话</font>"
+"DOTA_Tooltip_ability_attach_particle_104_Lore"	"我像是将死之人吗？"
+
+
+"DOTA_Tooltip_ability_attach_particle_105"	"熔岩纹章"
+"DOTA_Tooltip_ability_attach_particle_105_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font>"
+"DOTA_Tooltip_ability_attach_particle_105_Lore"	"这件珍稀绝伦的奖赏将在2022年国际邀请赛勇士令状活动期间解封不朽宝藏时随机掉落。"
+// This cosmically rare prize was awarded as a random drop while opening Immortal Treasures during The International 2019 Battle Pass season.
+
+
+
+
+"DOTA_Tooltip_ability_ability_particle_3"	"迷雾之力"
+"DOTA_Tooltip_ability_ability_particle_3_Description"	"<font color=\"#6f00ff\">稀有度：神话</font><br>改变：高阶魔神形态"
+"DOTA_Tooltip_ability_ability_particle_3_Lore"	"吸取了迷雾守卫的力量。"
+"DOTA_Tooltip_ability_ability_particle_4"	"人形态"
+"DOTA_Tooltip_ability_ability_particle_4_Description"	"<font color=\"#6f00ff\">稀有度：神话</font><br>改变：高阶魔神形态"
+"DOTA_Tooltip_ability_ability_particle_4_Lore"	"为什么长相没有任何变化却能被称为魔神？"
+"DOTA_Tooltip_ability_ability_particle_5"	"真祖"
+"DOTA_Tooltip_ability_ability_particle_5_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶生命汲取"
+"DOTA_Tooltip_ability_ability_particle_5_Lore"	"所有血液的精华都将成为我的一部分"
+"DOTA_Tooltip_ability_ability_particle_6"	"虚空"
+"DOTA_Tooltip_ability_ability_particle_6_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶魔神午夜凋零"
+"DOTA_Tooltip_ability_ability_particle_6_Lore"	"世界的一部分将堕入虚空"
+"DOTA_Tooltip_ability_ability_particle_7"	"灭神冲击波"
+"DOTA_Tooltip_ability_ability_particle_7_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶神灭斩"
+"DOTA_Tooltip_ability_ability_particle_7_Lore"	"这并不是对波"
+"DOTA_Tooltip_ability_ability_particle_8"	"虚空的造物"
+"DOTA_Tooltip_ability_ability_particle_8_Description"	"<font color=\"#6f00ff\">稀有度：神话</font><br>改变：高阶恶魔转换模型"
+"DOTA_Tooltip_ability_ability_particle_8_Lore"	"看起来似乎他们来自另一个世界"
+"DOTA_Tooltip_ability_ability_particle_9"	"灵魂升华"
+"DOTA_Tooltip_ability_ability_particle_9_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶脉冲新星"
+"DOTA_Tooltip_ability_ability_particle_9_Lore"	"我似乎看到了灵魂的碎片"
+"DOTA_Tooltip_ability_ability_particle_10"	"血月之狼"
+"DOTA_Tooltip_ability_ability_particle_10_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶狼形态"
+"DOTA_Tooltip_ability_ability_particle_10_Lore"	"杀戮马上就要上演"
+"DOTA_Tooltip_ability_ability_particle_11"	"世界"
+"DOTA_Tooltip_ability_ability_particle_11_Description"	"<font color=\"#ADE55C\">稀有度：至宝</font><br>改变：高阶时间结界<br>补正：特效会造成头晕，因此时间结界的持续时间会增加1秒"
+"DOTA_Tooltip_ability_ability_particle_11_Lore"	"砸瓦鲁多！"
+
+
+
+"DOTA_Tooltip_ability_ability_particle_12"	"九头蛇"
+"DOTA_Tooltip_ability_ability_particle_12_Description"	"<font color=\"#6f00ff\">稀有度：神话</font><br>改变：高阶剧毒守卫模型"
+"DOTA_Tooltip_ability_ability_particle_12_Lore"	"这个九头蛇并不是漫威里面的九头蛇，不要误会。"
+"DOTA_Tooltip_ability_ability_particle_13"	"夷族神现"
+"DOTA_Tooltip_ability_ability_particle_13_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶剧毒守卫模型"
+"DOTA_Tooltip_ability_ability_particle_13_Lore"	"虽然剧毒术士原来的打算只是把愚蠢的狂热教徒当成美餐，但是发现了阿克特克的金目后他获得了巨大的力量，这也推翻了先前把这个不显灵的申明起源当作宗教幻想的观点。"
+"DOTA_Tooltip_ability_ability_particle_14"	"根源土元素"
+"DOTA_Tooltip_ability_ability_particle_14_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶召唤元素·土元素模型"
+"DOTA_Tooltip_ability_ability_particle_14_Lore"	"虽然叫做根源土元素，然而你只是获得了它的幻化，并非获得了它的力量。"
+"DOTA_Tooltip_ability_ability_particle_15"	"超级赛亚人"
+"DOTA_Tooltip_ability_ability_particle_15_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶无双特效与额外音效  <br>备注：没人用的技能，因此便宜一些"
+"DOTA_Tooltip_ability_ability_particle_15_Lore"	"你在极度愤怒之下变成了传说中的战士。"
+"DOTA_Tooltip_ability_ability_particle_16"	"时空斩·现断"
+"DOTA_Tooltip_ability_ability_particle_16_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶太虚之径特效"
+"DOTA_Tooltip_ability_ability_particle_16_Lore"	"据说只有世界冠军才能掌握真正的空间斩。"
+"DOTA_Tooltip_ability_ability_particle_17"	"停滞场"
+"DOTA_Tooltip_ability_ability_particle_17_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>改变：高阶静电护甲特效"
+"DOTA_Tooltip_ability_ability_particle_17_Lore"	"似乎在这一片空间内的事物被放慢了些许。"
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_melee_attack_1"	"蔚蓝之光"
+"DOTA_Tooltip_ability_melee_attack_1_Description"	"<font color=\"#6f00ff\">稀有度：神话</font><br>额外的信息：只会在有抬手的攻击才会出现的特效"
+"DOTA_Tooltip_ability_melee_attack_1_Lore"	"我从某个英雄特效里偷来改的。"
+
+
+
+"DOTA_Tooltip_ability_melee_attack_2"	"霹雳"
+"DOTA_Tooltip_ability_melee_attack_2_Description"	"<font color=\"#6f00ff\">稀有度：神话</font><br>额外的信息：只会在有抬手的攻击才会出现的特效"
+"DOTA_Tooltip_ability_melee_attack_2_Lore"	"被雷电所寄宿，可以制造出闪电。"
+
+
+"DOTA_Tooltip_ability_melee_attack_3"	"命运之笔"
+"DOTA_Tooltip_ability_melee_attack_3_Description"	"<font color=\"#f0ad4e\">稀有度：不朽</font><br>额外的信息：只会在有抬手的攻击才会出现的特效"
+"DOTA_Tooltip_ability_melee_attack_3_Lore"	"天涯墨客的毛笔被我偷走了。"

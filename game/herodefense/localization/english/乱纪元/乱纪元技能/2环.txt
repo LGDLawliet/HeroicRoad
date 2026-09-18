@@ -1,0 +1,461 @@
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_aid"	"Aid"
+
+"DOTA_Tooltip_ability_chaotic_aid_Description"	"Your spell enhances the resilience and fortitude of allies. Cast on a friendly unit to grant increased armor, lasting for %duration% seconds."
+"DOTA_Tooltip_ability_chaotic_aid_Lore"	"A simple warding spell, though of modest rank, yet with a touch of adept application, it may yield commendable protection."
+
+"DOTA_Tooltip_ability_chaotic_aid_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_aid_bonus_armor"	"☆Bonus Armor:"
+
+
+"DOTA_Tooltip_modifier_chaotic_aid"                   "Aid"
+"DOTA_Tooltip_modifier_chaotic_aid_Description"       "Armor increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_ability_chaotic_aid_rune_1"              "Persistence"
+"DOTA_Tooltip_ability_chaotic_aid_rune_1_Description"  "Duration increased by %rune_1_bonus_gain%%%[×]"
+"DOTA_Tooltip_ability_chaotic_aid_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_aid_bonus_armor"	"☆Bonus Armor:"
+
+
+
+"DOTA_Tooltip_ability_chaotic_alchemy"	"Alchemy"
+"DOTA_Tooltip_ability_chaotic_alchemy_Description"	"You can transmute a portion of the remains of enemies you defeat into gold, earning bonus gold upon each kill, with a chance to trigger a powerful effect that increases the bonus gold earned."
+"DOTA_Tooltip_ability_chaotic_alchemy_Lore"	"In reality, this is just a simple transmutation spell. When the spell ends, the pile of gold turns back into remains. But who cares, by then you've already bought what you wanted."
+"DOTA_Tooltip_ability_chaotic_alchemy_bonus"	"☆Bonus Gold:"
+"DOTA_Tooltip_ability_chaotic_alchemy_chance"	"%Chance of Powerful Effect:"
+"DOTA_Tooltip_ability_chaotic_alchemy_gain_scale"	"Powerful Effect Gold Multiplier:"
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_1"              "Immortal I: Generous Sharing"
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_1_Description"  "Bonus gold increased by %rune_1_bonus_gain%, and all other allied heroes also receive this amount."
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_2"              "Immortal II: Gnome's Coin Purse"
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_2_Description"  "Every %rune_2_interval% seconds, earn a sum of gold equivalent to %rune_2_bonus%%% of the gold you currently hold."
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_3"              "Immortal III: Rain of Fortune"
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_3_Description"  "When triggering a powerful effect, there is a %rune_3_chance%%% chance to unleash a Rain of Gold, earning a random amount of gold for a short period of time.<br>The random gold is based on the bonus gold from Alchemy itself and will not be too low or too high."
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_enlarge"	"Enlarge"
+"DOTA_Tooltip_ability_chaotic_enlarge_Description"	"Enlarges a friendly unit, increasing its size by one level and increase it's strength."
+"DOTA_Tooltip_ability_chaotic_enlarge_Lore"	"When the small feline afore thee transforms into a tiger, canst thou remain unruffled?"
+"DOTA_Tooltip_ability_chaotic_enlarge_bonus_str"	"☆Bonus Srength:"
+"DOTA_Tooltip_ability_chaotic_enlarge_duration"	"Duration:"
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_enlarge"                   "Enlarge"
+"DOTA_Tooltip_modifier_chaotic_enlarge_Description"       "Srength increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_ability_chaotic_enlarge_rune_1"              "High Concentration"
+"DOTA_Tooltip_ability_chaotic_enlarge_rune_1_Description"  "Simultaneously affects targets count increased by %rune_1_bonus_count%"
+
+
+"DOTA_Tooltip_ability_chaotic_scorching_ray"	"Scorching Ray"  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_Description"	"Emits a total of %base_count% fiery beams at the target and enemies within a %radius% radius, dealing Fire damage and applying <font color='#cd5c5c'>Burn</font>.<br><br>For every %mana_require% points of maximum mana, an additional beam is fired."  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_Lore"	"Homelander? No, it's Superman!"  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_base_damage"	"☆Base Damage:"  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_bonus_damage_index"	"☆Bonus Damage: Primary Attribute × "  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_burning"	"Burn Application: Primary Attribute × "  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_max_count"	"Maximum Beam Count:"  
+"HUD_Spell_Rune_chaotic_scorching_ray_bonus_damage_index"  "Bonus Damage Primary Attribute Multiplier"  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_1"              "Immortal I: Flame Fission"  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_1_Description"  "Each beam has a %rune_1_chance%%% chance to split into %rune_1_count% beams"  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_2"              "Immortal II: Delayed Detonation"  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_2_Description"  "Stores direct damage dealt to enemies, then after %rune_2_time% seconds, deals an explosion equal to %rune_2_pct1%%% of stored damage. This explosion is only affected by spell amplification."  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_3"              "Immortal III: Fire Frenzy"  
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_3_Description"  "After a beam kills an enemy, it also consumes %rune_3_hpcost%%% of your current HP and reduces the ability's cooldown by %rune_3_cdback% seconds"
+
+
+
+"DOTA_Tooltip_ability_chaotic_web"	"Spider Web"
+"DOTA_Tooltip_ability_chaotic_web_Description"	"Simulates treacherous terrain - the web of giant spiders, slowing the movement speed of all units within a %radius% radius. Enemies will also have a chance to be ensnared at intervals of %interval% seconds."
+"DOTA_Tooltip_ability_chaotic_web_Lore"	"Not a spider yet able to weave webs, what would the mother spider think?"
+"DOTA_Tooltip_ability_chaotic_web_duration"	"Web Duration:"
+"DOTA_Tooltip_ability_chaotic_web_move_slow"	"☆Movement Speed Slow:"
+"DOTA_Tooltip_ability_chaotic_web_prop_chance"	"%Chance of Ensnare:"
+"DOTA_Tooltip_ability_chaotic_web_debuff_duration"	"Ensnare Duration:"
+"DOTA_Tooltip_modifier_chaotic_web_debuff"                   "Spider Web"
+"DOTA_Tooltip_modifier_chaotic_web_debuff_Description"       "Movement speed slowed by %dMODIFIER_PROPERTY_TOOLTIP%"
+"DOTA_Tooltip_modifier_chaotic_web_debuff_root"                   "Spider Web Ensnare"
+"DOTA_Tooltip_modifier_chaotic_web_debuff_root_Description"       "Unable to move"
+
+"DOTA_Tooltip_ability_chaotic_web_rune_1"              "Immortal I: Colony Web"
+"DOTA_Tooltip_ability_chaotic_web_rune_1_Description"  "Reveals the vision of affected units, and allied units on the web are no longer affected."
+"DOTA_Tooltip_ability_chaotic_web_rune_2"              "Immortal II: Acidic Web"
+"DOTA_Tooltip_ability_chaotic_web_rune_2_Description"  "Units affected also have their armor reduced by %rune_2_armor% points."
+"DOTA_Tooltip_ability_chaotic_web_rune_3"              "Immortal III: Tiger-striped Venom Web"
+"DOTA_Tooltip_ability_chaotic_web_rune_3_Description"  "Enemies on the web accumulate %rune_3_posion% layers of poison per second, based on the caster's primary attribute."
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_blindness"	"Blinding Radiance"
+"DOTA_Tooltip_ability_chaotic_blindness_Description"	"Releases a dark and heavy secret, dealing damage to the target and enemies within a %radius% radius around them, and causing their attacks to miss with a certain probability."
+"DOTA_Tooltip_ability_chaotic_blindness_Lore"	"The one I should apologize to, is you~"
+"DOTA_Tooltip_ability_chaotic_blindness_damage"	"Base Damage:"
+"DOTA_Tooltip_ability_chaotic_blindness_bonus_damage"	"Extra Damage: Primary Attribute x"
+"DOTA_Tooltip_ability_chaotic_blindness_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_blindness_base_count"	"☆Targets Affected:"
+"DOTA_Tooltip_ability_chaotic_blindness_miss_chance"	"%Chance to Miss:"
+"DOTA_Tooltip_modifier_chaotic_blindness_debuff"                   "Blindness"
+"DOTA_Tooltip_modifier_chaotic_blindness_debuff_Description"       "Attacks have %dMODIFIER_PROPERTY_TOOLTIP%%% chance to miss"
+"HUD_Spell_Rune_chaotic_blindness_miss_chance" "Chance to Miss"
+
+"DOTA_Tooltip_ability_chaotic_blindness_rune_1"              "Immortal I: Refractive Blindness"
+"DOTA_Tooltip_ability_chaotic_blindness_rune_1_Description"  "The duration of blindness is increased by %rune_1_bonus_gain%%% [×]."
+"DOTA_Tooltip_ability_chaotic_blindness_rune_2"              "Immortal II: Ultimate Stun"
+"DOTA_Tooltip_ability_chaotic_blindness_rune_2_Description"  "Before taking damage, the target is stunned for %rune_2_duration% seconds, during which their magic resistance is reduced by %rune_2_magicres_down%%%."
+"DOTA_Tooltip_ability_chaotic_blindness_rune_3"              "Immortal III: Illuminating Curse"
+"DOTA_Tooltip_ability_chaotic_blindness_rune_3_Description"  "If the target is still alive, the ability repeats after %rune_3_time% seconds."
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_darkvision"	"Darkvision"
+"DOTA_Tooltip_ability_chaotic_darkvision_Description"	"Provides night vision for a creature, allowing it to have better visibility during the night. The vision range will not be less than a minimum value."
+"DOTA_Tooltip_ability_chaotic_darkvision_Lore"	"A pair of discerning eyes, may they bestow upon thee a triumphant commencement."
+"DOTA_Tooltip_ability_chaotic_darkvision_min_vision"	"Minimum Night Vision:"
+"DOTA_Tooltip_ability_chaotic_darkvision_duration"	"☆Duration:"
+"DOTA_Tooltip_modifier_chaotic_darkvision"                   "Darkvision"
+"DOTA_Tooltip_modifier_chaotic_darkvision_Description"       "The night vision range will not be less than %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_1"              "Immortal I: Long-lasting Vision"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_1_Description"  "Duration increased by %rune_1_bonus_gain%%% [×]"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_2"              "Immortal II: High-altitude Vision"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_2_Description"  "Provides full-time high-altitude vision"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_3"              "Immortal III: Predatory Gaze"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_3_Description"  "Damage dealt to visible enemies within your vision range is increased by %rune_3_damage_up%%% [+]"
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_darkness"	"Dark Cloud"
+"DOTA_Tooltip_ability_chaotic_darkness_Description"	"Creates a magical dark cloud. Units outside the cloud that attack units inside the cloud have a chance to miss, but this effect does not apply to large or larger creatures."
+"DOTA_Tooltip_ability_chaotic_darkness_Lore"	"Moving through darkness."
+"DOTA_Tooltip_ability_chaotic_darkness_miss_chance"	"%Chance to Miss:"
+"DOTA_Tooltip_ability_chaotic_darkness_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_darkness_radius"	"Radius:"
+"DOTA_Tooltip_modifier_chaotic_darkness_debuff"                   "Darkness"
+"DOTA_Tooltip_modifier_chaotic_darkness_debuff_Description"       "If conditions are met, damage has %dMODIFIER_PROPERTY_TOOLTIP%%% chance to be negated"
+
+"DOTA_Tooltip_ability_chaotic_darkness_rune_1"              "Immortal I: Blinding Magic"
+"DOTA_Tooltip_ability_chaotic_darkness_rune_1_Description"  "When units enter the dark cloud, their attack range is reduced by %rune_1_attack_range% for %rune_1_duration% seconds."
+"DOTA_Tooltip_ability_chaotic_darkness_rune_2"              "Immortal II: Intense Dark Cloud"
+"DOTA_Tooltip_ability_chaotic_darkness_rune_2_Description"  "The chance to miss is increased to %rune_2_miss%% and the movement speed of affected units is reduced by %rune_2_move%. However, the radius of the dark cloud is decreased by %rune_2_radius%%% [×]."
+"DOTA_Tooltip_ability_chaotic_darkness_rune_3"              "Immortal III: Swift Black Smoke"
+"DOTA_Tooltip_ability_chaotic_darkness_rune_3_Description"  "The casting range is increased by %rune_3_range%%% [×]. The caster teleports to the center of the dark cloud and leaves another dark cloud at the starting point."
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_shatter"	"Shattering Soundwave"
+"DOTA_Tooltip_ability_chaotic_shatter_Description"	"Simulates a powerful soundwave at the target location, dealing damage to enemies within the area and knocking them away from the center."
+"DOTA_Tooltip_ability_chaotic_shatter_Lore"	"Plug your ears, and remember not to let the powerful soundwave rupture your eardrums."
+"DOTA_Tooltip_ability_chaotic_shatter_base_damage"	"☆Base Damage:"
+"DOTA_Tooltip_ability_chaotic_shatter_bonus_damage_index"	"☆Extra Damage: Primary Attribute x"
+"DOTA_Tooltip_ability_chaotic_shatter_radius"	"Area of Effect:"
+"HUD_Spell_Rune_chaotic_shatter_bonus_damage_index"  "Damage Primary Attribute Multiplier"
+
+"DOTA_Tooltip_ability_chaotic_shatter_rune_1"              "Immortal I: Echo Spell"
+"DOTA_Tooltip_ability_chaotic_shatter_rune_1_Description"  "There is a %rune_1_chance%%% chance to generate a soundwave at the caster's location simultaneously."
+"DOTA_Tooltip_ability_chaotic_shatter_rune_2"              "Immortal II: Lion's Roar"
+"DOTA_Tooltip_ability_chaotic_shatter_rune_2_Description"  "The range and knockback effect of the soundwave are increased by %rune_2_radius%%% [×], but it can only be cast with the caster at the center."
+"DOTA_Tooltip_ability_chaotic_shatter_rune_3"              "Immortal III: Piercing Metal Sound"
+"DOTA_Tooltip_ability_chaotic_shatter_rune_3_Description"  "Instead of dealing damage and knockback, it reduces enemies' armor by %rune_3_armor% and magic resistance by %rune_3_magicres%%% for %rune_3_duration% seconds."
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft"	"Kalia Swordsmanship"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_Description"	"When attacking, there is a chance to deal a critical strike, while also increasing the multiplier of all your critical strikes [×]."
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_Lore"	"A beginner's sword technique that can be immediately chained after most actions, making it a rather practical skill among various swordsmanship styles."
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_crit_chance"	"% Critical Strike Chance:"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_crit_damage"	"% Critical Strike Multiplier:"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_crit_bonus"	"% Increase to All Critical Strike Multipliers:"
+
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_1"              "Immortal I: Kalia Swift Sword"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_1_Description"  "Gain an additional %rune_1_bonus% attack speed"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_2"              "Immortal II: Kalia Greatsword"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_2_Description"  "When Kalia Swordsmanship deals a critical strike, it causes %rune_2_cleave%%% cleaving damage in a fan shape, with a maximum trigger once every %rune_2_cd% seconds"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_3"              "Immortal III: Kalia Piercing Thrust"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_3_Description"  "Gain %rune_3_no_armor% points of armor penetration on attacks"
+
+
+
+"DOTA_Tooltip_ability_chaotic_gaias_prayer"	"Gaias Prayer"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_Description"	"Friendly heroes in the area receive increased magic recovery if they haven't taken damage in the past few seconds and increased health recovery if they haven't dealt damage. If both conditions are met, both effects are enhanced."
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_Lore"	"A belief lineage stemming from the epochs of antiquity, its divine potency long eroded by the sands of time, yet even so, it retains formidable energy."
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_radius"	"Effect Radius:"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_time_require"	"Time Require:"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_mana_regen"	"%Bonus Mana Regen:"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_health_regen"	"%Bonus Health Regen:"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_additional_enhancement"	"%Additional Effect Improvement:"
+"DOTA_Tooltip_modifier_chaotic_gaias_prayer_buff"              "Gaias Prayer"
+"DOTA_Tooltip_modifier_chaotic_gaias_prayer_buff_Description"  "Mana regen increased by %dMODIFIER_PROPERTY_TOOLTIP%%%, health regen increased by %dMODIFIER_PROPERTY_TOOLTIP%%%"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_1"              "Immortal I: None"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_1_Description"  ""
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_2"              "Immortal II: None"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_3"              "Immortal III: None"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_3_Description"  ""
+
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment"	"Caius Chaos Enchantment"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_Description"	"Over the past %time_require% seconds, dealing magical damage grants skill enhancement; dealing physical damage increases physical damage [+]. If both maximum skill enhancement and physical damage increase are obtained, an additional bonus to final damage is granted."
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_Lore"	"A chaotic power originating from the Hyper-Dark Ages, said to be utilized to its full potential only by those who believe in dueling."
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_magical_damage"	"%Skill Enhancement Increase:"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_magical_damage_max"	"%Maximum Skill Enhancement Increase:"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_physcial_damage"	"%Physical Damage Increase:"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_physcial_damage_max"	"%Maximum Physical Damage Increase:"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_all_damage"	"%Final Damage Increase:"
+"DOTA_Tooltip_modifier_chaotic_caius_chaos_enchantment_bonus_damage"              "Caius Chaos Enchantment"
+"DOTA_Tooltip_modifier_chaotic_caius_chaos_enchantment_bonus_damage_Description"  "Increases skill damage by %dMODIFIER_PROPERTY_TOOLTIP%%% and physical damage by %dMODIFIER_PROPERTY_TOOLTIP%%%, and final damage by %dMODIFIER_PROPERTY_TOOLTIP%%%."
+"HUD_Spell_Rune_chaotic_caius_chaos_enchantment_time_require"  "Duration"
+
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_1"              "Immortal I: Refined Chaos"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_1_Description"  "Gains both enhancements regardless of the type of damage dealt, but the final damage enhancement is reduced by %rune_1_index%%% [×]."
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_2"              "Immortal II: Chaos Erosion"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_2_Description"  "Reduces own maximum health by %rune_2_hp_down%%% [+] but increases attack speed by %rune_2_attack_speed% points."
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_3"              "Immortal III: Pure Void"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_3_Description"  "When dealing pure damage, it is considered as dealing both types of damage."
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back"	"Mind's Eye"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_Description"	"Has a chance to dodge incoming damage, with a higher dodge rate against visible targets."
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_Lore"	"Eyes from the heart often see more clearly than those of the flesh."
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_chance_max"	"%Dodge chance against visible targets:"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_chance_min"	"%Dodge chance against invisible targets:"
+
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_1"              "Immortal I: Asura Mind's Eye"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_1_Description"  "Guaranteed to dodge damage when the ability is not on cooldown, followed by a %rune_1_cd% second cooldown, does not affect the base effect."
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_2"              "Immortal II: True Vision"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_2_Description"  "Vision range increased by %rune_2_vision% points."
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_3"              "Immortal III: Fairy Eye"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_3_Description"  "Dodge chance against invisible targets increased by %rune_3_index%%% [×]"
+
+
+
+"DOTA_Tooltip_ability_chaotic_defense_enhancement"	"Defense Enhancement"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_Description"	"Increase your armor but correspondingly decrease attack speed."
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_Lore"	"At times, 'tis only when thou standest at the forefront that thou canst yield the utmost benefits for the team."
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_armor"	"Bonus Armor:"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_bonus_armor"	"%Bonus Armor:"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_attack_slow"	"%Attack Speed Slow:"
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_step"	"Stride"
+"DOTA_Tooltip_ability_chaotic_step_Description"	"<h1>ACTIVE: Step Forward</h1>After a brief charge, quickly move to the target location and dodge projectiles. Upon arrival, increases own attack speed and movement speed, breaking movement speed limits during this time.\n<h1>PASSIVE: Compact Steps</h1>Passively gain extra movement speed."
+"DOTA_Tooltip_ability_chaotic_step_Lore"	"This is a highly effective way of moving, different from instant teleportation. You need to accumulate energy under your feet for a short period and then form a burst that propels you forward."
+"DOTA_Tooltip_ability_chaotic_step_move_speed"	"Extra Movement Speed:"
+"DOTA_Tooltip_ability_chaotic_step_distance"	"Step Distance:"
+"DOTA_Tooltip_ability_chaotic_step_bonus_attack_speed"	"Step Attack Speed Increase:"
+"DOTA_Tooltip_ability_chaotic_step_bonus_move_speed"	"Step Movement Speed Increase:"
+"DOTA_Tooltip_ability_chaotic_step_duration"	"Duration:"
+"DOTA_Tooltip_modifier_chaotic_step_buff"	"Step Forward"
+"DOTA_Tooltip_modifier_chaotic_step_buff_Description"	"Increases attack speed by %dMODIFIER_PROPERTY_TOOLTIP% and movement speed by %dMODIFIER_PROPERTY_TOOLTIP%"
+
+"DOTA_Tooltip_ability_chaotic_step_rune_1"              "Immortal I: Wind Walk"
+"DOTA_Tooltip_ability_chaotic_step_rune_1_Description"  "No longer requires charging, and cancels both the cast backswing and forward swing."
+"DOTA_Tooltip_ability_chaotic_step_rune_2"              "Immortal II: Haste"
+"DOTA_Tooltip_ability_chaotic_step_rune_2_Description"  "Cooldown reduced by %rune_2_cd%%% [×]."
+"DOTA_Tooltip_ability_chaotic_step_rune_3"              "Immortal III: Spirit Walker"
+"DOTA_Tooltip_ability_chaotic_step_rune_3_Description"  "Cooldown increased by %rune_3_cd%%% [×], but enters an invulnerable state during the Stride duration."
+
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf"	"Indenture Summon: Scarlet Wolf"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_Description"	"Summon a red wolf with high base attributes. It deals additional damage and absorbs life when attacking units with health below a certain threshold."
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_Lore"	"A crimson visage, razor-sharp fangs – such is the initial impression soldiers bear witness to. This is a species of wolf that dwells within the Crimson Gorge, renowned for its ferocious nature. In many small realms, there are specialized units tasked with taming these creatures. Hence, upon the battlefield, one might witness them clad in armor, ready for the fray."
+
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_base_damage"	"☆Base Attack Damage:"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_bonus_damage"	"%Attack Damage Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_bonus_health"	"%Health Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_bonus_armor"	"%Armor Inheritance:"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_health"	"%Health Require:"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_damage"	"%☆Bonus Damage:"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_max_count"	"Maximum Summon Count:"
+
+
+"DOTA_Tooltip_modifier_chaotic_summon_red_wolf_buff"	"Scarlet Wolf"
+"DOTA_Tooltip_modifier_chaotic_summon_red_wolf_buff_Description"	"Deals an additional %dMODIFIER_PROPERTY_TOOLTIP%%% of physical damage to units with health below %dMODIFIER_PROPERTY_TOOLTIP%%% and restores an equal amount of health."
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_rune_1"              "Hunter"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_rune_1_Description"  "The Crimson Wolf becomes invulnerable and no longer takes damage, but will be stunned if it moves more than %rune_1_distance% units away from the summoner"
+
+"DOTA_Tooltip_ability_chaotic_elemental_storm"	"Chaotic Elemental Storm"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_Description"	"Summon a chaotic elemental storm that randomly releases elemental effects of fire, ice, lightning, and wind, affecting units within the area. The firestorm deals continuous burning damage to enemies, the ice storm reduces enemy movement speed and attack speed, lightning deals instant magic damage to enemies in two stages, and wind increases the movement speed and attack speed of allies."
+"DOTA_Tooltip_ability_chaotic_elemental_storm_Lore"	"The storm contains endless chaotic power, only the bravest spellcasters can harness it. It is said that this storm can cause great chaos on the battlefield, bringing devastating blows to enemies while providing powerful buffs to allies."
+"DOTA_Tooltip_ability_chaotic_elemental_storm_storm_duration"	"Storm Duration: Refers to the total time the storm exists on the battlefield."
+"DOTA_Tooltip_ability_chaotic_elemental_storm_radius"	"Effect Radius: Refers to the maximum distance the storm affects both enemy and ally units."
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_thinker"	"Chaotic Elemental Storm"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_thinker_Description"	"Randomly releases different elemental effects within this area."
+
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_fire"	"Fire Burst"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_fire_Description"	"Taking continuous burning damage."
+"DOTA_Tooltip_ability_chaotic_elemental_storm_base_damage"	"☆Base Damage:"
+
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_ice"	"Ice Freeze"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_ice_Description"	"Movement speed and attack speed reduced."
+"DOTA_Tooltip_ability_chaotic_elemental_storm_move_speed_slow"	"☆Movement Speed Slow:"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_attack_speed_slow"	"☆Attack Speed Slow:"
+
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_lightning"	"Lightning Shock"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_lightning_Description"	"Taking instant magic damage."
+"DOTA_Tooltip_ability_chaotic_elemental_storm_bonus_damage"	"☆Bonus Damage:"
+
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_wind"	"Wind Shelter"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_wind_Description"	"Increases movement speed and attack speed."
+"DOTA_Tooltip_ability_chaotic_elemental_storm_bonus_move_speed"	"☆Movement Speed Increase:"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_bonus_attack_speed"	"☆Attack Speed Increase:"
+
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_instant_assault"	"Shadow Blade Assault"
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_instant_assault_Description"	"The user can instantly move behind the target enemy and perform a powerful backstab attack. For a period of time after this, all attacks are considered backstab attacks."
+
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_backstab_damage"	"☆Backstab Damage:"
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_backstab_damage_Description"	"Backstab attacks deal additional physical damage equal to 150% of the base attack damage."
+
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_cooldown"	"☆Cooldown:"
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_cooldown_Description"	"15 seconds"
+
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_mana_cost"	"☆Mana Cost:"
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_mana_cost_Description"	"50 points"
+
+"DOTA_Tooltip_ability_chaotic_tri_hurricane"	"Trigger Skill: Hurricane"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_Description"	"<h1>Passive: Synergy</h1>Gain trigger points after casting a skill with a cooldown.\n<h1><font color='#F0FFFF'>Trigger: Hurricane</font></h1>Automatically casts: When casting a skill, consume trigger points to pull enemies within a certain range to the mouse position and cause them to become stunned."
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_Lore"	"The wind element will be your ally."
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_Note0"	"<font color='#606060'>Converted according to the original cooldown time of the skill.</font>"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_cost_get"	"Trigger Points Gained per Second of Cooldown:"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_cost"	"Trigger Points Cost:"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_radius"	"Hurricane Range:"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_duration"	"Stun Duration:"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_cd"	"Cooldown:"
+"DOTA_Tooltip_modifier_hd_trigger"	"Trigger Points"
+
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_1"              "Immortal I: Wind Spirit Blessing"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_1_Description"  "Passively gain %rune_1_speed% movement speed."
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_2"              "Immortal II: Level 8 Gale"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_2_Description"  "Every %rune_2_count%th 'Hurricane' increases the range by %rune_2_radius% points."
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_3"              "Immortal III: Eye of the Typhoon"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_3_Description"  "The center point of 'Hurricane' becomes the user, and when triggered, grants the user %rune_3_incoming%%% damage reduction for %rune_3_duration% seconds."
+
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade"	"Trigger Skill: Shadow Blade"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_Description"	"<h1>Passive: Combo</h1>Gain trigger points after attacking an enemy with a basic attack.\n<h1><font color='#F0FFFF'>Trigger: Shadow Blade</font></h1>Automatically casts: On attack, consumes trigger points to make this attack's damage calculation significantly penetrate the enemy's armor."
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_Lore"	"Interweaving threads of shadow to create a dark, materialized blade in your hand."
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_Note0"	"<font color='#606060'>Selling the trigger skill will clear all existing trigger points; <br>Armor penetration can treat enemies as having negative armor.</font>"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_cost_get"	"Trigger Points Gained per Attack:"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_cost"	"Trigger Points Cost:"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_no_armor"	"Base Armor Penetration:"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_bonus_no_armor"	"% Extra Armor Penetration: Full Attack Damage x"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_cd"	"Cooldown:"
+"DOTA_Tooltip_modifier_hd_trigger"	"Trigger Points"
+
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_1"              "Immortal I: Shadow Chain Blade"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_1_Description"  "Reduces the cooldown of 'Shadow Blade' by %rune_1_cd% seconds."
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_2"              "Immortal II: Recycle"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_2_Description"  "When triggering 'Shadow Blade', there is a %rune_2_chance%%% chance it will be free"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_3"              "Immortal III: Corrosive Blade"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_3_Description"  "'Shadow Blade' also reduces the target's outgoing damage by %rune_3_outgoing%%% for %rune_3_duration% seconds [×]"
+
+
+
+"DOTA_Tooltip_ability_chaotic_qi_shield"	"Qi Shield"
+"DOTA_Tooltip_ability_chaotic_qi_shield_Description"	"Condense the inner Qi into a shield, granting damage block. When attacked during the shield's duration, it consumes one stack of 'Qi' and increases the block effect."
+"DOTA_Tooltip_ability_chaotic_qi_shield_Lore"	"Qi Shield is an ancient defensive technique that provides extra protection to the caster in battle."
+"DOTA_Tooltip_ability_chaotic_qi_shield_absorb"	"% Damage Block:"
+"DOTA_Tooltip_ability_chaotic_qi_shield_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_qi_shield_absorb_extra"	"% Extra Damage Block:"
+"DOTA_Tooltip_modifier_chaotic_qi_shield"	"Qi Shield"
+"DOTA_Tooltip_modifier_chaotic_qi_shield_Description"	"Grants damage block"
+
+"DOTA_Tooltip_ability_chaotic_backstab_mastery"	"Backstab Mastery"
+"DOTA_Tooltip_ability_chaotic_backstab_mastery_Description"	"Attacking an enemy from behind increases attack speed, movement speed, and grants one stack of 'Backstab Focus'."
+"DOTA_Tooltip_ability_chaotic_backstab_mastery_Lore"	"Backstab Mastery is a demonstration of proficiency in backstab techniques, allowing for rapid accumulation of advantages in battle."
+"DOTA_Tooltp_ability_chaotic_backstab_mastery_attack_speed"	"Attack Speed Increase:"
+"DOTA_Tooltip_ability_chaotic_backstab_mastery_move_speed"	"Movement Speed Increase:"
+"DOTA_Tooltip_ability_chaotic_backstab_mastery_duration"	"Speed Buff Duration:"
+"DOTA_Tooltip_modifier_chaotic_backstab_mastery_buff"	"speed up"
+
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab"	"Backstab Blade Technique"
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_Description"	"Every so often, your next attack is considered a backstab attack and reduces the target's armor."
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_Lore"	"A lethal weapon technique that can deal significant damage and weaken enemies during combat."
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_cd"	"Cooldown:"
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_duration"	"Duration:"
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_armor_reduction"	"Armor Reduction:"
+"DOTA_Tooltip_modifier_chaotic_blade_of_backstab_armor_reduction"	"Armor Weakened"
+"DOTA_Tooltip_modifier_chaotic_blade_of_backstab_armor_reduction_Description"	"The target's armor is reduced, increasing the physical damage they receive."
+
+"DOTA_Tooltip_ability_chaotic_liquid_fire"	"Liquid Flame"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_Description"	"Basic attacks are accompanied by flames, <font color='#cd5c5c'>burning</font> the target and enemies within %radius% range, while also reducing their attack speed."  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_Lore"	"The chaotic flow of space-time causes mutations in abilities."  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_max"      "Maximum number of affected targets:"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_burning"	"Base Burn Application:"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_bonus_burning"	"Bonus Burn Application: Primary Attribute ×"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_attack_speed_down"	"Attack Speed Reduction:"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_duration"	"Duration:"  
+"DOTA_Tooltip_modifier_chaotic_liquid_fire"	"Liquid Flame"  
+"DOTA_Tooltip_modifier_chaotic_liquid_fire_Description"	"Attack speed reduced"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_1"              "Immortal I: Sparking Throat Lozenge"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_1_Description"  "Liquid Flame has a %rune_1_chance%%% chance to refund mana cost and not enter cooldown"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_2"              "Immortal II: [TBA]"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_2_Description"  "[TBA]"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_3"              "Immortal III: [TBA]"  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_3_Description"  "[TBA]"
+
+"DOTA_Tooltip_ability_chaotic_crystal_nova"	"Crystal Nova"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_Description"	"Triggers a devastating ice explosion at the target location, dealing ice damage and applying <font color='#87ceeb'>Freezing</font> to enemies, while also reducing their movement speed."  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_Lore"	"The chaotic flow of space-time causes mutations in abilities."  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_radius"      "Explosion Radius:"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_damage"      "Base Damage:"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_bonus_damage"	"Bonus Damage: Primary Attribute ×"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_freezing"	"Freezing Application: Primary Attribute ×"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_move"	"Movement Speed Reduction:"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_duration"	"Duration:"  
+"DOTA_Tooltip_modifier_chaotic_crystal_nova"	"Crystal Nova"  
+"DOTA_Tooltip_modifier_chaotic_crystal_nova_Description"	"Movement speed reduction"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_1"              "Immortal I: Chain Explosion"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_1_Description"  "Crystal Nova will explode again after %rune_1_delay% seconds, but the second explosion only deals %rune_1_index%%% of the original damage and applies <font color='#87ceeb'>Freezing</font>"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_2"              "Immortal II: [TBA]"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_2_Description"  ""  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_3"              "Immortal III: [TBA]"  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_plasma_field"	"Plasma Field"
+"DOTA_Tooltip_ability_chaotic_plasma_field_Description"	"Releases a unidirectional plasma ring, dealing lightning damage and applying <font color='#6481d9'>Elecshocking</font> to up to %max% enemies nearby."
+"DOTA_Tooltip_ability_chaotic_plasma_field_Lore"	"The turbulence of spacetime causes the ability to mutate."
+"DOTA_Tooltip_ability_chaotic_plasma_field_radius"      "Range:"  
+"DOTA_Tooltip_ability_chaotic_plasma_field_damage"      "Base Damage:"  
+"DOTA_Tooltip_ability_chaotic_plasma_field_bonus_damage"	"Bonus Damage: Primary Attribute ×"
+"DOTA_Tooltip_ability_chaotic_plasma_field_elecshocking"	"% Elecshocking Application:"
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_1"              "Immortal I: Energy Conversion"
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_1_Description"  "%rune_1_manasteal%%% of the damage dealt by the plasma ring is restored as mana to the caster, with the amount restored per damage instance not exceeding %rune_1_manamax%%% of your maximum mana"
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_2"              "Immortal II: Unavailable"
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_3"              "Immortal III: Unavailable"
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_3_Description"  ""

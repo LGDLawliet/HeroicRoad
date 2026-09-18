@@ -1,0 +1,10 @@
+"DOTA_Tooltip_ability_item_hd_star_mace_2"	"Candy<font color=\"#777777\">-2nd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_star_mace_2_Description"	"<h1>Consumes:Tasty</h1>Restore 500+25%% of maximum health.<br><br>Remains: 2"
+"DOTA_Tooltip_ability_item_hd_star_mace_2_Lore"	"A well-prepared piece of candy"
+
+"DOTA_Tooltip_ability_item_hd_occult_bracelet"	"Occult Bracelet<font color=\"#777777\"> - 2nd Tier</font>"
+"DOTA_Tooltip_ability_item_hd_occult_bracelet_Description"	"<h1>Passive: Ritual of Erosa</h1>When taking damage, restores %mana_regen%%% of your missing mana and increases your proficiency by %bonus_profic%%% for %duration% seconds."
+"DOTA_Tooltip_ability_item_hd_occult_bracelet_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_occult_bracelet_Lore"	"A wondrous bracelet capable of awakening the user's innate talent"
+"DOTA_Tooltip_modifier_item_hd_occult_bracelet_buff"	"Ritual of Erosa"
+"DOTA_Tooltip_modifier_item_hd_occult_bracelet_buff_Description"	"Increased proficiency, enhanced talent effects"

@@ -1,0 +1,52 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 12
+	m_BoundingBoxMin = [ -512.0, -512.0, -32.0 ]
+	m_BoundingBoxMax = [ 512.0, 512.0, 32.0 ]
+	m_flConstantRadius = 32.0
+	m_ConstantColor = [ 0, 0, 0, 255 ]
+	m_bShouldSort = false
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetControlPointPositions"
+			m_flOpStartFadeOutTime = 0.1
+			m_flOpEndFadeOutTime = 0.1
+			m_vecCP1Pos = [ 125.0, 255.0, 120.0 ]
+			m_nCP3 = 2
+			m_nCP4 = 2
+			m_bUseWorldLocation = true
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_regenerate/effect_main/effect_generic.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_regenerate/effect_main/effect_regeneration_sparks.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_regenerate/effect_main/effect_regeneration_light.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/chaotic_spell/chaotic_regenerate/effect_main/effect_regeneration_sparks_first.vpcf"
+		},
+	]
+}

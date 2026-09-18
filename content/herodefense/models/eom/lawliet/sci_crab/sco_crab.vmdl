@@ -1,0 +1,1313 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc37:version{9e04b9aa-f073-4e59-8923-ff57489eb2c7} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "droid_tower_m.vmat"
+								to = "models/eom/hero/paotai/paotai.vmat"
+							},
+							{
+								from = "mi_scifi_crab_armor_skin1_inst.vmat"
+								to = "models/eom/lawliet/sci_crab/crab_armor.vmat"
+							},
+							{
+								from = "mi_scifi_crab_body_skin1_inst.vmat"
+								to = "models/eom/lawliet/sci_crab/crab_body.vmat"
+							},
+							{
+								from = "mi_scifi_crab_claw_skin1_inst.vmat"
+								to = "models/eom/lawliet/sci_crab/crab_claw.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "Claws_r"
+								parent_bone = "Claws_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -83.760193, -25.243423, -29.702576 ]
+								hitbox_maxs = [ 14.70694, 28.097443, 28.306122 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_r1"
+								parent_bone = "Claws_r1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -80.745537, -35.756836, -24.100677 ]
+								hitbox_maxs = [ 15.064903, 35.29425, 24.074966 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_r4"
+								parent_bone = "Claws_r4"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -90.261253, -43.652771, -32.762497 ]
+								hitbox_maxs = [ 14.826103, 15.341248, 28.798531 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_r5"
+								parent_bone = "Claws_r5"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -83.399605, -47.281609, -25.725445 ]
+								hitbox_maxs = [ 14.867172, 25.694496, 25.41317 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_r8"
+								parent_bone = "Claws_r8"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -92.191986, -47.132874, -30.042126 ]
+								hitbox_maxs = [ 14.783112, 14.965286, 31.487457 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_r9"
+								parent_bone = "Claws_r9"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -83.399536, -47.316833, -25.85508 ]
+								hitbox_maxs = [ 14.867203, 25.747421, 25.267029 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_r12"
+								parent_bone = "Claws_r12"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -80.010925, -25.137321, -29.365219 ]
+								hitbox_maxs = [ 14.650696, 35.997169, 32.496109 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_r13"
+								parent_bone = "Claws_r13"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -89.309181, -24.523842, -25.829086 ]
+								hitbox_maxs = [ 14.180855, 58.334221, 25.29834 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_l12"
+								parent_bone = "Claws_l12"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.650864, -35.997192, -32.495514 ]
+								hitbox_maxs = [ 80.010796, 25.137314, 29.365814 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_l13"
+								parent_bone = "Claws_l13"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.180817, -58.334175, -25.29863 ]
+								hitbox_maxs = [ 89.309227, 24.523905, 25.828796 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_l8"
+								parent_bone = "Claws_l8"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.783043, -14.965546, -31.487503 ]
+								hitbox_maxs = [ 92.192322, 47.132645, 30.042084 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_l9"
+								parent_bone = "Claws_l9"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.867233, -25.747948, -25.267132 ]
+								hitbox_maxs = [ 83.399506, 47.316269, 25.854984 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_l4"
+								parent_bone = "Claws_l4"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.826019, -15.341507, -28.798412 ]
+								hitbox_maxs = [ 90.261711, 43.652527, 32.762604 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_l5"
+								parent_bone = "Claws_l5"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.867203, -25.695107, -25.413044 ]
+								hitbox_maxs = [ 83.399574, 47.281075, 25.725536 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_l"
+								parent_bone = "Claws_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -14.706696, -28.097687, -28.305733 ]
+								hitbox_maxs = [ 83.760345, 25.243195, 29.702988 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Claws_l1"
+								parent_bone = "Claws_l1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -15.064827, -35.294434, -24.074432 ]
+								hitbox_maxs = [ 80.745575, 35.756622, 24.101196 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "BodyJoint"
+								parent_bone = "BodyJoint"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -177.174408, -17.76651, -363.424316 ]
+								hitbox_maxs = [ 193.799393, 131.050629, 234.807922 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "BigClaw_Clavicle_r"
+								parent_bone = "BigClaw_Clavicle_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -90.325356, -26.629501, -24.351074 ]
+								hitbox_maxs = [ 0.5, 30.287682, 31.647003 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "BigClaw_UpperArm_r"
+								parent_bone = "BigClaw_UpperArm_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -97.630432, -36.13063, -23.459534 ]
+								hitbox_maxs = [ 12.044739, 30.287552, 34.148743 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "BigClaw_LowerArm_r"
+								parent_bone = "BigClaw_LowerArm_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -92.658562, -16.235214, -39.378616 ]
+								hitbox_maxs = [ 11.772118, 41.089958, 39.726776 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "BigClaw_Hand_r"
+								parent_bone = "BigClaw_Hand_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -128.136887, -96.632996, -47.330055 ]
+								hitbox_maxs = [ 18.662304, 70.326828, 47.602112 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "SmallClaw_Clavicle_l"
+								parent_bone = "SmallClaw_Clavicle_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -24.350365, -24.315506 ]
+								hitbox_maxs = [ 62.412842, 25.206329, 25.816742 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "SmallClaw_UpperArm_l"
+								parent_bone = "SmallClaw_UpperArm_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -5.295517, -22.886887, -24.702744 ]
+								hitbox_maxs = [ 77.160339, 27.26033, 24.257248 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "SmallClaw_lowerArm_l"
+								parent_bone = "SmallClaw_lowerArm_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -8.50312, -31.399582, -22.845642 ]
+								hitbox_maxs = [ 74.549911, 16.95636, 27.547073 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "SmallClaw_Hand_l"
+								parent_bone = "SmallClaw_Hand_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -13.105896, -36.938156, -32.42775 ]
+								hitbox_maxs = [ 90.42337, 51.380234, 27.560074 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/eom/lawliet/sci_crab/sk_scifi_crab_skin1.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "paitai_attack_copy"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								disabled = true
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								extract_initial_offset = false
+								root_bone_name = ""
+								motion_type = "Uniform"
+							},
+							{
+								_class = "AnimForceBoneScaleSet"
+								curve = 
+								{
+									m_spline = 
+									[
+										{
+											x = 0.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+										{
+											x = 56.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+									]
+									m_tangents = 
+									[
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+									]
+									m_vDomainMins = [ 0.0, 0.0 ]
+									m_vDomainMaxs = [ 56.0, 1.0 ]
+								}
+								scale_set = "test"
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_scifi_crab_attack1.fbx"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "paitai_attack_copy1"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								disabled = true
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								extract_initial_offset = false
+								root_bone_name = ""
+								motion_type = "Uniform"
+							},
+							{
+								_class = "AnimForceBoneScaleSet"
+								curve = 
+								{
+									m_spline = 
+									[
+										{
+											x = 0.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+										{
+											x = 66.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+									]
+									m_tangents = 
+									[
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+									]
+									m_vDomainMins = [ 0.0, 0.0 ]
+									m_vDomainMaxs = [ 66.0, 1.0 ]
+								}
+								scale_set = "test"
+							},
+						]
+						activity_name = "ACT_DOTA_CAST_ABILITY_1"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_scifi_crab_attack2.fbx"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_Attack3"
+						children = 
+						[
+							{
+								_class = "AnimForceBoneScaleSet"
+								curve = 
+								{
+									m_spline = 
+									[
+										{
+											x = 0.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+										{
+											x = 85.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+									]
+									m_tangents = 
+									[
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+									]
+									m_vDomainMins = [ 0.0, 0.0 ]
+									m_vDomainMaxs = [ 85.0, 1.0 ]
+								}
+								scale_set = "test"
+							},
+						]
+						activity_name = "ACT_DOTA_CAST_ABILITY_2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_Attack3.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_Attack4"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								disabled = true
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								extract_initial_offset = false
+								root_bone_name = ""
+								motion_type = "Uniform"
+							},
+						]
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_Attack4.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_Attack5"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_Attack5.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_Attack6"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_Attack6.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_Death1"
+						children = 
+						[
+							{
+								_class = "AnimForceBoneScaleSet"
+								curve = 
+								{
+									m_spline = 
+									[
+										{
+											x = 0.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+										{
+											x = 50.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+									]
+									m_tangents = 
+									[
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+									]
+									m_vDomainMins = [ 0.0, 0.0 ]
+									m_vDomainMaxs = [ 50.0, 1.0 ]
+								}
+								scale_set = "test"
+							},
+						]
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_Death1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_Idle1"
+						children = 
+						[
+							{
+								_class = "AnimForceBoneScaleSet"
+								curve = 
+								{
+									m_spline = 
+									[
+										{
+											x = 0.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+										{
+											x = 200.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+									]
+									m_tangents = 
+									[
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+									]
+									m_vDomainMins = [ 0.0, 0.0 ]
+									m_vDomainMaxs = [ 200.0, 1.0 ]
+								}
+								scale_set = "test"
+							},
+						]
+						activity_name = "ACT_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_Idle1.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_KnockOut"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_KnockOut.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_Provokes"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_Provokes.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_WakeUp"
+						children = 
+						[
+							{
+								_class = "AnimForceBoneScaleSet"
+								curve = 
+								{
+									m_spline = 
+									[
+										{
+											x = 0.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+										{
+											x = 50.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+									]
+									m_tangents = 
+									[
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+									]
+									m_vDomainMins = [ 0.0, 0.0 ]
+									m_vDomainMaxs = [ 50.0, 1.0 ]
+								}
+								scale_set = "test"
+							},
+						]
+						activity_name = "ACT_DOTA_SPAWN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_WakeUp.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "anim_SciFi_Crab_Walk_F"
+						children = 
+						[
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND_ATTACHMENT"
+								event_frame = 5
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Heavy"
+									attachment = "attach_hitloc"
+									stop_on_seq_change = false
+									use_layer_sequence = true
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 5
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"models/eom/lawliet/sci_crab/particles/foot_step_effect/effect.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = "attach_claws_l2"
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND_ATTACHMENT"
+								event_frame = 9
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Heavy"
+									attachment = "attach_hitloc"
+									stop_on_seq_change = false
+									use_layer_sequence = true
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 9
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"models/eom/lawliet/sci_crab/particles/foot_step_effect/effect.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = "attach_claws_l6"
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND_ATTACHMENT"
+								event_frame = 16
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Heavy"
+									attachment = "attach_hitloc"
+									stop_on_seq_change = false
+									use_layer_sequence = true
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 16
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"models/eom/lawliet/sci_crab/particles/foot_step_effect/effect.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = "attach_claws_l10"
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND_ATTACHMENT"
+								event_frame = 25
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Heavy"
+									attachment = "attach_hitloc"
+									stop_on_seq_change = false
+									use_layer_sequence = true
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 25
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"models/eom/lawliet/sci_crab/particles/foot_step_effect/effect.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = "attach_claws_l14"
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND_ATTACHMENT"
+								event_frame = 27
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Heavy"
+									attachment = "attach_hitloc"
+									stop_on_seq_change = false
+									use_layer_sequence = true
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 24
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"models/eom/lawliet/sci_crab/particles/foot_step_effect/effect.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = "attach_claws_r2"
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND_ATTACHMENT"
+								event_frame = 28
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Heavy"
+									attachment = "attach_hitloc"
+									stop_on_seq_change = false
+									use_layer_sequence = true
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 25
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"models/eom/lawliet/sci_crab/particles/foot_step_effect/effect.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = "attach_claws_r6"
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND_ATTACHMENT"
+								event_frame = 6
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Heavy"
+									attachment = "attach_hitloc"
+									stop_on_seq_change = false
+									use_layer_sequence = true
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 3
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"models/eom/lawliet/sci_crab/particles/foot_step_effect/effect.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = "attach_claws_r10"
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND_ATTACHMENT"
+								event_frame = 10
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Heavy"
+									attachment = "attach_hitloc"
+									stop_on_seq_change = false
+									use_layer_sequence = true
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_CREATE_PARTICLE_EFFECT"
+								event_frame = 7
+								event_end_frame = -1
+								event_keys = 
+								{
+									name = resource:"models/eom/lawliet/sci_crab/particles/foot_step_effect/effect.vpcf"
+									detach_from_owner = false
+									always_run = false
+									stop_on_seq_change = false
+									stop_immediately = false
+									use_layer_sequence = false
+									tags = null
+									attachment_point = "attach_claws_r14"
+									attachment_type = "point_follow"
+									attachment_point_cp1 = null
+									attachment_type_cp1 = "point_follow"
+								}
+							},
+							{
+								_class = "AnimForceBoneScaleSet"
+								curve = 
+								{
+									m_spline = 
+									[
+										{
+											x = 0.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+										{
+											x = 50.0
+											y = 1.0
+											m_flSlopeIncoming = 0.0
+											m_flSlopeOutgoing = 0.0
+										},
+									]
+									m_tangents = 
+									[
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+										{
+											m_nIncomingTangent = "CURVE_TANGENT_LINEAR"
+											m_nOutgoingTangent = "CURVE_TANGENT_LINEAR"
+										},
+									]
+									m_vDomainMins = [ 0.0, 0.0 ]
+									m_vDomainMaxs = [ 50.0, 1.0 ]
+								}
+								scale_set = "test"
+							},
+						]
+						activity_name = "ACT_DOTA_RUN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/eom/lawliet/sci_crab/animations/anim_SciFi_Crab_Walk_F.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 40.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "ModelModifierList"
+				children = 
+				[
+					{
+						_class = "ModelModifier_ScaleAndMirror"
+						disabled = true
+						scale = 0.35
+						mirror_x = false
+						mirror_y = false
+						mirror_z = false
+						flip_bone_forward = false
+						swap_left_and_right_bones = false
+					},
+				]
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "MainJoint"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_claws_l2"
+						parent_bone = "Claws_l2"
+						relative_origin = [ 96.093239, -25.246368, 1.017365 ]
+						relative_angles = [ 0.0, 0.0, -0.000045 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_claws_l6"
+						parent_bone = "Claws_l6"
+						relative_origin = [ 112.474899, -2.195801, -4.917992 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_claws_l10"
+						parent_bone = "Claws_l10"
+						relative_origin = [ 103.770187, 10.513504, -2.299469 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_claws_l14"
+						parent_bone = "Claws_l14"
+						relative_origin = [ 94.60627, -13.088593, 7.310944 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_claws_r2"
+						parent_bone = "Claws_r2"
+						relative_origin = [ -101.722305, 20.624725, -0.518517 ]
+						relative_angles = [ 0.0, 0.0, -0.00002 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_claws_r6"
+						parent_bone = "Claws_r6"
+						relative_origin = [ -103.006081, -2.263855, -0.036758 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_claws_r10"
+						parent_bone = "Claws_r10"
+						relative_origin = [ -99.199738, -3.655548, -2.836342 ]
+						relative_angles = [ 0.0, 0.0, 0.000039 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_claws_r14"
+						parent_bone = "Claws_r14"
+						relative_origin = [ -104.79335, 21.052673, -8.849396 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "BigClaw_Hand_r"
+						relative_origin = [ -273.124634, -53.149689, -5.272369 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1_start"
+						parent_bone = "BigClaw_Hand_r"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "ScaleSetList"
+				children = 
+				[
+					{
+						_class = "ScaleSet"
+						name = "test"
+						root_offset = [ 0.0, 0.0, 0.0 ]
+						scales = 
+						[
+							{
+								bone = "BigClaw_Clavicle_r"
+								scale = 1.4
+							},
+						]
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

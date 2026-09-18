@@ -1,0 +1,33 @@
+"DOTA_Tooltip_ability_item_hd_soul_2"	"Complete Soul<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_soul_2_Description"	"<h1>Consumes:Domination</h1>Permanently grants 30 bonus attack to target unit.(Stackable)"
+"DOTA_Tooltip_ability_item_hd_soul_2_Lore"	"A huge part of the soul that escaped from the Shadow Fiend's collection"
+
+
+"DOTA_Tooltip_ability_item_hd_dust2"	"Advanced Soul Dust<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_dust2_Description"	"<h1>Passive:Soul Drain</h1>Gains 1 charge per enemy you kill, up to 50. Consumes full charged [Soul Dust] to permanently grant +20 main attribute(Stackable) to target ally hero."
+"DOTA_Tooltip_ability_item_hd_dust2_Lore"	"The magical bag that packs dead souls was found in a mausoleum"
+"DOTA_Tooltip_ability_item_hd_dust2_Note0"	"Note:"
+
+
+"DOTA_Tooltip_ability_item_hd_revtel_signet_ring"	"Revtel Signet Ring<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_revtel_signet_ring_Description"	"<h1>Passive: businessmen</h1>Carrying this ring can reduce the cost of upgrading your Advanced spells by 8%%."
+"DOTA_Tooltip_ability_item_hd_revtel_signet_ring_Lore"	"Three nations collectively make up The Merchant Kingdom of Revtel. And while each of the Merchant Kings is recognized as sovereign within their own lands, in the Revtel capital, each are equal."
+"DOTA_Tooltip_ability_item_hd_revtel_signet_ring_Note0"	"Note: <br>Multiply and stack with similar effects. You just need to wear the ring to show the seller when you need to upgrade your skills."
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_blink"	"Blink Dagger<font color=\"#777777\">-3rd echelon</font>"
+"DOTA_Tooltip_ability_item_hd_blink_Description"	"<h1>Passive: Flashing</h1>It can take the place of Stride into cooldown."
+"DOTA_Tooltip_ability_item_hd_blink_Lore"	"The fabled dagger used by the fastest assassin ever to walk the lands."
+"DOTA_Tooltip_ability_item_hd_blink_Note0"	"Note:<br>It can take effect even if it is placed in the backpack."
+
+"DOTA_Tooltip_ability_item_hd_guardian_ring"	"Arcane Signet<font color='#777777'>-Tier 3</font>"
+"DOTA_Tooltip_ability_item_hd_guardian_ring_Description"	"<h1>Passive: Arcane Resonance</h1>Gains %bonus_mana_perlvl% max mana per hero level."
+"DOTA_Tooltip_ability_item_hd_guardian_ring_Lore"	"A ring imbued with arcane power, enhancing the wearer's spellcasting capabilities."
+"DOTA_Tooltip_ability_item_hd_guardian_ring_bonus_spell_amp"  "%+Spell Amplification"
+
+"DOTA_Tooltip_ability_item_hd_point_booster"	"Sphere of Vitality<font color=\"#777777\"> - Third Tier</font>"
+"DOTA_Tooltip_ability_item_hd_point_booster_Description"	"<h1>Passive: Full of Vigor</h1>Restores %regen%%% of your maximum health and %mana_regen%%% of your maximum mana every %interval% seconds."
+"DOTA_Tooltip_ability_item_hd_point_booster_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_point_booster_Lore"	"A wondrous orb capable of awakening the user's innate talent"

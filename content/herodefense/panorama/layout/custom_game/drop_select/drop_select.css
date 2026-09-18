@@ -1,0 +1,116 @@
+
+#DropSelectRoot{
+    height: 250px;
+    background-color: rgba(35, 35, 43, 0.8);
+    /* background-image: url("s2r://panorama/images/custom_game/ability_selection/panel_bg_clean.png"); */
+    background-image: url("s2r://panorama/images/hud/reborn/bg_minimap_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    align: center center;
+    margin-top: 30px;
+    background-blur: gaussian(5);
+    transition-property: width, pre-transform-scale2d, opacity;
+    /* transition-property: transform, opacity; */
+    transition-duration: 1.2s;
+    transition-timing-function: ease-in-out;
+    visibility: collapse;
+}
+/* #DropParticle{
+    width: 100%;
+    height: 100%;
+    background-color: gradient( radial, 50% 10%, 0% 0%, 50% 65%, from(rgba(16, 114, 241, 0.6)), color-stop(0.1, rgba(219, 91, 10, 0.14)), to(rgba(255, 255, 255, 0)) );
+} */
+#DropSelectTitle{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 24px;
+    height: 36px;
+    width: 100%;
+    text-shadow: 2px 2px 4px 2 #00000090;
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: 8px;
+
+    text-align: center;
+    padding-top: 6px;
+    background-color: rgba(0, 0, 0, 0.3);
+    /* color: gradient(linear, 0% 0%, 0% 90%, from(#2c2c2c), to(#1d1d1d)); */
+}
+#DropSelectLabel{
+    font-size: 12px;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    margin: 25px;
+    padding: 1px;
+    /* background-color:gradient(linear, 0% 0%, 100% 0%, from(#2c2c2c), to(#1d1d1d)); */
+    color: #9c9c9c;
+    margin-left: 0%;
+    margin-top: 15%;
+    /* font-size: 25px; */
+
+}
+#DropSelectItemContainer{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 40px;
+    align: center bottom;
+    flow-children: right;
+}
+.DropSelectItemPanel:hover{
+    brightness: 1.4;
+}
+.DropSelectItemImage{
+    width: 96%;
+    height: 96%;
+    align: center center;
+    border-radius: 3px;
+    /* background-image: url("s2r://resource/flash3/images/items/song_of_eagle.vtex"); */
+    /* background-image: url("s2r://panorama/images/hud/reborn/aghsstatus_scepter_on_psd.vtex"); */
+    /* background-size: 100%; */
+    /* background-repeat: no-repeat; */
+    /* background-position: left; */
+    /* pre-transform-scale2d: 0.8; */
+    /* background-size: 50%; */
+    /* background-repeat: no-repeat; */
+    /* background-position: left; */
+    /* overflow:squish scroll;   */
+}
+
+/* 道具外框 */
+.DropSelectItemImageBackGround{
+    width: 115px;
+    height: 83px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    background-color: gradient(linear, 0% 0%, 0% 80%, from(#ffffff), to(#777777));
+    box-shadow: rgba(2, 235, 252, 0) 0px 0px 0px0px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+}
+
+/* 选择的hover */
+.DropSelectItemImageBackGround:hover{
+    box-shadow: rgba(255, 255, 255, 0.62) 0px 0px 5px 0px;
+}
+
+
+#RerollButton{
+    /* margin-left: 40%; */
+    margin-bottom: 38px;
+    /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+    background-image: url("s2r://panorama/images/hud/reborn/aghsstatus_scepter_on_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: left;
+    z-index: 0;
+    padding: 20px;
+    border-radius: 50%;
+    visibility: collapse;
+}
+
+#RerollButton:hover {
+    /* box-shadow: rgb(255, 255, 255)0px 0px 10px 0px; */
+    brightness: 2.4;
+}

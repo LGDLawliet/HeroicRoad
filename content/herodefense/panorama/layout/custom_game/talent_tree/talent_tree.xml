@@ -1,0 +1,28 @@
+<root>
+    <styles>
+        <include src="s2r://panorama/layout/custom_game/talent_tree/talent_tree.css"/>
+    </styles>
+    <scripts>
+        <include src="s2r://panorama/layout/custom_game/talent_tree/talent_tree.js"/>
+    </scripts>
+
+
+    <Panel hittest="false" class="chaoticera_talenttree">
+        <!-- 展开按钮 -->
+        <!-- <Button class="open-button" id="open-button"  onactivate="OpenTalentTree()"></Button> -->
+
+        <Panel class="talent-tree-root">
+            <Panel class="skill-points-container" id="skill-points-container">
+                <Label class="skill-points-text" id="skill-points-label" text="{s:skill_points}"/>
+            </Panel>
+            <Panel class="talent-tree-container" id="talent-tree-container">
+                <!-- Buttons will be dynamically added here -->
+            </Panel>
+            <Button class="toggle-button" id="toggle-button"  onactivate="toggleBorderOnPoints()">
+                <Label id="toggle-button-text" class="toggle-button-text" text="{s:toggle_talent_tree}"/>
+            </Button>
+        </Panel>
+
+
+    </Panel>
+</root>

@@ -1,0 +1,117 @@
+"DOTAAbilities"
+{
+    "Primary_Chaotic_Offering"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "warlock_rain_of_chaos"
+        "ScriptFile"               "skills/Primary_Chaotic_Offering"
+        "AbilityBehavior"          " DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_CHANNELLED"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "Unrefreshable"            "1"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.1"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "60"
+        "AbilityManaCost"          "600"
+        "AbilityCastRange"         "800"
+        "AOERadius"                "400"
+    
+        "precache"
+        {
+            "particle"    "particles/rebuild/spell/chaotic_offering/summon_finish.vpcf"
+            "particle"    "particles/rebuild/spell/chaotic_offering/ambient.vpcf"
+            "particle"    "particles/rebuild/spell/chaotic_offering/summon_wave.vpcf"
+        }
+        "AbilityValues"
+        {
+            "channel_time"  "10 9.5 9 8.5 8"
+            "stun_duration"    "1.5 1.6 1.7 1.8 1.9"
+            "radius"           "400"
+            "bonus_damage"     "120 140 160 180 200"
+            "bonus_health"     "150 160 170 180 190"
+            "bonus_armor"      "120 130 140 150 160"
+            "duration"         "40"
+        }
+    }
+    "Middle_Chaotic_Offering"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "warlock_rain_of_chaos"
+        "ScriptFile"               "skills/Middle_Chaotic_Offering"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_CHANNELLED"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.1"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "60"
+        "AbilityManaCost"          "600"
+        "AbilityCastRange"         "800"
+        "AOERadius"                "400"
+        "Unrefreshable"            "1"
+        "precache"
+        {
+            "particle"    "particles/rebuild/spell/chaotic_offering/summon_finish.vpcf"
+            "particle"    "particles/rebuild/spell/chaotic_offering/ambient.vpcf"
+            "particle"    "particles/rebuild/spell/chaotic_offering/summon_wave.vpcf"
+        }
+        "AbilityValues"
+        {   
+            "channel_time"  "8 7 6"
+            "stun_duration"    "2 2.2 2.4"
+            "radius"           "400"
+            "bonus_damage"     "200 215 230"
+            "bonus_health"     "190 210 220"
+            "bonus_armor"      "160 180 200"
+            "duration"         "40"
+            "middle_radius" "600"
+            "middle_damage" "0.8 0.9 1"
+        }
+    }
+    "Advanced_Chaotic_Offering"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "warlock_rain_of_chaos"
+        "ScriptFile"               "skills/Advanced_Chaotic_Offering"
+        "AbilityBehavior"          "  DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_CHANNELLED"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.1"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "60"
+        "AbilityManaCost"          "600"
+        "AbilityCastRange"         "800"
+        "AOERadius"                "400"
+        "Unrefreshable"            "1"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_warlock/warlock_rain_of_chaos_start.vpcf"
+            "particle"    "particles/units/heroes/hero_warlock/warlock_rain_of_chaos.vpcf"
+            "particle"    "particles/econ/items/warlock/greevil_golem/greevil_golem_ambient.vpcf"
+            "particle"    "particles/models/items/warlock/ti10_puppet_summoner_golem/ti10_puppet_summoner_golem.vpcf"
+            "particle"    "particles/econ/items/warlock/warlock_ti9_cache_tribal/warlock_ti9_golem_ambient.vpcf"
+
+            "particle"    "particles/rebuild/spell/chaotic_offering/summon_finish_5.vpcf"
+            "particle"    "particles/rebuild/spell/chaotic_offering/ambient_5.vpcf"
+            "particle"    "particles/rebuild/spell/chaotic_offering/summon_fly.vpcf"
+            "particle"    "particles/rebuild/spell/chaotic_offering/summon_wave_5.vpcf"
+
+        }
+
+        "AbilityValues"
+        {
+            "channel_time"  "5"
+            "stun_duration"    "2.6"
+            "radius"            "400"
+            "bonus_damage"      "230"
+            "bonus_health"      "220"
+            "bonus_armor"       "200"
+            "duration"          "40"
+            "middle_radius" "600"
+            "middle_damage" "1"
+            "advanced_level"    "1"
+        }
+    }
+}

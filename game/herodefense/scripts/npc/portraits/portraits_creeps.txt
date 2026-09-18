@@ -1,0 +1,108 @@
+"Portraits"
+{
+
+    // 中级火元素
+    "models/monster/element/lava/lava_emental.vmdl"
+	{
+		"cameras"
+		{
+			"Default"
+			{
+				"PortraitPosition"		"220.096802 -120.455048 190.410965"
+				"PortraitAngles"		"12.890015 150.830353 0.000000"
+				"PortraitFOV"		"30.000000"
+				"PortraitFar"		"1000.000000"
+			}
+		}
+		"PortraitLightPosition"		"140.898422 2.266296 296.776184"
+		"PortraitLightAngles"		"54.789997 -166.331360 0.000000"
+		"PortraitLightFOV"		"49.076000"
+		"PortraitLightDistance"		"336.000000"
+		"PortraitLightColor"		"242 255 253"
+		"PortraitLightScale"		"2.000000"
+		"PortraitShadowColor"		"167 203 235"
+		"PortraitShadowScale"		"1.000000"
+		"PortraitGroundShadowScale"		"1.500000"
+		"PortraitAmbientDirection"		"-79.070 -84.150 -25.320"
+		"PortraitAmbientColor"		"72 215 255"
+		"PortraitAmbientScale"		"1.000000"
+		"PortraitSpecularColor"		"251 74 84"
+		"PortraitSpecularDirection"		"0.000000 0.000000 -1.000000"
+		"PortraitSpecularPower"		"16.000000"
+		"PortraitBackgroundColor1"		"0.388235 0.388235 0.388235"
+		"PortraitBackgroundColor2"		"0.388235 0.388235 0.388235"
+		"PortraitBackgroundColor3"		"0.388235 0.388235 0.388235"
+		"PortraitBackgroundColor4"		"0.388235 0.388235 0.388235"
+		"PortraitBackgroundTexture"		"materials/vgui/hud/heroportraits/portraitbackground_qop_arcana.vmat"
+		"PortraitAnimationActivity"		"ACT_DOTA_CAPTURE"
+		"PortraitAnimationCycle"		"0.000000"
+		"PortraitAnimationRate"		"1.000000"
+		"PortraitHideHero"		"0"
+		// "PortraitParticle"		"particles/econ/items/crystal_maiden/crystal_maiden_maiden_of_icewrack/maiden_freezing_field_snow_arcana1.vpcf"
+		"PortraitHideParticles"		"0"
+		"PortraitHideDropShadow"		"0"
+		"PortraitDesaturateParticles"		"0"
+		"PortraitDesaturateHero"		"1"
+	}
+
+	// 中级土元素
+	"models/rebuild/earthspirit/earthspirit_override.vmdl"
+	{
+		"PortraitLightPosition"		"100.64 54.21 200.18"
+		"PortraitLightAngles"		"40.26 210.04 0.00"
+		"PortraitLightFOV"		"82"
+		"PortraitLightDistance"		"315"
+		"PortraitLightColor"		"220 254 134"
+		"PortraitShadowColor"		"0 84 0"
+		"PortraitShadowScale"		"5.000000"
+		"PortraitAmbientColor"		"157 178 155"
+		"PortraitAmbientScale"		"0.225000"
+		"PortraitSpecularColor"		"251 74 84"
+		"PortraitBackgroundTexture"		"materials/vgui/hud/heroportraits/portraitbackground_forest.vmat"
+		"PortraitLightScale"		"1.250000"
+		"PortraitGroundShadowScale"		"1.500000"
+		"PortraitAmbientDirection"		"10.160 -52.070 5.270"
+		"PortraitAnimationActivity"		"ACT_DOTA_IDLE"
+		"cameras"
+		{
+			"default"
+			{
+				"PortraitPosition"		"225.71 74.03 57.32"
+				"PortraitAngles"		"343.92 202.98 0.00"
+				"PortraitFOV"		"14"
+			}
+		}
+	}
+
+
+	// 饥渴先锋
+	"models/monster/element/molten/molten_emental.vmdl"
+	{
+		"PortraitLightPosition"		"100.64 54.21 200.18"
+		"PortraitLightAngles"		"40.26 210.04 0.00"
+		"PortraitLightFOV"		"82"
+		"PortraitLightDistance"		"315"
+		"PortraitLightColor"		"220 254 134"
+		"PortraitShadowColor"		"0 84 0"
+		"PortraitShadowScale"		"5.000000"
+		"PortraitAmbientColor"		"157 178 155"
+		"PortraitAmbientScale"		"0.225000"
+		"PortraitSpecularColor"		"251 74 84"
+		"PortraitBackgroundTexture"		"materials/vgui/hud/heroportraits/portraitbackground_qop_arcana.vmat"
+		"PortraitLightScale"		"1.250000"
+		"PortraitGroundShadowScale"		"1.500000"
+		"PortraitAmbientDirection"		"10.160 -52.070 5.270"
+		"PortraitAnimationActivity"		"ACT_DOTA_IDLE"
+		"cameras"
+		{
+			"default"
+			{
+				"PortraitPosition"		"192.71 -112.03 208.32"
+				"PortraitAngles"		"23.92 143.98 0.00"
+				"PortraitFOV"		"14"
+			}
+		}
+	}
+	
+
+}

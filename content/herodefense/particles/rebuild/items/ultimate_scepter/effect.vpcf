@@ -1,0 +1,224 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf51:version{6d03d500-2498-454e-b833-f654e870bb3d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 25
+	m_nBehaviorVersion = 12
+	m_nFirstMultipleOverride_BackwardCompat = 4
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 1.0, 1.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 1.0, 1.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 62
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/heroes/juggernaut/juggernaut.vmdl"
+				m_nModSpecificData = 6
+				m_sequenceName = "idle"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flEmissionDuration = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.05
+			}
+			m_flEmitRate = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 500.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+			m_nOutputField = 1
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMin = [ 60, 86, 163, 255 ]
+			m_ColorMax = [ 38, 72, 206, 255 ]
+		},
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 64.0
+			}
+		},
+		{
+			_class = "C_INIT_CreateSequentialPathV2"
+			m_flNumToAssign = 25.0
+			m_PathParams = 
+			{
+				m_flMidPoint = 0.15
+				m_nBulgeControl = 1
+				m_flBulge = 0.15
+				m_nEndControlPointNumber = 1
+			}
+		},
+		{
+			_class = "C_INIT_DistanceToCPInit"
+			m_nFieldOutput = 7
+			m_flInputMax = 32.0
+			m_flInputMin = 2.0
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin = [ 0.0, 0.0, 96.0 ]
+			m_OffsetMax = [ 0.0, 0.0, 96.0 ]
+			m_TransformInput = 
+			{
+				m_nType = "PT_TYPE_CONTROL_POINT"
+			}
+		},
+		{
+			_class = "C_INIT_RemapScalarToVector"
+			m_bLocalCoords = false
+			m_vecOutputMax = [ 4.0, 0.0, 0.1 ]
+			m_vecOutputMin = [ 0.0, 0.0, 1.0 ]
+			m_nFieldOutput = 21
+			m_flInputMax = 0.05
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+		},
+		{
+			_class = "C_OP_FadeOut"
+			m_flFadeOutTimeMax = 1.0
+			m_flFadeOutTimeMin = 1.0
+		},
+		{
+			_class = "C_OP_Decay"
+			m_flOpEndFadeInTime = 3.0
+			m_flOpStartFadeInTime = 3.0
+		},
+		{
+			_class = "C_OP_ColorInterpolate"
+			m_ColorFade = [ 86, 109, 224, 255 ]
+		},
+		{
+			_class = "C_OP_PercentageBetweenTransforms"
+			m_flOpStartFadeOutTime = 0.1
+			m_flOpEndFadeOutTime = 0.1
+			m_flOutputMin = 0.5
+			m_flOutputMax = 4.0
+			m_nSetMethod = "PARTICLE_SET_SCALE_INITIAL_VALUE"
+			m_TransformStart = 
+			{
+				m_nType = "PT_TYPE_CONTROL_POINT"
+			}
+			m_TransformEnd = 
+			{
+				m_nType = "PT_TYPE_CONTROL_POINT"
+				m_nControlPoint = 1
+			}
+		},
+		{
+			_class = "C_OP_PercentageBetweenTransforms"
+			m_flInputMin = 0.5
+			m_nFieldOutput = 16
+			m_flOutputMin = 1.0
+			m_flOutputMax = 0.0
+			m_TransformStart = 
+			{
+				m_nType = "PT_TYPE_CONTROL_POINT"
+			}
+			m_TransformEnd = 
+			{
+				m_nType = "PT_TYPE_CONTROL_POINT"
+				m_nControlPoint = 1
+			}
+		},
+		{
+			_class = "C_OP_RampScalarSplineSimple"
+			m_Rate = -50.0
+			m_bEaseOut = true
+		},
+		{
+			_class = "C_OP_OscillateVector"
+			m_RateMax = [ 1.0, 1.0, 1.0 ]
+			m_FrequencyMin = [ 0.5, 0.5, 0.5 ]
+			m_nField = 21
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderRopes"
+			m_nOrientationType = "PARTICLE_ORIENTATION_ALIGN_TO_PARTICLE_NORMAL"
+			m_flOverbrightFactor = 4.0
+			m_flAddSelfAmount = 1.0
+			m_bSaturateColorPreAlphaBlend = false
+			m_nScaleCP2 = 1
+			m_nScaleCP1 = 0
+			m_flRadiusScale = 0.5
+			m_flTextureVWorldSize = 0.0
+			m_flScaleVSizeByControlPointDistance = 1.0
+			m_flTextureVOffset = 0.15
+			m_flScaleVOffsetByControlPointDistance = 0.000586
+			m_flTextureVScrollRate = -25.600002
+			m_nMaxTesselation = 5
+			m_nMinTesselation = 5
+			m_nHSVShiftControlPoint = 62
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/beam_plasma_06.vtex"
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ultimate_scepter/effect_blur.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ultimate_scepter/effect_glow.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ultimate_scepter/effect_glow_b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ultimate_scepter/effect_contrast.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/items/ultimate_scepter/effect_sparks.vpcf"
+		},
+	]
+}

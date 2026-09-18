@@ -1,0 +1,26 @@
+
+<root>
+	<styles>
+		<include src="file://{resources}/layout/custom_game/tooltips/advanced_info/advanced_info.css" />
+	</styles>
+	<scripts>
+		<include src="file://{resources}/scripts/custom_game/common.js" />
+		<include src="file://{resources}/layout/custom_game/tooltips/advanced_info/advanced_info.js" />
+	</scripts>
+	<snippets>
+
+	</snippets>
+	<Panel ontooltiploaded="setupTooltip()">
+		<Panel id="advanced_tooltip" class="Border">
+			<Panel id="advanced_info_header">
+				<Label id="advanced_Title" text="我是谁？" class="TitleFont" html="true" />
+				<Label id="advanced_subTitle" text="啥？" html="true" />
+			</Panel>
+			<Panel id="advanced_info_main_block">
+				<Label id="Description" text="蜜丝特拉" html="true" />
+				<Label id="Description_source" html="true" />
+			</Panel>
+
+		</Panel>
+	</Panel>
+</root>

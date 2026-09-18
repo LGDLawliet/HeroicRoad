@@ -1,0 +1,390 @@
+"DOTAAbilities"
+{
+    "Primary_mist_coil"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_death_coil"
+        "ScriptFile"               "skills/Primary_mist_coil"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.45"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "12 11 10 9 8"
+        "AbilityManaCost"          "50 65 80 95 110"
+        "AbilityCastRange"         "1000"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_death_coil.vpcf"
+        }
+        "AbilityValues"
+        {
+            "spell_damage"    "100 150 200 250 300"
+            "str_index"       "1 1.5 2 2.5 3"
+            "self_damage"     "80 70 60 50 40"
+        }
+    }
+    "Middle_mist_coil"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_death_coil"
+        "ScriptFile"               "skills/Middle_mist_coil"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.45"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "8"
+        "AbilityManaCost"          "110"
+        "AbilityCastRange"         "1000"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_death_coil.vpcf"
+        }
+        "AbilityValues"
+        {
+            "spell_damage"    "300 400 500"
+            "str_index"       "3 4 5"
+            "self_damage"     "40"
+        }
+    }
+    "Advanced_mist_coil"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_death_coil"
+        "ScriptFile"               "skills/Advanced_mist_coil"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.45"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "8"
+        "AbilityManaCost"          "110"
+        "AbilityCastRange"         "2500"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_death_coil.vpcf"
+        }
+        "AbilityValues"
+        {
+            "spell_damage"      "500"
+            "str_index"         "5"
+            "self_damage"       "40"
+            "advanced_level"    "1"
+        }
+    }
+    "Primary_aphotic_shield"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_aphotic_shield"
+        "ScriptFile"               "skills/Primary_aphotic_shield"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.45"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "20 19 18 17 16"
+        "AbilityManaCost"          "50 65 80 95 110"
+        "AbilityCastRange"         "1000"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_aphotic_shield.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_aphotic_shield_explosion.vpcf"
+        }
+        "AbilityValues"
+        {
+            "spell_sheild"    "100 150 200 250 300"
+            "str_index"       "1 1.5 2 2.5 3"
+            "spell_damage"    "75 100 125 150 175"
+            "str_damage"      "1 1.2 1.4 1.6 1.8"
+            "radius"          "300"
+            "duration"        "10"
+        }
+    }
+    "Middle_aphotic_shield"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_aphotic_shield"
+        "ScriptFile"               "skills/Middle_aphotic_shield"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.45"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "16 15 14"
+        "AbilityManaCost"          "110"
+        "AbilityCastRange"         "1000"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_aphotic_shield.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_aphotic_shield_explosion.vpcf"
+        }
+        "AbilityValues"
+        {
+            "spell_sheild"    "300 400 500"
+            "str_index"       "3 3.5 4"
+            "spell_damage"    "200 250 300"
+            "str_damage"      "2 2.3 2.6"
+            "radius"          "300"
+            "duration"        "10"
+        }
+    }
+    "Advanced_aphotic_shield"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_aphotic_shield"
+        "ScriptFile"               "skills/Advanced_aphotic_shield"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.45"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "14"
+        "AbilityManaCost"          "110"
+        "AbilityCastRange"         "1000"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_aphotic_shield.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_aphotic_shield_explosion.vpcf"
+        }
+        "AbilityValues"
+        {
+            "spell_sheild"      "500"
+            "str_index"         "4"
+            "spell_damage"      "300"
+            "str_damage"        "2.6"
+            "radius"            "300"
+            "duration"          "10"
+            "advanced_level"    "1"
+        }
+    }
+    "Primary_frostmourne"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_frostmourne"
+        "ScriptFile"               "skills/Primary_frostmourne"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        // "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.45"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_curse_counter_stack.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_curse_frostmourne_debuff.vpcf"
+        }
+        "AbilityValues"
+        {
+            "attack_speed"      "10 11 12 13 14"
+            "slow"              "10 12 14 16 18"
+            "damage"            "1 1.5 2 2.5 3"
+            "duration"          "4"
+        }
+    }
+    "Middle_frostmourne"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_frostmourne"
+        "ScriptFile"               "skills/Middle_frostmourne"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        // "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.45"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_curse_counter_stack.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_curse_frostmourne_debuff.vpcf"
+            "particle"    "particles/econ/items/shadow_demon/sd_ti7_shadow_poison/sd_ti7_shadow_poison_kill.vpcf"
+        }
+        "AbilityValues"
+        {
+            "attack_speed"      "15 16.5 18"
+            "slow"              "20 22.5 25"
+            "damage"            "3 4.5 6"
+            "duration"          "4"
+            
+            "radius"    "300"
+            "max"   "1"
+            "interval"  "1.5"
+        }
+    }
+    "Advanced_frostmourne"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_frostmourne"
+        "ScriptFile"               "skills/Advanced_frostmourne"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PHYSICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        // "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.45"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_curse_counter_stack.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_curse_frostmourne_debuff.vpcf"
+            "particle"    "particles/econ/items/shadow_demon/sd_ti7_shadow_poison/sd_ti7_shadow_poison_kill.vpcf"
+            "particle"    "particles/units/heroes/hero_nyx_assassin/nyx_loadout.vpcf"
+        }
+        "AbilityValues"
+        {
+            "attack_speed"      "20"
+            "slow"              "25"
+            "damage"            "7.5"
+            "duration"          "4"
+            
+            "radius"    "300"
+            "max"   "1"
+            "interval"  "1.5"
+            "steal"         "10"
+            "index"         "10"
+            "magic_res_5"   "5"
+            "outgoing_15"  "10"
+            "duration_15"   "2"
+            "index_10"      "1"
+            "stack_20"      "20"
+
+            "advanced_level"        "1"
+        }
+    }
+    "Primary_borrowed_time"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_borrowed_time"
+        "ScriptFile"               "skills/Primary_borrowed_time"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT | DOTA_ABILITY_BEHAVIOR_IGNORE_BACKSWING"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCooldown"          "90"
+        "AbilityManaCost"          "150"
+        "AbilityCastRange"         "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_borrowed_time.vpcf"
+            "particle"    "particles/status_fx/status_effect_abaddon_borrowed_time.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_borrowed_time_heal.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"    "3 3.5 4 4.5 5"
+        }
+    }
+    "Middle_borrowed_time"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_borrowed_time"
+        "ScriptFile"               "skills/Middle_borrowed_time"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT | DOTA_ABILITY_BEHAVIOR_IGNORE_BACKSWING"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCooldown"          "90"
+        "AbilityManaCost"          "150"
+        "AbilityCastRange"         "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_borrowed_time.vpcf"
+            "particle"    "particles/status_fx/status_effect_abaddon_borrowed_time.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_borrowed_time_heal.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"    "5 5.5 6"
+        }
+    }
+    "Advanced_borrowed_time"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "abaddon_borrowed_time"
+        "ScriptFile"               "skills/Advanced_borrowed_time"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT | DOTA_ABILITY_BEHAVIOR_IGNORE_BACKSWING"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCooldown"          "90"
+        "AbilityManaCost"          "150"
+        "AbilityCastRange"         "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_borrowed_time.vpcf"
+            "particle"    "particles/status_fx/status_effect_abaddon_borrowed_time.vpcf"
+            "particle"    "particles/units/heroes/hero_abaddon/abaddon_borrowed_time_heal.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"          "8"
+            "advanced_level"    "1"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+<root>
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/buff_list/buff_list.css" /> 
+	</styles>
+
+	<scripts>
+			<include src="s2r://panorama/layout/custom_game/buff_list/buff_list_single_buff.js" />
+	
+	</scripts>
+	<Panel class="BuffRoot" hittest="false">
+		<Button id="BuffFrame"
+					
+							>
+			<Panel id="BuffImage">
+				<DOTAAbilityImage class="BuffImg" id="AbilityImg" />
+				<DOTAItemImage class="BuffImg" id="ItemImg" scaling="stretch-to-fit-y-preserve-aspect" />
+				<Image class="BuffImg" id="BuffImg" />
+				<Image class="BuffImg" id="BuffImgAlt" />
+				<Image class="BuffImg" id="BuffImgOther" />
+			</Panel>
+			<Label id="StackCount" />
+			<Panel id="CircularDuration"/>
+		</Button>
+	</Panel>
+</root>
+
+ 

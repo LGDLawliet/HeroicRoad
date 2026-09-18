@@ -1,0 +1,143 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- 2-Sided Rendering ----
+	F_RENDER_BACKFACES 1
+
+	//---- Detail ----
+	F_DETAIL 1 // Add
+	F_DETAIL_2 2 // Add Self Illum
+
+	//---- Effect Proxies ----
+	F_USE_HERO_EFFECTS_PROXY 1
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.074"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/eom/lawliet/sci_cat/textures/skin4/t_scifi_hellcat_armor_basecolor_skin4.png"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[1.000 1.000]"
+	TextureDetail "models/eom/lawliet/sci_cat/textures/skin4/t_scifi_hellcat_armor_emissive_skin4.png"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.000"
+	g_vDetail2TexCoordOffset "[0.000 0.000]"
+	g_vDetail2TexCoordScale "[1.000 1.000]"
+	TextureDetail2 ""
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "1.000"
+	g_flBloomShift "1.000"
+	g_vBloomColor "[1.000000 0.000000 0.000000 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureDiffuseWarpMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureMetalnessMask "models/eom/lawliet/sci_cat/textures/skin4/t_scifi_hellcat_armor_metallrough_skin4.png"
+	TextureSelfIllumMask "models/eom/lawliet/sci_cat/textures/skin4/t_scifi_hellcat_armor_emissive_skin4.png"
+
+	//---- Mask 2 ----
+	TextureRimMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularExponent "[0.680000 0.680000 0.680000 0.000000]"
+	TextureSpecularMask "[0.730000 0.730000 0.730000 0.000000]"
+	TextureTintByBaseMask "[0.640000 0.640000 0.640000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "models/eom/lawliet/sci_cat/textures/skin4/t_scifi_hellcat_armor_normal_skin4.png"
+
+	//---- Rim ----
+	g_flRimLightScale "1.036"
+	g_vRimLightColor "[1.000000 0.678431 0.678431 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "32.000"
+	g_flSpecularScale "1.000"
+	g_vSpecularColor "[0.933333 0.992157 1.000000 0.000000]"
+
+	Attributes
+	{
+		PreviewModel "models/eom/lawliet/sci_cat/sci_cat.vmdl"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+	}
+}

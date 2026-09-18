@@ -1,0 +1,136 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 3 // Mod2X
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/custom/hd_props/legendary_forge/kit/textures/stairs/t_stairs_01_d.png"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[3.000 3.000]"
+	TextureDetail "models/custom/rock/textures/detail/ground_01.png"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/default/default_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.000"
+	g_flBloomScale "0.000"
+	g_flBloomShift "0.000"
+	g_vBloomColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "[0.508000 0.508000 0.508000 0.000000]"
+	TextureDiffuseWarpMask "[0.950000 0.950000 0.950000 0.000000]"
+	TextureMetalnessMask "models/custom/hd_props/legendary_forge/kit/textures/stairs/t_stairs_01_mask2.png"
+	TextureSelfIllumMask "[0.073000 0.073000 0.073000 0.000000]"
+
+	//---- Mask 2 ----
+	TextureRimMask "[0.037000 0.037000 0.037000 0.000000]"
+	TextureSpecularExponent "[0.390000 0.390000 0.390000 0.000000]"
+	TextureSpecularMask "[0.988000 0.988000 0.988000 0.000000]"
+	TextureTintByBaseMask "[0.579000 0.579000 0.579000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "models/custom/hd_props/legendary_forge/kit/textures/stairs/t_stairs_01_n.png"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "29.942"
+	g_flSpecularScale "0.050"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	Attributes
+	{
+		PreviewModel "models/custom/hd_props/legendary_forge/kit/stairs.vmdl"
+	}
+
+	DynamicParams
+	{
+		g_vDetailTexCoordScale "return float2(20,20);"
+	}
+
+	UnusedVariables
+	{
+		"g_flCubeMapScalar" "0.2"
+		"TextureCubeMap" "models/monster/element/lava/textures/lava_cube.png"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+	}
+}

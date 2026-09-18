@@ -1,0 +1,562 @@
+GameUI.CustomUIConfig().ChaoticEra_Artifact = {
+	"taken_from_tomorrow": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/taken_from_tomorrow.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"value1": 6,
+		},
+	},
+	"blacksmith_craftsmanship": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/blacksmith_craftsmanship.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"value1": 1,
+		},
+	},
+	"pharmacist": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/pharmacist.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_gain": 50,
+			"cost_reduction": 20,
+		},
+	},
+	"tactical_delay": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/tactical_delay.png",
+		"weight": 0,
+		"type": "dummy_buff",
+		"AbilityValues": {
+			"delay": 10,
+			"bonus_gain": 50,
+		},
+	},
+	"soul_devouring": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/soul_devouring.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_damage": 1,
+			"bonus_max": 100,
+			"boss_gain": 5,
+			"time_require": 30,
+		},
+	},
+	"best_backup": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/best_backup.png",
+		"weight": 100,
+		"type": "self_buff",
+		"player_count_require": 2,
+		"AbilityValues": {
+			"bonus_attribute": 30,
+		},
+	},
+	"artifact_prescient": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/artifact_prescient.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"count": 4,
+		},
+	},
+	"payday": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/payday.png",
+		"weight": 100,
+		"type": "self_buff",
+		"wave_require": 10,
+		"AbilityValues": {
+			"bonus": 1.5,
+		},
+	},
+	"demon_revelation": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/demon_revelation.png",
+		"weight": 100,
+		"type": "self_buff",
+		"wave_require": 10,
+		"AbilityValues": {
+			"count": 2,
+			"attribute_reduction": 30,
+		},
+	},
+	"cut_the_crap": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/cut_the_crap.png",
+		"weight": 30,
+		"type": "self_buff",
+		"wave_require_max": 10,
+		"AbilityValues": {
+			"level8_chance": 6,
+			"level9_chance": 3,
+		},
+	},
+	"the_omexe_arena": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/the_omexe_arena.png",
+		"weight": 100,
+		"type": "self_buff",
+		"wave_require_max": 20,
+		"AbilityValues": {
+			"interval": 60,
+			"bonus_attribute": 4,
+		},
+	},
+	"artifact_challenger": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/artifact_challenger.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_damage": 50,
+			"damage_reduction": 20,
+		},
+	},
+	"smash_armor": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/smash_armor.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"armor_reduction": 20,
+			"magical_reduction": 40,
+		},
+	},
+	"bolt_of_damocles": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/bolt_of_damocles.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"radius": 1800,
+			"stun_duration": 8,
+			"health_damage": 50,
+			"cooldown_time": 5,
+			"interval": 4,
+		},
+	},
+	"curse_of_decline": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/curse_of_decline.png",
+		"weight": 100,
+		"type": "dummy_buff",
+		"AbilityValues": {
+			"health_reduction": 15,
+		},
+	},
+	"iron_tree_branches_guard": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/iron_tree_branches_guard.png",
+		"weight": 100,
+		"type": "self_buff",
+		"wave_require_max": 30,
+		"AbilityValues": {
+			"bonus_attribute": 2,
+			"cost": 700,
+		},
+	},
+	"divine_intervention": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/divine_intervention.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"duration": 60,
+			"damage_reduction_active": 99,
+			"damage_reduction": 20,
+		},
+	},
+	"secret_excavation": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/secret_excavation.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"rune_level3": 100,
+			"rune_level4": 0.1,
+			"rune_level5": 0,
+		},
+	},
+	"avernus_mist": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/avernus_mist.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"shield_index": 80,
+		},
+	},
+	"aghanims_sanctum": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/aghanims_sanctum.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"level_upgrade": 7,
+			"bonus_level": 6,
+		},
+	},
+	"revtel_investments": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/revtel_investments.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"count": 2,
+			"bonus_bounty": 100,
+		},
+	},
+	"personal_tutor": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/personal_tutor.png",
+		"weight": 0,
+		"type": "self_buff",
+		"player_count_require": 2,
+		"AbilityValues": {
+			"count": 4,
+			"bonus_rune": 10,
+		},
+	},
+	"forgotten_individuals": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/forgotten_individuals.png",
+		"weight": 0,
+		"type": "self_buff",
+		"AbilityValues": {
+			"count": 1,
+			"duration": 180,
+		},
+	},
+	"bloodthirsty_sword": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/bloodthirsty_sword.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_attribute": 0.5,
+			"bonus_max": 100,
+		},
+	},
+	"excessive_consumption": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/excessive_consumption.png",
+		"weight": 100,
+		"type": "self_buff",
+		"wave_require_max": 20,
+		"AbilityValues": {
+			"bonus_gold": 15000,
+			"gold_reduction": 5,
+			"interval": 10,
+			"gold_rate": 40,
+		},
+	},
+	"golden_ticket": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/golden_ticket.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"count": 5,
+			"gold_reduction": 50,
+		},
+	},
+	"gift_of_the_grand_mage": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/gift_of_the_grand_mage.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"count": 1,
+			"rune_level3": 100,
+			"rune_level4": 0.1,
+			"rune_level5": 0,
+		},
+	},
+	"out_of_nothing": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/out_of_nothing.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"count1": 1,
+			"count2": 1,
+			"count3": 1,
+		},
+	},
+	"glass_cannon": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/glass_cannon.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"stack": 8,
+			"bonus_damage": 10,
+			"min_health": 30,
+			"damage_down": 20,
+			"stack_down": 2,
+		},
+	},
+	"fat_rat": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/fat_rat.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_gold": 20,
+		},
+	},
+	"mygo_power": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/mygo_power.png",
+		"weight": 100,
+		"type": "self_buff",
+		"wave_require_max": 20,
+		"AbilityValues": {
+			"atb": 150,
+			"hp": 3000,
+			"mp": 2000,
+			"attack": 600,
+			"spell": 100,
+			"stack": 15,
+		},
+	},
+	"chaos_lucky": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/chaos_lucky.png",
+		"weight": 0,
+		"type": "self_buff",
+		"AbilityValues": {
+			"interval": 3,
+			"outgoing_min": 40,
+			"outgoing_max": 200,
+		},
+	},
+	"occult_epiphany": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/occult_epiphany.png",
+		"weight": 100,
+		"type": "self_buff",
+		"wave_require_max": 20,
+		"AbilityValues": {
+			"value1": 1,
+			"value2": 100,
+		},
+	},
+	"admission_notice": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/admission_notice.png",
+		"weight": 100,
+		"type": "self_buff",
+		"wave_require_max": 20,
+		"AbilityValues": {
+			"damage_reduction": 25,
+			"bonus_damage": 1,
+			"bonus_damage_max": 10,
+			"bonus_damage_2": 20,
+			"wave_require": 10,
+		},
+	},
+	"artifact_oil": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/artifact_oil.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"distance": 600,
+			"radius": 600,
+			"health_damage": 50,
+			"cooldown": 3,
+		},
+	},
+	"artifact_ashe": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/artifact_ashe.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"damage_index": 2,
+			"duration": 1,
+			"cooldown_require": 3,
+			"bonus_damage": 1,
+			"radius": 400,
+			"cooldown": 1,
+		},
+	},
+	"at_any_cost": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/at_any_cost.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_incoming_damage": 10,
+			"bonus_flame_damage": 40,
+		},
+	},
+	"artifact_frozen": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/artifact_frozen.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"value1": 2,
+			"value2": 3,
+		},
+	},
+	"super_ice": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/super_ice.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"ice_outgoing": 30,
+			"line": 280,
+			"ice_outgoing_plus": 45,
+		},
+	},
+	"thunder": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/thunder.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"value2": 10,
+			"value3": 20,
+			"value4": 15,
+			"value5": 1,
+		},
+	},
+	"storm_comes": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/storm_comes.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"stack": 1,
+			"stack_max": 20,
+			"outgoing": 10,
+			"duration": 1,
+		},
+	},
+	"allseeing_oness_favor": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/allseeing_oness_favor.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_health_regen": 20,
+			"damage_index": 700,
+		},
+	},
+	"super_dark": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/super_dark.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"dark_damage": 25,
+			"outgoing": 5,
+		},
+	},
+	"grinding_technique": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/grinding_technique.png",
+		"weight": 100,
+		"type": "self_buff",
+		"OnlyMelee": 1,
+		"AbilityValues": {
+			"armor_ignore": 30,
+			"interval": 20,
+			"lose": 4,
+		},
+	},
+	"antiaircraft_gun": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/antiaircraft_gun.png",
+		"weight": 100,
+		"type": "self_buff",
+		"OnlyRanger": 1,
+		"AbilityValues": {
+			"value1": 100,
+			"value2": 100,
+			"value3": 2,
+		},
+	},
+	"power_stealing": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/power_stealing.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_damage": 8,
+			"reduction_max": 60,
+			"bonus_rate": 10,
+			"duration": 6,
+		},
+	},
+	"super_attack": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/super_attack.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_attack_pct": 18,
+			"bonus_attack": 200,
+		},
+	},
+	"elite_resist": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/elite_resist.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"incoming": 16,
+			"attack": 15,
+			"duration": 2,
+		},
+	},
+	"domination_helmet": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/domination_helmet.png",
+		"weight": 100,
+		"type": "self_buff",
+		"AbilityValues": {
+			"summon_gain": 30,
+			"armor_ignore": 10,
+		},
+	},
+	"artifact_god_strength": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/artifact_god_strength.png",
+		"weight": 100,
+		"type": "self_buff",
+		"player_count_require": 2,
+		"AbilityValues": {
+			"radius": 1000,
+			"bonus_damage": 50,
+			"bonus_max": 500,
+		},
+	},
+	"defending_the_weak": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/defending_the_weak.png",
+		"weight": 100,
+		"type": "self_buff",
+		"player_count_require": 2,
+		"AbilityValues": {
+			"interval": 20,
+			"radius": 1000,
+			"bonus_armor": 15,
+			"bonus_attribute": 20,
+			"duration": 35,
+		},
+	},
+	"roller_compacted": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/roller_compacted.png",
+		"weight": 0,
+		"type": "self_buff",
+		"AbilityValues": {
+			"bonus_damage": 30,
+		},
+	},
+	"bullshit": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/bullshit.png",
+		"weight": 0,
+		"type": "self_buff",
+		"AbilityValues": {
+			"value1": 1,
+			"value2": 40,
+			"value3": 40,
+			"value4": 0,
+			"value5": 10,
+		},
+	},
+	"bullshit2": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/bullshit2.png",
+		"weight": 0,
+		"type": "self_buff",
+		"AbilityValues": {
+			"value1": 1,
+			"value2": 40,
+			"value3": 40,
+			"value4": 40,
+			"value5": 0,
+			"value6": 1500,
+		},
+	},
+	"arcane_mark": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/arcane_mark.png",
+		"weight": 0,
+		"type": "self_buff",
+		"AbilityValues": {
+			"value1": 33,
+		},
+	},
+	"artifact_barracks": {
+		"image": "file://{images}/custom_game/chaotic_era/hud/artifact/artifact_barracks.png",
+		"weight": 0,
+		"type": "self_buff",
+		"AbilityValues": {
+			"interval_reduction": 50,
+			"gold_down": 33,
+			"count": 1,
+		},
+	},
+};

@@ -1,0 +1,5 @@
+
+"DOTA_Tooltip_ability_item_hd_star_mace_2"	"STAR MACE<font color=\"#777777\">-2лвл</font>"
+"DOTA_Tooltip_ability_item_hd_star_mace_2_Description"	"<h1>Потребление:Cъедобный</h1>Восстанавливает 500+25%% от максимального здоровья.<br><br>Количество использований: 2"
+"DOTA_Tooltip_ability_item_hd_star_mace_2_Lore"	"Хорошо сделанная конфета."
+

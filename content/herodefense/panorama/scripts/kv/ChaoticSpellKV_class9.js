@@ -1,0 +1,74 @@
+GameUI.CustomUIConfig().ChaoticSpellKV_class9 = {
+	"chaotic_foresigh": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_power_word_heal": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_invulnerability": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_meteor_swarm": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_true_resurrection": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_time_stop": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_wish": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_chop_soul": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_time_cleave": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_getsuga_tenshou": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_returning_to_the_mortal_world": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_summon_advanced_lightning_sphere_element": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_summon_chaotic_executive": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_summon_spirit_of_miyamoto": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_overcharge": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_element_ice": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_static_storm": {
+		"class_level": 9,
+		"weight": 100,
+	},
+	"chaotic_shapeshift": {
+		"class_level": 9,
+		"weight": 100,
+	},
+};

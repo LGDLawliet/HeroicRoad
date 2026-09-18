@@ -1,0 +1,184 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 2 // Add Self Illum
+
+	//---- Effect Proxies ----
+	F_USE_HERO_EFFECTS_PROXY 1
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Translucency ----
+	F_ADDITIVE_BLEND 1
+	F_ALPHA_ANGLE_POWER 1
+	F_TRANSLUCENT 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.100"
+	g_flCloakIntensity "1.000"
+	g_flCloakRefractAmount "1.000"
+	g_flMaterialCloakFactor "0.946"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "[0.160784 0.160784 0.160784 1.000000]"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "0.277"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[8.000 8.000]"
+	TextureDetail "materials/models/heroes/abaddon/abaddon_detail.psd"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.000"
+	TextureDetail2 "[0.000000 0.000000 0.000000 1.000000]"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "materials/models/heroes/slardar/slardar_fresnelwarpcolor.tga"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "materials/models/heroes/axe/axe_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "1.763"
+	g_flBloomScale "0.000"
+	g_flBloomShift "-1.000"
+	g_flOverbrightFactor "1.000"
+	g_vBloomColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Mask 1 ----
+	TextureDetailMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureDiffuseWarpMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureMetalnessMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSelfIllumMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Mask 2 ----
+	TextureRimMask "[0.000000 0.000000 0.000000 0.000000]"
+	TextureSpecularExponent "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureTintByBaseMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "[0.501961 0.501961 1.000000 0.000000]"
+
+	//---- Rim ----
+	g_flRimLightScale "1.000"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Specular ----
+	g_flSpecularExponent "49.390"
+	g_flSpecularScale "5.000"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Translucency ----
+	TextureTranslucency "models/override_model/terrorblade_ultimate/textures/terrorblade_ultimate_depravity_ability_755fc7ca_trans.png"
+
+	//---- Translucent ----
+	g_flAlphaAnglePower "1.000"
+
+	Attributes
+	{
+		PreviewModel "models/override_model/terrorblade_ultimate/terrorblade_ultimate_depravity_demon.vmdl"
+	}
+
+	DynamicParams
+	{
+		g_vDetail1ColorTint "return exists($GemColor) ? $GemColor : float3(.34,.73,.93);"
+		g_vDetailTexCoordOffset "return frac(float2(-.06,-.5)*time());"
+		g_vSpecularColor "return exists($GemColor) ? $GemColor : float3(.349,.735,1);"
+	}
+
+	UnusedVariables
+	{
+		"TextureCubeMapSeparateMask" "[1.000000 1.000000 1.000000 0.000000]"
+		"g_flColorWarpBlendFactor" "0"
+		"TextureColorWarp3D" ""
+		"g_flCubeMapScalar" "20"
+		"TextureCubeMap" "materials/models/cubemaps/glossy_cube.tga"
+		"g_flAlphaTestReference" "0.346"
+		"g_vDetail2TexCoordOffset" "[0.000 0.000]"
+		"g_vDetail2TexCoordScale" "[1.000 1.000]"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+			"_expanded" 0
+		}
+		"Cloak"
+		{
+			"_expanded" 0
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+			"_expanded" 0
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+			"Overbright" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+			"_expanded" 0
+		}
+		"Rim"
+		{
+			"_expanded" 0
+		}
+		"Specular"
+		{
+			"_expanded" 0
+		}
+		"Translucency"
+		{
+		}
+		"Translucent"
+		{
+		}
+	}
+}

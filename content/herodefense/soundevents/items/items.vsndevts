@@ -1,0 +1,134 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+
+{
+	
+
+	hd_potion_arcane_boost_active = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/items/potions/hd_potion_arcane_boost_active.vsnd",
+		]
+		volume = "4.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	hd_potion_lightning_speed_active = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/items/potions/hd_potion_lightning_speed_active.vsnd",
+		]
+		volume = "4.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	hd_potion_hill_giant_strength_active = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/items/potions/hd_potion_hill_giant_strength_active.vsnd",
+		]
+		volume = "4.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	
+	hd_potion_bloodlust_1_active = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/items/potions/hd_potion_bloodlust_1_active.vsnd",
+		]
+		volume = "4.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}	
+			
+	general_potion_active = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/items/potions/general_potion_active.vsnd",
+		]
+		volume = "4.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}	
+
+	hd_potion_fly_active = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/items/potions/hd_potion_fly_active.vsnd",
+		]
+		volume = "4.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}	
+
+
+	hd_potion_revive_active = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/items/potions/hd_potion_revive_active.vsnd",
+		]
+		volume = "4.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}	
+
+}

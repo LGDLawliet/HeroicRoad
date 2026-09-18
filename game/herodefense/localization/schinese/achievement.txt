@@ -1,0 +1,506 @@
+
+
+
+"DOTA_HUD_Achievement_type_1"   "普通成就"
+"DOTA_HUD_Achievement_type_2"   "击杀成就"
+"DOTA_HUD_Achievement_type_3"   "特性成就"
+"DOTA_HUD_Achievement_type_4"   "英雄成就"
+"DOTA_HUD_Achievement_bonus_1"                   "可靠经验：{s:value1}"
+"DOTA_HUD_Achievement_bonus_2"                   "黄金奖励：{s:value1}"
+"DOTA_HUD_Achievement_bonus_3"                   "白金奖励：{s:value1}"
+"DOTA_HUD_Achievement_bonus_4"                   "随机原石：{s:value1}"
+"DOTA_HUD_Achievement_bonus_5"                   "秘密奖励：{s:value1}"
+
+
+"DOTA_HUD_Achievement_bonus"                   "完成奖励"
+"DOTA_HUD_Achievement_bonus_get"                   "领取奖励"
+"DOTA_HUD_Achievement_state_1"                   "进行中"
+"DOTA_HUD_Achievement_state_2"                   "已满足条件"
+"DOTA_HUD_Achievement_state_3"                   "解锁于"
+"DOTA_HUD_Achievement_state_4"                   "解锁于刚刚"
+
+
+"DOTA_HUD_Achievement_Broadcast_1"                   "解锁了成就：{s:value1}"
+
+
+"DOTA_HUD_Unknow"  "未知"
+"DOTA_HUD_Nope"  "无"
+"DOTA_HUD_secret_info"  "秘密需要你自己去发掘，或与其他英雄交流情报。"
+
+"AT_king_of_involution_title"  "内卷之王"
+"AT_king_of_involution_Description"  "获得1次'内卷之王'称号。"
+"AT_king_of_involution_Lore"  "第一次获得内卷之王的强大之人，在某次竞争中无人能敌。"
+
+"AT_god_of_involution_title"  "内卷之神"
+"AT_god_of_involution_Description"  "获得10次'内卷之王'称号。"
+"AT_god_of_involution_Lore"  "只有最强的内卷者才能承担这份大业。"
+
+"AT_legend_nevermore_title"  "传说降临：阴影之王"
+"AT_legend_nevermore_Description"  "首次使用天赋'奈文摩尔，阴影之王'完成一场游戏。此天赋在2024年12月'传说挑战月'结算排行榜第一即可获得。"
+"AT_legend_nevermore_Lore"  "总有人要站起来亲力亲为。"
+
+"AT_legend_slark_title"  "传说降临：亡命逃犯"
+"AT_legend_slark_Description"  "首次使用天赋'斯拉克，亡命逃犯'完成一场游戏。此天赋在2025年6月'传说挑战月'结算排行榜第一即可获得。"
+"AT_legend_slark_Lore"  "总有人要站起来亲力亲为。"
+
+"AT_legend_rattletrap_title"  "传说降临：战争装置"
+"AT_legend_rattletrap_Description"  "首次使用天赋'瑞托崔普，战争装置'完成一场游戏。此天赋在2025年12月'传说挑战月'结算排行榜第一即可获得。"
+"AT_legend_rattletrap_Lore"  "总有人要站起来亲力亲为。"
+
+"AT_pass_difficulty_1_title"  "初次交锋"
+"AT_pass_difficulty_1_Description"  "通关难度1。"
+"AT_pass_difficulty_1_Lore"  "你初次踏上了这片战场，虽然对那些强大的内卷者来说这种程度只是过家家，但你的前途无量。"
+"AT_pass_difficulty_2_title"  "熟能生巧"
+"AT_pass_difficulty_2_Description"  "通关难度2。"
+"AT_pass_difficulty_2_Lore"  "你尝试挑战了更加困难的敌人，虽然这不还不足以触及上古巨神们，但你在慢慢拉近距离。"
+"AT_pass_difficulty_3_title"  "见证"
+"AT_pass_difficulty_3_Description"  "通关难度3。"
+"AT_pass_difficulty_3_Lore"  "你第一次见识到了那些可怕敌人的进阶形态并克服了这些试炼，现在你开始独当一面了。"
+"AT_pass_difficulty_4_title"  "迎接苦难"
+"AT_pass_difficulty_4_Description"  "通关难度4。"
+"AT_pass_difficulty_4_Lore"  "更多的苦难，更多的痛苦，这些对于你的成长是必不可少的。"
+"AT_pass_difficulty_5_title"  "超凡"
+"AT_pass_difficulty_5_Description"  "通关难度5。"
+"AT_pass_difficulty_5_Lore"  "大多数人止步于此，此时的你已经触及了英雄领域。"
+"AT_pass_difficulty_6_title"  "打开大门"
+"AT_pass_difficulty_6_Description"  "通关难度6。"
+"AT_pass_difficulty_6_Lore"  "你成功的来到了英雄领域的大门前，只要打开这扇门，你将获得挑战英雄们的资格。"
+
+"AT_pass_difficulty_7_title"  "竞争的苦难"
+"AT_pass_difficulty_7_Description"  "通关难度7（竞速）。"
+"AT_pass_difficulty_7_Lore"  "虽然你的速度可能仍然不够快，但只要一步一步，脚踏实地，早晚有一天你将成为内卷之王。"
+"AT_pass_difficulty_8_title"  "无尽的苦难"
+"AT_pass_difficulty_8_Description"  "通关难度8（无尽）。"
+"AT_pass_difficulty_8_Lore"  "无穷无尽的守卫者淹没了你，但你将由此获得激发。"
+
+
+
+"AT_bloodly_blade_1_title"  "封敌之刃"
+"AT_bloodly_blade_1_Description"  "完成10,000次敌方单位击杀。"
+"AT_bloodly_blade_1_Lore"  "你脚下的尸体已经能堆积如山了。"
+"AT_bloodly_blade_2_title"  "染血之刃"
+"AT_bloodly_blade_2_Description"  "完成100,000次敌方单位击杀。"
+"AT_bloodly_blade_2_Lore"  "这简直是一种罪业了。"
+
+
+
+
+
+
+
+"AT_summoner_1_title"  "初来乍到的召唤师"
+"AT_summoner_1_Description"  "释放500次召唤技能。"
+"AT_summoner_1_Lore"  "这次的新人好像有点本事。"
+"AT_summoner_2_title"  "熟练的召唤师"
+"AT_summoner_2_Description"  "释放3000次召唤技能。"
+"AT_summoner_2_Lore"  "此时你是信手拈来。"
+"AT_summoner_3_title"  "召唤大师"
+"AT_summoner_3_Description"  "释放10000次召唤技能。"
+"AT_summoner_3_Lore"  "您就是召唤大师。"
+"AT_summoner_4_title"  "通灵之巅"
+"AT_summoner_4_Description"  "释放50000次召唤技能。"
+"AT_summoner_4_Lore"  "没人比你更懂召唤。"
+
+
+
+"AT_idle_about_1_title"  "襁褓中的阿斗"
+"AT_idle_about_1_Description"  "在1场大于等于3名玩家的游戏中，完成至少15个回合并你的最终伤害不大于10K。（携带默认天赋的食尸鬼无法完成此效果）"
+"AT_idle_about_1_Lore"  "…………%%……&*&&"
+"AT_idle_about_2_title"  "白帝城托孤"
+"AT_idle_about_2_Description"  "在10场大于等3名玩家的游戏中，完成至少15个回合并你的最终伤害不大于10K。（携带默认天赋的食尸鬼无法完成此效果）"
+"AT_idle_about_2_Lore"  "相父带带我。"
+"AT_idle_about_3_title"  "扶不起阿斗"
+"AT_idle_about_3_Description"  "在50场大于等3名玩家的游戏中，完成至少15个回合并你的最终伤害不大于10K。（携带默认天赋的食尸鬼无法完成此效果）"
+"AT_idle_about_3_Lore"  "这可怎么办啊？"
+"AT_idle_about_4_title"  "乐不思蜀"
+"AT_idle_about_4_Description"  "在100场大于等3名玩家的游戏中，完成至少15个回合并你的最终伤害不大于10K。（携带默认天赋的食尸鬼无法完成此效果）"
+"AT_idle_about_4_Lore"  "此间乐，不思蜀也。"
+
+
+
+"AT_core_collector_1_title"  "原石收藏家"
+"AT_core_collector_1_Description"  "三种原石的持有数皆大于500。"
+"AT_core_collector_1_Lore"  "能达成这个数字的富豪可能不超过3个吧。"
+
+
+"AT_aurum_millionaire_1_title"  "黄金大富豪"
+"AT_aurum_millionaire_1_Description"  "持有黄金到达150,000。"
+"AT_aurum_millionaire_1_Lore"  "你真是富得流油，我真没想到有人能打这么多。"
+
+
+
+"AT_platinum_millionaire_1_title"  "富哥"
+"AT_platinum_millionaire_1_Description"  "充值白金总数到达？。"
+"AT_platinum_millionaire_1_Lore"  "谢谢你。"
+
+"AT_rich_guy_1_title"  "富姐"
+"AT_rich_guy_1_Description"  "第一位有大额充值的玩家。"
+"AT_rich_guy_1_Lore"  "代表制作组(也就是我一个人)感谢你。"
+
+
+"AT_exp_millionaire_1_title"  "经验宝宝"
+"AT_exp_millionaire_1_Description"  "持有可靠经验到达12,000,000"
+"AT_exp_millionaire_1_Lore"  "别找我说经验换白金了,我都给你成就了。"
+
+
+
+
+"AT_self_challenger_1_title"  "自我挑战者"
+"AT_self_challenger_1_Description"  "在单人游戏下且整局游戏都没有升级任意技能至高阶等级的情况下完成一次无尽排行榜的挑战。"
+"AT_self_challenger_1_Lore"  "现在你可以向其他人展示这个成就来彰显你的强大了。"
+
+"AT_remain_uncorrupted_1_title"  "两袖清风"
+"AT_remain_uncorrupted_1_Description"  "在1场回合数大于18的游戏中，每回合开始时身上的金币总是小于500。"
+"AT_remain_uncorrupted_1_Lore"  "你与那群贪婪的家伙比强太多了。"
+
+ 
+"AT_avatar_of_greed_1_title"  "贪婪的化身"
+"AT_avatar_of_greed_1_Description"  "在100场回合数大于18的游戏中，将贪魔的贪婪升级至25级。"
+"AT_avatar_of_greed_1_Lore"  "有什么比金钱更加全能的呢？"
+
+
+
+"AT_the_strongest_spear_1_title"  "最强之矛"
+"AT_the_strongest_spear_1_Description"  "在100场大于等于3名玩家的游戏中，完成至少18个回合并且你的最终伤害第一名。"
+"AT_the_strongest_spear_1_Lore"  "最强的carry。"
+
+"AT_the_strongest_shield_1_title"  "最强之盾"
+"AT_the_strongest_shield_1_Description"  "在100场大于等于3名玩家的游戏中，完成至少18个回合并且你的最终承受伤害第一名。"
+"AT_the_strongest_shield_1_Lore"  "最强的tank。"
+
+"AT_the_strongest_heal_1_title"  "白求恩"
+"AT_the_strongest_heal_1_Description"  "在100场大于等于3名玩家的游戏中，完成至少18个回合并且你的最终治疗第一名（需要至少达到100,000）。"
+"AT_the_strongest_heal_1_Lore"  "最强的healer。"
+
+
+
+
+
+
+
+
+
+
+
+"AT_Nirvana_1_title"  "涅槃"
+"AT_Nirvana_1_Description"  "在一局游戏内使用凤凰默认天赋效果拯救队友超过50次。"
+"AT_Nirvana_1_Lore"  "唯有我的涅槃可以拯救这群猪队友。"
+
+
+"AT_Walrus_punch_1_title"  "神拳"
+"AT_Walrus_punch_1_Description"  "在一局游戏内使用巨牙海民默认天赋出拳250次。"
+"AT_Walrus_punch_1_Lore"  "看我250拳把你打成250。"
+
+"AT_Walrus_punch_2_title"  "天命拳"
+"AT_Walrus_punch_2_Description"  "使用巨牙海民的[海象神拳·改]天赋连续出现7次暴击效果。"
+"AT_Walrus_punch_2_Lore"  "这运气是人能做到的？"
+
+
+
+
+
+"AT_lonely_hero_1_title"  "孤胆英雄"
+"AT_lonely_hero_1_Description"  "在一局游戏中使用斯温的默认天赋，完成至少18个回合且在50%的游戏时间内，周围1000范围内没有出现友军英雄。"
+"AT_lonely_hero_1_Lore"  "靠自己才能胜利。"
+
+"AT_acceleration_mode_1_title"  "加速模式"
+"AT_acceleration_mode_1_Description"  "使用修补匠的[带宽升级]天赋，保持1.6倍数的加速完成15个回合。"
+"AT_acceleration_mode_1_Lore"  "时间要加速了。"
+
+
+"AT_extremely_greed_1_title"  "极度贪婪"
+"AT_extremely_greed_1_Description"  "使用赏金猎人的[赏金·贪婪]天赋，在一场游戏中挑战了15次最高难度的苦难。"
+"AT_extremely_greed_1_Lore"  "队友的死活？我不管，我有钱就行了。"
+
+
+"AT_electrostatic_extractor_1_title"  "静电抽取器"
+"AT_electrostatic_extractor_1_Description"  "使用雷泽的[静电链接]天赋，单次抽取到3500点攻击力。"
+"AT_electrostatic_extractor_1_Lore"  "看我Carry好吧，你是工具人。"
+
+
+
+"AT_self_decline_1_title"  "自我衰退"
+"AT_self_decline_1_Description"  "使用孽主的[衰退光环]天赋，当攻击力加成到达8000时死亡。"
+"AT_self_decline_1_Lore"  "这是我他妈刚打出来的8000点攻击力啊！"
+
+
+
+
+"AT_genius_1_title"  "天才"
+"AT_genius_1_Description"  "使用沉默术士的[智慧之刃]天赋，获得200点智力加成。"
+"AT_genius_1_Lore"  "IQ200的天才啊。"
+
+
+"AT_mobile_earthquake_source_1_title"  "移动地震源"
+"AT_mobile_earthquake_source_1_Description"  "使用沙王的默认天赋，累计触发5000次地震。"
+"AT_mobile_earthquake_source_1_Lore"  "你的鼠标右键是不是快坏了。"
+
+"AT_monkey_king_power_1_title"  "如意金箍棒"
+"AT_monkey_king_power_1_Description"  "使用齐天大圣的[如意棍法·改]天赋，在4秒内借此触发两次棒击大地效果。"
+"AT_monkey_king_power_1_Lore"  "这就是辅助的力量。"
+
+"AT_wave_1_title"  "波"
+"AT_wave_1_Description"  "使用变体精灵的[波浪形态]天赋，使'叠浪'状态效果叠加5层。"
+"AT_wave_1_Lore"  "这是不是有点太苛刻了。"
+
+
+"AT_rip_tide_rush_1_title"  "激流勇进"
+"AT_rip_tide_rush_1_Description"  "使用娜迦海妖的[激流]天赋，在一局游戏中触发1000次。"
+"AT_rip_tide_rush_1_Lore"  "手都快断了。"
+
+"AT_binder_1_title"  "捆绑者"
+"AT_binder_1_Description"  "使用蝙蝠骑士的[燃烧枷锁]天赋，捆住一名友军10分钟不间断。"
+"AT_binder_1_Lore"  "你们两是不是有某种特殊的情感？"
+
+// 
+"AT_hero_time_1_title"  "主人公"
+"AT_hero_time_1_Description"  "在其他队友都死亡的情况下，使用亚巴顿的[英雄时刻]天赋，开启高阶回光返照并一次性击杀20名敌人。"
+"AT_hero_time_1_Lore"  "英雄都是最后出场的？"
+
+"AT_horse_trainer_1_title"  "弼马温"
+"AT_horse_trainer_1_Description"  "使用[驯马大师]天赋，一局游戏内冲撞击杀150名敌人。"
+"AT_horse_trainer_1_Lore"  "没人比我更懂马匹！"
+
+"AT_madness_1_title"  "狂乱"
+"AT_madness_1_Description"  "使用血魔的[焦渴·改]天赋，在一局游戏内击杀5次友方英雄。"
+"AT_madness_1_Lore"  "你疯了？"
+
+"AT_golden_legend_1_title"  "金色传说"
+"AT_golden_legend_1_Description"  "使用赏金猎人的[镀金武器]天赋，连续3次结算时金币为99999。"
+"AT_golden_legend_1_Lore"  "我就是有钱，怎么着？"
+
+
+"AT_flame_resistance_1_title"  "火焰抗性"
+"AT_flame_resistance_1_Description"  "使用育母蜘蛛的[织网]天赋，被火焰技能烧毁蛛网累计20回合。"
+"AT_flame_resistance_1_Lore"  "行行行，我免疫火焰行了吧。"
+
+
+"AT_24_hours_1_title"  "24小时营业"
+"AT_24_hours_1_Description"  "使用半人马战行者的[人马战车]天赋，在一个回合内始终保持满移速加成。"
+"AT_24_hours_1_Lore"  "就算是驴也得休息啊。"
+
+
+"AT_precipitate_1_title"  "沉淀"
+"AT_precipitate_1_Description"  "使用卓尔游侠的[黑鸦破寂]天赋，累积到满伤害加成后2回合不出手。"
+"AT_precipitate_1_Lore"  "该出手时就出手。"
+
+
+"AT_disaster_surviver_1_title"  "五雷轰顶"
+"AT_disaster_surviver_1_Description"  "使用宙斯的[雷霆·改]天赋，电击同一名敌人5次后，每次后续的电击有15%%几率解锁。"
+"AT_disaster_surviver_1_Lore"  "渡劫呢？"
+
+
+
+"AT_gay_chain_1_title"  "同性链"
+"AT_gay_chain_1_Description"  "使用艾欧的[法则的体现]天赋，链接同一名队友在不断开链接的情况下完成6个回合。"
+"AT_gay_chain_1_Lore"  "我爱你，你爱他，你我他成就大家。"
+
+"AT_family_man_1_title"  "家人侠"
+"AT_family_man_1_Description"  "使用风行者的[速度与激情]天赋，在10秒内连续喊出10次'我们是一家人'。"
+"AT_family_man_1_Lore"  "都是家人，都是一家人。"
+
+// "AT_mobile_earthquake_source_1_title"  "混乱术士"
+// "AT_mobile_earthquake_source_1_Description"  "使用术士的[混乱之雨]天赋时，累计召唤出1000只地狱火。"
+// "AT_mobile_earthquake_source_1_Lore"  "混乱之治来临了。"
+// 不好加奖励
+
+"AT_plane_shuttle_1_title"  "位面穿梭者"
+"AT_plane_shuttle_1_Description"  "使用虚无之灵的[太虚脚]天赋，累计使用500次由天赋提供的太虚之径。"
+"AT_plane_shuttle_1_Lore"  "脚都起泡了。"
+
+
+
+"AT_jedi_knight_1_title"  "绝地武士"
+"AT_jedi_knight_1_Description"  "使用圣堂刺客的[灵能之刃·改]天赋，与主宰，斯温，幻影刺客，灰烬之灵组队完成一次百相难度的挑战。"
+"AT_jedi_knight_1_Lore"  "我们是专业团队。"
+
+
+"AT_phantom_hunter_1_title"  "幻影猎杀者"
+"AT_phantom_hunter_1_Description"  "使用幽鬼的[荒芜折射]天赋，并累计死于自身的天赋伤害15次。"
+"AT_phantom_hunter_1_Lore"  "似乎伤害评估出了点问题。"
+
+"AT_giant_1_title"  "巨物"
+"AT_giant_1_Description"  "使用小小的[抓树]天赋，在游戏结束时拥有15,000点全额攻击力。"
+"AT_giant_1_Lore"  "这个应该轻轻松松吧。"
+
+
+
+
+
+
+// "AT_mobile_earthquake_source_1_title"  "巨剑战神"
+// "AT_mobile_earthquake_source_1_Description"  "使用斯温的[守夜特大剑]天赋，完成10次最少完成15回合的游戏。"
+// "AT_mobile_earthquake_source_1_Lore"  "这把剑能否变得更大呢？"
+
+
+// "AT_mobile_earthquake_source_1_title"  "常胜将军"
+// "AT_mobile_earthquake_source_1_Description"  "使用斯温的[常山赵子龙]天赋，完成5次百相难度。"
+// "AT_mobile_earthquake_source_1_Lore"  "子龙子龙世无双，五虎上将威名传。"
+
+// "AT_mobile_earthquake_source_1_title"  "力量窃取者"
+// "AT_mobile_earthquake_source_1_Description"  "使用不朽尸王的[腐朽]天赋，借此获得200点力量加成。"
+// "AT_mobile_earthquake_source_1_Lore"  "一家独大。"
+
+// "AT_mobile_earthquake_source_1_title"  "天命人"
+// "AT_mobile_earthquake_source_1_Description"  "使用灰烬之灵的[灰烬化身]天赋，单个化身触发了8次攻击。"
+// "AT_mobile_earthquake_source_1_Lore"  "这是命运的指引。"
+
+
+
+
+// "AT_mobile_earthquake_source_1_title"  "弃子"
+// "AT_mobile_earthquake_source_1_Description"  "使用狼人的[狼之统领]天赋，却在一局游戏中从未学习招狼。"
+// "AT_mobile_earthquake_source_1_Lore"  "我的同类们将存活下来。"
+
+
+
+
+// "AT_mobile_earthquake_source_1_title"  "活该之人"
+// "AT_mobile_earthquake_source_1_Description"  "使用混沌骑士的[混沌之体]天赋，在一局游戏中获得了100层的[风险骰子]负面状态。"
+// "AT_mobile_earthquake_source_1_Lore"  "哈哈。"
+
+
+
+// "AT_mobile_earthquake_source_1_title"  "挨打神"
+// "AT_mobile_earthquake_source_1_Description"  "使用马尔斯的[完全反击]天赋，累计被攻击20,000次。"
+// "AT_mobile_earthquake_source_1_Lore"  "古有责任神，今有我挨打神！"
+
+
+
+
+// "AT_mobile_earthquake_source_1_title"  "挨打神"
+// "AT_mobile_earthquake_source_1_Description"  "使用马尔斯的[完全反击]天赋，累计被攻击20,000次。"
+// "AT_mobile_earthquake_source_1_Lore"  "古有责任神，今有我挨打神！"
+
+
+// "AT_mobile_earthquake_source_1_title"  "挨打神"
+// "AT_mobile_earthquake_source_1_Description"  "使用马尔斯的[解放]天赋，累计被攻击20,000次。"
+// "AT_mobile_earthquake_source_1_Lore"  "古有责任神，今有我挨打神！"
+
+
+
+// "AT_mobile_earthquake_source_1_title"  "虚化"
+// "AT_mobile_earthquake_source_1_Description"  "使用剑圣的[解放]天赋，在每回合开始时候被恐怖利刃感染。"
+// "AT_mobile_earthquake_source_1_Lore"  "黑色的月牙。"
+
+
+
+
+// "AT_mobile_earthquake_source_1_title"  "屁股朝人"
+// "AT_mobile_earthquake_source_1_Description"  "使用钢背兽的[刚毛身体]天赋，保持30秒伤害都是来自于背部。"
+// "AT_mobile_earthquake_source_1_Lore"  "我警告你别放屁啊！"
+
+
+
+
+// 乱纪元天赋
+
+"AT_chaotic_era_1_title"  "开启新纪元"
+"AT_chaotic_era_1_Description"  "成功完成1次乱纪元模式。"
+"AT_chaotic_era_1_Lore"  "开始了新的故事。"
+
+"AT_chaotic_era_2_title"  "踏入新纪元"
+"AT_chaotic_era_2_Description"  "成功完成3次乱纪元模式。"
+"AT_chaotic_era_2_Lore"  ""
+
+"AT_chaotic_era_3_title"  "成为一份子"
+"AT_chaotic_era_3_Description"  "成功完成10次乱纪元模式。"
+"AT_chaotic_era_3_Lore"  ""
+
+"AT_chaotic_era_4_title"  "出师表"
+"AT_chaotic_era_4_Description"  "成功完成30次乱纪元模式。"
+"AT_chaotic_era_4_Lore"  ""
+
+"AT_chaotic_era_5_title"  "活着的传奇"
+"AT_chaotic_era_5_Description"  "成功完成50次乱纪元模式。"
+"AT_chaotic_era_5_Lore"  "你已经成为了新的神话"
+
+"AT_chaotic_era_base_rune_1_title"  "踏实积累"
+"AT_chaotic_era_base_rune_1_Description"  "通过乱纪元获得5个稀有级符石(高阶符石自动转换进度)。"
+"AT_chaotic_era_base_rune_1_Lore"  ""
+
+"AT_chaotic_era_base_rune_2_title"  "稳步成长"
+"AT_chaotic_era_base_rune_2_Description"  "通过乱纪元获得30个稀有级符石(高阶符石自动转换进度)。"
+"AT_chaotic_era_base_rune_2_Lore"  ""
+
+"AT_chaotic_era_base_rune_3_title"  "独当一面"
+"AT_chaotic_era_base_rune_3_Description"  "通过乱纪元获得100个稀有级符石(高阶符石自动转换进度)。"
+"AT_chaotic_era_base_rune_3_Lore"  ""
+
+"AT_chaotic_era_rune_1_title"  "通往符石大亨的第一步"
+"AT_chaotic_era_rune_1_Description"  "通过乱纪元获得1个神话级符石(高阶符石自动转换进度)。"
+"AT_chaotic_era_rune_1_Lore"  ""
+
+
+"AT_chaotic_era_rune_2_title"  "通往符石大亨的第二步"
+"AT_chaotic_era_rune_2_Description"  "通过乱纪元获得5个神话级符石(高阶符石自动转换进度)。"
+"AT_chaotic_era_rune_2_Lore"  ""
+
+
+
+"AT_chaotic_era_rune_3_title"  "通往符石大亨的第三步"
+"AT_chaotic_era_rune_3_Description"  "通过乱纪元获得30个神话级符石(高阶符石自动转换进度)。"
+"AT_chaotic_era_rune_3_Lore"  ""
+
+
+
+"AT_chaotic_era_rune_4_title"  "通往符石大亨的第四步"
+"AT_chaotic_era_rune_4_Description"  "通过乱纪元获得100个神话级符石(高阶符石自动转换进度)。"
+"AT_chaotic_era_rune_4_Lore"  ""
+
+"AT_chaotic_era_rune_5_title"  "通往符石大亨的第五步"
+"AT_chaotic_era_rune_5_Description"  "通过乱纪元获得200个神话级符石(高阶符石自动转换进度)。"
+"AT_chaotic_era_rune_5_Lore"  ""
+
+
+"AT_chaotic_era_rune_6_title"  "符石大亨"
+"AT_chaotic_era_rune_6_Description"  "通过乱纪元获得400个神话级符石(高阶符石自动转换进度)。"
+"AT_chaotic_era_rune_6_Lore"  ""
+
+
+
+"AT_chaotic_era_rune_single_get_1_title"  "向上走的第一步"
+"AT_chaotic_era_rune_single_get_1_Description"  "在乱纪元模式下，单局比赛获得2个神话符石。"
+"AT_chaotic_era_rune_single_get_1_Lore"  ""
+
+
+"AT_chaotic_era_rune_single_get_2_title"  "向上走的第二步"
+"AT_chaotic_era_rune_single_get_2_Description"  "在乱纪元模式下，单局比赛获得4个神话符石。"
+"AT_chaotic_era_rune_single_get_2_Lore"  ""
+
+
+"AT_chaotic_era_rune_single_get_3_title"  "向上走的第三步"
+"AT_chaotic_era_rune_single_get_3_Description"  "在乱纪元模式下，单局比赛获得1个不朽符石。"
+"AT_chaotic_era_rune_single_get_3_Lore"  ""
+
+
+"AT_chaotic_era_rune_single_get_4_title"  "向上走的第四步"
+"AT_chaotic_era_rune_single_get_4_Description"  "在乱纪元模式下，单局比赛获得2个不朽符石。"
+"AT_chaotic_era_rune_single_get_4_Lore"  ""
+
+
+
+
+"AT_chaotic_era_rune_killer_1_title"  "初始终端的守卫者"
+"AT_chaotic_era_rune_killer_1_Description"  "在乱纪元模式下，击杀150只乱纪元怪物。"
+"AT_chaotic_era_rune_killer_1_Lore"  ""
+
+"AT_chaotic_era_rune_killer_2_title"  "初始终端的守卫者"
+"AT_chaotic_era_rune_killer_2_Description"  "在乱纪元模式下，击杀500只乱纪元怪物。"
+"AT_chaotic_era_rune_killer_2_Lore"  ""
+
+"AT_chaotic_era_rune_killer_3_title"  "初始终端的守卫者"
+"AT_chaotic_era_rune_killer_3_Description"  "在乱纪元模式下，击杀1500只乱纪元怪物。"
+"AT_chaotic_era_rune_killer_3_Lore"  ""
+
+"AT_chaotic_era_rune_killer_4_title"  "初始终端的守卫者"
+"AT_chaotic_era_rune_killer_4_Description"  "在乱纪元模式下，击杀5000只乱纪元怪物。"
+"AT_chaotic_era_rune_killer_4_Lore"  ""
+
+"AT_chaotic_era_rune_killer_5_title"  "初始终端的守卫者"
+"AT_chaotic_era_rune_killer_5_Description"  "在乱纪元模式下，击杀15000只乱纪元怪物。"
+"AT_chaotic_era_rune_killer_5_Lore"  ""
+
+"AT_chaotic_era_rune_killer_6_title"  "初始终端的守卫者"
+"AT_chaotic_era_rune_killer_6_Description"  "在乱纪元模式下，击杀50000只乱纪元怪物。"
+"AT_chaotic_era_rune_killer_6_Lore"  ""

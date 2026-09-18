@@ -1,0 +1,90 @@
+<root>
+    <styles>
+        <include src="s2r://panorama/styles/dotastyles.vcss_c"/>
+        <include src="s2r://panorama/styles/hudstyles.vcss_c"/>
+        <!-- <include src="s2r://panorama/styles/hud/dota_hud_spectre_arcana.vcss_c" /> -->
+        <!-- <include src="s2r://panorama/layout/custom_game/playerinfo/playerinfo.css"/> -->
+        <include src="s2r://panorama/layout/custom_game/sound_wheel/sound_wheel.css"/>
+        <include src="s2r://panorama/styles/custom_game/common_hd.css"/>
+
+
+        
+    </styles>
+
+    <scripts>
+
+        <!-- <include src="s2r://panorama/layout/custom_game/playerinfo/playerinfo.js" /> -->
+        <include src="s2r://panorama/layout/custom_game/sound_wheel/sound_wheel.js" />
+
+    
+    </scripts>
+    <snippets>
+    
+
+        <snippet name="wheel_image">
+            <Panel class="Sound_wheel_root">
+                <Panel id = "Sound_wheel_id" >
+                    <Button id="Sound_wheelButton">
+                        <Panel id="SingleSpellImage">
+                            <DOTAAbilityImage id="SingleSpellPictureImage"/>
+                        </Panel>
+                    </Button>
+                    <Label id="sound_hero_name" text="name"/>
+                </Panel>
+            </Panel>
+        </snippet>
+
+        <snippet name="wheel_single_sound">
+            <Panel class="single_Sound_wheel_root">
+                <Panel id = "single_sound_event" hittest="true" >
+                    <Button id="single_sound_event_icon" class="Visible">
+                    </Button>
+                    <Panel id = "single_sound_Lable" >
+                        <Label id="single_sound_event_text"  html = "true"  text="你懂个锤子！"/>
+                
+                    </Panel>
+                </Panel>
+            </Panel>
+        </snippet>
+
+
+    </snippets>
+
+
+
+    <Panel hittest="false" class="SoundWheelMenuRoot">
+
+    
+        <Button class ="HD_Hover_Brightness" id="sound_wheel_button" onactivate="OpenWheelMenu();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Wheel_info_5')" onmouseout="DOTAHideTextTooltip()">  </Button>
+
+        <Panel id="sound_wheel_menu_background" onactivate="CloseWheelMenu();" hittest="true" class="Visible mainMenuDesign">
+            <Panel id="sound_wheel_menu" onactivate="" hittest="true" class="Visible">
+                <Panel id="sound_wheel_menu_left" class="Visible mainMenuDesign">
+         
+
+                </Panel>
+                <Panel id="sound_wheel_menu_right" class="Visible mainMenuDesign">
+
+
+
+            
+
+                </Panel>
+
+            </Panel>
+
+        </Panel>
+       
+
+
+
+
+        <!-- 图片预载入 -->
+        <Panel class="playerinfoMenuPrecache" hittest="true">
+      
+            <!-- <Image src="file://{images}/spells_menu/platinum.png"/> -->
+
+
+        </Panel>
+    </Panel>
+</root>

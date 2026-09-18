@@ -1,0 +1,250 @@
+
+
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Bad_1"	"<font color=\"#f0ad4e\">The 1st Fell Omen:the sword soul of Onyx</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_1_Description"	"Тип: усиление<br><br>Описание: Существа добавят немного урона от атаки.<br><br>Значение = Базовый урон от атаки*(%bonus%+%bonus_stack%*Y)%%<br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_1_Lore"	"Великий демон Оникс, известный как вершина боевых искусств, освоил использование бесчисленного количества оружия, и ходят слухи, что в оружии, которое он использовал, обитают духи."
+
+"DOTA_Tooltip_ability_FellOmen_Bad_2"	"<font color=\"#f0ad4e\">The 2nd Fell Omen: Scorched Earth Demon's Zeal</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_2_Lore"	"Демон огня из ада принесет пламя на землю, сжигая все на своем пути."
+"DOTA_Tooltip_ability_FellOmen_Bad_2_Description"	"Тип: усиление<br><br>Описание: Существа получают дополнительное сопротивление магии при дневном свете. (Макс. значение = 50%%)<br><br>Значение =   (%bonus%+%bonus_stack%*Y)%%<br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_3"	"<font color=\"#f0ad4e\">The 3rd Fell Omen:Eating the Same Race</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_3_Lore"	"Демоны жаждут быть сильными, и самые сильные демоны часто поглощают энергию бесчисленного множества других и, как говорят, находятся на вершине существования, известного как «Десять клинков»."
+"DOTA_Tooltip_ability_FellOmen_Bad_3_Description"	"Тип: усиление<br><br>Описание: После смерти существа оно будет поглощено случайными союзниками в радиусе 1500. Определенный процент его здоровья, урона от атаки и аромата будет унаследован.<br><br>Значение =   (%bonus%+%bonus_stack%*Y)%%<br>Y =Дополнительное полупредзнаменование (черные цифры)"
+
+
+"DOTA_Tooltip_ability_FellOmen_Bad_4"	"<font color=\"#f0ad4e\">The 4th Fell Omen: The thirst of bloodthirsty demons</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_4_Description"	"Тип: усиление<br><br>Описание: Существа получают бонус к скорости атаки при атаке врагов с низким уровнем здоровья.<br><br>Значение =   1-целевой процент здоровья)*(%bonus%+%bonus_stack%*Y)<br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_4_Lore"	"Самые жестокие существа часто бывают кровожадными демонами, преследующими любую раненую добычу."
+
+
+"DOTA_Tooltip_ability_FellOmen_Bad_5"	"<font color=\"#f0ad4e\">The 5th Fell Omen: the brain worms queen's echoes</font><br>"
+
+"DOTA_Tooltip_ability_FellOmen_Bad_5_Description"	"Тип: усиление<br><br>Описание: Существа замолкают и ломают атакующих на некоторое время, когда их убивают (максимальная продолжительность = 3 секунды).<br><br>Значение =   (%bonus%+%bonus_stack%*Y)<br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_5_Lore"	"Королева мозговых червей древних мифических монстров посылала мозговые волны, которые до сих пор путешествуют по определенным регионам и делают несчастных существ верными своему давно вымершему Я. Герои думали, что мозговой червь давно вымер, но доказательства его существования находят повсюду. континент."
+
+"DOTA_Tooltip_ability_FellOmen_Bad_6"	"<font color=\"#f0ad4e\">The 6th Fell Omen: Dead link</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_6_Description"	"Тип: усиление<br><br>Описание: Существа имеют шанс 5%% каждые 10 секунд соединиться с сильнейшим врагом в радиусе 1000 и передать часть его урона цели.Длительность связи 5 секунд, а урон снимается после окончания статуса. целевое сопротивление магии или само умирает, оно будет недействительным.<br><br>Значение =   (%bonus%+%bonus_stack%*Y)%%<br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_6_Lore"	"Смерть иногда благосклонна к тем, кто сильнее"
+
+"DOTA_Tooltip_ability_FellOmen_Bad_7"	"<font color=\"#f0ad4e\">The 7th Fell Omen: The Ancient Stone man</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_7_Description"	"Тип: усиление<br><br>Описание: Существа могут получить броню и сопротивление магии, когда здоровье меньше 15%%. (Большинство элитных монстров и боссов не наследуют этот эффект, максимальное сопротивление магии = 70%%)<br><br>Значение 1= (%bonus%+%bonus_stack%*Y)%%<br>Значение 2= (%bonus2%+%bonus_stack2%*Y)%% <br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_7_Lore"	"Каменный человек - продукт дневного света, после поглощения сущности солнечного света в течение десяти тысяч лет камень родит душу."
+
+"DOTA_Tooltip_ability_FellOmen_Bad_8"	"<font color=\"#f0ad4e\">The 8th Fell Omen: Nightmare</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_8_Description"	"Тип: Ингибирование<br><br>Описание: Все сопротивления начальных статусов героев уменьшены.<br><br>Значение =   (%bonus%+%bonus_stack%*Y)%% <br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_8_Lore"	"Всякий раз, когда наступает ночь, демоны сна повсюду съедают сладкие сны людей и превращают их в ужасные кошмары для бедных спящих мужчин."
+
+"DOTA_Tooltip_ability_FellOmen_Bad_9"	"<font color=\"#f0ad4e\">The 9th Fell Omen: Sticky oil</font><br>"
+
+"DOTA_Tooltip_ability_FellOmen_Bad_9_Description"	"Тип: Ингибирование<br><br>Описание: Существа умирают, оставляя после себя липкое масло, которое снижает скорость передвижения и скорость атаки врагов в радиусе 500, накапливает независимость на 6 секунд и действует только на сопротивления статусов.<br><br>Значение 1= (%bonus%+%bonus_stack%*Y)%%<br>Значение 2= (%bonus2%+%bonus_stack2%*Y) <br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_9_Lore"	"Эти отвратительные, скользкие твари определенно являются врагами, с которыми вам лучше не встречаться."
+
+"DOTA_Tooltip_ability_FellOmen_Bad_10"	"<font color=\"#f0ad4e\">The 10th Fell Omen: Feast</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_10_Description"	"Тип: Ингибирование<br><br>Описание: Когда существо умирает, оно восстанавливает здоровье случайного союзника в радиусе 600, который не имеет полного здоровья и считается исцелением.<br><br>Значение =   Victim max health*(%bonus%+%bonus_stack%*Y)%%<br><br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_10_Lore"	"Даже если вы умрете, вы должны умереть достойно и внести вклад в другие армии демонов."
+
+"DOTA_Tooltip_ability_FellOmen_Bad_11"	"<font color=\"#f0ad4e\">The 11th Fell Omen: Fractal</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_11_Description"	"Тип: Трансформация<br><br>Описание: При смерти крипов первичный атрибут атакующего будет снижен на 5, а 80%% будут преобразованы во вторичные атрибуты.Это будет зафиксировано на время.Когда первичный атрибут ниже 5, не будет принимать эффект.<br><br>Значение =  (%bonus%+%bonus_stack%*Y) seconds<br><br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_11_Lore"	"Фрактал и один, один и многие."
+
+"DOTA_Tooltip_ability_FellOmen_Bad_12"	"<font color=\"#f0ad4e\">The 12th Fell Omen: Enchanted</font><br>"
+
+"DOTA_Tooltip_ability_FellOmen_Bad_12"	"<font color=\"#f0ad4e\">12-й Fell Omen: Зачарованный</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_12_Description"	"Тип: Ингибирование<br><br>Описание: После того, как новорождённый крип погибнет, он наложит проклятие на атакующего.Каждое заклинание, произнесённое атакующим, будет уменьшать его собственный урон от заклинаний на 15 секунд.Влияет на состояние сопротивления.<br><br>Значение =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Дополнительное полупредзнаменование (черные цифры)"
+
+
+"DOTA_Tooltip_ability_FellOmen_Bad_13"	"<font color=\"#f0ad4e\">The 13th Fell Omen: Game Theory</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_13_Description"	"Тип: Ингибирование<br><br>Описание: Когда новорождённый крип атакует врага, если его собственные HP больше 50%%, а HP и процент HP цели ниже, чем у него самого, он потребляет 1%% HP и заставит цель потерять 1 очко всех атрибутов на период времени. (Большинство элитных монстров и боссов не наследуют этот эффект)<br><br>Значение =  (%bonus%+%bonus_stack%*Y) seconds<br><br><br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Bad_13_Lore"	"Теория игр, также известная как теория игр, теория игр и т. д., является не только новой отраслью современной математики, но и важным предметом исследования операций."
+
+"DOTA_Tooltip_ability_FellOmen_Bad_14"	"<font color=\"#f0ad4e\">The 14th Fell Omen: Glaives of Wisdom</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_14_Description"	"Type: Inhibition<br><br>Description: When a newborn creep attacks a hero, it has a certain chance to steal 1 point of intelligence from the target and permanently increase its own spell damage by 0.2%%. The lost intelligence will be returned in 80 seconds. Affected by state resistance and negative state gain.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_14_Lore"	"No matter how smart a person is, he will be speechless when he meets Nortrom."
+"DOTA_Tooltip_ability_FellOmen_Bad_15"	"<font color=\"#f0ad4e\">The 15th Fell Omen: I'm angry</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_15_Description"	"Type: Gain<br><br>Description: When the creep dies, it will shout loudly, which will increase 20%% movement speed and 20 attack speed of allies within 300 radius. It can be stacked for a period of time.<br><br>Value =  (%bonus%+%bonus_stack%*Y) seconds <br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_15_Lore"	"How dare you kill me? Then bear the anger of my teammates!"
+"DOTA_Tooltip_ability_FellOmen_Bad_16"	"<font color=\"#f0ad4e\">The 16th Fell Omen: Mana Void</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_16_Description"	"Type: Inhibition<br><br>Description: When the creep dies, it will attach a mark to the killer. The mark will exist for a period of time. If the killer cast a spell during the mark duration, the caster will lose extra = spell's mana cost * (mark stack *0.1) , and receive the same amount of damage. Affected by state resistance.<br><br>Value =  (%bonus%+%bonus_stack%*Y) seconds <br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_16_Lore"	"Magic is like a black hole, which absorbs countless mana."
+"DOTA_Tooltip_ability_FellOmen_Bad_17"	"<font color=\"#f0ad4e\">The 17th Fell Omen: ：Infest</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_17_Description"	"Type: Gain<br><br>Description: Every 10 seconds after birth, creep has a certain chance to hide in a friendly army within the surrounding 500 range, which will enable the allies to break through the limit of movement speed and gain a 30%% movement speed bonus and a basic attack damage bonus equal to its own attack damage. A creep can be infected by multiple friendly forces at the same time, but the infected units cannot infecte others.（Most of the elite creeps and Boss will not inherit this effect）<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_17_Lore"	"parasitism parasitism parasitism……"
+"DOTA_Tooltip_ability_FellOmen_Bad_18"	"<font color=\"#f0ad4e\">The 18th Fell Omen: Duel</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_18_Description"	"Type: Gain<br><br>Description: Enemies attacked by wild creeps must damage the attacker with damage greater than 10 in 6 seconds, otherwise the creeps will permanently increase certain additional attack damage. Can be stacked.<br>（Most of the elite creeps and Boss will only inherit 30%% of this effect）<br><br>Value =  Base Attack Damage *(%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_18_Lore"	"Come and fight me, coward!"
+"DOTA_Tooltip_ability_FellOmen_Bad_19"	"<font color=\"#f0ad4e\">The 19th Fell Omen: Slow</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_19_Description"	"Type: Inhibition<br><br>Description: The cooldown duration of the 'Stride' wull increase。（After constant reduction）<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_19_Lore"	"Pedestrians passing,  moving slowly."
+"DOTA_Tooltip_ability_FellOmen_Bad_20"	"<font color=\"#f0ad4e\">The 20th Fell Omen: Hand knife</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_20_Description"	"Type: Gain<br><br>Description: If the creep is behind the target when attacking, there is a certain chance that it can cause stun for 0.2 seconds. (affected by state resistance and negative state gain)<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_20_Lore"	"With a thud, the enemy fell."
+"DOTA_Tooltip_ability_FellOmen_Bad_21"	"<font color=\"#f0ad4e\">The 21th Fell Omen: Stone Throw</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_21_Description"	"Type: Damage<br><br>Description: Giant gorem in another world will continuously throw rocks with an action range of 300 towards the battlefield, causing a certain percentage of pure damage and 1.5 seconds' stun to the hit enemy. (affected by state resistance), the stone will target a random point within 1000 around the random hero. If the number of players is greater than 4, two stones will be thrown.<br><br>Interval=(%bonus%-%bonus_stack%*Y) seconds (min=7)<br>Value =  (%bonus2%+%bonus_stack2%*Y)%%（max=50%%）<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_21_Lore"	"The small stones in the past have become huge mountains."
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_1"	"<font color=\"#f0ad4e\">The first Favorable Omen: The Eye of Moula</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_1_Description"	"Тип: усиление<br><br>Описание: Атака с дополнительным уроном каждые 5 секунд (зависит от уменьшения перезарядки героя)<br><br>Значение =    общий урон от атаки*(%bonus%+%bonus_stack%*Y)%%<br><br>Призванные существа Вероятность наследования = время перезарядки /%summon_index%*100%%"
+"DOTA_Tooltip_ability_FellOmen_Good_1_Lore"	"Секретная Валькирия может с первого взгляда увидеть все недостатки."
+
+"DOTA_Tooltip_ability_FellOmen_Good_2"	"<font color=\"#f0ad4e\">The Second Favorable Omen: Fool's appearance</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_2_Description"	"Тип: усиление<br><br>Описание: Увеличьте все атрибуты героя<br><br>Значение =   (%bonus%+%bonus_stack%*Y)<br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Good_2_Lore"	"Известный как -символ глупости-, даже если большую часть времени это торможение, в некоторые моменты он также может привести команду к победе."
+
+"DOTA_Tooltip_ability_FellOmen_Good_3"	"<font color=\"#f0ad4e\">The third Favorable Omen: Unfailing Fortress</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_3_Description"	"Тип: усиление<br><br>Описание: Герой может дать бонус защиты союзникам в радиусе 500, когда герой не двигается.<br><br>Значение =   (%bonus%+%bonus_stack%*Y)<br>Y =Дополнительное полупредзнаменование (черные цифры)"
+"DOTA_Tooltip_ability_FellOmen_Good_3_Lore"	"Стоящий, как гора, непоколебимый, как крепость."
+
+"DOTA_Tooltip_ability_FellOmen_Good_4"	"<font color=\"#f0ad4e\">The fourth Favorable Omen: Blood Blessing</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_4_Description"	"Тип: усиление<br><br>Описание:  Увеличение регенерации здоровья..<br><br>Значение =   Сила героя *(%bonus%+%bonus_stack%*Y)%%<br>Y =Дополнительное полупредзнаменование (черные цифры)<br><br>Призванные существа Вероятность наследования = время перезарядки/%summon_index%*100%%<br>(Призываемые наследуют силу героя)"
+"DOTA_Tooltip_ability_FellOmen_Good_4_Lore"	"Кровь дракона с вершины древнего дракона, дала немного силы для процветания жизни."
+
+"DOTA_Tooltip_ability_FellOmen_Good_5"	"<font color=\"#f0ad4e\">The fifth Favorable Omen: SleepingDragon the WoLong</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_5_Description"	"Тип: усиление<br><br>Описание: Получите сокращение перезарядки.<br><br>Значение =   (%bonus%+%bonus_stack%*Y)%%<br>Y =Дополнительное полупредзнаменование (черные цифры)<br><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_5_Lore"	"Цаолу три взгляда на героя Цюй, щедрого Наньяна из Волонга."
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_6"	"<font color=\"#f0ad4e\">The sixth Favorable Omen: Phoenix the FengChu</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_6_Description"	"Тип: усиление<br><br>Описание: Когда меньше 50%% исцеления, есть шанс восстановить здоровье каждую секунду, время восстановления 30 секунд.(Влияет на уменьшение перезарядки героя)<br><br>Значение =   (%bonus%+%bonus_stack%*Y)%%<br>Значение =  Макс здоровье* (%bonus2%+%bonus_stack2%*Y)%%<br>Y =Дополнительное полупредзнаменование (черные цифры)<br><br>Призванные существа Вероятность наследования = время перезарядки/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_6_Lore"	"Пан Шиюань не талант сто миль, поэтому он должен показать свой хороший слух, когда на него возложена ответственность быть в центре лечения и других."
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_7"	"<font color=\"#f0ad4e\">The seventh Favorable Omen: Spirit Blade</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_7_Description"	"Тип: усиление<br><br>Описание: Дальность атаки увеличена на определенный процент.<br><br>Значение =   (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Дополнительное полупредзнаменование (черные цифры)<br>Призванные существа Вероятность наследования = время перезарядки/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_7_Lore"	"Постичь тайны святилища — удел лишь тех, кто понял"
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_8"	"<font color=\"#f0ad4e\">The Eighth Favorable Omen: Soul Awakens</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_8_Description"	"Тип: усиление<br><br>Описание: Получите определенное увеличение атрибута в начале каждого раунда.<br><br>Значение =   (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Дополнительное полупредзнаменование (черные цифры)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_8_Lore"	"Старшие боги-титаны оставили множество артефактов в начале сотворения мира, некоторые из которых способны даже укреплять души существ."
+
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_9"	"<font color=\"#f0ad4e\">The ninth Favorable Omen: The Dark Fear's Chronosphere</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_9_Description"	"Тип: Ингибирование<br><br>Описание: Существа увеличивают определенное сокращение перезарядки.<br><br>Значение =   (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Дополнительное полупредзнаменование (черные цифры)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_9_Lore"	"Хроносфера, созданная Faceless Void, может замедлить или даже приостановить течение времени, что может быть ужасным врагом."
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_10"	"<font color=\"#f0ad4e\">The Tenth Favorable Omen: The Power of Echo</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_10_Description"	"Тип: усиление<br><br>Описание: Получите силу атаки.<br><br>Значение =   общий урон от атаки*(%bonus%+%bonus_stack%*Y)%%<br><br>Y =Дополнительное полупредзнаменование (черные цифры)<br>Призванные существа Вероятность наследования = время перезарядки/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_10_Lore"	"Эхо разносится, сила трясется."
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_11"	"<font color=\"#f0ad4e\">The 11th Favorable Omen：Back to the past</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_11_Description"	"Type: Gain<br><br>Description: When receiving lethal damage, you can be immune to this damage, and briefly enter the 0.5 seconds invincible time to transfer to a position 800 away. There is a certain cooldown time. (minimum cooling time is 7 seconds)<br><br>Value =  (%bonus%-%bonus_stack%*Y) seconds <br><br>Y =Additional half omen(The black numbers)<br>Summoned creatures Inheritance probability= cooldown time/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_11_Lore"	"From the inheritance of Darkterror, perhaps one day, the Faceless Void using by Ame will win the Ti at a certain point in time."
+"DOTA_Tooltip_ability_FellOmen_Good_12"	"<font color=\"#f0ad4e\">The 12th Favorable Omen：Explorer</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_12_Description"	"Type: Gain<br><br>Description: There is a certain chance to make the item reward option of settlement and treasure chest +1 (it is worth mentioning that re randomization will not retain additional options and will only be effective after entering the first round of battle)<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_12_Lore"	"What every Explorer is looking for, some are fame and wealth, some are the excitement of adventure, and some are treasures."
+
+"DOTA_Tooltip_ability_FellOmen_Good_13"	"<font color=\"#f0ad4e\">The 13th Favorable Omen：Reward of warriors</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_13_Description"	"Type: Gain<br><br>Description:The reliable experience and auraum bonus during game settlement will increase by a certain proportion.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_13_Lore"	"Maybe you won't be able to reach the top, but at least your efforts won't betray you."
+"DOTA_Tooltip_ability_FellOmen_Good_14"	"<font color=\"#f0ad4e\">The 14th Favorable Omen：Arcane Supremacy</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_14_Description"	"Type: Gain<br><br>Description: Cast range and spell damage will increase by a certain proportion.<br><br>Value 1= (%bonus%+%bonus_stack%*Y)<br>Value 2= (%bonus2%+%bonus_stack2%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_14_Lore"	"Rubick can learn other unit's skills, and you can do the same in this game. What you need to do is to find the best combination for you."
+"DOTA_Tooltip_ability_FellOmen_Good_15"	"<font color=\"#f0ad4e\">The 15th Favorable Omen：Opportunity</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_15_Description"	"Type: Gain<br><br>Description: Probability event trigger probability increases by a certain percentage.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_15_Lore"	"Knowing when to give or take your hand can greatly affect your destiny."
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_HUD_Ban_Info"                   "<br>Когда тип записи больше 2, вы можете запретить действие одной записи, и уровень записи будет поровну разделен между другими записями (+2 поправка за плохую фазу, +1 поправка за хорошую фазу).<br><br>Плохая фаза и хорошая фаза могут запретить по одной записи;<br><br><font color=\"#f0ad4e\">Эта операция может быть выполнена только до начала первого раунда, и все игроки имеют одну и ту же запись и одну и ту же возможность блокировки.</font>"
+		"DOTA_HUD_Ban_Info_confirm"           "Вы уверены, что хотите запретить эту запись?"
+		"DOTA_HUD_Ban_failed_No_Chance"           "Шансов запретить такие термины не осталось"
+		"DOTA_HUD_Ban_failed_toomuch"           "Эта фаза уже является минимальным количеством"
+		"DOTA_HUD_Ban_failed_into_battle"           "больше не готовится"
+		"DOTA_HUD_Bonus_Attributes_failed_die"           "Невозможно установить назначение атрибута при смерти"
+		"DOTA_HUD_Spells_Menu_level"                   "Уровень"
+		"DOTA_HUD_Player_Ban_Info"                   "{s:player_name}Удалена одна фаза:<font color=\"#f0ad4e\">{s:ability_name}</font>"
+		"DOTA_HUD_FellOmen_Bonus_Attributes"           "назначение атрибутов"
+		"DOTA_HUD_FellOmen_Send_Bonus_Attributes"           "Завершить операцию"
+		"DOTA_HUD_FellOmen_Send_Bonus_Attributes_failed"           "Вам нужно распределить все очки"
+		"DOTA_HUD_FellOmen_Send_Bonus_Attributes_failed2"           "Количество выделенных баллов превышает выделенное значение"
+		"DOTA_HUD_FellOmen_Send_Bonus_Attributes_success"                   "  {s:player_name}Завершено назначение атрибутов"
+		
+		
+		
+
+		
+		
+		"DOTA_HUD_FellOmen_Bonus_Attributes_point_cost"           "Cost: {s:point}"
+		"DOTA_HUD_FellOmen_Bonus_Attributes_point"           "Оставшиеся очки: {s:point}"
+		"DOTA_HUD_FellOmen_Bonus_Attributes_description"           "Изначально вы получите удвоенное количество стаков Сотни фаз + 5 очков атрибутов компенсации, и вы можете свободно назначать атрибуты. Количество потребляемых очков атрибутов зависит от атрибута, но очки потребления округляются в большую сторону."
+		"DOTA_Tooltip_modifier_FellOmen_Bad_6_effect"                   "Мертвая цепь"
+		"DOTA_Tooltip_modifier_FellOmen_Bad_6_effect_Description"       "Совокупный урон" 
+		
+		
+		"DOTA_Tooltip_modifier_FellOmen_Bad_9_effect"                   "Смола"
+		"DOTA_Tooltip_modifier_FellOmen_Bad_9_effect_Description"       "Уменьшает скорость передвижения и скорость атаки" 
+		"DOTA_Tooltip_modifier_FellOmen_Good_6"                   "Цыпленок феникс"
+		"DOTA_Tooltip_modifier_FellOmen_Good_6_Description"       "Живительное восстановление" 
+		
+		"DOTA_Tooltip_modifier_FellOmen_Good_1"                   "Глаз Муиры"
+		"DOTA_Tooltip_modifier_FellOmen_Good_1_Description"       "Дает увеличение силы атаки" 
+		
+		"DOTA_Tooltip_modifier_FellOmen_Good_4"                   "Благословение живой крови"
+		"DOTA_Tooltip_modifier_FellOmen_Good_4_Description"       "Живое восстановление" 
+		"DOTA_Tooltip_modifier_FellOmen_Good_7"                   "Духовный клинок"
+		"DOTA_Tooltip_modifier_FellOmen_Good_7_Description"       "Дает увеличение дальности атаки" 
+		"DOTA_Tooltip_modifier_FellOmen_Good_8"                   "Пробуждение души"
+		"DOTA_Tooltip_modifier_FellOmen_Good_8_Description"       "Дает все улучшения атрибутов" 
+		
+		"DOTA_Tooltip_modifier_FellOmen_Good_10"                   "Сила эха"
+		"DOTA_Tooltip_modifier_FellOmen_Good_10_Description"       "Дает увеличение силы атаки" 
+		
+		"DOTA_Tooltip_modifier_FellOmen_Good_3_effect"                   "Не падающая крепость"
+		"DOTA_Tooltip_modifier_FellOmen_Good_3_effect_Description"       "Дарует усиление защиты" 
+		
+		
+		"DOTA_Tooltip_modifier_fellOmen_bonus_attributes"                   "Bonus"
+		"DOTA_Tooltip_modifier_fellOmen_bonus_attributes_Description"       "Получите следующие повышения характеристик:<br>%dMODIFIER_PROPERTY_TOOLTIP%Сила<br>%dMODIFIER_PROPERTY_TOOLTIP%Ловкость<br>%dMODIFIER_PROPERTY_TOOLTIP%Интеллект<br>%dMODIFIER_PROPERTY_TOOLTIP%Здоровье<br>%dMODIFIER_PROPERTY_TOOLTIP%Мана<br>%dMODIFIER_PROPERTY_TOOLTIP%Броня<br>%dMODIFIER_PROPERTY_TOOLTIP%Сила атаки<br>%dMODIFIER_PROPERTY_TOOLTIP%%%Урон навыка" 
+		
+		"DOTA_Tooltip_modifier_FellOmen_Bad_12_debuff"                   "Зачарованный"
+		"DOTA_Tooltip_modifier_FellOmen_Bad_12_debuff_Description"       "Снижает урон от заклинаний при касте" 
+		"DOTA_Tooltip_modifier_FellOmen_Bad_13_debuff"                   "Игра"
+		"DOTA_Tooltip_modifier_FellOmen_Bad_13_debuff_Description"       "Все атрибуты выпадают" 
+		
+
+
+"DOTA_Tooltip_modifier_FellOmen_Good_11"                   "Back to the past"
+"DOTA_Tooltip_modifier_FellOmen_Good_11_Description"       "When receiving fatal damage, avoid damage and move to a random position" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_buff"                   "Glaives of Wisdom"
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_buff_effect_Description"       "Increase spell damage" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_debuff"                   "Glaives of Wisdom"
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_debuff_Description"       "reduce INT" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_15_effect"                   "I'm angry"
+"DOTA_Tooltip_modifier_FellOmen_Bad_15_effect_Description"       "Increase attack speed and move speed" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_16_effect"                   "Mana Void"
+"DOTA_Tooltip_modifier_FellOmen_Bad_16_effect_Description"       "will be backfired when using spells" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_17_infest_effect"                   "Infested"
+"DOTA_Tooltip_modifier_FellOmen_Bad_17_infest_effect_Description"       "Parasitized by some kind of organism" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_effect"                   "Duel"
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_effect_Description"       "Fight with me!" 
+
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_buff"                   "Duel"
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_buff_Description"       "Increase attack damage" 
+

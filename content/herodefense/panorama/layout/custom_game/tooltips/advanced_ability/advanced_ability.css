@@ -1,0 +1,210 @@
+#Contents {
+    /* padding: 0; */
+    /* background-color: rgba(0, 0, 0, 0.2); */
+    /* border-radius: 6px; */
+    /* border:0 none none; */
+    min-width: 400px;
+    max-width: 600px;
+    box-shadow: fill 0.0px 0.0px 0.0px 0.0px #000000FF;
+    background-color: #000000FF;
+    /* border */
+}
+
+.unitStatsRoot{
+    flow-children: down;
+}
+
+.hidden {
+    visibility: collapse;
+}
+
+#Header {
+    flow-children: right;
+    box-shadow: fill 0.0px 0.0px 50.0px 5.0px #000000FF;
+}
+
+.DescriptionOnly #Header {
+    visibility: collapse;
+}
+
+#HeaderLabels {
+    flow-children: down;
+}
+
+#AbilityHeader {
+    flow-children: right;
+}
+
+#AbilityName {
+    font-size: 18px;
+    color: #e1e1e1;
+    width: fill-parent-flow( 1.0 );
+    vertical-align: middle;
+    padding-left: 4px;
+    text-overflow: shrink;
+    letter-spacing: 0.5px;
+    text-shadow: 2px 2px 0px 1.0 #00000090;
+    margin-top: 2px;
+    text-transform: uppercase;
+    font-weight: semi-bold;
+}
+
+.IsAbility #AbilityName {
+    padding-left: 8px;
+}
+
+#AbilityLevel {
+    horizontal-align: right;
+    margin-left: 8px;
+    vertical-align: middle;
+    color: white;
+    font-size: 15px;
+}
+
+
+/* 技能行为 */
+
+#AbilityTarget {
+
+    border-top-color: #29353b;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-color: #29353b;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    width: 100%;
+    padding: 5px 0px 2px 8px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    flow-children: down;
+}
+
+#AbilityTarget Label {
+
+    color: #596e89;
+    font-size: 16px;
+    height: 20px;
+}
+
+
+
+
+
+
+/* 技能描述 */
+
+
+#AbilityCoreDetails {
+
+    flow-children: down;
+    width: 100%;
+    margin-top: 15px;
+}
+
+
+#AbilityAttributes {
+
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 4px;
+    font-size: 17px;
+    width: 400px;
+}
+
+.ShowScepterOnly #AbilityAttributes {
+
+    visibility: collapse;
+}
+#AbilityDescriptionOuterContainer{
+
+    flow-children: down;
+    width: 100%;
+    margin-left: 2px;
+}
+  
+
+#AbilityDescriptionContainer{
+    flow-children: down;
+    horizontal-align: center;
+    margin-bottom: 8px;
+    /* padding: 4px; */
+    width: 100%;
+    background-color: rgb(5, 5, 5);
+    border-left:3px solid rgba(80, 80, 80,0.5);
+}
+.single_DescriptionBlock{
+    width: 100%;
+    flow-children: down;
+}
+
+#single_DescriptionLabel{
+    width: 100%;
+    background-color:rgba(20, 20,20, 0.4);
+    /* background-image:unset; */
+    color :#9ab0cd;
+    font-size:16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+    margin-top: 5px;
+    font-weight: normal;
+    font-family: defaultFont;
+
+    border-left:5px solid rgba(80, 80, 80,0.2);
+}
+
+.single_DescriptionBlock_bous{
+    width: 100%;
+    flow-children: down;
+
+    background-color:rgba(20, 20,20, 0.4);
+    /* background-image:unset; */
+    color :#9ab0cd;
+    font-size:16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+    margin-top: -12px;
+    font-weight: normal;
+    font-family: defaultFont;
+
+    border-left:5px solid rgba(80, 80, 80,0.2);
+}
+#bonus_block_aurum,
+#bonus_block_exp{
+    flow-children: right;
+}
+
+
+.bonus_icon{
+    width: 35px;
+    height: 35px;
+}
+.single_bonus_label_title{
+    color :rgb(239, 239, 239);
+    font-size:12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: normal;
+    font-family: defaultFont;
+    text-align: center;
+    vertical-align: center;
+}
+.single_bonus_label{
+    color :#9ab0cd;
+    font-size:15px;
+    /* padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+    margin-top: 5px; */
+    font-weight: normal;
+    font-family: defaultFont;
+    text-align: center;
+    vertical-align: center;
+}

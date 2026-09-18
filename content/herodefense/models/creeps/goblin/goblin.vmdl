@@ -1,0 +1,1092 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc32:version{c5dcef98-b629-46ab-88e3-a17c005c935e} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "mi_goblina.vmat"
+								to = "models/creeps/goblin/goblin_1.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "monster"
+						filename = "models/creeps/goblin/sk_goblina.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimBindPose"
+						name = "bindpose"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_idle_Anim"
+						activity_name = "ACT_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_idle_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_idle2_Anim"
+						activity_name = "ACT_DOTA_IDLE_RARE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_idle2_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_run_Anim"
+						activity_name = "ACT_DOTA_RUN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_run_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 25.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_sturn_Anim"
+						activity_name = "ACT_DOTA_DISABLED"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_sturn_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_walk_Anim"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_walk_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_die_Anim"
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_die_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_battleidle_Anim"
+						activity_name = "ACT_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_battleidle_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = -1.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_attack2_Anim"
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_attack2_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 32.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_attack1_Anim"
+						children = 
+						[
+							{
+								_class = "AnimBlendLayer"
+								disabled = true
+								anim_name = "Goblin_attack2_Anim1"
+								spline = false
+								xfade = false
+								no_blend = false
+								local_space = false
+								start_frame = 0
+								peak_frame = 0
+								tail_frame = 0
+								end_frame = 51
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = "default"
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_attack1_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 32.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "Goblin_attack2_Anim1"
+						disabled = true
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = "low"
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/creeps/goblin/animation/Goblin_attack2_Anim.FBX"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 32.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "Bip01_Spine1"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "WeaponR"
+						relative_origin = [ 0.0, 0.0, 200.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack2"
+						parent_bone = "WeaponR"
+						relative_origin = [ 0.0, 0.0, 200.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "Bip01_Spine"
+								parent_bone = "Bip01_Spine"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -15.418854, -35.389542, -45.001404 ]
+								hitbox_maxs = [ 35.3741, 42.595444, 45.001205 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_Spine1"
+								parent_bone = "Bip01_Spine1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -30.105135, -40.679802, -73.520935 ]
+								hitbox_maxs = [ 81.871384, 46.625809, 73.52066 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_R_Clavicle"
+								parent_bone = "Bip01_R_Clavicle"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -25.122673, -38.065094, -20.945679 ]
+								hitbox_maxs = [ 69.93573, 31.910088, 44.382431 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_R_UpperArm"
+								parent_bone = "Bip01_R_UpperArm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.05883, -25.893181, -19.896935 ]
+								hitbox_maxs = [ 86.153824, 25.907463, 24.622391 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_R_Forearm"
+								parent_bone = "Bip01_R_Forearm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -38.931488, -33.397663, -21.026855 ]
+								hitbox_maxs = [ 63.530647, 22.096203, 24.622356 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_R_Hand"
+								parent_bone = "Bip01_R_Hand"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -22.198189, -20.522316, -26.102304 ]
+								hitbox_maxs = [ 65.099091, 22.072472, 38.086296 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_R_Finger0"
+								parent_bone = "Bip01_R_Finger0"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.56678, -11.597763, -16.106012 ]
+								hitbox_maxs = [ 27.300175, 18.112373, 10.978947 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_R_Finger1"
+								parent_bone = "Bip01_R_Finger1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -11.72221, -24.202614 ]
+								hitbox_maxs = [ 22.517918, 7.368805, 27.489029 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_Neck"
+								parent_bone = "Bip01_Neck"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -52.645645, -26.618256, -59.941673 ]
+								hitbox_maxs = [ 25.183701, 34.078537, 59.941391 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_Head"
+								parent_bone = "Bip01_Head"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -20.57576, -26.906427, -31.226837 ]
+								hitbox_maxs = [ 22.594864, 52.826927, 31.226181 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "F_EAR_L_01"
+								parent_bone = "F_EAR_L_01"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.937454, -4.909523, -13.224411 ]
+								hitbox_maxs = [ 28.089272, 4.926216, 6.814392 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "F_EAR_R_01"
+								parent_bone = "F_EAR_R_01"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.936985, -4.909665, -6.814133 ]
+								hitbox_maxs = [ 28.089752, 4.926096, 13.22464 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_L_Clavicle"
+								parent_bone = "Bip01_L_Clavicle"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -25.123016, -38.065086, -44.382133 ]
+								hitbox_maxs = [ 69.935577, 31.910133, 20.945786 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_L_UpperArm"
+								parent_bone = "Bip01_L_UpperArm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -9.059265, -25.893219, -24.622307 ]
+								hitbox_maxs = [ 86.153503, 25.907372, 19.897026 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_L_Forearm"
+								parent_bone = "Bip01_L_Forearm"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -38.93161, -33.397968, -24.622284 ]
+								hitbox_maxs = [ 63.530479, 22.095688, 21.026928 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_L_Hand"
+								parent_bone = "Bip01_L_Hand"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -22.198151, -20.522381, -38.086662 ]
+								hitbox_maxs = [ 65.098969, 22.072399, 26.101767 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_L_Finger0"
+								parent_bone = "Bip01_L_Finger0"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -3.566422, -11.598103, -10.978836 ]
+								hitbox_maxs = [ 27.300369, 18.111923, 16.105997 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_L_Finger1"
+								parent_bone = "Bip01_L_Finger1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -11.722395, -27.489491 ]
+								hitbox_maxs = [ 22.517971, 7.36851, 24.202 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_L_Thigh"
+								parent_bone = "Bip01_L_Thigh"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -16.924263, -32.110634, -17.073605 ]
+								hitbox_maxs = [ 81.959091, 16.695408, 20.739414 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_L_Calf"
+								parent_bone = "Bip01_L_Calf"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.307968, -15.479641, -15.565811 ]
+								hitbox_maxs = [ 61.722496, 16.557167, 18.785992 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_L_Foot"
+								parent_bone = "Bip01_L_Foot"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -11.383896, -12.302147, -14.689239 ]
+								hitbox_maxs = [ 40.370823, 47.172302, 24.596687 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_R_Thigh"
+								parent_bone = "Bip01_R_Thigh"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -16.924316, -32.110699, -20.739403 ]
+								hitbox_maxs = [ 81.959076, 16.695248, 17.073723 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_R_Calf"
+								parent_bone = "Bip01_R_Calf"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -12.307791, -15.479702, -18.785858 ]
+								hitbox_maxs = [ 61.722664, 16.557087, 15.565956 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "Bip01_R_Foot"
+								parent_bone = "Bip01_R_Foot"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -11.383846, -12.302303, -24.596607 ]
+								hitbox_maxs = [ 40.370907, 47.172153, 14.689381 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "F_skurt_up_B"
+								parent_bone = "F_skurt_up_B"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -1.213791, -13.084377 ]
+								hitbox_maxs = [ 31.614594, 0.979897, 13.084316 ]
+							},
+							{
+								_class = "Hitbox"
+								name = "F_skurt_up_F"
+								parent_bone = "F_skurt_up_F"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.5, -3.186384, -11.687201 ]
+								hitbox_maxs = [ 30.138561, 2.606222, 11.687183 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "select"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								name = "Bip01_Spine2"
+								parent_bone = "Bip01_Spine1"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -115.897385, -40.679802, -73.520935 ]
+								hitbox_maxs = [ 81.871384, 96.403336, 73.52066 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "Softbody"
+				children = 
+				[
+					{
+						_class = "ClothChain"
+						disabled = true
+						root_bone = "tail_01"
+						chain = 
+						{
+							joints = 
+							[
+								{
+									joint_name = "tail_01"
+									simulate = false
+									goal_strength = 0.6
+									gravity_z = 100.0
+								},
+								{
+									joint_name = "tail_02"
+									joint_parent = "tail_01"
+									collision_radius = 0.0
+									goal_strength = 0.5
+									gravity_z = 0.5
+								},
+								{
+									joint_name = "tail_03"
+									joint_parent = "tail_02"
+									collision_radius = 0.0
+									goal_strength = 0.45
+									gravity_z = 0.45
+								},
+								{
+									joint_name = "tail_04"
+									joint_parent = "tail_03"
+									collision_radius = 0.0
+									goal_strength = 0.4
+									gravity_z = 0.4
+								},
+								{
+									joint_name = "tail_05"
+									joint_parent = "tail_04"
+									collision_radius = 0.0
+									goal_strength = 0.35
+									gravity_z = 0.35
+								},
+							]
+							attrs = 
+							{
+								joint_name = 
+								{
+									display = "Joint Name"
+									show = true
+									ui_order = 1
+									default = ""
+									lock = true
+								}
+								joint_parent = 
+								{
+									display = "Parent Joint"
+									show = false
+									ui_order = 2
+									default = ""
+								}
+								simulate = 
+								{
+									display = "Simulate"
+									show = true
+									ui_order = 3
+									default = true
+								}
+								allow_rotation = 
+								{
+									display = "Allow Rotation"
+									show = false
+									ui_order = 4
+									default = true
+								}
+								stretch_spring = 
+								{
+									display = "Stretch Spring"
+									show = false
+									ui_order = 5
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								child_sibling_spring = 
+								{
+									display = "Spring Between Children"
+									show = false
+									ui_order = 6
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								bend_spring = 
+								{
+									display = "Bend Spring"
+									show = false
+									ui_order = 7
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								torsion_spring = 
+								{
+									display = "Torsion Spring"
+									show = false
+									ui_order = 8
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								world_collision = 
+								{
+									display = "World Collision"
+									show = false
+									ui_order = 9
+									default = false
+								}
+								goal_strength = 
+								{
+									display = "Goal Strength"
+									show = true
+									ui_order = 10
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								goal_damping = 
+								{
+									display = "Goal Damping"
+									show = false
+									ui_order = 11
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								drag = 
+								{
+									display = "Extra Drag"
+									show = false
+									ui_order = 12
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								mass = 
+								{
+									display = "Mass"
+									show = false
+									ui_order = 13
+									default = 1.0
+									min = 0.0
+								}
+								gravity_z = 
+								{
+									display = "Gravity"
+									show = true
+									ui_order = 14
+									default = 1.0
+								}
+								collision_radius = 
+								{
+									display = "Collision Radius"
+									show = true
+									ui_order = 15
+									default = 0.0
+									min = 0.0
+								}
+								lock_translation = 
+								{
+									display = "Lock Translation"
+									show = false
+									ui_order = 16
+									default = false
+								}
+								suspender = 
+								{
+									display = "Suspender Spring"
+									show = false
+									ui_order = 17
+									default = 0.0
+								}
+								antishrink = 
+								{
+									display = "Antishrink Strength"
+									show = false
+									ui_order = 18
+									default = 1.0
+									min = 0.0
+									max = 1.0
+								}
+								stray_radius = 
+								{
+									display = "Stray Radius"
+									show = false
+									ui_order = 19
+									default = 0.0
+									min = 0.0
+								}
+								stray_radius_stretchiness = 
+								{
+									display = "Stray Radius Stretchiness"
+									show = false
+									ui_order = 20
+									default = 0.0
+									min = 0.0
+								}
+								friction = 
+								{
+									display = "Friction"
+									show = false
+									ui_order = 21
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								vertex_map = 
+								{
+									display = "Vertex Map"
+									show = false
+									ui_order = 22
+									default = ""
+									verify = "vertex_map"
+								}
+								end_effector = 
+								{
+									display = "End Effector"
+									show = false
+									ui_order = 23
+									default = 0.0
+									lock_default_value = true
+								}
+								stiff_hinge = 
+								{
+									display = "Stiff Hinge"
+									show = false
+									ui_order = 24
+									default = 0.0
+									min = 0.0
+									max = 1.0
+									lock_root2 = true
+								}
+								stiff_hinge_angle = 
+								{
+									display = "Stiff Hinge Angle"
+									show = false
+									ui_order = 25
+									default = 0.0
+									min = 0.0
+									max = 180.0
+									lock_root2 = true
+								}
+								motion_bias = 
+								{
+									display = "Motion Bias"
+									show = false
+									ui_order = 26
+									default = 0.0
+									min = -1.0
+									max = 1.0
+									lock_root = true
+								}
+								extra_iterations = 
+								{
+									display = "Extra Iterations"
+									show = false
+									ui_order = 27
+									default = 0
+									min = 0
+									max = 1000
+								}
+								twist_relax = 
+								{
+									display = "Twist Relax"
+									show = false
+									ui_order = 28
+									default = 0.0
+									min = 0.0
+									max = 1.0
+								}
+								extrude_sides = 
+								{
+									display = "Extrude Sides"
+									show = false
+									ui_order = 29
+									default = 0
+									min = 0
+									max = 4
+								}
+								extrude_radius = 
+								{
+									display = "Extrude Radius"
+									show = false
+									ui_order = 30
+									default = 5.0
+									min = 0.0
+								}
+								extrude_twist = 
+								{
+									display = "Extrude Twist"
+									show = false
+									ui_order = 31
+									default = 0.0
+								}
+							}
+							selection = [  ]
+							version = 1
+						}
+					},
+				]
+				stiffness_on_ragdoll = 0.0
+				cloth_sleep_enabled = false
+				cloth_per_bone_scale_enabled = false
+				cloth_enable_empty_model = false
+			},
+			{
+				_class = "ClothProxyMeshList"
+				children = 
+				[
+					{
+						_class = "ClothParams"
+						disabled = true
+						default_stretch = 1.0
+						additional_shear_stretch = 1.0
+						extra_iterations = 0
+						extra_goal_iterations = 0
+						extra_pressure_iterations = 0
+						goal_strength_bias = 0.2
+						default_gravity_scale = 1.0
+						default_vel_air_drag = 0.9
+						default_exp_air_drag = 0.8
+						velocity_smooth_rate = 1.0
+						internal_pressure = 0.0
+						windage = 0.0
+						wind_drag = 0.0
+						velocity_smooth_iterations = 5
+						default_ground_friction = 0.0
+						default_world_collision_penetration = 0.0
+						add_world_collision_radius = 2.0
+						local_force = 1.0
+						local_rotation = 0.0
+						add_curvature = 1.0
+						quad_bend_tolerance = 0.05
+						follow_the_lead = true
+						use_per_node_local_force_and_rotation = false
+						uninertial_rods = false
+						explicit_masses = false
+						unitless_damping = true
+						force_world_collision_on_all_nodes = false
+						new_style = true
+						can_collide_with_world_hulls = true
+						can_collide_with_world_meshes = true
+						can_collide_with_world_capsule_and_spheres = true
+						add_stiffness_rods = true
+						rigid_edge_hinges = false
+						soft_skin_animation = false
+						add_bend_only_rods = false
+						immovable = false
+					},
+				]
+			},
+			{
+				_class = "WeightListList"
+				children = 
+				[
+					{
+						_class = "WeightList"
+						name = "top"
+						disabled = true
+						default_weight = 0.0
+						weights = 
+						[
+							{
+								bone = "pelvis"
+								weight = 0.0
+							},
+							{
+								bone = "spine_01"
+								weight = 1.0
+							},
+							{
+								bone = "spine_02"
+								weight = 1.0
+							},
+						]
+						master_morph_weight = -1.0
+						morph_weights = [  ]
+					},
+					{
+						_class = "WeightList"
+						name = "hight"
+						default_weight = 0.0
+						weights = 
+						[
+							{
+								bone = "Bip01_L_Thigh"
+								weight = 0.0
+							},
+							{
+								bone = "Bip01_Pelvis"
+								weight = 0.0
+							},
+							{
+								bone = "Bip01_R_Thigh"
+								weight = 0.0
+							},
+							{
+								bone = "Bip01_Spine"
+								weight = 1.0
+							},
+							{
+								bone = "F_skurt_up_B"
+								weight = 0.0
+							},
+							{
+								bone = "F_skurt_up_F"
+								weight = 0.0
+							},
+						]
+						master_morph_weight = -1.0
+						morph_weights = [  ]
+					},
+					{
+						_class = "WeightList"
+						name = "low"
+						default_weight = 0.0
+						weights = 
+						[
+							{
+								bone = "Bip01_L_Thigh"
+								weight = 1.0
+							},
+							{
+								bone = "Bip01_Pelvis"
+								weight = 1.0
+							},
+							{
+								bone = "Bip01_R_Thigh"
+								weight = 1.0
+							},
+							{
+								bone = "Bip01_Spine"
+								weight = 0.0
+							},
+							{
+								bone = "F_skurt_up_B"
+								weight = 1.0
+							},
+							{
+								bone = "F_skurt_up_F"
+								weight = 1.0
+							},
+						]
+						master_morph_weight = -1.0
+						morph_weights = [  ]
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

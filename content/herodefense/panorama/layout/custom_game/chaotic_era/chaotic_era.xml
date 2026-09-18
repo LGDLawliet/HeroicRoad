@@ -1,0 +1,660 @@
+<root>
+    <styles>
+        <include src="s2r://panorama/styles/dotastyles.vcss_c"/>
+        <include src="s2r://panorama/styles/hudstyles.vcss_c"/>
+        <include src="s2r://panorama/layout/custom_game/chaotic_era/chaotic_era.css"/>
+        <include src="s2r://panorama/layout/custom_game/chaotic_era/chaotic_era_spell_list.css"/>
+        <include src="s2r://panorama/layout/custom_game/chaotic_era/monster_panel.css"/>
+        <include src="s2r://panorama/layout/custom_game/chaotic_era/chaotic_game_effect.css"/>
+         <include src="s2r://panorama/layout/custom_game/chaotic_era/bonus_attribute.css"/>
+        <include src="s2r://panorama/styles/custom_game/common_hd.css"/>
+
+    </styles>
+
+    <scripts>
+
+        
+        <include src="file://{resources}/scripts/custom_game/common.js" />
+        <include src="s2r://panorama/layout/custom_game/chaotic_era/chaotic_era_map_effect.js" />
+        <include src="s2r://panorama/layout/custom_game/chaotic_era/bonus_attribute.js" />
+        <include src="s2r://panorama/layout/custom_game/chaotic_era/chaotic_era.js" />
+        
+       
+    </scripts>
+    <snippets>
+        <!-- 技能画布 -->
+        <snippet name="spell">
+            <Panel class="SingleSpellPanel_root">
+                <Panel class="SingleSpellPanel" id = "SingleSpellPanel_id" >
+                    <Button id="SingleSpellPanelButton" onactivate="BuySpell()">
+                        <Panel id="HeroBorder"/>
+                        <Panel id="SingleSpellImage">
+                            <DOTAAbilityImage id="SingleSpellPictureImage"/>
+                        </Panel>
+                    </Button>
+                    <Label class="CpCostIndicator" id="SpellCostorReturn" text="#DOTA_HUD_Spells_Menu_Spell_Cost"/>
+                    <Label class="CpCostIndicator" id="SpellCost" text=""/>
+                </Panel>
+
+                <Panel id = "Recommended_icon"> </Panel>
+            </Panel>
+        </snippet>
+
+
+        <snippet name="general_spell">
+            <Panel class="single_general_spell">
+                <Button id="single_general_spellButton">
+                    <Panel id="single_general_spellImage">
+                        <DOTAAbilityImage id="single_general_spell" abilityname = "Advanced_Blur"/>
+                    </Panel>
+                    <!-- <Label class="CpCostIndicator" id = "leveltext" text="#DOTA_HUD_Spells_Menu_level"/> -->
+                </Button>
+                <Label class="spell_info_label" text="{s:spellName}"/>
+                <!-- <Panem> -->
+                <Label id="spell_tyle_label" class="spell_info_label" text="{s:spelltype}" html="true"  hittest="true" />
+            </Panel>
+
+        </snippet>
+
+        <snippet name="singleTask_snippet">
+            <Panel class="singleTask">
+                <Panel class="left_block">
+                    <Label text="{s:unitName}"/>
+                    <Panel id="TaskImage"/>
+                </Panel>
+                <Panel class="middle_block">
+                    <Panel class="single_smallBlock">
+                        <Label text="#Rune_Progress_Generate_interval" html="true" />
+                        <Label text="#Rune_Progress_Generate_count" html="true" />
+
+                        <Label text="#Rune_Progress_Generate_count_bonus" html="true" />
+                        <Label text="#Rune_Progress_Generate_health" html="true" />
+                        <Label text="#Rune_Progress_Generate_attackdamage" html="true" />
+                        <Panel id="bountyPanel">
+                            <Panel id="bountyIcon" onmouseover="DOTAShowTextTooltip('#HUD_Bounty')" onmouseout="DOTAHideTextTooltip()" />
+                            <Label id="bountyLabel" text="{s:bounty}"/>
+                            
+                        </Panel>
+
+                    </Panel>
+                    <Panel class="single_bigBlock">
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level1RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level1"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level2RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level2"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level3RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level3"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level4RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level4"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level5RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level5"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+                    </Panel>
+                    <Panel id="TaskModifyList">
+                        <Panel id="TaskModifyTitlePanel">
+                            <Label id="TaskModifyTitle" text="#HUD_Chaotic_Era_TaskModify_Title"  onmouseover="DOTAShowTextTooltip('#HUD_Chaotic_Era_TaskModify_Info')" onmouseout="DOTAHideTextTooltip()" />
+                            <Panel id="TaskModifyAddIcon" hittest="true"/>
+
+                        </Panel>
+                        <Panel id="modifyListPanel">
+                        </Panel>
+                    </Panel>
+                </Panel>
+            </Panel>
+        </snippet>
+
+        <snippet name="singleTaskSelect_snippet">
+            <Panel class="singleTask">
+                <Panel class="left_block">
+                    <Label text="{s:unitName}"/>
+                    <Panel id="TaskImage"/>
+                </Panel>
+                <Panel class="middle_block">
+                    <Panel class="single_smallBlock verySmall">
+                        <Label text="#Rune_Progress_Generate_interval" html="true" />
+                        <Label text="#Rune_Progress_Generate_count" html="true" />
+                        <Label text="#Rune_Progress_Generate_count_bonus" html="true" />
+                        <Label text="#Rune_Progress_Generate_health" html="true" />
+                        <Label text="#Rune_Progress_Generate_attackdamage" html="true" />
+                        <Panel id="bountyPanel">
+                            <Panel id="bountyIcon" onmouseover="DOTAShowTextTooltip('#HUD_Bounty')" onmouseout="DOTAHideTextTooltip()" />
+                            <Label id="bountyLabel" text="{s:bounty}"/>
+                            
+                        </Panel>
+
+                    </Panel>
+                    <Panel class="single_smallBlock verySmall" >
+
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level1RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level1"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level2RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level2"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level3RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level3"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level4RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level4"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+                        <Panel class="singleProgressPanel">
+                            <Panel id="level5RuneIcon" class="runeIcon"/>
+                            <Label text="#Rune_Progress_Generate_level5"  onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" />
+                        </Panel>
+
+                        <!-- <Label text="#Rune_Progress_Generate_level1" onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" /> -->
+                        <!-- <Label text="#Rune_Progress_Generate_level2" onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()"  html="true" /> -->
+                        <!-- <Label text="#Rune_Progress_Generate_level3" onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()"  html="true" /> -->
+                        <!-- <Label text="#Rune_Progress_Generate_level4" onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()"  html="true" /> -->
+                        <!-- <Label text="#Rune_Progress_Generate_level5" onmouseover="DOTAShowTextTooltip('#HUD_RuneProgress')" onmouseout="DOTAHideTextTooltip()" html="true" /> -->
+                    </Panel>
+                    <Panel id="playerSelected" >
+                    
+                 
+                    </Panel>
+                    <Panel id="selectProgresss">
+                        <Panel id="selectProgress_Left" hittest="false" class="Visible">
+                            <!-- <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/> -->
+                        </Panel>
+                        <Panel id="selectProgress_Right" hittest="false" class="Visible"></Panel>
+
+                    </Panel>
+
+                    <Panel id="TaskButtonList">
+                        <Button id="UpgradeTaskButton" class="Nouse_label" onmouseover="DOTAShowTextTooltip('#HUD_Task_Upgrade_noraml')" onmouseout="DOTAHideTextTooltip()">
+                            <Label text="#HUD_Task_Upgtade"/>
+                        </Button>
+                    </Panel>
+                </Panel>
+            </Panel>
+        </snippet>
+
+
+        <snippet name="singlePlayerImage">
+            <Panel class="singlePlayerImage">
+                <DOTAAvatarImage id="avatar" class="PlayerImage" accountid="324420892" />
+            </Panel>  
+
+        </snippet>
+
+
+        <snippet name="singleBuffCard">
+            <Panel class="ChaoticEraBuffCardRoot">
+    
+                <Panel class="ChaoticEraBuffCard mainMenuDesign" hittest="true" >
+                
+                    <Panel id="buff_main_page" hittest="true">
+                        <Panel class="hd_genaral_Background">
+                            <Panel class="hd_genaral_Background_layer2">
+                                <Panel class="hd_genaral_Background_layer3">
+                                </Panel>
+                            </Panel>
+                        </Panel>
+
+                        <Panel id="buffCardBG" hittest="false">
+                            <Panel id="buffCardTopBarBG" hittest="false" >
+                                <Label id="buffCardNameTitle" text="{s:title}" />
+                            </Panel>
+                        </Panel>
+
+                        <!-- 卡牌图 -->
+                        <Panel id="buffCardImage"  hittest="false" >
+                            
+                        </Panel>
+
+                        <!-- 选项 -->
+                        <Panel id="buffCardBottomBlock"  hittest="false" >
+                            <Label id="buffDescription_base" html="true" text="{s:effect}" />
+                        </Panel>
+
+
+
+                    </Panel>
+                    <Panel id="buff_main_page_cover" hittest="false">
+                        <!-- <Panel id="buff_main_page_selected" hittest="false">
+                            <Label id="ChaoticEraBossCounterLabel" text="#ChaoticEra_Selected" />
+                        </Panel> -->
+                    </Panel>
+
+
+
+                    <!-- <DOTAScenePanel hittest="false" id="CardFx_sr" map="scene/card_fellomen_buff" particleonly="true" /> -->
+
+
+                </Panel>
+
+                <Panel id="selectProgress_root" >
+                    <Panel id="selectProgress">
+                        <Panel id="selectProgress_Left" hittest="false" class="Visible"> </Panel>
+                        <Panel id="selectProgress_Right" hittest="false" class="Visible"></Panel>
+                    </Panel>
+                    <Panel id="playerSelected" >
+
+                    
+                    
+                    </Panel>
+                
+                </Panel>
+                
+            </Panel>
+        </snippet>
+
+
+        <snippet name="singleModify">
+            <Panel class="singleModify">
+                <Panel id="singleModifyIcon"/>
+            </Panel>
+        </snippet>
+
+        <snippet name="TaskModifyContextMenu">
+			<Panel class="TaskModifyContextMenu">
+				<!-- <Button class="ItemMenuBtn" onactivate="$.Msg('333')">
+					<Label text="{s:text}" />
+				</Button> -->
+			</Panel>
+		</snippet>
+
+
+        <snippet name="singleMapEffect">
+			<Panel class="singleMapEffect">
+                <Panel id="singleMapEffectIcon"/>
+            </Panel>
+		</snippet>
+
+
+
+
+         
+ 
+
+    </snippets>
+
+
+
+    <Panel hittest="false" class="chaotic_era_root">
+
+
+
+        <!-- 怪物数量统计 -->
+        <Panel id="MonsterPanel" hittest="true" class="">
+            <Panel id="MonsterPanel_LeftBlock" hittest="true" >
+                <Panel id="MonsterPanel_LeftBlock_cover" hittest="true" >
+                </Panel>
+                <Label id="MonsterPanel_LeftBlock_wave" class="general_chaotic_label" text="#HUD_Wave" html="true"  hittest="true" />
+                <Label id="MonsterPanel_LeftBlock_wave_count" class="general_chaotic_label" text="{s:wave_count}" html="true"  hittest="true" />
+                <Label id="MonsterPanel_LeftBlock_wave_timer" class="general_chaotic_label" text="{s:min}:{s:second}" html="true"  hittest="true" />
+            </Panel>
+            <Panel id="MonsterCount_Progress" hittest="true" class="Visible">
+                <Panel id="MonsterCount_Progress_Left" hittest="false" class="Visible" >
+                    <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                </Panel>
+                <Panel id="MonsterCount_Progress_Right" hittest="false" class="Visible"></Panel>
+                <Label id="MonsterCount_Progress_text" text="{s:current_count}/{s:max_count}"/>
+            </Panel>
+            <Panel id="bossSummon_Progress">
+                <Panel id="bossSummon_Progress_Left" hittest="true" class="Visible" >
+                    <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                </Panel>
+                <Panel id="bossSummon_Progress_Right" hittest="false" class="Visible"></Panel>
+                <Label id="bossSummon_Progress_text" text="#HUD_Boss_Summon_wave"/>
+
+            </Panel>
+            <Panel id ="mapEffectList">
+               
+            </Panel>
+
+            <Panel id="MonsterPanel_RightBlock" hittest="true" >
+                <Panel id="MonsterPanel_monsterImage" hittest="true" >
+
+                </Panel>
+            </Panel>
+
+
+        </Panel>
+
+
+        <!-- 符石进度 -->
+        <Panel id = "RuneProgressRoot">
+        	<Panel id="HideButton" onactivate="ToggleProgress()">
+				<Panel id="HideButtonArrow"/>
+			</Panel>
+            <Panel id="ProgressContent">
+                <Panel class="hd_genaral_Background low_opacity">
+                    <Panel  class="hd_genaral_Background_layer2">
+                        <Panel class="hd_genaral_Background_layer3">
+                        </Panel>
+                    </Panel>
+                
+                </Panel>
+                <Label class="RuneProgress_Title" text="#Rune_Progress_Title" html="true" />
+                <Panel id="RuneProgress_set">
+                    <Panel id="RuneProgress_level1" class = "singleRuneProgress">
+                        <Label class="RuneProgress_Level" text="#HUD_Level1" html="true" />
+                        <Panel id="RuneProgress" hittest="true" class="Visible">
+                            <Panel id="RuneProgress_Left" hittest="false" class="Visible">
+                                <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                            </Panel>
+                            <Panel id="RuneProgress_Right" hittest="false" class="Visible"></Panel>
+                            <Label id="RuneProgress_text" text="{s:current}/{s:require}"/>
+                            <Label id="RuneProgress_text_right" text="x{s:current_count}"/>
+                        </Panel>
+                    </Panel>
+                    <Panel id="RuneProgress_level2" class = "singleRuneProgress">
+                        <Label class="RuneProgress_Level" text="#HUD_Level2" html="true" />
+                        <Panel id="RuneProgress" hittest="true" class="Visible">
+                            <Panel id="RuneProgress_Left" hittest="false" class="Visible">
+                                <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                            </Panel>
+                            <Panel id="RuneProgress_Right" hittest="false" class="Visible"></Panel>
+                            <Label id="RuneProgress_text" text="{s:current}/{s:require}"/>
+                            <Label id="RuneProgress_text_right" text="x{s:current_count}"/>
+                        </Panel>
+                    </Panel>
+                    <Panel id="RuneProgress_level3" class = "singleRuneProgress">
+                        <Label class="RuneProgress_Level" text="#HUD_Level3" html="true" />
+                        <Panel id="RuneProgress" hittest="true" class="Visible">
+                            <Panel id="RuneProgress_Left" hittest="false" class="Visible">
+                                <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                            </Panel>
+                            <Panel id="RuneProgress_Right" hittest="false" class="Visible"></Panel>
+                            <Label id="RuneProgress_text" text="{s:current}/{s:require}"/>
+                            <Label id="RuneProgress_text_right" text="x{s:current_count}"/>
+                        </Panel>
+                    </Panel>
+                    <Panel id="RuneProgress_level4" class = "singleRuneProgress">
+                        <Label class="RuneProgress_Level" text="#HUD_Level4" html="true" />
+                        <Panel id="RuneProgress" hittest="true" class="Visible">
+                            <Panel id="RuneProgress_Left" hittest="false" class="Visible">
+                                <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                            </Panel>
+                            <Panel id="RuneProgress_Right" hittest="false" class="Visible"></Panel>
+                            <Label id="RuneProgress_text" text="{s:current}/{s:require}"/>
+                            <Label id="RuneProgress_text_right" text="x{s:current_count}"/>
+                        </Panel>
+                    </Panel>
+                    <Panel id="RuneProgress_level5" class = "singleRuneProgress">
+                        <Label class="RuneProgress_Level" text="#HUD_Level5" html="true" />
+                        <Panel id="RuneProgress" hittest="true" class="Visible">
+                            <Panel id="RuneProgress_Left" hittest="false" class="Visible">
+                                <DOTAScenePanel hittest="false"  id="PostGameBGExp" map="scenes/hud/healthbarburner" camera="default" light="light_hero" renderdeferred="false" antialias="true" particleonly="false"/>
+                            </Panel>
+                            <Panel id="RuneProgress_Right" hittest="false" class="Visible"></Panel>
+                            <Label id="RuneProgress_text" text="{s:current}/{s:require}"/>
+                            <Label id="RuneProgress_text_right" text="x{s:current_count}"/>
+                        </Panel>
+                    </Panel>
+                </Panel>
+                
+                <Button id="checkingTaskButton" class="chaotic_era_generalHDButton" onactivate="ToggleTask();">
+                    <Label id="DefenseSpellsButtonLabel" text="#Rune_Progress_Task_Button"/>
+                </Button>
+            </Panel>
+           
+
+        </Panel>
+
+        <!-- 单位生成 -->
+        <Panel id="ChaoticEraTaskRoot" class="mainMenuDesign">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+        
+            </Panel>
+            <Label class="hdGeneralTitle" text="#Rune_Progress_Task_Title" />
+            <Button id="ToggleTaskButton" onactivate="ToggleTask();">  </Button> 
+            <!-- 单位生成列表 -->
+            <Panel id="ChaoticEraTask_Set">
+
+
+            </Panel>
+        </Panel>
+
+
+        <!-- 怪物队列选择器 -->
+        <Panel id="ChaoticEraTaskSelectRoot" class="mainMenuDesign">
+            <Panel class="hd_genaral_Background">
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+        
+            </Panel>
+            <Label class="hdGeneralTitle" text="#Rune_Progress_Task_Select_Title" />
+            <Button id="ToggleTaskButton" onactivate="ToggleSelectTask();">  </Button> 
+            <!-- 单位生成列表 -->
+            <Panel id="ChaoticEraTaskSelect_Set">
+
+
+            </Panel>
+        </Panel>
+
+
+        <Button id="TaskSelectMenuOpenButton"  onactivate="ToggleSelectTask()">
+            <DOTAScenePanel id="TaskSelectMenuOpenButtonBG" map="scenes/challenge_icon" camera="camera_2" light="global_light" deferredalpha="false" renderdeferred="false" rotateonmousemove="true" yawmin="0" yawmax="0" pitchmin="0" pitchmax="0" antialias="false" particleonly="false" />
+		
+          <!-- <Label  text="#Rune_Progress_Task_Select_Button" /> -->
+        </Button>
+
+        <!-- 怪物数量警告 -->
+        <Panel id="MissingCountWarning" hittest="false">
+            <DOTAScenePanel id="MissingCountWarningFx" map="scene/countdown_fx" camera="camera_1" particleonly="true" hittest="false" />
+            <Panel id="MissingCountWarningDigits" hittest="false">
+                <Image id="MissingCountWarningDigit1" class="MissingCountWarningDigit" hittest="false" />
+                <Image id="MissingCountWarningDigit2" class="MissingCountWarningDigit" hittest="false" />
+                <Image id="MissingCountWarningDigit3" class="MissingCountWarningDigit" hittest="false" />
+            </Panel>
+        </Panel>
+
+
+
+
+
+        <!-- 技能选择窗口 -->
+        <Panel id="ChaoticEraSpellsListPanel" >
+            <Panel id="ChaoticEraSpellsList_BG" />
+            <Panel id="ChaoticEraSpellsList_Title" >
+                <Panel id="ChaoticEraSpellsList_TitleBG" />
+                <Label id="ChaoticEraSpellsLisTitle" text="#DOTA_HUD_ChaoticEraSpellsLisTitle" />
+            </Panel>
+            <!-- <Button id="CloseSpellsMysteryWindowPanel" onactivate="CloseSpellsMysteryWindowPanel();">  </Button>  -->
+		
+			<!-- <Label id="DropSelectLabel" text="#DOTA_HUD_DropSelectTitle_message" /> -->
+			<Panel id="ChaoticEraSpellsListContainer">
+
+
+			</Panel>
+
+            <Panel id="chaotic_era_spellList_buttonList">
+                <Button id="rerollSpellButton1" class="generalChaoticEraButton golden"  onactivate="RerollSpell();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_ChaoticEraSpellsLis_reroll_1_info')" onmouseout="DOTAHideTextTooltip()">
+                    <Label id="GiveSpellsListButtonLabel" class="GeneralButtonLabel" text="#DOTA_HUD_ChaoticEraSpellsLis_reroll_1" />
+                </Button>
+                <Button id="rerollSpellButton2" class="generalChaoticEraButton blue"  onactivate="RerollSpell();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_ChaoticEraSpellsLis_reroll_2_info')" onmouseout="DOTAHideTextTooltip()">
+                    <Label id="GiveSpellsListButtonLabel" class="GeneralButtonLabel" text="#DOTA_HUD_ChaoticEraSpellsLis_reroll_2" />
+                </Button>
+                <Button id="HideSpellsListButton" class="generalChaoticEraButton" onactivate="HideChaoticEraSpellsListPanel();" >
+                    <Label id="HideSpellsListButtonLabel" class="GeneralButtonLabel" text="#DOTA_HUD_ChaoticEraSpellsLis_Hide"/>
+                </Button>
+
+                <Button id="GiveypSpellsListButton" class="generalChaoticEraButton red"  onactivate="GiveupChaoticEraSpellsListPanel();" >
+                    <Label id="GiveSpellsListButtonLabel" class="GeneralButtonLabel" text="#DOTA_HUD_ChaoticEraSpellsLis_giveup"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_ChaoticEraSpellsLis_giveup_info')" onmouseout="DOTAHideTextTooltip()"/>
+                </Button>
+                <Button id="ConfirmSpellListButton" class="generalChaoticEraButton"  onactivate="ConfirmLearnSpell();" >
+                    <Label id="GiveSpellsListButtonLabel" class="GeneralButtonLabel" text="#DOTA_HUD_ChaoticEraSpellsLis_confirm" />
+                </Button>
+
+
+            </Panel>
+
+
+
+
+
+            <!-- 为什么需要有这个mask？因为面板渐出的时候可能会有mouse in 事件触发 -->
+            <Panel id="ChaoticEraSpellsList_Mask"  class="hidden" hittest="true" />
+    
+        </Panel>
+
+
+
+        <Panel id="ShowSpellsListButton" hittest="true" onactivate="ShowChaoticEraSpellsListPanel();" >
+            <Label id="ShowSpellsListButtonLabel"  class="GeneralButtonLabel" text="#DOTA_HUD_ChaoticEraSpellsLis_learn"/>
+            <Panel id="ShowSpellsListButton_image" />
+        </Panel>
+
+
+
+        <Panel id="global_game_effect_cardRoot" hittest="false">
+
+            <Panel id="ChaoticEra_GameEffect_Header" hittest="false">
+				<Panel id="ChaoticEra_GameEffect_Icon"/>
+				<Label id="ChaoticEra_GameEffect_Title" hittest="false" text="#ChaoticEra_GameEffect_Title" />
+				
+			</Panel>
+			<Panel id="ChaoticEra_GameEffect_Body"  hittest="false">
+
+                
+
+			</Panel>
+
+       
+
+			<!-- <Panel id="boss_buttomList">
+				<Button class="ButtonCloaseWindow" onactivate="ToggleBossSlection()">
+					<Label text="#Fellomen_Cloase" />
+					
+				</Button>
+
+				<Button  id="fellomen_UpgradeButton" onactivate="UpgradeBoss()" onmouseover="DOTAShowTextTooltip('#HUD_Upgrade_fellomen_boss')" onmouseout="DOTAHideTextTooltip()">
+					<Label text="#HUD_Upgrade_fellomen_boss_Title" />
+				</Button>
+			</Panel> -->
+            <Button id="HideButton" onactivate="ToggleGameEffectCard();" >    </Button>
+
+
+        </Panel>
+
+
+        <Panel id="player_artifact_cardRoot" hittest="false">
+            <Panel id="ChaoticEra_Artifact_Header" hittest="false">
+				<Panel id="ChaoticEra_Artifact_Icon"/>
+				<Label id="ChaoticEra_Artifact_Title" hittest="false" text="#ChaoticEra_Artifact_Title" />
+			</Panel>
+			<Panel id="ChaoticEra_Artifact_Body"  hittest="false">
+			</Panel>
+            <Button id="HideButton" onactivate="ToggleArtifactCard();" >    </Button>
+
+
+        </Panel>
+
+
+        <!-- 展开按钮 -->
+        <Button id="SetBonusAttributesButton" class = "Hidden"  onactivate="ChangingBonusAttributesStatus();" >    </Button>
+
+        <!-- 属性奖励窗口 -->
+        <Panel id="FellOmenBan_Bonus_Attributes_Panel_Root"  class = "Bonus_AttributesPanel"  hittest="false">
+            <Panel id="FellOmenBan_Bonus_Attributes_PanelWindow" class = "Bonus_AttributesPanel FellOmenHidden"  hittest="true">
+            
+            <Panel id="FellOmenBan_Bonus_Attributes_BackGround"  hittest="true">
+                <Panel class="hd_genaral_Background">
+        
+                <Panel class="hd_genaral_Background_layer2">
+                    <Panel class="hd_genaral_Background_layer3">
+                    </Panel>
+                </Panel>
+                </Panel>
+            </Panel>
+            <Label hittest="false" id="FellOmenBonus_title" text="#DOTA_HUD_FellOmen_Bonus_Attributes"/>
+            <Button id="SendBonusAttributes" class="generalHDButton" onactivate="SendBonusAttributes();" >   
+                <Label class="FellOmen_Confirm_Label" text="#DOTA_HUD_FellOmen_Send_Bonus_Attributes"></Label>
+            </Button>
+            
+            <Panel id="FellOmenBan_Bonus_Attributes"  hittest="true">
+                <Panel id="FellOmenBan_Bonus_Attributes_0"  hittest="true">
+                <Label id="Bonus_Attributes_Label_base" class = "Bonus_Attribues_Label_base" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Chaotic_Bonus_Attributes_description')" onmouseout="DOTAHideTextTooltip()" />
+                </Panel>
+                <!-- 属性分配 -->
+                <Panel id="FellOmenBan_Bonus_Attributes_1" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+                <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_outgoing" onmouseover="DOTAShowTextTooltip('1·1,MAX:50')" onmouseout="DOTAHideTextTooltip()"  />
+                <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="50" value="0" onvaluechanged="BonusAttributesQuantityChanged(1)" />
+                <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+                </Panel>
+
+                <Panel id="FellOmenBan_Bonus_Attributes_2" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+                <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_incoming" onmouseover="DOTAShowTextTooltip('1·1,MAX:30')" onmouseout="DOTAHideTextTooltip()"  />
+                <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="30" value="0" onvaluechanged="BonusAttributesQuantityChanged(2)" />
+                <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+                </Panel>
+
+                <Panel id="FellOmenBan_Bonus_Attributes_3" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+                <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_attack_damage" onmouseover="DOTAShowTextTooltip('3·1,MAX:250')" onmouseout="DOTAHideTextTooltip()"  />
+                <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="250" value="0" onvaluechanged="BonusAttributesQuantityChanged(3)" />
+                <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+                </Panel>
+                <!-- 乱纪元天赋 -->
+                <Panel id="FellOmenBan_Bonus_Attributes_4" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+                <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_talent_1" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_FellOmen_Bonus_Attributes_talent_1_Description')" onmouseout="DOTAHideTextTooltip()"  />
+                <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="1" value="0" onvaluechanged="BonusAttributesQuantityChanged(4)" />
+                <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+                </Panel>
+
+                <Panel id="FellOmenBan_Bonus_Attributes_5" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+                <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_talent_2"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_FellOmen_Bonus_Attributes_talent_2_Description')" onmouseout="DOTAHideTextTooltip()" />
+                <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="1" value="0" onvaluechanged="BonusAttributesQuantityChanged(5)" />
+                <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+                </Panel>
+                
+                <Panel id="FellOmenBan_Bonus_Attributes_6" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+                <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_talent_3" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_FellOmen_Bonus_Attributes_talent_3_Description')" onmouseout="DOTAHideTextTooltip()"  />
+                <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="1" value="0" onvaluechanged="BonusAttributesQuantityChanged(6)" />
+                <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+                </Panel>
+
+                <Panel id="FellOmenBan_Bonus_Attributes_7" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+                <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_talent_4" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_FellOmen_Bonus_Attributes_talent_4_Description')" onmouseout="DOTAHideTextTooltip()"  />
+                <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="1" value="0" onvaluechanged="BonusAttributesQuantityChanged(7)" />
+                <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost" />
+                </Panel>
+
+                <Panel id="FellOmenBan_Bonus_Attributes_8" class = "FellOmenBan_Bonus_Attributes_detail_Panel"  hittest="true">
+                <Label id="Bonus_Attributes_Label1" class = "Bonus_Attribues_Label" text="#DOTA_HUD_FellOmen_Bonus_Attributes_talent_5" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_FellOmen_Bonus_Attributes_talent_5_Description')" onmouseout="DOTAHideTextTooltip()"  />
+                <NumberEntry id="Bonus_attributes" class = "Bonus_Attribues_NumberEntry"   min="0" max="1" value="0" onvaluechanged="BonusAttributesQuantityChanged(8)" />
+                <Label id="Bonus_Attributes_Label2" class = "Bonus_Attribues_Label_2" text="#DOTA_HUD_FellOmen_Bonus_Attributes_point_cost"  />
+                </Panel>
+
+
+
+    
+
+
+
+            </Panel>
+            </Panel>
+
+        </Panel>
+
+    
+
+
+
+
+
+    </Panel>
+</root>
+
+
+

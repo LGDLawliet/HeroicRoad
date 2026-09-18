@@ -1,0 +1,529 @@
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_aid"	"援助术"
+
+"DOTA_Tooltip_ability_chaotic_aid_Description"	"​ 你的法术增强了盟友的韧性和毅力。对一个友军进行施法，使其提升防御力，持续%duration%秒。"
+"DOTA_Tooltip_ability_chaotic_aid_Lore"	"简单的防护法术，虽然级别不高，但稍加运用也可以发挥出不错的作用。"
+
+"DOTA_Tooltip_ability_chaotic_aid_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_aid_bonus_armor"	"☆护甲加成："
+
+
+"DOTA_Tooltip_modifier_chaotic_aid"                   "援助术"
+"DOTA_Tooltip_modifier_chaotic_aid_Description"       "防御提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"HUD_Spell_Rune_chaotic_aid_duration"  "持续时间"
+"HUD_Spell_Rune_chaotic_aid_bonus_armor"  "防御力加成"
+"DOTA_Tooltip_ability_chaotic_aid_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_aid_bonus_armor"	"☆护甲加成："
+
+"DOTA_Tooltip_ability_chaotic_aid_rune_1"              "持久化"
+"DOTA_Tooltip_ability_chaotic_aid_rune_1_Description"  "持续时间提升%rune_1_bonus_gain%%%[×]"
+
+
+
+//点金术
+"DOTA_Tooltip_ability_chaotic_alchemy"	"点金术"
+"DOTA_Tooltip_ability_chaotic_alchemy_Description"	"你可以把被你击败的敌人尸骸的一部分转化为金币，每次击杀将获得额外金币奖励，并有几率触发强效，使额外金币奖励提升。"
+"DOTA_Tooltip_ability_chaotic_alchemy_Lore"	"实际上这只是一种普通的变化法术，当法术结束后，那堆金币就变回尸骸了。但是管他呢，此时你已经购得你所想要的东西了。"
+"DOTA_Tooltip_ability_chaotic_alchemy_bonus"	"☆额外金币："
+"DOTA_Tooltip_ability_chaotic_alchemy_chance"	"%强效几率："
+"DOTA_Tooltip_ability_chaotic_alchemy_gain_scale"	"强效金币倍数："
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_1"              "不朽Ⅰ：乐意分享"
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_1_Description"  "额外金币增加%rune_1_bonus_gain%，且所有其他友军英雄也会获得这一部分"
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_2"              "不朽Ⅱ：地精钱袋"
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_2_Description"  "每%rune_2_interval%秒获得一笔金币，其数量相当于生效时你持有金币的%rune_2_bonus%%%"
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_3"              "不朽Ⅲ：好运之雨"
+"DOTA_Tooltip_ability_chaotic_alchemy_rune_3_Description"  "触发强效时，有%rune_3_chance%%%几率发动黄金之雨，在短时间内获得随机数量的金币。<br>随机金币基于点金术自身的额外金币决定，且不会过低或过高"
+
+
+
+
+
+//变巨术
+"DOTA_Tooltip_ability_chaotic_enlarge"	"变巨术"
+"DOTA_Tooltip_ability_chaotic_enlarge_Description"	"让一个友方单位变大，其体型会提高一级，力量获得提升。"
+"DOTA_Tooltip_ability_chaotic_enlarge_Lore"	"当眼前的小猫咪变成老虎后，你还能泰然自若吗？"
+"DOTA_Tooltip_ability_chaotic_enlarge_bonus_str"	"☆力量加成："
+"DOTA_Tooltip_ability_chaotic_enlarge_duration"	"持续时间："
+"DOTA_Tooltip_modifier_chaotic_enlarge"                   "变巨术"
+"DOTA_Tooltip_modifier_chaotic_enlarge_Description"       "力量提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"DOTA_Tooltip_ability_chaotic_enlarge_rune_1"              "高等专注"
+"DOTA_Tooltip_ability_chaotic_enlarge_rune_1_Description"  "同时作用目标数提升%rune_1_bonus_count%"
+
+
+
+
+
+
+//灼热射线
+"DOTA_Tooltip_ability_chaotic_scorching_ray"	"灼热射线"
+"DOTA_Tooltip_ability_chaotic_scorching_ray_Description"	"对目标及其周围%radius%范围内的敌人总计射出%base_count%道火焰射线，造成火属性伤害并附带<font color='#cd5c5c'>灼伤</font>。<br><br>每拥有%mana_require%点最大魔法值会额外发射一道射线。"
+"DOTA_Tooltip_ability_chaotic_scorching_ray_Lore"	"祖国人？不，是超人！"
+"DOTA_Tooltip_ability_chaotic_scorching_ray_base_damage"	"☆基础伤害："
+"DOTA_Tooltip_ability_chaotic_scorching_ray_bonus_damage_index"	"☆额外伤害：主属性 × "
+"DOTA_Tooltip_ability_chaotic_scorching_ray_burning"	"灼伤施加：主属性 × "
+"DOTA_Tooltip_ability_chaotic_scorching_ray_max_count"	"最多射线数："
+"HUD_Spell_Rune_chaotic_scorching_ray_bonus_damage_index"  "额外伤害主属性乘数"
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_1"              "不朽Ⅰ：火舌裂变"
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_1_Description"  "每道射线有%rune_1_chance%%%几率分裂成%rune_1_count%道射线"
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_2"              "不朽Ⅱ：延爆"
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_2_Description"  "储存敌人受到的直接伤害，对其施加延迟%rune_2_time%秒生效的爆炸效果，爆炸伤害等于储存量的%rune_2_pct1%%%，但此爆炸伤害只受到技能增强影响。"
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_3"              "不朽Ⅲ：火焰狂热"
+"DOTA_Tooltip_ability_chaotic_scorching_ray_rune_3_Description"  "射线击杀敌人后，也会消耗你%rune_3_hpcost%%%的当前生命值并减少自己%rune_3_cdback%秒剩余冷却时间"
+
+
+//蛛网
+"DOTA_Tooltip_ability_chaotic_web"	"蛛网"
+"DOTA_Tooltip_ability_chaotic_web_Description"	"用魔力模拟出困难地形-巨蛛之网，使%radius%范围内的全部单位的移动速度降低。如果单位是敌人，那么还会以%interval%秒的间隔以一定几率进入缠绕状态。"
+"DOTA_Tooltip_ability_chaotic_web_Lore"	"明明不是蜘蛛却能织网，那育母蜘蛛怎么想？"
+"DOTA_Tooltip_ability_chaotic_web_duration"	"蛛网持续时间："
+"DOTA_Tooltip_ability_chaotic_web_move_slow"	"☆移速减缓："
+"DOTA_Tooltip_ability_chaotic_web_prop_chance"	"%缠绕几率："
+"DOTA_Tooltip_ability_chaotic_web_debuff_duration"	"缠绕持续时间："
+"DOTA_Tooltip_modifier_chaotic_web_debuff"                   "蛛网"
+"DOTA_Tooltip_modifier_chaotic_web_debuff_Description"       "移动速度减缓%dMODIFIER_PROPERTY_TOOLTIP%" 
+"DOTA_Tooltip_modifier_chaotic_web_debuff_root"                   "蛛网缠绕"
+"DOTA_Tooltip_modifier_chaotic_web_debuff_root_Description"       "无法移动" 
+
+"DOTA_Tooltip_ability_chaotic_web_rune_1"              "不朽Ⅰ：群居穴蛛之网"
+"DOTA_Tooltip_ability_chaotic_web_rune_1_Description"  "暴露受影响单位的视野，而其上的友军不再受到任何影响"
+"DOTA_Tooltip_ability_chaotic_web_rune_2"              "不朽Ⅱ：酸蚀悬蛛之网"
+"DOTA_Tooltip_ability_chaotic_web_rune_2_Description"  "受影响单位的护甲也会降低%rune_2_armor%点"
+"DOTA_Tooltip_ability_chaotic_web_rune_3"              "不朽Ⅲ：虎皮毒蛛之网"
+"DOTA_Tooltip_ability_chaotic_web_rune_3_Description"  "其上的敌人每秒会累计施法者主属性 ×%rune_3_posion%层中毒状态"
+
+
+
+
+
+//失明
+"DOTA_Tooltip_ability_chaotic_blindness"	"失明光辉"
+"DOTA_Tooltip_ability_chaotic_blindness_Description"	"释放阴暗沉重的秘密，对目标及其周围%radius%范围内的敌人造成伤害，并使其攻击有一定几率丢失。"
+"DOTA_Tooltip_ability_chaotic_blindness_Lore"	"道歉的对象，是你哟~"
+"DOTA_Tooltip_ability_chaotic_blindness_damage"	"基础伤害："
+"DOTA_Tooltip_ability_chaotic_blindness_bonus_damage"	"额外伤害：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_blindness_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_blindness_base_count"	"☆影响目标："
+"DOTA_Tooltip_ability_chaotic_blindness_miss_chance"	"%丢失几率："
+"DOTA_Tooltip_modifier_chaotic_blindness_debuff"                   "失明术"
+"DOTA_Tooltip_modifier_chaotic_blindness_debuff_Description"       "攻击有%dMODIFIER_PROPERTY_TOOLTIP%%%几率丢失" 
+"HUD_Spell_Rune_chaotic_blindness_miss_chance" "丢失几率"
+
+"DOTA_Tooltip_ability_chaotic_blindness_rune_1"              "不朽Ⅰ：曲光失明"
+"DOTA_Tooltip_ability_chaotic_blindness_rune_1_Description"  "失明的持续时间提升%rune_1_bonus_gain%%%[×]"
+"DOTA_Tooltip_ability_chaotic_blindness_rune_2"              "不朽Ⅱ：终极震慑"
+"DOTA_Tooltip_ability_chaotic_blindness_rune_2_Description"  "目标受到伤害前，会陷入%rune_2_duration%秒眩晕状态，期间其魔法抗性降低%rune_2_magicres_down%%%"
+"DOTA_Tooltip_ability_chaotic_blindness_rune_3"              "不朽Ⅲ：透光咒点"
+"DOTA_Tooltip_ability_chaotic_blindness_rune_3_Description"  "如目标仍然存活，技能会在%rune_3_time%秒后重复一次"
+
+
+
+
+//黑暗视觉
+"DOTA_Tooltip_ability_chaotic_darkvision"	"黑暗视觉"
+"DOTA_Tooltip_ability_chaotic_darkvision_Description"	"为一个生物提供夜晚视力，使其在夜间可以获得更好的视野，其视野范围不会少于一个最小值。"
+"DOTA_Tooltip_ability_chaotic_darkvision_Lore"	"一双慧眼，可以祝你旗开得胜。"
+"DOTA_Tooltip_ability_chaotic_darkvision_min_vision"	"最小夜晚视野："
+"DOTA_Tooltip_ability_chaotic_darkvision_duration"	"☆持续时间："
+"DOTA_Tooltip_modifier_chaotic_darkvision"                   "黑暗视觉"
+"DOTA_Tooltip_modifier_chaotic_darkvision_Description"       "黑夜视野范围不会低于%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_1"              "不朽Ⅰ：长久视力"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_1_Description"  "持续时间提升%rune_1_bonus_gain%%% [×]"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_2"              "不朽Ⅱ：高空视力"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_2_Description"  "提供全时间段高空视野"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_3"              "不朽Ⅲ：猎食眼神"
+"DOTA_Tooltip_ability_chaotic_darkvision_rune_3_Description"  "对处于你视野范围内的可见敌人造成伤害时，该次伤害提升%rune_3_damage_up%%% [+]"
+
+
+
+//黑暗术
+"DOTA_Tooltip_ability_chaotic_darkness"	"黑云术"
+"DOTA_Tooltip_ability_chaotic_darkness_Description"	"创造出一片魔法黑云，黑云以外的单位与黑云以内内的单位对彼此造成伤害时，有一定几率使伤害丢失，但对大型以上生物无效。"
+"DOTA_Tooltip_ability_chaotic_darkness_Lore"	"行走于黑暗之中。"
+"DOTA_Tooltip_ability_chaotic_darkness_miss_chance"	"%伤害丢失几率："
+"DOTA_Tooltip_ability_chaotic_darkness_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_darkness_radius"	"作用范围："
+"DOTA_Tooltip_modifier_chaotic_darkness_debuff"                   "黑暗"
+"DOTA_Tooltip_modifier_chaotic_darkness_debuff_Description"       "如果满足技能条件，伤害有%dMODIFIER_PROPERTY_TOOLTIP%%%几率失效" 
+
+"DOTA_Tooltip_ability_chaotic_darkness_rune_1"              "不朽Ⅰ：失明魔法"
+"DOTA_Tooltip_ability_chaotic_darkness_rune_1_Description"  "单位每次进入黑云时，在%rune_1_duration%秒内其攻击距离减少%rune_1_attack_range%点"
+"DOTA_Tooltip_ability_chaotic_darkness_rune_2"              "不朽Ⅱ：浓烈黯云"
+"DOTA_Tooltip_ability_chaotic_darkness_rune_2_Description"  "伤害丢失几率提升至%rune_2_miss%%%并降低受影响单位%rune_2_move%点移动速度，但黑云的范围减少%rune_2_radius%%% [×]"
+"DOTA_Tooltip_ability_chaotic_darkness_rune_3"              "不朽Ⅲ：黑烟急行"
+"DOTA_Tooltip_ability_chaotic_darkness_rune_3_Description"  "施法距离增加%rune_3_range%%% [×]，施法者会闪现至黑云的中心并在出发点留下一片同样的黑云。"
+
+
+//粉碎音波
+"DOTA_Tooltip_ability_chaotic_shatter"	"粉碎音波"
+"DOTA_Tooltip_ability_chaotic_shatter_Description"	"在目标地点用魔力模拟声势浩大的音波，对范围内的敌人造成伤害，并将他们以中心点击退。"
+"DOTA_Tooltip_ability_chaotic_shatter_Lore"	"捂住耳朵，切记小心不要被强大的音波击穿了耳膜。"
+"DOTA_Tooltip_ability_chaotic_shatter_base_damage"	"☆基础伤害："
+"DOTA_Tooltip_ability_chaotic_shatter_bonus_damage_index"	"☆额外伤害：主属性 × "
+"DOTA_Tooltip_ability_chaotic_shatter_radius"	"作用范围："
+"HUD_Spell_Rune_chaotic_shatter_bonus_damage_index"  "伤害主属性乘数"
+
+"DOTA_Tooltip_ability_chaotic_shatter_rune_1"              "不朽Ⅰ：回音术"
+"DOTA_Tooltip_ability_chaotic_shatter_rune_1_Description"  "有%rune_1_chance%%%几率在自身所在位置同时产生一次音波"
+"DOTA_Tooltip_ability_chaotic_shatter_rune_2"              "不朽Ⅱ：狂狮之吼"
+"DOTA_Tooltip_ability_chaotic_shatter_rune_2_Description"  "音波的范围和击退效果增加%rune_2_radius%%%[×]，但只能以自身为中心发动"
+"DOTA_Tooltip_ability_chaotic_shatter_rune_3"              "不朽Ⅲ：刺耳金属音"
+"DOTA_Tooltip_ability_chaotic_shatter_rune_3_Description"  "不再造成伤害和击退，而是降低敌人%rune_3_armor%点护甲和%rune_3_magicres%%%魔法抗性，持续%rune_3_duration%秒。"
+
+
+
+
+//卡利亚
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft"	"卡利亚剑术"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_Description"	"攻击时，有一定几率造成致命一击，同时使你的所有致命一击倍率提高 [×]。"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_Lore"	"一种初学者剑术，可以在大多数动作后立刻衔接使用，在各类剑术中是相当实用的技艺。"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_crit_chance"	"%致命一击几率："
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_crit_damage"	"%致命一击倍率："
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_crit_bonus"	"%所有致命一击倍率提高："
+
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_1"              "不朽Ⅰ：卡利亚迅剑"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_1_Description"  "额外获得%rune_1_bonus%点攻击速度"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_2"              "不朽Ⅱ：卡利亚大剑"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_2_Description"  "卡利亚剑术造成致命一击时，造成%rune_2_cleave%%%的扇形分裂伤害，每%rune_2_cd%秒至多触发一次"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_3"              "不朽Ⅲ：卡利亚贯刺"
+"DOTA_Tooltip_ability_chaotic_kalia_swordcraft_rune_3_Description"  "获得%rune_3_no_armor%点攻击护甲穿透"
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_gaias_prayer"	"盖亚的祈福"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_Description"	"范围内的友方英雄如果在过去一段时间内没有受到伤害，则获得魔法恢复提升；如果在没有造成伤害，则提升生命恢复速度。如果同时生效，那么将提升两种效果的作用。"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_Lore"	"一种源自于超远古时代的信仰传承，经过时光的洗礼早已失去了原本的神力，但即便如此依然拥有强大的能量。"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_radius"	"影响范围："
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_time_require"	"所需时间："
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_mana_regen"	"%法力恢复速度提升："
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_health_regen"	"%生命恢复速度提升："
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_additional_enhancement"	"%效果额外提升："
+"DOTA_Tooltip_modifier_chaotic_gaias_prayer_buff"              "盖亚的祈福"
+"DOTA_Tooltip_modifier_chaotic_gaias_prayer_buff_Description"  "提高%dMODIFIER_PROPERTY_TOOLTIP%%%魔法恢复与%dMODIFIER_PROPERTY_TOOLTIP%%%生命恢复"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_1"              "不朽Ⅰ：暂无"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_1_Description"  ""
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_gaias_prayer_rune_3_Description"  ""
+
+//混沌附魔
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment"	"卡厄斯混沌附魔"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_Description"	"过去%time_require%秒内造成魔法伤害时，获得技能增强；造成物理伤害时，获得物理伤害增加[+]。若同时获得满额的技能增强与物理伤害增加，则额外获得最终伤害。"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_Lore"	"一种源自于超黑暗时代的混沌力量，据说只有崇尚决斗的信仰者才可以发挥出这技巧的真正实力。"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_magical_damage"	"%技能增强提升："
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_magical_damage_max"	"%至多技能增强提升："
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_physcial_damage"	"%物理伤害提升："
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_physcial_damage_max"	"%至多物理伤害提升："
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_bonus_all_damage"	"%最终伤害提升："
+"DOTA_Tooltip_modifier_chaotic_caius_chaos_enchantment_bonus_damage"              "卡厄斯混沌附魔"
+"DOTA_Tooltip_modifier_chaotic_caius_chaos_enchantment_bonus_damage_Description"  "提高%dMODIFIER_PROPERTY_TOOLTIP%%%的技能伤害、%dMODIFIER_PROPERTY_TOOLTIP%%%的物理伤害、%dMODIFIER_PROPERTY_TOOLTIP%%%的最终伤害"
+"HUD_Spell_Rune_chaotic_caius_chaos_enchantment_time_require"  "持续时间"
+
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_1"              "不朽Ⅰ：精炼混沌"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_1_Description"  "不论造成何种伤害，均会获得两种增益，但最终伤害增益降低%rune_1_index%%% [×]"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_2"              "不朽Ⅱ：混沌侵蚀"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_2_Description"  "降低自身%rune_2_hp_down%%% [+]最大生命值，但攻击速度提高%rune_2_attack_speed%点"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_3"              "不朽Ⅲ：纯粹虚无"
+"DOTA_Tooltip_ability_chaotic_caius_chaos_enchantment_rune_3_Description"  "造成纯粹伤害时，视为同时造成了两种伤害"
+
+
+
+
+//心眼
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back"	"心眼"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_Description"	"有一定几率规避所受伤害，对于可见目标的闪避率会提高。"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_Lore"	"来自于内心的眼睛，往往要比肉眼看得还要细致。"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_chance_max"	"%对可见目标规避几率："
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_chance_min"	"%对不可见目标伤害规避几率："
+
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_1"              "不朽Ⅰ：修罗心眼"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_1_Description"  "技能不处于冷却时间时将必定回避伤害，随后进入%rune_1_cd%秒冷却时间，不影响常驻效果"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_2"              "不朽Ⅱ：真视觉"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_2_Description"  "视野范围提高%rune_2_vision%点"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_3"              "不朽Ⅲ：妖精眼"
+"DOTA_Tooltip_ability_chaotic_eyes_in_the_back_rune_3_Description"  "对不可见目标伤害规避几率提高%rune_3_index%%% [×]"
+
+
+
+
+//防御强化
+"DOTA_Tooltip_ability_chaotic_defense_enhancement"	"防御强化"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_Description"	"大幅提高自身护甲，但攻击速度会降低。"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_Lore"	"有时候只有你站在最前面，才能为团队带来最大的利益。"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_armor"	"护甲加成："
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_bonus_armor"	"%护甲加成："
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_attack_slow"	"%攻击速度降低："
+
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_rune_1"              "不朽Ⅰ：中流砥柱"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_rune_1_Description"  "不移动时，额外获得%rune_1_armor%点护甲"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_rune_2"              "不朽Ⅱ：轻装战士"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_rune_2_Description"  "攻击速度降低量降低%rune_2_speed_down%%% [×]，固定护甲加成减少%rune_2_armor%点"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_rune_3"              "不朽Ⅲ：重装坦克"
+"DOTA_Tooltip_ability_chaotic_defense_enhancement_rune_3_Description"  "攻击速度降低量提高%rune_3_speed_down%%% [×]，额外获得%rune_3_armor%点护甲"
+
+
+
+
+
+//踏步
+"DOTA_Tooltip_ability_chaotic_step"	"踏步"
+"DOTA_Tooltip_ability_chaotic_step_Description"	"<h1>主动：踏前</h1>短暂蓄力后快速移动到目标位置并闪避弹道，到达后会提高自身的攻击速度和移动速度，期间将突破移动速度限制。\n<h1>被动：缩地步伐</h1>被动获得额外移动速度。"
+"DOTA_Tooltip_ability_chaotic_step_Lore"	"这是一种十分有效的移动方式，与瞬间执行的缩地不同，你需要在短时间内不断地在脚底积攒能量，并形成一股爆发力将你推出去。"
+"DOTA_Tooltip_ability_chaotic_step_move_speed"	"额外移动速度："
+"DOTA_Tooltip_ability_chaotic_step_distance"	"踏前距离："
+"DOTA_Tooltip_ability_chaotic_step_bonus_attack_speed"	"踏前攻击速度增加："
+"DOTA_Tooltip_ability_chaotic_step_bonus_move_speed"	"踏前移动速度增加："
+"DOTA_Tooltip_ability_chaotic_step_duration"	"持续时间："
+"DOTA_Tooltip_modifier_chaotic_step_buff"	"踏前"
+"DOTA_Tooltip_modifier_chaotic_step_buff_Description"	"提高%dMODIFIER_PROPERTY_TOOLTIP%攻击速度、%dMODIFIER_PROPERTY_TOOLTIP%移动速度"
+
+"DOTA_Tooltip_ability_chaotic_step_rune_1"              "不朽Ⅰ：疾风步"
+"DOTA_Tooltip_ability_chaotic_step_rune_1_Description"  "不再需要蓄力，且取消其施法前摇和后摇"
+"DOTA_Tooltip_ability_chaotic_step_rune_2"              "不朽Ⅱ：急速"
+"DOTA_Tooltip_ability_chaotic_step_rune_2_Description"  "冷却时间减少%rune_2_cd%%% [×]"
+"DOTA_Tooltip_ability_chaotic_step_rune_3"              "不朽Ⅲ：灵魂行者"
+"DOTA_Tooltip_ability_chaotic_step_rune_3_Description"  "冷却时间增加%rune_3_cd%%% [×]，但是踏步持续期间进入无敌状态"
+
+
+
+
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf"	"契约召唤：猩红之狼"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_Description"	"召唤一头拥有高基础属性的红狼，其对生命值低于一定程度的单位攻击时将造成额外伤害并吸取生命值。"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_Lore"	"血红的身姿，锐利的尖牙，那是士兵对它的第一印象，这是生活在血色峡谷中的一种狼，以凶猛的习性所著称。在很多小国，通常会有专门的部分去驯养这种生物，因此在战场，你可以看到身披盔甲的它们。"
+
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_base_damage"	"☆基础攻击力："
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_bonus_damage"	"%攻击力继承："
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_bonus_health"	"%生命值继承："
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_bonus_armor"	"%护甲值继承："
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_health"	"%生命值需求："
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_damage"	"%☆额外伤害："
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_max_count"	"最大同时召唤数："
+
+"DOTA_Tooltip_modifier_chaotic_summon_red_wolf_buff"	"猩红之狼"
+"DOTA_Tooltip_modifier_chaotic_summon_red_wolf_buff_Description"	"对生命值低于%dMODIFIER_PROPERTY_TOOLTIP%%%的单位，额外造成%dMODIFIER_PROPERTY_TOOLTIP%%%的物理伤害，并且恢复等额的生命值"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_rune_1"              "猎手"
+"DOTA_Tooltip_ability_chaotic_summon_red_wolf_rune_1_Description"  "猩红之狼变为无敌，不再受到伤害，但如果离开召唤者%rune_1_distance%距离则将被眩晕。"
+
+
+//飓风
+"DOTA_Tooltip_ability_chaotic_tri_hurricane"	"触发技：飓风"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_Description"	"<h1>被动：连携</h1>释放一个有冷却时间的技能后，获取触发点数。\n<h1><font color='#F0FFFF'>触发：飓风</font></h1>自动施法：释放技能时，消耗触发点数，将一定范围内的敌人吸附到鼠标位置并造成眩晕。"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_Lore"	"风元素会是你的伙伴"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_Note0"	"<font color=\"#606060\">出售触发技会清空已有的触发点数；<br>按照技能原本的冷却时间转换。</font>"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_cost_get"	"每秒冷却时间获取触发点数："
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_cost"	"消耗触发点数："
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_radius"	"飓风范围："
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_duration"	"眩晕时间："
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_cd"	"冷却时间："
+"DOTA_Tooltip_modifier_hd_trigger"	"触发点数"
+
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_1"              "不朽Ⅰ：风灵祝福"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_1_Description"  "被动获得%rune_1_speed%点移动速度"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_2"              "不朽Ⅱ：八级大狂风"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_2_Description"  "每第%rune_2_count%个'飓风'的范围会扩大%rune_2_radius%点"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_3"              "不朽Ⅲ：台风眼"
+"DOTA_Tooltip_ability_chaotic_tri_hurricane_rune_3_Description"  "'飓风'的中心点变为自身，同时会在触发时使自身获得%rune_3_incoming%%%伤害减免，持续%rune_3_duration%秒"
+
+
+//幽影刃
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade"	"触发技：幽影刃"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_Description"	"<h1>被动：连击</h1>普通攻击敌人后，获取触发点数。\n<h1><font color='#F0FFFF'>触发：幽影刃</font></h1>自动施法：攻击时，消耗触发点数，使此次攻击计算伤害时大幅穿透敌人的护甲。"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_Lore"	"交织阴影之线以在你手中创造出一把黑暗实体化而成的利剑。"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_Note0"	"<font color='#606060'>出售触发技会清空已有的触发点数；<br>穿透护甲可以将敌人视为负数护甲。</font>"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_cost_get"	"攻击获取触发点数："
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_cost"	"消耗触发点数："
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_no_armor"	"基础护甲穿透："
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_bonus_no_armor"	"%额外护甲穿透：全额攻击力 x"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_cd"	"冷却时间："
+"DOTA_Tooltip_modifier_hd_trigger"	"触发点数"
+
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_1"              "不朽Ⅰ：幽影连刃"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_1_Description"  "'幽影刃'的冷却时间降低%rune_1_cd%秒"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_2"              "不朽Ⅱ：回收"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_2_Description"  "触发'幽影刃'时，有%rune_2_chance%%%几率不消耗触发点数"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_3"              "不朽Ⅲ：腐蚀利刃"
+"DOTA_Tooltip_ability_chaotic_tri_shadow_blade_rune_3_Description"  "'幽影刃'还会使目标在%rune_3_duration%秒内造成的伤害降低%rune_3_outgoing%%% [×]"
+// "DOTA_Tooltip_ability_chaotic_prayer_of_healing"	"治疗祷言"
+// "DOTA_Tooltip_ability_chaotic_prayer_of_healing_Description"	"治疗范围内的所有友军，以你为中心向外每个后续的治疗目标治疗效果有效果递减，不会影响生命值为满的目标。"
+// "DOTA_Tooltip_ability_chaotic_prayer_of_healing_Lore"	"行走于黑暗之中。"
+// "DOTA_Tooltip_ability_chaotic_prayer_of_healing_base_damage"	"基础治疗："
+// "DOTA_Tooltip_ability_chaotic_prayer_of_healing_bonus_damage_index"	"额外治疗：主属性 × "
+// "DOTA_Tooltip_ability_chaotic_prayer_of_healing_diminishing "	"%效果递减："
+// "DOTA_Tooltip_ability_chaotic_prayer_of_healing_radius"	"作用范围："
+
+
+"DOTA_Tooltip_ability_chaotic_liquid_fire"	"液态火"
+"DOTA_Tooltip_ability_chaotic_liquid_fire_Description"	"普通攻击会附带火焰，<font color='#cd5c5c'>灼伤</font>目标及其%radius%范围内的敌人，同时使他们的攻击速度降低。"
+"DOTA_Tooltip_ability_chaotic_liquid_fire_Lore"	"时空的乱流使技能异变。"
+"DOTA_Tooltip_ability_chaotic_liquid_fire_max"      "最大作用个数："  
+"DOTA_Tooltip_ability_chaotic_liquid_fire_burning"	"基础灼伤施加："
+"DOTA_Tooltip_ability_chaotic_liquid_fire_bonus_burning"	"额外灼伤施加：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_liquid_fire_attack_speed_down"	"攻击速度降低："
+"DOTA_Tooltip_ability_chaotic_liquid_fire_duration"	"持续时间："
+"DOTA_Tooltip_modifier_chaotic_liquid_fire"	"液态火"
+"DOTA_Tooltip_modifier_chaotic_liquid_fire_Description"	"攻击速度降低"
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_1"              "不朽Ⅰ：火花润喉片"
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_1_Description"  "液态火有%rune_1_chance%%%几率返还魔法消耗且不进入冷却"
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_liquid_fire_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_crystal_nova"	"冰霜新星"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_Description"	"在目标地点引发破坏性的冰爆，对敌人造成冰属性伤害和<font color='#87ceeb'>冻伤</font>，并使他们的移动速度降低。"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_Lore"	"时空的乱流使技能异变。"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_radius"      "冰爆范围："  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_damage"      "基础伤害："  
+"DOTA_Tooltip_ability_chaotic_crystal_nova_bonus_damage"	"额外伤害：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_freezing"	"冻伤施加：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_move"	"移动速度降低："
+"DOTA_Tooltip_ability_chaotic_crystal_nova_duration"	"持续时间："
+"DOTA_Tooltip_modifier_chaotic_crystal_nova"	"冰霜新星"
+"DOTA_Tooltip_modifier_chaotic_crystal_nova_Description"	"移动速度降低"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_1"              "不朽Ⅰ：连环冰爆"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_1_Description"  "冰霜新星会在%rune_1_delay%秒延迟后再次爆发，但二次爆发仅造成%rune_1_index%%%的伤害和<font color='#87ceeb'>冻伤</font>"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_crystal_nova_rune_3_Description"  ""
+
+"DOTA_Tooltip_ability_chaotic_plasma_field"	"弱离子场"
+"DOTA_Tooltip_ability_chaotic_plasma_field_Description"	"释放一个单向离子圈，对周围至多%max%个敌人造成雷属性伤害和<font color='#6481d9'>感电</font>。"
+"DOTA_Tooltip_ability_chaotic_plasma_field_Lore"	"时空的乱流使技能异变。"
+"DOTA_Tooltip_ability_chaotic_plasma_field_radius"      "作用范围："  
+"DOTA_Tooltip_ability_chaotic_plasma_field_damage"      "基础伤害："  
+"DOTA_Tooltip_ability_chaotic_plasma_field_bonus_damage"	"额外伤害：主属性 ×"
+"DOTA_Tooltip_ability_chaotic_plasma_field_elecshocking"	"%感电施加："
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_1"              "不朽Ⅰ：电能转换"
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_1_Description"  "离子圈造成伤害的%rune_1_manasteal%%%会恢复为自身的魔法值，单次伤害能恢复的魔法值不会超过你最大魔法值的%rune_1_manamax%%%"
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_2"              "不朽Ⅱ：暂无"
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_2_Description"  ""
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_3"              "不朽Ⅲ：暂无"
+"DOTA_Tooltip_ability_chaotic_plasma_field_rune_3_Description"  ""
+
+
+// 镜像术
+// 幻术
+// 在你的周围创造出幻象复制体，每个幻象为你提供30%的所有伤害闪避，当你成功闪避伤害后%count%次后会移除一个幻象。
+
+
+// 灵体武器
+// 塑能  召唤技能
+// 创造出一个悬浮的幽灵武器，幽灵武器会自动攻击其范围内的敌人。
+
+
+
+
+// 马友夫强酸箭
+// 塑能
+// 射出一支绿色箭矢，用酸液覆盖目标以及地面。立即造成x伤害，同时在2秒后再次造成一次伤害，可以在接下来的6秒削减目标护甲。
+
+
+
+
+// 朦胧术
+// 幻术法术
+// 针对你的攻击有20%丢失
+
+
+// 迷踪步
+// 咒法
+// 在银雾的环绕下，将自己传送至目标点。
+
+
+
+// 龙息术
+// 变化
+// 触碰一个友方生物，使其能从嘴中喷出魔法能量的力量。对于智力英雄，其将在施法的同时朝其面前喷吐出一团锥形能量，对于其他类型英雄则是在攻击的时候触发。
+// dragons-breath
+
+
+
+
+
+// 隐形术
+
+
+
+// 魔法武器
+
+
+
+"DOTA_Tooltip_ability_chaotic_elemental_storm"	"混沌元素风暴"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_Description"	"召唤一场混沌元素风暴，风暴中会随机释放火焰、冰霜、雷电和风的元素效果，影响范围内的单位。火焰风暴对敌人造成持续燃烧伤害，冰霜风暴降低敌人的移动速度与攻击速度，雷电会对敌人造成俩段瞬间魔法伤害，风会增加队友的移动速度和攻击速度。"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_Lore"	"风暴中蕴含着无尽的混沌力量，只有最勇敢的施法者才能驾驭。传说中，这种风暴能够在战场上掀起巨大的混乱，给敌人带来毁灭性的打击，同时也能为友军提供强大的增益效果。"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_storm_duration"	"☆风暴持续时间："
+"DOTA_Tooltip_ability_chaotic_elemental_storm_radius"	"☆影响范围："
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_thinker"	"混沌元素风暴"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_thinker_Description"	"在此区域内，随机释放不同的元素效果。"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_fire"	"火焰爆发"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_fire_Description"	"受到持续燃烧伤害。"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_base_damage"	"☆基础伤害："
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_ice"	"冰霜冻结"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_ice_Description"	"移动速度和攻击速度降低。"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_move_speed_slow"	"☆移动速度减缓："
+"DOTA_Tooltip_ability_chaotic_elemental_storm_attack_speed_slow"	"☆攻击速度减缓："
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_lightning"	"雷电震击"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_lightning_Description"	"受到瞬间魔法伤害。"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_bonus_damage"	"☆额外伤害："
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_wind"	"风之庇护"
+"DOTA_Tooltip_modifier_chaotic_elemental_storm_wind_Description"	"增加移动速度和攻击速度。"
+"DOTA_Tooltip_ability_chaotic_elemental_storm_bonus_move_speed"	"☆移动速度提升："
+"DOTA_Tooltip_ability_chaotic_elemental_storm_bonus_attack_speed"	"☆攻击速度提升："
+
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault"	"影刃突袭"
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_Description"	"使用者可以瞬间移动到目标敌人身后，连续进行三次攻击。在这之后一段时间内，所有攻击视为背刺攻击。"
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_Lore"	"影刃突袭是一种致命的刺客技能，能够在瞬间对敌人造成巨大的伤害，并削弱其战斗能力。"
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_cooldown"	"冷却时间："
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_mana_cost"	"法力消耗："
+"DOTA_Tooltip_ability_chaotic_shadow_blade_assault_buff_duration"	"持续时间："
+
+
+"DOTA_Tooltip_ability_chaotic_suspend_origin"	"搁置本源"
+"DOTA_Tooltip_ability_chaotic_suspend_origin_Description"	"获得搁置状态。搁置：如果你一次性受到的伤害大于最大生命值的40%%，回复这次伤害，并且在1秒后造成这次数值为这次伤害20%%的物理和魔法伤害以及40%%魔法削减或蓝量不足时改为40%%物理和魔法伤害，每点[气]减少1%%搁置状态触发的阈值。"
+"DOTA_Tooltip_ability_chaotic_suspend_origin_Lore"	"搁置本源是一种强大的防御技能，能够在关键时刻保护施法者免受致命伤害，并反击敌人。"
+"DOTA_Tooltip_ability_chaotic_suspend_origin_threshold"	"触发阈值："
+"DOTA_Tooltip_ability_chaotic_suspend_origin_heal"	"回复伤害："
+"DOTA_Tooltip_ability_chaotic_suspend_origin_delay"	"延迟时间："
+"DOTA_Tooltip_ability_chaotic_suspend_origin_mixed_damage"	"混合伤害："
+"DOTA_Tooltip_ability_chaotic_suspend_origin_magical_damage"	"魔法伤害："
+"DOTA_Tooltip_modifier_chaotic_suspend_origin"	"搁置状态"
+"DOTA_Tooltip_modifier_chaotic_suspend_origin_Description"	"如果你一次性受到的伤害大于最大生命值的40%，回复这次伤害，并且在1秒后造成40%混合伤害和40%魔法伤害或80%混合伤害。"
+
+"DOTA_Tooltip_ability_chaotic_qi_shield"	"气之护盾"
+"DOTA_Tooltip_ability_chaotic_qi_shield_Description"	"凝聚体内的气形成护盾，使自身获得伤害格挡。护盾存在期间受到攻击时，会消耗现存的一层'气'并使格挡效果提高"
+"DOTA_Tooltip_ability_chaotic_qi_shield_Lore"	"气之护盾是一种古老的防御技艺，能够在战斗中为施法者提供额外的保护。"
+"DOTA_Tooltip_ability_chaotic_qi_shield_absorb"	"%伤害格挡："
+"DOTA_Tooltip_ability_chaotic_qi_shield_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_qi_shield_absorb_extra"	"%额外伤害格挡："
+"DOTA_Tooltip_modifier_chaotic_qi_shield"	"气之护盾"
+"DOTA_Tooltip_modifier_chaotic_qi_shield_Description"	"获得伤害格挡"
+
+"DOTA_Tooltip_ability_chaotic_backstab_mastery"	"背刺精通"
+"DOTA_Tooltip_ability_chaotic_backstab_mastery_Description"	"攻击敌人背部时，会在短时间内提高攻击速度和移动速度，并获得一层'背刺专注'。"
+"DOTA_Tooltip_ability_chaotic_backstab_mastery_Lore"	"背刺能够在战斗中迅速积累优势。"
+"DOTA_Tooltip_ability_chaotic_backstab_mastery_attack_speed"	"攻击速度提升："
+"DOTA_Tooltip_ability_chaotic_backstab_mastery_move_speed"	"移动速度提升："
+"DOTA_Tooltip_ability_chaotic_backstab_mastery_duration"	"速度增益持续时间："
+"DOTA_Tooltip_modifier_chaotic_backstab_mastery_buff"	"加速"
+
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab"	"回镰刃法"
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_Description"	"每隔一段时间，你的下一次攻击视为背刺攻击并降低目标的护甲。"
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_Lore"	"一种致命的武器技法，能够在战斗中对敌人造成巨大的伤害和削弱。"
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_cd"	"冷却时间："
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_duration"	"持续时间："
+"DOTA_Tooltip_ability_chaotic_blade_of_backstab_armor_reduction"	"护甲降低："
+"DOTA_Tooltip_modifier_chaotic_blade_of_backstab_armor_reduction"	"护甲削弱"
+"DOTA_Tooltip_modifier_chaotic_blade_of_backstab_armor_reduction_Description"	"目标的护甲降低，受到的物理伤害增加。"
+//气在chaotic_flurry_of_blows里 背刺在modifier_chaotic_stealth里
+
+//

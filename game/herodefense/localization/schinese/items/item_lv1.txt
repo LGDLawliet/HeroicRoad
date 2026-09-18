@@ -1,0 +1,203 @@
+"DOTA_Tooltip_ability_item_hd_creed_of_omniscience_2"	"全能信条·改<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_creed_of_omniscience_2_Description"	"<h1>被动：领悟</h1>携带此物品进行回合结算，每6回合可以获得1个技能点奖励。"
+"DOTA_Tooltip_ability_item_hd_creed_of_omniscience_2_Lore"	"全能之神赐我荣耀！"
+"DOTA_Tooltip_modifier_item_hd_creed_of_omniscience_2"                   "领悟"
+
+
+"DOTA_Tooltip_ability_item_hd_artifact_ironwood_tree"	"铁树枝干守卫<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_artifact_ironwood_tree_Description"	"来源于神器，可以增幅你的全属性。"
+"DOTA_Tooltip_ability_item_hd_artifact_ironwood_tree_Lore"	"一根平平无奇的树枝。"
+
+"DOTA_Tooltip_modifier_item_hd_artifact_ironwood_tree"                   "铁树枝干守卫"
+"DOTA_Tooltip_modifier_item_hd_artifact_ironwood_tree_Description"       "全属性提升%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+//枯萎之石
+"DOTA_Tooltip_ability_item_hd_blight_stone"	"枯萎之石<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_blight_stone_Lore"	"一颗让人闻风丧胆的石头，发掘自戮尽之地。"
+"DOTA_Tooltip_ability_item_hd_blight_stone_Description"	"<h1>被动：护甲削弱增幅</h1>攻击降低目标%bonus_armor_reduce_enemy%点护甲，持续%debuff_duration%秒。\n持有<font color=\"#777777\">[魔王降临]</font>时，额外减少目标%bonus_armor_reduce_enemy_extra%点护甲。"
+"DOTA_Tooltip_modifier_item_hd_blight_stone_active"                   "枯萎"
+"DOTA_Tooltip_modifier_item_hd_blight_stone_active_Description"                   "减少护甲"
+
+//攻击之爪
+"DOTA_Tooltip_ability_item_hd_Claw_of_attack"	"攻击之爪<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_Claw_of_attack_Lore"	"里面藏着的小尖刀不容小觑。"
+"DOTA_Tooltip_ability_item_hd_Claw_of_attack_bonus_damage"	"+$base_damage"
+"DOTA_Tooltip_ability_item_hd_Claw_of_attack_Description"    "<h1>被动：攻击力增幅</h1>持有<font color=\"#777777\">[强化图腾]</font>时，额外增加%bonus_damage_extra%基础攻击力。"
+
+
+//扫帚柄
+"DOTA_Tooltip_ability_item_hd_broom_handle"	"扫帚柄<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_broom_handle_Lore"	"一个异常危险的造物，来自一个对扫帚有着特殊喜好的巫师学徒。"
+"DOTA_Tooltip_ability_item_hd_broom_handle_bonus_damage"	"+攻击力"
+"DOTA_Tooltip_ability_item_hd_broom_handle_bonus_attack_range"	"+攻击距离<font color=\"#777777\">（仅近战）</font>"
+"DOTA_Tooltip_ability_item_hd_broom_handle_bonus_armor"	"+护甲"
+"DOTA_Tooltip_ability_item_hd_broom_handle_Description"		"<h1>被动：近战能力增幅</h1>持有<font color=\"#777777\">[巨力挥舞]</font>时，额外增加%bonus_damage_extra%攻击力，%bonus_armor_extra%护甲。"
+
+
+
+//加速手套
+"DOTA_Tooltip_ability_item_hd_gloves"	"加速手套<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_gloves_Lore"	"一双似乎能化手中武器为无物的魔法手套。"
+"DOTA_Tooltip_ability_item_hd_gloves_bonus_attack_speed"	"+攻击速度"
+"DOTA_Tooltip_ability_item_hd_gloves_Description"              "<h1>被动：快速攻击增幅</h1>持有<font color=\"#777777\">[怨血匕首]或[毒刺]</font>时，额外增加%bonus_attack_speed_extra%攻击速度."
+
+//压制之斧
+"DOTA_Tooltip_ability_item_hd_quelling_blade"	"压制之斧<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_quelling_blade_Lore"	"堕落地精的斧头。"
+"DOTA_Tooltip_ability_item_hd_quelling_blade_bonus_damage"	"+攻击力"
+"DOTA_Tooltip_ability_item_hd_quelling_blade_Description"	"<h1>被动：追加伤害增幅</h1>攻击时%prop_chance%%%概率额外造成%damage_deal%点伤害。\n持有<font color=\"#777777\">[集中火力]或[超强力量]</font>时概率变为%prop_chance_override%%。"
+
+
+//贤者面罩
+"DOTA_Tooltip_ability_item_hd_sobi_mask"	"贤者面罩<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_sobi_mask_Lore"	"法师和术士在各类祭祀中常用的面罩。"
+"DOTA_Tooltip_ability_item_hd_sobi_mask_bonus_mana_regeneration"	"+$mana_regen"
+"DOTA_Tooltip_ability_item_hd_sobi_mask_Description"        "<h1>被动：施法资源增幅</h1> 持有<font color=\"#777777\">[奥术光环]</font>时，额外增加%bonus_mana_regeneration_extra%魔法恢复。"
+
+
+//恢复戒指
+"DOTA_Tooltip_ability_item_hd_Ring_of_Protection"	"恢复戒指<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_Ring_of_Protection_Lore"	"能保护佩戴者的闪光戒指。"
+"DOTA_Tooltip_ability_item_hd_ring_of_protection_bonus_health_regeneration"	"+生命恢复"
+"DOTA_Tooltip_ability_item_hd_Ring_of_Protection_Description"    "<h1>被动：损伤恢复增幅</h1> 持有<font color=\"#777777\">[静电护甲]</font>时，额外增加%bonus_health_regeneration_extra%生命恢复。"
+
+//邪恶怨念
+"DOTA_Tooltip_ability_item_hd_evil_resentment"	"邪恶怨念<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_evil_resentment_Lore"	"一股强烈的怨恨灵气，使你某方面变强的同时又削弱了某种属性。"
+"DOTA_Tooltip_ability_item_hd_evil_resentment_bonus_damage"	"+攻击力"
+"DOTA_Tooltip_ability_item_hd_evil_resentment_bonus_incomingdamage_per"	"+%受到伤害"
+"DOTA_Tooltip_ability_item_hd_evil_resentment_Description"		"<h1>被动：狂战士增幅</h1>持有<font color=\"#777777\">[盛宴]</font>时，额外增加%bonus_damage_extra%攻击力。"
+
+
+//智力斗篷
+"DOTA_Tooltip_ability_item_hd_mantle"	"智力斗篷<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_mantle_Lore"	"历代女王都穿过的美丽斗篷，上面镶有蓝宝石。"
+"DOTA_Tooltip_ability_item_hd_mantle_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_mantle_Description"   "<h1>被动：智力支票</h1>每英雄等级失去%bonus_int_eachlvl%智力。"
+
+//力量手套
+"DOTA_Tooltip_ability_item_hd_gauntlets"	"力量手套<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_gauntlets_Lore"	"带来野兽般力量的钉饰皮革手套。"
+"DOTA_Tooltip_ability_item_hd_gauntlets_bonus_str"	"+$str"
+"DOTA_Tooltip_ability_item_hd_gauntlets_Description"   "<h1>被动：力量透支</h1>每英雄等级失去%bonus_str_eachlvl%力量。"
+
+//老旧火枪
+"DOTA_Tooltip_ability_item_hd_snipers_firecracker"	"矮人火枪手的老旧火枪<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_snipers_firecracker_Lore"	"一名窃贼从狙击手家中将其偷取了出来，时间的洗礼已让这把枪无法再使用，但凭借着狙击手的名号还是能卖出不少钱的。"
+"DOTA_Tooltip_ability_item_hd_snipers_firecracker_bonus_attack_range"	"+远程攻击距离"
+"DOTA_Tooltip_ability_item_hd_snipers_firecracker_Description"	"<h1>被动：远距攻击增幅</h1>持有<font color=\"#777777\">[分裂箭]</font>时，额外增加%bonus_attack_range_extra%远程攻击距离。"
+
+//寒铁钢爪
+"DOTA_Tooltip_ability_item_hd_iron_talon"	"寒铁钢爪<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_iron_talon_Description"	"<h1>被动：多重攻击增幅</h1>攻击时，有%chance%% 概率额外发动一次攻击 （不触发分裂）。\n持有<font color=\"#777777\">[支配死灵]</font>时概率变为%chance_override%%."
+"DOTA_Tooltip_ability_item_hd_iron_talon_Lore"	"简单却有效的武器，为镇压地狱熊怪的起义而设计。"
+"DOTA_Tooltip_ability_item_hd_iron_talon_bonus_damage"	"+攻击力"
+
+//仙灵饰品
+"DOTA_Tooltip_ability_item_hd_mysterious_hat"	"仙灵饰品<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_mysterious_hat_Lore"	"较小的配饰，为了酬谢凡人不经意间流露出的善意而注入了仙灵的好运。"
+"DOTA_Tooltip_ability_item_hd_mysterious_hat_bonus_spell_damage_amplification"	"+%技能增强"
+"DOTA_Tooltip_ability_item_hd_mysterious_hat_bonus_manacost_per"	"+%技能魔法消耗减少"
+"DOTA_Tooltip_ability_item_hd_mysterious_hat_Description" "<h1>被动：法术输出增幅</h1>持有<font color=\"#777777\">[法术领悟]</font>时，额外增加%bonus_spell_damage_amplification_extra%% 技能增强，%bonus_manacost_per_extra%% 技能魔法消耗减少。"
+
+//基恩镜片
+"DOTA_Tooltip_ability_item_hd_keen_optic"	"基恩镜片<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_keen_optic_Lore"	"多年以前窃取自一名修补匠的车间，这片实用的镜片已经服侍过很多主人。"
+"DOTA_Tooltip_ability_item_hd_keen_optic_bonus_spell_range"	"+施法距离"
+"DOTA_Tooltip_ability_item_hd_keen_optic_bonus_mana_regeneration"	"+$mana_regen"
+"DOTA_Tooltip_ability_item_hd_keen_optic_Description" "<h1>被动：施法距离增幅</h1>持有<font color=\"#777777\">[魔神形态]</font>时，额外增加%bonus_spell_range_extra%施法距离，%bonus_mana_regeneration_extra%魔法恢复。"
+
+//长爪护符
+"DOTA_Tooltip_ability_item_hd_amulet"	"长爪护符<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_amulet_Lore"	"魔法在林地里有点不寻常，它的秘密被牢牢地守护着。"
+"DOTA_Tooltip_ability_item_hd_amulet_bonus_cooldown"	"+%冷却缩减"
+"DOTA_Tooltip_ability_item_hd_amulet_Description"   "<h1>被动：冷却缩减增幅</h1>持有<font color=\"#777777\">[邪能]</font>时，额外增加%bonus_cooldown_extra%% 冷却缩减。"
+
+//奥术手套
+"DOTA_Tooltip_ability_item_hd_magic_hand"	"奥术手套<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_magic_hand_Lore"	"受到精灵祝福的手套，可以增加与自然元素的亲和力。"
+"DOTA_Tooltip_ability_item_hd_magic_hand_Description"	"<h1>被动：施法速度增幅</h1>持有<font color=\"#777777\">[撕裂大地]</font>时，额外减少%bonus_casttime_extra%% 施法前摇。"
+"DOTA_Tooltip_ability_item_hd_magic_hand_bonus_casttime"	"-%施法前摇"
+
+//锁子甲
+"DOTA_Tooltip_ability_item_hd_chainmail_bonus_armor"	"+护甲"
+"DOTA_Tooltip_ability_item_hd_chainmail_Lore"	"金属链条制成的编织甲。"
+"DOTA_Tooltip_ability_item_hd_chainmail"	"锁子甲<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_chainmail_Description"    "<h1>被动：护甲增幅</h1>持有<font color=\"#777777\">[龙族血统]</font>时，额外增加%bonus_armor_extra%护甲。"
+
+//破碎背心
+"DOTA_Tooltip_ability_item_hd_chipped_vest"	"破碎背心<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_chipped_vest_Description"	"<h1>被动：反伤增幅</h1>被攻击时反弹%damage%点物理伤害.\n持有<font color=\"#777777\">[反伤]</font>时，额外反弹%damage_extra%点伤害。"
+"DOTA_Tooltip_ability_item_hd_chipped_vest_Lore"	"看起来并不厚实，但很奇妙地令人感到舒适。"
+
+//哥布林皮甲
+"DOTA_Tooltip_ability_item_hd_goblin_leather"	"哥布林皮甲<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_goblin_leather_Description"	"<h1>被动：减伤增幅</h1>受到的伤害减少%damage_reduce%% 。\n持有<font color=\"#777777\">[活性护甲]</font>时，受到的伤害额外减少%damage_reduce_extra%% "
+"DOTA_Tooltip_ability_item_hd_goblin_leather_Lore"	"一件破烂的装备，此前的主人是一只哥布林。"
+"DOTA_Tooltip_ability_item_hd_goblin_leather_Note0"	"额外的说明：<br>减免的伤害发生在护甲与魔抗减免之后，同时特指\"物理/魔法\"伤害\"常数/百分比\"的减免会发生在本技能之前，【无光之盾】等技能的护盾减免发生在此技能之后。"
+
+//刚背兽的刺针
+"DOTA_Tooltip_ability_item_hd_bristleback_single"	"钢背兽的刺针<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_bristleback_single_Description"	"<h1>被动：刚毛反击</h1>受到攻击时向目标发出一根刺针，造成%str_index%*力量的物理伤害。\n持有<font color=\"#777777\">[刚毛后背]</font>时，刺针的伤害变为%str_index_override%*力量。"
+"DOTA_Tooltip_ability_item_hd_bristleback_single_Lore"	"钢背兽的一根刺针，被打磨成了一件装备，在受到攻击时会对敌人发动攻击。"
+
+//小恶魔心脏
+"DOTA_Tooltip_ability_item_hd_demons_heart_01"	"小恶魔心脏<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_demons_heart_01_Lore"	"猎魔人从它的躯体中取出了心脏，恶魔蕴含的生命力在肉身消亡后仍然影响着现世。"
+"DOTA_Tooltip_ability_item_hd_demons_heart_01_bonus_heal_receive_amplification"	"+%受到治疗效果"
+"DOTA_Tooltip_ability_item_hd_demons_heart_01_bonus_regeneration_amplification"	"+%生命恢复速率"
+"DOTA_Tooltip_ability_item_hd_demons_heart_01_Description" "<h1>被动：生命恢复增幅</h1>持有<font color=\"#777777\">[链接]</font>时，额外增加%bonus_regeneration_amplification_extra%% 生命恢复"
+
+//海洋之心
+"DOTA_Tooltip_ability_item_hd_ocean_heart"	"海洋之心<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_ocean_heart_Description"	"<h1>光环：生生不息</h1>为%aura_radius%范围内的友军提供%bonus_health_regeneration%点/秒生命恢复和%bonus_mana_regeneration%点/秒魔法恢复。\n持有<font color=\"#777777\">[过载]</font>时则变为%bonus_health_regeneration_override%点/秒生命恢复和%bonus_mana_regeneration_override%点/秒魔法恢复"
+"DOTA_Tooltip_ability_item_hd_ocean_heart_Lore"	"苍洋议会祝福过的一个护符。"
+"DOTA_Tooltip_ability_item_hd_ocean_heart_Note0"	"额外的说明：过载及本装备带来的生命值恢复均被视为类型“恢复”"
+
+//统御旗帜
+"DOTA_Tooltip_ability_item_hd_nian_flag_trap"	"统御旗帜<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_nian_flag_trap_Description"	"<h1>光环：战旗之威</h1>为%aura_radius%范围内的友军提供%bonus_move%% 移动速度与%bonus_attack_speed%攻击速度。\n持有<font color=\"#777777\">[野性之心]</font>时则变为%bonus_move_override%% 移动速度和%bonus_attack_speed_override%攻击速度"
+"DOTA_Tooltip_ability_item_hd_nian_flag_trap_Lore"	"为什么战旗美如画，英雄的鲜血染红了她。"
+
+
+//蜂王浆1
+"DOTA_Tooltip_ability_item_hd_cook_royal_jelly"	"蜂王浆<font color=\"#777777\">-1级料理</font>"
+"DOTA_Tooltip_ability_item_hd_cook_royal_jelly_Description"	"<h1>消耗：食用</h1>食用后所有友方英雄永久增加1点/秒生命恢复与1点/秒魔法恢复。（可以多次叠加）"
+"DOTA_Tooltip_ability_item_hd_cook_royal_jelly_Lore"	"来自后勤的美味佳肴。"
+//蜂王浆2
+"DOTA_Tooltip_ability_item_hd_royal_jelly2"	"蜂王浆<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_royal_jelly2_Description"	"<h1>消耗：食用</h1>食用后所有友方英雄永久增加1点/秒生命恢复与1点/秒魔法恢复。（可以多次叠加）"
+"DOTA_Tooltip_ability_item_hd_royal_jelly2_Lore"	"无数工蜂辛劳的产物。"
+
+//速度之鞋
+"DOTA_Tooltip_ability_item_hd_boots"	"速度之鞋<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_boots_Lore"	"跑得快，需要一双好鞋。"
+"DOTA_Tooltip_ability_item_hd_boots_bonus_move"	"+移动速度"
+"DOTA_Tooltip_ability_item_hd_boots_Description"    "<h1>被动：移动速度增幅</h1>持有<font color=\"#777777\">[威吓]</font>时，额外增加%bonus_move_extra%移动速度"
+
+//玄冥盾牌
+"DOTA_Tooltip_ability_item_hd_buckler_active"	"玄冥盾牌<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_buckler_active_Description"	"<h1>光环：守护之盾</h1>为%aura_radius%范围内的友军提供%bonus_armor%护甲。\n持有<font color=\"#777777\">[战吼]</font>时变为%bonus_armor_override%护甲。"
+"DOTA_Tooltip_ability_item_hd_buckler_active_Lore"	"一面强大的盾牌赐予携带者过往英雄们的力量，它能在战斗中为整支军队提供保护。"
+
+"DOTA_Tooltip_modifier_item_hd_buckler_active"                   "护甲光环"
+"DOTA_Tooltip_modifier_item_hd_buckler_active_Description"                   "赋予护甲加成"
+
+//老旧的法杖
+"DOTA_Tooltip_ability_item_hd_a_stick"	"老旧的法杖<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_a_stick_Description"	"<h1>被动：奥术光弹</h1>主动释放任意技能后会随机选取周围一个敌人释放光弹并造成智力*1的伤害。<br><br>作用范围：%cast_range%。\n<h1>被动：奥术光弹+</h1>持有<font color=\"#777777\">[奥法鹰隼]</font>时，延迟0.5s后再次发射一次奥术光弹。"
+"DOTA_Tooltip_ability_item_hd_a_stick_Lore"	"一根无名法师遗失的法杖。"
+
+//觉醒书
+"DOTA_Tooltip_ability_item_random_skill_for_novice" "觉醒书"
+"DOTA_Tooltip_ability_item_random_skill_for_novice_Description""<h1>被动：短暂觉醒</h1>主动释放后会将急行之后的第一个满级中阶技能升阶到高阶，并使其获得高阶25级的效果（根据购买技能所需的价格分别需要19000或26000才能使用本装备）。使用后消失。"
+"DOTA_Tooltip_ability_item_random_skill_for_novice_Lore"	"创世之神对未觉醒者的怜悯。"
+"DOTA_Tooltip_modifier_item_random_skill_for_novice_active"     "暂时觉醒"
+"DOTA_Tooltip_modifier_item_random_skill_for_novice_active_Description"       "已经觉醒了一个技能，无法重复觉醒，删除短暂觉醒的技能会导致本效果本局失效。" 
+
+//精通
+"DOTA_Tooltip_ability_item_hd_madstone_bundle"	"铁树枝干<font color=\"#777777\">-第一梯队</font>"
+"DOTA_Tooltip_ability_item_hd_madstone_bundle_atb"	"+$all_attribute"
+"DOTA_Tooltip_ability_item_hd_madstone_bundle_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_madstone_bundle_Lore"	"铁树的枝干，能够一定程度上激发人的潜力。"

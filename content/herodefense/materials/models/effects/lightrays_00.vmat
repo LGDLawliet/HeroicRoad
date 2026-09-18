@@ -1,0 +1,26 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"F_ALLOW_LIGHTING_ON_TRANSLUCENT"	"1"
+	"F_SCROLL_UV"	"1"
+	"F_ADDITIVE_BLEND"	"1"
+	"F_TRANSLUCENT"	"1"
+	"g_flScrollUvSpeed"	"0.33"
+	"g_flOpacityScale"	"1"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"g_vScrollUvDirection"	"[-2.000000 2.000000 0.000000 0.000000]"
+	"TextureScrollSpeed"	"materials/default/default.tga"
+	"TextureColor"	"materials/models/effects/lightrays_00_color.png"
+	"TextureTranslucency"	"materials/models/effects/lightrays_00_b46360f4_trans.png"
+	"VRF Original Textures"
+	{
+		"g_tScrollSpeed"	"materials/default/default_tga_f9e41ab8.vtex"
+		"g_tColor"	"materials/models/effects/lightrays_00_color_psd_b46360f4.vtex"
+	}
+	"DynamicParams"
+	{
+		"g_flOpacityScale"	"v0 = time()+1;\nv1 = (.5*sin(v0*.5))+1;\nv2 = (.5*sin(v0*1))+1;\nv3 = (.5*sin(v0*2))+1;\nreturn (((v1*v2)*v3)*.5)+.5;"
+	}
+}

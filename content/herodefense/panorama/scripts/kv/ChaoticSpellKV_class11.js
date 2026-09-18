@@ -1,0 +1,14 @@
+GameUI.CustomUIConfig().ChaoticSpellKV_class11 = {
+	"chaotic_death_cloud": {
+		"class_level": 5,
+		"weight": 1,
+		"level1": 1,
+		"level2": 1,
+		"level3": 1,
+		"level4": 1,
+		"level5": 0,
+		"ImmortalStyleCount": 0,
+		"level6": 0,
+		"ArcanaStyleCount": 0,
+	},
+};

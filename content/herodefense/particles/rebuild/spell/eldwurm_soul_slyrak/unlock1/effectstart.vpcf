@@ -1,0 +1,60 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf45:version{73c3d623-a141-4df2-b548-41dd786e6300} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_flCullRadius = 10.0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/items/queenofpain/queenofpain_arcana/queenofpain_arcana.vmdl"
+				m_sequenceName = "qop_arc_idle"
+				m_hitboxSetName = "default"
+			}
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_HSVShiftToCP"
+			m_DefaultHSVColor = [ 255, 255, 0 ]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/unlock1/effectstart_ground_dark.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/unlock1/effectstart_ground_bright.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/unlock1/effectstart_dust.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/unlock1/effectend_warp.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/unlock1/effectstart_flek.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/unlock1/effectstart_ring.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/unlock1/effectstart_model.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/eldwurm_soul_slyrak/unlock1/effectstart_light.vpcf"
+		},
+	]
+}

@@ -1,0 +1,76 @@
+"DOTAAbilities"
+{
+    "Primary_morph"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "morphling_morph_replicate"
+        "ScriptFile"               "skills/Primary_morph"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_AUTOCAST"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AbilityValues"
+        {
+            "bonus_attribute"    "10 13 16 19 22"
+            "change_rate"        "50 55 60 65 70"
+            "change_max"         "50 55 60 65 70"
+            "rate"               "0.5 0.48 0.46 0.44 0.42"
+        }
+    }
+    "Middle_morph"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "morphling_morph_replicate"
+        "ScriptFile"               "skills/Middle_morph"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_AUTOCAST"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AbilityValues"
+        {
+            "bonus_attribute"    "22 25 30"
+            "change_rate"        "70 74 78"
+            "change_max"         "70 80 90"
+            "rate"               "0.4 0.36 0.33"
+        }
+    }
+    "Advanced_morph"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "morphling_morph_replicate"
+        "ScriptFile"               "skills/Advanced_morph"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_AUTOCAST"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AbilityValues"
+        {
+            "bonus_attribute"    "30"
+            "change_rate"        "78"
+            "change_max"         "90"
+            "rate"               "0.33"
+            "advanced_level"     "1"
+        }
+    }
+}

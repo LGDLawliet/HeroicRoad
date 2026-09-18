@@ -1,0 +1,312 @@
+// Chaotic era
+
+"DOTA_HUD_chaoticEraSpellslibraryMenuwindowTitle"                   "乱纪元技能图鉴"
+"DOTA_HUD_playerArtifactTitle"                   "圣物图鉴"
+"DOTA_CUSTOM_Fail_ChaoticSkillbooks_gain"       "技能书结算失败"
+
+"DOTA_Tooltip_modifier_chaotic_buff"    "乱纪元属性"
+"DOTA_Tooltip_modifier_chaotic_buff_Description"    "乱纪元模式属性：<br><font color='#F0FFFF'>·1主属性=0.07%%技能增强，智力英雄为0.09%%<br>·1智力=0.03%%冷却缩减，至多30%%</font>"
+
+"DOTA_Tooltip_modifier_chaotic_players_1"    "超越之力"
+"DOTA_Tooltip_modifier_chaotic_players_1_Description"    "·造成的伤害总增220%% [×]<br>·获得5%%伤害吸血<br>·每10秒受到一次弱驱散<br>·获得3次复活机会"
+"DOTA_Tooltip_modifier_chaotic_players_2"    "双影奇境"
+"DOTA_Tooltip_modifier_chaotic_players_2_Description"    "·造成的伤害总增90%% [×]<br>·获得3%%伤害吸血<br>·每15秒受到一次弱驱散<br>·获得2次复活机会"
+"DOTA_Tooltip_modifier_chaotic_players_3"    "传说三忍"
+"DOTA_Tooltip_modifier_chaotic_players_3_Description"    "·造成的伤害总增50%% [×]<br>·获得2%%伤害吸血<br>·每20秒受到一次弱驱散<br>·获得1次复活机会"
+"DOTA_Tooltip_modifier_chaotic_players_4"    "麻将四人间"
+"DOTA_Tooltip_modifier_chaotic_players_4_Description"    "·造成的伤害总增10%% [×]<br>·获得1.5%%伤害吸血"
+"DOTA_Tooltip_modifier_chaotic_players_5"    "团结五人众"
+"DOTA_Tooltip_modifier_chaotic_players_5_Description"    "·获得1%%伤害吸血<br>"
+
+
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025"    "庆典中"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_Description"    "找到周围的庆典之圈吧！"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_1_buff"    "力量加护"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_1_buff_Description"    "·造成的伤害总增40%% [×]<br>·获得20%%攻击力<br>·获得30%%技能增强<br>·获得30%%召唤增强"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_2_buff"    "冷却加护"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_2_buff_Description"    "·可刷新技能冷却速度增加300%%<br>·不可刷新技能冷却速度增加100%%"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_3_buff"    "生存加护"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_3_buff_Description"    "·每0.5秒回复1%%最大生命值和魔法值<br>·获得30%%伤害减免<br>·获得50%%精通"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_gold_buff"    "财神加护"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_gold_buff_Description"    "·每0.5秒获得12金币<br>·任意敌人死亡时额外获得30金币"
+
+
+"DOTA_HUD_Talent_Tree_Toggle_Button"    "天赋分配"
+
+"HUD_Chaotic_era_detail" "详解"
+
+"HUD_Chaotic_era_title" "乱纪元"
+"HUD_Chaotic_era_spell_type_1" "<font color=\"#bcefff\">阶级技能</font>"
+"HUD_Chaotic_era_spell_type_1_info" "阶级技能即为在正常游戏模式下可以在技能商店学习的技能，可在此后进行升阶操作。"
+"HUD_Chaotic_era_spell_type_2" "<font color=\"#92f8e5\">环级技能</font>"
+"HUD_Chaotic_era_spell_type_2_info" "环级技能只会在乱纪元模式下出现，固定等级，无法升阶，但你可以通过符石来对其技能效果进行强化/变更"
+
+"HUD_LERAN_SPELL_FAIL_Chaotic_Era"  "乱纪元模式下无法在技能商店学习技能"
+
+
+"HUD_Chaotic_era_spell_level_info"  "<font color=\"#92f8e5\">技能类别：</font>{s:level}环 {s:spell_type}"
+"Market_Core_buy_failed_in_chaotic_era"                   "乱纪元模式下无法直接锻造原石"
+
+
+"HUD_Spell_level_1"  "一环技能"
+"HUD_Spell_level_2"  "二环技能"
+"HUD_Spell_level_3"  "三环技能"
+"HUD_Spell_level_4"  "四环技能"
+"HUD_Spell_level_5"  "五环技能"
+"HUD_Spell_level_6"  "六环技能"
+"HUD_Spell_level_7"  "七环技能"
+"HUD_Spell_level_8"  "八环技能"
+"HUD_Spell_level_9"  "九环技能"
+"HUD_Spell_level_10"  "十环技能"
+"HUD_Spell_level_11"  "密斯特拉技能"
+"HUD_chaotic_item"   "乱纪元装备"
+
+
+"EraListSubdivision_checking_Skill"  "武技"
+"EraListSubdivision_checking_Spell"  "法术"
+
+
+"EraListSubdivision_checking_active"  "主动技能"
+"EraListSubdivision_checking_passive"  "被动技能"
+"EraListSubdivision_checking_aoe"  "范围技能"
+
+
+// 魔法细分
+
+
+"EraListSubdivision_checking_Abjuration"  "防护系"
+"EraListSubdivision_checking_Conjuration"  "咒法系"
+"EraListSubdivision_checking_Divination"  "预言系"
+"EraListSubdivision_checking_Enchantment"  "惑控系"
+"EraListSubdivision_checking_Evocation"  "塑能系"
+"EraListSubdivision_checking_Illusion"  "幻术系"
+"EraListSubdivision_checking_Necromancy"  "死灵系"
+"EraListSubdivision_checking_Transmutation"  "变化系"
+"EraListSubdivision_checking_Universal"  "共通系"
+
+
+
+"EraListSubdivision_checking_Abjuration_info"  "防护法术的本质是守护，不过当中也有某些带攻击性的用途。它们可以创造屏障，抵消有害的效应，伤害入侵者，或将生物驱逐到其他存在位面。"
+"EraListSubdivision_checking_Conjuration_info"  "咒法法术牵涉到将物体和生物从一处传送到另一处。其中某些法术会将生物或物体召唤到施术者身边，而有些则将施法者传到另一地方。有些咒法还可以凭空创作物件或效应。"
+"EraListSubdivision_checking_Divination_info"  "预言法术揭露资讯，其形式可以是失传的秘密，未来的映像，秘宝的藏地，幻象的真相，又或者是远方人物或区域的异象。"
+"EraListSubdivision_checking_Enchantment_info"  "惑控法术影响他人的心智，改变或控制他们的行为。这些法术可能令敌人视施术者为朋友，或者强迫生物作出特定行为，甚至像扯线人偶一样操纵其他生物。"
+"EraListSubdivision_checking_Evocation_info"  "塑能法术将魔法能量塑造成想要的效应。有些会唤出一阵火焰或闪电。有些则会导来正能量治疗伤口。"
+"EraListSubdivision_checking_Illusion_info"  "幻术法术可以暪骗他人的感官或心灵。它们令人看见不存在的事物，或者看不见存在的事物，还可以使人幻听或记起没有实际发生过的事。有些幻象任何人都可见，而最阴险隐秘的幻象则会直接将影像植入某生物的思想中。"
+"EraListSubdivision_checking_Necromancy_info"  "死灵法术操纵生与死的能量。这些法术可以赋予额外的生命力，或从他人身上汲取生命能量，还可以创造不死生物，甚至起死回生。"
+"EraListSubdivision_checking_Transmutation_info"  "变化法术让生物，物体，或环境的属性发生改变。它们可能将敌人变成无害的生物，强化友方的力量，或是令物件活起来听从施法者的指令，又或是强化生物的天生自愈能力让其伤势迅速复原。"
+"EraListSubdivision_checking_Universal_info"  "不属于任何学派的技能，这类法术比较少见。"
+
+
+
+
+"HUD_Conjuration_spell"  "咒法法术"
+"HUD_Abjuration_spell"  "防护法术"
+"HUD_Necromancy_spell"  "死灵法术"
+"HUD_Transmutation_spell"  "变化法术"
+"HUD_Evocation_spell"  "塑能法术"
+"HUD_Enchantment_spell"  "惑控法术"
+"HUD_Illusion_spell"  "幻术法术"
+
+"HUD_Divination_spell"  "预言法术"
+
+
+"HUD_Wave" "回合"
+
+
+
+"HUD_DISABLED"  "不可用"
+
+"DOTA_HUD_ChaoticEraSpellsLisTitle"  "学习一个技能"
+"DOTA_HUD_ChaoticEraSpellsLis_Hide"  "等会儿再决定"
+
+"DOTA_HUD_ChaoticEraSpellsLis_learn"  "决定学习"
+"DOTA_HUD_ChaoticEraSpellsLis_giveup"  "我都不要"
+"DOTA_HUD_ChaoticEraSpellsLis_giveup_info"  "放弃选择技能，同时返还你500金币"
+
+
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_1"  "免费重生成"
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_1_info"  "剩余免费次数：{s:count}"
+
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_2"  "重新生成"
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_2_info"  "花费{s:cost}黄金以重新生成技能，当前剩余次数{s:charge}"
+
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_Error_1"  "无剩余重随次数"
+
+"DOTA_HUD_ChaoticEraSpellsLis_confirm"  "确认"
+
+"HUD_Invisibility_cooldown"  "处于隐形冷却中"
+"HUD_ClassLevel_not_match"  "释放技能环数不满足施法条件"
+
+
+"DOTA_HUB_CANT_CAST_Un_Connection"  "没有相连网格" 
+"DOTA_HUB_CANT_CAST_Same_Pos"  "无法作用于相同坐标" 
+
+
+"DOTA_HUD_ChaoticEraShop_Upgrade"   "经验值：{s:current}/{s:require}" 
+
+"HUD_ChaoticEra_Shop"  "升级商店等级，以刷新获得级别更高的技能与装备<br><br>每经过1回合商店都会增加经验值。"
+"HUD_ChaoticEra_RefreshShop"  "花费金币重新生成一组可购买装备<br><br>升级商店可以重置重随价格，商店升级时或偶数回合时商店会自动刷新。"
+
+
+"HUD_ChaoticEra_Error_LevelMax"  "商店已经达到最大等级"
+
+"HUD_ChaoticEra_ShopUpgrade"  "{s:player_name}将商店等级升级至<font color=\"#f0ad4e\">{s:locstring_value}</font>"
+"HUD_ChaoticEra_PlayerRefreshTask"  "{s:player_name}消耗金币重新生成了一组怪物征召队列"
+"HUD_ChaoticEra_PlayerStopTask"  "{s:player_name}启用了征召延迟功能，怪物的浪潮暂时停止了"
+
+
+"HUD_ChaoticEra_PlayerSelectTask"  "{s:player_name}投票了一组怪物征召队列"
+
+"HUD_ChaoticEra_Error_No_Enough_Item"  "物品售馨"
+"HUD_ChaoticEra_Error_No_Task"  "只能在出现队列时才可重新生成"
+"HUD_ChaoticEra_Error_No_Enough_Level"  "商店等级不足"
+"HUD_ChaoticEra_Error_In_Cooldown"  "冷却中"
+"HUD_ChaoticEra_Error_In_Battle"    "当前未处于战斗状态"
+
+"HUD_ChaoticEra_Error_No_EvoluteChance"  "没有可用的升阶机会"
+"HUD_ChaoticEra_Error_No_UpgradeChance"  "没有可用的升级机会"
+"HUD_ChaoticEra_Error_No_Sellhance"  "没有可用的出售机会"
+
+
+"HUD_LOCK_ITEM_INFO"  "锁定装备后，刷新商店将保留这件物品"
+"HUD_LOCK_Rune_INFO"  "锁定符文后，分解不会选中该符石"
+"HUD_Lock_Max"  "无法锁定更多物品"
+"HUD_Not_Enough_Slot_General"                   "已达到最大阶技能学习数量"
+
+// bonus behavior
+"HUD_Spell_Bonus_Behavior_OverCasting_Title"  "<font color=\"#92d3f8\">施法赋能：强化施法</font>"
+"HUD_Spell_Bonus_Behavior_OverCasting_Info"  "在自动施法状态下，魔法消耗将增加%extra_mana_cost%%%，同时你将对目标%radius%范围内至多额外%count%个目标施加技能效果。"
+
+
+"HUD_Spell_Bonus_Behavior_SingleCasting_Title"  "<font color=\"#92d3f8\">施法特性：有限目标</font>"
+"HUD_Spell_Bonus_Behavior_SingleCasting_Info"  "此技能只能同时作用于%single_count%个目标，重复的施法将覆盖效果。"
+
+"HUD_Spell_Bonus_Behavior_OverCasting2_Title"  "<font color=\"#92d3f8\">施法赋能：过度施法</font>"
+"HUD_Spell_Bonus_Behavior_OverCasting2_Info"  "在自动施法状态下，魔法消耗将增加%extra_mana_cost%%%，同时技能效果（蓝色数值）提升%over_gain%%%。"
+
+
+
+"HUD_Spell_Bonus_Info_GiantUnit_Title"  "<font color=\"#92d3f8\">补足：大型生物</font>"
+"HUD_Spell_Bonus_Info_GiantUnit_Info"  "如果没有特殊说明，那么通常而言其胸部与脚的距离超过200码则为大型生物。"
+
+// "HUD_Spell_Bonus_Behavior_SingleCasting_Title"  "<font color=\"#92d3f8\">补足：小型生物</font>"
+// "HUD_Spell_Bonus_Behavior_SingleCasting_Info"  "如果没有特殊说明，那么通常而言其胸部与脚的距离在50码以内的生物则为小型生物。"
+
+
+
+
+
+"HUD_Era_Special_BuySpell_Title"  "购买技能"
+"HUD_Era_Special_BuySpell_Info"  "生成一组可选技能，但当你技能栏不足时则会等待至有空余槽位才会生成。<br><br><font color=\"#92d3f8\">刷新商店时有几率生成，与等级正相关。环技能的阶级跟商店等级正相关。</font>"
+
+
+
+"HUD_Era_Special_Evolution_Title"  "升阶机会"
+"HUD_Era_Special_Evolution_Info"  "购买阶技能的升阶机会后，你才可以升阶技能。<br><br><font color=\"#92d3f8\">刷新商店时有几率生成，与等级正相关。此外，商店到一定等级时必定会生成一次升阶机会的。</font>"
+
+
+"HUD_Era_Special_Upgrade_Title"  "升级机会x2"
+"HUD_Era_Special_Upgrade_Info"  "购买阶技能的升级机会后，你才可以提升技能的高阶等级。<br><br><font color=\"#92d3f8\">刷新商店时有几率生成，与等级正相关。</font>"
+
+
+"HUD_Era_Special_Sell_Title"  "出售机会"
+"HUD_Era_Special_Sell_Info"  "购买阶技能的出售机会后，你才可以移除你学习的技能。<br><br><font color=\"#92d3f8\">刷新商店时有几率生成，与等级正相关。</font>"
+
+
+"HUD_Era_Special_RefreshTask_Title"  "刷新征召"
+"HUD_Era_Special_RefreshTask_Info"  "刷新当前可选怪物的征召列表。<br><br><font color=\"#92d3f8\">刷新商店时有几率生成，与等级正相关。</font>（请提前与你的队友沟通）"
+
+
+"HUD_Era_Special_PauseTask_Title"  "整备时间"
+"HUD_Era_Special_PauseTask_Info"  "使时间停止<delayTime>秒并暂停怪物生成、回合进度。</font><br><br><levelRequire>级商店后解锁，冷却<cooldown>秒，所有玩家共享冷却（请提前与你的队友沟通）"
+
+
+
+"HUD_Era_Special_Artifact_Title"  "神器"
+"HUD_Era_Special_Artifact_Info"  "生成<artifact_count>个神器，你可以选择其中一种购买"
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_attribute"                   "赏金"
+"DOTA_Tooltip_modifier_chaotic_era_attribute_Description"                   "被击杀后所有玩家将获得一笔赏金，单人模式中额外增加，每多一名玩家则减少"
+
+
+
+"HUD_Task_Upgrade_noraml"  "被升阶的怪物的成长性将提升<font color=\"#92d3f8\">{s:upgrade_value}%</font>，同时其符石进度加成提升<font color=\"#92d3f8\">{s:progress_bonus}%</font><br><br>怪物被征召时如果大多数玩家都选择了升阶，那么该怪物升阶将成立。"
+
+
+
+
+"HUD_Task_Upgtade" "怪物升阶"
+"HUD_Task_Upgrade_1_info"  "此怪物被升阶，成长性将提升<font color=\"#92d3f8\"><upgrade_value>%</font>，同时其符石进度加成提升<font color=\"#92d3f8\"><progress_bonus>%</font><br><br>此加成已反映到数据预览。"
+
+
+
+
+
+
+"ChaoticEra_GameEffect_Title"  "{s:level}投票环节"
+"ChaoticEra_Artifact_Title"  "神器选择"
+
+
+"HUD_ChaoticEra_Phase_with_delay"  "整备时间：<font color=\"#f0ad4e\">{s:locstring_value}秒</font>"
+"HUD_ChaoticEra_Phase_end"  "整备时间结束，战斗继续.."
+
+
+"HUD_Chaotic_Era_TaskModify_Title"   "修饰"
+"HUD_Chaotic_Era_TaskModify_Info"   "由一些特殊的事件，该怪物会携带一些加成效果"
+
+"HUD_Chaotic_Era_TaskModify_Error"   "修饰失败"
+"HUD_Chaotic_Era_TaskModify_Error2"   "无法启用相同修饰词"
+
+"HUD_Chaotic_Era_TaskModify_None_Title"   "无可用修饰词"
+
+
+"HUD_Chaotic_Era_TaskModify_Active"  "{s:player_name}对<font color=\"#f0ad4e\">{s:locstring_value}</font>启用了修饰词<font color=\"#c092fd\">{s:locstring_value2}</font>"
+
+
+"HUD_Rune_Edit_2_Ok"    "符石锁定状态变更"
+
+"HUD_Boss_Summon_wave"  "混乱来临回合倒计时：{s:remain_wave}"
+"HUD_Boss_Summon_wave_Title"  "混乱来临"
+"HUD_Boss_Summon_wave_Info"  "完成所有回合后将根据取得的成绩召唤出对应强度的最终BOSS，将其击败后可以提高获得的奖励"
+"HUD_Chaotic_era_boss_warning" "混乱来临，击杀所有怪物后，终极首领出现"
+
+"DOTA_Tooltip_modifier_take_gold"   "独当一面"
+"DOTA_Tooltip_modifier_take_gold_Description"   "来自成就，获得5点全属性，20点基础攻击力、2点护甲，每10秒获得35金币"
+
+"DOTA_HUD_Chaotic_Bonus_Attributes_description"           "初始获得15点属性点，可以自由分配属性。根据属性的不同消耗的属性点数各不相同，但消耗点数向上取整。<br><br>当完成了一些成就后可以增加初始属性点数。"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes"    "混沌属性分配"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_Description" "属性分配完毕"
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_1"           "风暴领主"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_1_Description"   "消耗40点点数以解锁：<br><br>--对敌人造成技能伤害时最短以3秒间隔获得1层风暴充能。<br><br>--风暴充能累计至3层时，你的下次技能伤害会额外引发一次雷电，对其造成你主属性×英雄等级x0.6的魔法伤害"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_1"   "风暴领主"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_1_Description"   "对敌人造成技能伤害时最短以3秒间隔获得1层风暴充能，<br><br>风暴充能累计至3层时，你的下次伤害会额外引发一次雷电，对其造成你主属性×英雄等级x0.6的魔法伤害。"
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_2"           "死神收割"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_2_Description"   "消耗40点点数以解锁：<br><br>--你的攻击伤害提升英雄等级x3%，如果是近战攻击，还会对至多4名敌人造成400范围的40%%溅射效果。"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_2"   "死神收割"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_2_Description"   "你的攻击伤害提升英雄等级x3%%，如果是近战攻击，还会对至多4名敌人造成400范围的40%%溅射效果。<br><br>当前攻击伤害提升：%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_3"           "永恒泰坦"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_3_Description"   "消耗40点点数以解锁：<br><br>--对精英敌人造成的最终伤害提升，提升百分比相当于你的最大生命值x0.16%，同时受到精英敌人的伤害降低15%"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_3"   "永恒泰坦"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_3_Description"   "对精英敌人造成的最终伤害提升，提升百分比相当于你的最大生命值x0.16%%，同时受到精英敌人的伤害降低15%%。<br><br>当前对精英伤害提升：%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_4"           "肆意湮灭"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_4_Description"   "消耗40点点数以解锁：<br><br>--对敌人造成的最终伤害会基于其生命值百分比而提升：最高在100%生命值时提供英雄等级x2%，在40%生命值及以下时失效"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_4"   "肆意湮灭"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_4_Description"   "对敌人造成的伤害会基于其生命值百分比而提升：最高在100%%生命值时提供英雄等级x2%%，在40%%生命值及以下时失效<br><br>当前最终伤害峰值：%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_5"           "暗影祀祭"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_5_Description"   "消耗40点点数以解锁：<br><br>--释放技能时最短以5秒间隔获得1层暗影充能。<br><br>--暗影充能累计至7层时召唤一个持续25秒的暗影图腾，其会以5秒间隔对友军英雄释放暗影波。<br><br>--暗影波会造成目标最大生命值x6%的纯粹伤害，并使其在5秒内提高最终伤害和移动速度，提高百分比等于（10+你的英雄等级x0.8%）<br><br>--你的召唤兽恒定享受'暗影波'，且效率为130%"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_5"   "暗影祀祭"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_5_Description"   "释放技能时最短以5秒间隔获得1层暗影充能。<br><br>暗影充能累计至7层时召唤一个持续25秒的暗影图腾，其会以5秒间隔对友军英雄释放暗影波。<br><br>暗影波会造成目标最大生命值x6%%的纯粹伤害，并使其在5秒内提高最终伤害和移动速度，提高百分比等于（10+你的英雄等级x0.8%%）<br><br>你的召唤兽恒定享受'暗影波'，且效率为130%%<br><br>当前最终伤害和移动速度提高：%dMODIFIER_PROPERTY_TOOLTIP%%%"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_5_thinker_buff"  "暗影增益"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_5_thinker_buff_Description"  "最终伤害和移动速度提高%fMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_HUD_set_normal_drow_info"   "<font color='#ff8033'>{s:locstring_value}</font>掉落了一件物品<font color='#ff8033'>{s:locstring_value2}</font>！"
+"DOTA_HUD_set_drow_info"   "<font color='#f0ad4e'>{s:locstring_value}</font>掉落了一件套装物品<font color='#f0ad4e'>{s:locstring_value2}</font>！"
+"DOTA_HUD_oracle_box_info"   "{s:player_name}遵从神谕，获得了<font color='#f0ffff'>{s:locstring_value}</font>！"
+

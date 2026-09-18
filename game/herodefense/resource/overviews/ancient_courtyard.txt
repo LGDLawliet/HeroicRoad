@@ -1,0 +1,8 @@
+ancient_courtyard
+{
+	material materials/overviews/ancient_courtyard.vmat
+	pos_x -8192
+	pos_y 8192
+	scale 16.000
+}
+

@@ -1,0 +1,247 @@
+"DOTA_Tooltip_ability_buy_core_5"	"矿脉发掘"
+"DOTA_Tooltip_ability_buy_core_5_Description"	"<font color=\"#f0ad4e\">获得一定的随机原石<br><br>获得5颗相同的原石（1到3中随机一种）</font>"
+"DOTA_Tooltip_ability_buy_core_20"	"矿脉发掘"
+"DOTA_Tooltip_ability_buy_core_20_Description"	"<font color=\"#f0ad4e\">获得一定的随机原石<br><br>获得20颗相同的原石（1到3中随机一种）</font>"
+"DOTA_Tooltip_ability_buy_core_5_2"	"矿脉发掘"
+"DOTA_Tooltip_ability_buy_core_5_2_Description"	"<font color=\"#f0ad4e\">获得一定的随机原石<br><br>获得5颗相同的原石（1到3中随机一种）(注意：未来可能降价，处于观察期。原石可以通过百相难度轻松获得，此方案仅提供给经验多得花不完的人)</font>"
+"DOTA_Tooltip_ability_buy_core_20_2"	"矿脉发掘"
+"DOTA_Tooltip_ability_buy_core_20_2_Description"	"<font color=\"#f0ad4e\">获得一定的随机原石<br><br>获得20颗相同的原石（1到3中随机一种）(注意：未来可能降价，处于观察期。原石可以通过百相难度轻松获得，此方案仅提供给经验多得花不完的人)</font>"
+"DOTA_Tooltip_ability_Shop_fool"	"傻力·永久"
+
+
+
+"DOTA_Tooltip_ability_Shop_fool_Description"	"<font color=\"#f0ad4e\">傻子的专属特权<br><br>效果1：每回合结算时50%几率额外提升一级<br>效果2：每回合金币奖励提升10%<br>效果3：初始全属性+15<br>效果4：技能伤害+20%%<br>效果5：魔法抗性+15%%</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_1"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_1_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得1500可靠经验</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_2"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_2_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得4000可靠经验</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_3"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_3_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得10000可靠经验</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_4"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_4_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得25000可靠经验</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_5"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_5_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得60000可靠经验</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_1"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_1_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得1500可靠经验</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_2"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_2_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得4000可靠经验</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_3"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_3_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得10000可靠经验</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_4"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_4_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得25000可靠经验</font>"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_5"	"经验领悟"
+"DOTA_Tooltip_ability_Shop_buy_exp_by_gold_5_Description"	"<font color=\"#f0ad4e\">获得一定的可靠经验值<br><br>获得60000可靠经验</font>"
+
+
+
+
+
+"DOTA_Tooltip_ability_GoodsInfo_01"	"<font color=\"#5bc0de\">可靠经验</font>"
+"DOTA_Tooltip_ability_GoodsInfo_01_Description"	"<font color=\"#5bc0de\">获取途径：</font><br><font color=\"#f0ad4e\">1.游戏结算时根据难度以及完成关卡数给予。</font><br><font color=\"#f0ad4e\">2.游戏结算时获取已满级的技能的技能书转换。</font><br><font color=\"#f0ad4e\">3.商城获取。</font><br>"
+"DOTA_Tooltip_ability_GoodsInfo_02"	"<font color=\"#f0ad4e\">黄金</font>"
+"DOTA_Tooltip_ability_GoodsInfo_02_Description"	"<font color=\"#5bc0de\">获取途径：</font><br><font color=\"#f0ad4e\">1.游戏结算时根据难度以及完成关卡数给予。</font><br><font color=\"#f0ad4e\">2.商城获取。</font><br>"
+"DOTA_Tooltip_ability_GoodsInfo_03"	"<font color=\"#ababab\">白金</font>"
+"DOTA_Tooltip_ability_GoodsInfo_03_Description"	"<font color=\"#5bc0de\">获取途径：</font><br><font color=\"#f0ad4e\">1.排行榜或活动。</font>"
+// "DOTA_Tooltip_ability_GoodsInfo_03_Description"	"<font color=\"#5bc0de\">获取途径：</font><br><font color=\"#f0ad4e\">1.商城获取。</font><br><font color=\"#f0ad4e\">2.活动获取。</font>"
+
+
+
+
+
+"DOTA_Tooltip_ability_Shop_buy_spell_by_platinum"	"技能领悟"
+"DOTA_Tooltip_ability_Shop_buy_spell_by_platinum_Description"	"<font color=\"#f0ad4e\">随机获得十本技能书。</font><br><br><font color=\"#f0ad4e\">注意：</font><br><font color=\"#f0ad4e\">可能出现重复，重复的技能书将转化为</font>可靠经验<font color=\"#f0ad4e\">，已满级的技能也将转化为</font>可靠经验<font color=\"#f0ad4e\">。</font><br><font color=\"#f0ad4e\">仅出现结算技能池中的技能，不会出现特殊技能中的技能，小概率出现BOSS技能。<br>（新添加的技能首先出现再特殊技能列表中，经过一段时间后再添加到常规列表）</font>"
+"DOTA_Tooltip_ability_Shop_buy_spell_by_platinum2"	"技能领悟"
+"DOTA_Tooltip_ability_Shop_buy_spell_by_platinum2_Description"	"<font color=\"#f0ad4e\">随机获得50本技能书。</font><br><br><font color=\"#f0ad4e\">注意：<font color=\"#f0ad4e\"><br>可能出现重复，重复的技能书将转化为</font>可靠经验<font color=\"#f0ad4e\">，已满级的技能也将转化为</font>可靠经验<font color=\"#f0ad4e\">。</font><br><font color=\"#f0ad4e\">仅出现结算技能池中的技能，不会出现特殊技能中的技能，小概率出现BOSS技能。<br>（新添加的技能首先出现再特殊技能列表中，经过一段时间后再添加到常规列表）</font>"
+
+
+
+
+"DOTA_Tooltip_ability_Shop_old_player"	"作者的感谢"
+"DOTA_Tooltip_ability_Shop_old_player_Description"	"<font color=\"#f0ad4e\">BETA测试玩家的专属特权<br><br>开局将赠送一个可以赠予他人的低级宝箱。</font>"
+"DOTA_Tooltip_ability_Shop_first_N8"	"登峰造极"
+"DOTA_Tooltip_ability_Shop_first_N8_Description"	"<font color=\"#f0ad4e\">此特权给予第一位单通N8的玩家。<br><br>初始全属性加6。</font><br><font color=\"#f0ad4e\">输入（-sethide1）可隐藏状态</font>"
+
+
+"DOTA_Tooltip_ability_Shop_king_of_bug"	"BUG统御者"
+"DOTA_Tooltip_ability_Shop_king_of_bug_Description"	"<font color=\"#f0ad4e\">来自三兄弟的福佑，唯一称号，三兄弟每寻获一个bug都会积累经验值。</font><br><font color=\"#f0ad4e\">奖励：</font><br><font color=\"#f0ad4e\">1.全属性加(2.5+强化等级*0.5)，最高为20</font><br><font color=\"#f0ad4e\">2.礼包奖励增加（10%+强化等级）</font><br><font color=\"#f0ad4e\">不过，这个礼包有没有加成取决于我记不记得加上加成逻辑。<br></font><br><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+
+
+"DOTA_Tooltip_ability_Shop_Novice_tutor"	"新手导师"
+"DOTA_Tooltip_ability_Shop_Novice_tutor_Description"	"<font color=\"#f0ad4e\">只有那些能被称以老师之人可获得此称号。<br><br>防御力提高2，魔法抗性提高5%。</font><br><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_Publicity_Ambassador"	"宣传大使"
+"DOTA_Tooltip_ability_Shop_Publicity_Ambassador_Description"	"<font color=\"#f0ad4e\">只有那些对游戏宣传有较大贡献之人可获得此称号。<br><br>初始生命恢复速度加4</font><br><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_noob"	"坑比"
+"DOTA_Tooltip_ability_Shop_noob_Description"	"<font color=\"#f0ad4e\">太坑了你。<br><br>全属性加1.</font><br><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+
+"DOTA_Tooltip_ability_Shop_Athenas_blessing"	"雅典娜的福佑"
+"DOTA_Tooltip_ability_Shop_Athenas_blessing_Description"	"<font color=\"#f0ad4e\">我的图居然会有这么多女玩家？<br><br>移动速度增加5%%。</font><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_water"	"水群者的赐福"
+"DOTA_Tooltip_ability_Shop_water_Description"	"<font color=\"#f0ad4e\">群的活跃度有你一份巨大的贡献。<br><br>魔法恢复加1。</font><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_Bullshit"	"屁话哥"
+"DOTA_Tooltip_ability_Shop_Bullshit_Description"	"<font color=\"#f0ad4e\">群的活跃度有你一份巨大的贡献。另外你是屁话哥，为此你获得一份独特的称号名。<br><br>魔法恢复加1。</font><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+
+
+
+
+
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_2"	"小黄金"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_2_Description"	"<font color=\"#f0ad4e\">获得一定的黄金<br><br>获得160黄金</font>"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_3"	"中黄金"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_3_Description"	"<font color=\"#f0ad4e\">获得一定的黄金<br><br>获得350黄金</font>"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_4"	"大黄金"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_4_Description"	"<font color=\"#f0ad4e\">获得一定的黄金<br><br>获得750黄金</font>"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_5"	"巨黄金"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_5_Description"	"<font color=\"#f0ad4e\">获得一定的黄金<br><br>获得1700黄金</font>"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_1"	"微黄金"
+"DOTA_Tooltip_ability_Shop_buy_gold_by_platinum_1_Description"	"<font color=\"#f0ad4e\">获得一定的黄金<br><br>获得60黄金</font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_3"	"补偿奖励"
+"DOTA_Tooltip_ability_Shop_bonus_info_3_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">通常是因为遇到了某个bug导致损失了部分收益，抑或单纯作者想给你点奖励，又懒得单独设置一个主题。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_none"	"奖励为空"
+"DOTA_Tooltip_ability_Shop_bonus_info_none_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">未查询到你ID名下的奖励。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_2"	"补偿奖励"
+"DOTA_Tooltip_ability_Shop_bonus_info_2_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">通常是因为遇到了某个bug导致损失了部分收益，抑或单纯作者想给你点奖励，又懒得单独设置一个主题。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_1"	"补偿奖励"
+"DOTA_Tooltip_ability_Shop_bonus_info_1_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">通常是因为遇到了某个bug导致损失了部分收益，抑或单纯作者想给你点奖励，又懒得单独设置一个主题。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_4"	"补偿奖励"
+"DOTA_Tooltip_ability_Shop_bonus_info_4_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">通常是因为遇到了某个bug导致损失了部分收益，抑或单纯作者想给你点奖励，又懒得单独设置一个主题。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_5"	"补偿奖励"
+"DOTA_Tooltip_ability_Shop_bonus_info_5_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">通常是因为遇到了某个bug导致损失了部分收益，抑或单纯作者想给你点奖励，又懒得单独设置一个主题。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_bonus_info_6"	"补偿奖励"
+"DOTA_Tooltip_ability_Shop_bonus_info_6_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">通常是因为遇到了某个bug导致损失了部分收益，抑或单纯作者想给你点奖励，又懒得单独设置一个主题。</font><font color=\"#f0ad4e\"><br></font>"
+
+"DOTA_Tooltip_ability_Shop_Dove_of_peace"	"和平鸽"
+"DOTA_Tooltip_ability_Shop_Dove_of_peace_Description"	"<font color=\"#f0ad4e\">听从了作者的停下争论的人。<br><br>全属性加2.</font><br><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+
+
+"DOTA_Tooltip_ability_Shop_Great_Teacher"	"热情的大师"
+"DOTA_Tooltip_ability_Shop_Great_Teacher_Description"	"<font color=\"#f0ad4e\">以难以想象的热情和恒心指导新手之人，无需多言。<br><br>最大生命值和最大魔法值增加3%%。</font><br><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+
+
+
+
+"DOTA_Tooltip_ability_Shop_tool"	"工具人"
+"DOTA_Tooltip_ability_Shop_tool_Description"	"<font color=\"#f0ad4e\">作者的工具人，平时帮忙作者处理一些事务。<br><br>移动速度加3%%，攻击速度加15.</font><br><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_adviser"	"建议人"
+"DOTA_Tooltip_ability_Shop_adviser_Description"	"<font color=\"#f0ad4e\">作者的建议人，提出了不少好建议。<br><br>初始智力加6.</font><br><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_endless"	"无尽500波英雄"
+"DOTA_Tooltip_ability_Shop_endless_Description"	"<font color=\"#f0ad4e\">打通了500波却没有遇到过隐藏关的几个可怜人。<br><br>没啥加成，但是你的在场将使得N5以上的隐藏关卡的出现概率增加少许。</font><br><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Shop_The_blessing_of_good_luck"	"非洲人的福佑"
+"DOTA_Tooltip_ability_Shop_The_blessing_of_good_luck_Description"	"<font color=\"#f0ad4e\">过年群活动奖励。<br><br>风险骰子前十次的成功几率提升至99%%，十次之后提升至96%%。</font><font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_noob2"	"又菜又爱玩"
+"DOTA_Tooltip_ability_Shop_noob2_Description"	"<font color=\"#f0ad4e\">作者的怜悯。<br><br>初始全属性加7。</font><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+
+
+"DOTA_Tooltip_ability_Shop_bonus_info_contest_1"	"赛季奖励"
+"DOTA_Tooltip_ability_Shop_bonus_info_contest_1_Description"	"<font color=\"#5bc0de\">描述：</font><br><font color=\"#5bc0de\">----------------------------------</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">您的未领取赛季奖励。<br></font>"
+"DOTA_Tooltip_ability_Shop_sendBug_man"	"自我抑制的回赠LV1"
+"DOTA_Tooltip_ability_Shop_sendBug_man_Description"	"<font color=\"#f0ad4e\">通过献祭出自己的超模套路换取了游戏的平衡，被给予了嘉奖。<br><br>全属性加5。</font><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_sendBug_man_2"	"自我抑制的回赠LV2"
+"DOTA_Tooltip_ability_Shop_sendBug_man_2_Description"	"<font color=\"#f0ad4e\">通过献祭出自己的超模套路换取了游戏的平衡，被给予了嘉奖。<br><br>全属性加6。</font><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_sendBug_man_3"	"自我抑制的回赠LV3"
+"DOTA_Tooltip_ability_Shop_sendBug_man_3_Description"	"<font color=\"#f0ad4e\">通过献祭出自己的超模套路换取了游戏的平衡，被给予了嘉奖。<br><br>全属性加7。</font><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_sendBug_man_4"	"自我抑制的回赠LV4"
+"DOTA_Tooltip_ability_Shop_sendBug_man_4_Description"	"<font color=\"#f0ad4e\">通过献祭出自己的超模套路换取了游戏的平衡，被给予了嘉奖。<br><br>全属性加8。</font><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+"DOTA_Tooltip_ability_Shop_sendBug_man_5"	"自我抑制的回赠LV5"
+"DOTA_Tooltip_ability_Shop_sendBug_man_5_Description"	"<font color=\"#f0ad4e\">通过献祭出自己的超模套路换取了游戏的平衡，被给予了嘉奖。<br><br>全属性加10。</font><font color=\"#f0ad4e\"><br></font><br>输入（-sethide1）可隐藏状态<font color=\"#f0ad4e\"><br></font>"
+
+
+
+"DOTA_Tooltip_ability_core_number_1"	"<font color=\"#f0ad4e\">阿哈利姆的第一原石</font><br>"
+"DOTA_Tooltip_ability_core_number_1_Description"	"可以解锁技能的第一奥义。<br><br>右键锻造，需要局内(7000/13000/19000)金币进行锻造后才能使用<br>每局只能通过锻造获得3次原石成品，所有玩家共享相同次数"
+"DOTA_Tooltip_ability_core_number_2"	"<font color=\"#f0ad4e\">阿哈利姆的第二原石</font><br>"
+"DOTA_Tooltip_ability_core_number_2_Description"	"可以解锁技能的第二奥义。<br><br>右键锻造，需要局内(7000/13000/19000)金币进行锻造后才能使用<br>每局只能通过锻造获得3次原石成品，所有玩家共享相同次数"
+"DOTA_Tooltip_ability_core_number_3"	"<font color=\"#f0ad4e\">阿哈利姆的第三原石</font><br>"
+"DOTA_Tooltip_ability_core_number_3_Description"	"可以解锁技能的第三奥义。<br><br>右键锻造，需要局内(7000/13000/19000)金币进行锻造后才能使用<br>每局只能通过锻造获得3次原石成品，所有玩家共享相同次数"
+"DOTA_Tooltip_ability_Shop_ban_fellOmen"	"强有力的BP手"
+"DOTA_Tooltip_ability_Shop_ban_fellOmen_Description"	"<font color=\"#d9534f\">购买后将生效30天，重复购买将延长,购买的当局无效，需要重新开始比赛。</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">'百相'难度的两种禁用词条机会各增加一，队伍中仅生效一次。</font><br>"
+
+"DOTA_Tooltip_ability_Shop_Refresh_Chaoticera_spell"	"快而准的RE手"
+"DOTA_Tooltip_ability_Shop_Refresh_Chaoticera_spell_Description"	"<font color=\"#d9534f\">购买后将生效30天，重复购买将延长,购买的当局无效，需要重新开始比赛。</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">'乱纪元'下的免费刷新技能次数加2，可刷新次数加1。</font><br>"
+"DOTA_Tooltip_ability_Shop_artifact_bonus_exp"	"成长之光LV1"
+"DOTA_Tooltip_ability_Shop_artifact_bonus_exp_Description"	"<font color=\"#d9534f\">购买后将生效30天，重复购买将延长，购买的当局无效，需要重新开始。</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">▶乱纪元模式内获得的圣物经验增加40%%，队伍中每多出一个解锁此效果的玩家会使经验加成增加10% [+]</font><br>"
+"DOTA_Tooltip_ability_Shop_artifact_bonus_exp_2"	"成长之光LV2"
+"DOTA_Tooltip_ability_Shop_artifact_bonus_exp_2_Description"	"<font color=\"#d9534f\">购买后将生效30天，重复购买将延长，购买的当局无效，需要重新开始。</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">▶乱纪元模式内获得的圣物经验增加240%%，队伍中每多出一个解锁此效果的玩家会使经验加成增加30% [+]<br><br>▶乱纪元模式内商店刷新物品个数增加1个</font><br>"
+"DOTA_Tooltip_ability_Shop_artifact_bonus_exp_3"	"成长之光LV3"
+"DOTA_Tooltip_ability_Shop_artifact_bonus_exp_3_Description"	"<font color=\"#d9534f\">购买后将生效30天，重复购买将延长，购买的当局无效，需要重新开始。</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">▶乱纪元模式内获得的圣物经验增加920%%，队伍中每多出一个解锁此效果的玩家会使经验加成增加50% [+]<br><br>▶乱纪元模式内商店刷新物品个数增加1个</font><br>"
+
+
+"DOTA_Tooltip_ability_Shop_Fast_learning"	"快速学习"
+"DOTA_Tooltip_ability_Shop_Fast_learning_Description"	"<font color=\"#d9534f\">购买后将生效30天，重复购买将延长。</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">结算时的通用经验奖励增加20%(但不会影响满级技能转换的经验)。</font><br>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_01"	"<font color=\"#5cb85c\">100白金</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_01_Description"	"</font><font color=\"#f0ad4e\">获得</font><font color=\"#337ab7\">100</font><font color=\"#f0ad4e\">白金。</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_02"	"<font color=\"#5cb85c\">200白金</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_02_Description"	"</font><font color=\"#f0ad4e\">获得</font><font color=\"#337ab7\">200</font><font color=\"#f0ad4e\">白金。</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_03"	"<font color=\"#5cb85c\">500白金</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_03_Description"	"</font><font color=\"#f0ad4e\">获得</font><font color=\"#337ab7\">500</font><font color=\"#f0ad4e\">白金。</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_04"	"<font color=\"#5cb85c\">1000白金</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_04_Description"	"</font><font color=\"#f0ad4e\">获得</font><font color=\"#337ab7\">1000</font><font color=\"#f0ad4e\">白金。</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_05"	"<font color=\"#5cb85c\">2000白金</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_05_Description"	"</font><font color=\"#f0ad4e\">获得</font><font color=\"#337ab7\">2000</font><font color=\"#f0ad4e\">白金。</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_06"	"<font color=\"#5cb85c\">4000白金</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_06_Description"	"</font><font color=\"#f0ad4e\">获得</font><font color=\"#337ab7\">4000</font><font color=\"#f0ad4e\">白金。</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_07"	"<font color=\"#5cb85c\">10000白金</font>"
+"DOTA_Tooltip_ability_Exchange_for_platinum_07_Description"	"</font><font color=\"#f0ad4e\">获得</font><font color=\"#337ab7\">10000</font><font color=\"#f0ad4e\">白金。</font>"
+"DOTA_Tooltip_ability_shop_folder_5"	"商城——  其他"
+"DOTA_Tooltip_ability_shop_folder_1"	"商城——  一般"
+"DOTA_Tooltip_ability_shop_folder_2"	"商城——  特权"
+"DOTA_Tooltip_ability_shop_folder_3"	"商城—— 特殊技能"
+"DOTA_Tooltip_ability_shop_folder_4"	"商城——  黑市"
+"DOTA_Tooltip_ability_Shop_Alchemy"	"炼金术"
+"DOTA_Tooltip_ability_Shop_Alchemy_Description"	"<font color=\"#d9534f\">购买后将生效30天，重复购买将延长。</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">结算时的黄金奖励增加20%。</font><br>"
+"DOTA_Tooltip_ability_Shop_Metallurgy"	"冶金术"
+"DOTA_Tooltip_ability_Shop_Metallurgy_Description"	"<font color=\"#d9534f\">购买后将生效30天，重复购买将延长。</font><font color=\"#5bc0de\"><br></font><font color=\"#f0ad4e\">额外增加一个回合道具结算选项，将在其他几项中随机抽选（但有一定几率随机出相同的物品）。</font>"
+"DOTA_Tooltip_ability_Shop_Metallurgy_2"	"冶金术·永久"
+"DOTA_Tooltip_ability_Shop_Metallurgy_2_Description"	"<font color=\"#f0ad4e\">额外增加一个回合道具结算选项，将在其他几项中随机抽选（但有一定几率随机出相同的物品）。</font>"
+
+
+
+"DOTA_Tooltip_ability_Shop_king_of_translation"	"翻译之神，不眠者，连接世界之人"
+"DOTA_Tooltip_ability_Shop_king_of_translation_Description"	"<br><font color=\"#f0ad4e\">INT 20+wave</font><br><font color=\"#f0ad4e\">STR 20+wave</font><br><font color=\"#f0ad4e\">AGI 20+wave</font><br><font color=\"#f0ad4e\">Damage lifesteal 10％</font><br><font color=\"#f0ad4e\">Magic crit 200％    （20％）</font><br><font color=\"#f0ad4e\">ability enhancement  20％+wave</font><br><font color=\"#f0ad4e\">magic resist 25％</font><br><font color=\"#f0ad4e\">cooldown abilities  20％</font><br><font color=\"#f0ad4e\">Mana regen +10+wave*0.5</font><br><font color=\"#f0ad4e\">HP Regen +  30+wave</font><br><font color=\"#f0ad4e\">HP 1300</font><br><font color=\"#f0ad4e\">waves end bonus gold： +15％</font><br><font color=\"#f0ad4e\">armor  +10</font><br><font color=\"#f0ad4e\">movement speed +50  +10％</font><br><font color=\"#f0ad4e\">ability range 400</font><br><font color=\"#f0ad4e\">levelup when even rounds</font>"
+
+
+
+
+"DOTA_HUD_CheckTalentMarket"  "老玩家可以直接购买英雄天赋，但注意，此处出售的天赋比黑市中的天赋贵一些，所以除非你真的很急，还是去等黑市比较好。"
+
+
+"DOTA_Tooltip_ability_buy_rune_level1"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_level1_Description"	"随机抽取20个符石。<br>产出几率分布：<br><font color=\"#8bb6ff\">稀有</font>-57%<br><font color=\"#c092fd\">神话</font>-32%<br><font color=\"#f0ad4e\">不朽</font>-11%<br><br><font color=\"#f0ad4e\">至少会获得2个不朽符石</font><br>等级：一环</font>"
+
+
+
+"DOTA_Tooltip_ability_buy_rune_level2"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_level2_Description"	"随机抽取20个符石。<br>产出几率分布：<br><font color=\"#8bb6ff\">稀有</font>-57%<br><font color=\"#c092fd\">神话</font>-32%<br><font color=\"#f0ad4e\">不朽</font>-11%<br><br><font color=\"#f0ad4e\">至少会获得2个不朽符石</font><br>等级：二环</font>"
+"DOTA_Tooltip_ability_buy_rune_level3"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_level3_Description"	"随机抽取20个符石。<br>产出几率分布：<br><font color=\"#8bb6ff\">稀有</font>-57%<br><font color=\"#c092fd\">神话</font>-32%<br><font color=\"#f0ad4e\">不朽</font>-11%<br><br><font color=\"#f0ad4e\">至少会获得2个不朽符石</font><br>等级：三环</font>"
+
+"DOTA_Tooltip_ability_buy_rune_level4"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_level4_Description"	"随机抽取20个符石。<br>产出几率分布：<br><font color=\"#8bb6ff\">稀有</font>-57%<br><font color=\"#c092fd\">神话</font>-32%<br><font color=\"#f0ad4e\">不朽</font>-11%<br><br><font color=\"#f0ad4e\">至少会获得2个不朽符石</font><br>等级：四环</font>"
+
+"DOTA_Tooltip_ability_buy_rune_level5"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_level5_Description"	"随机抽取20个符石。<br>产出几率分布：<br><font color=\"#8bb6ff\">稀有</font>-57%<br><font color=\"#c092fd\">神话</font>-32%<br><font color=\"#f0ad4e\">不朽</font>-11%<br><br><font color=\"#f0ad4e\">至少会获得2个不朽符石</font><br>等级：五环</font>"
+
+"DOTA_Tooltip_ability_buy_rune_level6"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_level6_Description"	"随机抽取20个符石。<br>产出几率分布：<br><font color=\"#8bb6ff\">稀有</font>-57%<br><font color=\"#c092fd\">神话</font>-32%<br><font color=\"#f0ad4e\">不朽</font>-11%<br><br><font color=\"#f0ad4e\">至少会获得2个不朽符石</font><br>等级：六环</font>"
+
+"DOTA_Tooltip_ability_buy_rune_level7"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_level7_Description"	"随机抽取20个符石。<br>产出几率分布：<br><font color=\"#8bb6ff\">稀有</font>-57%<br><font color=\"#c092fd\">神话</font>-32%<br><font color=\"#f0ad4e\">不朽</font>-11%<br><br><font color=\"#f0ad4e\">至少会获得2个不朽符石</font><br>等级：七环</font>"
+"DOTA_Tooltip_ability_buy_rune_level8"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_level8_Description"	"随机抽取20个符石。<br>产出几率分布：<br><font color=\"#8bb6ff\">稀有</font>-57%<br><font color=\"#c092fd\">神话</font>-32%<br><font color=\"#f0ad4e\">不朽</font>-11%<br><br><font color=\"#f0ad4e\">至少会获得2个不朽符石</font><br>等级：八环</font>"
+"DOTA_Tooltip_ability_buy_rune_level9"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_level9_Description"	"随机抽取20个符石。<br>产出几率分布：<br><font color=\"#8bb6ff\">稀有</font>-57%<br><font color=\"#c092fd\">神话</font>-32%<br><font color=\"#f0ad4e\">不朽</font>-11%<br><br><font color=\"#f0ad4e\">至少会获得2个不朽符石</font><br>等级：九环</font>"
+
+
+
+"DOTA_Tooltip_ability_buy_rune_target"	"符石原石"
+"DOTA_Tooltip_ability_buy_rune_target_Description"	"<font color=\"#8bb6ff\">花费500白金抽选定向符石。</font><br>随机抽取5个符石。<br>产出几率分布：<br><font color=\"#c092fd\">神话</font>-80%<br><font color=\"#f0ad4e\">不朽</font>-20%<br><br><font color=\"#f0ad4e\">至少会获得1个不朽符石</font>"
+
+

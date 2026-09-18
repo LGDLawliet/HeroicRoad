@@ -1,0 +1,238 @@
+
+
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Bad_1"	"<font color=\"#f0ad4e\">The 1st Fell Omen:the sword soul of Onyx</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_1_Description"	"Type: Gain<br><br>Description: The creatures will add some attack damage.<br><br>Value= Base attack damage*(%bonus%+%bonus_stack%*Y)%%<br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_1_Lore"	"The great demon Onyx, known as the pinnacle of martial arts, has mastered the use of countless weapons, and it is rumored that there are spirits lodged in the weapons he has used."
+"DOTA_Tooltip_ability_FellOmen_Bad_2"	"<font color=\"#f0ad4e\">The 2nd Fell Omen: Scorched Earth Demon's Zeal</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_2_Lore"	"The demon of fire from hell will bring the flames to earth, burning everything in its path."
+"DOTA_Tooltip_ability_FellOmen_Bad_2_Description"	"Type: Gain<br><br>Description: The creatures gain bonus magic resistance in daylight.(Max Value=50%%)<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_3"	"<font color=\"#f0ad4e\">The 3rd Fell Omen:Eating the Same Race</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_3_Lore"	"Demons yearn to be strong, and the strongest demons often absorb the energy of countless others, and are said to be at the top of the existence known as the 'Ten Blades'."
+"DOTA_Tooltip_ability_FellOmen_Bad_3_Description"	"Type: Gain<br><br>Description: After the creatures dies, it will be consumed by random allies within 1500 . A certain percentage of its health, attack damage and aromor will be inherited.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br>Y =Additional half omen(The black numbers)"
+
+"DOTA_Tooltip_ability_FellOmen_Bad_4"	"<font color=\"#f0ad4e\">The 4th Fell Omen: The thirst of bloodthirsty demons</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_4_Description"	"Type: Gain<br><br>Description: The creatures gain an attack speed bonus when attacking enemies with low health.<br><br>Value =  (1-target health percentage)*(%bonus%+%bonus_stack%*Y)<br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_4_Lore"	"The most brutal creatures are often bloodthirsty demons, chasing down any wounded prey."
+"DOTA_Tooltip_ability_FellOmen_Bad_5"	"<font color=\"#f0ad4e\">The 5th Fell Omen: the brain worms queen's echoes</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_5_Description"	"Type: Gain<br><br>Description: The creatures will silence and break attackers for a while when killed.(max duration=3 seconds)<br><br>Value =  (%bonus%+%bonus_stack%*Y)<br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_5_Lore"	"The brainworm queen of the ancient mythical monsters sent out brainwaves that still travel through certain regions and make the poor creatures loyal to their long-extinct selves. The heroes thought the brainworm was long extinct, but evidence of its existence is being found all over the continent."
+"DOTA_Tooltip_ability_FellOmen_Bad_6"	"<font color=\"#f0ad4e\">The 6th Fell Omen: Dead link</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_6_Description"	"Type: Gain<br><br>Description: The creatures has a 5%% chance every 10 seconds to link up with the strongest enemy within 1000 range and transfer part of its damage to the target. The link duration for 5 seconds, and the damage is removed after the status ends. If the target magic resistance or itself dies, it will be invalid.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_6_Lore"	"Death sometimes favor those who are more powerful"
+
+"DOTA_Tooltip_ability_FellOmen_Bad_7"	"<font color=\"#f0ad4e\">The 7th Fell Omen: The Ancient Stone man</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_7_Description"	"Type: Gain<br><br>Description: Creatures can gain armor and magic resistance, when the health is less than 15%%.(Most elite monsters and bosses will not inherit this effect,max magic resistance = 70%%)<br><br>Value 1= (%bonus%+%bonus_stack%*Y)%%<br>Value 2= (%bonus2%+%bonus_stack2%*Y)%% <br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_7_Lore"	"The stone man is the product of daylight, after absorbing the essence of sunlight for ten thousand years, the stone will give birth to a soul."
+"DOTA_Tooltip_ability_FellOmen_Bad_8"	"<font color=\"#f0ad4e\">The 8th Fell Omen: Nightmare</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_8_Description"	"Type: Inhibition<br><br>Description: All hero initial status resistances are reduced.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%% <br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_8_Lore"	"Whenever night comes, the dream demons will eat the people's sweet dreams everywhere and turn them into terrible nightmares for the poor sleeping men"
+"DOTA_Tooltip_ability_FellOmen_Bad_9"	"<font color=\"#f0ad4e\">The 9th Fell Omen: Sticky oil</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_9_Description"	"Type: Inhibition<br><br>Description: The creatures dies it leaves behind a sticky oil that reduces the movement speed and attack speed of enemies within 500 radius , stacks Independence for 6 seconds, and is only affected by status resistances.<br><br>Value 1= (%bonus%+%bonus_stack%*Y)%%<br>Value 2= (%bonus2%+%bonus_stack2%*Y) <br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_9_Lore"	"Those disgusting, slippery things are definitely the enemy you don't want to meet"
+"DOTA_Tooltip_ability_FellOmen_Bad_10"	"<font color=\"#f0ad4e\">The 10th Fell Omen: Feast</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_10_Description"	"Type: Inhibition<br><br>Description: When a creatures dies will restores the  health of a random ally within 600 radius that does not have full health, and is considered a heal.<br><br>Value =  Victim max health*(%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_10_Lore"	"Even if you die, you have to die worthy and make contributions to other demon armies."
+"DOTA_Tooltip_ability_FellOmen_Bad_11"	"<font color=\"#f0ad4e\">The 11th Fell Omen: Fractal</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_11_Description"	"Type: Transformation<br><br>Description: When creeps death, the primary attribute of the attacker will be reduced by 5, and 80%% will be converted into secondary attributes. It will be fixed for a period of time. When the primary attribute is lower than 5, it will not take effect.<br><br>Value = (%bonus%+%bonus_stack%*Y) seconds<br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_11_Lore"	"Fractal and unity, unity but pleomorphism."
+"DOTA_Tooltip_ability_FellOmen_Bad_12"	"<font color=\"#f0ad4e\">The 12th Fell Omen: Enchanted</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_12_Description"	"Type: Inhibition<br><br>Description: After the newborn creeps dies, it will curse the attacker. Each spell cast by the attacker will reduce his own spell damage for 15 seconds. Affected by status resistance.<br><br>Value = (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_12_Lore"	"The spirit of the nether world yearns for magic. When magic comes into being, they will catch it before it gathers."
+"DOTA_Tooltip_ability_FellOmen_Bad_13"	"<font color=\"#f0ad4e\">The 13th Fell Omen: Game Theory</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_13_Description"	"Type: Inhibition<br><br>Description: When a newborn creep attacks the enemy, if its own HP is greater than 50%% and the target's HP and percentage of HP are lower than itself, it will consume 1%% of HP and make the target lose 1 point of all attributes for a period of time.(Most elite monsters and bosses will not inherit this effect)<br><br>Value = (%bonus%+%bonus_stack%*Y) seconds<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_13_Lore"	"Game theory, is not only a new branch of modern mathematics, but also an important subject of operational research."
+"DOTA_Tooltip_ability_FellOmen_Bad_14"	"<font color=\"#f0ad4e\">The 14th Fell Omen: Glaives of Wisdom</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_14_Description"	"Type: Inhibition<br><br>Description: When a newborn creep attacks a hero, it has a certain chance to steal 1 point of intelligence from the target and permanently increase its own spell damage by 0.2%%. The lost intelligence will be returned in 80 seconds. Affected by state resistance and negative state gain.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_14_Lore"	"No matter how smart a person is, he will be speechless when he meets Nortrom."
+"DOTA_Tooltip_ability_FellOmen_Bad_15"	"<font color=\"#f0ad4e\">The 15th Fell Omen: I'm angry</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_15_Description"	"Type: Gain<br><br>Description: When the creep dies, it will shout loudly, which will increase 20%% movement speed and 20 attack speed of allies within 300 radius. It can be stacked for a period of time.<br><br>Value =  (%bonus%+%bonus_stack%*Y) seconds <br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_15_Lore"	"How dare you kill me? Then bear the anger of my teammates!"
+"DOTA_Tooltip_ability_FellOmen_Bad_16"	"<font color=\"#f0ad4e\">The 16th Fell Omen: Mana Void</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_16_Description"	"Type: Inhibition<br><br>Description: When the creep dies, it will attach a mark to the killer. The mark will exist for a period of time. If the killer cast a spell during the mark duration, the caster will lose extra = spell's mana cost * (mark stack *0.1) , and receive the same amount of damage. Affected by state resistance.<br><br>Value =  (%bonus%+%bonus_stack%*Y) seconds <br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_16_Lore"	"Magic is like a black hole, which absorbs countless mana."
+"DOTA_Tooltip_ability_FellOmen_Bad_17"	"<font color=\"#f0ad4e\">The 17th Fell Omen: ：Infest</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_17_Description"	"Type: Gain<br><br>Description: Every 10 seconds after birth, creep has a certain chance to hide in a friendly army within the surrounding 500 range, which will enable the allies to break through the limit of movement speed and gain a 30%% movement speed bonus and a basic attack damage bonus equal to its own attack damage. A creep can be infected by multiple friendly forces at the same time, but the infected units cannot infecte others.（Most of the elite creeps and Boss will not inherit this effect）<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_17_Lore"	"parasitism parasitism parasitism……"
+"DOTA_Tooltip_ability_FellOmen_Bad_18"	"<font color=\"#f0ad4e\">The 18th Fell Omen: Duel</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_18_Description"	"Type: Gain<br><br>Description: Enemies attacked by wild creeps must damage the attacker with damage greater than 10 in 6 seconds, otherwise the creeps will permanently increase certain additional attack damage. Can be stacked.<br>（Most of the elite creeps and Boss will only inherit 30%% of this effect）<br><br>Value =  Base Attack Damage *(%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_18_Lore"	"Come and fight me, coward!"
+"DOTA_Tooltip_ability_FellOmen_Bad_19"	"<font color=\"#f0ad4e\">The 19th Fell Omen: Slow</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_19_Description"	"Type: Inhibition<br><br>Description: The cooldown duration of the 'Stride' wull increase.（After constant reduction）<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_19_Lore"	"Pedestrians passing,  moving slowly."
+"DOTA_Tooltip_ability_FellOmen_Bad_20"	"<font color=\"#f0ad4e\">The 20th Fell Omen: Hand knife</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_20_Description"	"Type: Gain<br><br>Description: If the creep is behind the target when attacking, there is a certain chance that it can cause stun for 0.2 seconds. (affected by state resistance and negative state gain)<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_20_Lore"	"With a thud, the enemy fell."
+"DOTA_Tooltip_ability_FellOmen_Bad_21"	"<font color=\"#f0ad4e\">The 21th Fell Omen: Stone Throw</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Bad_21_Description"	"Type: Damage<br><br>Description: Giant gorem in another world will continuously throw rocks with an action range of 300 towards the battlefield, causing a certain percentage of pure damage and 1.5 seconds' stun to the hit enemy. (affected by state resistance), the stone will target a random point within 1000 around the random hero. If the number of players is greater than 4, two stones will be thrown.<br><br>Interval=(%bonus%-%bonus_stack%*Y) seconds (min=7)<br>Value =  (%bonus2%+%bonus_stack2%*Y)%%（max=50%%）<br><br><br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Bad_21_Lore"	"The small stones in the past have become huge mountains."
+
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_1"	"<font color=\"#f0ad4e\">The 1st Favorable Omen: The Eye of Moula</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_1_Description"	"Type: Gain<br><br>Description: Attack with additional damage every 5 seconds(Affected by hero's cooldown reduction)<br><br>Value =   total attack damage*(%bonus%+%bonus_stack%*Y)%%<br><br>Summoned creatures Inheritance probability= cooldown time/%summon_index%*100%%"
+"DOTA_Tooltip_ability_FellOmen_Good_1_Lore"	"The secret Valkyrie can see through all the flaws at a glance."
+"DOTA_Tooltip_ability_FellOmen_Good_2"	"<font color=\"#f0ad4e\">The 2nd Favorable Omen: Fool's appearance</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_2_Description"	"Type: Gain<br><br>Description: Increase the hero's all attributes<br><br>Value =  (%bonus%+%bonus_stack%*Y)<br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Good_2_Lore"	"Known as the 'symbol of stupidity', even if most of the time is a drag, in some moments may also lead the team to victory"
+"DOTA_Tooltip_ability_FellOmen_Good_3"	"<font color=\"#f0ad4e\">The 3rd Favorable Omen: Unfailing Fortress</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_3_Description"	"Type: Gain<br><br>Description: Hero can provide defense bonus to allies within 500 radius when hero not moving.<br><br>Value =  (%bonus%+%bonus_stack%*Y)<br>Y =Additional half omen(The black numbers)"
+"DOTA_Tooltip_ability_FellOmen_Good_3_Lore"	"Standing like a mountain, unfailing like a fortress."
+"DOTA_Tooltip_ability_FellOmen_Good_4"	"<font color=\"#f0ad4e\">The 4th Favorable Omen: Blood Blessing</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_4_Description"	"Type: Gain<br><br>Description:  Increase health regen.<br><br>Value =  hero's STR *(%bonus%+%bonus_stack%*Y)%%<br>Y =Additional half omen(The black numbers)<br><br>Summoned creatures Inheritance probability= cooldown time/%summon_index%*100%%<br>(Summons inherit hero's strength)"
+"DOTA_Tooltip_ability_FellOmen_Good_4_Lore"	"The blood of the dragon from the top of the ancient dragon, gave a little power to the prosperity of life"
+"DOTA_Tooltip_ability_FellOmen_Good_5"	"<font color=\"#f0ad4e\">The 5th Favorable Omen: SleepingDragon the WoLong</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_5_Description"	"Type: Gain<br><br>Description: Gain Cooldown Reduction.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br>Y =Additional half omen(The black numbers)<br><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_5_Lore"	"make three calls at the thatched cottage wronged the heroes, but in exchange for generosity, Wolong risen from Nanyang's"
+"DOTA_Tooltip_ability_FellOmen_Good_6"	"<font color=\"#f0ad4e\">The 6th Favorable Omen: Phoenix the FengChu</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_6_Description"	"Type: Gain<br><br>Description: When below 50%% of heal, chance to restore health every second, 30 seconds cooldown.(Affected by hero's cooldown reduction)<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br>Value = Max Health* (%bonus2%+%bonus_stack2%*Y)%%<br>Y =Additional half omen(The black numbers)<br><br>Summoned creatures Inheritance probability= cooldown time/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_6_Lore"	"庞士元非百里才也, 使处治中、别驾之任, 始当展其骥足耳."
+"DOTA_Tooltip_ability_FellOmen_Good_7"	"<font color=\"#f0ad4e\">The 7th Favorable Omen: Spirit Blade</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_7_Description"	"Type: Gain<br><br>Description: The attack range increased by a certain percentage.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>Summoned creatures Inheritance probability= cooldown time/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_7_Lore"	"To understand the secrets of the sanctuary, only the inheritance of those who have understood"
+"DOTA_Tooltip_ability_FellOmen_Good_8"	"<font color=\"#f0ad4e\">The 8th Favorable Omen: Soul Awakens</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_8_Description"	"Type: Gain<br><br>Description: Gain a certain attribute increase at the beginning of each round.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_8_Lore"	"Elder Titan gods left many artifacts at the beginning of the creation of the world, some of which can even strengthen the soul of creatures"
+"DOTA_Tooltip_ability_FellOmen_Good_9"	"<font color=\"#f0ad4e\">The 9th Favorable Omen: The Dark Fear's Chronosphere</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_9_Description"	"Type: Inhibition<br><br>Description: The creatures increase a certain cooldown reduction.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_9_Lore"	"The Chronosphere created by Faceless Void can slow or even pause the flow of time, which can be terrifying as an enemy"
+"DOTA_Tooltip_ability_FellOmen_Good_10"	"<font color=\"#f0ad4e\">The 10th Favorable Omen: The Power of Echo</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_10_Description"	"Type: Gain<br><br>Description: Gain attack damage.<br><br>Value =  total attack damage*(%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>Summoned creatures Inheritance probability= cooldown time/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_10_Lore"	"The echo is spreading, the power is shaking."
+
+
+
+"DOTA_Tooltip_ability_FellOmen_Good_11"	"<font color=\"#f0ad4e\">The 11th Favorable Omen：Back to the past</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_11_Description"	"Type: Gain<br><br>Description: When receiving lethal damage, you can be immune to this damage, and briefly enter the 0.5 seconds invincible time to transfer to a position 800 away. There is a certain cooldown time. (minimum cooling time is 7 seconds)<br><br>Value =  (%bonus%-%bonus_stack%*Y) seconds <br><br>Y =Additional half omen(The black numbers)<br>Summoned creatures Inheritance probability= cooldown time/%summon_index%*100%%<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_11_Lore"	"From the inheritance of Darkterror, perhaps one day, the Faceless Void using by Ame will win the Ti at a certain point in time."
+"DOTA_Tooltip_ability_FellOmen_Good_12"	"<font color=\"#f0ad4e\">The 12th Favorable Omen：Explorer</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_12_Description"	"Type: Gain<br><br>Description: There is a certain chance to make the item reward option of settlement and treasure chest +1 (it is worth mentioning that re randomization will not retain additional options and will only be effective after entering the first round of battle)<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_12_Lore"	"What every Explorer is looking for, some are fame and wealth, some are the excitement of adventure, and some are treasures."
+
+"DOTA_Tooltip_ability_FellOmen_Good_13"	"<font color=\"#f0ad4e\">The 13th Favorable Omen：Reward of warriors</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_13_Description"	"Type: Gain<br><br>Description:The reliable experience and auraum bonus during game settlement will increase by a certain proportion.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_13_Lore"	"Maybe you won't be able to reach the top, but at least your efforts won't betray you."
+"DOTA_Tooltip_ability_FellOmen_Good_14"	"<font color=\"#f0ad4e\">The 14th Favorable Omen：Arcane Supremacy</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_14_Description"	"Type: Gain<br><br>Description: Cast range and spell damage will increase by a certain proportion.<br><br>Value 1= (%bonus%+%bonus_stack%*Y)<br>Value 2= (%bonus2%+%bonus_stack2%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_14_Lore"	"Rubick can learn other unit's skills, and you can do the same in this game. What you need to do is to find the best combination for you."
+"DOTA_Tooltip_ability_FellOmen_Good_15"	"<font color=\"#f0ad4e\">The 15th Favorable Omen：Opportunity</font><br>"
+"DOTA_Tooltip_ability_FellOmen_Good_15_Description"	"Type: Gain<br><br>Description: Probability event trigger probability increases by a certain percentage.<br><br>Value =  (%bonus%+%bonus_stack%*Y)%%<br><br>Y =Additional half omen(The black numbers)<br>"
+"DOTA_Tooltip_ability_FellOmen_Good_15_Lore"	"Knowing when to give or take your hand can greatly affect your destiny."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_HUD_Ban_Info"                   "<br>When the class of Omen (de)buffs is greater than 2, you can ban one of them, and the level of the which u baned will be divided equally among others.(+2 correction for bad fellOmen and +1 for good fellOmen)；<br><br><font color=\"#f0ad4e\">This operation can only be carried out before the first round. All players share the same fellOmen (de)buffs and the same ban opportunity.</font>"
+"DOTA_HUD_Ban_Info_confirm"           "Are you sure you want to ban this Omen class?"
+"DOTA_HUD_Ban_failed_No_Chance"           "There are no opportunities left to ban this Omen class"
+"DOTA_HUD_Ban_failed_toomuch"           "The number of this Omen class is already the minimum"
+"DOTA_HUD_Ban_failed_into_battle"           "It is no longer in the preparation stage"
+"DOTA_HUD_Bonus_Attributes_failed_die"           "Property assignment cannot be set on death"
+"DOTA_HUD_Spells_Menu_level"                   "Ability Level"
+"DOTA_HUD_Player_Ban_Info"                   "{s:player_name} ban a Omen: <font color=\"#f0ad4e\">{s:ability_name}</font>"
+"DOTA_HUD_FellOmen_Bonus_Attributes"           "Bonus Attributes Allocation"
+"DOTA_HUD_FellOmen_Send_Bonus_Attributes"           "Submit"
+"DOTA_HUD_FellOmen_Send_Bonus_Attributes_failed"           "You need to assign all points"
+"DOTA_HUD_FellOmen_Send_Bonus_Attributes_failed2"           "The number of points allocated exceeds the assignable value"
+"DOTA_HUD_FellOmen_Send_Bonus_Attributes_success"                   "  {s:player_name} finished the bonus attributes allocation "
+
+
+
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_str"           "Strength"
+"DOTA_HUD_FellOmen_Bonus_Attributes_agi"           "Agility"
+"DOTA_HUD_FellOmen_Bonus_Attributes_int"           "Intelligence"
+"DOTA_HUD_FellOmen_Bonus_Attributes_spell_damage"           "Spell Damage (%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_health"           "Health"
+"DOTA_HUD_FellOmen_Bonus_Attributes_mana"           "Mana"
+"DOTA_HUD_FellOmen_Bonus_Attributes_armor"           "Armor"
+"DOTA_HUD_FellOmen_Bonus_Attributes_attack_damage"           "Base Attack Damage"
+"DOTA_HUD_FellOmen_Bonus_Attributes_summon_intensity"           "Summoning Intensity (%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_status_resistance"           "Status Resistance (%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_HeallGain"           "Healing Boost (%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_HeallReceiveGain"           "Received Healing Boost (%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_LifeStealGain"           "Life Steal Boost (%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_StatusNegativeGain"           "Negative Status Duration (%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_StatusGain"           "Positive Status Duration (%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_ability_point"           "Ability Points"
+"DOTA_HUD_FellOmen_Bonus_Attributes_outgoing"           "Increased Damage (%)"
+"DOTA_HUD_FellOmen_Bonus_Attributes_incoming"           "Damage Reduction (%)"
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_point_cost"           "COST: {s:point}"
+"DOTA_HUD_FellOmen_Bonus_Attributes_point"           "Remaining points: {s:point}"
+"DOTA_HUD_FellOmen_Bonus_Attributes_description"           "Initially obtain attribute points = ( layers*2+5), and you can freely assign attributes. The number of attribute points consumed varies according to different attributes, the number of attribute points cost is taken upward"
+"DOTA_Tooltip_modifier_FellOmen_Bad_6_effect"                   "Dead link"
+"DOTA_Tooltip_modifier_FellOmen_Bad_6_effect_Description"       "record taken damage" 
+
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_9_effect"                   "Sticky oil"
+"DOTA_Tooltip_modifier_FellOmen_Bad_9_effect_Description"       "reduce move speed and attack speed" 
+"DOTA_Tooltip_modifier_FellOmen_Good_6"                   "FengChu"
+"DOTA_Tooltip_modifier_FellOmen_Good_6_Description"       "Gain health regen" 
+
+"DOTA_Tooltip_modifier_FellOmen_Good_1"                   "The Eye of Moula"
+"DOTA_Tooltip_modifier_FellOmen_Good_1_Description"       "increase attack damage" 
+
+"DOTA_Tooltip_modifier_FellOmen_Good_4"                   "Blood Blessing"
+"DOTA_Tooltip_modifier_FellOmen_Good_4_Description"       "Increase health regen" 
+"DOTA_Tooltip_modifier_FellOmen_Good_7"                   "Spirit Blade"
+"DOTA_Tooltip_modifier_FellOmen_Good_7_Description"       "increase attack range bonus" 
+"DOTA_Tooltip_modifier_FellOmen_Good_8"                   "Soul Awakens"
+"DOTA_Tooltip_modifier_FellOmen_Good_8_Description"       "increase all attributes" 
+
+"DOTA_Tooltip_modifier_FellOmen_Good_10"                   "The Power of Echo"
+"DOTA_Tooltip_modifier_FellOmen_Good_10_Description"       "increase attack damage" 
+
+"DOTA_Tooltip_modifier_FellOmen_Good_3_effect"                   "Unfailing Fortress"
+"DOTA_Tooltip_modifier_FellOmen_Good_3_effect_Description"       "increase armor" 
+
+
+"DOTA_Tooltip_modifier_fellOmen_bonus_attributes"                   "Bonus Attribute"
+"DOTA_Tooltip_modifier_fellOmen_bonus_attributes_Description"       "Gain attributes: <br>%dMODIFIER_PROPERTY_TOOLTIP% STR<br>%dMODIFIER_PROPERTY_TOOLTIP% AGI<br>%dMODIFIER_PROPERTY_TOOLTIP% INT<br>%dMODIFIER_PROPERTY_TOOLTIP% HP<br>%dMODIFIER_PROPERTY_TOOLTIP% MP<br>%dMODIFIER_PROPERTY_TOOLTIP% ARMOR<br>%dMODIFIER_PROPERTY_TOOLTIP% DPS<br>%dMODIFIER_PROPERTY_TOOLTIP%%% SPELL DAMAGE" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_12_debuff"                   "Enchanted"
+"DOTA_Tooltip_modifier_FellOmen_Bad_12_debuff_Description"       "Reduce spell damage when cast a spell" 
+"DOTA_Tooltip_modifier_FellOmen_Bad_13_debuff"                   "Theory"
+"DOTA_Tooltip_modifier_FellOmen_Bad_13_debuff_Description"       "Reduce all attributes" 
+
+
+"DOTA_Tooltip_modifier_FellOmen_Good_11"                   "Back to the past"
+"DOTA_Tooltip_modifier_FellOmen_Good_11_Description"       "When receiving fatal damage, avoid damage and move to a random position" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_buff"                   "Glaives of Wisdom"
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_buff_effect_Description"       "Increase spell damage" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_debuff"                   "Glaives of Wisdom"
+"DOTA_Tooltip_modifier_FellOmen_Bad_14_debuff_Description"       "reduce INT" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_15_effect"                   "I'm angry"
+"DOTA_Tooltip_modifier_FellOmen_Bad_15_effect_Description"       "Increase attack speed and move speed" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_16_effect"                   "Mana Void"
+"DOTA_Tooltip_modifier_FellOmen_Bad_16_effect_Description"       "will be backfired when using spells" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_17_infest_effect"                   "Infested"
+"DOTA_Tooltip_modifier_FellOmen_Bad_17_infest_effect_Description"       "Parasitized by some kind of organism" 
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_effect"                   "Duel"
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_effect_Description"       "Fight with me!" 
+
+
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_buff"                   "Duel"
+"DOTA_Tooltip_modifier_FellOmen_Bad_18_buff_Description"       "Increase attack damage" 
+
+
+

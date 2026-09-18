@@ -1,0 +1,207 @@
+
+This article relates to the game "Dota 2". Click here for more information.
+ 
+This article relates to the SDK/Workshop Tools for "Dota 2 Workshop Tools". Click here for more information.
+ 
+This article's documentation is for Source 2. Click here for more information.
+Panels
+< Dota 2 Workshop Tools‎ | Panorama
+Jump to navigationJump to search
+An partial list of panel that can be used in Panorama UIs.
+
+You can also use the Panorama Debugger to inspect any existing Panorama UI to see how it was built.
+
+You can also see the Javascript API:Javascript API to learn how to control these elements.
+
+
+Contents
+1	Panel
+2	Button
+3	Image
+4	Label
+5	TextEntry
+6	DropDown
+7	ToggleButton
+8	RadioButton
+9	DOTAHeroImage
+10	DOTAAvatarImage
+11	DOTAItemImage
+12	DOTAAbilityImage
+13	DOTAUserName
+Panel
+An empty panel. Generally used for hierarchy, layout, or borders. Similar to an HTML 'div'.
+
+It's important to note that the top level Panel in your XML file CANNOT have an id; it must be a class in order to render properly.
+
+Button
+A button. Doesn't have any visual elements itself - add child Label or Image, or provide visuals using a CSS background.
+
+Example:
+
+<Button id="ShuffleTeamAssignmentButton" onactivate="OnShufflePlayersPressed()">
+	<Label text="#custom_game_team_select_shuffle" />
+	<Image src="file://{images}/control_icons/shuffle.psd" />
+</Button>
+Image
+An image. Supports the same file formats that engine textures do. (PNG, PSD, TGA, etc.)
+
+Example:
+
+<Image src="file://{images}/custom_game/my_image.png" />
+Note:
+Images live in content folder and are automatically compiled to VTEX_C files in the game tree, so in the example above your PNG should live here: content/dota_addons/ADDON_NAME/panorama/images/my_image.png
+Images also support several different scaling methods that determine how the image content is positioned and sized within the panel's bounds:
+
+none
+stretch (the default)
+stretchx
+stretchy
+stretch-to-fit-preserve-aspect
+stretch-to-fit-x-preserve-aspect
+stretch-to-fit-y-preserve-aspect
+stretch-to-cover-preserve-aspect
+Example:
+
+<Image src="file://{images}/custom_game/my_image.png" scaling="stretch-to-fit-preserve-aspect" />
+Label
+Text. Supports plain text or HTML. It is highly recommended to place all strings in a localization file so that they can be translated into multiple languages. See the Localization page for details.
+
+Example:
+
+<Label text="Hello world!" />
+HTML labels support a number of inline tags. Supported attributes include:
+
+<b>Bold</b>
+<i>Italics</i>
+<em>Emphasis</em>
+<strong>Strong</strong>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<br> - newline
+<p> - new paragraph
+<li>List Item</li>
+<a>Anchor</a> - supports several attributes. Theses attributes can be a website link (e.g. "http://www.example.com"), a panorama event (e.g. "event:AddStyle( MyCustomClass )"), or a javascript function (e.g. "javascript:DoSomething()".
+href - triggered on clicking the anchor
+onmouseover - triggered on mousing over the anchor
+onmouseout - triggered on mousing off of the anchor
+oncontextmenu - triggered on right clicking the anchor
+<img src="file://{images}/custom_game/my_image.png">
+<span class="MyCustomClass">Some Text<span> - preferred way to have different formatting on text ranges within a label. The class referenced is loaded from the CSS file associated with your XML file. You can also place class="MyCustomClass" on the other range tags (e.g. <b>, <i>, <a>)
+<font color="#ff0000">Some Red Text<font> - supported, but generally a better practice to use a span with a class.
+Example:
+
+<Label html="true" text="Click &lt;a href=&quot;http://www.example.com&quot;&gt;here&lt;a&gt;" />
+TextEntry
+A user-editable text box.
+
+Example:
+
+<TextEntry id="MyEntry" maxchars="100" placeholder="Type here..." oninputsubmit="OnSubmitted()" />
+DropDown
+A control to pick among a set of options.
+
+Example:
+
+<DropDown oninputsubmit="OnDropDownChanged()">
+  <Label text="Entry 1" id="entry1"/>
+  <Label text="Entry 2" id="entry2"/>
+  <Label text="Entry 3" id="entry3"/>
+  <Label text="Entry 4" id="entry4"/>
+</DropDown>
+Note:
+Each element in the dropdown must have a unique id.
+ToggleButton
+A button that toggles its selected state on/off when clicked. Often represented as a checkbox.
+
+Example:
+
+<ToggleButton checked="true" text="Checkbox 1" />
+<ToggleButton text="Checkbox 2" />
+RadioButton
+A button is part of a group of buttons, of which only one is active at a time.
+
+Example:
+
+<RadioButton checked="checked" group="Demo" id="Demo1" text="Radio button 1"/>
+<RadioButton group="Demo" id="Demo2" text="Radio button 2"/>
+<RadioButton group="Demo" id="Demo3" text="Radio button 3"/>
+DOTAHeroImage
+A version of the Image control that automatically displays a hero image.
+
+You can control which hero to display by either setting the heroid or heroname property.
+
+There are three styles of hero images that can be picked using the heroimagestyle property:
+
+landscape - 128x72, used in the scoreboard.
+portrait - 71x94, used in the hero selector.
+icon - 32x32, used on the minimap.
+Example:
+
+<DOTAHeroImage heroid="5" />
+<DOTAHeroImage heroname="npc_dota_hero_nevermore" />
+<DOTAHeroImage heroname="npc_dota_hero_pudge" heroimagestyle="portrait" />
+DOTAAvatarImage
+Displays the steam avatar for a user's steamid.
+
+Use steamid="local" to represent the local player, or a full 64-bit steamid to represent any other user.
+
+Example:
+
+<DOTAAvatarImage steamid="local" />
+DOTAItemImage
+Example:
+
+<DOTAItemImage id="myitem" itemname="xxxxitemNamexxx" />
+DOTAAbilityImage
+Example:
+
+<DOTAAbilityImage id="myability" abilityname="xxxxabilityNamexxx" />
+DOTAUserName
+Displays the steam username for a user's steamid.
+
+Use steamid="local" to represent the local player, or a full 64-bit steamid to represent any other user.
+
+Example:
+
+<DOTAUserName steamid="local" />
+Warning: Display title "Panels" overrides earlier display title "Panorama/Panels".
+
+Categories: TODO rewrite lang to LanguageBarDota 2Dota 2 Workshop ToolsSource 2Panorama
+Navigation menu
+Create account
+Log in
+PageDiscussion
+ReadView sourceView history
+
+More
+Search
+Search Valve Developer Community
+Main Page
+Source SDK index
+Recent changes
+Random page
+Workshop
+Half-Life SDK
+Half-Life: Alyx Tools
+Dota 2 Tools
+SteamVR Tools
+Counter-Strike 2 Tools
+Support
+Community portal
+Getting help
+Source SDK FAQ
+Level Design FAQ
+Steam Community
+Source SDK Hub
+Source SDK Discussion
+Steam
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+This page was last edited on 16 December 2022, at 03:02.
+About Valve Developer CommunityTerms of UseThird Party Legal Notices
+Powered by MediaWiki

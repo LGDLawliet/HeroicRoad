@@ -1,0 +1,198 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf60:version{cd92a366-0b0d-4811-a18d-f6d472d19709} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 8
+	m_flConstantRadius = 256.0
+	m_ConstantColor = [ 112, 253, 255, 255 ]
+	m_bShouldSort = false
+	m_nBehaviorVersion = 4
+	m_nFirstMultipleOverride_BackwardCompat = 2
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flEmissionDuration = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 0.5
+			}
+			m_flEmitRate = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1050.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_CreateSequentialPath"
+			m_flNumToAssign = 16.0
+			m_PathParams = 
+			{
+				m_nBulgeControl = 1
+				m_flBulge = 1.0
+				m_nEndControlPointNumber = 1
+			}
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMin = [ 255, 239, 117 ]
+			m_ColorMax = [ 255, 239, 28 ]
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nInputMax = 8
+			m_flOutputMax = 15.0
+			m_flOutputMin = 65.0
+		},
+		{
+			_class = "C_INIT_CreateInEpitrochoid"
+			m_nComponent1 = 1
+			m_nComponent2 = 2
+			m_flRadius1 = 15.0
+			m_flRadius2 = -8.0
+			m_flParticleDensity = 0.1
+			m_bUseCount = true
+			m_bUseLocalCoords = true
+			m_bOffsetExistingPos = true
+		},
+		{
+			_class = "C_INIT_CreateInEpitrochoid"
+			m_flOffset = 8.0
+			m_bOffsetExistingPos = true
+			m_bUseCount = true
+			m_flParticleDensity = 0.2
+			m_flRadius2 = -11.0
+			m_flRadius1 = 45.0
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMax = [ 0.0, 0.0, 256.0 ]
+			m_OffsetMin = [ 0.0, 0.0, 256.0 ]
+		},
+		{
+			_class = "C_INIT_PositionPlaceOnGround"
+			m_flMaxTraceLength = 512.0
+			m_flOffset = 15.0
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nInputMax = 8
+			m_nFieldOutput = 1
+			m_flOutputMin = 0.8
+			m_flOutputMax = 0.5
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_bProportional = true
+			m_OffsetMax = [ 1.0, 1.0, 2.0 ]
+			m_OffsetMin = [ -1.0, -1.0, 0.1 ]
+		},
+		{
+			_class = "C_INIT_VelocityRandom"
+			m_LocalCoordinateSystemSpeedMax = [ 150.0, 180.0, 50.0 ]
+			m_LocalCoordinateSystemSpeedMin = [ -120.0, 80.0, -50.0 ]
+		},
+		{
+			_class = "C_INIT_PositionWarp"
+			m_bUseCount = true
+			m_flWarpTime = 1.0
+			m_vecWarpMin = [ 0.0, 0.0, 0.0 ]
+		},
+		{
+			_class = "C_INIT_PositionWarp"
+			m_bInvertWarp = true
+			m_nControlPointNumber = 1
+			m_vecWarpMin = [ 0.0, 0.0, 0.5 ]
+			m_flWarpTime = 8.0
+			m_bUseCount = true
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+			m_Gravity = [ 0.0, 0.0, -380.0 ]
+		},
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flEndTime = 0.2
+			m_flStartScale = 0.0
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flEndScale = 0.0
+			m_flStartTime = 0.9
+		},
+		{
+			_class = "C_OP_ColorInterpolate"
+			m_flFadeStartTime = 0.5
+			m_ColorFade = [ 86, 73, 58, 255 ]
+		},
+		{
+			_class = "C_OP_DampenToCP"
+			m_flScale = 2.0
+			m_flRange = 250.0
+			m_bDisableOperator = true
+		},
+	]
+	m_Constraints = 
+	[
+		{
+			_class = "C_OP_WorldTraceConstraint"
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderRopes"
+			m_flRadiusScale = 0.5
+			m_flTextureVWorldSize = 100.0
+			m_nMaxTesselation = 5
+			m_nMinTesselation = 5
+			m_vecTexturesInput = 
+			[
+				{
+					m_hTexture = resource:"materials/particle/beam_vine.vtex"
+					m_TextureControls = 
+					{
+						m_flFinalTextureScaleU = 
+						{
+							m_nType = "PF_TYPE_LITERAL"
+							m_flLiteralValue = -1.0
+						}
+					}
+				},
+			]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/talent/treant_3/golden_seed_attachment_leaves.vpcf"
+		},
+	]
+}

@@ -1,0 +1,98 @@
+.BuyBackRoot {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+
+.show{
+    opacity: 1;
+}
+
+#heroBuyBackPanel{
+    height: 10%;
+    width: 50%;
+    margin-right: 50%;
+    margin-top: 5%;
+    border-radius: 4px;
+    align: center top;
+    transition-duration: 1.2s;
+    transition-timing-function: ease-in-out;
+}
+
+
+
+#buyBackButtonRoot{
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+.BuyBackButton_class{
+    width: 50px;
+    height:50px;
+    align: center bottom;
+    /* margin-left: 2.5%; */
+    /* margin-right:5px; */
+    /* margin-top: 10%; */
+    margin-bottom: 50px;
+
+   
+
+    /* box-shadow: fill #00000099 0px 0px 5.5px 2px; */
+    z-index: 0;
+    /* padding: 20px; */
+    border-radius: 50%;
+    transition-property:  brightness;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+
+
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/buyback_icon.png");
+    background-size: 100% 100%;
+    background-position: 50% 80%;
+    /* wash-color:rgba(71, 46, 133, 0.902);  */
+    background-repeat: no-repeat;
+    saturation:0.8;
+
+    animation-name: RequestAnimation;
+    animation-duration: 5.4s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    transition-property: transform,box-shadow,opacity;
+    transition-duration: 0.2s;
+
+}
+
+
+
+.BuyBackButton_class:hover {
+    animation-name: none;
+    box-shadow: rgb(106, 77, 143)0px 0px 15px 0px;
+    brightness: 2.4;
+}
+
+@keyframes 'RequestAnimation' {
+    0% {
+      transform: rotateZ(0deg);
+      box-shadow: rgb(106, 77, 143)0px 0px 5px 0px;
+    }
+    25% {
+        transform: rotateZ(20deg);
+        box-shadow: rgb(106, 77, 143)0px 0px 19px 0px;
+    }
+    50% {
+        transform: rotateZ(0deg);
+        box-shadow: rgb(106, 77, 143)0px 0px 0px 0px;
+    }
+    75% {
+        transform: rotateZ(-20deg);
+        box-shadow: rgb(106, 77, 143)0px 0px 19px 0px;
+    }
+    100% {
+      transform: rotateZ(0deg);
+      box-shadow: rgb(106, 77, 143)0px 0px 5px 0px;
+    }
+  }

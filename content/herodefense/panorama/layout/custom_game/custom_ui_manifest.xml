@@ -1,0 +1,118 @@
+<root>
+	<styles>
+		<!-- <include src="s2r://panorama/styles/custom_game/main_ui.css"/> -->
+	
+		
+    </styles>
+
+	<scripts>
+		<include src="s2r://panorama/scripts/custom_game/util.js" />
+		<include src="s2r://panorama/scripts/vector_target.js" />
+		<include src="s2r://panorama/scripts/manacost.js" />
+		<!-- <include src="s2r://panorama/scripts/custom_indicator.js" /> -->
+
+
+		<include src="file://{resources}/scripts/kv/AbilitiesKV.js" />
+		<include src="file://{resources}/scripts/kv/ItemsKV.js" />
+		<include src="file://{resources}/scripts/kv/UnitsKV.js" />
+
+
+		<include src="file://{resources}/scripts/kv/SpellShop_PhysicalKV.js" />
+		<include src="file://{resources}/scripts/kv/SpellShop_MagicalKV.js" />
+		<include src="file://{resources}/scripts/kv/SpellShop_SummonKV.js" />
+		<include src="file://{resources}/scripts/kv/SpellShop_DefenseKV.js" />
+		<include src="file://{resources}/scripts/kv/SpellShop_AssistKV.js" />
+		<include src="file://{resources}/scripts/kv/SpellShop_OtherKV.js" />
+		<include src="file://{resources}/scripts/kv/ChallengeInfo_KV.js" />
+
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class1.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class2.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class3.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class4.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class5.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class6.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class7.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class8.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class9.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class10.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticSpellKV_class11.js" />
+
+		<include src="file://{resources}/scripts/kv/ChaoticSpellRuneKV.js" />
+
+		<include src="file://{resources}/scripts/kv/GameShop_General_KV.js" />
+		<include src="file://{resources}/scripts/kv/BaseSetting_KV.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticEraPotionKV.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticEra_MapEffect.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticEra_Artifact.js" />
+		<include src="file://{resources}/scripts/kv/AbilityBonusInfoKV.js" />
+
+		<include src="file://{resources}/scripts/kv/ChaoticEra_PlayerArtifact.js" />
+		<include src="file://{resources}/scripts/kv/ChaoticEra_PlayerArtifact_exp.js" />
+
+
+
+		<include src="file://{resources}/layout/custom_game/custom_ui_manifest/custom_ui_manifest.js" />
+
+
+		
+
+		
+
+  	</scripts>
+
+
+
+	<Panel>
+
+		
+		<CustomUIElement type="HeroSelection" layoutfile="file://{resources}/layout/custom_game/hero_selection/hero_selection.xml" />
+		<!-- <CustomUIElement type="GameInfo" layoutfile="file://{resources}/layout/custom_game/game_info.xml" /> -->
+        <!-- LOCAL_DEBUG_TOOLS_LEGACY_BUTTON -->
+		<CustomUIElement type="Hud" 				layoutfile="file://{resources}/layout/custom_game/buff_list/buff_list.xml" />
+		<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/spell_modify/spell_modify.xml" />
+
+		<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/hud_main/hud_main.xml" />
+
+
+		<CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/overhead/overhead.xml" />
+		<CustomUIElement type="Hud" 				layoutfile="file://{resources}/layout/custom_game/game_wave/game_wave.xml" />
+		<CustomUIElement type="Hud" 				layoutfile="file://{resources}/layout/custom_game/buyback/buyback.xml" />
+		<CustomUIElement type="Hud" 				layoutfile="file://{resources}/layout/custom_game/challenge/challenge.xml" />
+		<CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/dps/dps.xml"/>
+		<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/difficulty.xml" />
+		<CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/drop_select/drop_select.xml" />
+		<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/sound_wheel/sound_wheel.xml" />
+		<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/helper/helper.xml" />
+
+		<CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/chaotic_era/chaotic_era.xml" />
+		<CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/spell_shop/spell_shop.xml" />
+		<CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/playerinfo/playerinfo.xml" />
+		<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/barebones_notifications.xml" /> 
+
+		<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/ability_note/ability_note.xml" />
+		<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/telent_select/telent_select.xml" />
+		<!-- <CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/boss_entry/boss_entry.xml" /> -->
+		<!--CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/chaotic_era_talent/talent.xml" /-->
+		<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/talent_tree/talent_tree.xml" />
+
+		
+		
+
+
+<!--	<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/barebones_attachments.xml" /> -->
+		<!-- <CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/frostrose_battlepass/battlepass.xml" /> -->
+		<!-- <CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/hud_hero_demo.xml" />  -->
+<!--	<CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/precache.xml" /> -->
+		<!-- <CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/boss_healthbar.xml" /> -->
+		<!-- <CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/hud_main.xml" /> -->
+		<!-- <CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/xhs_events.xml" /> -->
+		<!-- <CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/xhs_timers.xml" /> -->
+		<!-- <CustomUIElement type="Hud"					layoutfile="file://{resources}/layout/custom_game/gold.xml" /> -->
+		<!-- <CustomUIElement type="EndScreen"			layoutfile="file://{resources}/layout/custom_game/frostrose_end_screen.xml" /> -->
+		<!-- <CustomUIElement type="FlyoutScoreboard"	layoutfile="file://{resources}/layout/custom_game/dungeon_scoreboard.xml" /> -->
+
+        <!-- <CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/fix_custom_game/fix_custom_game.xml" /> -->
+
+		<!-- <CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/chaotic_mapeffect/map_effect_display.xml" /> -->
+	</Panel>
+</root>

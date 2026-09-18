@@ -1,0 +1,46 @@
+//基础攻击：圆形
+"DOTA_Tooltip_ability_creeps_spell_origina_circle_attack"	"圆切"
+"DOTA_Tooltip_ability_creeps_spell_origina_circle_attack_Description"	"在%delay%秒延迟后伤害周围的敌人，造成全额攻击力×%damage%的伤害。"
+
+
+
+
+//巴尔
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack"	"雷光"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_Description"	"释放数个雷点，雷电将朝一个方向释放闪电束，闪电束将对命中的敌人造成伤害与感电，其接下来受到的闪电伤害会加剧。"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_Lore"	"巴尔的基础攻击方式，对于凡人来讲已是神迹。"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_Note0"	"额外的说明：对于魔免单位造成%immunity_damage_index%%%伤害"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_base_damage"	"基础伤害："
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_bonus_damage"	"额外伤害：全额攻击力 x "
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_lightning_bonus_damage"	"%感电效果："
+"DOTA_Tooltip_modifier_creeps_spell_barr_thunder_debuff"              "感电"
+"DOTA_Tooltip_modifier_creeps_spell_barr_thunder_debuff_Description"  "电属性伤害提升%dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword"	"疾风迅雷"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_Description"	"定位所有英雄当前所在位置，以随机顺序进行冲刺斩，对沿途敌人造成闪电伤害，并造成感电。"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_Lore"	"一种利用闪电快速移动的方式，但因巴尔的神力，即使是简单的移动也会对凡人造成巨大的影响。"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_Note0"	"额外的说明：对于魔免单位造成%immunity_damage_index%%%伤害"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_base_damage"	"基础伤害："
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_bonus_damage"	"额外伤害：全额攻击力 x "
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_attack_sword_lightning_bonus_damage"	"%感电效果："
+
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element"	"弧光精灵"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_Description"	"巴尔会召唤两只继承自己部分属性的弧光精灵，弧光精灵会守护在巴尔的周围，并以一定时间间隔释放闪电束，对敌人造成伤害与感电，并根据伤害量治疗巴尔。"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_Lore"	"巴尔的尾巴寄宿着闪电元素，在必要时刻，他可以将召唤出闪电精灵来帮助自己作战。"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_Note0"	"额外的说明：对于魔免单位造成%immunity_damage_index%%%伤害"
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_bonus_health"	"%继承生命值："
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_bonus_armor"	"%继承护甲："
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_base_damage"	"基础伤害："
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_bonus_damage"	"额外伤害：全额攻击力 x "
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_interval"	"释放间隔： "
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_healing_index"	"%伤害转化为治疗： "
+"DOTA_Tooltip_ability_creeps_spell_barr_thunder_element_lightning_bonus_damage"	"%感电效果："
+
+"DOTA_Tooltip_ability_creeps_spell_greater_resistance"	"传奇抗性"
+"DOTA_Tooltip_ability_creeps_spell_greater_resistance_Description"	"免疫眩晕，沉默，束缚等多种负面效果。玩家越多，伤害减免越高"
+"DOTA_Tooltip_ability_creeps_spell_greater_resistance_Lore"	"传奇生物都具备的抗性，具备高级的多种负面状态抗性。"
+
+
+
+
+

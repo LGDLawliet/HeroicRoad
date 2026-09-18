@@ -1,0 +1,45 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "ice_surface_dota.vfx"
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Color ----
+	g_flTexCoordScale "0.003"
+	g_vTexCoordOffset "[0.059 0.000 1.000]"
+	TextureColor "materials/example/ice1.tif"
+
+	//---- Interior ----
+	g_flInteriorAmbientLightScale "0.023"
+	g_flInteriorDirectLightScale "0.000"
+	g_flInteriorRefractBlur "0.000"
+	g_flInteriorRefractStrength "0.402"
+	g_vInteriorLightTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vInteriorMixParams "[0.550 0.205 5.003]"
+	g_vInteriorRefractTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Normal Map ----
+	g_flBumpStrength "2.234"
+	g_flFresnelBumpStrength "0.638"
+	TextureNormal "materials/default/default_normal.tga"
+
+	//---- Specular ----
+	g_flEnvironmentMapBoost "0.000"
+	g_flSpecularExponent "16.000"
+	g_flSpecularScale "1.000"
+	g_vEnvironmentMapTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureEnvironmentMap "materials/default/dota_default_cube.tga"
+	TextureSpecularMask "[0.682000 0.682000 0.682000 0.000000]"
+
+	//---- Translucency ----
+	TextureTranslucency "[0.295000 0.295000 0.295000 0.000000]"
+
+	DynamicParams
+	{
+		g_vTexCoordOffset "d=float3($ent_random,$ent_random,$ent_random);\nreturn d;"
+	}
+}

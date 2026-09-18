@@ -1,0 +1,2454 @@
+"DOTA_Tooltip_ability_Advanced_laser_note_lv5"				"【折射+】折射次数加一"
+"DOTA_Tooltip_ability_Advanced_laser_note_lv10"				"【热能集束+】减少至每两次施法"
+"DOTA_Tooltip_ability_Advanced_laser_note_lv15"				"【寂静狩猎者】施法距离提升一倍，同时释放技能后有50%几率使冷却时间缩短一半"
+"DOTA_Tooltip_ability_Advanced_laser_note_lv20"				"【战略部署】每经过15秒，将会搜寻周围1000范围的敌人自动释放一次激光"
+"DOTA_Tooltip_ability_Advanced_laser_note_base_Info"      "伤害智力乘数：+0.15/级<br/>"
+"DOTA_Tooltip_ability_Advanced_laser_note_lv25_1"				"【超级折射】折射次数加4，且折射将选取最近的目标"
+"DOTA_Tooltip_ability_Advanced_laser_note_lv25_2"				"【激光矩阵】不再可以折射，但每名友方英雄都将对目标发出一次激光"
+"DOTA_Tooltip_ability_Advanced_laser_note_lv25_3"				"【彗星亚兹勒】施法前摇增加至1秒，且将无法触发【战略部署】与【寂静狩猎者】，但冷却时间变为1秒，转变为4秒的持续施法，持续施法持续期间每秒对路径上的敌人造成一次激光伤害(以0.5秒一次伤害的频率)，并为所有敌人附加一半效果的致盲"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Einherjar_note_lv5"				"【极速】速度提升增加至65%%"
+"DOTA_Tooltip_ability_Advanced_Einherjar_note_lv10"				"【共鸣+】持续时间提升至30秒"
+"DOTA_Tooltip_ability_Advanced_Einherjar_note_lv15"				"【三英战吕布】英灵战士加一"
+"DOTA_Tooltip_ability_Advanced_Einherjar_note_lv20"				"【常驻化】被动拥有一名英灵战士"
+"DOTA_Tooltip_ability_Advanced_Einherjar_note_base_Info"      "持续时间：+1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Einherjar_note_lv25_1"				"【不灭军阵】攻击有5%%几率召唤出一具持续5秒的英灵战士，同一时间最多具象化十具灵体(奖励攻击也可以触发)"
+"DOTA_Tooltip_ability_Advanced_Einherjar_note_lv25_2"				"【连阵】英灵战士的攻击有15%%触发一次连阵，召唤出第二种英灵战士，在延迟0.8秒后对本体面向方向的1000距离外发动一次斩击，对路径上的敌人造成全额攻击力*2的物理伤害"
+"DOTA_Tooltip_ability_Advanced_Einherjar_note_lv25_3"				"【奥尼克斯的降世之军】英灵战士数量加2，且攻击范围提升至4000，英灵战士距离本体越远移动速度将越快（不影响常驻化的灵体）"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_stroke_of_fate_note_lv5"				"【沾墨+】减少冷却增加至层数*0.14"
+"DOTA_Tooltip_ability_Advanced_stroke_of_fate_note_lv10"			"【命运轨迹+】最大伤害提升至智力*8"
+"DOTA_Tooltip_ability_Advanced_stroke_of_fate_note_lv15"			"【连笔】墨迹到达终点时有50%%几率将对随机方向再画上一笔(连笔固定1200距离)"
+"DOTA_Tooltip_ability_Advanced_stroke_of_fate_note_lv20"			"【连笔+】100%%触发连笔，第一次连笔结束后有50%%再次触发一次连笔"
+"DOTA_Tooltip_ability_Advanced_stroke_of_fate_note_base_Info"      "基础伤害：+10/级<br/>伤害智力乘数：+0.08/级<br/>每个敌人递增伤害智力乘数：+0.01/级<br/>"
+"DOTA_Tooltip_ability_Advanced_stroke_of_fate_note_lv25_1"				"【败笔】绘画挫败的痕迹，被命运之笔影响后的敌人将会在2秒内受到额外75%%的伤害，重复被影响将提高持续时间。不可驱散同时不被增益"
+"DOTA_Tooltip_ability_Advanced_stroke_of_fate_note_lv25_2"				"【绘画世界】'连笔'次数固定到5，（但仍然受到英雄天赋影响）第一次触发时候进行进行一次分裂，同时提笔的节点如果与技能释放点的距离超过1500，那么将强制使下一个目标掉为释放点。"
+"DOTA_Tooltip_ability_Advanced_stroke_of_fate_note_lv25_3"				"【塑身】命运之笔命中一名敌人后，将使用墨水塑造其身体构造，此后命运之笔将永久性对这个种类提高1%%的伤害，最高到达800%%"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_quadruple_chop_note_lv5"				"【六光连斩】剑气数量加2"
+"DOTA_Tooltip_ability_Advanced_quadruple_chop_note_lv10"			"【指甲刀+】剑气长度增加50%%，同时最多影响目标加2"
+"DOTA_Tooltip_ability_Advanced_quadruple_chop_note_lv15"			"【神闪】释放技能后1秒后将返回原地（附带一次斩击）"
+"DOTA_Tooltip_ability_Advanced_quadruple_chop_note_lv20"			"【神闪+】神闪触发完毕后再触发两次（最终还是会再原地）"
+"DOTA_Tooltip_ability_Advanced_quadruple_chop_note_base_Info"      "次级剑气基础伤害:+6/级<br/>次级剑气伤害敏捷乘数：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_quadruple_chop_note_lv25_1"				"【极影之斩】'神闪'的触发次数提升至21，释放完成后将立即触发，并在1秒内完成所有斩击，最后一次将回归原点,但每次斩击最多影响3名敌人"
+"DOTA_Tooltip_ability_Advanced_quadruple_chop_note_lv25_2"				"【剑术专研】附加被动效果，每5次攻击可以发动一次不带位移的'神闪'，但最多影响五名敌人"
+"DOTA_Tooltip_ability_Advanced_quadruple_chop_note_lv25_3"				"【灭魂之斩】每次斩击效果都将使受到影响的敌人永久降低1护甲，但最多100"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Chakra_note_lv5"				"【快速冷却+】持续时间提升至15秒"
+"DOTA_Tooltip_ability_Advanced_Chakra_note_lv10"			"【过度施法+】冷却时间仅为2倍"
+"DOTA_Tooltip_ability_Advanced_Chakra_note_lv15"			"【集气】快速冷却状态作用期间，智力每秒提升1点"
+"DOTA_Tooltip_ability_Advanced_Chakra_note_lv20"			"【集气+】变更为全属性"
+"DOTA_Tooltip_ability_Advanced_Chakra_note_base_Info"      "魔法恢复：+20/级<br/>魔法恢复智力乘数：+0.1/级<br/>冷却时间减少：+0.3/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Chakra_note_lv25_1"				"【魔力宝库】在状态持续期间累计消耗的魔法值，在状态结束时可以使最大魔法提升相等的数值(最多两万)，持续至下一次被施加本技能，可被强驱散"
+"DOTA_Tooltip_ability_Advanced_Chakra_note_lv25_2"				"【天之赠礼】目标的下一次技能伤害提高200%%，'过度施法'下为600%%，对于多段伤害的技能仅第一段伤害有用"
+"DOTA_Tooltip_ability_Advanced_Chakra_note_lv25_3"				"【神灯赐福】获得被动效果，解锁即永久生效，即使出售技能也仍然存在。每隔一段时间自动许愿，使自身的力量/敏捷/智力随机一项加2，或生命值加50，或魔法值加25。固定间隔40秒，同时使用任意冷却时间大于3的技能可以加快2秒，仅战斗阶段计算，最多可以许愿200次，随后此奥义失效，技能回归正常状态，此时可以再次解锁奥义"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_aftershock_note_lv5"				"【共鸣+】额外影响一个友军，同时作用范围提升100"
+"DOTA_Tooltip_ability_Advanced_aftershock_note_lv10"			"【续震+】持续时间提升1秒，最大叠加次数加1"
+"DOTA_Tooltip_ability_Advanced_aftershock_note_lv15"			"【共鸣++】1000范围内的友军释放技能时可以触发一次余震(但不触发共鸣)，触发后技能冷却增加1.5秒，冷却时间大于10秒时不触发"
+"DOTA_Tooltip_ability_Advanced_aftershock_note_lv20"			"【共鸣+++】500范围内的敌军释放技能时触发余震（同共鸣++）,冷却时间增加2秒"
+"DOTA_Tooltip_ability_Advanced_aftershock_note_base_Info"      "基础伤害：+10/级<br/>力量乘数：+0.04/级<br/>"
+"DOTA_Tooltip_ability_Advanced_aftershock_note_lv25_1"				"【母星之声】地震产生时的时候可以触发余震,但只有最大威力的50%%，眩晕效果则为最大威力的10%%，根据是否为自己触发的地震触发对应的余震效果"
+"DOTA_Tooltip_ability_Advanced_aftershock_note_lv25_2"				"【自然之怒】余震作用范围提升300，每次触发余震时，以施法者为中心向外200-900距离的随机两个点也会触发余震效果，且伤害完全叠加"
+"DOTA_Tooltip_ability_Advanced_aftershock_note_lv25_3"				"【活跃期】'共鸣'不再有冷却"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Vengeance_Aura_note_lv5"				"【复仇+】将计算全额攻击力"
+"DOTA_Tooltip_ability_Advanced_Vengeance_Aura_note_lv10"			"【龙王归来+】全属性提升增加至75"
+"DOTA_Tooltip_ability_Advanced_Vengeance_Aura_note_lv15"			"【暗黑骑士】I am vengeance, I am the night, I am Batman! 在黑夜中攻击力加成为1.5倍效果"
+"DOTA_Tooltip_ability_Advanced_Vengeance_Aura_note_lv20"			"【蝙蝠侠】Because I am Batman! 死亡而非真正死亡，处于死亡状态时光环范围提升至全图范围，且额外提供30点全属性加成"
+"DOTA_Tooltip_ability_Advanced_Vengeance_Aura_note_base_Info"      "攻击力加成:+1.5%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Vengeance_Aura_note_lv25_1"				"【灵魂捕猎】光环下的召唤物死亡时将记录其属性，召唤出具有两倍属性的无敌体，无法操控，没有原技能附带的特殊能力，只能持续10秒，受到光环拥有者拥有的召唤被动技能影响，受到召唤增强但不受召唤时间增强影响，每秒只能触发一次"
+"DOTA_Tooltip_ability_Advanced_Vengeance_Aura_note_lv25_2"				"【悲鸣绝唱】在光环下的友军英雄击杀敌人时将散发敌人的悲鸣，提升光环的能力，在120秒内光环下的友军英雄都将提升5点全属性，但最多到达100,受到光环持有者正面状态增强影响"
+"DOTA_Tooltip_ability_Advanced_Vengeance_Aura_note_lv25_3"				"【绝死之声】死亡后打开冥界的通道，将死亡的气息散发到世界，只要自身仍然处于死亡状态，那么周围2000范围的敌人将额外受到100%%的伤害"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Body_of_Effulgent_Beryl_note_lv5"				"【攻击伤害无效化+】最大值提升至15%%"
+"DOTA_Tooltip_ability_Advanced_Body_of_Effulgent_Beryl_note_lv10"			"【回到过去+】将返还全部生命"
+"DOTA_Tooltip_ability_Advanced_Body_of_Effulgent_Beryl_note_lv15"			"【性能扩展】抵挡效果提升20%%，同时只要伤害类型为物理伤害即可生效"
+"DOTA_Tooltip_ability_Advanced_Body_of_Effulgent_Beryl_note_lv20"			"【反冲】抵挡伤害值的30%%将返还给敌人（视为反甲伤害）"
+"DOTA_Tooltip_ability_Advanced_Body_of_Effulgent_Beryl_note_base_Info"      "基础抵挡：+6/级<br/>护甲乘数：+0.2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Body_of_Effulgent_Beryl_note_lv25_1"				"【咏唱省略】转变为永久生效的被动技能,每10秒刷新一次"
+"DOTA_Tooltip_ability_Advanced_Body_of_Effulgent_Beryl_note_lv25_2"				"【不可破之域】技能不再附着于自身，而变为一个立场，立场内所有友军都可以获得技能的加成，且对于领域外的敌人的伤害将获得3倍抵挡效果。'攻击力无效化'效果将固定在7.5%%"
+"DOTA_Tooltip_ability_Advanced_Body_of_Effulgent_Beryl_note_lv25_3"				"【致命之绿】'反冲'效果提升至150%%，同时将对目标周围300范围内所有敌人造成伤害"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Chaotic_Offering_note_lv5"				"【统御：烈焰爆发+】烈焰爆发会立刻刷新地狱火的“混沌火焰风暴”"
+"DOTA_Tooltip_ability_Advanced_Chaotic_Offering_note_lv10"			"【统御：毁灭献祭】烈焰爆发会在5秒内使地狱火的“混沌献祭”的伤害增加60%%"
+"DOTA_Tooltip_ability_Advanced_Chaotic_Offering_note_lv15"			"【统御：混乱之雨】每7次“急行”会在自身周围召唤一体地狱火，但持续时间和属性仅有40%%"
+"DOTA_Tooltip_ability_Advanced_Chaotic_Offering_note_lv20"			"【统御：远古链接】地狱火被动进入魔法免疫状态，烈焰爆发会对召唤者和地狱火施加一次强驱散"
+"DOTA_Tooltip_ability_Advanced_Chaotic_Offering_note_base_Info"      "攻击力继承：+2%%/级<br/>生命值继承：+2.5%%/级<br/>护甲继承：+2.5%%/级<br/>烈焰爆发地狱火全额攻击力：+0.04/级<br/>"
+//"DOTA_Tooltip_ability_Advanced_Chaotic_Offering_note_lv25_1"				"【合体·愤怒魔将】'特化'将不再起作用，强制触发'合体'，产生一只愤怒魔将，攻击力继承增加一倍，愤怒魔将拥有【陨石天降】技能"
+"DOTA_Tooltip_ability_Advanced_Chaotic_Offering_note_lv25_2"				"【混沌之雨】产生3只地狱火，产生区域将变为500距离随机分布"
+"DOTA_Tooltip_ability_Advanced_Chaotic_Offering_note_lv25_3"				"【共体】自身将化身为地狱火，产生的地狱火将附着在自己身上，自身将获得地狱火三项属性的40%%，持续时间等同于召唤时间(护甲加成不会显示在面板)"
+
+
+
+"DOTA_Tooltip_ability_Advanced_dragon_slave_note_lv5"				"【蜕变·一+】后续伤害增加提升至6%%"
+"DOTA_Tooltip_ability_Advanced_dragon_slave_note_lv10"			"【蜕变·二+】次级火焰影响范围与飞行距离增加50%%"
+"DOTA_Tooltip_ability_Advanced_dragon_slave_note_lv15"			"【炙风】风压将使被命中的单位跟随火焰拖拽500距离，期间处于眩晕状态"
+"DOTA_Tooltip_ability_Advanced_dragon_slave_note_lv20"			"【持久力】基础施法距离提升400，受到2倍施法距离奖励影响"
+"DOTA_Tooltip_ability_Advanced_dragon_slave_note_base_Info"      "基础伤害:+15/级<br/>伤害智力乘数：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_dragon_slave_note_lv25_1"				"【红魔女的奥秘】连续使用该技能可以提升技能的伤害，每次提高20%%，最多到达1000%%，释放其他技能后会失去加成效果，道具不会产生影响"
+"DOTA_Tooltip_ability_Advanced_dragon_slave_note_lv25_2"				"【不灭之火】主火焰的移动速度减缓90%%，同时次级火焰只会像前方移动，产生所需移动距离减少70%%"
+"DOTA_Tooltip_ability_Advanced_dragon_slave_note_lv25_3"				"【焦土】释放技能将会将自己脚下的土地化为焦土，每3秒对500范围内敌人造成一次技能伤害，焦土的持续时间为永久，但最多只能同时存在八个。"
+
+
+
+"DOTA_Tooltip_ability_Advanced_unrivaled_note_lv5"				"【龙胆+】需求范围减少至400，伤害提升不再限于攻击"
+"DOTA_Tooltip_ability_Advanced_unrivaled_note_lv10"			"【绝境+】需求生命值增加至30%%，全属性提升增加至70"
+"DOTA_Tooltip_ability_Advanced_unrivaled_note_lv15"			"【霹雳一闪】攻击将延伸至目标身后的600码（内置冷却1秒）"
+"DOTA_Tooltip_ability_Advanced_unrivaled_note_lv20"			"【霹雳一闪+】冷却时间减少至0.5秒"
+"DOTA_Tooltip_ability_Advanced_unrivaled_note_base_Info"      "攻击速度加成：+1%%/级<br/>移动速度加成：+1%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_unrivaled_note_lv25_1"				"【境界突破】'龙胆'与'绝境'效果不再拥有限制,前者加成提升至50%%，后者加成加倍"
+"DOTA_Tooltip_ability_Advanced_unrivaled_note_lv25_2"				"【永恒】转变为被动技能，技能被动效果常驻化"
+"DOTA_Tooltip_ability_Advanced_unrivaled_note_lv25_3"				"【奥尼克斯的降世之枪】'霹雳一闪'转变为360°的横扫，且冷却时间降低至0.2秒"
+
+
+"DOTA_Tooltip_ability_Advanced_Dragons_Lighting_note_lv5"				"【连锁龙雷+】次级目标加一"
+"DOTA_Tooltip_ability_Advanced_Dragons_Lighting_note_lv10"			"【魔力穿透+】魔法抗性削减效果提升35%%(包括最大值)"
+"DOTA_Tooltip_ability_Advanced_Dragons_Lighting_note_lv15"			"【闪电碎裂】由每50码增加一道闪电变更为每35码"
+"DOTA_Tooltip_ability_Advanced_Dragons_Lighting_note_lv20"			"【充能】每道闪电都将电击自己，使本技能的冷却时间减少当前冷却时间的1%%"
+"DOTA_Tooltip_ability_Advanced_Dragons_Lighting_note_base_Info"      "基础伤害：+30/级<br/>伤害智力乘数：+0.3/级<br/>每50码额外伤害智力乘数：+0.01/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Dragons_Lighting_note_lv25_1"				"【巴尔的降世之雷】闪电不再以自己为起点，而是从高空落下，高度为100*x的平方根, x=智力，如果少于本身的施法距离则取基本值，受到施法距离加成影响，同时次级闪电的最多数量提升至200，降下的雷霆将分出8道分叉"
+"DOTA_Tooltip_ability_Advanced_Dragons_Lighting_note_lv25_2"				"【雷霆之枪】技能冷却减少50%%，同时小型闪电伤害增加100%%且将连锁到目标周围500范围的随机三个单位身上"
+"DOTA_Tooltip_ability_Advanced_Dragons_Lighting_note_lv25_3"				"【万雷天阵】'闪电碎裂'可以被动生成,'充能'效果提升一倍，在周围生成闪电风暴，每2秒电击2000范围内至多10名敌人，该效果造成的伤害为自身魔法的40%%"
+
+
+"DOTA_Tooltip_ability_Advanced_laguna_blade_note_lv5"				"【神灭直斩+】伤害提高至50%%"
+"DOTA_Tooltip_ability_Advanced_laguna_blade_note_lv10"			"【魂匣+】最大伤害提升至智力*17"
+"DOTA_Tooltip_ability_Advanced_laguna_blade_note_lv15"			"【七星七连】神灭斩将弹射七次(700码)"
+"DOTA_Tooltip_ability_Advanced_laguna_blade_note_lv20"			"【灭神一击】对单个敌人时伤害提高50%%（七星七连都不触发时）"
+"DOTA_Tooltip_ability_Advanced_laguna_blade_note_base_Info"      "基础伤害：+60/级<br/>伤害智力乘数：+0.5/级<br/>"
+"DOTA_Tooltip_ability_Advanced_laguna_blade_note_lv25_1"				"【原子击碎】超强的能量将目标灰飞烟灭，受到影响的单位在受到伤害前如果生命值低于伤害量的两倍则造成即死（这个值仅受到技能伤害影响）"
+"DOTA_Tooltip_ability_Advanced_laguna_blade_note_lv25_2"				"【万物之能】'魂匣'加成默认最大化，释放时将吸收周围友军的能量，使神灭斩伤害增加(英雄攻击力之和+至多10名召唤单位的攻击力之和)的伤害"
+"DOTA_Tooltip_ability_Advanced_laguna_blade_note_lv25_3"				"【灵魂核心】失去除了'魂匣'之外的效果，转变为被动技能，生成三个能量核心围绕自身移动，能量核心将搜寻自身1000范围内的敌人，对其施加一次神灭斩伤害，然后进入10秒冷却（彼此独立受到冷却缩减影响）"
+
+"DOTA_Tooltip_ability_Advanced_pulse_nova_note_lv5"				"【无尽折磨+】魔法消耗增加的效果减少至0.6%%/层"
+"DOTA_Tooltip_ability_Advanced_pulse_nova_note_lv10"			"【能量吸收】增加的这部分智力的50%%不再纳入消耗魔法计算范围内"
+"DOTA_Tooltip_ability_Advanced_pulse_nova_note_lv15"			"【延展】每层【无尽折磨】提高5点作用范围，但最高1000"
+"DOTA_Tooltip_ability_Advanced_pulse_nova_note_lv20"			"【虚无】每次有25%%不需要消耗魔法"
+"DOTA_Tooltip_ability_Advanced_pulse_nova_note_base_Info"      "基础伤害：+4/级<br/>伤害智力乘数：+0.04/级<br/>"
+"DOTA_Tooltip_ability_Advanced_pulse_nova_note_lv25_1"				"【灵体脉冲】 受到脉冲伤害的敌人有10%%几率强制其进入虚无状态，无法攻击，也无法受到物理伤害，但魔法抗性减少100%%，持续3秒，同一名敌人拥有5秒内置冷却。"
+"DOTA_Tooltip_ability_Advanced_pulse_nova_note_lv25_2"				"【万灭】将汇聚区域内敌人数量*伤害值的200%%的伤害，随后对单名敌人造成伤害并消耗等同于其当前生命值的累计值。"
+"DOTA_Tooltip_ability_Advanced_pulse_nova_note_lv25_3"				"【时空的密使】'能量吸收'的智力上限提升至1000，但超过200的奖励值不被减免"
+
+
+"DOTA_Tooltip_ability_Advanced_lightning_storm_note_lv5"				"【充能打击+】没有其他敌人时可以进行重复打击，但只造成30%%伤害"
+"DOTA_Tooltip_ability_Advanced_lightning_storm_note_lv10"			"【能量吸收】持续时间提升至45秒"
+"DOTA_Tooltip_ability_Advanced_lightning_storm_note_lv15"			"【极致】减速效果提升至999%%"
+"DOTA_Tooltip_ability_Advanced_lightning_storm_note_lv20"			"【元素狂乱】打击重复敌人时不再降低伤害，同时每次闪电都会提升7%% 伤害（最多400%%），弹跳后都有40%% 概率不减少弹跳次数（每次触发都会增加少量概率），最大概率90%%"
+"DOTA_Tooltip_ability_Advanced_lightning_storm_note_base_Info"      "基础伤害：+10/级<br/>伤害智力乘数：+0.08/级<br/>"
+"DOTA_Tooltip_ability_Advanced_lightning_storm_note_lv25_1"				"【魔力充能】可以开启自动施法，当没有弹跳次数时可以消耗100点魔法使其再次弹跳(最多35次)，这个效果可以随时关闭，伤害增幅最高提升至40倍，最大概率95%%"
+"DOTA_Tooltip_ability_Advanced_lightning_storm_note_lv25_2"				"【熵增】每当自身造成技能伤害时（此技能除外），只要伤害大于50便可以对其附加一次单体的闪电风暴，同一个目标3秒内最多触发一次"
+"DOTA_Tooltip_ability_Advanced_lightning_storm_note_lv25_3"				"【环球风暴】转变为被动技能，每移动500距离可以对周围1000范围随机一个敌人释放技能，但每2.5秒最多触发一次"
+
+"DOTA_Tooltip_ability_Advanced_frost_armor_note_lv5"				"【转换+】提升至3%%最大生命值恢复效果"
+"DOTA_Tooltip_ability_Advanced_frost_armor_note_lv10"			"【延续】持续时间提升至12秒"
+"DOTA_Tooltip_ability_Advanced_frost_armor_note_lv15"			"【庇护】额外提供35%%魔法抗性"
+"DOTA_Tooltip_ability_Advanced_frost_armor_note_lv20"			"【吸收】每秒放出的冰霜每影响到一个单位，将恢复状态拥有者10点魔法"
+"DOTA_Tooltip_ability_Advanced_frost_armor_note_base_Info"      "物理攻击伤害减低：+0.7%%/级<br/>基础伤害：+4/级<br/>智力乘数：+0.02/级<br/>"
+"DOTA_Tooltip_ability_Advanced_frost_armor_note_lv25_1"				"【金刚石库利南】状态持续期间增加500点防御，同时状态结束时将对周围600范围的敌人造成受到的物理伤害的200%%的魔法伤害"
+"DOTA_Tooltip_ability_Advanced_frost_armor_note_lv25_2"				"【大缓速】在状态持续期间，每当敌人攻击目标时有10%%几率使攻击速度下降1000，持续2秒"
+"DOTA_Tooltip_ability_Advanced_frost_armor_note_lv25_3"				"【连霜】转变为被动技能，每2秒自动对1500范围内随机一个友军施加技能效果，优先英雄"
+
+
+"DOTA_Tooltip_ability_Advanced_marksmanship_note_lv5"				"【精准一击+】触发几率提升至45%%"
+"DOTA_Tooltip_ability_Advanced_marksmanship_note_lv10"			"【银影天仇+】基础触发几率提升至14%%，对于奖励攻击触发几率下降60%%"
+"DOTA_Tooltip_ability_Advanced_marksmanship_note_lv15"			"【坚冰之心】触发额外伤害时，有20%%几率使这次攻击成为两次攻击成立。(额外的成立可以再次触发本效果)"
+"DOTA_Tooltip_ability_Advanced_marksmanship_note_lv20"			"【癫魔之境】提升当前英雄等级*2的敏捷"
+"DOTA_Tooltip_ability_Advanced_marksmanship_note_base_Info"      "精准一击：+10/级<br/>"
+"DOTA_Tooltip_ability_Advanced_marksmanship_note_lv25_1"				"【狂人境界】攻击同一名敌人时，每次攻击将提高2%%的攻击伤害，最多到达500%%"
+"DOTA_Tooltip_ability_Advanced_marksmanship_note_lv25_2"				"【风之追忆】'银影天仇'增加被动效果，每秒发出5只箭矢，只要最后攻击的目标还存活就会一直生效，同时继承全额攻击力百分比提升至70%%。"
+"DOTA_Tooltip_ability_Advanced_marksmanship_note_lv25_3"				"【精灵王的传承】当距离目标500距离以上时，必定触发精准一击"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_split_earth_note_lv5"				"【颤魂+】持续时间提升至180秒"
+"DOTA_Tooltip_ability_Advanced_split_earth_note_lv10"			"【多段+】触发多段时仅判定1次：50%% 的概率震动次数+1"
+"DOTA_Tooltip_ability_Advanced_split_earth_note_lv15"			"【永续魔法】震动将额外发生1次，且每次额外震动有75%% 独立几率再次重复，以此触发的重复次数不会超过5次。最大概率90%%"
+"DOTA_Tooltip_ability_Advanced_split_earth_note_lv20"			"【共鸣】造成伤害时，如果英雄有高阶闪电风暴，则对目标释放一次单体的闪电风暴,但最多对20个单位触发"
+"DOTA_Tooltip_ability_Advanced_split_earth_note_base_Info"      "基础伤害：+25/级<br/>"
+// "DOTA_Tooltip_ability_Advanced_split_earth_note_lv25_1"				"【世界崩塌】技能效果可以改变坐标位置，如果被释放时区域内没有任何敌人，则会移动到1500范围内任意一个敌人的坐标上，同时'永续魔法'的效果升级为85%%独立概率，最大概率93%%，最少触发15次，且没有上限"
+"DOTA_Tooltip_ability_Advanced_split_earth_note_lv25_2"				"【肉体塌陷】直接击杀生命值低于10%%的敌人"
+"DOTA_Tooltip_ability_Advanced_split_earth_note_lv25_3"				"【灵魂毁灭】'颤魂'效果提升至每层5%%，同时变为永久效果(但最多100层)"
+"DOTA_Tooltip_ability_Advanced_split_earth_Note0"               "额外说明：受概率加成影响，在施法时计算，乘法叠加，触发次数平均值为1/【1-x】"            
+
+"DOTA_Tooltip_ability_Advanced_Arcane_Aura_note_lv5"				"【奥数掌握+】消耗减少效果提升至30%%"
+"DOTA_Tooltip_ability_Advanced_Arcane_Aura_note_lv10"			"【魔精转换+】转换效果提升至3.3%%"
+"DOTA_Tooltip_ability_Advanced_Arcane_Aura_note_lv15"			"【集中】额外提供15%%技能伤害(对自身为1.5倍)"
+"DOTA_Tooltip_ability_Advanced_Arcane_Aura_note_lv20"			"【能量共通】光环拥有者可以发出一个小型光环，对500范围内的友军提供10%%技能伤害（不被增幅）"
+"DOTA_Tooltip_ability_Advanced_Arcane_Aura_note_base_Info"      "魔法恢复加成：+0.8/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Arcane_Aura_note_lv25_1"				"【隆冬之种】在光环下的友军释放法术时可以在光环拥有者身上累计寒气，数值等同于技能的冷却时间。当寒气值到达100时将进行释放，冰封周围1000范围内所有敌人5秒（被状态抗性与负面状态增强影响，但最少也有0.5秒持续时间），被冰封的敌人额外受到100%%的魔法伤害。有5秒冷却时间，冷却时不累计寒气。"
+"DOTA_Tooltip_ability_Advanced_Arcane_Aura_note_lv25_2"				"【咏唱的极致】光环下的友军将不再有施法前摇"
+"DOTA_Tooltip_ability_Advanced_Arcane_Aura_note_lv25_3"				"【奥术觉醒】光环下的友军的技能伤害有15%%几率造成三倍伤害，如果未触发，则有20%%造成两倍伤害"
+
+
+
+"DOTA_Tooltip_ability_Advanced_overpower_note_lv5"				"【怒气增幅+】变更为每1.4秒增加一次"
+"DOTA_Tooltip_ability_Advanced_overpower_note_lv10"			"【怒气外溢+】触发几率提升至35%%"
+"DOTA_Tooltip_ability_Advanced_overpower_note_lv15"			"【狂躁】每层状态将增加10点攻击伤害"
+"DOTA_Tooltip_ability_Advanced_overpower_note_lv20"			"【持久力】技能冷却时状态每秒将增加0.2秒"
+"DOTA_Tooltip_ability_Advanced_overpower_note_base_Info"      "攻击速度：+20/级<br/>攻击次数：+0.5/级<br/>持续时间：+0.5秒/级<br/>"
+"DOTA_Tooltip_ability_Advanced_overpower_note_lv25_1"				"【过载化】攻击次数翻倍，同时将会使攻击速度提升至极限"
+"DOTA_Tooltip_ability_Advanced_overpower_note_lv25_2"				"【远古之力】每次释放技能时候将获取周围1000范围友方英雄与至多10名友方召唤物的攻击力，将其总和的40%%储存起来，在状态持续期间将附着前八次释放时储存的攻击值的平均值的攻击伤害。初始皆为0"
+"DOTA_Tooltip_ability_Advanced_overpower_note_lv25_3"				"【常驻化】技能变为永久持续时间，能量点数消耗完也不会移除状态，同时每秒的叠加速度提升两倍，但'狂躁'的最大有效层数限制为500"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Anchor_Smash_note_lv5"				"【千钧一击+】攻击力加成增加100点"
+"DOTA_Tooltip_ability_Advanced_Anchor_Smash_note_lv10"			"【癫狂+】触发几率提升至7%%，每次触发增加的冷却时间减少至1秒"
+"DOTA_Tooltip_ability_Advanced_Anchor_Smash_note_lv15"			"【潮汐】技能冷却速度从从-30%%-200%%钟摆式变化"
+"DOTA_Tooltip_ability_Advanced_Anchor_Smash_note_lv20"			"【碎甲】降低受到影响单位1.5护甲，独立计算时间持续15秒(不被状态抗性与负面状态增强影响，不可驱散)"
+"DOTA_Tooltip_ability_Advanced_Anchor_Smash_note_base_Info"      "攻击加成:+6/级<br/>力量乘数:+0.1/级"
+"DOTA_Tooltip_ability_Advanced_Anchor_Smash_note_lv25_1"				"【嵌入化】将技能与英雄融合，不再具有'潮汐'效果，但不再占用技能槽，成为常驻状态，攻击有10%%几率触发技能效果，然后增加1秒冷却时间，冷却时间大于10秒时不触发(将记录解锁时的技能数据，融合后可以继续学习锚击，但再次解锁本奥义无效')"
+"DOTA_Tooltip_ability_Advanced_Anchor_Smash_note_lv25_2"				"【能量吸收】提升1500点技能攻击力加成，这个效果可以多次提升，也可以与其他两项奥义共存，但解锁了其他奥义后将不再可以继续进行'能量吸收'"
+"DOTA_Tooltip_ability_Advanced_Anchor_Smash_note_lv25_3"				"【万钧一击】被动触发时增加的冷却时间增加至2秒，但触发技能后，延迟2秒与4秒后各在1000范围内随机一个点触发一次300范围的洪流，造成技能效果"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Inner_Beast_note_lv5"				"【迅疾+】效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_Inner_Beast_note_lv10"			"【魔法防护+】效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_Inner_Beast_note_lv15"			"【野性狂暴】召唤单位/英雄单位有15/5%%几率在攻击力时触发狂暴,提升100攻击速度,获得10/5%%攻击伤害吸血效果,持续3秒,同个单位有10秒冷却时间(受50%%正面状态持续时间增强影响)"
+"DOTA_Tooltip_ability_Advanced_Inner_Beast_note_lv20"			"【野性狂暴+】狂暴期间魔法免疫,攻击速度提升效果增加50%%"
+"DOTA_Tooltip_ability_Advanced_Inner_Beast_note_base_Info"      "攻击速度加成:+2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Inner_Beast_note_lv25_1"				"【自主强化】开启自动施法时候召唤出的召唤物不再可操控，但将获得60%%的攻击速度加成"
+"DOTA_Tooltip_ability_Advanced_Inner_Beast_note_lv25_2"				"【移魂】召唤物死亡后会将灵魂与周围1000范围内的随机召唤物融合，使其获得自身50%%的攻击力加成(这个召唤单位的当前生命值需要大于1000，同个单位最多获得10次加成)"
+"DOTA_Tooltip_ability_Advanced_Inner_Beast_note_lv25_3"				"【身体觉醒】召唤物将可以无视移速限制，同时移速提升80%%,攻速提升25%%"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Soul_Link_note_lv5"				"【能量涌动+】触发几率提升至40%%"
+"DOTA_Tooltip_ability_Advanced_Soul_Link_note_lv10"			"【伤害迁移+】计算170%%的伤害"
+"DOTA_Tooltip_ability_Advanced_Soul_Link_note_lv15"			"【灵魂升华】如果【伤害迁移】致死，那么治疗自身10%%最大生命值"
+"DOTA_Tooltip_ability_Advanced_Soul_Link_note_lv20"			"【领域展开】展开1500范围的光环，光环内的名下召唤物获得20%%伤害减免与20%%伤害增加"
+"DOTA_Tooltip_ability_Advanced_Soul_Link_note_base_Info"      "召唤增强：+0.8%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Soul_Link_note_lv25_1"				"【能量衍生】每召唤出一只召唤物，使自身提供的召唤增强增加1%%（非线性），持续时间为召唤技能的冷却时间，不被正面状态增强影响"
+"DOTA_Tooltip_ability_Advanced_Soul_Link_note_lv25_2"				"【不灭体】召唤物将获得被召唤时，施法者名下召唤物数量*3%%的伤害抗性，但在20秒内逐渐减少至0,初始抗性最高为130%%"
+"DOTA_Tooltip_ability_Advanced_Soul_Link_note_lv25_3"				"【灵魂变迁】触发'灵魂升华'时，还将暂时性提升自身5点全属性，持续60秒，被正面状态加成影响，最多50层"
+
+
+
+"DOTA_Tooltip_ability_Advanced_summon_Dave_Chisnall_note_lv5"				"【血肉献祭+】吸收英雄的属性翻倍，吸收普通单位的属性提高50%%"
+"DOTA_Tooltip_ability_Advanced_summon_Dave_Chisnall_note_lv10"			"【过往的记忆+】每次攻击都为快速的三连击"
+"DOTA_Tooltip_ability_Advanced_summon_Dave_Chisnall_note_lv15"			"【过度献祭】克里斯将获得召唤者50%%的攻击速度，这一部分攻击速度在召唤过期时返还(最多200点)"
+"DOTA_Tooltip_ability_Advanced_summon_Dave_Chisnall_note_lv20"			"【高阶恶魔之血】血量低于20%%以后，会陷入疯狂，强制被攻击到的单位攻击自己，自身获得80%%减伤（持续3s），血量越少减伤越高，最大99%%"
+"DOTA_Tooltip_ability_Advanced_summon_Dave_Chisnall_note_base_Info"      "继承：+2%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_summon_Dave_Chisnall_note_lv25_1"				"【完美战士】对于力量/敏捷/智力召唤者，攻击附带自身 最大生命值*0.05的纯粹伤害/全额攻击力*1的物理伤害/召唤者最大魔法*0.1的魔法伤害"
+"DOTA_Tooltip_ability_Advanced_summon_Dave_Chisnall_note_lv25_2"				"【死亡祭奠】被吸取属性的普通单位将死亡，但获得20%%的属性且数量上限提升至25"
+"DOTA_Tooltip_ability_Advanced_summon_Dave_Chisnall_note_lv25_3"				"【拉塔恩的追忆·唤星】克里斯的攻击有10%%几率(被召唤者概率事件加成影响)可以召唤出一颗陨石砸向目标，对其所在区域400范围的敌人造成全额攻击力*3的伤害，并在3秒内受到重力的作用减缓90%%的移动速度。每5秒的第一次攻击必定触发"
+
+"DOTA_Tooltip_ability_Advanced_summon_wolves_note_lv5"				"【种族链接+】还将治疗召唤者"
+"DOTA_Tooltip_ability_Advanced_summon_wolves_note_lv10"			"【迅疾+】狼的攻击间隔降低至1/s"
+"DOTA_Tooltip_ability_Advanced_summon_wolves_note_lv15"			"【狼群】召唤数量加1"
+"DOTA_Tooltip_ability_Advanced_summon_wolves_note_lv20"			"【狼群+】将出现头领，头领继承属性提高50%%"
+"DOTA_Tooltip_ability_Advanced_summon_wolves_note_base_Info"      "攻击力继承：+2%/级<br/>生命值继承：+1%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_summon_wolves_note_lv25_1"				"【协同作战】'种族链接'的恢复效果提升至35%%，头领将获得光环，使周围600范围的友方召唤物攻击敌人时有30%%几率附带自身的攻击,该效果可以叠加，意味着两只头领效果叠加存在"
+"DOTA_Tooltip_ability_Advanced_summon_wolves_note_lv25_2"				"【繁殖】狼群每击杀一名敌人则累计一点能量，每25点可以额外召唤出一头幼狼，仅继承50%%的属性，在战斗回合每使用8次技能，可以使一头幼狼永久变为成年体。最多额外召唤五头"
+"DOTA_Tooltip_ability_Advanced_summon_wolves_note_lv25_3"				"【血夜之眼】在夜晚时狼群的继承属性提升50%%并获得嚎叫技能（召唤时），攻击速度提升200（召唤后）"
+
+"DOTA_Tooltip_ability_Advanced_Demonic_Conversion_note_lv5"				"【分则能成+】分裂的单位将额外获得30%%属性加成"
+"DOTA_Tooltip_ability_Advanced_Demonic_Conversion_note_lv10"			"【太初之能+】每0.7秒提升一次"
+"DOTA_Tooltip_ability_Advanced_Demonic_Conversion_note_lv15"			"【能量汲取】虚灵体造成的伤害的10%%将恢复施法者的生命值(视为施法者的吸血效果)"
+"DOTA_Tooltip_ability_Advanced_Demonic_Conversion_note_lv20"			"【分则能成++】分裂次数再次加1"
+"DOTA_Tooltip_ability_Advanced_Demonic_Conversion_note_base_Info"      "吸取属性：+0.5%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Demonic_Conversion_note_lv25_1"				"【虚空坠陷】可以开启自动施法，在此状态下虚灵体死亡时会生成一个小型的坍缩点，每秒对周围400范围敌人造成智力两倍的魔法伤害，当周围600范围内存在多个坍缩点时，坍缩点将汇聚到一起，并增加30%%的伤害（线性叠加，最多到达500%%），当同时存在的坍缩点大于6时，将移除最初的一个坍缩点"
+"DOTA_Tooltip_ability_Advanced_Demonic_Conversion_note_lv25_2"				"【微型凋零】虚灵体死亡分裂时或者死亡时在原地产生一个400范围的午夜凋零效果，持续2秒，如果施法者没拥有高阶午夜凋零则不会触发"
+"DOTA_Tooltip_ability_Advanced_Demonic_Conversion_note_lv25_3"				"【太虚神力】虚灵体的将无法再分裂，但继承属性提升1倍，虚灵体的持续时间为2倍，同时'太初之能'的累计速度提升一倍"
+
+"DOTA_Tooltip_ability_Advanced_Plague_Ward_note_lv5"				"【增殖体+】增殖体继承属性提升至70%%"
+"DOTA_Tooltip_ability_Advanced_Plague_Ward_note_lv10"			"【毒液腐蚀+】腐蚀效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_Plague_Ward_note_lv15"			"【魔法免疫】将获得魔法免疫效果"
+"DOTA_Tooltip_ability_Advanced_Plague_Ward_note_lv20"			"【远射】获得等同于施法者攻击距离的射程提升(最少为400点)"
+"DOTA_Tooltip_ability_Advanced_Plague_Ward_note_base_Info"      "攻击继承：+1%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Plague_Ward_note_lv25_1"				"【完整增值】增殖体完全继承属性，同时攻击继承额度提升50%%"
+"DOTA_Tooltip_ability_Advanced_Plague_Ward_note_lv25_2"				"【完全体】不再产生增殖体，但本体将获得3倍继承效果"
+"DOTA_Tooltip_ability_Advanced_Plague_Ward_note_lv25_3"				"【进化】当召唤的剧毒守卫被击杀后，将增加一点进化额度，每到达50时增殖体的属性继承提升至90%%，100时腐蚀效果提升为两倍(UI面板不显示)，150时获得40%%的防御继承，200时远射的最低效果提升至750"
+
+"DOTA_Tooltip_ability_Advanced_return_note_lv5"				"【借力打力+】附加伤害值提升至18%%"
+"DOTA_Tooltip_ability_Advanced_return_note_lv10"			"【领域反击+】反击效果提升至75%%"
+"DOTA_Tooltip_ability_Advanced_return_note_lv15"			"【全属性附加】反击伤害额外增加敏捷与智力的30%%"
+"DOTA_Tooltip_ability_Advanced_return_note_lv20"			"【生命附加】反击伤害附加自身生命最大值的1%%"
+"DOTA_Tooltip_ability_Advanced_return_note_base_Info"      "基础伤害：+2/级<br/>力量乘数：+0.015/级<br/>"
+"DOTA_Tooltip_ability_Advanced_return_note_lv25_1"				"【太极生两仪】可以开启自动施法，在自动施法状态时可以切换阴阳两极，每隔10秒自动切换一次状态，处于阳极时反击伤害提高300%%,处于阴极时则失去反击伤害，但每秒恢复最大生命值的7%%。(不影响友军效果)"
+"DOTA_Tooltip_ability_Advanced_return_note_lv25_2"				"【分而治之】反击伤害将总是攻击同一名目标，该名目标为最初攻击的敌人，当目标死亡后才会切换目标，同时对此目标的反击伤害每次提高1%%,最多到达500%%"
+"DOTA_Tooltip_ability_Advanced_return_note_lv25_3"				"【卸甲】反击生效时将削减目标2点防御力，独立叠加持续60秒，最多50层，被状态抗性与负面状态持续时间增强影响"
+
+"DOTA_Tooltip_ability_Advanced_hoof_stomp_note_lv5"				"【本源撼动+】敌人少于5名即可产生效果，将忽略目标90%%不利于自身的状态抗性"
+"DOTA_Tooltip_ability_Advanced_hoof_stomp_note_lv10"			"【震撼大地+】在7秒后产生第三次效果，仅造成70%%伤害"
+"DOTA_Tooltip_ability_Advanced_hoof_stomp_note_lv15"			"【能量汇聚】每影响一名敌人，在18秒内提升5点力量，但最多10层（不被正面状态持续时间增强影响,可被强驱散）"
+"DOTA_Tooltip_ability_Advanced_hoof_stomp_note_lv20"			"【晕五个】对五个目标以上的敌人造成眩晕时将有50%%几率不进入冷却"
+"DOTA_Tooltip_ability_Advanced_hoof_stomp_note_base_Info"      "基础伤害：+15/级<br/>力量乘数：+0.15/级<br/>"
+"DOTA_Tooltip_ability_Advanced_hoof_stomp_note_lv25_1"				"【大地共鸣】释放时将使所有拥有地震的友军触发次地震"
+"DOTA_Tooltip_ability_Advanced_hoof_stomp_note_lv25_2"				"【毁灭】'震撼大地'触发次数提升至8，触发间隔为5秒，将变更为触发在释放点而不是跟随施法者"
+"DOTA_Tooltip_ability_Advanced_hoof_stomp_note_lv25_3"				"【大地巨人的压制】失去‘震撼大地’效果，变更为点目标技能，可以朝一个方向释放，并沿途产生3次技能效果，每次皆可以触发其他所有效果,但'晕五个'触发几率下降至10%%"
+
+"DOTA_Tooltip_ability_Advanced_Untouchable_note_lv5"				"【魔力抗拒+】持续时间提升至30秒"
+"DOTA_Tooltip_ability_Advanced_Untouchable_note_lv10"			"【生命回赠+】受到致命的伤害时有90%%可以保留1点生命且治疗自己等同于伤害量的生命"
+"DOTA_Tooltip_ability_Advanced_Untouchable_note_lv15"			"【无视抗性】技能所有效果无视魔法免疫"
+"DOTA_Tooltip_ability_Advanced_Untouchable_note_lv20"			"【圣洁】当主效果叠加至10的倍数层时，破坏目标被动效果，造成缴械与沉默，持续3秒(不被状态抗性与负面状态持续时间增强增强影响)"
+"DOTA_Tooltip_ability_Advanced_Untouchable_note_base_Info"      "基础攻速减缓：+1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Untouchable_note_lv25_1"				"【归零】当敌人累计层数到达35时将可以消耗25层点数，并对其周围500范围内至多3名敌人造成自身主属性*10的魔法伤害"
+"DOTA_Tooltip_ability_Advanced_Untouchable_note_lv25_2"				"【倾国倾城】仅魅惑魔女可以学习，将使得学习技能/技能升阶的价格变为15%%(不会与天赋叠加)"
+"DOTA_Tooltip_ability_Advanced_Untouchable_note_lv25_3"				"【倾国倾城·改】任何人都可以解锁，可以使得高阶技能的升级开销减少50%%（可以与魅惑魔女天赋叠加）"
+
+"DOTA_Tooltip_ability_Advanced_astral_step_note_lv5"				"【太虚+】持续时间提升2秒"
+"DOTA_Tooltip_ability_Advanced_astral_step_note_lv10"			"【位相共轭+】触发间隔降低至0.2秒"
+"DOTA_Tooltip_ability_Advanced_astral_step_note_lv15"			"【精神体共振】太虚印记爆炸时将对200范围内其他目标造成50%%的伤害"
+"DOTA_Tooltip_ability_Advanced_astral_step_note_lv20"			"【通脉】不再消耗法力，转而返回150点法力"
+"DOTA_Tooltip_ability_Advanced_astral_step_note_base_Info"      "太虚印记基础伤害+15/级<br/>太虚印记智力乘数：+0.15/级<br/>"
+"DOTA_Tooltip_ability_Advanced_astral_step_note_lv25_1"				"【虚无行者】'位相共轭'冷却时间变为一帧"
+"DOTA_Tooltip_ability_Advanced_astral_step_note_lv25_2"				"【位面之径】使用技能有60%%几率不消耗能量点数"
+"DOTA_Tooltip_ability_Advanced_astral_step_note_lv25_3"				"【无玄的传承】'位相共轭'效果附带技能的50%%伤害"
+
+"DOTA_Tooltip_ability_Advanced_dissimilate_note_lv5"				"【多重维度+】相位时间增加至3秒，且相位期间可以施法"
+"DOTA_Tooltip_ability_Advanced_dissimilate_note_lv10"			"【同步异化+】每选择一个灵扉，伤害增加5%%(可超过3个)"
+"DOTA_Tooltip_ability_Advanced_dissimilate_note_lv15"			"【多重维度++】每圈生成灵扉增加50%%，相位时间增加1秒"
+"DOTA_Tooltip_ability_Advanced_dissimilate_note_lv20"			"【异步化】相位期间技能施法消耗减少70%%"
+"DOTA_Tooltip_ability_Advanced_dissimilate_note_base_Info"      "基础伤害：+15/级<br/>智力乘数：+0.15/级<br/>"
+"DOTA_Tooltip_ability_Advanced_dissimilate_note_lv25_1"				"【同调】技能变更为不可刷新技能，冷却时间提升至30秒，但相位时间提升至10秒且可以攻击敌人"
+"DOTA_Tooltip_ability_Advanced_dissimilate_note_lv25_2"				"【无限维度】每次切换灵扉时还将提升5%%的伤害（与'同步异化'乘法计算），同时'同步异化'的最大灵扉数量提升至6"
+"DOTA_Tooltip_ability_Advanced_dissimilate_note_lv25_3"				"【虚无之军】使用技能时可以将周围1000范围内友军召唤物带入相位状态，召唤物将可以攻击，同时每带入一只召唤物将使技能伤害值提高20%%"
+
+
+"DOTA_Tooltip_ability_Advanced_aether_remnant_note_lv5"				"【残能+】触发次数加1"
+"DOTA_Tooltip_ability_Advanced_aether_remnant_note_lv10"			"【连结+】触发数量加1"
+"DOTA_Tooltip_ability_Advanced_aether_remnant_note_lv15"			"【多维】在目标地点产生一个观察相反方向的残阴,但是伤害降低50%%,控制效果降低50%%（包括主效果）"
+"DOTA_Tooltip_ability_Advanced_aether_remnant_note_lv20"			"【守望者】残像存在时间加10秒，且只要残像存在，每经过10秒可以增加一次触发机会"
+"DOTA_Tooltip_ability_Advanced_aether_remnant_note_base_Info"      "基础伤害：+15/级<br/>智力乘数：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_aether_remnant_note_lv25_1"				"【永续幻影】残像的存续时间加倍，即使触发次数消耗完残像也不会消失"
+"DOTA_Tooltip_ability_Advanced_aether_remnant_note_lv25_2"				"【分解与重组】每次触发技能效果时将在残像所在位置触发一次粒子分解，对400范围内敌人生命平均百分比*自身最大魔法值*30%%的伤害"
+"DOTA_Tooltip_ability_Advanced_aether_remnant_note_lv25_3"				"【维度重合】失去'多维'效果，转变为被动技能，每5次攻击将召唤出一具残像到目标位置，内置冷却0.7秒，不受冷却缩减影响"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_unleash_note_lv5"				"【怒意狂击+】触发几率提升至32%%"
+"DOTA_Tooltip_ability_Advanced_unleash_note_lv10"			"【风暴+】空窗期缩短至0.6秒"
+"DOTA_Tooltip_ability_Advanced_unleash_note_lv15"			"【拳击手】每次充能攻击次数加4"
+"DOTA_Tooltip_ability_Advanced_unleash_note_lv20"			"【闪电侠】空窗期闪避率增加80%%"
+"DOTA_Tooltip_ability_Advanced_unleash_note_base_Info"      "持续时间：+0.2秒/级<br/>攻击次数：+0.1/级"
+"DOTA_Tooltip_ability_Advanced_unleash_note_lv25_1"				"【古龙之眼】古龙之眼激发了所有潜力，你的每次攻击都有50%%几率触发脉冲"
+"DOTA_Tooltip_ability_Advanced_unleash_note_lv25_2"				"【米拉娜的羁绊】必须队友中有米拉娜才有效，技能转变为被动，将使得双方都获得永久的该技能效果"
+"DOTA_Tooltip_ability_Advanced_unleash_note_lv25_3"				"【达维安的羁绊】必须队友中有龙骑士才有效，技能开启时周围1000范围的友方英雄都可以获得技能效果,但其他英雄只能持续25秒"
+
+
+"DOTA_Tooltip_ability_Advanced_earth_spike_note_lv5"				"【地狱之息+】作用范围提升至600，伤害提升至75%%"
+"DOTA_Tooltip_ability_Advanced_earth_spike_note_lv10"			"【潜影之灵+】上限提升至250%%"
+"DOTA_Tooltip_ability_Advanced_earth_spike_note_lv15"			"【广域化】施法距离提升至3000"
+"DOTA_Tooltip_ability_Advanced_earth_spike_note_lv20"			"【摄灵】每次命中将恢复等同于伤害量3%%（但不超过智力*0.3）的魔法值"
+"DOTA_Tooltip_ability_Advanced_earth_spike_note_base_Info"      "基础伤害：+15/级<br/>智力乘数：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_earth_spike_note_lv25_1"				"【魔力赋予】可以自动施法，在该状态下损失所有魔法，转变为额外伤害"
+"DOTA_Tooltip_ability_Advanced_earth_spike_note_lv25_2"				"【死灵哭嚎】在技能作用下的敌人死亡时将发出痛苦的悲鸣，生成一个灵气区域，持续5秒，350范围内的敌人将减少20%%的魔法抗性，可以叠加。另外，在击中时便有10%%的几率直接生成灵气区域。"
+"DOTA_Tooltip_ability_Advanced_earth_spike_note_lv25_3"				"【死亡一指】当拥有高阶死亡一指时，将对命中的目标发动一次单体的死亡一指(无法被'地狱之息'触发')"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_repel_note_lv5"				"【圣光环绕+】恢复效果提升至力量的150%%"
+"DOTA_Tooltip_ability_Advanced_repel_note_lv10"			"【完人之诫+】触发次数加一"
+"DOTA_Tooltip_ability_Advanced_repel_note_lv15"			"【圣盾】状态持续期间受到的所有伤害有30%%几率减半"
+"DOTA_Tooltip_ability_Advanced_repel_note_lv20"			"【圣盾+】触发几率提升至50%%"
+"DOTA_Tooltip_ability_Advanced_repel_note_base_Info"      "力量加成：+1/级<br/>生命恢复加成：+2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_repel_note_lv25_1"				"【完美之盾】'圣光环绕'的限制从50%%提升至100%%，同时恢复效果提升至力量的4倍，施加状态后可以完全抵挡10次伤害"
+"DOTA_Tooltip_ability_Advanced_repel_note_lv25_2"				"【人无完人】'完人之诫'不再有次数限制，转变为60%%几率触发"
+"DOTA_Tooltip_ability_Advanced_repel_note_lv25_3"				"【全能之神的庇护】增加目标100点力量，同时目标在状态期间生命值低于20%%时候将恢复20%%，最多触发10次"
+
+
+"DOTA_Tooltip_ability_Advanced_purification_note_lv5"				"【圣耀+】效果提升至75%%"
+"DOTA_Tooltip_ability_Advanced_purification_note_lv10"			"【本源唤醒+】触发几率提升至15%%"
+"DOTA_Tooltip_ability_Advanced_purification_note_lv15"			"【圣佑】使本技能计算治疗效果时的治疗增强增加50%%"
+"DOTA_Tooltip_ability_Advanced_purification_note_lv20"			"【圣礼】被治疗的单位将在2.5秒内获得100%%伤害抗性"
+"DOTA_Tooltip_ability_Advanced_purification_note_base_Info"      "基础伤害/治疗：+10/级<br/>力量乘数：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_purification_note_lv25_1"				"【神佑】每次使用此技能或者触发'本源唤醒'可以使自身在30秒内提高10点力量，最多500(被正面状态持续时间增强影响)"
+"DOTA_Tooltip_ability_Advanced_purification_note_lv25_2"				"【源力】'本源唤醒'的触发几率提升至20%%，同时1秒内的最大触发次数提升至10" 
+"DOTA_Tooltip_ability_Advanced_purification_note_lv25_3"				"【伤痛的拒绝】技能携带者被攻击时候有20%%几率对自身触发技能效果，但不会触发'圣礼',每秒只能触发一次"
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_magic_blessing_note_lv5"				"【魔力操控+】智力恢复效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_magic_blessing_note_lv10"			"【最高造诣+】基础概率提升至15%%"
+"DOTA_Tooltip_ability_Advanced_magic_blessing_note_lv15"			"【魔导】所有技能在施法完成7秒后将减少2.5秒冷却时间"
+"DOTA_Tooltip_ability_Advanced_magic_blessing_note_lv20"			"【魔导+】所有技能在施法完成5.5秒后将减少4秒冷却时间"
+"DOTA_Tooltip_ability_Advanced_magic_blessing_note_base_Info"      "技能伤害：+1%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_magic_blessing_note_lv25_1"				"【魔导的极致】施法不再有施法前摇，每次施展相同的技能时还将技能伤害提高20%%，最多到达400%%"
+"DOTA_Tooltip_ability_Advanced_magic_blessing_note_lv25_2"				"【七宗罪·强欲】每使用一个从未使用过的技能或道具时将使技能伤害增加2%%（三个阶级的技能视为不同技能），但最多触发300次"
+"DOTA_Tooltip_ability_Advanced_magic_blessing_note_lv25_3"				"【阿哈利姆的福佑】使所有技能的高阶技能计算基础数值加成时取当前等级+10"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Greevils_Greed_note_lv5"				"【以金炼金+】加成效果提升50%%，最大额度提升40%%"
+"DOTA_Tooltip_ability_Advanced_Greevils_Greed_note_lv10"			"【迈达斯圣手+】每回合有50%%几率获得额外的能量"
+"DOTA_Tooltip_ability_Advanced_Greevils_Greed_note_lv15"			"【储蓄之伍】以金炼金的最大额度再次提升100%%（乘法叠加），这一部分将取决于队伍中除自己之外持有金币最多的友军（单人无效）"
+"DOTA_Tooltip_ability_Advanced_Greevils_Greed_note_lv20"			"【王之宝库】技能可以开启自动施法，此时主动使用可以花费5500金币生成一个超级宝箱，使用将生成当前回合结算等级的奖励(这个宝箱可以给予队友使用)"
+"DOTA_Tooltip_ability_Advanced_Greevils_Greed_note_base_Info"      "额外金币：+20/级<br/>额外金币倍数：+0.005/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Greevils_Greed_note_lv25_1"				"【圣杯的赐福】每拥有1000金币增加4点全属性，但最多只计算90k金币"
+"DOTA_Tooltip_ability_Advanced_Greevils_Greed_note_lv25_2"				"【潘多拉魔盒】使接下来的每回合的敌人都获得200%%的生命加成与攻击力加成并提升70点防御力与60%%魔法抗性，但每成功度过一回合可以增加一本技能书奖励，无法逆转，但可以出售技能取消这个效果（奖励关与最后一关不会触发,可以同时有多个人解锁此效果，但最多只能到达10本技能书奖励，同时这十本同样受到人数制约系数，与苦难相同）"
+"DOTA_Tooltip_ability_Advanced_Greevils_Greed_note_lv25_3"				"【父子情深】变更下一次施法可以指定一名友方英雄使其成为自己的父亲（只能指定一次），指定完成后立即获得两个超级宝箱，输入'爸爸我没钱了'或者'DadINeedMoney'可以获取其余下的金币,可以多次操作"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Windrun_note_lv5"				"【风之姿+】额外获得300点移动速度加成"
+"DOTA_Tooltip_ability_Advanced_Windrun_note_lv10"			"【风之领域+】伤害效果提升100%%"
+"DOTA_Tooltip_ability_Advanced_Windrun_note_lv15"			"【风之姿++】闪避提升至95%%"
+"DOTA_Tooltip_ability_Advanced_Windrun_note_lv20"			"【凌云】移动不再受限于地形"
+"DOTA_Tooltip_ability_Advanced_Windrun_note_base_Info"      "持续时间：+0.2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Windrun_note_lv25_1"				"【空灵绝响】每秒进入0.1秒的音速，移动速度增加10000，此时如果处于移动则讲产生音爆，对周围600范围内敌人造成敏捷*5的物理伤害与0.5秒的眩晕"
+"DOTA_Tooltip_ability_Advanced_Windrun_note_lv25_2"				"【赫尔墨斯的步伐】每移动500距离将留下一个10秒的残影，当受到致命伤害时将免疫此次伤害并移动到一个最先产生的幻影位置,但会使状态减少0.1秒，同时对此前的位置600范围内的敌人造成敏捷*10的物理伤害。状态刷新或者消失时消除所有残影。在一瞬间移动超过500距离时将不会记录，最多同时存在20具残影"
+"DOTA_Tooltip_ability_Advanced_Windrun_note_lv25_3"				"【风元素的赐福】状态持续期间每移动100距离可以提高30点攻击力，最高9000，状态刷新时归零"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Blood_Sacrifice_note_lv5"				"【叠加态+】有30%%几率双重施法,受到概率事件加成50%%影响"
+"DOTA_Tooltip_ability_Advanced_Blood_Sacrifice_note_lv10"			"【血怒+】伤害吸血效果提升50%%"
+// "DOTA_Tooltip_ability_Advanced_Blood_Sacrifice_note_lv15"			"【回馈】普通攻击后也会增加一层buff。(仅在生命值大于28%%时生效)"
+"DOTA_Tooltip_ability_Advanced_Blood_Sacrifice_note_lv15"			"【回馈】每次刷新状态会提升前13层的持续时间5秒"
+"DOTA_Tooltip_ability_Advanced_Blood_Sacrifice_note_lv20"			"【叠加态++】100%%触发双重施法,边际效益递减减少至5%%"
+"DOTA_Tooltip_ability_Advanced_Blood_Sacrifice_note_base_Info"      "持续时间：+0.5/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Blood_Sacrifice_note_lv25_1"				"【经济学家】边际效用递减减少至1.7%%%"
+"DOTA_Tooltip_ability_Advanced_Blood_Sacrifice_note_lv25_2"				"【血神的赐福】不再有施法前摇，每层状态还将增加8%%%的最大生命值，同时带来每秒0.7%%%最大生命值的恢复"
+"DOTA_Tooltip_ability_Advanced_Blood_Sacrifice_note_lv25_3"				"【融合】解锁后可以开启自动施法，开启自动施法后的下一时刻将记录你当前拥有的状态层数将其永久化并转化为被动技能"
+
+
+"DOTA_Tooltip_ability_Advanced_Chronosphere_note_lv5"				"【时间领主+】每点敏捷的提升效果增加50%%"
+"DOTA_Tooltip_ability_Advanced_Chronosphere_note_lv10"			"【超维度+】每次攻击的攻击速度提升增加50%%"
+"DOTA_Tooltip_ability_Advanced_Chronosphere_note_lv15"			"【同化】范围内友军不会被控制"
+"DOTA_Tooltip_ability_Advanced_Chronosphere_note_lv20"			"【无力化】结界内的敌人的伤害将减弱90%%"
+"DOTA_Tooltip_ability_Advanced_Chronosphere_note_base_Info"      "持续时间：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Chronosphere_note_lv25_1"				"【超越时间】受到致命伤害如果技能冷却完成则免疫伤害且0.5秒内无敌，并自动以自身为中心释放时间结界，只持续3秒，但冷却时间只有10秒。"
+"DOTA_Tooltip_ability_Advanced_Chronosphere_note_lv25_2"				"【天国制造】在持续时间内获得5000点攻击速度加成，移动可以在瞬间完成"
+"DOTA_Tooltip_ability_Advanced_Chronosphere_note_lv25_3"				"【世界】在结界内创造出替身，每0.1秒离自身最近的一名敌人进行攻击。"
+
+"DOTA_Tooltip_ability_Advanced_Time_Drain_note_lv5"				"【时间管理大师+】触发几率提升至15%%"
+"DOTA_Tooltip_ability_Advanced_Time_Drain_note_lv10"			"【替身+】每0.75秒触发一次"
+"DOTA_Tooltip_ability_Advanced_Time_Drain_note_lv15"			"【汲取】将恢复自身等量目标生命恢复倍数的生命值（不视为治疗或吸血，固定数值）"
+"DOTA_Tooltip_ability_Advanced_Time_Drain_note_lv20"			"【真视界】偷取时间值增加1秒"
+"DOTA_Tooltip_ability_Advanced_Time_Drain_note_base_Info"      "触发几率：+0.8%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Time_Drain_note_lv25_1"				"【白金之星】'替身'每次的攻击变为多次攻击，在2到5中随机，有5%%几率变为20次, 搜寻范围提升至500"
+"DOTA_Tooltip_ability_Advanced_Time_Drain_note_lv25_2"				"【白金之星·世界】'替身'的攻击有10%%触发一次2秒的1000范围的时间结界（需要拥有高阶时间结界），但有5秒的固定冷却时间"
+"DOTA_Tooltip_ability_Advanced_Time_Drain_note_lv25_3"				"【回到过去】可以主动施法，将自身的生命与魔法以及技能道具状态回退到5秒前，可以对不可刷新技能生效，冷却时间固定120秒"
+
+"DOTA_Tooltip_ability_Advanced_Void_time_walk_note_lv5"				"【裂缝撕裂+】状态持续时间加5秒"
+"DOTA_Tooltip_ability_Advanced_Void_time_walk_note_lv10"			"【时间加速+】冷却时间减少3秒，无论剩余冷却时间小于3秒"
+"DOTA_Tooltip_ability_Advanced_Void_time_walk_note_lv15"			"【回溯】施法后的回溯时间提升1秒"
+"DOTA_Tooltip_ability_Advanced_Void_time_walk_note_lv20"			"【反时间加速】途径的所有敌人已进入冷却的技能的冷却时间增加1秒，未进入冷却的技能的冷却时间增加2秒"
+"DOTA_Tooltip_ability_Advanced_Void_time_walk_note_base_Info"      "最大距离：+20/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Void_time_walk_note_lv25_1"				"【时间泡沫】释放时创造的时间结界范围提升至130，持续时间提升至2秒，但持续时间的增加每5秒只能触发一次"
+"DOTA_Tooltip_ability_Advanced_Void_time_walk_note_lv25_2"				"【时间操控】'裂缝撕裂'产生的增益效果变为可以叠加，且基础持续时间提升至70秒"
+"DOTA_Tooltip_ability_Advanced_Void_time_walk_note_lv25_3"				"【时间断点】每5秒将自动触发一次回溯效果，取消3秒内受到的伤害，同时根据取消值对周围500范围敌人造成最高全额攻击力10倍的物理伤害"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_false_promise_note_lv5"				"【命运协调+】治疗效果提升至3.5倍"
+"DOTA_Tooltip_ability_Advanced_false_promise_note_lv10"			"【命运之盾+】伤害量缩减效果提升至8%%"
+"DOTA_Tooltip_ability_Advanced_false_promise_note_lv15"			"【命运之剑】生效期间单位造成的伤害提升50%%"
+"DOTA_Tooltip_ability_Advanced_false_promise_note_lv20"			"【命运之盔】生效期间计算的伤害量为50%%"
+"DOTA_Tooltip_ability_Advanced_false_promise_note_base_Info"      "持续时间：+0.3/级<br/>"
+"DOTA_Tooltip_ability_Advanced_false_promise_note_lv25_1"				"【厄运消除】可以完全消除目标身上附带的'风险骰子'的负面效果,并将层数转化为正面效果，但最多只有120层(如果正面状态层数已经大于负面状态了，则只有清除负面状态效果)"
+"DOTA_Tooltip_ability_Advanced_false_promise_note_lv25_2"				"【替罪羊】将记录所有受到的伤害值（'命运之盾'与'命运之盔'的影响前）作为能量点，在状态结束时将这一部分的累计值的两倍释放出去，造成魔法伤害，对1000范围内敌人进行分摊伤害，但分摊后的伤害最多只为最大魔法的10倍，如果有任意致死效果产生将不再产生原技能的伤害结算效果"
+"DOTA_Tooltip_ability_Advanced_false_promise_note_lv25_3"				"【命运博士】状态持续期间目标大部分概率触发事件概率为1.4倍(不受影响的包括但不限于以下：'风险骰子''苦难''闪避类''伤害免疫类''暴击类'),小部分仅受到部分比率的加成"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_fates_edict_note_lv5"				"【启示+】效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_fates_edict_note_lv10"			"【揭示+】效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_fates_edict_note_lv15"			"【真言】有利的正面状态持续时间增强与负面状态持续时间增强增强的计算为双倍效果"
+"DOTA_Tooltip_ability_Advanced_fates_edict_note_lv20"			"【无我】不再缴械友军，不再使敌人魔免"
+"DOTA_Tooltip_ability_Advanced_fates_edict_note_base_Info"      "持续时间：+0.15/级<br/>"
+"DOTA_Tooltip_ability_Advanced_fates_edict_note_lv25_1"				"【命运操纵】对友军使用后正面状态持续期间, 目标造成的技能伤害将在得到技能伤害增幅时被隔断（生命移除，反伤等除外），你将代替其对他的目标造成伤害，这个伤害可以将被视为特殊伤害，被你的技能伤害以及伤害增幅影响但不会再触发相同的效果"
+"DOTA_Tooltip_ability_Advanced_fates_edict_note_lv25_2"				"【正操纵】获得光环效果，对周围1500范围内友军施加正面效果，但魔法抗性仅有30%%，可以与主动效果叠加"
+"DOTA_Tooltip_ability_Advanced_fates_edict_note_lv25_3"				"【反操纵】获得光环效果，对周围1000范围内敌人施加除了缴械与魔法抗性之外的效果，可以与主动效果叠加"
+
+
+"DOTA_Tooltip_ability_Advanced_purifying_flame_note_lv5"			"【洗涤+】转变为强驱散"
+"DOTA_Tooltip_ability_Advanced_purifying_flame_note_lv10"			"【涤罪+】触发几率提升50%%，伤害为三倍效果"
+"DOTA_Tooltip_ability_Advanced_purifying_flame_note_lv15"			"【涤罪++】触发几率提升至100%%(两者)"
+"DOTA_Tooltip_ability_Advanced_purifying_flame_note_lv20"			"【重生】状态销毁后，对于敌人将会降低2%%的魔法抗性，对于友军则增加2%%的魔法抗性，固定持续时间20秒，独立计算持续时间"
+"DOTA_Tooltip_ability_Advanced_purifying_flame_note_base_Info"       "基础伤害：+10/级<br/>伤害智力乘数：+0.1/级<br/>基础治疗:+20/级<br/>治疗智力乘数：+0.15/级<br/>"
+"DOTA_Tooltip_ability_Advanced_purifying_flame_note_lv25_1"				"【天命之雨】变更为对地施法技能，以目标点为中心创造出500范围的大雨，每秒对范围内随机两名友军造成技能效果。如果开启了自动施法状态，则对敌人产生效果"
+"DOTA_Tooltip_ability_Advanced_purifying_flame_note_lv25_2"				"【调停者】使得任何友军释放技能时被施加一次技能效果，但技能冷却需要大于1秒"
+"DOTA_Tooltip_ability_Advanced_purifying_flame_note_lv25_3"				"【永恒的预言微光】每次对友军施法都会生成一个只有20%%效果的技能效果，不会被驱散，永久存在直到死亡，但最多叠加200次"
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_overcharge_note_lv5"				"【能量提升+】全属性提升增加至30%%"
+"DOTA_Tooltip_ability_Advanced_overcharge_note_lv10"			"【能量引导+】强化效果增加50%%"
+"DOTA_Tooltip_ability_Advanced_overcharge_note_lv15"			"【广域强化】不再对普通单位起作用（除非没有其他英雄），使得对范围内所有英雄起作用"
+"DOTA_Tooltip_ability_Advanced_overcharge_note_lv20"			"【能力超提升】对于除了自己之外的其他英雄单位将额外获得施法者30%%的全属性"
+"DOTA_Tooltip_ability_Advanced_overcharge_note_base_Info"       "增加攻速：+4/级<br/>每秒最大生命恢复：0.1%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_overcharge_note_lv25_1"				"【心流】友方单位的攻击可以使自身与对其目标发动一次攻击，但这个频率无法超过自身攻击速度(每个状态独立计算频率)"
+"DOTA_Tooltip_ability_Advanced_overcharge_note_lv25_2"				"【超负荷】可以开启自动施法，技能的除了'能力超提升'之外所有效果变为三倍，持续时间变为1.5倍，但技能冷却变为三倍且会等到自身的状态消失后再进入冷却"
+"DOTA_Tooltip_ability_Advanced_overcharge_note_lv25_3"				"【永恒】失去'广域强化'效果，但状态转变为永久，除非进行了下一次施法(但仅清除英雄的buff)"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_tether_note_lv5"				"【超负荷+】持续时间增加4秒"
+"DOTA_Tooltip_ability_Advanced_tether_note_lv10"			"【善意+】加强效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_tether_note_lv15"			"【心意】额外提升目标35%%状态抗性与20%%负面状态持续时间增强"
+"DOTA_Tooltip_ability_Advanced_tether_note_lv20"			"【强流】每秒的恢复效果有20%%几率产生三倍效果"
+"DOTA_Tooltip_ability_Advanced_tether_note_base_Info"      "施法距离：+20/级<br/>恢复传输倍率：+0.01/级<br/>"
+"DOTA_Tooltip_ability_Advanced_tether_note_lv25_1"				"【超导传输】每次施法冷却时间大于3秒的技能时可以增加传输效率，每次施法都可以使传输效率在30秒内提高10%%，每层超导传输还可以提高目标3%%的伤害输出，受到正面状态持续时间增强影响。"
+"DOTA_Tooltip_ability_Advanced_tether_note_lv25_2"				"【肉体增强】在战斗阶段每对目标产生=目标最大生命值100%%的治疗（无论是否是有效治疗）可以使目标获得永久1%%最大生命值加成，最多100%%。这个效果出售技能后也可以保留"
+"DOTA_Tooltip_ability_Advanced_tether_note_lv25_3"				"【精神增强】在战斗阶段每对目标产生=目标最大魔法值100%%的魔法恢复（无论是否是有效恢复）可以使目标获得永久1%%最大魔法值加成，最多150%%。这个效果出售技能后也可以保留"
+
+"DOTA_Tooltip_ability_Advanced_aphotic_shield_note_lv5"				"【能量吸收+】过滤伤害提升至60，触发不消耗几率提升至22%%"
+"DOTA_Tooltip_ability_Advanced_aphotic_shield_note_lv10"			"【生命转化+】转换比例提升至40%%"
+// "DOTA_Tooltip_ability_Advanced_aphotic_shield_note_lv15"			"【适配化】改变技能护盾逻辑，变更为受到伤害时恢复等量于伤害的生命值（视为生命值变更），可以与其他任意同种类护盾叠加生效。"
+"DOTA_Tooltip_ability_Advanced_aphotic_shield_note_lv15"			"【超量格挡】每点伤害仅消耗0.75护盾值"
+"DOTA_Tooltip_ability_Advanced_aphotic_shield_note_lv20"			"【范围施法】对目标350范围内至多2名额外目标造成技能效果"
+"DOTA_Tooltip_ability_Advanced_aphotic_shield_note_base_Info"       "基础护盾：+2/级<br/>额外护盾力量乘数：+0.1/级<br/>爆炸伤害：+10/级<br/>爆炸伤害力量乘数：+0.05/级<br/>"
+"DOTA_Tooltip_ability_Advanced_aphotic_shield_note_lv25_1"				"【亚巴顿的死灵之盾】护盾持续时间增加一倍，'生命转化'的吸收生命值提变为20%%，但将转化为相当于生命值300%%的护盾数值"
+"DOTA_Tooltip_ability_Advanced_aphotic_shield_note_lv25_2"				"【高度自动化】转变为被动技能，所有友军都可以自动获得护盾效果，当其在7秒内没受到伤害时即可恢复获得一次护盾（仍旧拥有'生命转化'效果）"
+"DOTA_Tooltip_ability_Advanced_aphotic_shield_note_lv25_3"				"【黯淡光脉】变为对敌人施法，'生命转化'的吸收生命值变为施法者的生命值，同时目标的护盾效果仅可以抵挡一次伤害，随后爆炸，造成4倍伤害"
+
+
+
+"DOTA_Tooltip_ability_Advanced_mist_coil_note_lv5"			"【迷雾缠身+】持续时间提升3秒"
+"DOTA_Tooltip_ability_Advanced_mist_coil_note_lv10"			"【灵魂追迹+】施法距离提升至全图范围"
+"DOTA_Tooltip_ability_Advanced_mist_coil_note_lv15"			"【两极反转】不再对自身造成40%%的伤害，而是造成40%%的治疗"
+"DOTA_Tooltip_ability_Advanced_mist_coil_note_lv20"			"【范围施法】对目标350范围的单位都造成技能效果"
+"DOTA_Tooltip_ability_Advanced_mist_coil_note_base_Info"    "基础伤害/治疗：+15/级<br/>力量乘数：+0.15/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_mist_coil_note_lv25_1"				"【阿哈利姆的赐福】开启高阶回光反照期间，每当你受到最大生命值5%%的伤害时对伤害你的目标释放一次技能，但每0.4秒只会触发一次"
+"DOTA_Tooltip_ability_Advanced_mist_coil_note_lv25_2"				"【灵魂缠身】仅亚巴顿可以解锁此效果，'魂归'的冷却时间降低至10秒，触发时还将对目标施加一次单目标迷雾缠绕效果"
+"DOTA_Tooltip_ability_Advanced_mist_coil_note_lv25_3"				"【高级医护人员】技能冷却时间减少至3.5秒，同时在为目标治疗前将触发一次单体的高阶无光之盾(但无光之盾解锁奥义3后无法触发)"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Nature_Attendants_note_lv5"			"【自然而然+】转变为强驱散效果"
+"DOTA_Tooltip_ability_Advanced_Nature_Attendants_note_lv10"			"【森林之子+】由森林之子带来的治疗效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_Nature_Attendants_note_lv15"			"【广域治疗】主动效果的治疗范围提升至800"
+"DOTA_Tooltip_ability_Advanced_Nature_Attendants_note_lv20"			"【精灵之海】主动效果的小精灵数量加5(无视觉效果)"
+"DOTA_Tooltip_ability_Advanced_Nature_Attendants_note_base_Info"    "基础治疗：+1/级<br/>智力乘数：+0.004/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Nature_Attendants_note_lv25_1"	"【自然之子】当主动效果生效时召唤出的召唤物都随身附带两只永久的小精灵，同时被动召唤增强加20%%"
+"DOTA_Tooltip_ability_Advanced_Nature_Attendants_note_lv25_2"	"【治愈的赐福】每当小精灵治疗一个目标时，可以使其的最大生命值永久加1，最多叠加15000层"
+"DOTA_Tooltip_ability_Advanced_Nature_Attendants_note_lv25_3"	"【林渊】技能携带者造成的任意治疗效果都可以转变为等额的伤害，每0.5秒随机抽选一个周围1000范围内的敌人以魔法伤害返还，视为反伤。仅战斗回合生效"
+
+
+"DOTA_Tooltip_ability_Advanced_Decrepify_note_lv5"			"【极速衰老+】叠加速率提升100%%"
+"DOTA_Tooltip_ability_Advanced_Decrepify_note_lv10"			"【灵魂置换+】后续的持续时间提升至10秒"
+"DOTA_Tooltip_ability_Advanced_Decrepify_note_lv15"			"【归位】对友军不再造成缴械效果"
+"DOTA_Tooltip_ability_Advanced_Decrepify_note_lv20"			"【归位+】对友军使用时将获得魔法抗性加成"
+"DOTA_Tooltip_ability_Advanced_Decrepify_note_base_Info"    "魔法抗性降低：+1%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Decrepify_note_lv25_1"				"【永久衰老】仅影响对敌使用，将使得缴械与免疫物理伤害不再发挥作用，持续时间变为永久且不可驱散，且每次对重复目标施加衰老时候会增加10%%的效果"
+"DOTA_Tooltip_ability_Advanced_Decrepify_note_lv25_2"				"【衰老光环】技能转化为光环，失去所有附加效果，仅保留魔抗削减与移速减缓效果，对周围1300范围的双方单位施加衰老效果，对友军为加成效果。处于光环中的敌人每经过5秒还将增加10%%的魔法抗性削减效果，最多为三倍"
+"DOTA_Tooltip_ability_Advanced_Decrepify_note_lv25_3"				"【转世】仅帕格纳可以学习，将领悟失去的记忆，自身的天赋技能'湮灭术'的作用范围提升一倍，伤害提升4倍"
+
+
+"DOTA_Tooltip_ability_Advanced_Bad_Juju_note_lv5"			"【邪神之力+】持续时间加5秒"
+"DOTA_Tooltip_ability_Advanced_Bad_Juju_note_lv10"			"【编织+】持续时间加10秒"
+"DOTA_Tooltip_ability_Advanced_Bad_Juju_note_lv15"			"【渗透】每次施法都将增加1%%的额外冷却缩减，持续15秒，但最多额外增加15%%,与本体乘法叠加"
+"DOTA_Tooltip_ability_Advanced_Bad_Juju_note_lv20"			"【渗透+】最大值提升至25%%"
+"DOTA_Tooltip_ability_Advanced_Bad_Juju_note_base_Info"     "冷却缩减：+0.4%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Bad_Juju_note_lv25_1"	    "【善咒】当你释放任意冷却时间大于3的技能时，其他非不可刷新技能的冷却时间可以减少1.5秒，最多影响2个技能，优先度从左到右。同时自身冷却时间加2，大于10秒后不再触发"
+"DOTA_Tooltip_ability_Advanced_Bad_Juju_note_lv25_2"	    "【虚无咒术】使用冷却时间大于3的指向性技能时，如果目标是敌人则对其施加一次高阶剧毒之触，如果是友军则对其施加一次高阶暗影波,有0.1秒冷却时间"
+"DOTA_Tooltip_ability_Advanced_Bad_Juju_note_lv25_3"	    "【阿哈利姆的赐福】释放任意冷却时间大于3的技能时，可以对周围至多8名敌人发动一次触发所有攻击特效的攻击，且不会被视为奖励攻击。每次触发获得1秒冷却，冷时间大于10时不再触发"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Shadow_Wave_note_lv5"			"【光明波+】损失生命值系数提升至35%%"
+"DOTA_Tooltip_ability_Advanced_Shadow_Wave_note_lv10"			"【暗夜护盾+】每治疗一名友军还将提升目标4%%魔法抗性"
+"DOTA_Tooltip_ability_Advanced_Shadow_Wave_note_lv15"			"【黯淡波】被伤害到的敌人会减少2点护甲，持续10秒（被状态抗性与负面状态持续时间增强增强影响），独立计算持续时间"
+"DOTA_Tooltip_ability_Advanced_Shadow_Wave_note_lv20"			"【光明波++】技能伤害将会计算被治疗增幅后的数值"
+"DOTA_Tooltip_ability_Advanced_Shadow_Wave_note_base_Info"      "基础伤害：+6/级<br/>智力乘数：+0.04/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Shadow_Wave_note_lv25_1"	    "【完全治疗】'光明波'可以治疗损失生命的60%%，有30%%几率治疗损失生命的100%%"
+"DOTA_Tooltip_ability_Advanced_Shadow_Wave_note_lv25_2"	    "【暗影图腾】转变为对点施法，将在指定地点插下暗影图腾，图腾每2秒自动对1000范围内最近的友方施加暗影波，图腾的持续时间为永久但只能有一尊，基础数值受到召唤增强影响"
+"DOTA_Tooltip_ability_Advanced_Shadow_Wave_note_lv25_3"	    "【简单易懂的强化】冷却时间减少至5秒，基础数值增加两倍，同时技能在造成治疗/伤害前会施加一次强驱散"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Shallow_Grave_note_lv5"			"【送葬+】作用范围提升200，伤害转换提升至50%%"
+"DOTA_Tooltip_ability_Advanced_Shallow_Grave_note_lv10"			"【灵葬+】属性奖励提升至50%%"
+"DOTA_Tooltip_ability_Advanced_Shallow_Grave_note_lv15"			"【能量维续】最少生命值由1提升至目标最大生命值的10%%"
+"DOTA_Tooltip_ability_Advanced_Shallow_Grave_note_lv20"			"【快速冷却】冷却时间缩短至30秒"
+"DOTA_Tooltip_ability_Advanced_Shallow_Grave_note_base_Info"    "持续时间：+0.1/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Shallow_Grave_note_lv25_1"	    "【多重施法】目标与其周围500范围内至多3个单位也会被施加薄葬效果，自身必定获得薄葬，不会被计入3个单位中。额外的目标不会将召唤物纳入"
+"DOTA_Tooltip_ability_Advanced_Shallow_Grave_note_lv25_2"	    "【视死如归】在薄葬状态下，目标每10%%的损失生命值可以使其增加20%%的伤害，这个效果在状态结束后还将持续5秒"
+"DOTA_Tooltip_ability_Advanced_Shallow_Grave_note_lv25_3"	    "【厚葬】持续时间加倍，但只要状态持续期间目标的生命值触及最低血量就会在状态结束后强制死亡，在这种情况下目标如果在10秒内被友军救助，复活时间将减少至7秒，目标每拥有5000金币则减少0.3秒的复活时间。复生后将获得目标拥有金币/5000的永久全属性加成，但这个效果一个相同的单位最多只能触发20次,同时每次最多只能获得10点全属性。非战斗回合不会触发属性奖励"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Blood_Lust_note_lv5"				"【咏唱者+】加成获得50%%提升"
+"DOTA_Tooltip_ability_Advanced_Blood_Lust_note_lv10"			"【叠加态+】每次施法有30%%几率产生双倍效果,受到概率事件加成50%%影响,边际效益递减减少至5%%"
+"DOTA_Tooltip_ability_Advanced_Blood_Lust_note_lv15"			"【持久力】正面状态持续时间增强为正时计算2倍效果"
+"DOTA_Tooltip_ability_Advanced_Blood_Lust_note_lv20"			"【全属性提升】额外获得10点全属性加成"
+"DOTA_Tooltip_ability_Advanced_Blood_Lust_note_base_Info"       "增加移速：+0.4%%级<br/>增加攻速：+2/级<br/>增加攻击力：+2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Blood_Lust_note_lv25_1"				"【境界突破】边际效益递减效果减少至2.5%%，不再受到正面状态加成影响，但每层持续时间提升至50秒(边际效益递减在状态添加时确定，如果有两名不同的施法者，以首次施法为基准)"
+"DOTA_Tooltip_ability_Advanced_Blood_Lust_note_lv25_2"				"【双重施法】将额外影响离目标最近的一个友方英雄"
+"DOTA_Tooltip_ability_Advanced_Blood_Lust_note_lv25_3"				"【嗜血印记】变更为原地释放技能，释放技能只对自身有效，但状态转变为光环，可将50%%的效果分享给1000范围内的友方英雄(与原版状态互相独立)"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Viscous_Nasal_Goo_note_lv5"			"【分裂+】额外影响单位增加至6"
+"DOTA_Tooltip_ability_Advanced_Viscous_Nasal_Goo_note_lv10"			"【病毒+】次级鼻涕的拥有75%%效果"
+"DOTA_Tooltip_ability_Advanced_Viscous_Nasal_Goo_note_lv15"			"【重感冒】每层鼻涕额外减少2%%的魔法抗性与状态抗性"
+"DOTA_Tooltip_ability_Advanced_Viscous_Nasal_Goo_note_lv20"			"【交叉感染】当一名携带主效果的敌人被添加了次级效果时，有10%%几率永久性减少1护甲与2%%魔法抗性，最多叠加20层"
+"DOTA_Tooltip_ability_Advanced_Viscous_Nasal_Goo_note_base_Info"    "基础护甲降低：+0.1/级<br/>每层额外护甲降低：+0.04/级<br/>基础移速减缓：+2/级<br/>每层移速减缓：+0.4/级<br/>"    
+"DOTA_Tooltip_ability_Advanced_Viscous_Nasal_Goo_note_lv25_1"	    "【阿哈利姆的赐福】转变为被动技能，将自动对周围1000范围内的敌人释放，同时叠加的最大层数增加至20。这个效果还将触发高阶战意"
+"DOTA_Tooltip_ability_Advanced_Viscous_Nasal_Goo_note_lv25_2"	    "【病毒进化】主鼻涕与次级鼻涕每影响100次敌人后将进化一次，使基础护甲降低效果增加1点（额外的护甲降低不会显示在面板上）进化20次后将转变为不可驱散，且不再受到状态抗性影响"
+"DOTA_Tooltip_ability_Advanced_Viscous_Nasal_Goo_note_lv25_3"	    "【污染】转变为光环技能，对周围1000范围内的敌人施加10层鼻涕效果"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Warcry_note_lv5"				"【守夜法印+】加成效果提升至75%%"
+"DOTA_Tooltip_ability_Advanced_Warcry_note_lv10"			"【凛冬将至+】额外伤害提升至22%%"
+"DOTA_Tooltip_ability_Advanced_Warcry_note_lv15"			"【屹立不倒】主动效果额外提供35%%的状态抗性与20%%的魔法抗性"
+"DOTA_Tooltip_ability_Advanced_Warcry_note_lv20"			"【我们是冠军】状态将不再可被驱散，作用范围提升至全图"
+"DOTA_Tooltip_ability_Advanced_Warcry_note_base_Info"       "移动速度加成：+1%%/级<br/>力量加成:+1/级<br/>作用范围：+10/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Warcry_note_lv25_1"	    "【守誓】施法时每有一名友方英雄使技能效果提升20%%，每有一个召唤物使技能效果提升1%%(仅影响基础加成与LV15效果)"
+"DOTA_Tooltip_ability_Advanced_Warcry_note_lv25_2"	    "【破誓】主技能效果不再对友军生效（光环效果仍然生效），相对的，施法时每存在一个本该被影响的友方英雄可以使技能效果提升60%%，召唤单位则提升3%%(仅影响基础加成与LV15效果)"
+"DOTA_Tooltip_ability_Advanced_Warcry_note_lv25_3"	    "【弑君者】可以指定一名友方英雄为自己的君主，永久增加其100点全属性，但当其每击杀30名敌人后将被你背刺，使其生命值剩下1，如果背刺前该单位生命值已低于20%%则会被刺杀。这个奥义可以重复解锁，每次解锁可以指定一次，指定完成后可以使原石的可购买次数恢复1，且所需金币等级减1。同一个单位可被多次指定，最多5次，同时击杀数的累计也会增加"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_take_aim_note_lv5"			"【专注+】最大叠加层数提高至10"
+"DOTA_Tooltip_ability_Advanced_take_aim_note_lv10"			"【集中+】触发几率提升至99%%"
+"DOTA_Tooltip_ability_Advanced_take_aim_note_lv15"			"【全集中】当专注层数叠满后提升30全属性与10%%伤害加成"
+"DOTA_Tooltip_ability_Advanced_take_aim_note_lv20"			"【狙击】当冷却完成时额外增加1000攻击距离，攻击后进入冷却，冷却0.5秒"
+"DOTA_Tooltip_ability_Advanced_take_aim_note_base_Info"     "攻击距离加成：+5/级<br/>"
+"DOTA_Tooltip_ability_Advanced_take_aim_note_lv25_1"	            "【狙神】'狙击'提供的攻击距离提高至2000，冷却时间降低至0.24秒，当'专注'效果满时冷却时间变为0.12秒"
+"DOTA_Tooltip_ability_Advanced_take_aim_note_lv25_2"	            "【聚焦】'专注'的最大层数增加至50（'全集中'所需要的层数不变），每层'专注'将额外提供1%%的攻击伤害"
+"DOTA_Tooltip_ability_Advanced_take_aim_note_lv25_3"	            "【Jame的AWP】触发'狙击'时如果是切换了攻击目标，那么可以触发一次高阶暗杀，但1.5秒只能触发一次"
+
+
+"DOTA_Tooltip_ability_Advanced_feast_note_lv5"			"【分享/独食+】触发分享时将会额外触发一次，选取一个生命值最低的友军，两次可以恢复同个单位，独食的效果提升至2.5倍"
+"DOTA_Tooltip_ability_Advanced_feast_note_lv10"			"【暴食症+】每1%%生命值的提升吸血效果提升至2%%"
+"DOTA_Tooltip_ability_Advanced_feast_note_lv15"			"【血液狂乱】每造成全额攻击力*2的吸血效果时暂时提升自身10%%的攻击力，持续5秒，独立计算持续时间，最多15层（不被正面状态持续时间增强，独立计算持续时间）"
+"DOTA_Tooltip_ability_Advanced_feast_note_lv20"			"【真祖】当吸血增强为正数时，本技能的吸血增强的计算为三倍效果"
+"DOTA_Tooltip_ability_Advanced_feast_note_base_Info"    "伤害吸血：+0.4%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_feast_note_lv25_1"	            "【滴管长枪】吸血效果不再限制于攻击伤害"
+"DOTA_Tooltip_ability_Advanced_feast_note_lv25_2"	            "【即死抗性】对你造成的即死效果需要达到三倍才能有效果"
+"DOTA_Tooltip_ability_Advanced_feast_note_lv25_3"	            "【血亲】可以指定一次自身的血亲，'分享/独食'效果失效，使一名友方英雄与自己共享吸血能力，使目标获得本技能的能力，同时自身触发吸血时候目标也可以恢复同等的生命值，但反过来不生效"
+
+"DOTA_Tooltip_ability_Advanced_metamorphosis_note_lv5"			"【邪恶契约+】吸取范围提升至1000，吸取值提升至15%%"
+"DOTA_Tooltip_ability_Advanced_metamorphosis_note_lv10"			"【蚕食+】丢失生命值降低50%%"
+"DOTA_Tooltip_ability_Advanced_metamorphosis_note_lv15"			"【血祭】每秒可将当前生命值的0.5%%转化为基础攻击力，持续5秒(不被正面状态持续时间增强影响，独立计算持续时间)"
+"DOTA_Tooltip_ability_Advanced_metamorphosis_note_lv20"			"【荒邪之狱】将隐藏的位面的一部分力量带到现世，发动攻击时有5%%几率吸收目标10%%的生命以恢复自己（视为对自己治疗，不会造成伤害）"
+"DOTA_Tooltip_ability_Advanced_metamorphosis_note_base_Info"    "攻击力加成：+5/级<br/>攻击速度加成：+3/级<br/>射程加成：+4/级<br/>"
+"DOTA_Tooltip_ability_Advanced_metamorphosis_note_lv25_1"				"【混乱形态】不再变为远程形态，不再拥有攻击距离加成，但自身攻击伤害将提升100%%"
+"DOTA_Tooltip_ability_Advanced_metamorphosis_note_lv25_2"				"【威压形态】1000范围内的敌人将降低50点防御力"
+"DOTA_Tooltip_ability_Advanced_metamorphosis_note_lv25_3"				"【灭世形态】每0.7秒将对攻击范围内的敌方单位发出1-6次随机的攻击，触发所有效果"
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_shapeshift_note_lv5"				"【野性狂暴+】吸血效果提升至15%%，最大攻速提升增加至600"
+"DOTA_Tooltip_ability_Advanced_shapeshift_note_lv10"			"【血液热忱+】额外伤害提升100%%"
+"DOTA_Tooltip_ability_Advanced_shapeshift_note_lv15"			"【血夜】进入夜晚时变形时间消耗减少50%%"
+"DOTA_Tooltip_ability_Advanced_shapeshift_note_lv20"			"【狼群】释放时周围500范围的非处于变形状态的英雄都会进入变形"
+"DOTA_Tooltip_ability_Advanced_shapeshift_note_base_Info"       "额外伤害加成：+1%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_shapeshift_note_lv25_1"				"【永恒】自身变狼时间变为永久"
+"DOTA_Tooltip_ability_Advanced_shapeshift_note_lv25_2"				"【完全耐性】对破坏被动拥有完全耐性，移动阻碍完全耐性，无效化眩晕与沉默"
+"DOTA_Tooltip_ability_Advanced_shapeshift_note_lv25_3"				"【尖牙利齿】新增被动能力，由苦难'尖牙利齿'提供的攻击加成变为3倍"
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Omni_Slash_note_lv5"				"【起源+】每次攻击丢失5%%加成"
+"DOTA_Tooltip_ability_Advanced_Omni_Slash_note_lv10"			"【传承+】保底将增加两层"
+"DOTA_Tooltip_ability_Advanced_Omni_Slash_note_lv15"			"【剑法精研】每50点攻击力将增加0.15秒基础持续时间，搜寻范围提升250"
+"DOTA_Tooltip_ability_Advanced_Omni_Slash_note_lv20"			"【幻影剑舞】可以开启自动施法，普通攻击有10%%几率触发一次持续0.1秒的无敌斩(被被动破坏禁用)"
+"DOTA_Tooltip_ability_Advanced_Omni_Slash_note_base_Info"       "持续时间：+0.06/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Omni_Slash_note_lv25_1"				"【突破极限】攻击速度可以突破服务器帧数限制，最大可以达到三倍帧数刷新率的攻击频率"
+"DOTA_Tooltip_ability_Advanced_Omni_Slash_note_lv25_2"				"【宿命之剑】无敌斩的斩击可以削减目标1000点防御力"
+"DOTA_Tooltip_ability_Advanced_Omni_Slash_note_lv25_3"				"【无敌献祭】无敌斩失去无敌效果，可以被攻击，但免疫100%%的伤害，斩击频率提升至攻击速度的两倍，期间可以自身可以发动攻击，与无敌斩的斩击独立，'幻影剑舞'的状态变为可以叠加，而不是刷新"
+
+
+"DOTA_Tooltip_ability_Advanced_Blade_Dance_note_lv5"			"【精密短刀】剑舞的致命一击倍率降低20%% [×]，但其致命一击几率提高25%% [×]"
+"DOTA_Tooltip_ability_Advanced_Blade_Dance_note_lv10"			"【迅剑：樱舞+】持续时间提高至25秒，且即使是相同目标也有2%%几率触发"
+"DOTA_Tooltip_ability_Advanced_Blade_Dance_note_lv15"			"【秘剑：燕返+】燕返的可攻击次数提高到3次"
+"DOTA_Tooltip_ability_Advanced_Blade_Dance_note_lv20"			"【流影】攻击时，有8%%几率对敌人周围300范围内的其他一个敌人发动一次奖励攻击，可以造成分裂和部分攻击特效"
+"DOTA_Tooltip_ability_Advanced_Blade_Dance_note_base_Info"      "致命一击：+1%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Blade_Dance_note_lv25_1"				"【拔刀】失去除了暴击之外的所有效果，转变为拔刀效果，每秒可以累计一层拔刀效果，每层拔刀效果提升8%%攻击力，且每10层时将提升100%%累计速度。最多累积到120层，当攻击时移除20%%的层数。(仅战斗回合产生作用)"
+"DOTA_Tooltip_ability_Advanced_Blade_Dance_note_lv25_2"				"【断罪】攻击敌人时有10%%几率以移除生命的形式使目标失去等同于伤害量5倍的生命值,受到概率事件加成50%%影响"
+"DOTA_Tooltip_ability_Advanced_Blade_Dance_note_lv25_3"				"【水舞】'流影'触发几率提升至70%%——————水舞者们打斗时举止优雅，也非常致命。他们习惯于使用细剑，侧身迎敌，疾如鹿，静如影，迅如蛇，止如水，壮如熊，猛如狼，不动如石。"
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Chemical_Rage_note_lv5"			"【超越极限+】最多叠加提升至40层"
+"DOTA_Tooltip_ability_Advanced_Chemical_Rage_note_lv10"			"【狂暴药剂+】影响单位加一"
+"DOTA_Tooltip_ability_Advanced_Chemical_Rage_note_lv15"			"【超越极限二阶】额外给予100点攻击速度加成与50点移动速度加成"
+"DOTA_Tooltip_ability_Advanced_Chemical_Rage_note_lv20"			"【超越极限三阶】状态持续期间获得50%%状态抗性与20%%伤害减免（以返还生命值得形式,可被生命恢复禁用影响）"
+"DOTA_Tooltip_ability_Advanced_Chemical_Rage_note_base_Info"    "持续时间：+0.5/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Chemical_Rage_note_lv25_1"				"【多动症】被'狂暴药剂'影响的友军每发动6次攻击将会附带一次你的奖励攻击"
+"DOTA_Tooltip_ability_Advanced_Chemical_Rage_note_lv25_2"				"【药剂专家】'狂暴药剂'将对所有英雄产生影响，同时还将分发给至多10具召唤物"
+"DOTA_Tooltip_ability_Advanced_Chemical_Rage_note_lv25_3"				"【限制解除】化学狂暴期间，你的全额攻击力将提升100%%，但你的防御力将被扣除200点，你可以通过开启自动施法来关闭这个效果，状态在产生时将根据你的自动施法状态来调配药剂的效果，中途不会变更"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Unstable_Concoction_note_lv5"			"【辐射+】持续时间增加至眩晕时间三倍"
+"DOTA_Tooltip_ability_Advanced_Unstable_Concoction_note_lv10"			"【再调制+】攻击力伤害系数提升至3"
+"DOTA_Tooltip_ability_Advanced_Unstable_Concoction_note_lv15"			"【化学反应】每次技能命中后主目标永久降低目标7点护甲与6%%魔法抗性，最多叠加5层"
+"DOTA_Tooltip_ability_Advanced_Unstable_Concoction_note_lv20"			"【快速调剂】2.5秒即可达到最大效果，同时冷却时间缩短至12秒"
+"DOTA_Tooltip_ability_Advanced_Unstable_Concoction_note_base_Info"      "最大攻击力倍数伤害：+0.1/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Unstable_Concoction_note_lv25_1"				"【药剂专家】变为被动技能，每隔3秒自动向周围1000范围内敌人扔出最大效果的药剂"
+"DOTA_Tooltip_ability_Advanced_Unstable_Concoction_note_lv25_2"				"【溶解并发】'化学反应'最大层数减少至4且不再降低魔法抗性，但每层可以产生原来的10倍效果"
+"DOTA_Tooltip_ability_Advanced_Unstable_Concoction_note_lv25_3"				"【铀235】'辐射'的伤害提升至最大生命值的10%%，同时持续时间固定为20秒"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Acid_Sparay_note_lv5"			"【粘性+】每秒降低速度效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_Acid_Sparay_note_lv10"			"【王水+】降低护甲效果提升至35%%"
+"DOTA_Tooltip_ability_Advanced_Acid_Sparay_note_lv15"			"【腐蚀】基础护甲降低效果提升50%%，同时可以降低敌人20%%魔法抗性"
+"DOTA_Tooltip_ability_Advanced_Acid_Sparay_note_lv20"			"【化学反应】单位每有1%%当前生命值额外提升0.5%%基础护甲减少效果"
+"DOTA_Tooltip_ability_Advanced_Acid_Sparay_note_base_Info"      "基础伤害：+2/级<br/>攻击力乘数：+0.005/级<br/>护甲降低：+0.3/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Acid_Sparay_note_lv25_1"				"【化学合成】酸性喷雾每秒都有20%%几率产生一次高阶不稳定化合物的爆炸，目标为区域内的随机目标"
+"DOTA_Tooltip_ability_Advanced_Acid_Sparay_note_lv25_2"				"【盐水混合体】如果目标身上携带有高阶侵蚀雾霾的负面状态，那么由酸性喷雾造成的基础护甲降低效果将提升1倍，但一片酸雾的护甲降低不会超过60"
+"DOTA_Tooltip_ability_Advanced_Acid_Sparay_note_lv25_3"				"【柠檬精】你化身为柠檬，不再可以攻击，你的周围将产生一个800范围的酸性区域，步入此区域的敌人受到物理伤害提高65%%"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Focus_Fire_note_lv5"				"【会神+】每次攻击额外提升8点攻击速度"
+"DOTA_Tooltip_ability_Advanced_Focus_Fire_note_lv10"			"【全方位射击+】触发几率提升至60%%"
+"DOTA_Tooltip_ability_Advanced_Focus_Fire_note_lv15"			"【聚焦】如果是远程攻击者，将额外获得600码的攻击距离"
+"DOTA_Tooltip_ability_Advanced_Focus_Fire_note_lv20"			"【两极反转】基础的攻击力百分比由减少25%%变更为增加25%%"
+"DOTA_Tooltip_ability_Advanced_Focus_Fire_note_base_Info"       "攻击力百分比：+1%%/级<br/>提高攻击速度：+8/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Focus_Fire_note_lv25_1"				"【集中转移】技能变更为被动技能，对一个目标下达攻击指令后即可对其发动技能效果"
+"DOTA_Tooltip_ability_Advanced_Focus_Fire_note_lv25_2"				"【哈勃望远镜】冷却时间降低至15秒，施法距离变为无限，无论身在何处都可以攻击目标"
+"DOTA_Tooltip_ability_Advanced_Focus_Fire_note_lv25_3"				"【机枪炮台】变为切换技能，开启后无法移动，会自动对(射程+1200)范围内内敌人进行攻击，'会神'效果会因为目标切换清空，无论是否为远程单位都可以获得射程加成"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Powershot_note_lv5"			"【破军+】持续时间内还将破坏目标被动"
+"DOTA_Tooltip_ability_Advanced_Powershot_note_lv10"			"【疾风+】箭矢的作用距离为两倍"
+"DOTA_Tooltip_ability_Advanced_Powershot_note_lv15"			"【真实打击】攻击力计算全额攻击力，且无视目标50%%护甲"
+"DOTA_Tooltip_ability_Advanced_Powershot_note_lv20"			"【极速】攻击有2%%几率触发技能(但该效果不触发攻击)，会使技能冷却增加5秒，冷却时间大于40时不触发"
+"DOTA_Tooltip_ability_Advanced_Powershot_note_base_Info"    "基础伤害：+10/级<br/>攻击力系数：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Powershot_note_lv25_1"				"【风眼】不再具备击退效果，转变为1秒的束缚，'极速'的触发几率提升至5%%，每次触发增加的冷却时间减少至2.5秒"
+"DOTA_Tooltip_ability_Advanced_Powershot_note_lv25_2"				"【穿云】主效果将射出7道箭矢，箭矢可以影响相同目标，但是造成一次影响后将销毁。"
+"DOTA_Tooltip_ability_Advanced_Powershot_note_lv25_3"				"【定军】持续施法时间提升至5秒，每秒的持续施法都可以使伤害增加100%%,当持续施法时间超过1秒后，每秒的施法还将增加强力击的影响范围，最大为两倍，同时技能的冷却时间减少至5秒"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Coup_De_Grace_note_lv5"			"【碎甲强击】被动提供的攻击护甲穿透提高3点"
+"DOTA_Tooltip_ability_Advanced_Coup_De_Grace_note_lv10"			"【弱者摧杀+】弱者摧杀还会使目标的护甲降低5点（不显示在面板）"
+"DOTA_Tooltip_ability_Advanced_Coup_De_Grace_note_lv15"			"【命定之死】连续8次未触发恩赐解脱后，下一次攻击必定触发恩赐解脱"
+"DOTA_Tooltip_ability_Advanced_Coup_De_Grace_note_lv20"			"【破碎重碾+】破碎重碾提供的致命一击修正提高至30%%，并可以对沉默状态适用"
+"DOTA_Tooltip_ability_Advanced_Coup_De_Grace_note_base_Info"    "致命一击：+13.6%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Coup_De_Grace_note_lv25_1"				"【斩魂】暴击有20%%几率使暴击倍率提升五倍"
+"DOTA_Tooltip_ability_Advanced_Coup_De_Grace_note_lv25_2"				"【宿命】攻击有1%%几率触发'宿命'，1.5秒内的每次攻击必定触发暴击"
+"DOTA_Tooltip_ability_Advanced_Coup_De_Grace_note_lv25_3"				"【定罪】触发暴击时可以额外发动一次暴击伤害，且暴击倍率提升一倍，目标为以目标为中心500范围内的随机单位"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Blur_note_lv5"			"【遁影+】搜寻范围提升至1200，每个单位的提升效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_Blur_note_lv10"			"【无形+】搜寻范围提升至1200"
+"DOTA_Tooltip_ability_Advanced_Blur_note_lv15"			"【魅影无形】主动提供的无敌效果持续时间提升至2秒，技能冷却时间缩短至10秒"
+"DOTA_Tooltip_ability_Advanced_Blur_note_lv20"			"【潜影】周围有友军单位存在时每3秒可以隐身1秒，隐身不会被攻击等动作移除"
+"DOTA_Tooltip_ability_Advanced_Blur_note_base_Info"     "闪避几率：+1%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Blur_note_lv25_1"				"【定形】不再具备闪避效果，于此同时自身的攻击必中且攻击伤害提高75%%"
+"DOTA_Tooltip_ability_Advanced_Blur_note_lv25_2"				"【分形】'潜影'效果从每3秒下降至每1.5秒"
+"DOTA_Tooltip_ability_Advanced_Blur_note_lv25_3"				"【消形】不再具备闪避效果，转变为30层状态，每层状态可以完全抵消敌人的伤害一次，并施加一次弱驱散。被动每秒恢复一层且每攻击4次恢复一层"
+
+"DOTA_Tooltip_ability_Advanced_Phantom_Strike_note_lv5"				"【极速+】持续时间提升至1.5秒"
+"DOTA_Tooltip_ability_Advanced_Phantom_Strike_note_lv10"			"【神行+】移动速度上升增加至700，将突破移速限制"
+"DOTA_Tooltip_ability_Advanced_Phantom_Strike_note_lv15"			"【影舞】状态持续期间每次攻击都有20%%几率再次攻击一次（于0.1秒后），可以多次触发，但最多触发20次"
+"DOTA_Tooltip_ability_Advanced_Phantom_Strike_note_lv20"			"【隐秘】【极速】效果生效期间隐身"
+"DOTA_Tooltip_ability_Advanced_Phantom_Strike_note_base_Info"       "攻击速度加成：+10/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Phantom_Strike_note_lv25_1"				"【闪点】状态持续期间攻击速度可以到达服务器帧率"
+"DOTA_Tooltip_ability_Advanced_Phantom_Strike_note_lv25_2"				"【第二把武器】'影舞'获得帅气特效，并且触发几率提升至50%%，最多触发次数提升至70"
+"DOTA_Tooltip_ability_Advanced_Phantom_Strike_note_lv25_3"				"【分影】使用技能后产生两个分身，跟随自己，自身攻击时分身将对自身前方的300范围内最近敌人发动攻击，分身可以持续10秒时间"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Stifling_Dagger_note_lv5"			"【匕首影分身+】额外数量加2"
+"DOTA_Tooltip_ability_Advanced_Stifling_Dagger_note_lv10"			"【连掷+】匕首数量加一"
+"DOTA_Tooltip_ability_Advanced_Stifling_Dagger_note_lv15"			"【连掷++】当只有一个目标时，匕首数量再随机增加1到2把"
+"DOTA_Tooltip_ability_Advanced_Stifling_Dagger_note_lv20"			"【窒息】减速期间额外造成沉默效果，如果目标死于匕首伤害可以减少当前剩余15%%技能冷却时间（同个目标也可多次触发）"
+"DOTA_Tooltip_ability_Advanced_Stifling_Dagger_note_base_Info"      "额外攻击力加成：+0.5%/级<br/>攻击力加成：+6/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Stifling_Dagger_note_lv25_1"				"【狂风骤雨】技能转变为被动技能，每次攻击都有5%%几率触发技能效果，并增加2秒冷却，直到技能冷却大于10秒（奖励攻击无法触发）"
+"DOTA_Tooltip_ability_Advanced_Stifling_Dagger_note_lv25_2"				"【奥尼克斯的降世匕首】转变为原地施放，无视魔法免疫，将影响周围1000范围至多12名目标,单名敌人时产生双倍匕首数量"
+"DOTA_Tooltip_ability_Advanced_Stifling_Dagger_note_lv25_3"				"【直死之匕】匕首将继承分裂攻击(分裂箭仍然无效),但仍然视为奖励攻击"
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Warpath_note_lv5"			"【恋战+】持续时间提升至40秒"
+"DOTA_Tooltip_ability_Advanced_Warpath_note_lv10"			"【怒发冲冠+】层数到达一半时即可激活"
+"DOTA_Tooltip_ability_Advanced_Warpath_note_lv15"			"【恋战++】攻击敌人也有10%%几率叠加一层"
+"DOTA_Tooltip_ability_Advanced_Warpath_note_lv20"			"【怒发冲冠++】当层数到达最大值后，每隔20秒将获得魔法免疫5秒(不被正面状态持续时间增强影响)"
+"DOTA_Tooltip_ability_Advanced_Warpath_note_base_Info"      "每层叠加攻击力:+0.5/级<br/>每层叠加移动速度:+0.05%%/级<br/>每层叠加防御力:+0.03/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Warpath_note_lv25_1"				"【狂怒】战意可以直接获得满的层数，且不会被破坏被动影响。同时新增层数成为独立的状态，但只能持续10秒,被正面状态增强影响。第二种状态可以继承除了LV15以外的所有效果"
+"DOTA_Tooltip_ability_Advanced_Warpath_note_lv25_2"				"【狂躁】仅学习了刚毛强化的钢背兽可以学习，每次触发战意时可以触发一次相当于5%%的刺针扫射（需要高阶刚毛后背），同时每层战意可以使刺针伤害增加3%%"
+"DOTA_Tooltip_ability_Advanced_Warpath_note_lv25_3"				"【无能狂怒】当你对同一名敌人造成6次攻击伤害总量仍然达不到目标最大生命值的5%%时将永久提高2%%的加成效果，但最多到达10倍"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_God_Strength_note_lv5"			"【撼神+】触发几率提升10%%"
+"DOTA_Tooltip_ability_Advanced_God_Strength_note_lv10"			"【阿瑞斯之勇+】每次攻击将提升2%%攻击力，且最大提升增加至75%%"
+"DOTA_Tooltip_ability_Advanced_God_Strength_note_lv15"			"【延时】基础持续时间提升10秒（力量英雄为2倍）"
+"DOTA_Tooltip_ability_Advanced_God_Strength_note_lv20"			"【天神下凡】开启后前10秒（力量英雄为3倍）免疫魔法"
+"DOTA_Tooltip_ability_Advanced_God_Strength_note_base_Info"     "攻击力增加：+2%%/级<br/>"    
+"DOTA_Tooltip_ability_Advanced_God_Strength_note_lv25_1"				"【真神】状态持续期间获得400点基础攻击加成与100%%的状态抗性"
+"DOTA_Tooltip_ability_Advanced_God_Strength_note_lv25_2"				"【神怒】持续时间增加10秒，'阿瑞斯之勇'的极限提升至175%%，同时攻击有2%%几率触发一次十倍伤害的暴击"
+"DOTA_Tooltip_ability_Advanced_God_Strength_note_lv25_3"				"【弑神者】解放'撼神'限制，对于奖励攻击（包括来自自身的触发）也有一半的几率可以触发效果"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Epicenter_note_lv5"			"【波+】横波提升80%%伤害，纵波拉扯距离提升"
+"DOTA_Tooltip_ability_Advanced_Epicenter_note_lv10"			"【地震源+】需求的力量降低至35"
+"DOTA_Tooltip_ability_Advanced_Epicenter_note_lv15"			"【脑波】影响到敌人大脑，额外造成0.3秒的眩晕"
+"DOTA_Tooltip_ability_Advanced_Epicenter_note_lv20"			"【共振】每次减少敌人0.5点护甲与1%%魔法抗性，持续30秒独立计算时间，最高50层"
+"DOTA_Tooltip_ability_Advanced_Epicenter_note_base_Info"    "基础伤害：+4/级<br/>主属性乘数：+0.04/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Epicenter_note_lv25_1"				"【共鸣地震】主动施法触发的地震最大数量提升至17，同时可以使其他拥有地震的玩家也引发一次相同地震数的地震"
+"DOTA_Tooltip_ability_Advanced_Epicenter_note_lv25_2"				"【同生震源】在自动施法状态下你可以消耗18k金币，释放地震后在原地放置一个地震源，继承你的'地震源'效果，每隔一段时间在目标地点引发地震，第一次免费"
+"DOTA_Tooltip_ability_Advanced_Epicenter_note_lv25_3"				"【余震】解锁沙王的沙之魂天赋效果（拥有沙之魂天赋时无法解锁）"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Caustic_Finale_note_lv5"				"【即刻腐坏+】腐毒喷溅转化效率提升至30%%"
+"DOTA_Tooltip_ability_Advanced_Caustic_Finale_note_lv10"			"【尸瘴腐化】携带腐毒的单位无法进入[死亡延迟]或[薄葬]状态"
+"DOTA_Tooltip_ability_Advanced_Caustic_Finale_note_lv15"			"【荒漠之咬+】施加腐毒时回复自身3%%已损失生命值"
+"DOTA_Tooltip_ability_Advanced_Caustic_Finale_note_lv20"			"【食腐】携带腐毒的单位死亡时，自身永久获得6点最大生命值，最多叠加至2000点"
+"DOTA_Tooltip_ability_Advanced_Caustic_Finale_note_lv25_1"				"【连环毒性】腐尸毒的伤害可以触发腐尸毒，同时由腐尸毒触发时增加的冷却时间减少50%%，持续时间增加到15秒"
+"DOTA_Tooltip_ability_Advanced_Caustic_Finale_note_lv25_2"				"【毒液继承】你的召唤物也能触发腐尸毒，但每只召唤物有独立的3秒冷却时间"
+"DOTA_Tooltip_ability_Advanced_Caustic_Finale_note_lv25_3"				"【毒素共存】毒素的伤害范围提高50%%，伤害提高50%%，同时多个毒素可以叠加于同一个单位身上(至多四层)"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_chaos_form_note_lv5"				"【狂乱魔力流+】每秒魔法消耗量提升至6%%，技能增强提升至5%%"
+"DOTA_Tooltip_ability_Advanced_chaos_form_note_lv10"			"【灯之灵核+】魔法值低于40%%时，每秒回复1.5%%最大魔法值"
+"DOTA_Tooltip_ability_Advanced_chaos_form_note_lv15"			"【魔神之眼】完成变形后，额外获得2000施法距离和视野范围，持续10秒"
+"DOTA_Tooltip_ability_Advanced_chaos_form_note_lv20"			"【过量注能】可以开启自动施法，使魔法消耗增加50%%，此时灯之灵核的触发伤害提升至250%%"
+"DOTA_Tooltip_ability_Advanced_chaos_form_note_base_Info"       "全属性加成：+0.5/级<br/>技能增强：+0.5%/级<br/>施法距离提升：+10/级<br/>持续时间：+0.5秒/级"
+"DOTA_Tooltip_ability_Advanced_chaos_form_note_lv25_1"				"【魔力护盾】每有10%%技能伤害，每秒将获得智力*0.3的护盾，可抵消所有伤害,护盾消失时间为5秒"
+//"DOTA_Tooltip_ability_Advanced_chaos_form_note_lv25_2"				"【魔神的赐福】持续时间内每次施法都可以使技能伤害增加5%%，需要冷却时间大于2，同时连续的两次有效施法不能相同。与'魔力涌动'共用，当达到30层后仍然可以触发本效果，但无法触发'魔力涌动'"
+//"DOTA_Tooltip_ability_Advanced_chaos_form_note_lv25_3"				"【魔力之海】'魔力涌动'的上限提升至450%%,同时所有友军使用技能时将会消耗你的魔法（除非他们也开启了魔神形态），状态持续期间你还将可以每秒恢复最大魔法的2%%"
+
+
+
+"DOTA_Tooltip_ability_Advanced_fortunes_end_note_lv5"			"【协调+】持续净化转变为强驱散"
+"DOTA_Tooltip_ability_Advanced_fortunes_end_note_lv10"			"【快速施法+】有50%%几率双重施法(产生于第一次的0.5秒后)"
+"DOTA_Tooltip_ability_Advanced_fortunes_end_note_lv15"			"【高阶破坏】缠绕期间目标破坏目标被动，无效化其闪避能力与护盾"
+"DOTA_Tooltip_ability_Advanced_fortunes_end_note_lv20"			"【协调++】状态持续期间将获得魔免"
+"DOTA_Tooltip_ability_Advanced_fortunes_end_note_base_Info"     "基础伤害：+15/级<br/>智力乘数：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_fortunes_end_note_lv25_1"				"【气运吸收】可以开启自动施法净化友军的正面状态（弱驱散），每个被驱散的正面状态可以转化为15点临时主属性，持续20秒，最多叠加30层"
+"DOTA_Tooltip_ability_Advanced_fortunes_end_note_lv25_2"				"【命运协同】仅玩家数大于等于2时可以解锁，转变为被动技能，气运之末将在友军英雄中弹射，其弹射速度等同于英雄的移动速度但最少1500，但有2秒弹射延迟，发起弹射时候双方距离越远这个间隔越短"
+"DOTA_Tooltip_ability_Advanced_fortunes_end_note_lv25_3"				"【记忆力调整】仅神谕者可以解锁，使得所有英雄的最大可学习技能数量加一，但不会与祈求者天赋叠加，同时这个技能的出售返还金币变为0(删除技能后不会失去此效果)"
+
+
+
+"DOTA_Tooltip_ability_Advanced_spirits_note_lv5"			"【引爆+】引爆伤害提升至智力*4"
+"DOTA_Tooltip_ability_Advanced_spirits_note_lv10"			"【效率化+】伤害间隔降低至0.4秒"
+"DOTA_Tooltip_ability_Advanced_spirits_note_lv15"			"【自动化攻击】每个幽魂每秒都有30%%几率对其周围600范围的敌军发动一次攻击"
+"DOTA_Tooltip_ability_Advanced_spirits_note_lv20"			"【增幅化】幽魂数量加3"
+"DOTA_Tooltip_ability_Advanced_spirits_note_base_Info"      "基础伤害：+3/级<br/>智力乘数：+0.02/级<br/>"
+"DOTA_Tooltip_ability_Advanced_spirits_note_lv25_1"				"【能量汇聚】转变为被动技能，释放冷却时间大于3秒的指向性技能时可以创造1个幽魂跟随目标15秒"
+"DOTA_Tooltip_ability_Advanced_spirits_note_lv25_2"				"【银河】幽魂数量增加至30，但每个幽魂造成3次伤害后就会被销毁"
+"DOTA_Tooltip_ability_Advanced_spirits_note_lv25_3"				"【暗夜精灵】友方包括自己召唤出的召唤物都会跟随一个永久的幽魂,只能同时有一名玩家解锁这个效果"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Thundergods_Wrath_note_lv5"			"【重利用+】可造成伤害提升至50%%"
+"DOTA_Tooltip_ability_Advanced_Thundergods_Wrath_note_lv10"			"【流云+】闪电链造成伤害提升至智力*3"
+"DOTA_Tooltip_ability_Advanced_Thundergods_Wrath_note_lv15"			"【通电】释放技能后获得【通电状态】，每秒提升3%%技能伤害，持续15秒(不被正面状态持续时间增强影响,不可驱散)"
+"DOTA_Tooltip_ability_Advanced_Thundergods_Wrath_note_lv20"			"【流电】释放技能时将吸收周围1500范围内友方英雄15%%当前魔法值(包括自己)作为额外伤害，但不会影响到特外效果的伤害(右键技能开启自动施法即是开启)"
+"DOTA_Tooltip_ability_Advanced_Thundergods_Wrath_note_base_Info"    "基础伤害：+40/级<br/>智力乘数：+0.4/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Thundergods_Wrath_note_lv25_1"				"【雷云】在自身头顶创造一片乌云，每隔三秒随机电击周围1000距离内的随机区域，对350范围内的目标造成25%%的技能伤害，如果有大于6名敌人区域内，则将取随机敌人所在坐标为目标点。只能对至多六名敌人造成伤害"
+"DOTA_Tooltip_ability_Advanced_Thundergods_Wrath_note_lv25_2"				"【宙斯降世】变为点目标技能，失去'重利用'效果，召唤出数到巨型闪电劈向目标区域，初始有三道闪电，自身每拥有1000点魔法值可以多生成出一道闪电（需要开启自动施法，至多额外7道），每道闪电都可以对一个500范围的区域造成一次雷神之怒的伤害,但每个区域最多影响5名敌人"
+"DOTA_Tooltip_ability_Advanced_Thundergods_Wrath_note_lv25_3"				"【引雷乱流】失去'流电'效果，自动施法状态变为本效果，施法后，将自己的身体变为中继站，每秒触发一次技能的主动释放，同时也会对自己造成伤害，每过一秒对自身的伤害增加100%%（线性叠加），消耗的魔法增加100%%（乘法叠加），直到自己死亡或者魔法耗尽"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Lightning_Bolt_note_lv5"				"【魔法三重化+】使作用单位可以为相同单位"
+"DOTA_Tooltip_ability_Advanced_Lightning_Bolt_note_lv10"			"【电透+】伤害提升存在时间提升至25秒"
+"DOTA_Tooltip_ability_Advanced_Lightning_Bolt_note_lv15"			"【互感】释放法术时如果周围600范围内存在也拥有【高阶雷击】技能的友方英雄，会有50%%几率令其对你的施法目标进行一次施法(多个满足条件友军只触发一个，造成伤害的单位为触发的友军)"
+"DOTA_Tooltip_ability_Advanced_Lightning_Bolt_note_lv20"			"【魔法五重化】当魔法值大于最大魔法的50%%时，可以消耗10%%最大法力使技能可以产生五次效果(右键技能开启自动施法即是开启)"
+"DOTA_Tooltip_ability_Advanced_Lightning_Bolt_note_base_Info"       "基础伤害：+10/级<br/>智力乘数：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Lightning_Bolt_note_lv25_1"				"【创世雷响】不再触发'互感''魔法五重化'，从50%%最大魔法值开始计算，每拥有10%%最大魔法值将额外触发一次技能效果，但消耗5%%的魔法值。"
+"DOTA_Tooltip_ability_Advanced_Lightning_Bolt_note_lv25_2"				"【拉普拉斯变换】从复杂到简单，转变为被动技能，冷却时间降低30%%，不再消耗魔法，将自动对1000范围内的随机敌人释放"
+"DOTA_Tooltip_ability_Advanced_Lightning_Bolt_note_lv25_3"				"【傅里叶收敛定理】不再触发'魔法三重化''魔法五重化'转变为一道巨型雷电，电击范围内所有目标，并造成双倍伤害，'电透'效果每层提供20%%伤害增加，持续时间增加至50秒，必定触发'互感',被'互感'触发时为原本的效果"
+
+
+"DOTA_Tooltip_ability_Advanced_Static_Field_note_lv5"			"【增益+】技能伤害提升增加15%%"
+"DOTA_Tooltip_ability_Advanced_Static_Field_note_lv10"			"【交流电+】添加新效果：即使未能击杀目标，也有35%%几率不进入冷却"
+"DOTA_Tooltip_ability_Advanced_Static_Field_note_lv15"			"【感应电流】当1000范围内任意友军施法时也有35%%几率触发主效果"
+"DOTA_Tooltip_ability_Advanced_Static_Field_note_lv20"			"【电离辐射】主效果造成伤害后将永久为目标附加一层【电离辐射】，每层状态减少其1%%魔法抗性，最高叠加三十层(不同施法者共用层数)"
+"DOTA_Tooltip_ability_Advanced_Static_Field_note_base_Info"	    "施法触发智力乘数：+0.13/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Static_Field_note_lv25_1"				"【高斯球】触发主效果时还将产生三颗高斯球向随机范围内随机敌人发射，命中后对300范围造成一次'交流电'伤害"
+"DOTA_Tooltip_ability_Advanced_Static_Field_note_lv25_2"				"【高斯束缚场】每次触发主效果时将产生一个700范围的束缚场，持续1.1秒，每次施法如果束缚场还未消失则增加1秒持续时间。每秒对区域内触发一次技能本体效果，如果单位朝自己前进时将会被限制到最少20点移动速度。"
+"DOTA_Tooltip_ability_Advanced_Static_Field_note_lv25_3"				"【楞次电击】'交流电'转变为300码的范围效果，主目标受到电击后将带电，在0.2秒内将周围500范围的单位吸引到自身位置。（但无法影响状态抗性大于70的单位）"
+
+
+"DOTA_Tooltip_ability_Advanced_Arc_Lightning_note_lv5"			"【闪电充能+】触发几率提升至20%%"
+"DOTA_Tooltip_ability_Advanced_Arc_Lightning_note_lv10"			"【闪电蓄能+】每次电击的额外增伤提升至5%%"
+"DOTA_Tooltip_ability_Advanced_Arc_Lightning_note_lv15"			"【极限突破】可跳跃次数增加5"
+"DOTA_Tooltip_ability_Advanced_Arc_Lightning_note_lv20"			"【魔法二重化】魔法消耗提升200%%，但将额外选取目标600范围内最远的一个单位施法，当只有一个单位时将对主目标释放(额外的目标不会触发法术吸收)"
+"DOTA_Tooltip_ability_Advanced_Arc_Lightning_note_base_Info"    "基础伤害：+6/级<br/>智力乘数：+0.05/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Arc_Lightning_note_lv25_1"				"【避雷针】失去'魔法二重化'效果，转变为对地施法，创造出避雷针，持续70秒，每秒对周围700范围内随机一个敌人触发技能效果(最多3次)，闪电链的弹射间隔增加至1秒，避雷针可以充当闪电链的中继站"
+"DOTA_Tooltip_ability_Advanced_Arc_Lightning_note_lv25_2"				"【高能轰击】闪电链每次弹射时都可以对300范围的敌人造成全额伤害，但固定跳跃次数为4"
+"DOTA_Tooltip_ability_Advanced_Arc_Lightning_note_lv25_3"				"【磁暴射线】失去所有效果，转变为被动技能，每2秒对1200范围内随机敌人位置释放射线,持续2秒，每0.5秒对路径敌人造成一次闪电链伤害，路径宽度100，射线起始点将跟随自己"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Impetus_note_lv5"			"【远程打击+】攻击距离提升增加至250"
+"DOTA_Tooltip_ability_Advanced_Impetus_note_lv10"			"【自然打击+】触发时的计算距离增加效果提升至600"
+"DOTA_Tooltip_ability_Advanced_Impetus_note_lv15"			"【璀璨一击】命中后将有5%%的几率使伤害转换比与智力伤害转换比产生五倍效果"
+"DOTA_Tooltip_ability_Advanced_Impetus_note_lv20"			"【喜加一】每次命中触发技能伤害都有10%%几率额外对目标发出一道投掷物，可以造成技能伤害，但不造成攻击伤害"
+"DOTA_Tooltip_ability_Advanced_Impetus_note_base_Info"      "伤害转换比：+1/级<br/>智力伤害转换比:+0.007%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Impetus_note_lv25_1"				"【简单易懂的强化】不再消耗魔法，每次结算时如果基础距离不满1000按照1000计算"
+"DOTA_Tooltip_ability_Advanced_Impetus_note_lv25_2"				"【自然神】'璀璨一击'的触发几率提升至30%%，同时你的召唤物的攻击有10%%几率继承技能效果(计算施法者与目标的距离)"
+"DOTA_Tooltip_ability_Advanced_Impetus_note_lv25_3"				"【中继站】可以指定一名友方英雄为中继站，使用推进时会先飞向这名友军，命中后才会飞向敌人，你与友军之间的距离会计算为奖励距离，但最多2000，同时友军会受到10%%的伤害"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Life_Drain_note_lv5"				"【多重化+】次级目标每1秒生成一次"
+"DOTA_Tooltip_ability_Advanced_Life_Drain_note_lv10"			"【魂吸+】魔法抗性降低效果提升15%%"
+"DOTA_Tooltip_ability_Advanced_Life_Drain_note_lv15"			"【断魂】技能持续施法完毕后仍然生效6秒"
+"DOTA_Tooltip_ability_Advanced_Life_Drain_note_lv20"			"【魂吸++】每拥有10%%的技能伤害，魔法抗性效果将额外提升5%%（在原来的基础上，线性叠加）"
+"DOTA_Tooltip_ability_Advanced_Life_Drain_note_base_Info"       "基础伤害：+6/级<br/>智力乘数：+0.04/阶级<br/>"
+"DOTA_Tooltip_ability_Advanced_Life_Drain_note_lv25_1"				"【中继站】对队友使用时不再消耗自身生命值，除非目标死亡或你使用了下一次施法否则链接不会断开，可以触发'多重化'效果且分裂间隔降低至0.6秒"
+"DOTA_Tooltip_ability_Advanced_Life_Drain_note_lv25_2"				"【电信基站】变更为被动技能，可以自动对施法范围内随机一名敌人施加10秒技能效果,可以同时链接多名敌人。技能变为不可刷新且固定5秒冷却"
+"DOTA_Tooltip_ability_Advanced_Life_Drain_note_lv25_3"				"【生命的洪流】变为点目标的范围技能，失去'多重化'效果，召唤一个能量核心放置于目标上空，可以对路过的目标施加5秒的生命汲取效果，同一个单位有10秒冷却时间，最多同时对20个单位施加技能效果"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Nether_Ward_note_lv5"				"【幽冥魂能+】造成伤害提升至智力*8"
+"DOTA_Tooltip_ability_Advanced_Nether_Ward_note_lv10"			"【幽冥静默+】触发几率提升至40%%"
+"DOTA_Tooltip_ability_Advanced_Nether_Ward_note_lv15"			"【增幅】守卫的生命值增加一倍"
+"DOTA_Tooltip_ability_Advanced_Nether_Ward_note_lv20"			"【反能】守卫每次被攻击将反馈智力*4的魔法伤害"
+"DOTA_Tooltip_ability_Advanced_Nether_Ward_note_base_Info"       "基础伤害：+2/级<br/>智力乘数：+0.03/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Nether_Ward_note_lv25_1"				"【能量净化】主效果伤害提升2倍，次级特效造成的伤害提升1倍，每2秒将对影响范围内随机一名敌人造成'幽冥魂能'效果，但同一名敌人有8秒冷却"
+"DOTA_Tooltip_ability_Advanced_Nether_Ward_note_lv25_2"				"【中继站】范围内友军的施法都有30%%几率可以触发守卫的攻击（受到概率事件加成影响，需要冷却时间大于3秒），使其对随机敌人发动一次攻击"
+"DOTA_Tooltip_ability_Advanced_Nether_Ward_note_lv25_3"				"【魔力吞噬者】在开启自动施法状态下召唤的守卫每秒可以吸收施法者50+5%%的当前魔法值，当吸收的值到达1000时可以对1.5倍范围内随机5名敌人造成一次守卫的攻击效果"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Nether_Blast_note_lv5"			"【虚无冲击+】魔抗削减提升至80%%"
+"DOTA_Tooltip_ability_Advanced_Nether_Blast_note_lv10"			"【销魂夺魄+】对敌人降低魔抗最大叠加次数提升4"
+"DOTA_Tooltip_ability_Advanced_Nether_Blast_note_lv15"			"【分魂】技能命中后削减目标3%%的技能伤害，增加自身1%%技能伤害，对敌人可叠加5层，对自己可叠加25层，每次叠加刷新时间，持续10秒"
+"DOTA_Tooltip_ability_Advanced_Nether_Blast_note_lv20"			"【虚无冲击++】魔抗削减提升至120%%"
+"DOTA_Tooltip_ability_Advanced_Nether_Blast_note_base_Info"     "基础伤害:+10/级<br/>智力乘数：+0.15/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Nether_Blast_note_lv25_1"				"【幽冥爆破】技能效果会重复6次，但后续的爆破只会对边缘200范围的敌人造成伤害，同时每次爆破会往外扩张150距离"
+"DOTA_Tooltip_ability_Advanced_Nether_Blast_note_lv25_2"				"【万物湮灭】变为持续施法技能，可以以2秒的间隔对指定目标区域释放幽冥爆轰，每次触发会使消耗的魔法提高50%%（线性），如果魔法不足会用生命代替，直到耗尽，但不会自杀。同时每释放一次可以降低0.05秒的间隔，直到0.2秒"
+"DOTA_Tooltip_ability_Advanced_Nether_Blast_note_lv25_3"				"【幽冥行者】转化为被动技能，当你在0.066秒内产生了大于350距离的移动时可以在两个地点产生分别产生一次幽冥爆轰,但有0.3秒触发间隔"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Black_Hole_note_lv5"				"【不测之渊+】每点智力将提升3点作用范围"
+"DOTA_Tooltip_ability_Advanced_Black_Hole_note_lv10"			"【巨型黑洞+】额外效果：额外的提升效果到达1000后将造成三倍伤害"
+"DOTA_Tooltip_ability_Advanced_Black_Hole_note_lv15"			"【延时】施法完成后黑洞将持续作用3秒，但不造成伤害"
+"DOTA_Tooltip_ability_Advanced_Black_Hole_note_lv20"			"【延时+】当【不测之渊】提升的额外范围超过1000时，每50范围将提升延时黑洞持续时间0.2秒"
+"DOTA_Tooltip_ability_Advanced_Black_Hole_note_base_Info"       "基础伤害：+5/级<br/>智力乘数：+0.05/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Black_Hole_note_lv25_1"				"【虫洞】添加一个被动效果，当所有英雄死亡后触发游戏失败时，忽略这个结果并复活所有未处于复活倒计时的英雄。（但如果全员都在倒计时仍然会失败），被这个效果复活的英雄可以无敌20秒。仅触发一次"
+"DOTA_Tooltip_ability_Advanced_Black_Hole_note_lv25_2"				"【奇点】被动生成一个跟随自己的350作用范围小型黑洞，具备拉扯效果但不具备控制效果，仅有20%%的伤害且最多对10名单位造成伤害，该黑洞会以至少你一半的移动速度跟随你移动,距离越远移动速度越高，但如果双方距离超过3000距离则会瞬间移动到你的坐标"
+"DOTA_Tooltip_ability_Advanced_Black_Hole_note_lv25_3"				"【能量竭尽】持续施法时间提升至30秒，在本来的时间到期后每秒可以消耗1500点魔法继续施法，同时每秒额外的一秒将额外消耗500点魔法"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Midnight_Pulse_note_lv5"				"【重力场+】现在距离中心200码将受到五倍作用"
+"DOTA_Tooltip_ability_Advanced_Midnight_Pulse_note_lv10"			"【暗物质+】伤害系数提升至2.5%%，最高为消耗魔法的170%%"
+"DOTA_Tooltip_ability_Advanced_Midnight_Pulse_note_lv15"			"【重力场++】额外增加受到影响单位的施法前摇40%%(不受到提升)，并使技能作用范围提升200"
+"DOTA_Tooltip_ability_Advanced_Midnight_Pulse_note_lv20"			"【作用强化】同时影响单位提升至20，伤害提升25%%"
+"DOTA_Tooltip_ability_Advanced_Midnight_Pulse_note_base_Info"       "基础伤害:+4/级<br/>智力乘数：+0.04/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Midnight_Pulse_note_lv25_1"				"【双重重力】施展午夜凋零的同时后置放一个2.5秒的一半范围的高阶黑洞"
+"DOTA_Tooltip_ability_Advanced_Midnight_Pulse_note_lv25_2"				"【限制解除】变为可刷新技能,同时冷却时间降低30%%"
+"DOTA_Tooltip_ability_Advanced_Midnight_Pulse_note_lv25_3"				"【奇点创造】释放任何冷却时间大于5秒的技能都可以创造一个持续1-3秒的500范围的午夜凋零,如果有目标或者坐标则在目标点创造,否则在自身脚下创建"
+
+
+"DOTA_Tooltip_ability_Advanced_Malefice_note_lv5"			"【奇点+】黑洞影响范围提升至500，持续时间提升至2秒"
+"DOTA_Tooltip_ability_Advanced_Malefice_note_lv10"			"【失实+】幻象造成伤害提升至75%%"
+"DOTA_Tooltip_ability_Advanced_Malefice_note_lv15"			"【强化】使技能状态不可驱散且可叠加，持续时间提升25%%"
+"DOTA_Tooltip_ability_Advanced_Malefice_note_lv20"			"【失实++】幻象持续时间提升一倍"
+"DOTA_Tooltip_ability_Advanced_Malefice_note_base_Info"     "持续时间:+0.2/秒<br/>基础伤害：+4/级<br/>智力乘数：+0.04/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Malefice_note_lv25_1"				"【真实奇点】创造的小型黑洞可以继承自身高阶黑洞20%%的伤害且作用范围提升200"
+"DOTA_Tooltip_ability_Advanced_Malefice_note_lv25_2"				"【多重造影】只有拥有'多重化身'天赋的谜团可以解锁,强化天赋效果变为10个等级的加成"
+"DOTA_Tooltip_ability_Advanced_Malefice_note_lv25_3"				"【毁灭】憎恶施法后可以在目标地点产生一个2秒的600范围的高阶黑洞与6秒高阶午夜凋零"
+
+
+"DOTA_Tooltip_ability_Advanced_Macropyre_note_lv5"			"【不死人的遗骨+】区域内每有一个敌人，火焰伤害提升5%%（线性），如果敌人在火焰中死亡，释放者在接下来10秒内的造成的该技能的伤害提升7.5%%。"
+"DOTA_Tooltip_ability_Advanced_Macropyre_note_lv10"			"【传火+】存续时间提升变更为0.75秒"
+"DOTA_Tooltip_ability_Advanced_Macropyre_note_lv15"			"【增幅化】每有10%%技能伤害可以提升1秒的持续时间（负数不生效）"
+"DOTA_Tooltip_ability_Advanced_Macropyre_note_lv20"			"【篡火者】可以开启自动施法状态，此时火焰伤害将对友军也生效，但伤害将提升75%%"
+"DOTA_Tooltip_ability_Advanced_Macropyre_note_base_Info"    "基础伤害:+2/级<br/>智力乘数：+0.02/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Macropyre_note_lv25_1"				"【双重天·火】造成伤害的同时有20%%几率为目标附加一层高阶液态火，但1秒只能触发至多6次"
+"DOTA_Tooltip_ability_Advanced_Macropyre_note_lv25_2"				"【双重天·冰】造成伤害的同时有30%%几率为目标附加一层高阶液态冰，但1秒只能触发至多6次"
+"DOTA_Tooltip_ability_Advanced_Macropyre_note_lv25_3"				"【冰与火之歌】烈焰的持续时间提升至18秒，每秒可以随机获得一层'火'/'冰'强化，每层火可以使烈焰的伤害提高10%%，每层冰可以使烈焰中的敌人魔法抗性降低5%%。各自最多20层"
+
+
+"DOTA_Tooltip_ability_Advanced_Liquid_Frost_note_lv5"			"【流动+】次级效果提升至75%%"
+"DOTA_Tooltip_ability_Advanced_Liquid_Frost_note_lv10"			"【寒气加剧+】累计生命值达到7%%即可引爆，冻结时间提升至1秒"
+"DOTA_Tooltip_ability_Advanced_Liquid_Frost_note_lv15"			"【增幅化】当负面状态持续时间增强增强为正数时可以使状态持续时间增加(不影响'寒气加剧'')"
+"DOTA_Tooltip_ability_Advanced_Liquid_Frost_note_lv20"			"【触碰即爆】寒气加剧不需要受到指定伤害值，添加状态后受到第一次伤害即可引爆"
+"DOTA_Tooltip_ability_Advanced_Liquid_Frost_note_base_Info"     "移动减缓：+2/级<br/>伤害增益：+0.5%%/级<br/>作用范围：+4/级<br/>持续时间：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Liquid_Frost_note_lv25_1"				"【连锁寒气】如果'寒气加剧'影响到的敌人，那么有30%%几率为其添加一层液态冰/或刷新状态，每次触发时增加0.5秒冷却时间，大于10时不触发。同时'寒气加剧'影响范围增加100"
+"DOTA_Tooltip_ability_Advanced_Liquid_Frost_note_lv25_2"				"【封印解除】不再限制影响目标，冷却时间降低2秒（与双头龙天赋共存时仅额外降低1秒）"
+"DOTA_Tooltip_ability_Advanced_Liquid_Frost_note_lv25_3"				"【永恒】失去'流动'效果，但状态持续时间变为永久，且每10秒将刷新一次'连锁寒气'效果"
+
+"DOTA_Tooltip_ability_Advanced_Ice_Path_note_base_Info"     "基础伤害：+10/级<br/>智力乘数：+0.1/级<br/>持续时间：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Ice_Path_note_lv5"			"【寒域扩散】冰封路径将在30°角度的侧面额外产生一次。"
+"DOTA_Tooltip_ability_Advanced_Ice_Path_note_lv10"			"【碎冰+】降低魔法抗性效果提升至30%%。"
+"DOTA_Tooltip_ability_Advanced_Ice_Path_note_lv15"			"【寒域封杀】冰封路径将在60°角度的侧面额外产生一次，其长度+50%%。"
+"DOTA_Tooltip_ability_Advanced_Ice_Path_note_lv20"			"【寒风刺骨】在眩晕结束后减少敌人300移动速度，持续3秒。"
+"DOTA_Tooltip_ability_Advanced_Ice_Path_note_lv25_1"				"【冰花三角】自动施法不再产生额外效果，而冰封路径将构成一个完美无缺的三角型。"
+"DOTA_Tooltip_ability_Advanced_Ice_Path_note_lv25_2"				"【常驻冰】转变为被动技能，可以自动对1500范围内的至多4名敌人施加技能效果。这个效果可以储存，最多15层，每3秒或使用2次冷却时间大于5秒的技能可以恢复一层"
+"DOTA_Tooltip_ability_Advanced_Ice_Path_note_lv25_3"				"【永恒冰锥】失去额外产生效果，将在自身脚下创建一个200距离的路径，但持续时间为60秒且伤害提升一倍，对于持续时间内进入路径的敌人都会对其施加技能效果"
+
+
+"DOTA_Tooltip_ability_Advanced_Liquid_Fire_note_lv5"		    "【粘性火流】负面持续时间增强大于0%%时，灼伤时间会适用%explosion_nega_index%% 效率的负面持续时间增强"
+"DOTA_Tooltip_ability_Advanced_Liquid_Fire_note_lv10"			"【活体炸弹+】活体炸弹的伤害提高40%% 。"
+"DOTA_Tooltip_ability_Advanced_Liquid_Fire_note_lv15"			"【一触即发】活体炸弹不再具有触发伤害阈值，而是在首次受伤时立刻爆炸"
+"DOTA_Tooltip_ability_Advanced_Liquid_Fire_note_lv20"			"【爆灼之息+】重复灼伤时结算率提高20%% 。"
+"DOTA_Tooltip_ability_Advanced_Liquid_Fire_note_base_Info"      "攻速减缓：+1/级<br/>基础伤害：+5/级<br/>每秒伤害智力乘数：+0.04/级<br/>持续时间：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Liquid_Fire_note_lv25_1"				"【连锁炸药】如果'活体炸弹'影响到的敌人，那么有30%%几率为其添加一层液态火/或刷新状态，每次触发时增加0.3秒冷却时间，大于3时不触发。同时'黏着炸药'影响范围增加100"
+"DOTA_Tooltip_ability_Advanced_Liquid_Fire_note_lv25_2"				"【封印解除】不再限制影响目标，冷却时间降低2秒（与双头龙天赋共存时仅额外降低1秒）"
+"DOTA_Tooltip_ability_Advanced_Liquid_Fire_note_lv25_3"				"【永恒】灼伤时间放大至10倍，且每10秒将刷新一次'活体炸弹'效果"
+
+"DOTA_Tooltip_ability_Advanced_Dual_Breath_note_lv5"			"【极热+】生命值伤害系数提升至2.5%%"
+"DOTA_Tooltip_ability_Advanced_Dual_Breath_note_lv10"			"【极寒+】每秒的额外减速效果提升一倍"
+"DOTA_Tooltip_ability_Advanced_Dual_Breath_note_lv15"			"【冰火双重天】状态持续期间，每秒随机触发以下两种效果之一：<br/>冰：冻结0.5秒<br/>火：使状态持续时间提升0.5秒"
+"DOTA_Tooltip_ability_Advanced_Dual_Breath_note_lv20"			"【液态】单位死亡时如果状态持续时间不小于2秒，可将剩余持续时间转移到周围350范围随机一个单位上。(不被增减)"
+"DOTA_Tooltip_ability_Advanced_Dual_Breath_note_base_Info"      "每秒伤害：+3/级<br/>伤害智力乘数：+0.02/级<br/>移动减缓：+2/级<br/>攻速减缓：+1/级<br/>持续时间：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Dual_Breath_note_lv25_1"				"【简单易懂的强化】主负面状态将不可驱散同时持续时间最低也会为12秒"
+"DOTA_Tooltip_ability_Advanced_Dual_Breath_note_lv25_2"				"【龙王的吐息】可以开启自动施法，释放时每有100点智力可以消耗800点额外魔法额外释放一道冰火交加"
+"DOTA_Tooltip_ability_Advanced_Dual_Breath_note_lv25_3"				"【冰与火之歌】技能命中后有50%%几率对敌人都附加一层高阶液态火/冰,并立马触发液态火的爆炸"
+
+
+"DOTA_Tooltip_ability_Advanced_enrage_note_lv5"				"【先祖之魂+】提升系数为5"
+"DOTA_Tooltip_ability_Advanced_enrage_note_lv10"			"【远古之姿+】最低生命值变更为最大生命值的35%%，嘲讽范围提升至700"
+"DOTA_Tooltip_ability_Advanced_enrage_note_lv15"			"【暴怒】状态持续期间每秒引起一次地震，每次造成700范围至多5名敌人力量*2的物理伤害"
+"DOTA_Tooltip_ability_Advanced_enrage_note_lv20"			"【远古之姿++】体积再次增大，持续期间状态抗性提升至200%%(即使被减少100%%状态抗性也仍然免疫大部分控制)"
+"DOTA_Tooltip_ability_Advanced_enrage_note_base_Info"       "伤害减免：+0.5%%/级<br/>状态抗性提升：+0.5%%/级<br/>持续时间：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_enrage_note_lv25_1"				"【狂躁】释放任意冷却时间大于1秒的技能都可以触发等同于技能冷却10%%，但最大3秒的激怒"
+"DOTA_Tooltip_ability_Advanced_enrage_note_lv25_2"				"【巴哈姆特之怒】技能持续时间提升至20秒(不被增益)且持续时间结束后才会进入冷却，期间不可移动施法攻击，'暴怒'的触发间隔减少至0.3秒"
+"DOTA_Tooltip_ability_Advanced_enrage_note_lv25_3"				"【保护幼崽】失去'远古之姿'的最低生命值锁定效果。可以使周围700范围内至多五名友军也进入激怒状态，优先英雄。"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_rage_note_lv5"				"【食尸鬼+】恢复效果提升至15%%"
+"DOTA_Tooltip_ability_Advanced_rage_note_lv10"			    "【狂化+】需求伤害值变更为最大生命值7%%"
+"DOTA_Tooltip_ability_Advanced_rage_note_lv15"			    "【群起而攻之】释放时将使周围500范围的友军也进入狂暴状态，持续时间为50%%"
+"DOTA_Tooltip_ability_Advanced_rage_note_lv20"			    "【狂化++】击杀单位也可以使狂暴时间增加0.5秒"
+"DOTA_Tooltip_ability_Advanced_rage_note_base_Info"    "移动速度加成：+1%%/级<br/>持续时间：+0.2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_rage_note_lv25_1"				"【血之眷属】自身召唤的单位都可以获得技能效果，每10秒可与进入5秒狂暴(被破坏被动影响)"
+"DOTA_Tooltip_ability_Advanced_rage_note_lv25_2"				"【屁话哥的无能狂怒】使用技能后自身获得100全属性，但会在5秒内逐渐削减为0。每次使用会使下一次额外获得2点初始全属性，最多300"
+"DOTA_Tooltip_ability_Advanced_rage_note_lv25_3"				"【开膛手】'高阶召唤不死者·开膛手杰克'可以同时召唤多只召唤物，同时使其获得永久狂暴效果(被破坏被动影响)"
+
+
+"DOTA_Tooltip_ability_Advanced_reincarnation_note_lv5"			"【灵魂存续+】持续时间提升至15秒"
+"DOTA_Tooltip_ability_Advanced_reincarnation_note_lv10"			"【灵气释放+】作用范围提升至900，持续时间提升至6秒"
+"DOTA_Tooltip_ability_Advanced_reincarnation_note_lv15"			"【灵魂漫步】使【灵魂存续】状态持续期间无视地形移动，且攻击将削弱目标25%%魔法抗性与10点护甲，持续5秒，不被状态抗性与负面状态持续时间增强增强影响，不可驱散"
+"DOTA_Tooltip_ability_Advanced_reincarnation_note_lv20"			"【冥王回归】当技能处于冷却时将获得30%%的正面状态持续时间增强与负面状态持续时间增强增强"
+"DOTA_Tooltip_ability_Advanced_reincarnation_note_base_Info"    "全属性削弱乘数：-0.01/级<br/>虚弱持续：-0.2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_reincarnation_note_lv25_1"				"【战斗续航光环】'灵魂存续'时间提升至25秒且对所有友方英雄都生效"
+"DOTA_Tooltip_ability_Advanced_reincarnation_note_lv25_2"				"【灵体重聚】在'灵魂存续'期间每击杀一名敌人可以使状态持续时间恢复2秒，并增加5点临时全属性，如果重生处于冷却时间则还能使冷却时间降低2秒。临时全属性最大可以累加至300"
+"DOTA_Tooltip_ability_Advanced_reincarnation_note_lv25_3"				"【不死者之王】被动召唤一具巨大的骷髅附身自己，骷髅可以进行横扫攻击，每秒对你前方的敌人造成全额攻击力300%%的物理伤害。不再有虚弱时间"
+
+
+
+"DOTA_Tooltip_ability_Advanced_counterspell_note_lv5"			"【法术吸收+】抵挡法术后2秒内仍然可以生效(不被正面状态持续时间增强影响)"
+"DOTA_Tooltip_ability_Advanced_counterspell_note_lv10"			"【法术吸收++】每次触发抵挡时将恢复最大生命值的%health_regen_percent%%,并反弹技能。"
+"DOTA_Tooltip_ability_Advanced_counterspell_note_lv15"			"【乱魔立场】开启自动施法后，可以吸收敌人受到的伤害（不会抵消伤害），仅一半效果"
+"DOTA_Tooltip_ability_Advanced_counterspell_note_lv20"			"【折能反射】友军受到物理伤害时，有25%%几率可以触发伤害转移，同时以魔法伤害结算"
+"DOTA_Tooltip_ability_Advanced_counterspell_note_base_Info"     "魔法抗性加成：+0.5%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_counterspell_note_lv25_1"				"【否决护盾】失去'法术反弹'效果，指向性技能不再对你生效"
+"DOTA_Tooltip_ability_Advanced_counterspell_note_lv25_2"				"【崩坏】不再有抵挡指向性技能的效果，当你被友军施加冷却时间大于3秒的指向性技能后，将产生一次崩坏效果，对周围1000范围内随机三名敌人造成物理伤害=(10%%你的最大生命值+20%%友军的最大魔法值)并降低其5点护甲，独立叠加持续20秒(仅强驱散)。你可以开启自动施法，随机移除你一个可驱散的正面状态并提高伤害两倍"
+"DOTA_Tooltip_ability_Advanced_counterspell_note_lv25_3"				"【魔力反震】记录受到的魔法伤害(最初的伤害，不被减免)，每当到达自身最大生命值200%%时，将会对周围600范围的敌人造成最大生命值100%%的物理伤害，并恢复最大生命值10%%的魔法值。有固定0.5秒的冷却时间。初始只能记录50%%的伤害，每次触发提高1%%（线性），最多到达200%%"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_true_form_note_lv5"			"【森林之王+】作用范围提升至1500，生命加成提升至15%%"
+"DOTA_Tooltip_ability_Advanced_true_form_note_lv10"			"【战场支配+】伤害降低提升至22%%"
+"DOTA_Tooltip_ability_Advanced_true_form_note_lv15"			"【巨大化】额外增加30%%体积，攻击距离提升至400，状态抗性提升50%%"
+"DOTA_Tooltip_ability_Advanced_true_form_note_lv20"			"【森林之王++】额外提升友方英雄基础攻击力20%%的基础攻击力"
+"DOTA_Tooltip_ability_Advanced_true_form_note_base_Info"   "生命提升：+60/级<br/>护甲加成：+0.7/级<br/>基础攻击力提升：+10/级<br/>变形持续时间：+0.5/级<br/>"
+"DOTA_Tooltip_ability_Advanced_true_form_note_lv25_1"				"【山峦】状态持续期间，根据自身的体积获得伤害加成(例如初始是1，20层战意后是1.6),获得体积*40%%的伤害加成，但最多为200%%"
+"DOTA_Tooltip_ability_Advanced_true_form_note_lv25_2"				"【森林的族人】添加被动能力，使自身召唤物获得技能基础加成的一半（除了生命），召唤物的生命值将提升20%%"
+"DOTA_Tooltip_ability_Advanced_true_form_note_lv25_3"				"【领域】将变形时所在地点1000范围的区域转化为自身的领域，在领域中可以增加自身与自己的召唤物45%%的伤害，并且变形时间不会消耗。但踏出领域后领域会失效"
+
+
+"DOTA_Tooltip_ability_Advanced_reactive_armor_note_lv5"				"【伤害适配+】每次叠加层数加倍"
+"DOTA_Tooltip_ability_Advanced_reactive_armor_note_lv10"			"【超活性+】生效时间提升至8秒"
+"DOTA_Tooltip_ability_Advanced_reactive_armor_note_lv15"			"【致命活性】每次触发主效果时，还将对攻击自己的敌人造成当前护甲*5的物理伤害(不被技能伤害提升，不触发法术吸血，视为反甲伤害)"
+"DOTA_Tooltip_ability_Advanced_reactive_armor_note_lv20"			"【初始装配】主效果叠加层数始终保持最少12层"
+"DOTA_Tooltip_ability_Advanced_reactive_armor_note_base_Info"       "每次叠加护甲：+0.05/层<br/>每次叠加生命恢复：+0.1/级<br/>单次效果持续时间：+0.5/级<br/>"
+"DOTA_Tooltip_ability_Advanced_reactive_armor_note_lv25_1"				"【自适应】受到大于最大生命值3%%的伤害时将会把伤害锁在3%%（但不影响即死）"
+"DOTA_Tooltip_ability_Advanced_reactive_armor_note_lv25_2"				"【超级活性化】不再具有最大层数限制"
+"DOTA_Tooltip_ability_Advanced_reactive_armor_note_lv25_3"				"【反活性扩展】生成一个500范围的光环，光环内的敌人将减少等同于自身来源于此技能护甲奖励的护甲的70%%"
+
+"DOTA_Tooltip_ability_Advanced_kraken_shell_note_lv5"			"【强抵挡+】效果持续提升至6秒"
+"DOTA_Tooltip_ability_Advanced_kraken_shell_note_lv10"			"【领域格挡+】抵挡效果提升至75%%"
+"DOTA_Tooltip_ability_Advanced_kraken_shell_note_lv15"			"【海妖触手】触发驱散时对周围500范围内随机三名敌人造成力量*2的物理伤害"
+"DOTA_Tooltip_ability_Advanced_kraken_shell_note_lv20"			"【韧性】被动提升35%%状态抗性，这个效果不被被动破坏禁用"
+"DOTA_Tooltip_ability_Advanced_kraken_shell_note_base_Info"     "伤害格挡：+2/级<br/>力量乘数：+0.01/级<br/>伤害临界值：-0.1%%/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_kraken_shell_note_lv25_1"				"【巨物之甲】免疫减速，沉默,冻结，眩晕与缴械，同时获得持续强驱散的能力(不触发'海妖触手'')"
+"DOTA_Tooltip_ability_Advanced_kraken_shell_note_lv25_2"				"【重型装甲】抵挡效果变为原来的两倍，且驱散所需系数下降至2%%，'海妖触手'的伤害值提高到力量*5"
+"DOTA_Tooltip_ability_Advanced_kraken_shell_note_lv25_3"				"【替罪者】领域格挡状态下的友方英雄受到伤害时，将可以完全抵挡，对于额外抵消的伤害值将以30%%的反击伤害由光环携带者承受,如果此时光环携带者无敌，那么不会有伤害惩罚"
+
+
+"DOTA_Tooltip_ability_Advanced_dragon_blood_note_lv5"			"【龙肤+】可无视护盾无效化的作用"
+"DOTA_Tooltip_ability_Advanced_dragon_blood_note_lv10"			"【龙化+】持续时间提高至15秒"
+"DOTA_Tooltip_ability_Advanced_dragon_blood_note_lv15"			"【龙吼】每隔18秒时间会眩晕400范围至多4名敌人1.5秒(被状态抗性与负面状态持续时间增强增强影响)，并造成生命恢复2倍的物理伤害"
+"DOTA_Tooltip_ability_Advanced_dragon_blood_note_lv20"			"【不死】死亡后30秒可以复活(但全员死亡5秒后仍然会游戏失败)"
+"DOTA_Tooltip_ability_Advanced_dragon_blood_note_base_Info"  "生命恢复：+2/级<br/>护甲提升：+0.5/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_dragon_blood_note_lv25_1"				"【连锁龙吼】龙吼的冷却时间降低至10秒，范围提升至700,伤害提升5倍，首波龙吼影响到的敌人将变为中继点对周围随机3名目标发动龙吼。"
+"DOTA_Tooltip_ability_Advanced_dragon_blood_note_lv25_2"				"【不灭】死亡后15秒即可复活，同时每次死亡都将获得5点全属性提升，最大加成150"
+"DOTA_Tooltip_ability_Advanced_dragon_blood_note_lv25_3"				"【龙鳞的赐福】使'龙肤'得到强化，所有技能带来的护盾效果不再会被破坏，同时你获得额外150%%龙族血统护甲加成"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_borrowed_time_note_lv5"			"【嘲弄之域+】范围扩展到1100"
+"DOTA_Tooltip_ability_Advanced_borrowed_time_note_lv10"			"【洗礼+】恢复效果提升至50%%"
+"DOTA_Tooltip_ability_Advanced_borrowed_time_note_lv15"			"【触碰式开关】生命值低于15%%时自动开启，但会作为独立的技能冷却120秒"
+"DOTA_Tooltip_ability_Advanced_borrowed_time_note_lv20"			"【主角光环】技能生效期间提升50%%全属性。"
+"DOTA_Tooltip_ability_Advanced_borrowed_time_note_base_Info"  "持续时间：+0.2/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_borrowed_time_note_lv25_1"				"【阿哈利姆的赐福】开启作用期间，除了自己的友方单位每受到最大生命值10%%的伤害时可以自动对其释放一次单体高阶迷雾缠绕，相同单位有0.2秒冷却"
+"DOTA_Tooltip_ability_Advanced_borrowed_time_note_lv25_2"				"【魔霭之殇】开启作用期间，友方英雄每受到最大生命值10%%的伤害时对其1000范围内最近的的2名敌人释放一次单体高阶迷雾缠绕，有0.1秒冷却"
+"DOTA_Tooltip_ability_Advanced_borrowed_time_note_lv25_3"				"【灵魂归乡】主动效果冷却降低至固定4秒，但是每次释放只有1.5秒持续时间且状态结束后才会进入冷却"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Chilling_Touch_note_lv5"				"【温度吸收】[零度强化]提高自身%bonus_attack_speed%攻击速度，持续2秒（最多可叠加%max_count%次）。"
+"DOTA_Tooltip_ability_Advanced_Chilling_Touch_note_lv10"			"【绝对零度+】[零度强化]所需攻击次数-1。"
+"DOTA_Tooltip_ability_Advanced_Chilling_Touch_note_lv15"			"【彻骨之霜】技能将无视减益免疫,并使极寒之触本身造成的减速效果不再受到状态抗性影响。"
+"DOTA_Tooltip_ability_Advanced_Chilling_Touch_note_lv20"			"【移动冰霜炮台】每移动200距离，对攻击范围内最近的单位发动1次攻击"
+"DOTA_Tooltip_ability_Advanced_Chilling_Touch_note_base_Info"       "基础伤害：+5/级<br/>智力乘数：+0.05/级<br/>减缓移速：+1/级<br/>持续时间：+0.05/级<br/>攻击距离提升：+5/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Chilling_Touch_note_lv25_1"				"【移动堡垒】'移动冰霜炮台'所需移动距离减少至70，同时不再视为奖励攻击"
+"DOTA_Tooltip_ability_Advanced_Chilling_Touch_note_lv25_2"				"【冰雕大炮】技能可以切换，你的攻击速度被减缓至极致，但是你的攻击伤害可以提高到5倍。"
+"DOTA_Tooltip_ability_Advanced_Chilling_Touch_note_lv25_3"				"【冰点】命中后可以吸收目标350范围内所有敌人的温度，每有一个敌人可以使额外伤害增加30%%"
+
+
+"DOTA_Tooltip_ability_Advanced_Ice_Vortex_note_lv5"				"【气旋造形+】将产生两次效果，第一次在释放完2秒后，第二次在释放完4秒后，伤害为原来的70%%"
+"DOTA_Tooltip_ability_Advanced_Ice_Vortex_note_lv10"			"【脆弱化+】伤害加深效果提升至25%%"
+"DOTA_Tooltip_ability_Advanced_Ice_Vortex_note_lv15"			"【冷却】呆在区域内的友方英雄单位的位列最左的冷却中技能冷却速度加快30%%,但不能影响不可刷新技能"
+"DOTA_Tooltip_ability_Advanced_Ice_Vortex_note_lv20"			"【魔力吸收】在区域内的敌军将减少20%%技能伤害"
+"DOTA_Tooltip_ability_Advanced_Ice_Vortex_note_base_Info"       "作用范围：+15/级<br/>移速减缓：+4/级<br/>持续时间：+0.1/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Ice_Vortex_note_lv25_1"				"【骤变】使技能负面效果变得可以叠加,伤害加深效果减少至15%%，但技能伤害削减效果减少至11%%"
+"DOTA_Tooltip_ability_Advanced_Ice_Vortex_note_lv25_2"				"【气候操控】负面状态范围提升为两倍，同时区域内敌人将陷入易伤状态，每次受到来自相同技能的伤害时会增加5%%，最多到达200%%"
+"DOTA_Tooltip_ability_Advanced_Ice_Vortex_note_lv25_3"				"【过冷】获得被动能力，自身使用可刷新技能3秒后，其冷却时间将变为此时的60%%-110%%"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Poison_Sting_note_lv5"			"【聚合+】每次攻击将叠加3层"
+"DOTA_Tooltip_ability_Advanced_Poison_Sting_note_lv10"			"【强性+】每层毒素将减少目标0.3%%魔法抗性"
+"DOTA_Tooltip_ability_Advanced_Poison_Sting_note_lv15"			"【融合】每秒额外施加等同于目标基础攻击力10%%的毒层数(与层数没关联,最多为智力*15)"
+"DOTA_Tooltip_ability_Advanced_Poison_Sting_note_lv20"			"【成长】毒液每存在1秒，提升0.5%%毒层数累计效果，最高提升50%%"
+"DOTA_Tooltip_ability_Advanced_Poison_Sting_note_base_Info"     "基础伤害：+0.2/级<br/>智力乘数：+0.002/级<br/>"	
+// "DOTA_Tooltip_ability_Advanced_Poison_Sting_note_lv25_1"				"【相乘融合】每层毒素有2%%几率在施加毒素后为其附带3秒的高阶剧毒新星，超过50层后变更为必定附加一层，额外几率附带一层(不被增益)"
+"DOTA_Tooltip_ability_Advanced_Poison_Sting_note_lv25_2"				"【能量熔铸】每层毒刺可以附带你的最大魔法值0.3%%的毒素累计"
+"DOTA_Tooltip_ability_Advanced_Poison_Sting_note_lv25_3"				"【生命熔铸】每层毒刺可以附带你最大生命值0.2%%的毒素累计"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Heart_Stopper_Aura_note_lv5"				"【郁毒灵气+】每秒累计毒素提高20%%"
+"DOTA_Tooltip_ability_Advanced_Heart_Stopper_Aura_note_lv10"			"【暂缓】开启自动施法时获得20%%中毒伤害抗性，否则获得1%%最大生命值的生命恢复"
+"DOTA_Tooltip_ability_Advanced_Heart_Stopper_Aura_note_lv15"			"【稠化剧毒+】敌人的中毒叠加速度提高至100%%"
+"DOTA_Tooltip_ability_Advanced_Heart_Stopper_Aura_note_lv20"			"【竭心连锁】每秒对光环内最近的敌人传染竭心瘟疫，对其施加等同自身10%%中毒层数的中毒状态"
+"DOTA_Tooltip_ability_Advanced_Heart_Stopper_Aura_note_base_Info"            "最大伤害乘数：+0.06/级<br/>每秒累计毒素：+0.01/每级<br/>"	
+//"DOTA_Tooltip_ability_Advanced_Heart_Stopper_Aura_note_lv25_1"				"【戒律的回赠】可以开启自动施法，将每秒扣除自身10%%的当前生命与8%%的当前魔法，作为交换，每秒造成的伤害提升这一部分数值的三倍"
+"DOTA_Tooltip_ability_Advanced_Heart_Stopper_Aura_note_lv25_2"				"【生命锁链】用锁链锁住光环内的敌人，降低其50%%的移动速度，任何一名敌人的死亡都会使光环内的至多10名敌人受到伤害永久提升5%%，最高叠加300%%"
+"DOTA_Tooltip_ability_Advanced_Heart_Stopper_Aura_note_lv25_3"				"【死神召唤】技能每秒造成伤害后有5%%几率对其释放一次高阶死神镰刀"
+
+
+"DOTA_Tooltip_ability_Advanced_Ghost_Shroud_note_lv5"			"【绝望灵气+】恐惧智力系数提升一，即死智力系数提升二"
+"DOTA_Tooltip_ability_Advanced_Ghost_Shroud_note_lv10"			"【阴间特效+】将额外提供1%%/秒的最大生命值恢复"
+"DOTA_Tooltip_ability_Advanced_Ghost_Shroud_note_lv15"			"【死灵之息】区域内敌人将减少20%%魔法抗性"
+"DOTA_Tooltip_ability_Advanced_Ghost_Shroud_note_lv20"			"【领域扩展】每点智力将提升3点影响范围"
+"DOTA_Tooltip_ability_Advanced_Ghost_Shroud_note_base_Info"     "移速减缓：+4/级<br/>恢复增强：+1%%/级<br/>作用范围：+10/级<br/>持续时间：+0.1/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Ghost_Shroud_note_lv25_1"				"【负向接触】释放技能后立即对范围内所有敌人造成以下随机效果：3秒忽略抗性麻痹/等同于你最大魔法值30%%的魔法伤害/等于你最大生命值50%%的魔法伤害，这个效果在技能结束时会再次触发"
+"DOTA_Tooltip_ability_Advanced_Ghost_Shroud_note_lv25_2"				"【死亡解放】区域作用范围内的敌人会累计受到的伤害，状态销毁时候你将对其造成累计伤害的100%%的魔法伤害,但不被技能伤害等效果影响"
+"DOTA_Tooltip_ability_Advanced_Ghost_Shroud_note_lv25_3"				"【脉冲散播】对于处于区域内的敌人，每经过1-2秒可以对其释放一次单体的高阶死亡脉冲"
+
+
+"DOTA_Tooltip_ability_Advanced_Death_Pulse_note_lv5"			"【生死钟摆+】治疗友军后的10秒内，还会以每秒5%%原数值为其提供持续治疗效果"
+"DOTA_Tooltip_ability_Advanced_Death_Pulse_note_lv10"			"【死疫爆发+】中毒结算效率提高至45%%"
+"DOTA_Tooltip_ability_Advanced_Death_Pulse_note_lv15"			"【无止邪风】死亡脉冲每命中一个单位，都会返还自身0.2秒冷却时间"
+"DOTA_Tooltip_ability_Advanced_Death_Pulse_note_lv20"			"【死域风暴】释放时有30%%几率对2倍范围内的单位再次发射"
+"DOTA_Tooltip_ability_Advanced_Death_Pulse_note_base_Info"      "基础伤害/治疗：+10/级<br/>智力乘数：+0.1/级<br/>对中毒敌人伤害增加：+0.3%/级"	
+"DOTA_Tooltip_ability_Advanced_Death_Pulse_note_lv25_1"				"【死神召唤】造成伤害后有15%%几率对目标释放一次单体的高阶死亡镰刀"
+"DOTA_Tooltip_ability_Advanced_Death_Pulse_note_lv25_2"				"【sin(3t)的死亡】转变为被动技能，每经过当sin(3t)等于1时自动释放一次死亡脉冲，t为时间。以这种方式释放死亡脉冲时，将减少自身现有中毒层数的90%%"
+"DOTA_Tooltip_ability_Advanced_Death_Pulse_note_lv25_3"				"【萨达加尔，唤死之人】[死域风暴]将必定触发"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Bristle_Back_note_lv5"			"【刺针扫射+】受到伤害的敌人会叠加一层【刺针】，持续15秒，独立计算时间，（不被状态抗性与负面状态持续时间增强增强影响）每层【刺针】在触发时会提供额外5%%伤害。"
+"DOTA_Tooltip_ability_Advanced_Bristle_Back_note_lv10"			"【蜷缩+】更改为背部扩展。"
+"DOTA_Tooltip_ability_Advanced_Bristle_Back_note_lv15"			"【能量充盈】受到伤害小于20时，按照20计算。"
+"DOTA_Tooltip_ability_Advanced_Bristle_Back_note_lv20"			"【多重扫射】每次扫射皆有15%%几率在0.5秒后再触发一次，伤害取触发源"
+"DOTA_Tooltip_ability_Advanced_Bristle_Back_note_base_Info"     "背部减免：+0.7%/级<br/>侧面减免：+0.5%%/级<br/>背面角度：+1/级<br/>侧面角度:+2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Bristle_Back_note_lv25_1"				"【刺针制造】每秒自动累计最大生命值15%%的伤害吸收点"
+"DOTA_Tooltip_ability_Advanced_Bristle_Back_note_lv25_2"				"【增强形刺针】刺针伤害提高100%%，敌人身上每到达6层'刺针'时将释放一次刺针，计算施法者最大生命值15%%的伤害"
+"DOTA_Tooltip_ability_Advanced_Bristle_Back_note_lv25_3"				"【永久性损伤】'刺针'负面效果变为1000秒"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Berserkers_Call_note_lv5"			"【迎合+】额外受到35%%伤害，恢复效果提升至55%%。"
+"DOTA_Tooltip_ability_Advanced_Berserkers_Call_note_lv10"			"【我错了别打了+】改变逻辑为：状态持续期间最小生命值为最大生命值的30%%,状态结束后恢复30%%的生命值。"
+"DOTA_Tooltip_ability_Advanced_Berserkers_Call_note_lv15"			"【狂暴】状态持续期间造成的伤害提升25%%。"
+"DOTA_Tooltip_ability_Advanced_Berserkers_Call_note_lv20"			"【猝死】提升嘲讽能力，嘲讽生效期间单位生命值低于施法者力量*7时造成即死效果。"
+"DOTA_Tooltip_ability_Advanced_Berserkers_Call_note_base_Info"      "作用范围：+20/级<br/><br/>"	
+"DOTA_Tooltip_ability_Advanced_Berserkers_Call_note_lv25_1"				"【阿哈利姆的赐福】对被嘲讽的敌人使其降低20防御与35%%魔法抗性,前7名敌人还将附加一层高阶战斗饥渴"
+"DOTA_Tooltip_ability_Advanced_Berserkers_Call_note_lv25_2"				"【肝胆破碎】提升'猝死'的能力，可以对生命值低于13%%的敌人造成即死"
+"DOTA_Tooltip_ability_Advanced_Berserkers_Call_note_lv25_3"				"【欠揍哥】转变为被动技能，失去'我错了别打了'效果，你将以2秒的间隔嘲讽你周围的敌人，但嘲讽时间降低至1秒，同时以每秒一次的间隔检测你的生命值，如果你的生命值低于30%%时，可以恢复10%%，视为治疗"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Counter_Helix_note_lv5"			"【动能维续+】触发持续时间增加至25秒"
+"DOTA_Tooltip_ability_Advanced_Counter_Helix_note_lv10"			"【喜加一+】触发效果时有40%%几率在0.2秒后再次触发一次(不会再次触发第三次)"
+"DOTA_Tooltip_ability_Advanced_Counter_Helix_note_lv15"			"【快速冷却】冷却时间变为固定的0.05秒。"
+"DOTA_Tooltip_ability_Advanced_Counter_Helix_note_lv20"			"【血能】当生命值高于70%%时，会消耗1%%最大生命值，额外提升消耗量*2的伤害。"
+"DOTA_Tooltip_ability_Advanced_Counter_Helix_note_base_Info"    "基础伤害：+6/级<br/>力量乘数：+0.06/级<br/>作用范围：+10/级<br/>触发几率：+0.3%%/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Counter_Helix_note_lv25_1"				"【永动机】影响单位提升至7，来自'动能维续'的加成提升100%%，同时只要自身处于移动状态便可以每秒触发一次"
+"DOTA_Tooltip_ability_Advanced_Counter_Helix_note_lv25_2"				"【大地的感召】任何攻击事件都可以触发技能效果"
+"DOTA_Tooltip_ability_Advanced_Counter_Helix_note_lv25_3"				"【反击风暴】技能可以主动施法，触发反击螺旋时可以储存触发次数，最多储存50次，主动释放后将以每秒5次的频率进行释放。"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Dispersion_note_lv5"				"【全反射+】触发时记录150%%的伤害。"
+"DOTA_Tooltip_ability_Advanced_Dispersion_note_lv10"			"【莫比乌斯环+】触发几率提升至30%%"
+"DOTA_Tooltip_ability_Advanced_Dispersion_note_lv15"			"【能量充盈】当受到的伤害小于50时，也可以按照受到50伤害计算。"
+"DOTA_Tooltip_ability_Advanced_Dispersion_note_lv20"			"【能量破碎】受到大于500的伤害时，有40%%几率释放一次反射伤害，但只移除30%%的累计值。"
+"DOTA_Tooltip_ability_Advanced_Dispersion_note_base_Info"       "伤害减免：+0.5%%/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Dispersion_note_lv25_1"				"【线偏振光】不再受到距离影响的伤害削减,只能影响三个目标，但全反射触发几率提升至60%%"
+"DOTA_Tooltip_ability_Advanced_Dispersion_note_lv25_2"				"【远场衍射】不再受到距离影响的伤害削减,伤害减免额度提升10%%,影响目标减少至3,但被折射的单位在3秒内将变为'衍射孔'，将受到的30%%的伤害记录发送给折射中心"
+"DOTA_Tooltip_ability_Advanced_Dispersion_note_lv25_3"				"【非相干散射】不再受到距离影响的伤害削减,影响目标减少至4，受到折射的单位会将80%%层数再折射给周围（N-1）个单位，直到剩余0，折射伤害将延缓0.1-0.5秒结算(除了初次折射选择最近单位，其他选择随机单位)"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Haunt_note_lv5"			"【无尽能量+】幻象每次攻击将提升5点攻速，最高提升250."
+"DOTA_Tooltip_ability_Advanced_Haunt_note_lv10"			"【能量聚合+】伤害转换提升至25%%"
+"DOTA_Tooltip_ability_Advanced_Haunt_note_lv15"			"【能量汲取】幻象额外造成施法者敏捷×0.5的伤害"
+"DOTA_Tooltip_ability_Advanced_Haunt_note_lv20"			"【无尽能量++】幻象每次攻击将会额外存留0.2秒(最多额外存留10秒)"
+"DOTA_Tooltip_ability_Advanced_Haunt_note_base_Info"    "敏捷乘数：+0.02/级<br/>"	
+// "DOTA_Tooltip_ability_Advanced_Haunt_note_lv25_1"				"【能量重组】幻象的攻击有5%%几率对目标发动一次高阶幽鬼之刃（但1秒最多触发一次）"
+"DOTA_Tooltip_ability_Advanced_Haunt_note_lv25_2"				"【猎手】你的攻击有5%%几率召唤一个持续3秒的幻象，但3秒内最多触发6次(无法触发LV20效果)"
+"DOTA_Tooltip_ability_Advanced_Haunt_note_lv25_3"				"【平原野鬼】被动生成3具鬼影跟随自己，每10秒将会刷新一次"
+
+
+"DOTA_Tooltip_ability_Advanced_Desolate_note_lv5"			"【沙鲁空气拳+】被空气拳击中的敌人还会进入被动破坏状态，持续2秒"
+"DOTA_Tooltip_ability_Advanced_Desolate_note_lv10"			"【背叛与抛弃】孤独感造成伤害时，若单位周围的友军少于2个，那么其永远视为被孤立的状态"
+"DOTA_Tooltip_ability_Advanced_Desolate_note_lv15"			"【孤魂收割+】[孤魂]现在会强化沙鲁空气拳，每层为其提供4点伤害范围和0.3%%线性伤害倍率"
+"DOTA_Tooltip_ability_Advanced_Desolate_note_lv20"			"【孤立无援】孤独感对沉默单位的伤害提高30%%"
+"DOTA_Tooltip_ability_Advanced_Desolate_note_base_Info"     "攻击累计孤独感：+1%/级<br/>空气拳伤害：+1%/级"	
+//"DOTA_Tooltip_ability_Advanced_Desolate_note_lv25_1"				"【折返】触发'沙鲁之击'时有20%%几率立即结算一次高阶折射的伤害（仅移除30%%的累计值）"
+//"DOTA_Tooltip_ability_Advanced_Desolate_note_lv25_2"				"【猎刃】仅近战有效，所有技能效果不再由于敌人过多而失效，区域内每存在额外6名敌人，你的攻击次数加一，有0.1秒的延缓。同时这个效果一帧只能触发一次，最多额外攻击3次"
+//"DOTA_Tooltip_ability_Advanced_Desolate_note_lv25_3"				"【暗影猎捕】触发主效果时，如果目标的防御力大于0，你可以把其视为50%%的负数"
+
+
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv5"				"【幽暗之路+】攻击速度提升150，额外获得20%%伤害减免效果。"
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv10"			"【横裂之魄+】吸收伤害提升至25%%。"
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv15"			"【荆棘之路】处于移速减缓的敌人每隔2秒会被缠绕1秒(不被状态抗性与负面状态持续时间增强增强影响，可被弱驱散)"
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv20"			"【暗影之路】路径上的所有友军获得40%%闪避。"
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_base_Info"  "基础伤害：+15/级<br/>额外伤害：+0.1/级<br/>移动速度减缓/增加：+4/级<br/>"	
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv25_1"				"【幽鬼之影】每4-7秒召唤两支匕首环绕自己移动，持续时间不定，最多存续6秒"
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv25_2"				"【猎影】如果你的第一次与第二次幽鬼之刃造成伤害后目标的生命差值在15%%以上，那么此后你的幽鬼之刃伤害可以对其提高到15倍"
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv25_3"				"【折影】高阶折射结算时有50%%几率对受到伤害的一名敌人掷出一把幽鬼之刃，这个效果有1秒冷却时间(不被概率事件加成影响)"
+"DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv5"				"【猎影双刃+】获得当前匕首数量*40的攻击力加成"
+"DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv10"			"【猎杀时间+】额外召唤的匕首增加至3"
+"DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv15"			"【横裂之魄】匕首的伤害将附加全额攻击力20%%，同时每次匕首造成伤害时都有5%%几率额外增加一把匕首，额外的匕首最多为5，持续8秒"
+"DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv20"			"【暗影之路】猎杀时间期间获得穿越地形移动能力"
+"DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_base_Info"  "基础伤害：+6/级<br/>额外伤害：+0.04/级<br/>移动速度减缓：+6/级<br/>"	
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv25_1"				"【幽鬼之影】"
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv25_2"				"【猎影】"
+// "DOTA_Tooltip_ability_Advanced_Spectral_Dagger_note_lv25_3"				"【折影】"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Bulwark_note_lv5"				"【赫菲斯托斯之福佑+】触发几率提升至60%%"
+"DOTA_Tooltip_ability_Advanced_Bulwark_note_lv10"			"【流转+】流转触发时有50%%几率将伤害提高一倍"
+"DOTA_Tooltip_ability_Advanced_Bulwark_note_lv15"			"【全集中】生命值低于40%%时将侧面角度提升至360°"
+"DOTA_Tooltip_ability_Advanced_Bulwark_note_lv20"			"【赎罪】敌人每次正面攻击自己会叠加一层【赎罪】，受到来源于解锁此效果的单位的伤害将提升【叠加层数*0.6】%%,最高叠加50层，持续10秒,每次叠加刷新时间。(不被状态抗性与负面状态持续时间增强增强影响,不可驱散)"
+"DOTA_Tooltip_ability_Advanced_Bulwark_note_base_Info"  "正面物理伤害减免：+0.5%%/级<br/>侧面物理伤害减免：+0.3%%/级<br/>正面角度：+1/级<br/>侧面角度:+2/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Bulwark_note_lv25_1"				"【匠神之盾】正面减免效果提升12.5%%，且任何角度的攻击都将视为正面抵挡"
+"DOTA_Tooltip_ability_Advanced_Bulwark_note_lv25_2"				"【完全反击】无论是否触发'流转'，被攻击时都有10%%几率触发一次'神之谴责'(仅触发高阶),随后进入2秒的冷却时间，如果未携带技能则无法触发"
+"DOTA_Tooltip_ability_Advanced_Bulwark_note_lv25_3"				"【赎罪之路】'赎罪'的层数限制提升至300且每次叠加两层，每层效果提升至1%%同时层数大于50后不再限制攻击者，任何人攻击附带'赎罪'的单位都将获得加成（如果存在两个不同的来源，当解锁了奥义的英雄刷新了状态后即视为1%%的加成）"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Spear_note_lv5"				"【烈性火矛+】爆炸攻击力翻倍"
+"DOTA_Tooltip_ability_Advanced_Spear_note_lv10"			"【战神步伐】使用急行后，投矛的穿刺伤害增加35%%"
+"DOTA_Tooltip_ability_Advanced_Spear_note_lv15"			"【轻灵连掷】连续投掷2次，同时立刻刷新急行的冷却时间"
+"DOTA_Tooltip_ability_Advanced_Spear_note_lv20"			"【战神步伐+】使用急行后，战神之矛的剩余冷却时间减少1.5秒，适用轻巧铁矛时则减少4.5秒"
+"DOTA_Tooltip_ability_Advanced_Spear_note_base_Info"  "基础伤害：+11/级<br/>攻击力乘数：+0.11/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Spear_note_lv25_1"				"【幻影掷矛手】左右各生成3名斯巴达战士对相同方向投掷战矛，其附带的额外伤害与主矛相同，爆炸伤害可以叠加"
+"DOTA_Tooltip_ability_Advanced_Spear_note_lv25_2"				"【斯巴达接力】在战矛的终点生成一名斯巴达战士向反方向投掷战矛，这个行为将重复3次"
+//"DOTA_Tooltip_ability_Advanced_Spear_note_lv25_3"				"【战神执念】'狂战'消耗的生命值提升至70%%，同时吸血效果在生命值大于50%%时也可以生效"
+
+
+"DOTA_Tooltip_ability_Advanced_Solar_Guardian_note_lv5"				"【超力起跳】引导时间和脉冲间隔减少25%%"
+"DOTA_Tooltip_ability_Advanced_Solar_Guardian_note_lv10"			"【天罚余波】坠击会造成3次大型脉冲，其范围、伤害和治疗量提高80%"
+"DOTA_Tooltip_ability_Advanced_Solar_Guardian_note_lv15"			"【惊艳天罚】技能获得2次充能"
+"DOTA_Tooltip_ability_Advanced_Solar_Guardian_note_lv20"			"【天罚余波+】大型脉冲还会造成50%%减速效果，持续2秒"
+"DOTA_Tooltip_ability_Advanced_Solar_Guardian_note_base_Info"  "基础伤害/治疗：+5/级<br/>基础攻击力乘数：+0.04/级<br/>额外治疗力量乘数：+0.04/级<br/>着陆基础伤害：+10/级<br/>着陆额外伤害攻击力乘数：：+0.15/级<br/>作用范围：：+10/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Solar_Guardian_note_lv25_1"				"【秩序融合】你的攻击可以触发一次脉冲，如果你同时拥有高阶熠熠生辉效果，则变为不带眩晕效果的最终脉冲效果。不具备'原初之光'效果，有1秒冷却。如果触发的为最终脉冲，则变为2倍伤害与5倍冷却（那特效伤害眼睛）"
+"DOTA_Tooltip_ability_Advanced_Solar_Guardian_note_lv25_2"				"【无尽职责】技能可以开启自动施法，在此状态下你可以双击任何地点，如果这个地点周围400范围有友军存在，你可以立即飞向此地点，并造成一次最终脉冲效果，这个效果有5秒冷却"
+"DOTA_Tooltip_ability_Advanced_Solar_Guardian_note_lv25_3"				"【秩序军团】召唤物附带原初之光的能力，每只召唤物每隔9秒都可以触发一次脉冲"
+
+	
+
+
+"DOTA_Tooltip_ability_Advanced_Celestial_Hammer_note_lv5"				"【圣光回响+】影响单位加1，但对同个单位最多只能触发2次"
+"DOTA_Tooltip_ability_Advanced_Celestial_Hammer_note_lv10"			"【武神+】额外增加60%%移动速度，并且持续时间内移动速度不会被减缓 "
+"DOTA_Tooltip_ability_Advanced_Celestial_Hammer_note_lv15"			"【武神++】持续时间内受到伤害减免17%%(唯一)"
+"DOTA_Tooltip_ability_Advanced_Celestial_Hammer_note_lv20"			"【常驻化】技能处于冷却中时【武神】的持续时间不会被减少"
+"DOTA_Tooltip_ability_Advanced_Celestial_Hammer_note_base_Info"  "攻击力乘数：+0.05/级<br/>移动速度减缓：+1%%/级<br/>烧灼力量伤害：+0.05/级<br/>释放距离：+40/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Celestial_Hammer_note_lv25_1"				"【幻影战锤手】转变为被动技能，且失去'常驻化'效果，攻击有8%%几率朝周围1000范围内随机一个点丢出锋刃，并进入4秒冷却，冷却时间大于15时不触发。"
+"DOTA_Tooltip_ability_Advanced_Celestial_Hammer_note_lv25_2"				"【米凯拉的锋刃】锤子变为锋刃，对击中的敌人附加一层持续10秒的猩红腐败效果，每层猩红腐败可以对其造成最大生命值0.5%%的伤害，但每秒伤害总量不超过施法者全额攻击力的十倍(不被状态抗性与负面状态持续时间增强影响)"
+"DOTA_Tooltip_ability_Advanced_Celestial_Hammer_note_lv25_3"				"【狂舞】改变技能的冷却时间，最长4秒，在0.1到4秒中随机产生"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Luminosity_note_lv5"				"【秩序协同】熠熠生辉还会对最近的友军英雄施加一次弱驱散"
+"DOTA_Tooltip_ability_Advanced_Luminosity_note_lv10"			"【纠死圣律】熠熠生辉会斩杀生命值低于5%%的敌人"
+"DOTA_Tooltip_ability_Advanced_Luminosity_note_lv15"			"【光之灌注+】光之灌注的持续时间增加到45秒"
+"DOTA_Tooltip_ability_Advanced_Luminosity_note_lv20"			"【纯净武器+】如果熠熠生辉成功驱散了自身的负面状态，那么立刻获得2次攻击计数"
+"DOTA_Tooltip_ability_Advanced_Luminosity_note_base_Info"  "致命一击：+7.2%/级<br/>攻击伤害治疗：+0.5%/级"	
+//"DOTA_Tooltip_ability_Advanced_Luminosity_note_lv25_1"				"【维序者】所需攻击次数减少1，'秩序赐福'的最大层数提升至100"
+//"DOTA_Tooltip_ability_Advanced_Luminosity_note_lv25_2"				"【混沌结合】当你拥有高阶混沌一击时，可以使熠熠生辉的暴击伤害变为原来的1.9倍，高阶混沌一击的暴击伤害变为原来的1.3倍"
+//"DOTA_Tooltip_ability_Advanced_Luminosity_note_lv25_3"				"【光脉】触发该技能暴击时有25%%几率产生一道200%%效果的高阶天光现世的脉冲"
+
+	
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Voodoo_Restoration_note_lv5"				"【假酒+】伤害提升至75%%"
+"DOTA_Tooltip_ability_Advanced_Voodoo_Restoration_note_lv10"			"【再利用+】治疗效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_Voodoo_Restoration_note_lv15"			"【开源节流】每秒的魔法消耗降低50%%(不改变面板)"
+"DOTA_Tooltip_ability_Advanced_Voodoo_Restoration_note_lv20"			"【大巫医】开启技能时自身治疗增强提升35%%"
+"DOTA_Tooltip_ability_Advanced_Voodoo_Restoration_note_base_Info"  "作用范围：+8/级<br/>基础治疗：+1/级<br/>智力乘数：+0.015/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Voodoo_Restoration_note_lv25_1"				"【简单易懂的强化】不再消耗魔法，且可以变为恢复等值的魔法，该技能的治疗效果变为原来的5倍"
+"DOTA_Tooltip_ability_Advanced_Voodoo_Restoration_note_lv25_2"				"【热酒】区域内友方的吸血增强提升50%%，与受到治疗效果提升100%%，同时攻击速度提升20%%"
+"DOTA_Tooltip_ability_Advanced_Voodoo_Restoration_note_lv25_3"				"【冷酒】区域内的友方防御力提高50，同时将会把有效治疗的2倍进行储存，当到达你最大生命值的100%%时，使其过冷，在过冷期间目标忽略所有伤害，但每秒消耗等同于其最大生命值20%%+500点的的储存值，且每秒乘法增加5%%，直到所有值耗光"
+
+
+"DOTA_Tooltip_ability_Advanced_Chaos_Meteor_note_lv5"				"【小行星+】触发几率提升至50%"
+"DOTA_Tooltip_ability_Advanced_Chaos_Meteor_note_lv10"			"【混沌脉冲+】脉冲范围提升50%"
+"DOTA_Tooltip_ability_Advanced_Chaos_Meteor_note_lv15"			"【混乱之雨】将额外产生2颗次级陨石，次级陨石只有一半的范围与伤害"
+"DOTA_Tooltip_ability_Advanced_Chaos_Meteor_note_lv20"			"【混乱之雨+】次级陨石数量加2"
+"DOTA_Tooltip_ability_Advanced_Chaos_Meteor_note_base_Info"  "基础伤害：+8/级<br/>伤害智力乘数：：+0.08/级<br/>烧灼伤害：：+3/级<br/>烧灼智力乘数：+0.01/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Chaos_Meteor_note_lv25_1"				"【艾丝缇陨石】转变为持续施法技能，同时冷却时间降低至1.5秒，在持续施法期间每0.7秒生成1颗陨石，威力在0.3-1.1之间进行随机"
+"DOTA_Tooltip_ability_Advanced_Chaos_Meteor_note_lv25_2"				"【流星雨】次级陨石+10，但降落点将变得更加分散，同时降落分散时间从0.1到0.5秒变更为0.1到1.5秒"
+"DOTA_Tooltip_ability_Advanced_Chaos_Meteor_note_lv25_3"				"【巨型陨石】不再产生次级陨石，将产生一颗巨型陨石，范围为两倍，伤害为5倍"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Vampiric_Spirit_note_lv5"				"【灵魂固化+】加成效果提升至主属性的800%%"
+"DOTA_Tooltip_ability_Advanced_Vampiric_Spirit_note_lv10"			"【生命储蓄+】吸血计算提升至3.5%，同时储蓄时间提升至10秒"
+"DOTA_Tooltip_ability_Advanced_Vampiric_Spirit_note_lv15"			"【灵魂之膜】当储蓄的生命值到达自身最大生命值的40%%以上时，获得50%%的状态抗性"
+"DOTA_Tooltip_ability_Advanced_Vampiric_Spirit_note_lv20"			"【破势】生命值为满时，防御力增加50"
+"DOTA_Tooltip_ability_Advanced_Vampiric_Spirit_note_base_Info"  "攻击伤害吸血：+0.05%%/级<br/>攻击伤害吸血：+1/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_Vampiric_Spirit_note_lv25_1"				"【血之联合】所有单位将共用'生命储蓄'效果，储蓄的生命永久保存但每秒会减少1%%(你仍需要在满血状态下触发储蓄状态才能触发这个效果)"
+"DOTA_Tooltip_ability_Advanced_Vampiric_Spirit_note_lv25_2"				"【血魂】当储蓄的生命值到自身最大生命值100/500/1000/2000/4000%%时，你将获得20全属性/额外20全属性/40%%技能伤害/10%%伤害减免/60%%伤害增强(仅对英雄有效)"
+"DOTA_Tooltip_ability_Advanced_Vampiric_Spirit_note_lv25_3"				"【血液固化】储蓄的生命值从治疗效果转变为护盾效果且不会被护盾破坏禁用"
+
+
+"DOTA_Tooltip_ability_Advanced_shockwave_note_lv5"				"【回响+】震荡次数加一"
+"DOTA_Tooltip_ability_Advanced_shockwave_note_lv10"			"【魔法三重化+】伤害继承提升至75%%"
+"DOTA_Tooltip_ability_Advanced_shockwave_note_lv15"			"【PTSD】每次受到震荡波伤害时都会使下次震荡波伤害提高10%%，独立计算时间，持续5秒，不受状态抗性与负面状态增强影响"
+"DOTA_Tooltip_ability_Advanced_shockwave_note_lv20"			"【崩裂】每次震荡波震荡时有15%%几率继承震荡次数，在左右进行分裂，分裂后的震荡波继承原本的伤害。"
+"DOTA_Tooltip_ability_Advanced_shockwave_note_base_Info"  "基础伤害：+10/级<br/>力量乘数：+0.1/级<br/>"	
+"DOTA_Tooltip_ability_Advanced_shockwave_note_lv25_1"				"【崩坏】施法距离提升400，震荡波到达目的地后经过短暂延迟路径会产生爆炸，造成全额攻击力的50%%的物理伤害，并在5秒内降低受到影响单位降低2点护甲，独立叠加固定持续时间"
+"DOTA_Tooltip_ability_Advanced_shockwave_note_lv25_2"				"【断层】失去除了'PTSD'以外的效果，震荡波作用范围提升至300，转变为单位目标施法，可以对一个单位发动技能效果，震荡波将在两个单位至今往返振荡，直到下一次施法或其中一个单位死亡"
+"DOTA_Tooltip_ability_Advanced_shockwave_note_lv25_3"				"【崩坏者的传承】转变为大型震荡波，作用范围提升至400，伤害附加1.5倍攻击力，转变为物理伤害"
+
+
+
+"DOTA_Tooltip_ability_Advanced_gravity_note_lv5"				"【反相+】反相状态下的牵引速度增加50%%"
+"DOTA_Tooltip_ability_Advanced_gravity_note_lv10"			"【两极反转+】伤害继承提升至75%%"
+"DOTA_Tooltip_ability_Advanced_gravity_note_lv15"			"【引力核】牵引速度，作用范围与伤害提升50%%"
+"DOTA_Tooltip_ability_Advanced_gravity_note_lv20"			"【两极反转再反转】后续地爆天星继承伤害提升至90%%，如果释放了一个正向的地爆天星，之后将产生反相的地爆天星，额外产生次数为2"
+"DOTA_Tooltip_ability_Advanced_gravity_note_base_Info"  "基础伤害：+3/级<br/>智力乘数：+0.02/级<br/>爆炸伤害智力乘数：+0.2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_gravity_note_lv25_1"				"【封印】地爆天星作用范围内的敌人被沉默，破坏被动，破坏护盾，破坏闪避，受到所有伤害增加43%%"
+"DOTA_Tooltip_ability_Advanced_gravity_note_lv25_2"				"【万象】反相地爆天星的产生次数增加至6且始终会将敌人向外推,地爆天星继承伤害提升至110%%"
+"DOTA_Tooltip_ability_Advanced_gravity_note_lv25_3"				"【坠陷】施加一个巨大的重力场，区域内移速低于300的敌人将无法移动，而移速大于300的敌人，每超50点将每秒受到10%%地爆天星的伤害，最多到达10倍,重力场存在25秒，同一时间只能存在至多一个重力场"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_astral_imprisonment_note_lv5"				"【殁境波动+】对队友使用时目标将可以移动，且结算时按照50%%当前魔法值作为额外伤害"
+"DOTA_Tooltip_ability_Advanced_astral_imprisonment_note_lv10"			"【殁境扩张+】最大范围加成提升至750"
+"DOTA_Tooltip_ability_Advanced_astral_imprisonment_note_lv15"			"【殁境庇护所】技能可以右键切换状态，在右键切换状态下仅可对友军释放，被影响的友军可以使用技能，且持续时间提升至5秒，但冷却时间被固定为13秒，且在施法完成4秒后再进入冷却"
+"DOTA_Tooltip_ability_Advanced_astral_imprisonment_note_lv20"			"【天地囚笼】对敌使用时，将转换为巨大的天体牢笼，囚禁范围内所有敌人"
+"DOTA_Tooltip_ability_Advanced_astral_imprisonment_note_base_Info"  "智力乘数：+0.16/级<br/>"
+"DOTA_Tooltip_ability_Advanced_astral_imprisonment_note_lv25_1"				"【神蚀者】每次对敌施法都可以让自身的魔法值提升10%%，独立叠加，持续时间位此次施法造成的控制时间总和,被正面状态持续时间增强影响"
+"DOTA_Tooltip_ability_Advanced_astral_imprisonment_note_lv25_2"				"【星体之能】附加被动能力，当你使用任意冷却时间大于3秒的技能时，你可以在14秒内获得800点最大魔法值提升,被正面状态持续时间增强影响"
+"DOTA_Tooltip_ability_Advanced_astral_imprisonment_note_lv25_3"				"【先兆者】附加被动能力，当有一名敌人尝试攻击你时，你可以自动对其施加一次单体的星体禁锢，对相同单位有10秒冷却"
+
+
+"DOTA_Tooltip_ability_Advanced_summon_water_element_note_lv5"				"【生生不息+】可触发次数增加至5"
+"DOTA_Tooltip_ability_Advanced_summon_water_element_note_lv10"			"【源远流长+】最大叠加增加至350%%"
+"DOTA_Tooltip_ability_Advanced_summon_water_element_note_lv15"			"【波浪形态】水元素的攻击有50%%几率化为波浪冲向目标身后400码的位置，对沿途所有敌人造成全额攻击力7%%的伤害"
+"DOTA_Tooltip_ability_Advanced_summon_water_element_note_lv20"			"【渗透作用】水分子从水势高的一方通过半透膜向水势低的一方移动，当攻击的目标的生命值百分比高于水元素时或为水元素生命值为满时，水元素将提升5点攻击速度（最多提升400点）"
+"DOTA_Tooltip_ability_Advanced_summon_water_element_note_base_Info"  "攻击力继承：+1.5%%/级<br/>生命值继承：+1.5%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_summon_water_element_note_lv25_1"				"【水之化身】'波浪形态'的触发几率提升至80%%，且伤害提高至全额攻击力35%%的伤害,并且冲向目标身后+自身攻击距离的位置"
+"DOTA_Tooltip_ability_Advanced_summon_water_element_note_lv25_2"				"【不灭之泉】'生生不息'转变为水元素生命值低于20%%后可以恢复最大生命值的60%%，最多可以触发20次"
+"DOTA_Tooltip_ability_Advanced_summon_water_element_note_lv25_3"				"【海洋之心】水元素每秒可以吸收700范围内友方英雄1%%最大魔法值，当吸收的魔法值=召唤者最大魔法值20%%+1000后，水元素将进行形态变化，旧的身体将死亡，转变为上级水元素，继承120%%的属性（视为重新召唤，因此受到第二次召唤增强影响），攻击可以弹射2次且攻击基础间隔降低0.2秒"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Aethrak_note_lv5"				"【雷霆+】触发几率提升至15%%"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Aethrak_note_lv10"			"【元素之力+】触发几率提升至30%%"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Aethrak_note_lv15"			"【融洽万物】召唤物继承施法者的30%%的攻击距离（最少100，最多500）"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Aethrak_note_lv20"			"【超负荷】召唤物诞生后将储蓄电力，每秒增加1%%该技能提供的攻击速度与移动速度加成，直到50层"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Aethrak_note_base_Info"  "攻击速度加成：+4/级<br/>移动速度加成：+2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Aethrak_note_lv25_1"				"【龙魂】'雷霆'的召唤物伤害转变为全额伤害，只要不在冷却则必定触发，每当你进行一次召唤后，'雷霆'的伤害将提高30%%，这个提升将持续至此召唤物消失"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Aethrak_note_lv25_2"				"【天空之主】召唤物可以穿越地形移动，同时攻击速度提升20%%，移动速度提升100%%并突破限制"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Aethrak_note_lv25_3"				"【闪点】近战召唤物有35%%几率可以同时攻击两名敌人，范围为300"
+
+
+
+"DOTA_Tooltip_ability_Advanced_summon_healing_ward_note_lv5"				"【大地的意志+】大地的意志激活时，主效果还会使敌人眩晕0.5秒"
+"DOTA_Tooltip_ability_Advanced_summon_healing_ward_note_lv10"			"【赤焰的意志】意志图腾会提供15%%伤害增加。最左侧技能为<font color=\"#CD5555\">[斯莱瑞克之魂]</font>时，额外提供20%%伤害增加，但友军受到的伤害也会增加15%%"
+"DOTA_Tooltip_ability_Advanced_summon_healing_ward_note_lv15"			"【激流的意志+】激流的意志激活时，主效果还会回复友军等同15%%治疗数值的魔法"
+"DOTA_Tooltip_ability_Advanced_summon_healing_ward_note_lv20"			"【风暴的意志】意志图腾会提供10%%攻击速度和5%%冷却缩减。最左侧技能为<font color=\"#AFEEEE\">[埃斯瑞克之魂]</font>时，主效果还会减少友军可刷新技能0.45秒剩余冷却时间"
+"DOTA_Tooltip_ability_Advanced_summon_healing_ward_note_base_Info"  "生命值继承：+2%%/级<br/>基础治疗：+2/级<br/>额外治疗：+1%%/级<br/>存续时间：+0.5/级"
+"DOTA_Tooltip_ability_Advanced_summon_healing_ward_note_lv25_1"				"【至高龙魂图腾】四种意志将全部激活，同时其龙魂高阶等级均视为25"
+//"DOTA_Tooltip_ability_Advanced_summon_healing_ward_note_lv25_2"				"【】治疗守卫还将恢复70%%的魔法"
+//"DOTA_Tooltip_ability_Advanced_summon_healing_ward_note_lv25_3"				"【剑圣图腾】守卫无法移动，会保持在原地，但范围内的近战单位将获得40%%的攻击速度加成"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_summon_earth_element_note_lv5"				"【大地之墙+】范围加100，护甲提升增加3点"
+"DOTA_Tooltip_ability_Advanced_summon_earth_element_note_lv10"			"【硬化+】触发几率提升至14%%"
+"DOTA_Tooltip_ability_Advanced_summon_earth_element_note_lv15"			"【驻守】技能可以右键切换自动施法状态，在这个状态下召唤出的石头人无法攻击无法移动，但获得提高一半的生命继承，且获得30%%伤害减免。"
+"DOTA_Tooltip_ability_Advanced_summon_earth_element_note_lv20"			"【驻守+】在驻守状态下获得2%%最大生命值/秒的生命回复"
+"DOTA_Tooltip_ability_Advanced_summon_earth_element_note_base_Info"  "生命继承：+2%%/级<br/>防御力继承：+1%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_summon_earth_element_note_lv25_1"				"【龙血刻痕】当你同时拥有高阶龙之血时，土元素将继承你的高阶龙之血效果"
+"DOTA_Tooltip_ability_Advanced_summon_earth_element_note_lv25_2"				"【活性化】'硬化'效果不再造成眩晕，同时伤害提高至力量的5倍，当你同时拥有高阶活性护甲时，还可以将土元素护甲值的5倍作为额外伤害附加"
+"DOTA_Tooltip_ability_Advanced_summon_earth_element_note_lv25_3"				"【大地之子】仅大地之灵可以解锁，会强制土元素进入'驻守',同时驻守效果生命值提升变为额外的一倍，生命恢复变为三倍"
+
+
+"DOTA_Tooltip_ability_Advanced_summons_undead_jack_the_ripper_note_lv5"				"【血液渴望+】攻击目标时获得(100-目标当前生命值百分比*50)%%的攻击速度"
+"DOTA_Tooltip_ability_Advanced_summons_undead_jack_the_ripper_note_lv10"			"【嗜血+】需求降低至40%%"
+"DOTA_Tooltip_ability_Advanced_summons_undead_jack_the_ripper_note_lv15"			"【撕裂伤口】攻击将撕裂敌人，使得所有友军对其攻击都可以恢复生命值，每层伤口提供1%%的攻击吸血效果，独立叠加持续5秒。(不被状态抗性与负面状态增强英雄，不可驱散)"
+"DOTA_Tooltip_ability_Advanced_summons_undead_jack_the_ripper_note_lv20"			"【极度致命】可以继承30%%的额外攻击（绿字攻击力）"
+"DOTA_Tooltip_ability_Advanced_summons_undead_jack_the_ripper_note_base_Info"  "生命继承：+1.5%%/级<br/>攻击力继承：+3%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_summons_undead_jack_the_ripper_note_lv25_1"				"【猩红腐败者】当杰克击杀任意敌人时，将变得更加狂暴，永久性提升10点攻击速度，还将使此后新召唤出的杰克增加3点攻击速度(可继承最多到达1500)"
+"DOTA_Tooltip_ability_Advanced_summons_undead_jack_the_ripper_note_lv25_2"				"【潜行者】当杰克击杀任意敌人时，将感染进入1000范围内随机敌人体内，持续3秒，这3秒内将持续攻击目标，随后从其体内现身并对500范围内敌人造成全额攻击力200%%的物理伤害"
+"DOTA_Tooltip_ability_Advanced_summons_undead_jack_the_ripper_note_lv25_3"				"【嗜血如命】你将献祭出你当前50%%的生命值，使得杰克继承的攻击力全部变为全额攻击力，但不会超过你献出的生命值的3倍（当你生命值极低时意味着只能继承十分少的攻击力）"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Vahdrak_note_lv5"				"【混沌一击+】触发时恢复伤害值的30%%的生命"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Vahdrak_note_lv10"			"【以血回应，以火回应+】触发几率提升至13%%"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Vahdrak_note_lv15"			"【回归轮回】死亡后对周围400范围敌人造成全额攻击力200%%的物理伤害"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Vahdrak_note_lv20"			"【混沌多击】提供等同于状态层数的攻击速度加成"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Vahdrak_note_base_Info"  "最小攻击力加成：+0.5%%/级<br/>最大攻击力加成：+1.5%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Vahdrak_note_lv25_1"				"【龙魂】每当你进行一次召唤后，此技能的攻击力加成会提高7%%（线性，当一次成功召唤后变为1.07x,第二次为1.14x），这个提升将持续至此召唤物消失"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Vahdrak_note_lv25_2"				"【混沌之主】'混沌一击'有25%%触发几率，同时暴击倍数提高至180-320(如果未能触发则尝试触发原本的效果)"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Vahdrak_note_lv25_3"				"【混沌替身】召唤物消失后会转变为一只小型混沌怪（视为特殊召唤），继承你200%%的攻击力与25%%的生命值，本身魔免且不会被攻击，持续时间为10秒"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Uldorak_note_lv5"				"【唤醒+】最多层数提升至30"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Uldorak_note_lv10"			"【时间锁定+】触发几率提升至15%%"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Uldorak_note_lv15"			"【维度重合】触发时间锁定时获得当前防御力的50%%的额外防御提升"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Uldorak_note_lv20"			"【据守】召唤物不移动时获得1%%最大生命值/秒的生命恢复"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Uldorak_note_base_Info"  "防御提升：+0.7/级<br/>魔法抗性提升：+0.5%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Uldorak_note_lv25_1"				"【龙魂】每当你进行一次召唤后，'据守'的效果将提高14%%，这个提升将持续至此召唤物消失"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Uldorak_note_lv25_2"				"【时间之主】你的召唤持续时间增强提高40%%"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Uldorak_note_lv25_3"				"【归零】可以开启自动施法，此时召唤出的召唤物将不再可以移动，但将提升120点防御力且获得60%%的魔法抗性与状态抗性"
+
+
+"DOTA_Tooltip_ability_Advanced_summons_ward_Aghanim_the_Wisest_note_lv5"				"【睿智+】魔法恢复效果提升至40%%"
+"DOTA_Tooltip_ability_Advanced_summons_ward_Aghanim_the_Wisest_note_lv10"			"【大聪明的施法赐福+】提升效果增加至15%%"
+"DOTA_Tooltip_ability_Advanced_summons_ward_Aghanim_the_Wisest_note_lv15"			"【大聪明的魔力赐福】提供大聪明攻击力*8的最大魔法提升，并且每秒恢复提升的魔法值的5%%"
+"DOTA_Tooltip_ability_Advanced_summons_ward_Aghanim_the_Wisest_note_lv20"			"【阿哈利姆的赐福】状态提供高阶技能基础数值加成等级+1的效果（同拉比克天赋,只生效一个状态）"
+"DOTA_Tooltip_ability_Advanced_summons_ward_Aghanim_the_Wisest_note_base_Info"  "攻击力继承：+0.5%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_summons_ward_Aghanim_the_Wisest_note_lv25_1"				"【大魔导师】仅携带奥术至尊天赋的拉比克可以解锁此效果，可以使'阿哈利姆的赐福'变为'大魔导师的赐福'，提升等级增加至6"
+"DOTA_Tooltip_ability_Advanced_summons_ward_Aghanim_the_Wisest_note_lv25_2"				"【遗策】大聪明消失前将会留下最后一次增益效果，持续30秒"
+"DOTA_Tooltip_ability_Advanced_summons_ward_Aghanim_the_Wisest_note_lv25_3"				"【傻之力】获得被动能力，你每回合结束时有50%%几率获得1本可以共享的知识之书"
+
+"DOTA_Tooltip_ability_Advanced_Rot_note_lv5"				"【致命气息+】作用范围再提升100"
+"DOTA_Tooltip_ability_Advanced_Rot_note_lv10"			"【尸体爆炸者+】爆炸会额外造成1秒眩晕（被状态抗性与负面状态增强影响）"
+"DOTA_Tooltip_ability_Advanced_Rot_note_lv15"			"【储气罐】对敌人额外造成力量100%%的伤害（不会添加到对自身伤害上）"
+"DOTA_Tooltip_ability_Advanced_Rot_note_lv20"			"【腐臭尸云】范围内的敌人还将降低30%%的受到治疗效果，并额外受到10%%伤害"
+"DOTA_Tooltip_ability_Advanced_Rot_note_base_Info"  "伤害生命值百分比：+0.1%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Rot_note_lv25_1"				"【恶性肿瘤】腐烂当对一名敌人造成一次伤害时可以对其叠加一层负面效果，使其每秒受到10%%的技能伤害，最多叠加50层。即使不受到后续腐烂伤害影响，恶性肿瘤也会加剧，每秒提升1%%的伤害（乘法叠加），最多提升至原来的三倍"
+"DOTA_Tooltip_ability_Advanced_Rot_note_lv25_2"				"【腐烂国度】被腐烂主要伤害击杀的敌人将变成一只小僵尸（视为特殊召唤），继承你生命值的30%%，死亡后对周围300范围至多五名敌人造成生命值100%%的魔法伤害"
+"DOTA_Tooltip_ability_Advanced_Rot_note_lv25_3"				"【贪欲与无欲】仅携带'腐肉堆叠'天赋的帕吉可以解锁此效果，将可以与队友分享自身的腐肉堆叠效果"
+
+
+"DOTA_Tooltip_ability_Advanced_Blood_grudge_Dagger_note_lv5"				"【血流成河+】作用范围提升200"
+"DOTA_Tooltip_ability_Advanced_Blood_grudge_Dagger_note_lv10"			"【血毒+】作用范围提升200，同时每层流血状态附加全额攻击力2%%的伤害"
+"DOTA_Tooltip_ability_Advanced_Blood_grudge_Dagger_note_lv15"			"【劣血传染病】单位如果在流血状态下死亡，将使周围200范围的单位获得当前层数的30%%的流血状态"
+"DOTA_Tooltip_ability_Advanced_Blood_grudge_Dagger_note_lv20"			"【血咒】‘血流成河’将额外造成目标在流血持续时间内受到的所有伤害的10%%(怨血匕首造成的伤害单独计算)"
+"DOTA_Tooltip_ability_Advanced_Blood_grudge_Dagger_note_base_Info"  "每层每秒伤害：+1/级<br/>主属性乘数：+0.01/级"
+"DOTA_Tooltip_ability_Advanced_Blood_grudge_Dagger_note_lv25_1"				"【尸山血海】攻击有15%%挥出一道斩击(受到概率事件加成影响)，对以目标为中心400范围内至多5名敌人叠加3层流血状态，且流血状态的持续时间提升至8秒"
+"DOTA_Tooltip_ability_Advanced_Blood_grudge_Dagger_note_lv25_2"				"【血流不止】流血状态持续时间提升至12秒且基础伤害增加至100，'加速死亡'效果造成的全额攻击力伤害提升至6%%"
+"DOTA_Tooltip_ability_Advanced_Blood_grudge_Dagger_note_lv25_3"				"【败血症】每层流血状态将附带你最大生命值1.5%%的伤害且削减目标2点防御"
+
+
+"DOTA_Tooltip_ability_Advanced_cook_note_lv5"				"【章丘铁锅】当你烹饪时，获得90%%魔法抗性与100点护甲."
+"DOTA_Tooltip_ability_Advanced_cook_note_lv10"			"【至臻厨艺】精研触发几率提升至75%%"
+"DOTA_Tooltip_ability_Advanced_cook_note_lv15"			"【是鸡蛋！我加了鸡蛋！】制作料理时%ultra_chance%% 额外烹饪出神明的结晶，其提供15全属性。说：谢谢你，鸡蛋。"
+"DOTA_Tooltip_ability_Advanced_cook_note_lv20"			"【至臻厨艺+】精研触发几率提升至100%%"
+"DOTA_Tooltip_ability_Advanced_cook_note_base_Info"  "2级料理占比：-1.2%%/级<br/>3级料理占比:+1.2%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_cook_note_lv25_1"				"【命运协调赠礼】每次做出料理必定产生'命运的赠礼'，使用可以使概率事件加成提升1%%，但相同单位最多只能叠加20%%"
+"DOTA_Tooltip_ability_Advanced_cook_note_lv25_2"				"【战意涌动的赠礼】每次做出料理必定产生'战意的赠礼'，使用可以使全额攻击力提升2%%，但相同单位最多只能叠加90%%"
+"DOTA_Tooltip_ability_Advanced_cook_note_lv25_3"				"【厨神Ana】必定能烹饪出'神明的结晶'"
+
+
+"DOTA_Tooltip_ability_Advanced_clock_and_dagger_note_lv5"				"【连击+】叠加层数在15层之后有20%%几率使敏捷伤害加成提升1倍"
+"DOTA_Tooltip_ability_Advanced_clock_and_dagger_note_lv10"			"【康纳·肯威+】效果继承提升至50%%"
+"DOTA_Tooltip_ability_Advanced_clock_and_dagger_note_lv15"			"【小隐隐于野】发动攻击时如果400范围内有非无敌友军则技能不会进入冷却"
+"DOTA_Tooltip_ability_Advanced_clock_and_dagger_note_lv20"			"【大隐隐于市】每次触发背击时将获得2秒【延时】，延时状态到期后技能才会进入冷却（如果此时不触发LV15效果的话）"
+"DOTA_Tooltip_ability_Advanced_clock_and_dagger_note_base_Info"  "敏捷乘数：+0.05/级<br/>"
+"DOTA_Tooltip_ability_Advanced_clock_and_dagger_note_lv25_1"				"【狂战士刺客】失去低攻击优先度效果，但无论在什么角度都将视为背面攻击"
+"DOTA_Tooltip_ability_Advanced_clock_and_dagger_note_lv25_2"				"【无限连击】'连击'的最大叠加层数提升至100，如果连击失败了只会扣除30%%的层数"
+"DOTA_Tooltip_ability_Advanced_clock_and_dagger_note_lv25_3"				"【隐秘刺客】仅携带'隐秘刺客'天赋的力丸可以解锁这个效果，使你触发背刺攻击时有15%%几率在0.1/0.2秒后再次对其发动两次背刺攻击（视为奖励攻击）"
+
+
+
+"DOTA_Tooltip_ability_Advanced_necromastery_note_lv5"				"【灵魂困局+】每个灵魂的加成提升至0.5%%"
+"DOTA_Tooltip_ability_Advanced_necromastery_note_lv10"			"【有效转换+】基础攻击力转换现在为75%%"
+"DOTA_Tooltip_ability_Advanced_necromastery_note_lv15"			"【灵魂提取】攻击命中时有15%%几率直接提取一个灵魂，如果灵魂已经达到上限则会转变为10秒的临时灵魂，但临时灵魂有最大层数，与永久灵魂一致（不被正面状态持续时间增强影响）"
+"DOTA_Tooltip_ability_Advanced_necromastery_note_lv20"			"【灵魂提取+】被提取了灵魂的单位将额外承受1.5%%的物理伤害，独立叠加持续10秒（不被状态抗性与负面状态持续时间增强影响）"
+"DOTA_Tooltip_ability_Advanced_necromastery_note_base_Info"  "每灵魂攻击力加成：+0.05/级<br/>"
+"DOTA_Tooltip_ability_Advanced_necromastery_note_lv25_1"				"【灵魂收藏家】最大灵魂数增加至120"
+"DOTA_Tooltip_ability_Advanced_necromastery_note_lv25_2"				"【灵魂提取家】'灵魂提取'触发几率提升至40%%，同时临时灵魂不再有上限"
+"DOTA_Tooltip_ability_Advanced_necromastery_note_lv25_3"				"【死灭之魂】当灵魂数量满时，攻击会消耗1个灵魂使此次攻击伤害提升基础攻击力的10倍"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Corrosive_Skin_note_lv5"				"【腐毒迸发+】降低魔法抗性提升至30%%"
+"DOTA_Tooltip_ability_Advanced_Corrosive_Skin_note_lv10"			"【慢性腐蚀】腐蚀效果每秒钟降低1%%魔法抗性"
+"DOTA_Tooltip_ability_Advanced_Corrosive_Skin_note_lv15"			"【毒血】获得50%%伤害减免，但是受到其他单位伤害时对自身施加等同30%%伤害值的中毒状态"
+"DOTA_Tooltip_ability_Advanced_Corrosive_Skin_note_lv20"			"【慢性腐蚀+】每秒魔法抗性降低提升至2%%"
+"DOTA_Tooltip_ability_Advanced_Corrosive_Skin_note_base_Info"  "每秒累计毒素：+0.5/级<br/>额外每秒累计毒素：+0.03/级<br/>腐毒生命恢复：+0.04%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Corrosive_Skin_note_lv25_1"				"【简单易懂的强化】每秒累计毒素+400%%"
+"DOTA_Tooltip_ability_Advanced_Corrosive_Skin_note_lv25_2"				"【抗性破除】毒素忽略敌人的状态抗性，并削减敌人60%%的状态抗性（不叠加）"
+"DOTA_Tooltip_ability_Advanced_Corrosive_Skin_note_lv25_3"				"【毒液酷刑的赐福】自身负面状态持续时间增强永久提升45%%，这个效果即使出售技能后也存在"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_empower_note_lv5"				"【回响+】每层攻击力提升23"
+"DOTA_Tooltip_ability_Advanced_empower_note_lv10"			"【回音+】最多提升层数增加至8"
+"DOTA_Tooltip_ability_Advanced_empower_note_lv15"			"【过度授予】施放时向目标单位触发一次两级反转，将附近500范围的敌人都拖拽到他的前方，并造成1.5秒眩晕。（被状态抗性与负面状态持续时间增强影响）"
+"DOTA_Tooltip_ability_Advanced_empower_note_lv20"			"【多重授予】授予目标与离目标最近单位状态"
+"DOTA_Tooltip_ability_Advanced_empower_note_base_Info"  "攻击力加成+0.7%/级<br/>分裂伤害：+0.4%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_empower_note_lv25_1"				"【永恒】状态持续时间变为永久"
+"DOTA_Tooltip_ability_Advanced_empower_note_lv25_2"				"【两极崩坏】近战/远程英雄有7/2%%，近战/远程普通单位有2/0.7%%几率于攻击目标时在目标位置触发一个350范围的两极反转效果(奖励攻击不触发)"
+"DOTA_Tooltip_ability_Advanced_empower_note_lv25_3"				"【力量的传承】任意友方的召唤物在出现时自动对其施加一个授予力量效果，持续时间为召唤时间的一半(如果为永久则为永久)"
+
+
+
+"DOTA_Tooltip_ability_Advanced_hyakkiyakou_note_lv5"				"【三重奏】可同时攻击三个目标"
+"DOTA_Tooltip_ability_Advanced_hyakkiyakou_note_lv10"			"【镇魂安眠曲】睡眠时间提升至1.8秒"
+"DOTA_Tooltip_ability_Advanced_hyakkiyakou_note_lv15"			"【倾巢出动】攻击频率为0.7秒/下"
+"DOTA_Tooltip_ability_Advanced_hyakkiyakou_note_lv20"			"【安魂】现在领域存续时间受到召唤时间增强的50%%影响"
+"DOTA_Tooltip_ability_Advanced_hyakkiyakou_note_base_Info"  "基础伤害：+4/级<br/>智力乘数：+0.04/级<br/>"
+"DOTA_Tooltip_ability_Advanced_hyakkiyakou_note_lv25_1"				"【恶鬼缠身】使一只恶鬼附身于自己，每0.7秒都可以自动对2名敌人发动一次攻击"
+"DOTA_Tooltip_ability_Advanced_hyakkiyakou_note_lv25_2"				"【睡魔】让队友的美梦成真，自身概率事件加成减少30%%，但其他所有友方英雄提升18%%（出售技能会失效）"
+"DOTA_Tooltip_ability_Advanced_hyakkiyakou_note_lv25_3"				"【鬼魂附体】自身召唤的召唤物都会携带一只小型恶鬼，每7秒都可以自动对1名敌人发动攻击"
+
+
+"DOTA_Tooltip_ability_Advanced_fear_arua_note_lv5"				"【恐慌】触发几率提升至7%%"
+"DOTA_Tooltip_ability_Advanced_fear_arua_note_lv10"			"【溃烂之域】每秒叠加层数提升100%%"
+"DOTA_Tooltip_ability_Advanced_fear_arua_note_lv15"			"【集中恐惧】如果区域内的敌人数量小于3，则额外赋予集中恐惧效果，减少其30%%受到治疗效果与状态抗性"
+"DOTA_Tooltip_ability_Advanced_fear_arua_note_lv20"			"【恐惧传递】每名死于恐惧光环下的敌人将使得领域内的其他单位加剧恐惧效果，在20秒内降低5%%的状态抗性，最多可以降低50%%，独立叠加，不被状态抗性与负面状态增强影响"
+"DOTA_Tooltip_ability_Advanced_fear_arua_note_base_Info"  "攻击力降低：+0.3%/级<br/>伤害抗性降低：+0.3%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_fear_arua_note_lv25_1"				"【黑棺】可以主动施法，生成一个黑馆困住一名敌人，固目标将无法移动，固定持续5秒，在这五秒内额外受到150%%的伤害，固定冷却时间30秒且不可刷新(建议心理承受能力低的人就别学了，特效我自己都觉得恶心)"
+"DOTA_Tooltip_ability_Advanced_fear_arua_note_lv25_2"				"【恐怖公】昆虫类眷属（召唤物）可以受到150%%的召唤增强的影响（即当你的召唤增强为20%%时视为30%%）且伤害增加40%%（目前仅支持小型蜘蛛）"
+"DOTA_Tooltip_ability_Advanced_fear_arua_note_lv25_3"				"【恐惧领主】你散发出的绝望漂浮不定，敌人的攻击力降低效果增加至35%%，同时造成的伤害有10%%会变为0"
+
+
+"DOTA_Tooltip_ability_Advanced_water_prison_note_lv5"				"【大型水牢】作用范围再增加100"
+"DOTA_Tooltip_ability_Advanced_water_prison_note_lv10"			"【天牢】水牢区域内的敌人将没有碰撞体积，破坏被动，同时无法移动"
+"DOTA_Tooltip_ability_Advanced_water_prison_note_lv15"			"【活水】如果主目标为友军，则增加5%%最大生命值/秒的生命恢复，如果为敌人，则使其生命恢复禁用"
+"DOTA_Tooltip_ability_Advanced_water_prison_note_lv20"			"【活水+】作用时间增加1秒，对主目标周围所有单位都有效"
+"DOTA_Tooltip_ability_Advanced_water_prison_note_base_Info"  "基础伤害：+10/级<br/>智力乘数：+0.1/级<br/>"
+"DOTA_Tooltip_ability_Advanced_water_prison_note_lv25_1"				"【狂水天牢】在水牢里产生激流，当一名敌人位于水牢内1-3秒后，将产生一次激流，并对区域内随机2名敌人造成一次水牢的伤害"
+"DOTA_Tooltip_ability_Advanced_water_prison_note_lv25_2"				"【广域天牢】无论是否对友军释放，都将额外对范围内的4名至远敌人施加相同效果，且持续时间有0.2-2.5秒的加值，同时将使伤害智力乘数增加5"
+"DOTA_Tooltip_ability_Advanced_water_prison_note_lv25_3"				"【吸能天牢】可以开启自动施法，囚禁友方召唤物时将持续30秒，每秒吸取其4%%最大生命值并将这个数值的20/10%%转化为自身的临时生命值/魔法值，持续30秒，最多吸收20000/10000，可以同时囚禁多个召唤物，水牢不再影响其他敌人（除了伤害效果）"
+
+
+"DOTA_Tooltip_ability_Advanced_summon_Slime_note_lv5"				"【保护层】计算伤害值降低至150%%"
+"DOTA_Tooltip_ability_Advanced_summon_Slime_note_lv10"			"【伤害过滤】每10点距离过滤效果提升至1.5%%"
+"DOTA_Tooltip_ability_Advanced_summon_Slime_note_lv15"			"【提前过滤】保护层将固定过滤掉同于史莱姆防御力200%%的数值，这一部分伤害不会计算到史莱姆的承受伤害上"
+"DOTA_Tooltip_ability_Advanced_summon_Slime_note_lv20"			"【提前过滤+】现在将先削减掉20%%的伤害值再去掉固定抵消值"
+"DOTA_Tooltip_ability_Advanced_summon_Slime_note_base_Info"  "生命值继承：+2.5%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_summon_Slime_note_lv25_1"				"【孕育】史莱姆孕育了力量，当有敌人死于自身的保护层内时，可以提升20点生命继承（多只史莱姆可叠加），最多提升20000，同时每提升2500可以提升10%%的生命继承"
+"DOTA_Tooltip_ability_Advanced_summon_Slime_note_lv25_2"				"【消化】可以消化掉位于保护层内的敌人，每秒永久降低其0.2点护甲，多个史莱姆可以叠加。最多叠加至100"
+"DOTA_Tooltip_ability_Advanced_summon_Slime_note_lv25_3"				"【融合】史莱姆死亡前可以与周围最近的史莱姆融合，并成为一只新的史莱姆，属性融合，持续时间为目标史莱姆的剩余生命周期(+10s)，不会再受到一次召唤增强影响。当史莱姆的融合次数超过10后不会触发，融合时会将双方融合次数合在一起"
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Boundless_Strike_note_lv5"				"【定海】提升效果增加50%，不包括上限"
+"DOTA_Tooltip_ability_Advanced_Boundless_Strike_note_lv10"			"【战天】持续五次攻击效果"
+"DOTA_Tooltip_ability_Advanced_Boundless_Strike_note_lv15"			"【斗神】如果影响目标数少于5，那么0.3秒后将产生第二次效果"
+"DOTA_Tooltip_ability_Advanced_Boundless_Strike_note_lv20"			"【化神】“战天”的效果拥有一半的致命一击效果"
+"DOTA_Tooltip_ability_Advanced_Boundless_Strike_note_base_Info"  "致命一击：+12%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Boundless_Strike_note_lv25_1"				"【斗战圣佛之战天】技能冷却缩短至3.5秒，同时'定海'效果变为'定天',攻击必定命中"
+"DOTA_Tooltip_ability_Advanced_Boundless_Strike_note_lv25_2"				"【斗战圣佛之斗神】无论是否影响目标小于五，都将在1秒内再产生5次效果，从随机一个点对目标点释放，"
+"DOTA_Tooltip_ability_Advanced_Boundless_Strike_note_lv25_3"				"【斗战圣佛之化神】向左右延展，将产生一排的棒击大地效果，对于重叠区域可以造成多次效果"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_assassinate_note_lv5"				"【大号枪弹】伤害继承提升至80%%"
+"DOTA_Tooltip_ability_Advanced_assassinate_note_lv10"			"【渐入佳境】每次攻击可以减少当前技能冷却的7.5%%"
+"DOTA_Tooltip_ability_Advanced_assassinate_note_lv15"			"【转移阵地】技能释放速度提升100%%，当技能处于冷却时，“急行”的移动距离提升500，冷却时间减少2秒（不会显示在面板）"
+"DOTA_Tooltip_ability_Advanced_assassinate_note_lv20"			"【等离子弹药】可以发射出等离子弹药，此时造成伤害继承全额攻击力，且对目标以及周围单位造成10倍不可减免的眩晕效果（固定冷却时间20秒）"
+"DOTA_Tooltip_ability_Advanced_assassinate_note_base_Info"  "基础伤害：+40/级<br/>攻击力乘数：+0.15/级<br/>"
+"DOTA_Tooltip_ability_Advanced_assassinate_note_lv25_1"				"【Jame的传承】技能冷却时间减少至7秒，施法前摇减少至0.1秒，子弹将对穿过的单位也造成伤害。如果暗杀释放完成后的0.5秒内发动了一次普通攻击，可以使冷却时间降低至3.5秒"
+"DOTA_Tooltip_ability_Advanced_assassinate_note_lv25_2"				"【枪斗术】子弹命中后可以弹射3次。弹射可以对弹射过的单位弹射"
+"DOTA_Tooltip_ability_Advanced_assassinate_note_lv25_3"				"【弹药仓库】不攻击敌人时，每5秒可以制造一颗等离子弹药，下次施法可以触发'等离子弹药'效果。如果'等离子弹药'本身冷却完成则优先消耗。最多储存10颗弹药。使用离子弹药时技能冷却时间会减少至1秒"
+
+
+"DOTA_Tooltip_ability_Advanced_corrosive_haze_note_lv5"				"【克苏鲁的意志】可叠加次数提升至7"
+"DOTA_Tooltip_ability_Advanced_corrosive_haze_note_lv10"			"【强腐蚀】额外物理伤害提升至22%%"
+"DOTA_Tooltip_ability_Advanced_corrosive_haze_note_lv15"			"【海洋附魔】攻击可以刷新目标身上的本技能状态效果"
+"DOTA_Tooltip_ability_Advanced_corrosive_haze_note_lv20"			"【心智侵蚀】主动释放时，如果目标周围400范围内没有友军，那么在2秒内降低其50%%的基础攻击力"
+"DOTA_Tooltip_ability_Advanced_corrosive_haze_note_base_Info"  "护甲削弱：+0.5/级<br/>"
+"DOTA_Tooltip_ability_Advanced_corrosive_haze_note_lv25_1"				"【海洋刻印·侵蚀】当目标的防御力为负数时，每点负值会使其受到的物理伤害增加1%%，但最多到达100%%"
+"DOTA_Tooltip_ability_Advanced_corrosive_haze_note_lv25_2"				"【苍洋流域】获得光环效果，对自身周围500范围的敌人施加技能效果"
+"DOTA_Tooltip_ability_Advanced_corrosive_haze_note_lv25_3"				"【苍洋魔咒】可以对友军英雄释放一次技能，使其攻击可以为目标附加一层技能效果，持续2秒"
+
+
+
+"DOTA_Tooltip_ability_Advanced_invincible_army_note_lv5"				"【延展】攻击距离提升100"
+"DOTA_Tooltip_ability_Advanced_invincible_army_note_lv10"			"【真实攻击+】继承攻击几率提升至30%%"
+"DOTA_Tooltip_ability_Advanced_invincible_army_note_lv15"			"【天雷之域】领域内的友军获得12%%伤害提升，如果领域内敌人大于5，每秒抽选一个敌人对其降下天雷，造成两倍天兵攻击伤害"
+"DOTA_Tooltip_ability_Advanced_invincible_army_note_lv20"			"【万众】天兵生成速度提升20%%，但生命周期减少1秒"
+"DOTA_Tooltip_ability_Advanced_invincible_army_note_base_Info"  "伤害敏捷乘数：+0.08/级<br/>"
+"DOTA_Tooltip_ability_Advanced_invincible_army_note_lv25_1"				"【天军降临】天兵的登场所需时间减少至1.3秒，生成速度提升至0.1秒一只，但一个法阵内最多只能同时存在15只"
+"DOTA_Tooltip_ability_Advanced_invincible_army_note_lv25_2"				"【百相化身】你的攻击有15%%几率可以在目标周围召唤出一只天兵，对于奖励攻击则仅有2%%触发几率（不被概率事件加成影响）"
+"DOTA_Tooltip_ability_Advanced_invincible_army_note_lv25_3"				"【奥尼克斯之影】天兵的所有攻击都将触发'真实攻击'"
+
+
+
+"DOTA_Tooltip_ability_Advanced_chaos_strike_note_lv5"				"【混沌系统+】变化区间提变为[-5,25]%%"
+"DOTA_Tooltip_ability_Advanced_chaos_strike_note_lv10"			"【混沌裁决】伤害吸收提升至18%%"
+"DOTA_Tooltip_ability_Advanced_chaos_strike_note_lv15"			"【混沌系统++】大部分概率事件概率提升5-15%%(乘法叠加，同虚妄之诺的第三奥义，可到切换到奥义说明查看详细)，但不影响自身，还将使'风险骰子'的成功几率提升1%%(线性叠加，与新年群活动奖励不叠加)"
+"DOTA_Tooltip_ability_Advanced_chaos_strike_note_lv20"			"【分形理论】如果由'混沌系统'产生的额外暴击几率为上一次产生值的倍数或因数(需要两个数字都大于1)，那么必定暴击且暴击伤害提高1倍。"
+"DOTA_Tooltip_ability_Advanced_chaos_strike_note_base_Info"  "最低致命一击：+2%/级<br/>最高致命一击：+4%/级"
+"DOTA_Tooltip_ability_Advanced_chaos_strike_note_lv25_1"				"【裁断】触发混沌一击后有40%%几率(受到概率事件加成影响)延迟0.5秒对目标再次造成一次等同于本次暴击伤害的物理伤害(以技能伤害的形式)"
+"DOTA_Tooltip_ability_Advanced_chaos_strike_note_lv25_2"				"【混沌破裂】触发混沌一击的时可以产生500范围的200%%伤害的分裂，但每0.3秒只能触发一次"
+"DOTA_Tooltip_ability_Advanced_chaos_strike_note_lv25_3"				"【混沌制造】每次触发混沌一击后，在35秒内暴击伤害最大值将提高5%%(线性)"
+
+
+
+"DOTA_Tooltip_ability_Advanced_Electrostatic_Armor_note_lv5"				"【活性化+】触发所需伤害从10%%生命值减少至8%%"
+"DOTA_Tooltip_ability_Advanced_Electrostatic_Armor_note_lv10"			"【静电护盾+】可以抵挡所有伤害，每影响一名敌人获得护盾提升至力量*1.5"
+"DOTA_Tooltip_ability_Advanced_Electrostatic_Armor_note_lv15"			"【静电装甲】在'静电护甲'状态存在期间，额外获得20%%魔法抗性与10点护甲，同时受到大于100的伤害时将反冲对方力量*2的魔法伤害"
+"DOTA_Tooltip_ability_Advanced_Electrostatic_Armor_note_lv20"			"【协同】当同时拥有龙族血统的'龙肤'效果时可以免疫力量*7的魔法伤害，否则免疫力量*3的魔法伤害"
+"DOTA_Tooltip_ability_Advanced_Electrostatic_Armor_note_base_Info"  "基础伤害:+7/级<br/>额外伤害系数：+0.05/级<br/>魔法抗性加成：+0.4%/级"
+"DOTA_Tooltip_ability_Advanced_Electrostatic_Armor_note_lv25_1"				"【广域之雷】静电的影响范围与范围变化速度提升一倍同时不会再跟随施法者移动，伤害将附带施法者最大生命值的8%%"
+"DOTA_Tooltip_ability_Advanced_Electrostatic_Armor_note_lv25_2"				"【肉体刺激】释放出的静电可以刺激友方单位肉体，使其在15秒内攻击力提升施法者力量的25%%，独立叠加但不超过3000加成，对于召唤物有双倍效果(被正面状态持续时间增强影响)"
+"DOTA_Tooltip_ability_Advanced_Electrostatic_Armor_note_lv25_3"				"【静电连通】召唤物可以继承你的静电护甲效果，但仅有60%%作用范围且有2秒冷却，不会有护盾效果，造成200%%的伤害。"
+
+
+"DOTA_Tooltip_ability_Advanced_Thunderstrike_note_lv5"				"【延展】雷击范围提升至400"
+"DOTA_Tooltip_ability_Advanced_Thunderstrike_note_lv10"			"【协同雷击+】协同雷击的伤害提升至智力*3"
+"DOTA_Tooltip_ability_Advanced_Thunderstrike_note_lv15"			"【过载雷击】可以开启自动施法，在此状态下将变为双倍冷却时间，但可以产生3个雷击点，每个雷击点都将从搜寻到的敌人组里随机抽选一名敌人（可以相同）"
+"DOTA_Tooltip_ability_Advanced_Thunderstrike_note_lv20"			"【震雷】雷圈生成后每0.2秒都会对圈内随机一名敌人发动一次小型雷击，造成智力*1.7的伤害"
+"DOTA_Tooltip_ability_Advanced_Thunderstrike_note_base_Info"  "基础伤害:+10/级<br/>额外伤害系数：+0.1/级"
+"DOTA_Tooltip_ability_Advanced_Thunderstrike_note_lv25_1"				"【雷神降临】技能不再有冷却时间，会一直释放雷击，但'过载雷击'仅生成一个额外的雷击"
+"DOTA_Tooltip_ability_Advanced_Thunderstrike_note_lv25_2"				"【宙斯附体】获得额外效果：当你使用任意冷却时间大于3秒的技能时都会在目标点生成一个雷击(如果是点目标技能，需要目标点600范围内有任意合法目标)"
+"DOTA_Tooltip_ability_Advanced_Thunderstrike_note_lv25_3"				"【过载雷击·改】自动施法下变更为：雷击会以0.2秒的间隔产生，当产生了超过3次雷击后会消耗100点魔法继续产生雷击，消耗有25点递增，你可以随时关闭自动施法关闭这个效果"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Acid_bomb_note_lv5"				"【魔法五重化】额外产生2个酸液弹"
+"DOTA_Tooltip_ability_Advanced_Acid_bomb_note_lv10"			"【化学反应+】持续时间增加至6.5秒"
+"DOTA_Tooltip_ability_Advanced_Acid_bomb_note_lv15"			"【霰弹枪】释放完的2秒内无法移动，弹每隔0.5秒还将朝目标点的700距离内随机释放单个酸液弹,额外的酸液弹只有50%%的伤害"
+"DOTA_Tooltip_ability_Advanced_Acid_bomb_note_lv20"			"【炮台】可以开启自动施法，'霰弹枪'持续时间提升至4秒，间隔降低至0.4秒，不再限制移动，但会陷入沉默"
+"DOTA_Tooltip_ability_Advanced_Acid_bomb_note_base_Info"  "基础伤害:+10/级<br/>额外伤害系数：+0.08/级"
+"DOTA_Tooltip_ability_Advanced_Acid_bomb_note_lv25_1"				"【远距高射炮】'霰弹枪'不会自动结束但无法移动且缴械与沉默，你可以通关移动指令改变酸液弹的准心位置，通过暂停(S/H)指令中止这个状态"
+"DOTA_Tooltip_ability_Advanced_Acid_bomb_note_lv25_2"				"【胃液透支】'霰弹枪'将每次都吐出五颗酸液弹且继承100%%的伤害，但酸液池的持续时间仅1秒且每次释放会消耗200点魔法，在自动施法状态下为每次释放增加2秒冷却时间，如果魔法不够自动消耗冷却时间。(无论是否开启了自动施法LV20效果都会全部生效)"
+"DOTA_Tooltip_ability_Advanced_Acid_bomb_note_lv25_3"				"【酸液附魔】仅远程攻击者有效，转变为被动技能，你的攻击有10%%几率附加酸液弹(受到概率事件加成影响)，开启自动施法可以将触发几率提升至100%%，但每次将消耗300点魔法。酸液弹有0.4秒触发间隔"
+
+
+
+"DOTA_Tooltip_ability_Advanced_cold_embrace_note_lv5"				"【钻石化+】额外提供50%%的状态抗性"
+"DOTA_Tooltip_ability_Advanced_cold_embrace_note_lv10"			"【柔性冰+】不再造成沉默与缴械"
+"DOTA_Tooltip_ability_Advanced_cold_embrace_note_lv15"			"【冰镇西瓜】冻结结束后目标仍然将保留5秒治疗效果(固定时间)"
+"DOTA_Tooltip_ability_Advanced_cold_embrace_note_lv20"			"【完全冰封】可以开启自动施法，失去'柔性冰'效果且治疗效果减半，但持续时间变更为永久，直到其发起了暂停指令"
+"DOTA_Tooltip_ability_Advanced_cold_embrace_note_base_Info"  "基础治疗:+5/级<br/>最大生命值治疗：+0.13%%/级"
+"DOTA_Tooltip_ability_Advanced_cold_embrace_note_lv25_1"				"【蓝丝黛尔石】处于冰茧中的友军可以至少抵挡50%%的受到的物理伤害，但如果处于'完全冰封'则只有一半效果"
+"DOTA_Tooltip_ability_Advanced_cold_embrace_note_lv25_2"				"【绝对冷却】处于'完全冰封'的英雄可以以180%%的速度冷却技能（但不影响不可刷新技能，有10%%效率递减，优先度从左到右）"
+"DOTA_Tooltip_ability_Advanced_cold_embrace_note_lv25_3"				"【寒冬之息】冰茧会反击攻击它保护的单位的敌人，每秒释放出冷气攻击周围500范围内的至多7名敌人，造成此前的1秒受到伤害的75%%(以物理伤害返还)，每秒的累计值不会超过其最大生命值的一半，但如果处于'完全冰封'则记录50%%的伤害"
+
+
+"DOTA_Tooltip_ability_Advanced_howl_note_lv5"				"【原始恐惧+】基础数值提升至30%%"
+"DOTA_Tooltip_ability_Advanced_howl_note_lv10"			"【连续嗥叫+】最大额外嗥叫次数加2"
+"DOTA_Tooltip_ability_Advanced_howl_note_lv15"			"【战意激发】嗥叫可以同时影响友军，造成相反的效果(但'连续嗥叫'不继承这个效果')"
+"DOTA_Tooltip_ability_Advanced_howl_note_lv20"			"【深层次恐慌】攻击力降低效果不再只计算基础攻击力，而计算全额攻击力"
+"DOTA_Tooltip_ability_Advanced_howl_note_base_Info"  "攻击力降低:+0.3%%/级<br/>护甲降低：+0.3/级"
+"DOTA_Tooltip_ability_Advanced_howl_note_lv25_1"				"【种群天赋】高阶召唤野兽·狼在召唤成功后将触发一次嗥叫，且召狼数量加3"
+"DOTA_Tooltip_ability_Advanced_howl_note_lv25_2"				"【痛苦回音】处于嗥叫负面状态下的敌人死亡时将发出死亡悲鸣，使其周围400范围内的友军被陷入恐惧，受到伤害增加35%%，固定持续7秒，并受到一次施法方英雄全额攻击力最高者的全额攻击力200%%的物理伤害"
+"DOTA_Tooltip_ability_Advanced_howl_note_lv25_3"				"【血嚎】高阶狼形态还将提供50%%全额攻击力加成，同时每隔2秒会自动发动一次嚎叫，'连续嗥叫'的叠加不再限制于前1秒"
+
+
+"DOTA_Tooltip_ability_Advanced_lunar_blessing_note_lv5"				"【进入良夜+】即使在黑夜也可以使用技能"
+"DOTA_Tooltip_ability_Advanced_lunar_blessing_note_lv10"			"【赛娜蒙妮的赐福+】属性加成提升至40"
+"DOTA_Tooltip_ability_Advanced_lunar_blessing_note_lv15"			"【星际穿越】光环下的友方英雄获得4个等级的属性增幅"
+"DOTA_Tooltip_ability_Advanced_lunar_blessing_note_lv20"			"【进入良夜++】黑夜的持续时间增加到15秒，期间所有加成都变为两倍"
+"DOTA_Tooltip_ability_Advanced_lunar_blessing_note_base_Info" "基础攻击力加成：+3/级"
+"DOTA_Tooltip_ability_Advanced_lunar_blessing_note_lv25_1"				"【月之指引】每隔5秒在周围1500范围内随机地点生成一个指引，如果在5秒内能到达指引点，则可以在60秒内使光环增加10点全属性奖励"
+"DOTA_Tooltip_ability_Advanced_lunar_blessing_note_lv25_2"				"【月祭】光环将可以作用于召唤单位；可以开启自动施法，此时施法可以消耗500金币使技能的基础攻击力加成永久增加3(使用200次后效率变为50%%)"
+"DOTA_Tooltip_ability_Advanced_lunar_blessing_note_lv25_3"				"【月蚀】在光环下的友方英雄的攻击有5%%触发一次单目标的高阶月光（受到状态携带者自身概率事件加成影响）"
+
+
+"DOTA_Tooltip_ability_Advanced_Bloodrage_note_lv5"				"【过度渴望+】吸血效果提升至6%%"
+"DOTA_Tooltip_ability_Advanced_Bloodrage_note_lv10"			"【血液热忱+】每个层级的伤害提升增加0.3倍"
+"DOTA_Tooltip_ability_Advanced_Bloodrage_note_lv15"			"【精华转化】将提升等同于每秒流失生命值的基础攻击力，但最多300"
+"DOTA_Tooltip_ability_Advanced_Bloodrage_note_lv20"			"【血液储蓄】在状态持续期间击杀的单位的血液将转移到施法者身上，每个单位的血液可以让下一次施法的对象获得2点攻击力提升，储存的血液大于100层(200攻击)后将会损失超额血液的20%%"
+"DOTA_Tooltip_ability_Advanced_Bloodrage_note_base_Info" "持续时间：+0.1/级<br/>攻击速度：+3/级"
+"DOTA_Tooltip_ability_Advanced_Bloodrage_note_lv25_1"				"【浴血之魔】每秒流失生命值提升至最大生命值的15%%，同时由'精华转化'提供的基础攻击力加成的最大值提升至1000"
+"DOTA_Tooltip_ability_Advanced_Bloodrage_note_lv25_2"				"【血液焦渴】'血液储蓄'将对所有死亡进行反应，因此无论是否是状态携带者击杀都会储存死亡单位的血液（并且如果存在多个状态时，一次死亡可以有多次加成）。同时每次储存的血液翻倍；储存的血液将在大于200层后损失超额值的8%%。"
+"DOTA_Tooltip_ability_Advanced_Bloodrage_note_lv25_3"				"【渴止】目标单位在状态持续期间被缴械，但物理技能伤害加成变为150%%"
+
+
+
+"DOTA_Tooltip_ability_Advanced_double_edge_note_lv5"				"【过度攻击+】提升至3倍"
+"DOTA_Tooltip_ability_Advanced_double_edge_note_lv10"			"【无视痛苦+】最大层数提升至7"
+"DOTA_Tooltip_ability_Advanced_double_edge_note_lv15"			"【战行者】释放技能后的5秒内，每移动200距离可以使下次释放的对敌伤害提高10%，最多提升至4倍"
+"DOTA_Tooltip_ability_Advanced_double_edge_note_lv20"			"【自我挑战】每对自身造成最大生命值200%%伤害时获得一层强化，可以使之后的技能伤害附带最大生命值的1%%（包括对己）,但不会被'过度攻击'影响，最多获得20层强化"
+"DOTA_Tooltip_ability_Advanced_double_edge_note_base_Info" "基础伤害：+10/级<br/>额外伤害系数：+0.06/级"
+"DOTA_Tooltip_ability_Advanced_double_edge_note_lv25_1"				"【血斧·地狱威吓】不具备特殊效果，获得第六梯队装备-'地狱威吓'"
+"DOTA_Tooltip_ability_Advanced_double_edge_note_lv25_2"				"【战舞·刃舞曲】对一个目标释放双刃剑后，如果目标未死，在接来的15秒内，将不断对其释放技能效果。初始间隔为0.5秒，每次释放减少0.01秒间隔，最短释放间隔为0.1秒。你可以随时用移动指令或停止指令中止技能效果，即使你在这个过程中死亡了，肉体也不会停止。"
+"DOTA_Tooltip_ability_Advanced_double_edge_note_lv25_3"				"【圆舞曲·超越极限】'自我挑战'最大层数提升至150"
+
+"DOTA_Tooltip_ability_Advanced_enchant_totem_note_lv5"				"【阿哈利姆的福佑+】溅射伤害提升至80%%"
+"DOTA_Tooltip_ability_Advanced_enchant_totem_note_lv10"			"【回音+】搜寻范围提升至700，继承攻击力提升至75%%"
+"DOTA_Tooltip_ability_Advanced_enchant_totem_note_lv15"			"【回响】攻击有20%%几率保留状态(不被概率事件加成影响)"
+"DOTA_Tooltip_ability_Advanced_enchant_totem_note_lv20"			"【延时】状态销毁将延迟一帧执行，但只保留攻击力加成效果"
+"DOTA_Tooltip_ability_Advanced_enchant_totem_note_base_Info" "攻击力加成：+20%%/级"
+"DOTA_Tooltip_ability_Advanced_enchant_totem_note_lv25_1"				"【法天相地】化为万丈高的巨人从天而降，对降落点600范围内至多5名敌人造成全额攻击力200%%的伤害"
+"DOTA_Tooltip_ability_Advanced_enchant_totem_note_lv25_2"				"【地表最强】还将提供50%%全额攻击力加成，同时'延时'的延迟增加到1秒"
+"DOTA_Tooltip_ability_Advanced_enchant_totem_note_lv25_3"				"【常驻化】获取被动能力，自身的攻击有10%%触发技能效果（仅受到50%%概率事件加成影响）"
+
+"DOTA_Tooltip_ability_Advanced_finger_of_death_note_lv5"				"【魔力透支+】每层增加的魔法消耗减少至40%%"
+"DOTA_Tooltip_ability_Advanced_finger_of_death_note_lv10"			"【阿哈利姆的福佑+】作用范围提升至500，影响目标提升至10"
+"DOTA_Tooltip_ability_Advanced_finger_of_death_note_lv15"			"【灵魂收割】每次击杀获得的伤害都计算最大值，同时最大值累计值提升智力*7"
+"DOTA_Tooltip_ability_Advanced_finger_of_death_note_lv20"			"【无尽的能量】最大击杀奖励伤害智力乘数提升至30，同时击杀标记状态持续时间提升至60秒"
+"DOTA_Tooltip_ability_Advanced_finger_of_death_note_base_Info" "基础伤害：+20/级<br/>额外伤害智力乘数：+0.2/级"
+"DOTA_Tooltip_ability_Advanced_finger_of_death_note_lv25_1"				"【痛苦的极致·阿兹斯的咏唱术】最大可施法次数增加至20；此外，当你使用了一个冷却时间大于5秒的技能后，可以移除一层你最新的魔力透支负面状态"
+"DOTA_Tooltip_ability_Advanced_finger_of_death_note_lv25_2"				"【痛苦的极致·阿兹斯的魔能】失去'魔力透支'效果，同时技能冷却时间减少至7秒，当你施法时会将所有魔力注入到死亡一指中，使技能伤害附加你当前魔法的200%%。失去的魔法会在技能冷却完成后返还，但如果你在此期间死亡了将会失去暂存的魔力。"
+"DOTA_Tooltip_ability_Advanced_finger_of_death_note_lv25_3"				"【痛苦的极致·阿兹斯的魔手】如果死亡一指未能击杀目标，那么延缓10秒后将对其再次释放一次单体的技能效果。可以多次叠加，但一个单位只能同时存在5个延缓的魔手"
+
+"DOTA_Tooltip_ability_Advanced_brain_sap_note_lv5"				"【恶念+】可以累计300%%的伤害"
+"DOTA_Tooltip_ability_Advanced_brain_sap_note_lv10"			"【阿哈利姆的福佑+】作用范围提升至450，影响目标提升至6。可以开启自动施法，开启自动施法时冷却时间减半，但耗蓝加倍。"
+"DOTA_Tooltip_ability_Advanced_brain_sap_note_lv15"			"【分享】如果自身生命值已满，那么将回复效果分享给周围1000范围内的任意非满生命值的友军，视为治疗效果"
+"DOTA_Tooltip_ability_Advanced_brain_sap_note_lv20"			"【痛苦倍增】每次使用技能可以使下一次技能伤害提高10%%，独立叠加持续60秒"
+"DOTA_Tooltip_ability_Advanced_brain_sap_note_base_Info" "基础伤害：+10/级<br/>额外伤害智力乘数：+0.08/级"
+"DOTA_Tooltip_ability_Advanced_brain_sap_note_lv25_1"				"【痛楚轮回】'恶念'的最大累计值提升至700%%，持续时间提升至20秒"
+"DOTA_Tooltip_ability_Advanced_brain_sap_note_lv25_2"				"【恐惧的化身】蚀脑对目标造成伤害后将刻下恐惧，每当其受到20次大于10的伤害后会受到一次单体的蚀脑效果，每次触发所需伤害次数提高5，每次对其使用蚀脑后所需次数会下降10，但最少为20。（不会触发LV20效果）"
+"DOTA_Tooltip_ability_Advanced_brain_sap_note_lv25_3"				"【恐惧侵袭】自动施法状态下技能仅有1秒冷却时间，不会有双倍耗蓝，但释放技能后会强制性失去400点魔法，如果你的魔法不足，那么作为惩罚你将在接下来的30秒受到伤害增加5%%，造成伤害减少3%%。"
+
+
+"DOTA_Tooltip_ability_Advanced_light_strike_array_note_lv5"				"【炎爆+】技能的作用范围增加60"
+"DOTA_Tooltip_ability_Advanced_light_strike_array_note_lv10"			"【焦阳+】每10分钟削弱效果减少至4%%"
+"DOTA_Tooltip_ability_Advanced_light_strike_array_note_lv15"			"【正午的焦阳】如果时间差值在1小时之内，那么将产生2次额外的炎爆，如果差值在1到3小时，则产生1次额外的炎爆，否则不产生（额外的炎爆只有一半的伤害）"
+"DOTA_Tooltip_ability_Advanced_light_strike_array_note_lv20"			"【烈焰阵】在目标点周围600范围产生多个额外的光击阵，但只有70%%的范围与伤害，时间差值时间差值在1小时之内时产生4个，每多1小时减少1个"
+"DOTA_Tooltip_ability_Advanced_light_strike_array_note_base_Info" "基础伤害：+10/级<br/>额外伤害智力乘数：+0.05/级"
+"DOTA_Tooltip_ability_Advanced_light_strike_array_note_lv25_1"				"【曾焦阳】'焦阳'的强化最大倍数提升至3，'正午的焦阳'效果的额外炎爆数提升至3，并每小时差值减少1次炎爆,'烈焰阵'的最大产生数提升至6。如果是曾焦阳使用此效果默认所有效果最大（但不会反映在UI上）"
+"DOTA_Tooltip_ability_Advanced_light_strike_array_note_lv25_2"				"【炎阳冲击】技能的作用范围提升至400，同时炎爆的产生次数将固定至10次，每次的最大伤害提升至200%%，额外的炎爆不再被削弱，产生间隔提升至5秒"
+"DOTA_Tooltip_ability_Advanced_light_strike_array_note_lv25_3"				"【红魔女的炙烤】光击阵可以牵引两倍范围的敌人到达中间位置，随后2秒内产生6次冲击伤害，每次冲击可以造成你身上带火属性伤害的魔法技能数量*智力120%%的伤害并增加20点作用范围"
+
+"DOTA_Tooltip_ability_Advanced_summon_Forge_Spirit_note_lv5"				"【冰之坚毅+】额外召唤一只熔炉精灵"
+"DOTA_Tooltip_ability_Advanced_summon_Forge_Spirit_note_lv10"			"【火之灼热+】熔炉精灵灼烧攻击的最大层数加20"
+"DOTA_Tooltip_ability_Advanced_summon_Forge_Spirit_note_lv15"			"【熔炉余热】熔炉精灵召唤后获得100%%的攻击加成与攻击速度加成，但10秒内递减为0"
+"DOTA_Tooltip_ability_Advanced_summon_Forge_Spirit_note_lv20"			"【熔炉重铸】当熔炉精灵第一次死亡后可以进行一次重生，且重生后的属性为原来的110%%,但持续时间为80%%"
+"DOTA_Tooltip_ability_Advanced_summon_Forge_Spirit_note_base_Info" "攻击力继承：+2%%/级<br/>生命值继承：+1%%/级"
+"DOTA_Tooltip_ability_Advanced_summon_Forge_Spirit_note_lv25_1"				"【龙魂】'熔炉重铸'的重生次数加1，同时召唤者每拥有一个高阶龙魂技能，重生次数加1"
+"DOTA_Tooltip_ability_Advanced_summon_Forge_Spirit_note_lv25_2"				"【化为柴薪】熔炉精灵出生后便会燃烧自己，每秒移除自身3%%的当前生命值，化为熔炉的柴薪，当这个值累计到达施法者最大生命值的150%%后，下一次召唤将额外召唤出一只大型熔炉精灵，继承3倍属性，同时'熔炉余热'效果将持续30秒，同时烧灼攻击可以一次性发挥到最大作用"
+"DOTA_Tooltip_ability_Advanced_summon_Forge_Spirit_note_lv25_3"				"【化为熔炉】转变为被动技能，不再可以召唤熔炉精灵，转变为增加40%%召唤增强，同时你的其他召唤物可以继承'灼烧攻击','火之灼热','熔炉余热'(会被破坏被动禁用)"
+
+
+
+"DOTA_Tooltip_ability_Advanced_lucent_beam_note_lv5"				"【月陨+】月陨的伤害提升至80%%"
+"DOTA_Tooltip_ability_Advanced_lucent_beam_note_lv10"			"【吟风弄月+】额外的月光数量加1"
+"DOTA_Tooltip_ability_Advanced_lucent_beam_note_lv15"			"【月华】月光的伤害将附带你全额攻击力的20%%,同时每造成你全额攻击力120%%的伤害时可以短暂提升你15点攻击力，持续15秒，受到正面状态持续时间增强影响(至多2000)"
+"DOTA_Tooltip_ability_Advanced_lucent_beam_note_lv20"			"【皓月】在夜晚，有20%%几率释放月光不会进入冷却（不受到概率事件加成影响）"
+"DOTA_Tooltip_ability_Advanced_lucent_beam_note_base_Info" "基础伤害：+10/级<br/>敏捷乘数：+0.1/级"
+"DOTA_Tooltip_ability_Advanced_lucent_beam_note_lv25_1"				"【月蚀】转变为被动技能，每隔7秒自动召唤4道月光打击1000范围内随机敌人（在夜晚月光数量加2）"
+"DOTA_Tooltip_ability_Advanced_lucent_beam_note_lv25_2"				"【月佑】月光的伤害将附带你全额攻击力的50%%，同时'月华'的攻击力提升增加至25，持续时间提升至20秒"
+"DOTA_Tooltip_ability_Advanced_lucent_beam_note_lv25_3"				"【狂月再临】你的月光击中目标后将对其发射一道月能，击中后施加一次有400%%额外伤害的攻击效果，同时该攻击效果有40%%几率触发一次单体月光（不受到概率事件加成影响）"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Slyrak_note_lv5"				"【愤怒之火+】最大叠加层数提升至16"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Slyrak_note_lv10"			"【焦虑之火+】额外最大加成提升至150%%"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Slyrak_note_lv15"			"【狂怒之火】狂怒默认直接开启"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Slyrak_note_lv20"			"【始源之火】攻击力加成效果将获得召唤者全额攻击力的20%%的加成"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Slyrak_note_base_Info" "狂怒攻击力加成：+10/级<br/>狂怒攻击力速度加成：+0.3%%/级"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Slyrak_note_lv25_1"				"【龙魂】每进行一次成功的召唤，此技能的基础攻击力加成会提高10%%，攻击速度加成提升3%%（线性，最高有效层数为40），这个提升将持续至此召唤物消失"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Slyrak_note_lv25_2"				"【始源吐息】召唤物的攻击有10%%几率喷射出一团火焰（不被概率事件加成影响），烧灼碰到的敌人，造成此召唤物全额攻击力200%%的伤害，并使命中目标全额攻击力降低20%%，固定持续3秒。火焰长度等于召唤物攻击射程+200，最多只能影响5名目标，有内置2秒冷却时间，伤害源视为召唤者"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Slyrak_note_lv25_3"				"【火焰之父】斯莱瑞克，跑到恐怖利刃的境遇送人头，他也因此学到了新东西。失去狂怒攻击速度加成，但召唤的攻击有20%%几率使此次攻击的伤害变为4倍"
+
+
+
+"DOTA_Tooltip_ability_Advanced_fiery_soul_note_lv5"				"【烈焰之息+】'烈焰之息'生效期间施法前摇减少100%%"
+"DOTA_Tooltip_ability_Advanced_fiery_soul_note_lv10"			"【火之后裔+】每层叠加增加的触发几率提升至4%%"
+"DOTA_Tooltip_ability_Advanced_fiery_soul_note_lv15"			"【燥热之魂】'烈焰之息'所需施法次数减少1，技能的最大叠加层数增加1"
+"DOTA_Tooltip_ability_Advanced_fiery_soul_note_lv20"			"【始源之火】没有任何效果，但当技能提升到25级时，你的第一个使用的冷却时间大于3秒的可刷新技能的冷却时间将永久减少20%%（出售技能后失效,即使触发的技能出售或升阶也不会使这个效果重置，因此必须第一次释放时就使用高阶技能，对于动态刷新/不可刷新技能，只要被标记后即使变为不可刷新也仍然有效）"
+"DOTA_Tooltip_ability_Advanced_fiery_soul_note_base_Info" "攻击速度提升：+1/级<br/>移动速度提升：+0.3%%/级"
+"DOTA_Tooltip_ability_Advanced_fiery_soul_note_lv25_1"				"【始源火炉】使'始源之火'的冷却时间减少效果提升至45%%"
+"DOTA_Tooltip_ability_Advanced_fiery_soul_note_lv25_2"				"【无穷烈焰的赐福】状态持续时间减少至5秒，但最大叠加次数提升至15，同时在15层时必定触发火属性技能的双重施法"
+"DOTA_Tooltip_ability_Advanced_fiery_soul_note_lv25_3"				"【绯红之眼·绝对时间】技能可以开启主动效果，开启即消耗5%%最大生命值，每秒消耗最大生命值的15%%，但技能开启期间即增加800点施法距离与70%%技能伤害，同时全属性提高70"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_reverse_polarity_note_lv5"				"【局部扭转+】两种负面效果提升50%%减少数值"
+"DOTA_Tooltip_ability_Advanced_reverse_polarity_note_lv10"			"【破势+】暴击伤害提升至250%%"
+"DOTA_Tooltip_ability_Advanced_reverse_polarity_note_lv15"			"【毁天灭地】释放两级反转后，己方每有一名英雄则对两极反转区域内随机一个点释放一个250范围的天火，造成等同于这名英雄的当前生命值的10%%加当前魔法值的15%%的纯粹伤害，每道天火至多影响5名敌人"
+"DOTA_Tooltip_ability_Advanced_reverse_polarity_note_lv20"			"【多重扭转】两级反转可以同时在所有友方英雄所在地点生效，但只影响4名敌人，也不会产生'毁天灭地'效果"
+"DOTA_Tooltip_ability_Advanced_reverse_polarity_note_base_Info" "目标承受额外伤害：+1%%/级"
+"DOTA_Tooltip_ability_Advanced_reverse_polarity_note_lv25_1"				"【世界重铸】释放完技能后将额外触发7次'毁天灭地'，间隔3秒"
+"DOTA_Tooltip_ability_Advanced_reverse_polarity_note_lv25_2"				"【世界坍缩】技能转变为不可刷新，但影响范围提升至800，影响单位数提升至15，眩晕时间提升至7秒"
+"DOTA_Tooltip_ability_Advanced_reverse_polarity_note_lv25_3"				"【震荡之域】技能冷却时间减少10秒，同时释放两级反转后将对其中心释放4次高阶震荡波"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_onslaught_note_lv5"				"【破阵+】护甲削减提升至11"
+"DOTA_Tooltip_ability_Advanced_onslaught_note_lv10"			"【驰+】范围再次提升50%%"
+"DOTA_Tooltip_ability_Advanced_onslaught_note_lv15"			"【苍蓝野兽】冲刺可以一直持续，但额外每冲刺0.2秒会失去1%%+10点的魔法值，直到停止或魔法值低于20%%，可以重复作用于相同敌人，但有3秒冷却"
+"DOTA_Tooltip_ability_Advanced_onslaught_note_lv20"			"【风驰天下】可以开启自动施法，冲刺时将携带最近的一名友军一起冲刺并造成双倍伤害，队友将无敌，也可以发动攻击"
+"DOTA_Tooltip_ability_Advanced_onslaught_note_base_Info" "基础伤害：+15/级<br/>额外伤害乘数：+0.07/级"
+"DOTA_Tooltip_ability_Advanced_onslaught_note_lv25_1"				"【八门遁甲】冲刺的速度将增加移动速度的100%%（但最多增加3000），同时冲刺时转身速度提高300%%，消耗魔法减少70%%"
+"DOTA_Tooltip_ability_Advanced_onslaught_note_lv25_2"				"【死门·开】失去'苍蓝野兽'效果，冲刺速度提升至5000，伤害转变为全额攻击力加成且提高5倍(不会提升'风驰天下'的部分)，击退距离提高至700，眩晕时间至短1秒，冷却时间减少至4秒，但冲刺结束时你的生命值会降低至10%%，同时释放技能时如果生命值已低于一半，那么冲刺结束后会死亡"
+"DOTA_Tooltip_ability_Advanced_onslaught_note_lv25_3"				"【武装突袭阵】冲刺期间每经过1.5秒可以分化出一具幻象往前冲刺，幻象能造成100%%的伤害，幻影冲刺速度为1.3倍且持续6秒"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_arcane_bolt_note_lv5"				"【鹰隼群+】额外目标增加至2"
+"DOTA_Tooltip_ability_Advanced_arcane_bolt_note_lv10"			"【奥法之辉+】每20层'奥法之辉'可以使你额外对一个目标施加技能效果，但最多5个额外目标奖励"
+"DOTA_Tooltip_ability_Advanced_arcane_bolt_note_lv15"			"【鹰隼之雨】你的任意冷却大于3秒的施法可以对随机两名敌人施加技能效果"
+"DOTA_Tooltip_ability_Advanced_arcane_bolt_note_lv20"			"【奥法之印】普攻或技能命中后会在目标上留下一层印记，当技能到达5层后将被移除并以该单位为中心呼唤一次'鹰隼之雨'，印记永久存在"
+"DOTA_Tooltip_ability_Advanced_arcane_bolt_note_base_Info" "基础伤害：+5/级<br/>额外伤害乘数：+0.1/级"
+"DOTA_Tooltip_ability_Advanced_arcane_bolt_note_lv25_1"				"【苍白浪潮】每次施法都将额外释放1-3次，有0.2秒的间隔"
+"DOTA_Tooltip_ability_Advanced_arcane_bolt_note_lv25_2"				"【苍白骤雨】变更技能为持续施法，在持续施法期间每隔0.4秒召唤一次'鹰隼之雨'，同时目标数量提升至3"
+"DOTA_Tooltip_ability_Advanced_arcane_bolt_note_lv25_3"				"【鹰之歌·扎贡纳斯之声】不具备特殊效果，获得第六梯队装备-'鹰之歌'"
+
+
+"DOTA_Tooltip_ability_Advanced_Holy_Light_Shield_note_lv5"				"【破损转化+】冷却减少效果提升至12秒"
+"DOTA_Tooltip_ability_Advanced_Holy_Light_Shield_note_lv10"			"【圣馈+】恢复效果提升50%%"
+"DOTA_Tooltip_ability_Advanced_Holy_Light_Shield_note_lv15"			"【圣别】护盾伤害半径范围扩大至700，同时重复施法可以使现有护盾破裂"
+"DOTA_Tooltip_ability_Advanced_Holy_Light_Shield_note_lv20"			"【秩序维持】护盾持续期间，每经过0.5秒如果你的生命值在一半以上，将失去这部分生命并将其25%%转化为护盾，这一部分数值无论你是否在护盾消失时还持有，都将转化为伤害效果"
+"DOTA_Tooltip_ability_Advanced_Holy_Light_Shield_note_base_Info" "护盾乘数：+0.015/级"
+"DOTA_Tooltip_ability_Advanced_Holy_Light_Shield_note_lv25_1"				"【无序调和】'秩序维持'的检测间隔降低至0.1秒，同时转化比率提升至50%%；如果你被施加了任意无光之盾效果，都会在检测时转变为你的圣光护盾值"
+"DOTA_Tooltip_ability_Advanced_Holy_Light_Shield_note_lv25_2"				"【圣光隶属】持续时间提升至30秒，在技能持续期间，你可以每秒周围1000范围内至多6个单位身上吸收一次生命力，对于敌人，会损失你5%%最大生命值的生命，对于生命大于70%%的友军，损失其5%%的最大生命值。吸收的生命力将转化为你的护盾，不会产生致命性"
+"DOTA_Tooltip_ability_Advanced_Holy_Light_Shield_note_lv25_3"				"【圣装】不再被护盾无效后禁用，同时，只有大于你生命中4%%的伤害才会消耗你的护盾，且仅消耗这4%%"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Multiple_overlapping_waves_note_lv5"				"【叠浪提升+】可叠加层数 + 2"
+"DOTA_Tooltip_ability_Advanced_Multiple_overlapping_waves_note_lv10"			"【叠浪重置+】每次攻击减少该技能0.5秒的冷却 (分裂箭无法触发该效果)"
+"DOTA_Tooltip_ability_Advanced_Multiple_overlapping_waves_note_lv15"			"【叠浪再提升】每层攻击力增益额外再带来10点攻击速度"
+"DOTA_Tooltip_ability_Advanced_Multiple_overlapping_waves_note_lv20"			"【完美叠浪】Lv.5、lv.10、lv.15的效果全部提升一倍"
+"DOTA_Tooltip_ability_Advanced_Multiple_overlapping_waves_note_base_Info" "攻击力增加：+1/级"
+
+// "DOTA_Tooltip_ability_Advanced_Hand_in_hand_together_note_lv5"				"【坚韧意志 +】免伤再提高10%%"
+// "DOTA_Tooltip_ability_Advanced_Hand_in_hand_together_note_lv10"			"【取长补短+】在增强防御力的同时，双方再增加二人生命总和/10的最大生命值(加血对召唤物无效)"
+// "DOTA_Tooltip_ability_Advanced_Hand_in_hand_together_note_lv15"			"【舍己为人】使抵挡伤害由原本的50%%提升至75%%"
+// "DOTA_Tooltip_ability_Advanced_Hand_in_hand_together_note_lv20"			"【舍己为人+】使原本仅抵挡攻击伤害转变为抵挡所有类型的伤害"
+// "DOTA_Tooltip_ability_Advanced_Hand_in_hand_together_note_base_Info" "伤害减免：+0.5/级"
+
+
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Byssrak_note_lv5"				"【重力积蓄+】积蓄的间隔变为0.2秒，消耗'重力积蓄'时，如果累计了至少200%%的加成，则此次攻击变为300范围的溅射伤害，溅射伤害继承100%%造成伤害，可再次影响主目标，最多影响5个单位"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Byssrak_note_lv10"			"【虚空转移+】触发几率提升至11%%，冷却时间减少至2秒"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Byssrak_note_lv15"			"【重力保存】储存的重力只会被消耗40%%，同时最低层数会在1与2中随机"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Byssrak_note_lv20"			"【归无】当重力积蓄储蓄了70%%加成后即可造成溅射伤害，同时被溅射伤害命后的目标如果生命值低于召唤物当前全额攻击力的50%%则会造成即死效果"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Byssrak_note_base_Info" "全额攻击力加成：+1%%/级<br/>攻击速度降低：+0.2%%/级"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Byssrak_note_lv25_1"				"【龙魂】每当你进行一次召唤后，'重力积蓄'的储蓄速度便会提高8%%（线性），这个提升将持续至此召唤物消失，储蓄速度在召唤后会固定下来，并不会因为其他召唤物的出现或消失动态变化"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Byssrak_note_lv25_2"				"【虚空裂缝】'虚空转移'不再冷却时必定触发，继承全额攻击力提升至70%%"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Byssrak_note_lv25_3"				"【虚无扭转】攻击速度损失变成75%%的提升"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Lirrak_note_lv5"				"【孕育+】每次触发的提升效果增加至6%%"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Lirrak_note_lv10"			"【寒冬之吻+】额外伤害提升至35%%"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Lirrak_note_lv15"			"【鱼群】当一个召唤物被召唤时，周围800范围内每有一个相同召唤者的召唤物，则令这一批召唤物恢复2%%的最大生命值，视为召唤者的治疗（复数召唤仅首只有效，生命值不大于200的不会被治疗）"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Lirrak_note_lv20"			"【鲸落】当一个最大生命值大于200的召唤物消失后，恢复其周围700范围内所有友方普通单位15%%的最大生命值，视为召唤者的治疗。同时在20秒内增加4%%的伤害，独立叠加最多60%%，被正面状态持续时间增强影响"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Lirrak_note_base_Info" "生命恢复加成：+2/级<br/>攻击距离加成：+1.8%%/级"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Lirrak_note_lv25_1"				"【龙魂】每当你进行一次召唤后，召唤物获得1.5%%伤害减免与4%%受到治疗增强，其中伤害减免最多30%%。这个提升将持续至此召唤物消失，加成是动态的。"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Lirrak_note_lv25_2"				"【海洋之母】被动使己方召唤物第一次受到致命伤害时可以将生命值恢复满。(这将使得无法同时多个个体的召唤物可以存活下来)"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Lirrak_note_lv25_3"				"【苍洋之盾】受到相当于最大生命值30%%+1000的伤害后，召唤物会触发一次'寒冬之吻'效果，同时额外伤害提升至150%%"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Indrak_note_lv5"				"【电磁迭代+】最大加成提升至80"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Indrak_note_lv10"			"【电荷累加+】基础敏捷伤害提升至敏捷*0.25"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Indrak_note_lv15"			"【电磁力】获得主动施法能力，你可以瞬间移动到召唤物的旁边 也可以在自动施法状态下将目标召唤物拉扯到自己身边"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Indrak_note_lv20"			"【离子复合】'电荷累加'触发几率减少1%%，当某个单位触发了'电荷累加'的释放，可以从周围500范围内相同召唤者所召唤的单位身上吸收一半的电荷。"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Indrak_note_base_Info" "攻击速度加成：+0.6%%/级"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Indrak_note_lv25_1"				"【龙魂】每当你进行一次召唤后，召唤物的从该技能获得的攻击速度加成提高5%%，最多到达120%%。这个提升将持续至此召唤物消失，加成是动态的。"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Indrak_note_lv25_2"				"【电磁增幅器】使技能提供的攻击速度加成提升1.5倍"
+"DOTA_Tooltip_ability_Advanced_Eldwurm_soul_Indrak_note_lv25_3"				"【荷电粒子加速器】每次攻击有50%%几率获得双倍的'电荷累加'，同时即使不发动攻击，每秒也将获得1点电荷，但层数到30以上后将不会产生每秒的累计生成"
+
+
+// "DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_lv5"				"【奥能掌控+】最大叠加提升至80%%"
+"DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_lv5"				"【折射+】弹射次数增加至5"
+"DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_lv10"			"【莫比乌斯环+】触发几率提升至30%%"
+// "DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_lv15"			"【折射】命中一名敌人后，还将以其为中心的400范围内额外3名目标造成伤害"
+"DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_lv15"			"【奥能掌控】释放奥法能量时，如果激发的伤害量大于储存极限的30%%，那么在30秒内提高2%%的治疗增强，独立叠加最多70%%有效。"
+"DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_lv20"			"【奥法盈余】当能量被计算后，如果触及了极限，有35%%几率直接触发一次能量释放"
+"DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_base_Info" "转化率：+0.5%%/级"
+"DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_lv25_1"				"【能量储蓄袋】使能量释放间隔变为0.1秒，同时最大储蓄量提升至主属性*80。"
+"DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_lv25_2"				"【奥法过载】如果以满能力的状态释放出奥法能量，可以同时攻击两名主要目标，如果你的任意主目标在此伤害下阵亡，那么即使消耗能量也只会消耗一半。"
+"DOTA_Tooltip_ability_Advanced_Arcane_Replacement_note_lv25_3"				"【命定轮转】如果你治疗了一名濒死的友军（治疗前生命中低于33.333%%），那么此次治疗效果与接下来5秒内的治疗可以突破储存极限，但总量仍不会超过主属性*200"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_ancient_seal_note_lv5"				"【上古刻痕+】最大层数提升至30"
+"DOTA_Tooltip_ability_Advanced_ancient_seal_note_lv10"			"【奥法通晓+】最大提升增加值35%%"
+"DOTA_Tooltip_ability_Advanced_ancient_seal_note_lv15"			"【天怒咒术】即使目标身上已携带上古封印负面状态，你也仍然可以对其施加技能效果"
+"DOTA_Tooltip_ability_Advanced_ancient_seal_note_lv20"			"【九天奥能】每层'上古刻痕'可以使其额外受到伤害来源的最大魔法*0.1%%的伤害"
+"DOTA_Tooltip_ability_Advanced_ancient_seal_note_base_Info" "魔法抗性削减：+0.4%%/级"
+"DOTA_Tooltip_ability_Advanced_ancient_seal_note_lv25_1"				"【奥术顿悟】阅读'奥术概论'时有35%%几率产生双倍效果"
+"DOTA_Tooltip_ability_Advanced_ancient_seal_note_lv25_2"				"【万法破除】你的魔法抗性减少100%%，同时上古封印的魔法抗性削减效果将提升45%%"
+"DOTA_Tooltip_ability_Advanced_ancient_seal_note_lv25_3"				"【奥斯特的秘术·九天刻痕】'上古刻痕'在被添加时即为满层数，目标受到魔法伤害时将受到额外伤害=最初的施咒者智力*7"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_acorn_shot_note_lv5"				"【弹性橡栗+】最大额外弹射次数增加至10"
+"DOTA_Tooltip_ability_Advanced_acorn_shot_note_lv10"			"【钝器冲击+】削减效果提升至27%%"
+"DOTA_Tooltip_ability_Advanced_acorn_shot_note_lv15"			"【失调性弹射】如果没有其他单位可以弹射时，可以影响同一个目标，但这种触发形式不会对同一个单位生效超过3次"
+"DOTA_Tooltip_ability_Advanced_acorn_shot_note_lv20"			"【橡栗机枪】你的攻击有5%%触发一次技能效果（不被奖励攻击触发,受到40%%概率事件加成影响），有内置1(|3)秒冷却时间"
+"DOTA_Tooltip_ability_Advanced_acorn_shot_note_base_Info" "额外伤害：+8/级"
+"DOTA_Tooltip_ability_Advanced_acorn_shot_note_lv25_1"				"【横冲直撞】橡栗将额外继承你100%%的伤害，飞行速度会越来越快，每次弹射将额外继承你8%%的伤害"
+"DOTA_Tooltip_ability_Advanced_acorn_shot_note_lv25_2"				"【分裂橡栗】每次弹射时橡栗有6%%几率一分为二，并使剩余弹射次数增加70%%，如果未能成功分裂则下一次几率增加6%%（线性），最多分裂3次"
+"DOTA_Tooltip_ability_Advanced_acorn_shot_note_lv25_3"				"【弹药专家】转变为被动技能，橡栗只会弹射一次，但'橡栗机枪'的触发几率提升至25%%，同时每次增加的冷却时间仅为0.15秒"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_whirling_death_note_lv5"				"【活性化+】每层持续时间增加至17秒，最大加成提升至80"
+"DOTA_Tooltip_ability_Advanced_whirling_death_note_lv10"			"【死亡漩涡+】最大叠加数提升至16"
+"DOTA_Tooltip_ability_Advanced_whirling_death_note_lv15"			"【死亡连结】距离你500范围内的友军受到攻击时也有5%%触发技能效果（由你来触发）"
+"DOTA_Tooltip_ability_Advanced_whirling_death_note_lv20"			"【超活性】每层'活性化'可以提供0.3%%的触发几率加成，但最多提供9%%"
+"DOTA_Tooltip_ability_Advanced_whirling_death_note_base_Info" "锯齿距离：+40/级<br/>基础伤害：+10/级<br/>额外伤害：+0.08/级"
+"DOTA_Tooltip_ability_Advanced_whirling_death_note_lv25_1"				"【致命漩涡】'死亡漩涡'的最大层数提升至40，同时储存点数时会储存双倍能量点"
+"DOTA_Tooltip_ability_Advanced_whirling_death_note_lv25_2"				"【锯齿领域】'死亡连结'不再限制距离，触发几率提升至10%%；如果触发时'死亡漩涡'的点数已满，那么会在友军所在地点释放"
+"DOTA_Tooltip_ability_Advanced_whirling_death_note_lv25_3"				"【生命锯齿】每次触发造成的伤害将附带你最大生命值的5%%，同时你造成的伤害的1%%会转化为你的临时生命值，持续30秒，最大有效20000"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_timber_chain_note_lv5"				"【伸缩自如的爱+】施法距离提升800，不再有施法前摇"
+"DOTA_Tooltip_ability_Advanced_timber_chain_note_lv10"			"【备用锯链+】充能点数加2"
+"DOTA_Tooltip_ability_Advanced_timber_chain_note_lv15"			"【锯链护甲】飞行期间可以减免60%%的伤害"
+"DOTA_Tooltip_ability_Advanced_timber_chain_note_lv20"			"【伸缩自如的爱++】允许对地释放技能,但由于有一股向下的力产生的摩擦力，飞行速度会降低30%%。对地释放时有2000最大施法距离"
+"DOTA_Tooltip_ability_Advanced_timber_chain_note_base_Info" "基础伤害：+3/级<br/>额外伤害：+0.16/级"
+"DOTA_Tooltip_ability_Advanced_timber_chain_note_lv25_1"				"【自由的飞翔】充能点数提升至10点，同时充能时间缩短至2秒，不再会产生摩擦力"
+"DOTA_Tooltip_ability_Advanced_timber_chain_note_lv25_2"				"【狂乱锯链】你可以开启自动施法，在这种情况下对敌人释放后，每2秒在目标身上具现化出锯链朝其友军拉扯，会重复3次"
+"DOTA_Tooltip_ability_Advanced_timber_chain_note_lv25_3"				"【破伤风】不再限制最大影响目标，用锯链伤害敌人后使其感染破伤风杆菌，每秒降低1点护甲与1%%魔法抗性，最多叠加到35，可以永久生效"
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_infernal_blade_note_lv5"				"【烙印重铸+】触发几率提升至35%%"
+"DOTA_Tooltip_ability_Advanced_infernal_blade_note_lv10"			"【七度地狱+】烧灼状态变为不可驱散，持续时间增加1秒"
+"DOTA_Tooltip_ability_Advanced_infernal_blade_note_lv15"			"【失能重叠】目标每携带一个负面状态，此技能的伤害增加8%%"
+"DOTA_Tooltip_ability_Advanced_infernal_blade_note_lv20"			"【烙印分裂】可以影响目标400范围内额外1个目标"
+"DOTA_Tooltip_ability_Advanced_infernal_blade_note_base_Info" "基础伤害：+3/级<br/>烧灼持续时间：+0.08/级"
+"DOTA_Tooltip_ability_Advanced_infernal_blade_note_lv25_1"				"【地狱重现】不再具备法球效果，你开启自动施法后，每秒将对你以及你800范围内至多5名敌人施加技能效果"
+"DOTA_Tooltip_ability_Advanced_infernal_blade_note_lv25_2"				"【灭世】阎刃作用期间将记录目标受到伤害的30%%，每隔5秒(或状态消失)时将会释放出伤害并对其周围300范围内至多3名敌人造成伤害（视为反伤）"
+"DOTA_Tooltip_ability_Advanced_infernal_blade_note_lv25_3"				"【魔王之剑】攻击有15%%触发技能效果，但这个效果有内置0.5|(10)秒冷却"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Sharpshooter_note_lv5"				"【过蓄+】在计算完成后还将有额外20%%的部分纳入全额攻击力计算中（不超过100%%）"
+"DOTA_Tooltip_ability_Advanced_Sharpshooter_note_lv10"			"【诸葛连弩+】连弩次数加1"
+"DOTA_Tooltip_ability_Advanced_Sharpshooter_note_lv15"			"【穿心】主弩有40%%几率可以穿透敌人，副弩有一半几率（仅主弩被概率事件加成50%%影响）"
+"DOTA_Tooltip_ability_Advanced_Sharpshooter_note_lv20"			"【快速装填】装填速度提高100%%（过蓄将在4秒时到达最大加成）"
+"DOTA_Tooltip_ability_Advanced_Sharpshooter_note_base_Info" "最高伤害：+80/级<br/>最高额外伤害：+0.2/级"
+"DOTA_Tooltip_ability_Advanced_Sharpshooter_note_lv25_1"				"【弩炮】失去'诸葛连弩'效果，技能变为瞬发，且100%%触发穿心"
+"DOTA_Tooltip_ability_Advanced_Sharpshooter_note_lv25_2"				"【机关弩枪】'诸葛连弩'次数加8，继承伤害提升至50%%"
+"DOTA_Tooltip_ability_Advanced_Sharpshooter_note_lv25_3"				"【狙击炮台】添加被动效果，攻击有3%%几率触发技能效果，但仅视为40%%的效率，后退距离减少，这个效果有内置0.8|(3)秒冷却，受到概率事件加成影响"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_summon_demon_dark_rift_note_lv5"				"【邪恶祭祀+】加成值提升至7.5%%"
+"DOTA_Tooltip_ability_Advanced_summon_demon_dark_rift_note_lv10"			"【骨灰祭祀场+】生成间隔减短至1.3秒"
+"DOTA_Tooltip_ability_Advanced_summon_demon_dark_rift_note_lv15"			"【不死契约】恶魔可以免疫1次来自敌人的伤害，进入无尽回合后免疫次数将增加至2"
+"DOTA_Tooltip_ability_Advanced_summon_demon_dark_rift_note_lv20"			"【死亡证明】可以开启自动施法，小恶魔将只继承50%%的生命值，但继承额外50%%的攻击力（皆为乘法）"
+"DOTA_Tooltip_ability_Advanced_summon_demon_dark_rift_note_base_Info" "传送门持续时间：+0.4/级<br/>攻击力继承：+0.7%%/级"
+"DOTA_Tooltip_ability_Advanced_summon_demon_dark_rift_note_lv25_1"				"【成对的破坏者】小恶魔攻击敌人后会进入3秒的缴械，在这3秒内如果周围400范围内有另一只小恶魔发动了攻击，那么两只小恶魔会共同爆炸，以两个单位的坐标连线中点为中心，400范围内至多5个单位造成小恶魔全额攻击力之和的800%%的物理伤害"
+"DOTA_Tooltip_ability_Advanced_summon_demon_dark_rift_note_lv25_2"				"【最终决战·恶】小恶魔将额外继承施法者12%%的全额攻击力，同时可以'不死契约'的免疫次数加4"
+"DOTA_Tooltip_ability_Advanced_summon_demon_dark_rift_note_lv25_3"				"【混沌王朝】小恶魔将具备低攻击有优先度能力，但发动一次攻击后将自动死亡，同时小恶魔的生成速度增加到每0.5秒一只"
+
+
+"DOTA_Tooltip_ability_Advanced_summon_humanoid_cave_troll_note_lv5"				"【狂暴重击+】继承伤害提升至140%%"
+"DOTA_Tooltip_ability_Advanced_summon_humanoid_cave_troll_note_lv10"			"【咆哮+】持续时间提升至16秒"
+"DOTA_Tooltip_ability_Advanced_summon_humanoid_cave_troll_note_lv15"			"【嗜血狂暴】当山洞巨魔击杀了任意单位时，可以触发'咆哮'"
+"DOTA_Tooltip_ability_Advanced_summon_humanoid_cave_troll_note_lv20"			"【狂暴重创】狂暴期间，山洞巨魔的攻击可以根据目标损失生命值造成额外伤害，数值等于目标损失生命值的1.5%%,但不会超过山洞巨魔全额攻击力的5倍"
+"DOTA_Tooltip_ability_Advanced_summon_humanoid_cave_troll_note_base_Info" "攻击力继承：+1.6%%/级<br/>生命值继承：+1.4%%/级"
+"DOTA_Tooltip_ability_Advanced_summon_humanoid_cave_troll_note_lv25_1"				"【狂乱重击】在狂暴期间，巨魔触发'狂暴重击'的几率提升至35%%，同时狂暴所提高的攻击速度加成提升至100"
+"DOTA_Tooltip_ability_Advanced_summon_humanoid_cave_troll_note_lv25_2"				"【血腥狂潮】'咆哮'期间山洞巨魔可以免疫100%%伤害且可以发动攻击，在狂暴状态下山洞巨魔的攻击伤害提高200%%(不会叠加)"
+"DOTA_Tooltip_ability_Advanced_summon_humanoid_cave_troll_note_lv25_3"				"【巨魔之山】新召唤的巨魔会压在旧巨魔头顶上，且获得无敌效果, 越高的巨魔获得越高的攻击距离加成"
+
+
+// 【暴怒狂暴】当山洞巨魔造成目标单位的死亡时，会触发暴怒狂暴效果，使巨魔进入狂暴状态，提升50%%攻击速度，50%%移动速度，持续8秒。
+// 【血腥狂潮】当山洞巨魔发动暴怒狂暴效果时，会触发豪放狂飙效果，让巨魔在下一次攻击时造成100%%额外伤害。
+// 【Frenzied Rampage】When a cave troll causes the death of a target unit, it triggers the Frenzied Rampage effect, causing the troll to enter a frenzied state, increasing its attack speed by 50% and movement speed by 50%, lasting for 8 seconds.
+// 【Bloody Rampage】When a cave troll activates the Frenzied Rampage effect, it triggers the Fierce Rampage effect, causing the troll to deal 100% extra damage on its next attack. These two effects.
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_mystic_flare_note_lv5"				"【天怒洪流+】收束的触发几率提升至30%%"
+"DOTA_Tooltip_ability_Advanced_mystic_flare_note_lv10"			"【立场扩张+】扩张概率提升至40%% ，扩张时的范围提升值增至13%% ，伤害提升值增至7%%"
+"DOTA_Tooltip_ability_Advanced_mystic_flare_note_lv15"			"【苍天重塑】触发'天怒洪流'或者'立场扩张'时，有40%%几率使技能效果延长0.33秒，但最多延长20次"
+"DOTA_Tooltip_ability_Advanced_mystic_flare_note_lv20"			"【残月之殇】技能的范围会扩张300范围，同时每隔0.1秒都会在立场中的随机点造成一次技能伤害，只能影响1个目标，此范围等于最初始的技能范围(在立场扩张到原始大小的6倍/12倍后每次触发会各自多一重效果)"
+"DOTA_Tooltip_ability_Advanced_mystic_flare_note_base_Info" "基础伤害：+40/级<br/>额外伤害：+0.3/级"
+"DOTA_Tooltip_ability_Advanced_mystic_flare_note_lv25_1"				"【九天重塑】'苍天重塑'必定会触发，且最大延长次数提升至60次"
+"DOTA_Tooltip_ability_Advanced_mystic_flare_note_lv25_2"				"【苍天坠落】对目标中心170范围形成一个集中打击，在此范围内的敌人每0.4秒都会受到一次不平摊的3倍技能伤害"
+"DOTA_Tooltip_ability_Advanced_mystic_flare_note_lv25_3"				"【奥术灌输】触发'苍天重塑'时可以加速神秘之耀的冷却，减少当前剩余冷却时间的18%%"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_shield_crash_note_lv5"				"【弹簧+】额外提供1点充能点数"
+"DOTA_Tooltip_ability_Advanced_shield_crash_note_lv10"			"【甲盾护甲+】每15点伤害减免提供1点护甲加成"
+"DOTA_Tooltip_ability_Advanced_shield_crash_note_lv15"			"【弹射起飞】释放技能时有35%%几率在起跳点产生一次技能效果"
+"DOTA_Tooltip_ability_Advanced_shield_crash_note_lv20"			"【弹射起飞+】可以开启自动施法，100%%在起跳点产生一次技能效果，同时你的跳跃高度增加100%%，跳跃距离增加200%%"
+"DOTA_Tooltip_ability_Advanced_shield_crash_note_base_Info" "基础伤害：+10/级<br/>额外伤害：+0.005/级<br/>每个单位提供伤害减免：+0.3/级"
+"DOTA_Tooltip_ability_Advanced_shield_crash_note_lv25_1"				"【肉弹战车】跳跃高度获得等同于防御力150%%的提升，着陆后还将弹跳数次，每次弹射后会造成动能损失，高度下降50+10%%，直到低于150点(初始高度为350)"
+"DOTA_Tooltip_ability_Advanced_shield_crash_note_lv25_2"				"【跳蚤市场】被技能效果影响到的敌人有7%%原地弹跳一次，后续弹跳最多传递3次"
+"DOTA_Tooltip_ability_Advanced_shield_crash_note_lv25_3"				"【腹泻】在开启自动施法状态下获得额外效果：每当你移动（1000-防御力）距离（最少500）则会原地跳动一下，这个效果有0.4秒冷却时间"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_bulldoze_note_lv5"				"【屹立不倒+】持续时间提升至11秒"
+"DOTA_Tooltip_ability_Advanced_bulldoze_note_lv10"			"【横冲直撞+】伤害提升至最大生命值8%%"
+"DOTA_Tooltip_ability_Advanced_bulldoze_note_lv15"			"【正弦冲刺冠军】主动状态下可以突破移速限制，获得最大700移速加成，这个加成跟随状态剩余时间而变化，公式=A*sin(Πt/x),t为剩余时间，x为状态总持续时间，A为最大移速加成"
+"DOTA_Tooltip_ability_Advanced_bulldoze_note_lv20"			"【横冲直撞++】伤害额外附加移动速度的100%%"
+"DOTA_Tooltip_ability_Advanced_bulldoze_note_base_Info" "移动速度加成：+0.8%%/级<br/>状态抗性加成：+0.8%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_bulldoze_note_lv25_1"				"【颠勺冠军】改变'横冲直撞'的击退效果，将敌人抛向自身身后，同时主动效果变为永久，'正弦冲刺冠军'效果变为常驻400加成"
+"DOTA_Tooltip_ability_Advanced_bulldoze_note_lv25_2"				"【动能转换】获得新被动能力：你的攻击伤害将额外附带移速的50%%，但最高不超过6000"
+"DOTA_Tooltip_ability_Advanced_bulldoze_note_lv25_3"				"【百米冲刺】技能主动效果持续时间变为1.5秒，技能冷却时间减少至固定的4秒，'正弦冲刺冠军'转变为固定的4000移动速度加成"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Refraction_note_lv5"				"【折返+】最大加成提升至150%%"
+"DOTA_Tooltip_ability_Advanced_Refraction_note_lv10"			"【灵能重聚+】抵挡层数为0时不再销毁状态"
+"DOTA_Tooltip_ability_Advanced_Refraction_note_lv15"			"【完美格挡】对于低于200%%生命值的伤害都产生完美格挡效果，否则产生70%%格挡效果"
+"DOTA_Tooltip_ability_Advanced_Refraction_note_lv20"			"【灵能转换】'折返'效果不再因重新施法而重置，每损失一层抵挡效果，可以获得15点临时攻击力加成，持续25秒独立叠加，最多1000点有效（被正面状态持续时间增强影响）"
+"DOTA_Tooltip_ability_Advanced_Refraction_note_base_Info" "折光次数：+0.4/级<br/>主属性加成：+0.8/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Refraction_note_lv25_1"				"【圣堂之秘】开启技能后你每次攻击有18%%几率恢复一层折光，同时临时攻击力每次提升增加至25，加成上限提升至3000"
+"DOTA_Tooltip_ability_Advanced_Refraction_note_lv25_2"				"【灵能塑造】可以开启自动施法，在这种状态下即使格挡层数消耗殆尽也可以抵消伤害，但会使技能的冷却时间增加0.2秒，当技能冷却大于30秒时不产生效果"
+"DOTA_Tooltip_ability_Advanced_Refraction_note_lv25_3"				"【圣盾·防御特化】失去主属性加成与'灵能转换'效果，折光次数增加50，'灵能重聚'的间隔减少至0.4秒，格挡效果不再与生命值关联，可以抵挡任意大于20的伤害"
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_morph_note_lv5"				"【自在流体+】恢复效果提升60%%"
+"DOTA_Tooltip_ability_Advanced_morph_note_lv10"			"【快速转换+】每1%%冷却缩减可以提升1.4%%的转化速度"
+"DOTA_Tooltip_ability_Advanced_morph_note_lv15"			"【自在流体++】每转化1点力量可以获得10点临时最大生命值加成，1点敏捷获得2点攻击速度加成，1点智力获得0.3技能伤害提升，独立叠加持续20秒，最大有效120层，受到正面状态持续时间增强影响"
+"DOTA_Tooltip_ability_Advanced_morph_note_lv20"			"【急速转化】进入切换时立即产生4次变化效果"
+"DOTA_Tooltip_ability_Advanced_morph_note_base_Info" "主属性加成：+0.8/级<br/>主属性最大转化值：+2/级<br/>"
+"DOTA_Tooltip_ability_Advanced_morph_note_lv25_1"				"【过度转化】不再有主属性最大转换值的限制"
+"DOTA_Tooltip_ability_Advanced_morph_note_lv25_2"				"【长江与黄河】转换速度提升至每帧一次，同时'自在流体'的恢复效果提升至40与5"
+"DOTA_Tooltip_ability_Advanced_morph_note_lv25_3"				"【高效转化】'急速转化'的转化次数提升至20，转化效率提升至500%%，无论转化为什么属性，每点属性增长都会使获得0.3%%伤害增幅，独立叠加持续30秒，最大有效200层，受到正面状态持续时间增强影响"
+
+
+
+"DOTA_Tooltip_ability_Advanced_summon_wind_element_note_lv5"				"【风之席卷+】交换位置的冷却时间减少至2秒"
+"DOTA_Tooltip_ability_Advanced_summon_wind_element_note_lv10"			"【风之协调+】增加规避概率的间隔减少至2秒"
+"DOTA_Tooltip_ability_Advanced_summon_wind_element_note_lv15"			"【席卷余风】触发'风之席卷'后，规避几率提升至90%% ，持续2秒"
+"DOTA_Tooltip_ability_Advanced_summon_wind_element_note_lv20"			"【风之协调++】最大额外规避几率提升至35%%，且规避时有20%%几率立即进行[风之协调]"
+"DOTA_Tooltip_ability_Advanced_summon_wind_element_note_base_Info" "攻击力继承：+5%%/级<br/>生命继承：+0.5%%/级<br/>"
+"DOTA_Tooltip_ability_Advanced_summon_wind_element_note_lv25_1"				"【元素特化】伤害规避几率拥有最低值85%%"
+"DOTA_Tooltip_ability_Advanced_summon_wind_element_note_lv25_2"				"【旋风归置】死亡时将化为一阵旋风，使周围400范围内的敌人被破防7秒，在7秒内防御力减少200点，且破坏被动"
+"DOTA_Tooltip_ability_Advanced_summon_wind_element_note_lv25_3"				"【风之赐福】你的所有召唤物都可以携带伤害规避效果，数值固定在40%%，不会触发由伤害规避带来的次级效果"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_presence_of_the_dark_lord_note_lv5"				"【灵压+】转换效果提升至75%%"
+"DOTA_Tooltip_ability_Advanced_presence_of_the_dark_lord_note_lv10"			"【散布恐惧+】触发几率提升至8%%"
+"DOTA_Tooltip_ability_Advanced_presence_of_the_dark_lord_note_lv15"			"【散布恐惧++】如果散播恐惧未能触发，则下一次触发几率提升2%%，同时在领域内死亡的敌人可以暂时使护甲降低效果提升1点，持续35秒，但最高20"
+"DOTA_Tooltip_ability_Advanced_presence_of_the_dark_lord_note_lv20"			"【领域扩张】每30点最大生命值可以增加1点作用范围，但最多增加600"
+"DOTA_Tooltip_ability_Advanced_presence_of_the_dark_lord_note_base_Info" "护甲降低：+0.3/级<br/>"
+"DOTA_Tooltip_ability_Advanced_presence_of_the_dark_lord_note_lv25_1"				"【灵魂收集】在领域中死亡的敌人都可以转变为一点高阶支配死灵的灵魂，同时当支配死灵的灵魂满30后将转变为1点永久的死灵富集体，不会因死亡消散，提供的效果等于一层高阶支配死灵的灵魂，最多到达120层"
+"DOTA_Tooltip_ability_Advanced_presence_of_the_dark_lord_note_lv25_2"				"【灵气聚焦】触发'散布恐惧'后将对目标发动一次毁灭阴影，造成拥有最高攻击力英雄全额攻击力250%%的物理伤害，每次触发使下一次伤害提高15%%，但最多提升20次。"
+"DOTA_Tooltip_ability_Advanced_presence_of_the_dark_lord_note_lv25_3"				"【暗夜绞杀】在光环下的敌人受到非技能伤害提高18%%，由你来造成，以生命移除的形式"
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Tidebringer_note_lv5"				"【反曲形态+】护甲削减持续时间提升至9秒"
+"DOTA_Tooltip_ability_Advanced_Tidebringer_note_lv10"			"【锻造技术变革+】触发几率提升至30%%"
+"DOTA_Tooltip_ability_Advanced_Tidebringer_note_lv15"			"【纳米飞刃】可以将'反曲形态'的护甲削减效果扩散到所有被影响的目标"
+"DOTA_Tooltip_ability_Advanced_Tidebringer_note_lv20"			"【分子切割器】当潮汐使者影响到的目标不超过2时，将同时也对主目标产生影响"
+"DOTA_Tooltip_ability_Advanced_Tidebringer_note_base_Info" "额外攻击力：+10/级<br/>"
+"DOTA_Tooltip_ability_Advanced_Tidebringer_note_lv25_1"				"【相控阵切割】在被技能影响的敌人周围制造出激光成像的幻影，对目标进行二次切割，此次切割伤害为第一次的180%%"
+"DOTA_Tooltip_ability_Advanced_Tidebringer_note_lv25_2"				"【狄拉克之海】'分子切割器'的触发次数加4，你将对你的主目标进行5次切割并触发'反曲形态'效果"
+"DOTA_Tooltip_ability_Advanced_Tidebringer_note_lv25_3"				"【动能映射】潮汐使者将附带攻击者200%%全额攻击力的奖励伤害，分裂伤害提升至190%%"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Doom_note_lv5"				"【余烬吞食+】击杀敌人时，提升自身2.6点力量，持续6秒，最多叠加66层"
+"DOTA_Tooltip_ability_Advanced_Doom_note_lv10"			"【熊熊煌燃+】如果敌人的生命值百分比高于66%%，毁灭之火还将对其施加极短缠绕"
+"DOTA_Tooltip_ability_Advanced_Doom_note_lv15"			"【自毁倾向】技能可以开启自动施法：减少自身的伤害减免66%%，以追加66%%的税前伤害转换"
+"DOTA_Tooltip_ability_Advanced_Doom_note_lv20"			"【破灭愿望】击杀敌人时，若自动施法开启：减少所有存活单位的伤害减免2.6%%，并使其获得2.6%%伤害增加，持续6秒"
+"DOTA_Tooltip_ability_Advanced_Doom_note_base_Info" "每秒伤害：+3/级<br/>额外伤害乘数：+0.03/级"
+"DOTA_Tooltip_ability_Advanced_Doom_note_lv25_1"				"【毁灭波涛】膨胀毁灭，令毁灭灼烧的持续时间提高至3秒"
+"DOTA_Tooltip_ability_Advanced_Doom_note_lv25_2"				"【薪王化身】开启自动施法时，毁灭之火将被薪王之火取代，不再灼烧敌人，而是以魔法伤害灼烧自身和队友，被灼烧单位将获得50%%体型增大和80%%总额伤害提升（不显示在面板，作为独立乘区）"
+"DOTA_Tooltip_ability_Advanced_Doom_note_lv25_3"				"【神格同化】毁灭之火将治疗自身，并且获得66%%的治疗增强和66%的受到治疗增强"
+
+//可行的天赋：破灭化身 开启自动施法时，毁灭之火将对自身造成纯粹伤害，对敌人造成魔法伤害。
+
+
+
+"DOTA_Tooltip_ability_Advanced_heat_seeking_missile_note_lv5"				"【集束导弹+】分裂弹头数增加1"
+"DOTA_Tooltip_ability_Advanced_heat_seeking_missile_note_lv10"			"【温压弹+】将继承70%%的伤害"
+"DOTA_Tooltip_ability_Advanced_heat_seeking_missile_note_lv15"			"【二阶求导】'集束导弹'可以分裂两次，第一次分裂的延迟减少至1.1秒，第二次分裂为1.5秒"
+"DOTA_Tooltip_ability_Advanced_heat_seeking_missile_note_lv20"			"【CPU升级】初次分裂的延迟减少至0.5秒，第二次分裂的延迟减少至1秒"
+"DOTA_Tooltip_ability_Advanced_heat_seeking_missile_note_base_Info" "基础伤害：+10/级<br/>智力乘数：+0.1/级"
+"DOTA_Tooltip_ability_Advanced_heat_seeking_missile_note_lv25_1"				"【蜂巢思维】导弹的移动速度将被减少至500，同时可分裂次数提升至3，分裂弹头数加1"
+"DOTA_Tooltip_ability_Advanced_heat_seeking_missile_note_lv25_2"				"【振荡回路】分裂弹头数将被固定在2，但可分裂次数提升至5，分裂间隔减少至0.4秒"
+"DOTA_Tooltip_ability_Advanced_heat_seeking_missile_note_lv25_3"				"【自主防卫系统】当任意单位对你释放指向性技能时，有20%%几率自动触发一次技能效果。这个技能的冷却时间将影响触发几率，从4秒开始，每多1秒冷却时间则增加10%%触发几率（受到概率事件加成影响）"
+
+
+// 可行的天赋：逆向工程  温压冲击波变为收束冲击波
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_summon_immortal_sarcophagus_note_lv5"				"【第二阶段升级】每次释放吸收的能量后，作用范围可以提升10点，但最多提升400"
+"DOTA_Tooltip_ability_Advanced_summon_immortal_sarcophagus_note_lv10"			"【自适应升级系统+】所需召唤次数减少至2"
+"DOTA_Tooltip_ability_Advanced_summon_immortal_sarcophagus_note_lv15"			"【第三阶段升级】攻击力转化伤害立即提升30%%，每提升1次高阶等级还会增加1%%"
+"DOTA_Tooltip_ability_Advanced_summon_immortal_sarcophagus_note_lv20"			"【第四阶段升级】初始继承的攻击力直接增加150点，以初始攻击力为基础（但至多2000），每次成功触发伤害（同时刻视为一次）可以使攻击力提升这部分的5%%"
+"DOTA_Tooltip_ability_Advanced_summon_immortal_sarcophagus_note_base_Info" "攻击力继承：+1.3%%/级<br/>生命值继承：+1.5%%/级"
+"DOTA_Tooltip_ability_Advanced_summon_immortal_sarcophagus_note_lv25_1"				"【第五阶段升级·自我检修系统】石棺每次造成的伤害的20%%转化为对自身治疗效果（视为来自施法者），存续时间增加10秒，同时每次受到大于最大生命值5%%的伤害时视为5%%"
+"DOTA_Tooltip_ability_Advanced_summon_immortal_sarcophagus_note_lv25_2"				"【第五阶段升级·超我与本我】'自适应升级系统'突破最大等级至200"
+"DOTA_Tooltip_ability_Advanced_summon_immortal_sarcophagus_note_lv25_3"				"【第五阶段升级·矩阵统一】每当石棺释放伤害时，将可以联动周围800范围内的其他相同召唤者的石棺，对所有纳入范围内的敌人造成伤害，且每座石棺使伤害提升20%%，这个效果对于每座石棺每2秒只能触发一次(说实话我也不知道这样弄有没有伤害，但感觉挺有意思的)"
+
+
+"DOTA_Tooltip_ability_Advanced_Overload_note_lv5"				"【电流增益】技能伤害大于0时，超负荷造成的伤害获得额外一次技能伤害的影响机会，但仅取15%%的技能伤害"
+"DOTA_Tooltip_ability_Advanced_Overload_note_lv10"			"【无线充电+】触发几率提升至30%%"
+"DOTA_Tooltip_ability_Advanced_Overload_note_lv15"			"【电荷累加+】可以开启自动施法，一次性对同一个目标施加超负荷的技能效果"
+"DOTA_Tooltip_ability_Advanced_Overload_note_lv20"			"【脉冲电流】消耗超负荷后，将减少你最后释放的增加了超负荷层数的可刷新技能的冷却时间，数值等于消耗的超负荷层数*1.5"
+"DOTA_Tooltip_ability_Advanced_Overload_note_base_Info" "基础伤害：+4/级<br/>额外伤害乘数：+0.05/级"
+"DOTA_Tooltip_ability_Advanced_Overload_note_lv25_1"				"【流动脉冲】超负荷触发后还将弹跳触发3次，以2.5秒的延迟，弹跳范围800"
+"DOTA_Tooltip_ability_Advanced_Overload_note_lv25_2"				"【电能复用】电荷的最大累加层数提升至20，同时每次将获取2层，消耗电荷时有30%%几率进行回收"
+"DOTA_Tooltip_ability_Advanced_Overload_note_lv25_3"				"【电流变迁】超负荷的能量点可以使你完全规避一次伤害，并瞬间移动一小段距离，有20%%几率不消耗能量点"
+
+
+
+"DOTA_Tooltip_ability_Advanced_uproar_note_lv5"				"【外表皮硬化+】主动激活状态下将获得3倍效果"
+"DOTA_Tooltip_ability_Advanced_uproar_note_lv10"			"【枷锁+】最大叠加层数提升至9"
+"DOTA_Tooltip_ability_Advanced_uproar_note_lv15"			"【可塑性表皮】获得5点修饰点，你可以对攻防进行配额，每点配额将使 被动攻击力加成增加40%%/获得主动效果5点能量时获得防御加成的6%%作为常驻加成"
+"DOTA_Tooltip_ability_Advanced_uproar_note_lv20"			"【基因飞升】可以开启自动施法，自动施法状态下使用技能可以消耗一个技能点换取2个基因修饰点"
+"DOTA_Tooltip_ability_Advanced_uproar_note_base_Info" "被动额外攻击力：+1.5/级<br/>每层叠加咆哮攻击力加成：+1/级<br/>每层叠加咆哮防御力加成：+0.1/级"
+"DOTA_Tooltip_ability_Advanced_uproar_note_lv25_1"				"【基因链改造】直接获得10点基因修饰点，'基因飞升'每个技能点可以换取3个基因修饰点"
+"DOTA_Tooltip_ability_Advanced_uproar_note_lv25_2"				"【枷锁移除】最大叠加层数提升至80，叠加几率翻倍"
+"DOTA_Tooltip_ability_Advanced_uproar_note_lv25_3"				"【叱咤】开启技能时，每1.25秒以自身为圆心释放出2个弹道，每层叠加效果增加2个弹道，最多12个。弹道命中后对敌人造成全额攻击力*1的物理伤害，并施加5秒破坏效果。"
+
+
+"DOTA_Tooltip_ability_Advanced_pierce_the_veil_note_lv5"				"【死灵共生体+】触发几率提升至35%%"
+"DOTA_Tooltip_ability_Advanced_pierce_the_veil_note_lv10"			"【灵魂载体+】伤害奖励增加至65%%"
+"DOTA_Tooltip_ability_Advanced_pierce_the_veil_note_lv15"			"【绝命】在状态持续期间每攻击10次，就可以使下一次施法的持续时间增加0.3秒，但最多增加6秒"
+"DOTA_Tooltip_ability_Advanced_pierce_the_veil_note_lv20"			"【多维幻影】攻击有5%%几率增加一具灵体，但灵体只持续3秒，且最多触发6次"
+"DOTA_Tooltip_ability_Advanced_pierce_the_veil_note_base_Info" "攻击力加成：+10/级"
+"DOTA_Tooltip_ability_Advanced_pierce_the_veil_note_lv25_1"				"【绝死绝命】状态持续期间获得500点攻击速度加成，在此期间每击杀一名敌人，都可以永久性使攻击力加成提升10点，但最多等于基础攻击力的8倍"
+"DOTA_Tooltip_ability_Advanced_pierce_the_veil_note_lv25_2"				"【永恒死亡】失去虚无效果，但永久化技能效果，【多维幻影】的触发次数将没有上限，但时刻最多存在7具灵体"
+"DOTA_Tooltip_ability_Advanced_pierce_the_veil_note_lv25_3"				"【神枪】仅携带默认天赋的琼英碧灵可以解锁，使其双重攻击的触发几率提升至100%%(永久性，即使你出售了本技能)"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_headshot_note_lv5"				"【远距离狙杀+】每100码距离提高4%%伤害"
+"DOTA_Tooltip_ability_Advanced_headshot_note_lv10"			"【高效处决+】生命值低于50%%即可触发"
+"DOTA_Tooltip_ability_Advanced_headshot_note_lv15"			"【阻尼器】使爆头的减速效果加倍，同时持续时间增加至0.8秒"
+"DOTA_Tooltip_ability_Advanced_headshot_note_lv20"			"【马蜂窝】对一名敌人触发爆头后，对其的攻击的爆头几率永久性提升1%%"
+"DOTA_Tooltip_ability_Advanced_headshot_note_base_Info" "攻击力加成：+8/级"
+"DOTA_Tooltip_ability_Advanced_headshot_note_lv25_1"				"【无偏移系统】每次都精准的将攻击落到上一次的瞄准点，使爆头伤害提高对其爆头触发率*1.4的额外全额攻击力伤害"
+"DOTA_Tooltip_ability_Advanced_headshot_note_lv25_2"				"【死亡猎手】只要在一名敌人在出现后受到10次攻击前将其击杀(无论击杀者是谁)，你就可以获得2点永久性基础攻击力加成，但最多1200"
+"DOTA_Tooltip_ability_Advanced_headshot_note_lv25_3"				"【光脉炮】每隔2秒，可以使一次攻击生成一条直线能量炮，对3000码距离的敌人造成6倍爆头伤害的物理伤害"
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_greater_bash_note_lv5"				"【对冲+】转化比例提升至75%%"
+"DOTA_Tooltip_ability_Advanced_greater_bash_note_lv10"			"【幽冥暴击+】只要双方的移动速度都>=550，即可触发暴击"
+"DOTA_Tooltip_ability_Advanced_greater_bash_note_lv15"			"【大风车】即使技能在冷却中也可以触发额外伤害，但仅有60%%效果"
+"DOTA_Tooltip_ability_Advanced_greater_bash_note_lv20"			"【裂魂】可以开启主动施法效果，在接下来的5秒，技能的触发几率提升10%%且不会进去冷却，有固定30秒使用间隔"
+"DOTA_Tooltip_ability_Advanced_greater_bash_note_base_Info" "转化比例：+2%/级"
+"DOTA_Tooltip_ability_Advanced_greater_bash_note_lv25_1"				"【健身机器】每触发一次巨力重击击退效果，则永久提升3点移动速度，最多获得5000点加成"
+"DOTA_Tooltip_ability_Advanced_greater_bash_note_lv25_2"				"【大力出奇迹】触发‘幽冥暴击’时将以目标为中心造成一次300%%的350范围的溅射效果(仅计算额外伤害)"
+"DOTA_Tooltip_ability_Advanced_greater_bash_note_lv25_3"				"【化为流星】失去'裂魂'效果，攻击不再触发，只要你在0.06秒内移动超过300距离，即可在两点将空洞，对线上的敌人巨力重击效果，伤害加倍，不会有冷却"
+
+
+
+
+
+"DOTA_Tooltip_ability_Advanced_Burning_Spear_note_lv5"				"【薪尽火传+】每层燃烧状态提供的额外持续时间增加0.1秒"
+"DOTA_Tooltip_ability_Advanced_Burning_Spear_note_lv10"			"【熔甲】每层燃烧状态使目标受到的所有伤害增加%damage_enhence%% 。"
+"DOTA_Tooltip_ability_Advanced_Burning_Spear_note_lv15"			"【烈血变迁】燃烧单位死亡时，剩余的燃烧层数将转移到300码内最近的一个敌方单位身上"
+"DOTA_Tooltip_ability_Advanced_Burning_Spear_note_lv20"			"【不死之炎】开启自动施法时，针对燃烧敌人的攻击获得%incoming_down%% 伤害减免，生命值低于20%%时，此伤害减免提高至%incoming_active%% 。"
+"DOTA_Tooltip_ability_Advanced_Burning_Spear_note_base_Info" "额外主属性伤害：+0.02/级"
+
+"DOTA_Tooltip_ability_Advanced_Burning_Spear_note_lv25_1"				"【不灭回赠】燃烧敌人死亡时，你将获得100最大生命值加成"
+"DOTA_Tooltip_ability_Advanced_Burning_Spear_note_lv25_2"				"【疯狂之炎】【不死之炎】的激活条件移除，且伤害减免效果提升至95%%"
+"DOTA_Tooltip_ability_Advanced_Burning_Spear_note_lv25_3"	        "【初始熔炉的火焰】燃烧结束时有50%概率刷新自身的持续时间"
+
+
+
+"DOTA_Tooltip_ability_Advanced_trace_on_note_lv5"				"【传说具现+】圣剑和圣石的具现几率提高至%chance_lvl5%% "
+"DOTA_Tooltip_ability_Advanced_trace_on_note_lv10"			"【灵子流系带】自身将获得%outgoing_lvl10%% 的伤害增加，开启自动施法时，这个效果被转移给最近的友方英雄"
+"DOTA_Tooltip_ability_Advanced_trace_on_note_lv15"			"【快速具现】冷却时间降低至%cd_lvl15%秒 "
+"DOTA_Tooltip_ability_Advanced_trace_on_note_lv20"			"【至臻具现】具现时，有%chance_lvl20%% 几率将神符、圣剑和圣石转变为至臻具现·圣心，它将提供无上的复合效果"
+"DOTA_Tooltip_ability_Advanced_trace_on_note_base_Info" "2级神符几率：-2.1%/级 <br/>3级神符几率：+2.1%/级"
+
+
+
+
+// 5级效果【破灭崩裂】当破灭之王击杀一名敌人时，会触发崩裂效果，使破灭之王的攻击距离增加100点，持续15秒。
+
+// 10级效果【碎骨裂魂】破灭之王的攻击有20%%几率产生200%%的暴击，同时，当暴击产生后还将提高10%%的暴击伤害（线性叠加），独立叠加持续15秒。
+
+// 15级【暗夜绞杀】破灭之王的攻击会在命中后吸取目标生命值，每次吸收攻击力10%%的生命值，视为生命移除，每吸收1000点生命值，破灭之王的攻击伤害都会提高1%，最多可提高50%。
+
+// 20级效果【堕落再生】当破灭之王死亡时，会触发堕落效果，将其复活为堕落破灭之王，增加150%的攻击速度和移动速度，持续10秒，10秒后将消亡。
+
+
+
+
+
+
+
+// 5级效果【火焰冲击】火元素的攻击有5%%的几率造成额外伤害，并使目标陷入灼烧状态，持续3秒，每秒造成相当于30%%攻击力的真实伤害。
+
+// 10级效果【烈焰风暴】火元素的攻击有10%%的几率触发烈焰风暴，对目标造成150%%的伤害，并对目标周围的所有敌人造成100%%的伤害，持续2秒。
+
+// 15级【火焰囚笼】火元素可以召唤一个火焰囚笼，困住一名敌人，固定持续5秒，在这五秒内额外受到200%%的伤害，并减少其30%%的移动速度，
+
+// 20级效果【熔岩冲击】火元素的攻击会在命中目标后产生一个熔岩池，每秒对范围内的敌人造成100点的火焰伤害，持续5秒，并使敌人减速30%。当熔岩池持续时间结束后，会爆炸，对范围内的敌人造成额外的200点火焰伤害。
+
+
+// 5级效果【烈焰爆裂】火召唤元素者召唤出的火元素在攻击敌人时会造成一次额外的爆炸伤害，造成目标周围的单位30%的额外伤害。
+
+// 10级效果【熔岩洪流】火召唤元素者召唤出的火元素在攻击敌人时会有15%的几率造成一次熔岩流动，对目标周围的单位造成100%的额外伤害，持续3秒。
+
+// 15级效果【烈火焚身】火召唤元素者召唤出的火元素在攻击敌人时会有10%的几率造成一次烈焰灼烧，使目标的护甲值减少20%，持续5秒。
+
+// 5级效果【熔岩爆炸】当火召唤元素师击杀一名敌人时，会触发熔岩爆炸效果，使火召唤元素师的攻击距离增加100点，持续15秒。
+
+// 10级效果【烈焰冲击】火召唤元素师的攻击有20%%几率产生200%%的暴击，同时，当暴击产生后还将提高10%%的暴击伤害（线性叠加），独立叠加持续15秒。
+
+// 15级【灼热灭杀】火召唤元素师的攻击会在命中后吸取目标生命值，每次吸收攻击力10%%的生命值，视为生命移除，每吸收1000点生命值，火召唤元素师的攻击伤害都会提高1%，最多可提高50%。
+
+
+// "DOTA_Tooltip_ability_Advanced_x_note_lv5"				"【+】"
+// "DOTA_Tooltip_ability_Advanced_x_note_lv10"			"【+】"
+// "DOTA_Tooltip_ability_Advanced_x_note_lv15"			"【】"
+// "DOTA_Tooltip_ability_Advanced_x_note_lv20"			"【】"
+// "DOTA_Tooltip_ability_Advanced_x_note_base_Info" "：+80/级<br/>：+0.2/级"
+// "DOTA_Tooltip_ability_Advanced_x_note_lv25_1"				"【】"
+// "DOTA_Tooltip_ability_Advanced_x_note_lv25_2"				"【】"
+// "DOTA_Tooltip_ability_Advanced_x_note_lv25_3"				"【】"
+
+
+
+
+
+"DOTA_Tooltip_ability_Info"   "注意：如果面板没有更新，尝试把鼠标放到其他技能图标上在移回来，就可以刷新面板了"
+
+"DOTA_Tooltip_ability_base"   "每提升一个等级获得以下提升级：<br/>{s:InfoBase}{s:Infolv5}{s:Infolv10}{s:Infolv15}{s:Infolv20}"
+"DOTA_Tooltip_ability_next"   "{s:Infolv25_1}{s:Infolv25_2}{s:Infolv25_3}"
+
+
+"DOTA_Tooltip_ability_Unlock"   "解锁"
+
+
+"DOTA_Tooltip_ability_None"   "暂无奥义"
+"DOTA_Tooltip_ability_First"   "第一奥义："
+"DOTA_Tooltip_ability_Second"   "第二奥义："
+"DOTA_Tooltip_ability_Third"   "第三奥义："

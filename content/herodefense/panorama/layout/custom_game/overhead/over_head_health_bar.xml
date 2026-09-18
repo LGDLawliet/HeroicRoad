@@ -1,0 +1,20 @@
+<root>
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/overhead/overhead.css" />
+	</styles>
+
+	<script>
+
+    </script>
+	<Panel class="health_bar_root" hittest="false">
+		<Panel class="EliteHealthBar">
+            <Image id="EliteIcon" />
+            <Label id="EliteName" />
+            <ProgressBar id="EliteHpBar" min="0" />
+            <ProgressBar id="EliteHpBarWhite" min="0" />
+            
+        </Panel>
+	</Panel>
+</root>
+
+ 

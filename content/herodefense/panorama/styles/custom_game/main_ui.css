@@ -1,0 +1,15 @@
+#AbilityDescriptionContainer Label.Active.Header{
+    background-image: url("s2r://panorama/images/hud/item_tooltip_active_psd.vtex");
+}
+
+.IsItem #AbilityDescriptionContainer Label.Active{
+    background-color: gradient( linear, 0% 0%, 0% 100%, from( #dbdbdb ), to( #bbbbbb ) );
+    color: #f0f0f0;
+    box-shadow: rgb(0, 0, 0) 0px 0px 20px 0px;
+}
+
+
+.MainUI_BackGround{
+    background-image:url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex");
+    box-shadow: rgb(0, 0, 0) 0px 0px 50px 0px;
+}

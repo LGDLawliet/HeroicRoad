@@ -1,0 +1,84 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero_fluid.vfx"
+
+	//---- Reflection cube map ----
+	F_REFLECT_CUBE_MAP 1
+
+	//---- Base Settings ----
+	g_flEdgeErosion "0.275"
+	g_flEdgeSharpness "3.0001"
+	g_flRimLightSharpness "2.500"
+	g_flRimLightStrength "11.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vMinLightColor "[0.874510 0.843137 0.843137 0.000000]"
+	g_vRimLightColor "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "materials/models/heroes/visage/visage_familiar_glow_detail.psd"
+	TextureTranslucency "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Displacement ----
+	g_flInflateStrength "2.740"
+	TextureDisplacementMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Masks ----
+	g_flSpecularBloom "1.000"
+	g_flSpecularIntensity "1.000"
+	TextureBloom "[0.753000 0.753000 0.753000 0.000000]"
+	TextureReflectance "[0.840000 0.840000 0.840000 0.000000]"
+	TextureSelfIllumMask "[0.751000 0.751000 0.751000 0.000000]"
+
+	//---- Reflection ----
+	g_flCubeMapPowerReflect "1.000"
+	g_flCubeMapScalarReflect "14.575"
+	g_flReflectBumpStrength "1.729"
+	g_flReflectRimPower "14.368"
+	g_flReflectRimStrength "40.230"
+	TextureCubeMapReflect "materials/models/heroes/primal_beast/primal_cube.psd"
+
+	//---- Spiral Effect ----
+	g_flSpiralAlphaMax "1.000"
+	g_flSpiralAlphaMin "0.234"
+	g_flSpiralBumpStrength "4.000"
+	g_flSpiralDisplacementStrength "0.358"
+	g_flSpiralInflateScale "0.000"
+	g_flSpiralInflateSpeed "0.000"
+	g_flSpiralInflateVariance "17.570"
+	g_flSpiralOverlaySpeedMultiple "3.476"
+	g_vSpiralDisplacementOffset "[0.100 0.100 0.000]"
+	g_vSpiralDisplacementSpeed "1.000"
+	g_vSpiralUVScale "[10.000 10.000]"
+	g_vSpiralUVSpeed "[0.248 0.000]"
+	TextureSpiralAlpha "[0.342000 0.342000 0.342000 0.000000]"
+	TextureSpiralNormal "materials/fluid_test/fluid_test_normal.png"
+	TextureSpiralOverlayAlpha "[0.147000 0.147000 0.147000 0.000000]"
+	TextureSpiralOverlayColor "materials/models/heroes/tiny/tiny_glow_detail.psd"
+
+	Attributes
+	{
+		PreviewModel "models/rebuild/dawnbreaker/weapon_judgment_of_light/single_model_judgment_of_light.vmdl"
+	}
+
+
+	VariableState
+	{
+		"Base Settings"
+		{
+		}
+		"Displacement"
+		{
+		}
+		"Masks"
+		{
+		}
+		"Reflection"
+		{
+		}
+		"Spiral Effect"
+		{
+		}
+	}
+}

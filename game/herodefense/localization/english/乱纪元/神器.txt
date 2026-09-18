@@ -1,0 +1,463 @@
+
+"GetRune_info1"  "{s:player_name} has unearthed a - <font color=\"#8bb6ff\">Rare rune</font> as a team reward by <font color=\"#c092fd\">{s:locstring_value}</font>"
+"GetRune_info2"  "{s:player_name} has unearthed a - <font color=\"#c092fd\">Mythical rune</font> as a team reward by <font color=\"#c092fd\">{s:locstring_value}</font>"
+"GetRune_info3"  "{s:player_name} has unearthed a - <font color=\"#f0ad4e\">Immortal rune</font> as a team reward by <font color=\"#c092fd\">{s:locstring_value}</font>"
+
+
+
+
+
+"New_Artifact_Init" "{s:player_name} has chosen the artifact - <font color=\"#c092fd\">{s:locstring_value}</font>"
+
+
+"HUD_Alert_Artifact_1" "<font color='%sColor1'>%sPlayer1</font> have the artifact: <font color='%sColor2'>%sArtifactName</font>"
+
+
+"taken_from_tomorrow"   "Taken From Tomorrow"
+"taken_from_tomorrow_info"   "Instant up your <value1> levels"
+
+
+
+
+"blacksmith_craftsmanship"   "Blacksmith Craftsmanship"
+"blacksmith_craftsmanship_info"   "Consider your shop level as a shop with an additional <value1> levels (can exceed the maximum level limit)"
+
+
+
+
+
+
+"arcane_mark"   "Arcane Mark"
+"arcane_mark_info"   "All evocation spells' efficiency increased by <value1>% (value with ☆)."
+
+
+
+
+"thunder"   "Thunder"
+"thunder_info"   "Zeus's artifact: When dealing lightning damage, if the current cooldown time is more than <value2> seconds, there is a <value3>% chance to reduce its cooldown by <value4>%, triggering a maximum of <value5> times per second."
+
+
+
+"antiaircraft_gun"   "Antiaircraft Gun"
+"antiaircraft_gun_info"   "For ranged attacker only, your attack range is increased by <value1>. For every <value2> distance away from the attack target, your final attack damage is increased by <value3>%."
+
+
+
+
+
+"bullshit"   "Bullshit To Allied"
+"bullshit_info"   "Any information you output through the chat window can motivate your teammates, granting them <value1> points of all attributes bonus, independently stacking, lasting <value2> seconds, with a maximum of <value3> effective stacks. However, be aware that if you fail to successfully renew the buff, your teammates will permanently deduct <value4> points of all attributes. You can avoid the impact of teammates' Bullshit by enabling 'Help Mute'. After fail on a target <value5> times, you can no longer affect them."
+
+
+
+
+
+"HUD_Bullshit_info"  "{s:player_name} is about to start motivating you with some Bullshit!"
+
+
+"DOTA_Tooltip_modifier_bullshit_debuff"                   "Bullshit To Allied"
+"DOTA_Tooltip_modifier_bullshit_debuff_Description"       "All attributes have been reduced" 
+
+"DOTA_Tooltip_modifier_bullshit_buff"                   "Bullshit To Allied"
+"DOTA_Tooltip_modifier_bullshit_buff_Description"       "You were motivated by your teammates' Bullshit" 
+
+
+
+"bullshit2"   "Bullshit Man"
+"bullshit2_info"   "Any information you output through the chat window can weaken all enemies within a range of <value6>, causing them to receive a <value1>% damage reduction, independently stacking, lasting <value2> seconds, with a maximum of <value3> effective stacks. However, be aware that if you don't output any information within <value4> seconds, your attributes will be deducted by <value5>."
+
+
+
+
+
+"HUD_Bullshit2_info"  "{s:player_name} is about to start using Bullshit to intimidate the enemy!"
+
+"HUD_Bullshit2_info2"  "{s:player_name} is cursed for not talking Bullshit!"
+
+"DOTA_Tooltip_modifier_bullshit2"                   "Bullshit Man"
+"DOTA_Tooltip_modifier_bullshit2_Description"       "You must keep outputting Bullshit" 
+
+
+"DOTA_Tooltip_modifier_bullshit2_debuff"                   "Bullshit Man"
+"DOTA_Tooltip_modifier_bullshit2_debuff_Description"       "All attributes have been reduced" 
+
+
+"DOTA_Tooltip_modifier_bullshit2_target_debuff"                   "Bullshit Man"
+"DOTA_Tooltip_modifier_bullshit2_target_debuff_Description"       "outgoing damage has been reduced" 
+
+
+
+
+"artifact_oil"   "Greasy"
+"artifact_oil_info"   "When any fire attribute ability is cast within a range of <distance> around you, it triggers an explosion. You deal <health_damage>% fire magical damage to enemies within a radius of <radius> based on your current health. This effect has a cooldown of <cooldown> seconds"
+
+
+
+"artifact_ashe"   "Ashe"
+"artifact_ashe_info"   "When a fire chaotic ability with a cooldown greater than <cooldown_require> seconds is cast, it creates an explosion at its own coordinates or the target's coordinates, within a radius of <radius>, dealing damage based on the level of chaotic ability x <damage_index> x your primary attribute. If you kill any enemy within the next <duration> seconds, your fire damage will be permanently increased by <bonus_damage>%. This effect has a cooldown of <cooldown> seconds."
+
+
+
+
+"DOTA_Tooltip_modifier_artifact_ashe"                   "Ashe"
+"DOTA_Tooltip_modifier_artifact_ashe_Description"       "Fire attribute damage increased by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+"pharmacist"   "Pharmacist"
+"pharmacist_info"   "You receive a <cost_reduction>% discount on potion purchases. However, the potions you use have an additional <bonus_gain>% effect. Note that this effect does not apply to ability-related types, such as haste potions."
+
+
+"tactical_delay"   "Tactical Delay"
+"tactical_delay_info"   "The initial time for the failure countdown is increased by <delay> seconds (if multiple effects are present simultaneously, only <bonus_gain>% will take effect)."
+
+
+
+"soul_devouring"   "Soul Devouring"
+"soul_devouring_info"   "With each unit you kill, the damage dealt to that type of unit can be increased by <bonus_damage>%, up to <bonus_max>%. The effect is multiplied by <boss_gain> for elite units."
+
+
+
+"best_backup"   "Best Backup"
+"best_backup_info"   "For this match, if any of your teammates who played with you are still present in the next Chaostic Era mode, your initial attributes will increased by <bonus_attribute>"
+
+
+"DOTA_Tooltip_modifier_best_backup_bonus"                   "Best Backup"
+"DOTA_Tooltip_modifier_best_backup_bonus_Description"       "All attributes increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"HUD_best_backup_info"  "{s:player_name} considers you all his best Backup. Let's fight together in the next battle."
+"HUD_best_backup_info2"  "{s:player_name} has encountered his best Backup, so the initial attributes have received a boost."
+
+
+
+
+"grinding_technique"   "Grinding Technique"
+"grinding_technique_info"   "In each round settlement, get <armor_ignore> armor penetration effect. However, every <interval> seconds, <lose> points are lost, resetting at the next round settlement (every 2 minutes)."
+
+
+
+
+"bolt_of_damocles"   "Bolt Of Damocles"
+"bolt_of_damocles_info"   "When entering the monster count alert line, immediately trigger the Bolt Of Damocles, and enemies within your <radius> radius will be <stun_duration> seconds, dealing pure damage equal to target's maximum health x<health_damage>%, after triggering once, you need to wait <cooldown_time> minutes to complete the cooldown. If multiple players have this effect, it will take at least <interval> seconds after each trigger to trigger the next one."
+
+
+
+
+
+"DOTA_Tooltip_modifier_bolt_of_damocles"                   "Bolt Of Damocles"
+
+"artifact_god_strength"   "God Strength"
+"artifact_god_strength_info"   "Radiate your strength; Friendly heroes within a radius of <radius> gain an attack damage bonus equal to <bonus_damage>% of your strength, up to a maximum of <bonus_max>."
+
+
+
+
+"DOTA_Tooltip_modifier_artifact_god_strength_buff"                   "God Strength"
+"DOTA_Tooltip_modifier_artifact_god_strength_buff_Description"       "Attack damage increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"secret_excavation"   "Secret Excavation"
+"secret_excavation_info"   "Get a random Aghanim's Core, with a low chance to obtain a team rune reward"
+
+
+
+
+
+
+"avernus_mist"   "Avernus Mist"
+"avernus_mist_info"   "At the beginning of each round (2 minutes), all allied heroes gain a Mist Shield that can absorb damage equivalent to <shield_index>% of your maximum health."
+
+
+
+
+"DOTA_Tooltip_modifier_avernus_mist_shield"                   "Avernus Mist"
+"DOTA_Tooltip_modifier_avernus_mist_shield_Description"       "Block damage" 
+
+
+
+
+"defending_the_weak"   "Defending The Weak"
+"defending_the_weak_info"   "Every <interval> seconds, grant the ally within a radius of <radius> with the minimum all attributes. The target will get <bonus_armor> armor  bonus and <bonus_attribute> all attributes bonus, last <duration> seconds. This effect can stack."
+
+
+
+
+
+"DOTA_Tooltip_modifier_defending_the_weak_buff"                   "Be Defended"
+"DOTA_Tooltip_modifier_defending_the_weak_buff_Description"       "Armor increased by %dMODIFIER_PROPERTY_TOOLTIP%, all attributes increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_modifier_defending_the_weak"                   "Defending The Weak"
+
+
+
+
+
+"curse_of_decline"   "Curse Of Decline"
+"curse_of_decline_info"   "The health of elite-level enemies will be reduced by <health_reduction>% (multiple reductions coexist in subtraction)."
+
+
+
+"iron_tree_branches_guard"   "Iron Tree Branches Guard"
+"iron_tree_branches_guard_info"   "Every time the shop refreshes, an Ironwood Branches will be available for a price of <cost>. Purchasing it will permanently increases your all attributes by <bonus_attribute>."
+
+
+
+
+
+
+"divine_intervention"   "Divine Intervention"
+"divine_intervention_info"   "Get <damage_reduction_active>% damage reduction, lasts for <duration> seconds, only <damage_reduction>% reduction effect when expire."
+
+
+
+"DOTA_Tooltip_modifier_divine_intervention"                   "Divine Intervention"
+"DOTA_Tooltip_modifier_divine_intervention_Description"       "Incoming damage reduced by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+
+
+"power_stealing"   "Power Stealing"
+"power_stealing_info"   "When a monster is spawned, you can steal it's attack damage, reducing the target's base attack damage (equivalent to <bonus_damage>% of your total attack damage), but it won't exceed <reduction_max>% of your base attack damage. Convert <bonus_rate>% of the reduced value into temporary attack damage bonus, independently stacking and lasting for <duration> seconds."
+
+
+
+
+"DOTA_Tooltip_modifier_power_stealing_buff"                   "Power Stealing"
+"DOTA_Tooltip_modifier_power_stealing_buff_Description"       "Attack damage increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+"aghanims_sanctum"   "Aghanims Sanctum"
+"aghanims_sanctum_info"   "Immediately increase the advanced level of your Advanced Ability by <level_upgrade> (but not exceeding level 25), and take the current level <bonus_level> when calculating the base value bonus."
+
+
+
+
+"at_any_cost"   "At Any Cost"
+"at_any_cost_info"   "You take an additional <bonus_incoming_damage>% damage, but your fire attribute damage is increased by <bonus_flame_damage>%"
+
+
+
+"artifact_prescient"   "Prescient"
+"artifact_prescient_info"   "Immediately gain <count> chances to draw abilities."
+
+
+"payday"   "Payday"
+"payday_info"   "Your gold is multiplied by the current <bonus> times."
+
+
+
+
+"demon_revelation"   "Demon Revelation"
+"demon_revelation_info"   "Gain <count> chances to choose artifacts, but all attributes reduced by <attribute_reduction>."
+
+
+
+
+"DOTA_Tooltip_modifier_demon_revelation"                   "Demon Revelation"
+"DOTA_Tooltip_modifier_demon_revelation_Description"       "All attribute reduced by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+"cut_the_crap"   "Cut The Crap"
+"cut_the_crap_info"   "Regardless of your shop level, there is at least <level8_chance>% chance to draw a Level 8 chaotic ability and at least <level9_chance>% chance to draw a Level 9 chaotic ability."
+
+
+
+"the_omexe_arena"   "The Omexe Arena"
+"the_omexe_arena_info"   "Every <interval> seconds, gain <bonus_attribute> bonus all attributes. The bonus resets upon death."
+
+
+
+"DOTA_Tooltip_modifier_the_omexe_arena"                   "The Omexe Arena"
+"DOTA_Tooltip_modifier_the_omexe_arena_Description"       "All attribute increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+"artifact_challenger"   "Challenger"
+"artifact_challenger_info"   "You deal more <bonus_damage>% damage to elite-level enemies, but reduced <damage_reduction>% damage to other enemies."
+
+"smash_armor"   "Smash Armor"
+"smash_armor_info"   "Acquire a modifier that can specify a monster's armor reduced by <armor_reduction> and Magic Resistance reduced by <magical_reduction>%."
+
+
+
+"HUD_smash_armor_Info" "Armor reduced by <armor_reduction>, Magic Resistance reduced by <magical_reduction>%"
+
+
+"DOTA_Tooltip_modifier_smash_armor_debuff"                   "Smash Armor"
+"DOTA_Tooltip_modifier_smash_armor_debuff_Description"       "armor reduced by %dMODIFIER_PROPERTY_TOOLTIP%, Magic Resistance reduced by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+
+
+
+
+
+
+
+
+
+"revtel_investments"   "Revtel Investments"
+"revtel_investments_info"   "Acquire <count> modifiers that can specify a monster, increasing its bounty by <bonus_bounty>%."
+"HUD_revtel_investments_Info" "Bounty increased by <bonus_bounty>% (will be reflected in the preview panel after taking effect)."
+
+
+
+
+"DOTA_Tooltip_modifier_revtel_investments"                   "Revtel Investments"
+"DOTA_Tooltip_modifier_revtel_investments_Description"       "Remaining modifiers" 
+
+
+
+"admission_notice"   "Admission Notice"
+"admission_notice_info"   "Your attribute damage is reduced by <damage_reduction%> this match, but after completing the game, it permanently increases your attribute damage by <bonus_damage>% (must survival at least <wave_require> rounds), accumulating up to <bonus_damage_max>%. If obtained this artifact after the bonus reach max value in subsequent games, it transforms into an increase of <bonus_damage_2>% in attribute damage for the current match"
+
+
+
+
+
+"DOTA_Tooltip_modifier_admission_notice"                   "Admission Notice"
+"DOTA_Tooltip_modifier_admission_notice_Description"       "Attribute reduced by%dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+"DOTA_Tooltip_modifier_admission_notice_buff"                   "Learning Outcomes"
+"DOTA_Tooltip_modifier_admission_notice_buff_Description"       "Effect from the artifact [Admission Notice]: Attribute damage increased by %dMODIFIER_PROPERTY_TOOLTIP%%%." 
+
+
+
+
+
+
+"personal_tutor"   "Personal Tutor"
+"personal_tutor_info"   "Choose a random teammate as your mentor. Playing Chaotic Era mode with this teammate for the next <count> rounds will grant a <bonus_rune>% rune progress generate bonus effect. Reactivating this artifact will choose a new mentor, resetting the count."
+
+
+
+
+
+"HUD_personal_tutor_info"  "{s:player_name} has chosen {s:player_name2} as his mentor."
+"HUD_personal_tutor_info2"  "{s:player_name}encountered his mentor, providing a rune progress generate bonus for this match."
+
+"DOTA_Tooltip_modifier_personal_tutor"                   "Personal Tutor"
+"DOTA_Tooltip_modifier_personal_tutor_Description"       "rune progress generate bonus increased by %dMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+"forgotten_individuals"   "Forgotten Individuals"
+"forgotten_individuals_info"   "Acquire <count> modifiers to specify a monster, causing it to be forgotten for the next <duration> seconds. It won't be spawned, won't yield bounty, but still contributes to rune progress"
+
+
+
+
+"HUD_forgotten_individuals_Info" "Forgotten for <duration> seconds, only contributing to rune progress and won't be spawned."
+
+"DOTA_Tooltip_modifier_forgotten_individuals"                   "Forgotten Individuals"
+"DOTA_Tooltip_modifier_forgotten_individuals_Description"       "Remaining modifiers" 
+
+
+"bloodthirsty_sword"   "Bloodthirsty Sword"
+"bloodthirsty_sword_info"   "Lose lifesteal effect. Gain <bonus_attribute> points of all attributes for each enemy killed. Upon reaching a total bonus of <bonus_max>. Restore the lifesteal effect after reaching the maximum value."
+
+"DOTA_Tooltip_modifier_bloodthirsty_sword"                   "Bloodthirsty Sword"
+"DOTA_Tooltip_modifier_bloodthirsty_sword_Description"       "All attributes increased by %dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+
+
+
+
+"excessive_consumption"   "Excessive Consumption"
+"excessive_consumption_info"   "Immediately get <bonus_gold> gold but incur a debt of <gold_rate>%. In the next Chaos Epoch game, repay the debt every <interval> seconds at a rate of <gold_reduction>% of your current gold until all debts are cleared."
+
+
+
+
+
+"DOTA_Tooltip_modifier_excessive_consumption_debuff"                   "Excessive Consumption"
+"DOTA_Tooltip_modifier_excessive_consumption_debuff_Description"       "Have outstanding debts" 
+
+
+
+
+
+"golden_ticket"   "Golden Ticket"
+"golden_ticket_info"   "The next <count> items you purchase will have a <gold_reduction>% discount(only for items, excluding potions)."
+
+
+"DOTA_Tooltip_modifier_golden_ticket"                   "Golden Ticket"
+"DOTA_Tooltip_modifier_golden_ticket_Description"       "There's still a chance for discount." 
+
+
+
+
+"gift_of_the_grand_mage"   "Gift of the Grand Mage"
+"gift_of_the_grand_mage_info"   "Get <count> of each Rubick'S Cube, with a chance of receiving a team rune reward"
+
+
+
+
+"out_of_nothing"   "Out of Nothing"
+"out_of_nothing_info"   "Gain <count1> opportunities to choose artifacts, <count2> opportunities to choose abilitiy, and <count3> opportunities to Evolute ability."
+
+
+
+
+"glass_cannon"   "Charging Glass Cannon"  
+"glass_cannon_info"   "Gain <stack> stacks of 'Glass Artifact,' each stack increasing both damage dealt and damage taken by <bonus_damage>% [×].<br>Lose <stack_down> stacks of 'Glass Artifact' upon death."  
+"DOTA_Tooltip_modifier_glass_cannon"                   "Glass Artifact"  
+"DOTA_Tooltip_modifier_glass_cannon_Description"       "Damage dealt and damage taken increased by %dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+
+
+
+"roller_compacted"   "Roller Compacted"
+"roller_compacted_info"   "For non-elite enemies, you deal <bonus_damage>% more damage to them."
+
+
+
+"fat_rat"   "Fat Rat"
+"fat_rat_info"   "Gold bounty increased by <bonus_gold>%"
+
+
+
+"domination_helmet"   "Domination Helmet"
+"domination_helmet_info"   "Increases summoning Strength by <summon_gain>%, and the attacks of creatures you summon will have <armor_ignore> armor ignore effect."
+
+
+"super_dark"   "Dark Night Blessing"
+"super_dark_info"   "Total damage increase <outgoing>%, while additional total dark attribute damage you deal is increased by <dark_damage>% [×]"
+
+"super_attack"   "Village Hero's Sword"
+"super_attack_info"   "Base attack damage increased by <bonus_attack> points, and gain <bonus_attack_pct>% of full attack damage [+]"
+
+
+
+
+
+"occult_epiphany"   "Occult Epiphany"  
+"occult_epiphany_info"   "Restores <value2> mana after casting a skill with cooldown longer than <value1> seconds."
+
+"artifact_frozen"   "Frozen Artifact"  
+"artifact_frozen_info"   "Each ice attribute skill grants you <value1>% maximum mana regeneration and <value2>% cooldown reduction."
+
+"super_ice"   "Crystal Scepter of Ultimate Frost"  
+"super_ice_info"   "Total ice damage increased by <ice_outgoing>%, increases to <ice_outgoing_plus>% [×] when enemy movement speed is below <line>."
+
+"elite_resist"   "Resilient Counter"  
+"elite_resist_info"   "Reduces damage taken from elites by <incoming>%, and grants <attack>% of your full attack damage for <duration> seconds after taking damage from them."
+
+"storm_comes"   "The Storm Comes"  
+"storm_comes_info"   "Gains <stack> stacks of 'The Storm Comes' per second, up to <stack_max> stacks. Each stack increases your next lightning damage by <outgoing>% [×], and the bonus lasts for <duration> seconds."  
+"DOTA_Tooltip_modifier_storm_comes"                   "The Storm Comes"  
+"DOTA_Tooltip_modifier_storm_comes_Description"       "Increases your next lightning damage"
+
+"allseeing_oness_favor"   "The Allseeing One's Favor"  
+"allseeing_oness_favor_info"   "Increases health regeneration by <bonus_health_regen>%, and grants a modifier: each monster in the queue suffers magical holy damage equal to <damage_index>% of your health regeneration per second."  
+"HUD_allseeing_oness_favor_Info" "Suffers magical holy damage equal to <damage_index>% of your health regeneration per second upon being spawned"  
+"DOTA_Tooltip_modifier_allseeing_oness_favor_debuff"                   "The Allseeing One's Favor"  
+"DOTA_Tooltip_modifier_allseeing_oness_favor_debuff_Description"       "Taking continuous damage"
+
+"mygo_power"   "MyGO!! Power"  
+"mygo_power_info"   "Increases all attributes by <atb>, health by <hp>, mana by <mp>, attack damage by <attack>, and spell amplification by <spell>%. For each skill you own other than 'Haste', all effects are reduced by <stack>%"
+
+"chaos_lucky"   "Chaos Luck"
+"chaos_lucky_info"   "Every <interval> seconds, your next damage against an enemy will be randomly amplified between <outgoing_min>% and <outgoing_max>% [×]. If the random result is negative, it will immediately refresh its trigger interval."

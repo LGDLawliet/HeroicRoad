@@ -1,0 +1,135 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nBehaviorVersion = 12
+	m_nMaxParticles = 0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+			m_drivers = 
+			[
+				{
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 1
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 2
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 1.0, 0.0, 0.0 ]
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 61
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 3
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 62
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_entityName = "self"
+				},
+				{
+					m_iControlPoint = 60
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 255.0, 255.0, 255.0 ]
+					m_entityName = "self"
+				},
+			]
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_StopAfterCPDuration"
+			m_flDuration = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_nMapType = "PF_MAP_TYPE_DIRECT"
+				m_flLiteralValue = 8.0
+				m_nControlPoint = 0
+				m_nScalarAttribute = 3
+				m_nVectorAttribute = 6
+				m_nVectorComponent = 0
+				m_flRandomMin = 0.0
+				m_flRandomMax = 1.0
+				m_nRandomMode = "PF_RANDOM_MODE_CONSTANT"
+				m_flLOD0 = 0.0
+				m_flLOD1 = 0.0
+				m_flLOD2 = 0.0
+				m_flLOD3 = 0.0
+				m_nInputMode = "PF_INPUT_MODE_CLAMPED"
+				m_flMultFactor = 1.0
+				m_flInput0 = 0.0
+				m_flInput1 = 1.0
+				m_flOutput0 = 0.0
+				m_flOutput1 = 1.0
+				m_nBiasType = "PF_BIAS_TYPE_STANDARD"
+				m_flBiasParameter = 0.0
+				m_Curve = 
+				{
+					m_spline = [  ]
+					m_tangents = [  ]
+					m_vDomainMins = [ 0.0, 0.0 ]
+					m_vDomainMaxs = [ 0.0, 0.0 ]
+				}
+			}
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_HSVShiftToCP"
+			m_DefaultHSVColor = [ 255, 255, 0 ]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_blob_projection.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_aura_projection.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_aura_corrupt.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_aura_burst.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_aura_smoke.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_aura_border_suckin.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_aura_burst_ringdark.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_aura_flash.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_aura_rays.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_aoe_ring.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_ring_trail.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_ring_trail_03.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/hunter_in_the_night/unlock_effect_hands.vpcf"
+		},
+	]
+}

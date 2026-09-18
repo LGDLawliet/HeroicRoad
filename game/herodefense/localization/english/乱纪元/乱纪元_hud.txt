@@ -1,0 +1,351 @@
+// Chaotic era
+"DOTA_CUSTOM_Fail_ChaoticSkillbooks_gain"       "Skillbooks Gain Failed"
+
+"DOTA_HUD_chaoticEraSpellslibraryMenuwindowTitle"                   "Chaotic Ability Atlas"
+"DOTA_HUD_playerArtifactTitle"                   "Relic Atlas"
+
+"DOTA_Tooltip_modifier_chaotic_buff"    "Chaos Era Attributes"  
+"DOTA_Tooltip_modifier_chaotic_buff_Description"    "Chaos Era mode attributes:<br><font color='#F0FFFF'>·1 primary attribute = 0.07%% spell amplification, 0.09%% for intelligence heroes<br>·1 intelligence = 0.03%% cooldown reduction, up to a maximum of 30%%</font>"
+"HUD_Chaotic_era_detail" "Detail"
+
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025"    "Celebration"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_Description"    "Find the celebration circles nearby!"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_1_buff"    "Red Celebration Blessing"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_1_buff_Description"    "·Total damage dealt increased by 40%% [×]<br>·Gain 20%% Attack Damage<br>·Gain 30%% Spell Amplification<br>·Gain 30%% Summon Amplification"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_2_buff"    "Blue Celebration Blessing"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_2_buff_Description"    "·Refreshable ability cooldown speed increased by 300%%<br>·Non-refreshable ability cooldown speed increased by 100%%"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_3_buff"    "Green Celebration Blessing"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_3_buff_Description"    "·Restore 1%% of maximum Health and Mana every 0.5 seconds<br>·Gain 30%% Damage Reduction<br>·Gain 50%% Mastery"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_gold_buff"    "Golden Celebration Blessing"
+"DOTA_Tooltip_modifier_chinese_event_guoqing_2025_gold_buff_Description"    "·Gain 12 gold every 0.5 seconds<br>·Gain additional 30 gold whenever any enemy dies"
+
+"HUD_Chaotic_era_title" "Chaotic Era"
+"HUD_Chaotic_era_spell_type_1" "<font color=\"#bcefff\">General Ability</font>"
+"HUD_Chaotic_era_spell_type_1_info" "General Abilities refer to the abilities that can be learned in the ability shop during general mode and can be evolved."
+"HUD_Chaotic_era_spell_type_2" "<font color=\"#92f8e5\">Chaotic Ability</font>"
+"HUD_Chaotic_era_spell_type_2_info" "Chaotic Ability will only appear in Chaotic Era mode, with fixed levels and cannot be upgraded. However, you can enhance/change the ability effects by rune."
+
+"DOTA_Tooltip_modifier_chaotic_players_1" "Power Beyond"
+"DOTA_Tooltip_modifier_chaotic_players_1_Description" "·220%% increased damage [×]<br>·Gain 5%% lifesteal<br>·Receive a weak dispel every 10 seconds<br>·Gain 3 revival chances"
+"DOTA_Tooltip_modifier_chaotic_players_2" "Realm of Twin Shadows"
+"DOTA_Tooltip_modifier_chaotic_players_2_Description" "·90%% increased damage [×]<br>·Gain 3%% lifesteal<br>·Receive a weak dispel every 15 seconds<br>·Gain 2 revival chances"
+"DOTA_Tooltip_modifier_chaotic_players_3" "Legendary Three Ninja"
+"DOTA_Tooltip_modifier_chaotic_players_3_Description" "·50%% increased damage [×]<br>·Gain 2%% lifesteal<br>·Receive a weak dispel every 20 seconds<br>·Gain 1 revival chance"
+"DOTA_Tooltip_modifier_chaotic_players_4" "Mahjong Four Players"
+"DOTA_Tooltip_modifier_chaotic_players_4_Description" "·10%% increased damage [×]<br>·Gain 1.5%% lifesteal"
+"DOTA_Tooltip_modifier_chaotic_players_5" "United Five Comrades"
+"DOTA_Tooltip_modifier_chaotic_players_5_Description" "·Gain 1%% lifesteal<br>"
+
+
+"HUD_LERAN_SPELL_FAIL_Chaotic_Era"  "In the Chaotic Era mode, abilities cannot be learned in the ability shop."
+
+"HUD_Chaotic_era_spell_level_info"  "<font color=\"#92f8e5\">Spell Class:</font> Level {s:level} {s:spell_type}"
+"Market_Core_buy_failed_in_chaotic_era"                   "In the Chaotic Era mode, cores cannot be purchased directly."
+
+
+"HUD_Spell_level_1"  "1st"
+"HUD_Spell_level_2"  "2nd"
+"HUD_Spell_level_3"  "3rd"
+"HUD_Spell_level_4"  "4th"
+"HUD_Spell_level_5"  "5th"
+"HUD_Spell_level_6"  "6th"
+"HUD_Spell_level_7"  "7th"
+"HUD_Spell_level_8"  "8th"
+"HUD_Spell_level_9"  "9th"
+"HUD_Spell_level_10"  "10th"
+"HUD_Spell_level_11"  "Super Class"
+"HUD_chaotic_item"   "Chaotic Item"
+// 武技 Martial Arts
+"EraListSubdivision_checking_Skill"  "Martial Arts"
+"EraListSubdivision_checking_Spell"  "Spell"
+
+
+"EraListSubdivision_checking_active"  "Active"
+"EraListSubdivision_checking_passive"  "Passive"
+"EraListSubdivision_checking_aoe"  "AOE"
+
+
+// 魔法细分
+
+
+"EraListSubdivision_checking_Abjuration"  "Abjuration"
+"EraListSubdivision_checking_Conjuration"  "Conjuration"
+"EraListSubdivision_checking_Divination"  "Divination"
+"EraListSubdivision_checking_Enchantment"  "Enchantment"
+"EraListSubdivision_checking_Evocation"  "Evocation"
+"EraListSubdivision_checking_Illusion"  "Illusion"
+"EraListSubdivision_checking_Necromancy"  "Necromancy"
+"EraListSubdivision_checking_Transmutation"  "Transmutation"
+"EraListSubdivision_checking_Universal"  "Universal"
+
+
+
+"EraListSubdivision_checking_Abjuration_info"  "The essence of Abjuration spells is guardianship, although some of them also have offensive purposes. They can create barriers, neutralize harmful effects, harm intruders, or banish creatures to other planes of existence."
+
+
+
+
+"EraListSubdivision_checking_Conjuration_info"  "Conjuration spells involve the transportation of objects and creatures from one place to another. Some spells summon creatures or objects to the caster's location, while others transport the caster to a different place. Certain enchantments can even create objects or effects out of thin air."
+"EraListSubdivision_checking_Divination_info"  "Divination spells unveil information, taking the form of forgotten secrets, glimpses of the future, the hiding places of treasures, the truth behind illusions, or visions of distant individuals or regions."
+"EraListSubdivision_checking_Enchantment_info"  "Enchantment spells influence the minds of others, altering or controlling their behavior. These spells may make enemies see the caster as a friend or compel creatures to perform specific actions, even manipulating other beings like puppeteering them as if pulling strings."
+"EraListSubdivision_checking_Evocation_info"  "Evocation spells shape magical energy to produce desired effects. Some evoke a burst of flames or lightning, while others channel positive energy to heal wounds."
+"EraListSubdivision_checking_Illusion_info"  "Illusion spells can deceive the senses or the mind of others. They make people see nonexistent things or fail to see existing ones. Illusions can also create false sounds or memories of events that never happened. Some illusions are visible to everyone, while the most insidious ones directly implant images into a creature's mind."
+"EraListSubdivision_checking_Necromancy_info"  "Necromancy spells manipulate the energies of life and death. These spells can grant additional vitality, drain life energy from others, create undead creatures, and even resurrect the deceased."
+"EraListSubdivision_checking_Transmutation_info"  "Transmutation spells alter the properties of creatures, objects, or the environment. They may transform enemies into harmless creatures, enhance the strength of allies, animate objects to obey the caster's commands, or bolster the natural healing abilities of creatures for rapid recovery from injuries."
+"EraListSubdivision_checking_Universal_info"  "Spells that do not belong to any specific school of magic are relatively rare."
+
+
+
+
+"HUD_Conjuration_spell"  "Conjuration Spell"
+"HUD_Abjuration_spell"  "Abjuration Spell"
+"HUD_Necromancy_spell"  "Necromancy Spell"
+"HUD_Transmutation_spell"  "Transmutation Spell"
+"HUD_Evocation_spell"  "Evocation Spell"
+"HUD_Enchantment_spell"  "Enchantment Spell"
+"HUD_Illusion_spell"  "Illusion Spell"
+
+"HUD_Divination_spell"  "Divination Spell"
+
+
+"HUD_Wave" "Wave"
+
+
+
+"HUD_DISABLED"  "Disable"
+
+"DOTA_HUD_ChaoticEraSpellsLisTitle"  "Learn an Ability"
+"DOTA_HUD_ChaoticEraSpellsLis_Hide"  "decide Later"
+
+"DOTA_HUD_ChaoticEraSpellsLis_learn"  "Confirm"
+"DOTA_HUD_ChaoticEraSpellsLis_giveup"  "NO"
+"DOTA_HUD_ChaoticEraSpellsLis_giveup_info"  "Abandon ability selection and return you 500 gold"
+
+
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_1"  "Free Reroll"
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_1_info"  "Remaining Free Reroll:{s:count}"
+
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_2"  "Reroll"
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_2_info"  "Spending {s:cost} aurum to reroll the abilities, currently {s:charge} charges remaining"
+
+
+
+"DOTA_HUD_ChaoticEraSpellsLis_reroll_Error_1"  "No remaining reroll chance"
+"DOTA_HUD_ChaoticEraSpellsLis_confirm"  "Confirm"
+
+
+
+"HUD_Invisibility_cooldown"  "Under Invisibility Cooldown"
+"HUD_ClassLevel_not_match"  "The spell level does not meet the casting conditions"
+
+
+"DOTA_HUB_CANT_CAST_Un_Connection"  "No Connected Grid" 
+"DOTA_HUB_CANT_CAST_Same_Pos"  "Cannot cast on same Grid" 
+
+
+"DOTA_HUD_ChaoticEraShop_Upgrade"   "Exp:{s:current}/{s:require}" 
+
+
+
+"HUD_ChaoticEra_Shop"  "Upgrade the shop level to refresh and acquire higher-level abilities and items.<br><br>The shop gains 1 experience with each round."
+"HUD_ChaoticEra_RefreshShop"  "Spend gold to regenerate a set of purchasable items.<br><br>Upgrading the shop can reset and refresh prices. The shop automatically refreshes when it is upgraded or every even-numbered round."
+
+
+"HUD_ChaoticEra_Error_LevelMax"  "The store has reached its maximum level."
+
+"HUD_ChaoticEra_ShopUpgrade"  "{s:player_name}has upgraded the shop level to <font color=\"#f0ad4e\">{s:locstring_value}</font>"
+"HUD_ChaoticEra_PlayerRefreshTask"  "{s:player_name} spent gold to regenerate a set of monster summoning queue."
+"HUD_ChaoticEra_PlayerStopTask"  "{s:player_name} activated the summoning delay feature, temporarily halting the wave of monsters"
+
+
+
+
+"HUD_ChaoticEra_PlayerSelectTask"  "{s:player_name} voted on a set of monster summoning queue."
+
+"HUD_ChaoticEra_Error_No_Enough_Item"  "Out of stock"
+"HUD_ChaoticEra_Error_No_Task"  "Can only be regenerated when the queue appears."
+"HUD_ChaoticEra_Error_No_Enough_Level"  "The shop level too low"
+"HUD_ChaoticEra_Error_In_Cooldown"  "Cooldown in progress"
+"HUD_ChaoticEra_Error_In_Battle"    "Not in battle"
+
+"HUD_ChaoticEra_Error_No_EvoluteChance"  "No available evolution opportunities"
+"HUD_ChaoticEra_Error_No_UpgradeChance"  "No available upgrade opportunities"
+"HUD_ChaoticEra_Error_No_Sellhance"  "No available selling opportunities"
+
+
+"HUD_LOCK_ITEM_INFO"  "After locking an item, refreshing the shop will preserve this equipment"
+
+"HUD_LOCK_Rune_INFO"  "After locking this rune, the decomposition will not select it"
+"HUD_Lock_Max"  "Unable to lock more items"
+"HUD_Not_Enough_Slot_General"                   "Maximum general ability learning limit reached"
+
+
+
+// bonus behavior
+"HUD_Spell_Bonus_Behavior_OverCasting_Title"  "<font color=\"#92d3f8\">Spell Empowerment: Strengthen Casting</font>"
+"HUD_Spell_Bonus_Behavior_OverCasting_Info"  "In auto-cast mode, the mana cost will increase by an additional %extra_mana_cost%%% , and you will apply the ability effect to up to an extra %count% targets within a %radius% radius."
+
+
+
+
+"HUD_Spell_Bonus_Behavior_SingleCasting_Title"  "<font color=\"#92d3f8\">Casting Feature: Limited Target</font>"
+"HUD_Spell_Bonus_Behavior_SingleCasting_Info"  "This ability can only affect %single_count% targets simultaneously; repeated casting will overwrite the effect."
+
+
+
+"HUD_Spell_Bonus_Behavior_OverCasting2_Title"  "<font color=\"#92d3f8\">Casting Empowerment: Overcasting</font>"
+"HUD_Spell_Bonus_Behavior_OverCasting2_Info"  "In the automatic casting state, mana cost will increase by %extra_mana_cost%%%, while the ability effect (blue values) will be enhanced by %over_gain%%%."
+
+
+
+
+
+
+"HUD_Spell_Bonus_Info_GiantUnit_Title"  "<font color=\"#92d3f8\">Supplement: Large Creature</font>"
+"HUD_Spell_Bonus_Info_GiantUnit_Info"  "If not specifically stated, generally, a creature is considered large if the distance between its chest and feet exceeds 200."
+
+// "HUD_Spell_Bonus_Behavior_SingleCasting_Title"  "<font color=\"#92d3f8\">补足:小型生物</font>"
+// "HUD_Spell_Bonus_Behavior_SingleCasting_Info"  "如果没有特殊说明，那么通常而言其胸部与脚的距离在50码以内的生物则为小型生物。"
+
+
+
+
+
+"HUD_Era_Special_BuySpell_Title"  "Buy Ability"
+"HUD_Era_Special_BuySpell_Info"  "Generate a set of optional abilities.<br><br><font color=\"#92d3f8\">There is a chance for get buy charge when refreshing the shop, and the likelihood is positively correlated with your shop level. The tier of chaotic ability is also positively correlated with the shop level.</font>"
+
+
+
+
+
+
+
+
+"HUD_Era_Special_Evolution_Title"  "Evolution Chance"
+"HUD_Era_Special_Evolution_Info"  "After purchasing the Evolution Chance, you can then evolute the abilities.<br><br><font color=\"#92d3f8\">There is a chance for get buy charge when refreshing the shop, and the likelihood is positively correlated with your shop level. The tier of chaotic ability is also positively correlated with the shop level. Additionally, when the shop reaches a certain level, it is guaranteed to get one charge</font>."
+
+
+"HUD_Era_Special_Upgrade_Title"  "Upgrade Chance x2"
+"HUD_Era_Special_Upgrade_Info"  "After purchasing the Upgrade Chance, you can then upgrade the abilities.<br><br><font color=\"#92d3f8\">There is a chance to get buy charge when refreshing the shop, and the likelihood is positively correlated with your shop level.</font>"
+
+
+
+
+
+
+// "HUD_Era_Special_Sell_Title"  "出售机会"
+// "HUD_Era_Special_Sell_Info"  "购买阶技能的出售机会后，你才可以移除你学习的技能。<br><br><font color=\"#92d3f8\">刷新商店时有几率生成，与等级正相关。</font>"
+
+
+"HUD_Era_Special_RefreshTask_Title"  "Refresh Summoning"
+"HUD_Era_Special_RefreshTask_Info"  "Refresh the current summoning list of available monsters.<br><br><font color=\"#92d3f8\">There is a chance get buy charge when refreshing the shop, and the likelihood is positively correlated with your shop level. (Please communicate with your teammates in advance.)</font>"
+
+
+
+
+
+
+
+"HUD_Era_Special_PauseTask_Title"  "Rest Time"
+"HUD_Era_Special_PauseTask_Info"  "Makes time stop for <delayTime> seconds and pauses monster spawning and round progression.</font><br><br>Unlocked in the shop at level <levelRequire>, with a cooldown of <cooldown> seconds, shared cooldown for all players (please communicate with your teammates in advance)."
+
+
+
+
+
+
+
+"HUD_Era_Special_Artifact_Title"  "Artifact"
+"HUD_Era_Special_Artifact_Info"  "Generate <artifact_count> artifacts; you can choose one of them. (It can also drop by some other ways)"
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_attribute"                   "Bounty"
+"DOTA_Tooltip_modifier_chaotic_era_attribute_Description"                   "After being killed, all players will receive a bounty. In single-player mode, this bounty is increased; for each additional player, the bounty decreases."
+
+
+
+"HUD_Task_Upgrade_noraml"  "The growth potential of the upgraded monster will increase by <font color=\"#92d3f8\">{s:upgrade_value}%</font>, and at the same time, its rune generate progress bonus will be increased by <font color=\"#92d3f8\">{s:progress_bonus}%</font><br><br>If the majority of players choose to upgrade when summoning the monster, then the monster's upgrade will take place."
+
+
+
+
+
+"HUD_Task_Upgtade" "Monster Upgrade"
+"HUD_Task_Upgrade_1_info"  "This monster, when upgraded, will experience an increase in growth potential by <font color=\"#92d3f8\"><upgrade_value>%</font>, and simultaneously, its rune progress bonus will be elevated by <font color=\"#92d3f8\"><progress_bonus>%</font><br><br>This bonus is already reflected in the data preview."
+
+
+
+
+
+
+
+
+"ChaoticEra_GameEffect_Title"  "{s:level} Term Selection"
+"ChaoticEra_Artifact_Title"  "Artifact Selection"
+
+
+"HUD_ChaoticEra_Phase_with_delay"  "A Time-Stop spell is cast, you get <font color=\"#f0ad4e\">{s:locstring_value} seconds</font> of rest time."
+
+"HUD_ChaoticEra_Phase_end"  "Time begins to flow once again......"
+
+
+"HUD_Chaotic_Era_TaskModify_Title"   "Modify"
+"HUD_Chaotic_Era_TaskModify_Info"   "Due to certain special events, this monster will carry some bonus effects."
+
+"HUD_Chaotic_Era_TaskModify_Error"   "Modify Fail"
+"HUD_Chaotic_Era_TaskModify_Error2"   "Cannot enable the same modifier."
+
+"HUD_Chaotic_Era_TaskModify_None_Title"   "No available modifiers"
+
+"HUD_Rune_Edit_2_Ok"    "Rune Lock state changed"
+"HUD_Chaotic_Era_TaskModify_Active"  "{s:player_name} has applied a modifier <font color=\"#c092fd\">{s:locstring_value2}</font> on <font color=\"#f0ad4e\">{s:locstring_value}</font>."
+
+
+"HUD_Boss_Summon_wave"  "Countdown to the Arrival of Chaos Round:{s:remain_wave}"
+"HUD_Boss_Summon_wave_Title"  "Chaos is coming"
+"HUD_Boss_Summon_wave_Info"  "After completing all rounds, a final boss of corresponding strength will be summoned based on your performance. Defeating it will amplify the rewards."
+"HUD_Chaotic_era_boss_warning" "All rounds compelted, after kill all monsters, the final boss will come"
+
+
+
+
+"DOTA_Tooltip_modifier_take_gold"   "Self-Reliance"
+"DOTA_Tooltip_modifier_take_gold_Description"   "FORM achievement,gain 5 all atbs,20 base attack,2 armor.gain 35 golds by 10 sec passively"
+
+
+"DOTA_HUD_Chaotic_Bonus_Attributes_description"           "Initially receive 15 attribute points that can be freely allocated. Different attributes consume varying amounts of attribute points, which are rounded up.<br><br>Completing achievements can increase the initial attribute points."
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes"    "Chaos Attribute Allocation"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_Description" "Attributes allocated."
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_1"           "Stormlord"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_1_Description"   "Costs 40 points to unlock:<br><br>--Gain 1 Storm Charge when dealing spell damage to enemies, with a minimum interval of 3 seconds.<br><br>--When you accumulate 3 Storm Charges, your next spell damage will trigger an additional lightning strike, dealing Magic Damage equal to your primary atb x Hero Level x 0.6."
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_1"   "Stormlord"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_1_Description"   "Gain 1 Storm Charge when dealing spell damage to enemies, with a minimum interval of 3 seconds.<br><br>When you accumulate 3 Storm Charges, your next damage will trigger an additional lightning strike, dealing Magic Damage equal to your primary atb x Hero Level x 0.6."
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_2"           "Reaper's Scythe"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_2_Description"   "Spend 40 points to unlock:<br><br>--Your attacks is increased by 3% per hero level. If it is a melee attack, it also causes a cleave of 40% on up to 4 enemies within a 400 radius."
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_2"   "Reaper's Scythe"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_2_Description"   "Your attacks is increased by 3%% per hero level. If it is a melee attack, it also causes a 40%% cleave on up to 4 enemies within a 400 radius.<br><br>Current attack damage increase: %dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_3"           "Eternal Titan"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_3_Description"   "Unlock by consuming 40 points:<br><br>--Increase final damage against elite enemies by a percentage equivalent to 0.16% of your maximum health, while reducing damage taken from elite enemies by 15%."
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_3"   "Eternal Titan"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_3_Description"   "Increase final damage against elite enemies by a percentage equivalent to 0.16%% of your maximum health, while reducing damage taken from elite enemies by 15%%.<br><br>Current damage increase against elites: %dMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_4"           "Arbitrary Annihilation"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_4_Description"   "Costs 40 points to unlock:<br><br>--Final damage dealt to enemies is increased based on their percentage of health: a maximum of Hero Level x 2% at 100% health, and disable at 40% health."
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_4"   "Arbitrary Annihilation"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_4_Description"   "Final damage dealt to enemies is increased based on their percentage of health: a maximum of Hero Level x 2%% at 100%% health, and disable at 40%% health.<br><br>Current Final Damage Increase Range: (%dMODIFIER_PROPERTY_TOOLTIP%%%~%dMODIFIER_PROPERTY_TOOLTIP%%%)"
+
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_5"           "Shadow Sacrifice"
+"DOTA_HUD_FellOmen_Bonus_Attributes_talent_5_Description"   "Unlock by consuming 40 points:<br><br>--Gain 1 stack of Shadow Charge every 5 seconds when using abilities.<br><br>--When 7 stacks of Shadow Charge are accumulated, summon a Shadow Totem that lasts for 25 seconds, which releases Shadow Waves to allied heroes every 5 seconds.<br><br>--Shadow Waves deal pure damage equal to 6% of the target's maximum health and increase their final damage and movement speed by (10 + your hero level x 0.8%) for 5 seconds.<br><br>--Your summons permanently benefit from 'Shadow Wave' at 130% efficiency."
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_5"   "Shadow Sacrifice"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_5_Description"   "Gain 1 stack of Shadow Charge every 5 seconds when using abilities.<br><br>When 7 stacks of Shadow Charge are accumulated, summon a Shadow Totem that lasts for 25 seconds, which releases Shadow Waves to allied heroes every 5 seconds.<br><br>Shadow Waves deal pure damage equal to 6%% of the target's maximum health and increase their final damage and movement speed by (10 + your hero level x 0.8%%) for 5 seconds.<br><br>Your summons permanently benefit from 'Shadow Wave' at 130%% efficiency.<br><br>Current final damage and movement speed increase: %dMODIFIER_PROPERTY_TOOLTIP%%%"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_5_thinker_buff"  "Shadow Buff"
+"DOTA_Tooltip_modifier_chaotic_bonus_attributes_talent_5_thinker_buff_Description"  "Final damage and movement speed increase by %fMODIFIER_PROPERTY_TOOLTIP%%%"
+
+"New_Task_Copied"  "A set of <font color=\"#c092fd\">{s:locstring_value}</font> has been copied into the queue."
+"DOTA_HUD_set_normal_drow_info"   "<font color='#ff8033'>{s:locstring_value}</font>dropped a normal item<font color='#ff8033'>{s:locstring_value2}</font>！"
+"DOTA_HUD_set_drow_info"   "<font color='#f0ad4e'>{s:locstring_value}</font>dropped a set item<font color='#f0ad4e'>{s:locstring_value2}</font>！"
+"DOTA_HUD_oracle_box_info"   "{s:player_name}opens the oracle gift,gain<font color='#f0ffff'>{s:locstring_value}</font>！"

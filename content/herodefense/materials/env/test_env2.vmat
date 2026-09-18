@@ -1,0 +1,16 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "refract.vfx"
+
+	//---- Refraction ----
+	g_flRefractScale "2.138"
+	TextureNormal "[0.992157 0.992157 0.992157 1.000000]"
+
+	//---- Texture Transform ----
+	g_vTexCoordScale "[5.393 2.517]"
+
+	//---- Tinting ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+}

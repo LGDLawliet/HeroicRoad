@@ -1,0 +1,322 @@
+"DOTA_Tooltip_modifier_ChallengeInfo_001_1_show"       "Energy suppression 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_2_show"       "Energy suppression 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_3_show"       "Energy suppression 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_4_show"       "Energy suppression 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_5_show"       "Energy suppression 5 : Ready"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_002_1_show"       "Cardiac exhaustion 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_2_show"       "Cardiac exhaustion 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_3_show"       "Cardiac exhaustion 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_4_show"       "Cardiac exhaustion 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_5_show"       "Cardiac exhaustion 5 : Ready"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_003_1_show"       "Doubt 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_2_show"       "Doubt 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_3_show"       "Doubt 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_4_show"       "Doubt 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_5_show"       "Doubt 5 : Ready"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_004_1_show"       "Life exploration 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_2_show"       "Life exploration 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_3_show"       "Life exploration 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_4_show"       "Life exploration 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_5_show"       "Life exploration 5 : Ready"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_005_1_show"       "Mana exhaustion 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_2_show"       "Mana exhaustion 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_3_show"       "Mana exhaustion 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_4_show"       "Mana exhaustion 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_5_show"       "Mana exhaustion 5 : Ready"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_006_1_show"       "Dream 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_2_show"       "Dream 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_3_show"       "Dream 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_4_show"       "Dream 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_5_show"       "Dream 5 : Ready"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_007_1_show"       "Magic hand 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_2_show"       "Magic hand 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_3_show"       "Magic hand 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_4_show"       "Magic hand 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_5_show"       "Magic hand 5 : Ready"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_008_1_show"       "Soul Dilemma 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_2_show"       "Soul Dilemma 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_3_show"       "Soul Dilemma 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_4_show"       "Soul Dilemma 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_5_show"       "Soul Dilemma 5 : Ready"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_009_1_show"       "All Attributes Suppression 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_2_show"       "All Attributes Suppression 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_3_show"       "All Attributes Suppression 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_4_show"       "All Attributes Suppression 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_5_show"       "All Attributes Suppression 5 : Ready"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_010_1_show"       "Brain Worm 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_2_show"       "Brain Worm 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_3_show"       "Brain Worm 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_4_show"       "Brain Worm 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_5_show"       "Brain Worm 5 : Ready" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_011_1_show"       "Sharp Teeth 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_2_show"       "Sharp Teeth 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_3_show"       "Sharp Teeth 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_4_show"       "Sharp Teeth 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_5_show"       "Sharp Teeth 5 : Ready"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_012_1_show"       "Chemical Rage 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_2_show"       "Chemical Rage 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_3_show"       "Chemical Rage 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_4_show"       "Chemical Rage 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_5_show"       "Chemical Rage 5 : Ready"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_013_1_show"       "Legion of Self Exploding 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_2_show"       "Legion of Self Exploding 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_3_show"       "Legion of Self Exploding 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_4_show"       "Legion of Self Exploding 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_5_show"       "Legion of Self Exploding 5 : Ready"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_014_1_show"       "Death Gaze 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_2_show"       "Death Gaze 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_3_show"       "Death Gaze 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_4_show"       "Death Gaze 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_5_show"       "Death Gaze 5 : Ready"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_015_1_show"       "Presence of the Dark Lord 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_2_show"       "Presence of the Dark Lord 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_3_show"       "Presence of the Dark Lord 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_4_show"       "Presence of the Dark Lord 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_5_show"       "Presence of the Dark Lord 5 : Ready" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_016_1_show"       "The hidden Thirteenth 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_2_show"       "The hidden Thirteenth 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_3_show"       "The hidden Thirteenth 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_4_show"       "The hidden Thirteenth 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_5_show"       "The hidden Thirteenth 5 : Ready"    
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_017_1_show"       "Star Collapse 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_2_show"       "Star Collapse 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_3_show"       "Star Collapse 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_4_show"       "Star Collapse 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_5_show"       "Star Collapse 5 : Ready"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_018_1_show"       "Creed of the Skullhound 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_2_show"       "Creed of the Skullhound 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_3_show"       "Creed of the Skullhound 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_4_show"       "Creed of the Skullhound 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_5_show"       "Creed of the Skullhound 5 : Ready"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_019_1_show"       "Frostivus 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_2_show"       "Frostivus 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_3_show"       "Frostivus 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_4_show"       "Frostivus 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_5_show"       "Frostivus 5 : Ready"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_020_1_show"       "The True Essence of Life 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_2_show"       "The True Essence of Life 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_3_show"       "The True Essence of Life 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_4_show"       "The True Essence of Life 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_5_show"       "The True Essence of Life 5 : Ready"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_021_1_show"       "Electrolyte Disorder 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_2_show"       "Electrolyte Disorder 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_3_show"       "Electrolyte Disorder 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_4_show"       "Electrolyte Disorder 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_5_show"       "Electrolyte Disorder 5 : Ready"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_022_1_show"       "Lumbar Disc Protrusion 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_2_show"       "Lumbar Disc Protrusion 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_3_show"       "Lumbar Disc Protrusion 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_4_show"       "Lumbar Disc Protrusion 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_5_show"       "Lumbar Disc Protrusion 5 : Ready"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_023_1_show"       "Time Lock 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_2_show"       "Time Lock 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_3_show"       "Time Lock 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_4_show"       "Time Lock 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_5_show"       "Time Lock 5 : Ready"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_024_1_show"       "Ankylosing Spondylitis 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_2_show"       "Ankylosing Spondylitis 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_3_show"       "Ankylosing Spondylitis 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_4_show"       "Ankylosing Spondylitis 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_5_show"       "Ankylosing Spondylitis 5 : Ready"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_1_show"       "The Frog In The Well  1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_2_show"       "The Frog In The Well  2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_3_show"       "The Frog In The Well  3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_4_show"       "The Frog In The Well  4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_5_show"       "The Frog In The Well  5 : Ready"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_026_1_show"       "Fallen Meteorite 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_2_show"       "Fallen Meteorite 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_3_show"       "Fallen Meteorite 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_4_show"       "Fallen Meteorite 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_5_show"       "Fallen Meteorite 5 : Ready"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_027_1_show"       "Aziyog's Flame 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_2_show"       "Aziyog's Flame 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_3_show"       "Aziyog's Flame 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_4_show"       "Aziyog's Flame 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_5_show"       "Aziyog's Flame 5 : Ready"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_028_1_show"       "Scourge of the Plains 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_2_show"       "Scourge of the Plains 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_3_show"       "Scourge of the Plains 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_4_show"       "Scourge of the Plains 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_5_show"       "Scourge of the Plains 5 : Ready"   
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_1_show"       "Counterspell 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_2_show"       "Counterspell 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_3_show"       "Counterspell 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_4_show"       "Counterspell 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_5_show"       "Counterspell 5 : Ready"  
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_1_show"       "Slow Awakening 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_2_show"       "Slow Awakening 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_3_show"       "Slow Awakening 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_4_show"       "Slow Awakening 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_5_show"       "Slow Awakening 5 : Ready"  
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_1_show"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_2_show"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_3_show"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_4_show"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_5_show"       "Descendant of Liu Sheng, who was  the King Jing of Zhongshan 5 : Ready"  
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_032_1_show"       "Taunt Aura 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_2_show"       "Taunt Aura 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_3_show"       "Taunt Aura 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_4_show"       "Taunt Aura 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_5_show"       "Taunt Aura 5 : Ready"  
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_033_1_show"       "Mana Void 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_2_show"       "Mana Void 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_3_show"       "Mana Void 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_4_show"       "Mana Void 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_5_show"       "Mana Void 5 : Ready"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_034_1_show"       "Force Dissipation 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_2_show"       "Force Dissipation 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_3_show"       "Force Dissipation 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_4_show"       "Force Dissipation 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_5_show"       "Force Dissipation 5 : Ready"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_035_1_show"       "Summon Inhibition 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_2_show"       "Summon Inhibition 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_3_show"       "Summon Inhibition 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_4_show"       "Summon Inhibition 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_5_show"       "Summon Inhibition 5 : Ready"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_037_1_show"       "Huddle Denie 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_2_show"       "Huddle Denie 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_3_show"       "Huddle Denie 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_4_show"       "Huddle Denie 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_5_show"       "Huddle Denie 5 : Ready"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_038_1_show"       "The Acme of Thieves 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_2_show"       "The Acme of Thieves 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_3_show"       "The Acme of Thieves 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_4_show"       "The Acme of Thieves 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_5_show"       "The Acme of Thieves 5 : Ready"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_039_1_show"       "Revenant of the Underscape 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_2_show"       "Revenant of the Underscape 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_3_show"       "Revenant of the Underscape 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_4_show"       "Revenant of the Underscape 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_5_show"       "Revenant of the Underscape 5 : Ready"   
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_040_1_show"       "Avatar of Greed 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_2_show"       "Avatar of Greed 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_3_show"       "Avatar of Greed 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_4_show"       "Avatar of Greed 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_5_show"       "Avatar of Greed 5 : Ready"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_041_1_show"       "Command Reject 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_2_show"       "Command Reject 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_3_show"       "Command Reject 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_4_show"       "Command Reject 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_5_show"       "Command Reject 5 : Ready"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_042_1_show"       "The Trial of the Earth 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_2_show"       "The Trial of the Earth 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_3_show"       "The Trial of the Earth 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_4_show"       "The Trial of the Earth 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_5_show"       "The Trial of the Earth 5 : Ready"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_043_1_show"       "Death Curse 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_2_show"       "Death Curse 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_3_show"       "Death Curse 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_4_show"       "Death Curse 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_5_show"       "Death Curse 5 : Ready"
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_044_1_show"       "Immortal Disease Zobae 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_2_show"       "Immortal Disease Zobae 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_3_show"       "Immortal Disease Zobae 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_4_show"       "Immortal Disease Zobae 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_5_show"       "Immortal Disease Zobae 5 : Ready"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_1_show"       "Fading Bell 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_2_show"       "Fading Bell 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_3_show"       "Fading Bell 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_4_show"       "Fading Bell 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_5_show"       "Fading Bell 5 : Ready"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_046_1_show"       "Memories of Legends 1 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_2_show"       "Memories of Legends 2 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_3_show"       "Memories of Legends 3 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_4_show"       "Memories of Legends 4 : Ready"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_5_show"       "Memories of Legends 5 : Ready"
+

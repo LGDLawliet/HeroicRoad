@@ -1,0 +1,121 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Cloak ----
+	F_ENABLE_CLOAK 1
+
+	//---- Masks ----
+	F_MASKS_2 1
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Specular ----
+	F_SPECULAR_CUBE_MAP 1
+
+	//---- Warp ----
+	F_SPECULAR_WARP 1
+
+	//---- Blend To Full ----
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.176"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.908"
+	g_flSpecularBlendToFull "0.296"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.008"
+	g_flCloakIntensity "1.000"
+	g_flCloakRefractAmount "0.009"
+	g_flMaterialCloakFactor "0.345"
+	g_vCloakColorTint "[0.800 0.850 0.800]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "360.000"
+	g_vTexCoordOffset "[-0.383 0.000]"
+	g_vTexCoordScale "[0.200 0.200]"
+	TextureColor "[0.101961 0.156863 0.180392 1.000000]"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "[0.000000 0.000000 0.000000 0.000000]"
+	TextureFresnelWarpRim "[0.000000 0.000000 0.000000 0.000000]"
+	TextureFresnelWarpSpec "materials/default/default_fresnelwarpspec.tga"
+
+	//---- Lighting ----
+	g_flAmbientScale "0.000"
+	g_flBloomScale "0.000"
+	g_flBloomShift "0.000"
+	g_vBloomColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularWarp "models/monster/element/shadow/textures/shadow_specwarp.png"
+
+	//---- Mask 2 ----
+	TextureRimMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularExponent "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularMask "[0.048000 0.048000 0.048000 0.000000]"
+	TextureTintByBaseMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "models/monster/element/shadow/textures/shadow_normal.png"
+
+	//---- Rim ----
+	g_flRimLightScale "100.000"
+	g_vRimLightColor "[0.137255 0.396078 0.498039 0.000000]"
+
+	//---- Specular ----
+	g_flCubeMapScalar "20.000"
+	g_flSpecularExponent "512.000"
+	g_flSpecularScale "690.377"
+	g_vSpecularColor "[0.105882 0.156863 0.133333 0.000000]"
+	TextureCubeMap "models/monster/element/shadow/textures/shadow_blue_cube.tga"
+
+	Attributes
+	{
+		PreviewModel "models/monster/element/shadow/shadow_emental.vmdl"
+	}
+
+	DynamicParams
+	{
+		g_flCloakBlurAmount "return lerp(.008,.01,sin(time()*.75));"
+		g_vTexCoordOffset "return float2(sin(12)+(time()/266),sin(33)+(time()/266));"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+	}
+}

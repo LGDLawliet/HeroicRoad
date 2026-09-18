@@ -1,0 +1,18 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"F_FULLBRIGHT"	"1"
+	"F_ALPHA_ANGLE_POWER"	"1"
+	"F_TRANSLUCENT"	"1"
+	"g_flAlphaAnglePower"	"8"
+	"g_flOpacityScale"	"0.2"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"TextureColor"	"[1.000000 1.000000 1.000000 0.000000]"
+	"TextureTranslucency"	"[1.000000 1.000000 1.000000 0.000000]"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/models/effects/chronocube_edges_vmat_g_tcolor_7972d482.vtex"
+	}
+}

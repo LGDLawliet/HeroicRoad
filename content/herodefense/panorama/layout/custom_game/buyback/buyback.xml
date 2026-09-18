@@ -1,0 +1,41 @@
+<root>
+    <styles>
+
+        <include src="s2r://panorama/layout/custom_game/buyback/buyback.css"/>
+    </styles>
+
+    <scripts>
+
+        <include src="s2r://panorama/layout/custom_game/buyback/buyback.js" />
+
+    </scripts>
+
+
+
+
+    <Panel hittest="false" class="BuyBackRoot">
+		<Panel id="heroBuyBackPanel" hittest = "false">
+            <Button class="BuyBackButton" id = "BuyBackButton1" onactivate="BuyBackHero1();"    onmouseover="DOTAShowTextTooltip('#DOTA_HUD_BuyBackInfo')" onmouseout="DOTAHideTextTooltip()" >  
+                
+            </Button> 
+            <Button class="BuyBackButton" id = "BuyBackButton2" onactivate="BuyBackHero2();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_BuyBackInfo')" onmouseout="DOTAHideTextTooltip()" >  
+                
+            </Button> 
+            <Button class="BuyBackButton" id = "BuyBackButton3" onactivate="BuyBackHero3();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_BuyBackInfo')" onmouseout="DOTAHideTextTooltip()" > 
+               
+            </Button> 
+            <Button class="BuyBackButton" id = "BuyBackButton4" onactivate="BuyBackHero4();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_BuyBackInfo')" onmouseout="DOTAHideTextTooltip()" >  
+                
+            </Button> 
+            <Button class="BuyBackButton" id = "BuyBackButton5" onactivate="BuyBackHero5();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_BuyBackInfo')" onmouseout="DOTAHideTextTooltip()" >  
+                
+            </Button> 
+            
+
+		</Panel>
+
+   
+
+    </Panel>
+
+</root>

@@ -1,0 +1,337 @@
+"DOTAAbilities"
+{
+    "chaotic_ice_age"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "crystal_maiden_freezing_field"
+        "ScriptFile"               "chaotic_spell/class_super/chaotic_ice_age"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_NO_TARGET "
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"	   "DAMAGE_TYPE_MAGICAL"
+        // "SpellImmunityType"	"SPELL_IMMUNITY_ENEMIES_NO"
+        //"SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCooldown"          "45"
+        "AbilityManaCost"          "1500"
+        //"AbilityCastRange"         "0"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityValues"
+        {
+            //40000+150
+            "radius"             "2000"
+            "duration"             "10"
+            "interval"             "0.8"
+            "damage"               "300"
+            "bonus_damage"         "3"
+            "mana_cost"            "5"
+            "mana_get"             "1"
+
+            "rune_1_mana_cost"    "20"
+            "rune_1_mana_get"     "200"
+            "rune_1_duration"     "0.7"
+            "rune_2_chance"     "30"
+            "rune_2_cooldown_self"     "1.5"
+            "rune_3_mana"           "40"
+            "rune_3_index"          "200"
+        }
+    }
+
+    "chaotic_sky_fire"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_fireball_persona1"
+        "ScriptFile"               "chaotic_spell/class_super/chaotic_sky_fire"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_AOE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"	   "DAMAGE_TYPE_MAGICAL"
+        // "SpellImmunityType"	"SPELL_IMMUNITY_ENEMIES_NO"
+        // "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.8"
+        "AbilityCooldown"          "60"
+        "AbilityManaCost"          "1500"
+        "AbilityCastRange"         "1000"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityValues"
+        {
+            //16200+90(0蓝下)、40500+225(10000蓝下)
+            "mp_index"          "0.6"
+            "radius"             "400"
+            "damage"               "3000"
+            "bonus_damage"         "18"
+            "index"             "250"
+            "damage_end"        "50"
+
+            "rune_1_crit_damage"    "80"
+            "rune_1_index"     "10"
+            "rune_2_index_max"     "150"
+            "rune_2_radius"     "1200"
+            "rune_2_damage_down"    "0.09"
+            "rune_2_index_min"     "42"
+        }
+    }
+
+    "chaotic_Thundergods_Wrath"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "zuus_thundergods_wrath"
+        "ScriptFile"               "chaotic_spell/class_super/chaotic_Thundergods_Wrath"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+
+        "FightRecapLevel"          "1"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_5"
+        // "AbilityCooldown"          "0"
+        "AbilityManaCost"          "1200"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_zuus/zuus_thundergods_wrath_start.vpcf"
+            "particle"    "particles/units/heroes/hero_zuus/zuus_arc_lightning_.vpcf"
+            "particle"    "particles/units/heroes/hero_zuus/zuus_lightning_bolt.vpcf"
+            "particle"    "particles/units/heroes/hero_zuus/zuus_arc_lightning_.vpcf"
+        }
+        "AbilityValues"
+        {
+            "basic_damage"     "4000"
+            "bonus_damage"     "40"
+            "mp_damage"         "40"
+            "duration"    "2"
+            "max"   "30"
+            "cd"    "45"
+            "index"         "30"
+            
+            "rune_1_index"  "15"
+            "rune_2_set"    "80"
+            "rune_2_bonus"   "5"
+            "rune_2_mp"      "5"
+            "rune_3_radius"       "1500"
+            "rune_3_duration"     "20"
+            "rune_3_index"        "175"
+            "rune_3_cd"           "5"
+        }
+    }
+
+    "chaotic_deafening_blast"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "invoker_deafening_blast_ad"
+        "ScriptFile"               "chaotic_spell/class_super/chaotic_deafening_blast"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_POINT"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"	   "DAMAGE_TYPE_MAGICAL"
+        // "SpellImmunityType"	"SPELL_IMMUNITY_ENEMIES_NO"
+        // "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.3"
+        "AbilityCooldown"          "60"
+        "AbilityManaCost"          "1500"
+        // "AbilityCastRange"         "1000"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityValues"
+        {
+            //20000+110
+            "length"          "1600"
+            "width"             "300"
+            "damage"               "8000"
+            "bonus_damage"         "60"
+            "index"                 "20"
+
+            "knock_dis"            "300"
+            "disarm_duration"       "1.5"
+
+            "rune_1_short"  "20"
+            "rune_1_long"   "160"
+        }
+    }
+
+    "chaotic_summon_sprite_king"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "visage_summon_familiars_alt1"
+        "ScriptFile"               "chaotic_spell/class_super/chaotic_summon_sprite_king"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCooldown"          "60"
+        "AbilityManaCost"          "1500"
+        "AbilityCastPoint"         "1"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityValues"
+        {
+            "ally_radius"        "1000"
+            "base_damage"        "500"
+            "bonus_damage"       "150"
+            "bonus_health"       "150"
+            "bonus_armor"        "150"
+            "duration"           "90"
+            "ally_attack"       "15"
+            "ally_attack_speed" "15"
+            "ally_armor"        "15"
+            "ally_self"         "6"
+            "max_count"          "1"
+
+            "rune_1_bonus"      "30"
+            "rune_1_incoming"   "10"
+        }
+    }
+
+    "chaotic_black_hole"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "enigma_black_hole"
+        "ScriptFile"               "chaotic_spell/class_super/chaotic_black_hole"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_CHANNELLED"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PURE"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ALLIES_YES"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.3"
+        "AbilityCastAnimation"     "ACT_DOTA_GENERIC_CHANNEL_1"
+        "AbilityCooldown"          "60"
+        "AbilityManaCost"          "1500"
+        "AbilityCastRange"         "600"
+        // "AbilityChannelTime"       "10.0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_enigma/enigma_blackhole.vpcf"
+            "particle"    "particles/status_fx/status_effect_enigma_blackhole_tgt.vpcf"
+            "particle"    "particles/units/heroes/hero_enigma/enigma_blackhole_rebuild.vpcf"
+        }
+        "AbilityValues"
+        {
+            "radius"    "400"
+            "bonus_radius"  "0.7"
+            "damage"    "200"
+            "bonus_damage"  "2"
+            "interval"  "0.3"
+            "duration"  "8"
+            "kill_line"     "10"           
+
+            "pull_speed"            "400"
+
+            "rune_1_radius" "60"
+            "rune_1_outgoing"   "2"
+            "rune_1_index"  "5"
+            "rune_1_duration"   "1"
+        }
+    }
+
+    "chaotic_Coup_De_Grace"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "phantom_assassin_coup_de_grace"
+        "ScriptFile"               "chaotic_spell/class_super/chaotic_Coup_De_Grace"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        // "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        // "AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+        // "SpellImmunityType"	"SPELL_IMMUNITY_ENEMIES_NO"
+        // "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityValues"
+        {
+            "chance"                "15"
+            "crit_mult"             "800"
+            "line"                  "60"
+            "crit_mult_add"         "150"
+        }
+    }
+
+    "chaotic_frost_arrows"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "drow_ranger_frost_arrow_arcana"
+        "ScriptFile"               "chaotic_spell/class_super/chaotic_frost_arrows"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PHYSICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_YES"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AbilityValues"
+        {
+            "damage"       "2"
+            "freezing"     "0.5"
+            "move_slow"    "100"
+            "duration"     "2"
+            
+            "radius"       "600"
+
+            "rune_1_duration"   "5"
+            "rune_1_max_stack"  "50"
+            "rune_1_armor"      "0.5"
+        }
+    }
+
+    "chaotic_tri_comet"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "ancient_apparition/aa_2021_immortal_ability_icon/aa_2021_immortal_chilling_touch"
+        "ScriptFile"               "chaotic_spell/class_super/chaotic_tri_comet"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_PASSIVE | DOTA_ABILITY_BEHAVIOR_AUTOCAST"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AbilityValues"
+        {
+            "count"                "3"
+            "cooldown"             "1.5"
+            "find_radius"          "1000"
+            "mana_cost"            "3000"
+            "cost"                 "250"
+            "damage"               "600"
+            "bonus_damage"         "6"
+            "radius"               "400"
+            "duration"             "0.2"
+
+            "rune_1_count"         "1"
+            "rune_1_radius"        "110"
+            "rune_1_damage"        "30"
+            "rune_2_damage"        "200"
+        }
+
+    }
+}

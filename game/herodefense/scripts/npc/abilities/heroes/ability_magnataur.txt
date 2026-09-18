@@ -1,0 +1,181 @@
+"DOTAAbilities"
+{
+    "Primary_reverse_polarity"
+    {
+        "BaseClass"                      "ability_lua"
+        "AbilityTextureName"             "magnataur_reverse_polarity"
+        "ScriptFile"                     "skills/Primary_reverse_polarity"
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityBehavior"                "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "AbilityUnitTargetTeam"          "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "SpellImmunityType"              "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"           "SPELL_DISPELLABLE_YES_STRONG"
+        "MaxLevel"                       "5"
+        "RequiredLevel"                  "0"
+        "LevelsBetweenUpgrades"          "0"
+        "AbilityCastPoint"               "0.3"
+        "AbilityCastAnimation"           "ACT_DOTA_CAST_ABILITY_4"
+        "AbilityCooldown"                "70 67 64 61 58"
+        "AbilityManaCost"                "150 170 190 210 230"
+        "AbilityCastRange"               "0"
+        "CalculateSpellDamageTooltip"    "0"
+        "AbilityValues"
+        {
+            "radius"          "350 370 390 410 430"
+            "bonus_damage"    "40 47.5 55 62.5 70"
+            "duration"        "2.5 2.7 2.9 3.1 3.3"
+        }
+    }
+    "Middle_reverse_polarity"
+    {
+        "BaseClass"                      "ability_lua"
+        "AbilityTextureName"             "magnataur_reverse_polarity"
+        "ScriptFile"                     "skills/Middle_reverse_polarity"
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityBehavior"                "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_AUTOCAST"
+        "AbilityUnitTargetTeam"          "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        // "AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"              "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"           "SPELL_DISPELLABLE_YES_STRONG"
+        "MaxLevel"                       "3"
+        "RequiredLevel"                  "0"
+        "LevelsBetweenUpgrades"          "0"
+        "AbilityCastPoint"               "0.3"
+        "AbilityCastAnimation"           "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityCooldown"                "58 56 55"
+        "AbilityManaCost"                "230 260 300"
+        "AbilityCastRange"               "0"
+        "CalculateSpellDamageTooltip"    "0"
+        "AbilityValues"
+        {
+            "radius"          "430 450 470"
+            "bonus_damage"    "70 80 90"
+            "duration"        "3.3 3.9 4.5"
+        }
+    }
+    "Advanced_reverse_polarity"
+    {
+        "BaseClass"                      "ability_lua"
+        "AbilityTextureName"             "magnataur_reverse_polarity"
+        "ScriptFile"                     "skills/Advanced_reverse_polarity"
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityBehavior"                "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_AUTOCAST"
+        "AbilityUnitTargetTeam"          "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        // "AbilityUnitDamageType"	"DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"              "SPELL_IMMUNITY_ENEMIES_YES"
+        "SpellDispellableType"           "SPELL_DISPELLABLE_YES_STRONG"
+        "MaxLevel"                       "1"
+        "RequiredLevel"                  "0"
+        "LevelsBetweenUpgrades"          "0"
+        "AbilityCastPoint"               "0.3"
+        "AbilityCastAnimation"           "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityCooldown"                "55"
+        "AbilityManaCost"                "300"
+        "AbilityCastRange"               "0"
+        "CalculateSpellDamageTooltip"    "0"
+        "AbilityValues"
+        {
+            "radius"            "500"
+            "bonus_damage"      "100"
+            "duration"          "4.5"
+            "advanced_level"    "1"
+        }
+    }
+    "Primary_shockwave"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "magnataur_shockwave"
+        "ScriptFile"               "skills/Primary_shockwave"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_POINT"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "5"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityCooldown"          "20 19 18 17 16"
+        "AbilityManaCost"          "80 90 100 110 120"
+        "AbilityCastRange"         "1200"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_magnataur/magnataur_shockwave.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"           "200 240 280 320 360"
+            "bonus_damage"     "1.8 2 2.2 2.4 2.6"
+            "move_slow"        "240"
+            "slow_duration"    "2"
+        }
+    }
+    "Middle_shockwave"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "magnataur_shockwave"
+        "ScriptFile"               "skills/Middle_shockwave"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_POINT"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "3"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityCooldown"          "16"
+        "AbilityManaCost"          "120"
+        "AbilityCastRange"         "1200"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_magnataur/magnataur_shockwave.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"           "360 390 420"
+            "bonus_damage"     "2.6 2.9 3.2"
+            "move_slow"        "240"
+            "slow_duration"    "2"
+        }
+    }
+    "Advanced_shockwave"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "magnataur_shockwave"
+        "ScriptFile"               "skills/Advanced_shockwave"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_POINT"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.5"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_1"
+        "AbilityCooldown"          "16"
+        "AbilityManaCost"          "120"
+        "AbilityCastRange"         "1200"
+        "AbilityChannelTime"       "0"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_magnataur/magnataur_shockwave.vpcf"
+        }
+        "AbilityValues"
+        {
+            "damage"            "450"
+            "bonus_damage"      "3.5"
+            "move_slow"         "240"
+            "slow_duration"     "2"
+            "advanced_level"    "1"
+        }
+    }
+}

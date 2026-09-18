@@ -1,0 +1,163 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero.vfx"
+
+	//---- Detail ----
+	F_DETAIL 2 // Add Self Illum
+
+	//---- Effect Proxies ----
+	F_USE_STATUS_EFFECTS_PROXY 1
+
+	//---- Masks ----
+	F_MASKS_1 1
+	F_MASKS_2 1
+
+	//---- Specular ----
+	F_SPECULAR_CUBE_MAP 1
+
+	//---- Warp ----
+	F_DIFFUSE_WARP 1
+
+	//---- Blend To Full ----
+	g_flDetailBlendToFull "0.000"
+	g_flDiffuseWarpBlendToFull "0.000"
+	g_flEnvMapBlendToFull "0.000"
+	g_flMetalnessBlendToFull "0.000"
+	g_flReflectionsTintByBaseBlendToNone "0.000"
+	g_flSelfIllumBlendToFull "0.000"
+	g_flSpecularBlendToFull "0.000"
+	g_flSpecularExponentBlendToFull "0.000"
+
+	//---- Cloak ----
+	g_flCloakBlurAmount "0.005"
+	g_flCloakIntensity "0.850"
+	g_flCloakRefractAmount "0.100"
+	g_flMaterialCloakFactor "0.000"
+	g_vCloakColorTint "[1.000 1.000 1.000]"
+
+	//---- Color ----
+	g_flDiffuseModulationAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "models/rebuild/creeps/chaotic_era_chaoc_form/textures/warlock_the_infernal_master_golem_color_2.png"
+
+	//---- Detail 1 ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailTexCoordRotation "0.000"
+	g_vDetail1ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetail2ColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[5.000 5.000]"
+	TextureDetail "materials/models/heroes/razor/razor_electric_detail.psd"
+
+	//---- Detail 2 ----
+	g_flDetail2BlendFactor "0.000"
+	TextureDetail2 "materials/default/default_detail2.tga"
+
+	//---- Fresnel ----
+	g_flFresnelModulatesAlpha "0.000"
+	TextureFresnelWarpColor "[0.500000 0.500000 0.500000 0.000000]"
+	TextureFresnelWarpRim "materials/default/default_fresnelwarprim.tga"
+	TextureFresnelWarpSpec "[0.147000 0.147000 0.147000 0.000000]"
+
+	//---- Lighting ----
+	g_bDiffuseWarpApplyShadowsAfterWarp "0"
+	g_flAmbientScale "10.000"
+	g_flBloomScale "1.000"
+	g_flBloomShift "1.000"
+	g_vBloomColor "[0.992157 0.992157 0.992157 0.000000]"
+	TextureDiffuseWarp "[0.427451 0.427451 0.427451 1.000000]"
+
+	//---- Mask 1 ----
+	g_bDiffuseWarpMaskSelectsWarpTopOrBottom "1"
+	TextureDetailMask "[0.061000 0.061000 0.061000 0.000000]"
+	TextureDiffuseWarpMask "[0.474000 0.474000 0.474000 0.000000]"
+	TextureMetalnessMask "[0.454000 0.454000 0.454000 0.000000]"
+	TextureSelfIllumMask "models/rebuild/creeps/chaotic_era_chaoc_form/textures/warlock_the_infernal_master_golem_aeefadf8_selfillummask.png"
+
+	//---- Mask 2 ----
+	TextureRimMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularExponent "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpecularMask "models/rebuild/creeps/chaotic_era_chaoc_form/textures/warlock_the_infernal_master_golem_specmask.png"
+	TextureTintByBaseMask "[0.448000 0.448000 0.448000 0.000000]"
+
+	//---- Normal Map ----
+	TextureNormal "models/rebuild/creeps/chaotic_era_chaoc_form/textures/warlock_the_infernal_master_golem_normal.png"
+
+	//---- Rim ----
+	g_flRimLightScale "0.800"
+	g_vRimLightColor "[1.000000 1.000000 0.796079 0.000000]"
+
+	//---- Specular ----
+	g_flCubeMapScalar "10.743"
+	g_flSpecularExponent "15.000"
+	g_flSpecularScale "1.000"
+	g_vSpecularColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureCubeMap "particles/rebuild/chaotic_spell/chaotic_area/effect/shadow_metal_cube.png"
+
+	Attributes
+	{
+		PreviewModel "models/rebuild/creeps/chaotic_era_chaoc_form/chaotic_era_chaoc_form.vmdl"
+	}
+
+	DynamicParams
+	{
+		g_vDetailTexCoordOffset "return frac(float2(.013,.35)*time());"
+	}
+
+	UnusedVariables
+	{
+		"TextureCubeMapSeparateMask" ""
+		"g_flColorWarpBlendFactor" "0"
+		"TextureColorWarp3D" ""
+		"g_flOverbrightFactor" "1"
+		"g_flAlphaTestReference" "0.506"
+		"TextureTranslucency" "[1.000000 1.000000 1.000000 0.000000]"
+	}
+
+
+	VariableState
+	{
+		"Blend To Full"
+		{
+		}
+		"Cloak"
+		{
+		}
+		"Color"
+		{
+		}
+		"Detail 1"
+		{
+		}
+		"Detail 2"
+		{
+		}
+		"Fresnel"
+		{
+		}
+		"Lighting"
+		{
+			"Ambient" 0
+			"Bloom" 0
+		}
+		"Mask 1"
+		{
+		}
+		"Mask 2"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Rim"
+		{
+		}
+		"Specular"
+		{
+		}
+	}
+}

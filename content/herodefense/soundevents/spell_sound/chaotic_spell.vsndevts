@@ -1,0 +1,1253 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+
+{
+	
+//
+	chaotic_aid_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_aid_target.vsnd",
+		]
+		volume = "4.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+		
+
+
+	chaotic_banishment_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_banishment_cast.vsnd",
+		]
+		volume = "2.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+		
+	chaotic_banishment_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_banishment_target.vsnd",
+		]
+		volume = "3.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+
+
+	chaotic_blight_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_blight_cast.vsnd",
+		]
+		volume = "3.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_blight_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_blight_target.vsnd",
+		]
+		volume = "3.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	chaotic_elemental_weapon_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_elemental_weapon_target.vsnd",
+		]
+		volume = "3.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+
+	chaotic_haste_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_haste_target.vsnd",
+		]
+		volume = "3.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_haste_move = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_haste_move.vsnd",
+		]
+		volume = "0.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_lightning_bolt_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_lightning_bolt_cast.vsnd",
+		]
+		volume = "6.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.500000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_mass_healing_word_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_mass_healing_word_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.500000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	
+	
+	chaotic_mass_healing_word_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_mass_healing_word_target.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.550000"
+		pitch = "1.500000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+
+	chaotic_hunger_of_hadar_cast1 = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_hunger_of_hadar_cast1.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	chaotic_hunger_of_hadar_cast2 = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_hunger_of_hadar_cast2.vsnd",
+		]
+		volume = "1.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	chaotic_beacon_of_hope_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_beacon_of_hope_cast.vsnd",
+		]
+		volume = "1.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_ice_storm_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_ice_storm_cast.vsnd",
+		]
+		volume = "1.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	
+	chaotic_ice_storm_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_ice_storm_target.vsnd",
+		]
+		volume = "1.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_ray_of_sickness_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_ray_of_sickness_target.vsnd",
+		]
+		volume = "1.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_witch_bolt_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_witch_bolt_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_witch_bolt_hit = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_witch_bolt_hit.vsnd",
+			"sounds/spell/chaotic_spell/chaotic_witch_bolt_hit2.vsnd",
+		]
+		volume = "1.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	
+	chaotic_bless_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_bless_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	chaotic_armor_of_agathys_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_armor_of_agathys_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_shield_of_faith_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_shield_of_faith_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	chaotic_heroism_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_heroism_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	chaotic_false_life_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_false_life_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	chaotic_ice_knife_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_ice_knife_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_ice_knife_hit = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_ice_knife_hit.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.50000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_magic_missile_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			// "sounds/spell/chaotic_spell/chaotic_magic_missile_cast.vsnd",
+			"sounds/spell/chaotic_spell/chaotic_magic_missile_hit.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.350000"
+		pitch_rand_max = "0.90000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_magic_missile_hit = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_magic_missile_hit.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_enlarge_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_enlarge_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_darkness_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_darkness_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_shatter_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_shatter_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_phantasmal_killer_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_phantasmal_killer_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_destructive_wave = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_destructive_wave.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_hold_monster_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_hold_monster_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_awaken_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_awaken_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_circle_of_death_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_circle_of_death_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_heroes_feast_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_heroes_feast_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+		chaotic_wind_walk_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_wind_walk_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+		chaotic_disintegrate_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_disintegrate_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	
+	chaotic_reverse_gravity_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_reverse_gravity_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+
+	}
+
+
+	chaotic_mohrs_shield_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_mohrs_shield_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	
+
+	chaotic_spell_sequencing_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_spell_sequencing_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_ruby_reverse_radiation_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_ruby_reverse_radiation_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_regenerate_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_regenerate_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_eurythmics_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_eurythmics_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+		chaotic_feeblemind_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_feeblemind_cast.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	
+		chaotic_caustic_torrent_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_caustic_torrent_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+		
+	chaotic_foresigh_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_foresigh_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+		chaotic_power_word_heal_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_power_word_heal_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_invulnerability_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_invulnerability_target.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	
+
+	chaotic_fire_ball_hit = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_fire_ball_hit.vsnd",
+		]
+		volume = "3.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_kalia_swordcraft_hit = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_kalia_swordcraft_hit.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	chaotic_aid_from_the_future_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_aid_from_the_future_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_protection_from_energy_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_protection_from_energy_target.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_weapon_enchantment_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_weapon_enchantment_target.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	
+	chaotic_imprint_falcon_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_imprint_falcon_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_imprint_falcon_hit = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_imprint_falcon_hit.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+
+	
+	chaotic_six_light_continuous_slash_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_six_light_continuous_slash_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_concentration_of_war_qi_start = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_concentration_of_war_qi_start.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_concentration_of_war_qi_end = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_concentration_of_war_qi_end.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.70000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_immediate_reflex_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_immediate_reflex_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_hurricane_warfare_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_hurricane_warfare_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_vashak_prophecy_target = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_vashak_prophecy_target.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+
+	chaotic_vashak_prophecy_fail = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_vashak_prophecy_fail.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_ability_promotion_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_ability_promotion_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_pierce_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_pierce_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	
+	chaotic_dragon_tooth_protrusion_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_dragon_tooth_protrusion_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+	chaotic_live_in_peace_magic_cast = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/chaotic_spell/chaotic_live_in_peace_magic_cast.vsnd",
+		]
+		volume = "2.20000"
+		pitch_rand_min = "-0.150000"
+		pitch_rand_max = "0.150000"
+		pitch = "1.00000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+
+	}
+}

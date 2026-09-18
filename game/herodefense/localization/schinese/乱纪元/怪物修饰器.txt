@@ -1,0 +1,86 @@
+
+
+
+"DOTA_Tooltip_modifier_lifeseeker_lifesteal"                   "嗜血"
+"DOTA_Tooltip_modifier_lifeseeker_lifesteal_Description"       "攻击有%dMODIFIER_PROPERTY_TOOLTIP%%%吸血效果" 
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_assassin"                   "刺杀者"
+"DOTA_Tooltip_modifier_chaotic_era_assassin_Description"       "靠近敌人%dMODIFIER_PROPERTY_TOOLTIP%距离才会显形" 
+
+
+"DOTA_Tooltip_modifier_chaotic_era_thirsty_furblog"                   "饥渴攻击"
+"DOTA_Tooltip_modifier_chaotic_era_thirsty_furblog_Description"       "每次攻击提高%dMODIFIER_PROPERTY_TOOLTIP%%%攻击力" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_sharp_tooth_raider"                   "尖牙突袭"
+"DOTA_Tooltip_modifier_chaotic_era_sharp_tooth_raider_Description"       "攻击可以削减目标%dMODIFIER_PROPERTY_TOOLTIP%点防御力" 
+
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_undying"                   "死亡抵抗"
+"DOTA_Tooltip_modifier_chaotic_era_undying_Description"       "受到致命伤害时可以以%dMODIFIER_PROPERTY_TOOLTIP%%%生命值回归，这个效果可以触发多次直到次数耗尽" 
+
+
+"DOTA_Tooltip_modifier_chaotic_era_lava_attack"                   "熔岩攻击"
+"DOTA_Tooltip_modifier_chaotic_era_lava_attack_Description"       "攻击可以造成%dMODIFIER_PROPERTY_TOOLTIP%范围的%dMODIFIER_PROPERTY_TOOLTIP%%%溅射伤害效果" 
+
+"DOTA_Tooltip_modifier_chaotic_era_sea_attack"                   "铁尾"
+"DOTA_Tooltip_modifier_chaotic_era_sea_attack_Description"       "获得%dMODIFIER_PROPERTY_TOOLTIP%点攻击护甲穿透，如果目标的护甲低于%dMODIFIER_PROPERTY_TOOLTIP%，还会对其造成%fMODIFIER_PROPERTY_TOOLTIP%秒眩晕" 
+
+"DOTA_Tooltip_modifier_chaotic_era_acid_attack"                   "盐水侵蚀"
+"DOTA_Tooltip_modifier_chaotic_era_acid_attack_Description"       "攻击会降低目标%dMODIFIER_PROPERTY_TOOLTIP%点护甲和%fMODIFIER_PROPERTY_TOOLTIP%%%闪避，叠加时刷新持续时间，持续%dMODIFIER_PROPERTY_TOOLTIP%秒，可弱驱散，状态抗性修正80%%" 
+"DOTA_Tooltip_modifier_chaotic_era_acid_attack_debuff"                   "盐水侵蚀"
+"DOTA_Tooltip_modifier_chaotic_era_acid_attack_debuff_Description"       "护甲降低%dMODIFIER_PROPERTY_TOOLTIP%点，闪避降低%fMODIFIER_PROPERTY_TOOLTIP%%%，可弱驱散" 
+
+"DOTA_Tooltip_modifier_chaotic_era_ice_attack"                   "冰晶攻击"
+"DOTA_Tooltip_modifier_chaotic_era_ice_attack_Description"       "攻击会使目标受到的伤害增加%dMODIFIER_PROPERTY_TOOLTIP%%%，持续%MODIFIER_PROPERTY_TOOLTIP%秒，状态抗性修正80%%" 
+"DOTA_Tooltip_modifier_chaotic_era_ice_attack_debuff"                   "冰晶脆弱"
+"DOTA_Tooltip_modifier_chaotic_era_ice_attack_debuff_Description"       "受到的伤害增加%fMODIFIER_PROPERTY_TOOLTIP%%%" 
+
+"DOTA_Tooltip_modifier_chaotic_era_chaotic_executive"                   "混乱执行"
+"DOTA_Tooltip_modifier_chaotic_era_chaotic_executive_Description"       "攻击可以对目标施加持续%dMODIFIER_PROPERTY_TOOLTIP%秒的负面状态，每层将减少目标%dMODIFIER_PROPERTY_TOOLTIP%%%最终伤害，独立叠加计算持续时间，可弱驱散，状态抗性修正80%%" 
+"DOTA_Tooltip_modifier_chaotic_era_chaotic_executive_debuff"                   "混乱执行"
+"DOTA_Tooltip_modifier_chaotic_era_chaotic_executive_debuff_Description"       "伤害减少%dMODIFIER_PROPERTY_TOOLTIP%%%，可弱驱散" 
+
+
+
+
+"DOTA_Tooltip_modifier_chaotic_era_super_boxing"                   "认真一拳"
+"DOTA_Tooltip_modifier_chaotic_era_super_boxing_Description"       "每攻击%dMODIFIER_PROPERTY_TOOLTIP%次可以击退攻击目标%dMODIFIER_PROPERTY_TOOLTIP%距离" 
+
+"DOTA_Tooltip_modifier_chaotic_era_hypnotic_pollen"                   "催眠花粉"
+"DOTA_Tooltip_modifier_chaotic_era_hypnotic_pollen_Description"       "受到来自%dMODIFIER_PROPERTY_TOOLTIP%距离内的攻击时会散发催眠花粉，降低其%dMODIFIER_PROPERTY_TOOLTIP%%%攻击速度与%dMODIFIER_PROPERTY_TOOLTIP%移动速度，持续%dMODIFIER_PROPERTY_TOOLTIP%秒，状态抗性修正80%%" 
+
+"DOTA_Tooltip_modifier_chaotic_era_hypnotic_pollen_debuff"                   "催眠花粉"
+"DOTA_Tooltip_modifier_chaotic_era_hypnotic_pollen_debuff_Description"       "攻击速度减少%dMODIFIER_PROPERTY_TOOLTIP%%%，移动速度减少%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_modifier_chaotic_era_self_regen"                   "自我修复"
+"DOTA_Tooltip_modifier_chaotic_era_self_regen_Description"       "每秒恢复最大生命值%dMODIFIER_PROPERTY_TOOLTIP%%%的生命" 
+
+"DOTA_Tooltip_modifier_chaotic_era_poison_boom"                   "瘴气枯木"
+"DOTA_Tooltip_modifier_chaotic_era_poison_boom_Description"       "不朽树桩的寿命只有%dMODIFIER_PROPERTY_TOOLTIP%秒，如果它在行将枯骨时仍未被击杀则会导致瘴气泄露，永久降低所有友军英雄%dMODIFIER_PROPERTY_TOOLTIP%全属性并对其施加自身最大生命值x%dMODIFIER_PROPERTY_TOOLTIP%%%的中毒状态" 
+
+"DOTA_Tooltip_modifier_chaotic_era_poison_boom_debuff"                   "瘴气感染"
+"DOTA_Tooltip_modifier_chaotic_era_poison_boom_debuff_Description"       "被不朽树桩的瘴气感染，全属性降低"
+
+
+"DOTA_Tooltip_modifier_chaotic_era_weak"                   "1级虚弱"
+"DOTA_Tooltip_modifier_chaotic_era_weak_Description"       "战斗时间过长，变得虚弱，所有技能冷却时间增加%dMODIFIER_PROPERTY_TOOLTIP%%%，移动速度减少%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_modifier_chaotic_era_weak2"                   "2级虚弱"
+"DOTA_Tooltip_modifier_chaotic_era_weak2_Description"       "全属性降低%dMODIFIER_PROPERTY_TOOLTIP%" 
+
+
+"DOTA_Tooltip_modifier_chaotic_era_weak3"                   "3级虚弱"
+"DOTA_Tooltip_modifier_chaotic_era_weak3_Description"       "无法恢复生命值，魔法恢复大幅度降低" 
+
+

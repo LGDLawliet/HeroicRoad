@@ -1,0 +1,56 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "crystal.vfx"
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Separate interior cube map ----
+	F_SEPARATE_INTERIOR_CUBE_MAP 1
+
+	//---- Specular cube map ----
+	F_SPECULAR_CUBE_MAP 1
+
+	//---- Color ----
+	g_vColorTint "[0.117647 0.564706 1.000000 1.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "[0.117647 0.564706 1.000000 1.000000]"
+
+	//---- Normal Map ----
+	g_flBumpStrength "3.000"
+	TextureNormal "models/monster/element/shadow/textures/shadow_normal.png"
+
+	//---- Specular ----
+	g_flBloom "0.100"
+	g_flCubeMapScalarExterior "20.000"
+	g_flCubeMapScalarInterior "20.000"
+	g_flFresnelExponent "0.5"
+	g_flFresnelReflectance "0.300"
+	g_flSpecularIntensity "1.000"
+	TextureExteriorCubeMap "models/monster/element/shadow/textures/shadow_metal_cube.png"
+	TextureInteriorCubeMap "models/monster/element/shadow/textures/shadow_metal_cube.png"
+
+	//---- Translucent ----
+	g_flOpacityScale "1.000"
+	TextureTranslucency "materials/default/default_trans.tga"
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Specular"
+		{
+		}
+		"Translucent"
+		{
+		}
+	}
+}

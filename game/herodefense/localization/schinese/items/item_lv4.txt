@@ -1,0 +1,77 @@
+"DOTA_Tooltip_ability_item_hd_advanced_Claw_of_attack"	"高阶攻击之爪<font color=\"#777777\">-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_advanced_Claw_of_attack_Lore"	"被精细打磨的爪子，比起最为低阶的武器，其锋利度已经削铁如泥。"
+
+"DOTA_Tooltip_ability_item_hd_advanced_Claw_of_attack_bonus_damage"	"+$damage"
+
+
+"DOTA_Tooltip_ability_item_hd_witchbane"	"行巫之祸<font color=\"#777777\">-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_witchbane_Description"	"<h1>主动：净化</h1>驱散友方目标。<br><br>驱散类型：弱驱散<br>\n<h1>被动：征服</h1>攻击时额外附带5%%自身最大魔法值的伤害。"
+"DOTA_Tooltip_ability_item_hd_witchbane_Lore"	"有了方法测试对象后，泰勒庄园的高墙之内已设想出无穷的暴行，并散播到外面的世界。"
+
+"DOTA_Tooltip_ability_item_hd_witchbane_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_witchbane_bonus_attack_speed"	"+$attack"
+
+
+"DOTA_Tooltip_ability_item_hd_arcana_blink"	"飞星·闪烁匕首<font color=\"#777777\">-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_arcana_blink_Description"	"\n<h1>主动：融合</h1><br>与该物品融为一体。<br>\n<h1>被动：闪烁</h1>可以代替急行进入冷却。"
+"DOTA_Tooltip_ability_item_hd_arcana_blink_Lore"	"天外飞星的力量赋予了闪烁匕首特殊的力量，现在它具有了融合之力。"
+"DOTA_Tooltip_ability_item_hd_arcana_blink_Note0"	"额外的说明：<br>即使放置于背包也能生效。"
+
+
+"DOTA_Tooltip_modifier_item_hd_arcana_blink_active"                   "飞星·闪烁匕首"
+"DOTA_Tooltip_modifier_item_hd_arcana_blink_active_Description"       "与这件物品融为一体了" 
+
+
+
+
+"DOTA_Tooltip_ability_item_hd_aghanims_shard"	"啊哈利姆魔晶<font color=\"#777777\">-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_aghanims_shard_Description"	"<h1>消耗：融合</h1>与你排序最左的高阶技能进行融合，永久提升其高阶等级*5，可以突破25级的限制，即使你图鉴等级不够，也可以忽略这个限制直接提升等级。<br><br>仅可以使用一次。"
+"DOTA_Tooltip_ability_item_hd_aghanims_shard_Lore"	"这块不可思议的水晶只有一名巫师知晓它的起源，而水晶的碎片几乎与赫赫有名的神杖一样让人梦寐以求。"
+
+"DOTA_Tooltip_modifier_item_hd_aghanims_shard_active"                   "啊哈利姆魔晶"
+"DOTA_Tooltip_modifier_item_hd_aghanims_shard_active_Description"       "与这件物品融为一体了" 
+
+
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier"	"维奇尔之眼<font color=\"#777777\">-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_Description"	"<h1>被动：法力储备</h1>你的最大魔法值减少20%%，但当你的魔法低于40%%时，获得智力10%%的魔法恢复加成。"
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_Lore"	"这枚戒指属于一个狡猾的当朝法师，他将一小撮敌人囚禁后作他私人的法力储备。"
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_Note0"	"额外的说明：""DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_bonus_int"	"+$int"
+"DOTA_Tooltip_ability_item_hd_eye_of_the_vizier_bonus_cast_range"	"+$cast_range"
+
+
+
+"DOTA_Tooltip_ability_item_hd_bottle_invisibility"	"隐形药剂<font color=\"#777777\">-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_bottle_invisibility_Description"	"<h1>消耗：圣水</h1>使用你的魔瓶将永久性获得新能力：<font color=\"#f0ad4e\">对自身</font>使用后可以进入2秒隐形状态，会被攻击或者施法等动作打断。"
+"DOTA_Tooltip_ability_item_hd_bottle_invisibility_Lore"	"这种奇特的液体可以永久性强化你的魔瓶。"
+"DOTA_Tooltip_ability_item_hd_bottle_invisibility_Note0"	"额外的说明：<br>仅可以使用一次。"
+"DOTA_Tooltip_modifier_item_new_bottle_invisibility"                   "隐形"
+
+"DOTA_Tooltip_ability_item_hd_poison_fog"	"海德拉权杖<font color=\"#777777\">-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_poison_fog_Description"	"<h1>被动：恶性感染</h1>在战斗回合时，每隔一段时间自动感染%radius%范围内的敌人，降低其%poison_res_down%% 中毒伤害抗性，持续%duration%秒。"
+"DOTA_Tooltip_ability_item_hd_poison_fog_Lore"	"即使是虚无界的强大法杖也限制不住这毒素。"
+"DOTA_Tooltip_ability_item_hd_poison_fog_bonus_atb"	"+全属性"
+"DOTA_Tooltip_ability_item_hd_poison_fog_bonus_poison_res"      "%+中毒伤害抗性"
+"DOTA_Tooltip_modifier_item_hd_poison_fog_active"                   "恶性感染"
+"DOTA_Tooltip_modifier_item_hd_poison_fog_active_Description"                   "中毒伤害抗性降低"
+
+"DOTA_Tooltip_ability_item_hd_poison_ball"	"染疫之心<font color=\"#777777\">-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_poison_ball_Description"	"<h1>被动：疫毒流通</h1>周围%radius%范围内每个中毒的单位会使你获得%bonus_armor%点护甲。\n<h1>被动：传染</h1>攻击敌人后，使其进入中毒状态。\n<font color=\"#606060\">传染造成的中毒积累值为1，但仍然会持续10秒。</font>"
+"DOTA_Tooltip_ability_item_hd_poison_ball_Lore"	"似乎传来不祥的光芒..."
+"DOTA_Tooltip_ability_item_hd_poison_ball_bonus_health"	"+生命值"
+"DOTA_Tooltip_ability_item_hd_poison_ball_bonus_magic_res"      "%+魔法抗性"
+"DOTA_Tooltip_modifier_item_hd_poison_ball"                   "万毒"
+"DOTA_Tooltip_modifier_item_hd_poison_ball_Description"                   "中毒对象个数"
+
+"DOTA_Tooltip_ability_item_hd_lotus_orb"	"莲花宝珠<font color='#777777'>-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_lotus_orb_Description"	"<h1>升级: <img src='s2r://panorama/images/compendium/coin_icon_png.vtex'/><font color='gold'>%upgrade_cost%</font></h1>消耗金币以升级。\n<h1>被动：莲花护盾</h1>受到的技能伤害降低%incoming%%%。"
+"DOTA_Tooltip_ability_item_hd_lotus_orb_Lore"	"强力的宝珠，能够防止使用者死于非命。"
+"DOTA_Tooltip_ability_item_hd_lotus_orb_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_lotus_orb_spell_resist"	"%+$spell_resist"
+
+"DOTA_Tooltip_ability_item_hd_enhancement_wise"	"符文：智慧<font color='#777777'>-第四梯队</font>"
+"DOTA_Tooltip_ability_item_hd_enhancement_wise_Description"	"<h1>消耗：融合</h1>吸收符文，使自身升一级并永久获得%eat_profic%%%精通，可叠加。"
+"DOTA_Tooltip_ability_item_hd_enhancement_wise_Lore"	"吸收符文，获得其庇护。"
+"DOTA_Tooltip_ability_item_hd_enhancement_wise_profic"	"%+$profic"
+"DOTA_Tooltip_ability_item_hd_enhancement_wise_all_attribute"	"+$all_attribute"
+"DOTA_Tooltip_modifier_item_hd_enhancement_wise_buff"	"符文：智慧"
+"DOTA_Tooltip_modifier_item_hd_enhancement_wise_buff_Description" "获得%dMODIFIER_PROPERTY_TOOLTIP%%%精通"

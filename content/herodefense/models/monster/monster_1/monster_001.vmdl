@@ -1,0 +1,2042 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc31:version{165d48dd-8adc-4f1d-abf7-4992e04ad577} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "MaterialGroup"
+						name = "materialGroup_1"
+						remaps = 
+						[
+							{
+								from = "materials/models/monster/monster_1/monster_001.vmat"
+								to = "materials/models/monster/monster_1/monster_001_2.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "materialGroup_2"
+						remaps = 
+						[
+							{
+								from = "materials/models/monster/monster_1/monster_001.vmat"
+								to = "materials/models/monster/monster_1/monster_001_3.vmat"
+							},
+						]
+					},
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "material #25.vmat"
+								to = "materials/models/monster/monster_1/monster_001.vmat"
+							},
+						]
+						use_global_default = true
+						global_default_material = "materials/models/monster/monster_1/monster_001_3.vmat"
+					},
+				]
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "attach_hitloc"
+						parent_bone = "TYRANOPODE_BODY_04"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack2"
+						parent_bone = "TYRANOPODE_TENTACLE_F_R_013"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_weapon"
+						parent_bone = "TYRANOPODE_BODY_05"
+						relative_origin = [ 98.597687, -0.042978, 11.486226 ]
+						relative_angles = [ -5.031786, -0.018011, 0.004984 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_head"
+						parent_bone = "TYRANOPODE_BODY_05"
+						relative_origin = [ 47.993713, 0.0, 0.000015 ]
+						relative_angles = [ -0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_mouth"
+						parent_bone = "TYRANOPODE_BODY_05"
+						relative_origin = [ 62.790161, -0.0, 0.0 ]
+						relative_angles = [ -0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack1"
+						parent_bone = "TYRANOPODE_TENTACLE_F_L_013"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+					{
+						_class = "Attachment"
+						name = "attach_attack3"
+						parent_bone = "TYRANOPODE_BODY_05"
+						relative_origin = [ 0.0, 0.0, 0.0 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_001"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -62.649799, -58.002174, -42.445625 ]
+								hitbox_maxs = [ 85.48793, 50.834785, 53.7911 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_001"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -74.550613, -50.054924, -64.532295 ]
+								hitbox_maxs = [ 86.046371, 52.347961, 57.069664 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_001"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -62.253494, -49.05471, -66.696198 ]
+								hitbox_maxs = [ 86.173447, 32.624199, 68.863708 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_001"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -60.84621, -43.772034, -55.064148 ]
+								hitbox_maxs = [ 84.862747, 50.719971, 67.030487 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_001"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -62.665745, -61.900063, -50.00795 ]
+								hitbox_maxs = [ 86.422546, 52.318459, 42.912704 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_001"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -62.292164, -32.63205, -66.94519 ]
+								hitbox_maxs = [ 86.134659, 49.046936, 68.338821 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_002"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -58.976788, -51.533684, -32.640549 ]
+								hitbox_maxs = [ 85.716019, 33.763939, 52.161438 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_002"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -59.081337, -54.185467, -410.358215 ]
+								hitbox_maxs = [ 85.611763, 82.513664, 269.457672 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_002"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -57.110138, -32.539932, -50.536617 ]
+								hitbox_maxs = [ 80.364044, 34.517975, 40.86768 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_002"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -56.420708, -31.888123, -37.305885 ]
+								hitbox_maxs = [ 82.597343, 51.378479, 51.612122 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_002"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -58.699432, -52.04071, -51.208969 ]
+								hitbox_maxs = [ 85.993256, 33.729858, 33.008759 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_002"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -58.693565, -34.522255, -44.34938 ]
+								hitbox_maxs = [ 84.738899, 32.5355, 47.054749 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_003"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -52.004108, -49.765942, -24.686695 ]
+								hitbox_maxs = [ 81.957993, 23.53133, 51.299885 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_003"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -52.109211, -24.376661, -51.858345 ]
+								hitbox_maxs = [ 81.853195, 48.140686, 25.68807 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_003"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -51.576836, -25.769531, -44.744637 ]
+								hitbox_maxs = [ 82.657249, 34.374016, 40.867683 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_003"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -49.332317, -23.660942, -26.360485 ]
+								hitbox_maxs = [ 83.994278, 50.733131, 50.571712 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_003"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -67.063004, -50.776222, -50.771873 ]
+								hitbox_maxs = [ 82.23674, 24.303696, 24.229233 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_003"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -51.616394, -34.376152, -44.349388 ]
+								hitbox_maxs = [ 82.617645, 26.619083, 41.26284 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_004"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.929596, -47.396774, -24.465881 ]
+								hitbox_maxs = [ 82.878357, 20.046928, 48.765427 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_004"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -34.960068, -20.12561, -49.18325 ]
+								hitbox_maxs = [ 82.773361, 46.592049, 24.720016 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_004"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.229645, -22.23011, -42.080803 ]
+								hitbox_maxs = [ 83.578537, 35.154491, 41.565849 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_004"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.157852, -19.50457, -22.624886 ]
+								hitbox_maxs = [ 85.327606, 49.231361, 49.043846 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_004"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -34.57608, -48.624977, -49.616138 ]
+								hitbox_maxs = [ 83.157394, 20.50054, 21.531033 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_004"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.269257, -35.155071, -45.047569 ]
+								hitbox_maxs = [ 83.538773, 22.229458, 38.599045 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_005"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.509857, -47.387619, -24.847237 ]
+								hitbox_maxs = [ 83.374817, 19.111694, 48.305199 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_005"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.615021, -19.742891, -48.837021 ]
+								hitbox_maxs = [ 83.269669, 47.27594, 23.807615 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_005"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.399796, -21.084885, -41.868599 ]
+								hitbox_maxs = [ 84.075256, 34.582581, 41.565849 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_005"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.151794, -21.177801, -21.388351 ]
+								hitbox_maxs = [ 85.210617, 48.903435, 49.173553 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_005"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.230865, -48.138832, -50.148979 ]
+								hitbox_maxs = [ 83.654037, 21.694351, 20.77459 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_005"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.312935, -34.582191, -45.047565 ]
+								hitbox_maxs = [ 83.989075, 21.085205, 38.386829 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_006"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.979599, -46.380852, -27.146362 ]
+								hitbox_maxs = [ 84.847565, 19.223305, 47.58828 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_006"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -41.084717, -20.480392, -48.008698 ]
+								hitbox_maxs = [ 84.742706, 47.147758, 24.785095 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_006"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.280403, -16.848019, -41.868591 ]
+								hitbox_maxs = [ 84.859978, 31.930813, 41.565857 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_006"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.288544, -22.081123, -21.444351 ]
+								hitbox_maxs = [ 79.783447, 47.802055, 48.421074 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_006"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.701019, -46.575569, -49.922585 ]
+								hitbox_maxs = [ 85.126312, 21.615898, 21.376762 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_006"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.319962, -31.929262, -45.047562 ]
+								hitbox_maxs = [ 84.784515, 16.84939, 38.386833 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_007"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -38.08522, -45.182053, -27.264282 ]
+								hitbox_maxs = [ 84.709412, 18.735268, 47.781586 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_007"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -38.190186, -20.406181, -48.191612 ]
+								hitbox_maxs = [ 84.60463, 46.314018, 23.99482 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_007"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -37.386482, -16.863926, -42.074318 ]
+								hitbox_maxs = [ 80.103371, 31.12318, 39.942932 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_007"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.276779, -22.267929, -20.94072 ]
+								hitbox_maxs = [ 82.347168, 48.177826, 47.038422 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_007"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -37.806732, -46.731499, -48.709572 ]
+								hitbox_maxs = [ 84.98819, 21.142403, 21.247879 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_007"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -37.426125, -31.121223, -43.424648 ]
+								hitbox_maxs = [ 80.063805, 16.866066, 38.592617 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_body_01"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.081894, -138.726318, -135.618256 ]
+								hitbox_maxs = [ 150.351517, 143.222626, 135.618317 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_008"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -37.743439, -40.829048, -27.246674 ]
+								hitbox_maxs = [ 80.127808, 18.731865, 47.790283 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_008"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -37.848511, -20.391624, -48.202034 ]
+								hitbox_maxs = [ 80.023071, 42.355911, 24.002892 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_008"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -37.044823, -14.901786, -42.074326 ]
+								hitbox_maxs = [ 80.826683, 31.135803, 39.942924 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_008"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.31134, -22.245186, -20.940201 ]
+								hitbox_maxs = [ 83.070557, 48.183563, 43.330299 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_008"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -37.464996, -46.744797, -45.44635 ]
+								hitbox_maxs = [ 80.406525, 21.138573, 21.237442 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_008"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.463371, -31.133862, -43.424667 ]
+								hitbox_maxs = [ 80.787071, 14.903904, 38.592606 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_body_02"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -49.94474, -94.647232, -90.431519 ]
+								hitbox_maxs = [ 62.72654, 94.647629, 93.782196 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_009"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.16806, -39.605194, -24.535675 ]
+								hitbox_maxs = [ 84.435059, 18.622574, 47.110397 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_009"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.61972, -19.878479, -47.432144 ]
+								hitbox_maxs = [ 84.3302, 40.529617, 22.427948 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_009"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.337265, -14.372993, -42.074318 ]
+								hitbox_maxs = [ 84.155716, 29.469799, 36.913002 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_009"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -41.291656, -20.534882, -20.595779 ]
+								hitbox_maxs = [ 83.686432, 47.195679, 41.703552 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_009"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.758087, -45.81028, -43.359894 ]
+								hitbox_maxs = [ 84.713928, 19.465652, 20.523666 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_009"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.376968, -29.468269, -40.394699 ]
+								hitbox_maxs = [ 84.115936, 14.374645, 38.592606 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_body_03"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -27.050194, -62.536533, -57.7136 ]
+								hitbox_maxs = [ 70.124352, 62.536449, 57.71357 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_010"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.555206, -35.711441, -24.528885 ]
+								hitbox_maxs = [ 83.425415, 18.001183, 42.407852 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_010"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.660278, -19.191948, -42.868927 ]
+								hitbox_maxs = [ 83.320709, 36.431763, 22.429535 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_010"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -41.595367, -12.984962, -36.844154 ]
+								hitbox_maxs = [ 84.124802, 27.936913, 34.405067 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_010"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -39.349915, -20.526688, -19.856949 ]
+								hitbox_maxs = [ 84.359619, 42.791618, 37.554382 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_010"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -40.276367, -41.592209, -39.270752 ]
+								hitbox_maxs = [ 83.704346, 19.466415, 19.726837 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_010"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -41.635109, -27.935303, -37.886757 ]
+								hitbox_maxs = [ 84.084999, 12.986503, 33.362465 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_body_04"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -10.092514, -62.040001, -55.814842 ]
+								hitbox_maxs = [ 68.513489, 62.039597, 55.814796 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_011"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -39.226135, -35.544243, -22.578079 ]
+								hitbox_maxs = [ 126.481659, 17.649399, 40.144745 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_011"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -39.331055, -18.957504, -40.397797 ]
+								hitbox_maxs = [ 126.376984, 36.47168, 20.206482 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_011"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -38.527115, -12.129047, -36.684872 ]
+								hitbox_maxs = [ 127.180832, 27.99086, 32.140621 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_011"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -36.282013, -18.662125, -19.450119 ]
+								hitbox_maxs = [ 129.425232, 40.252777, 37.29892 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_011"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -38.947296, -38.793587, -38.929581 ]
+								hitbox_maxs = [ 126.760437, 18.319229, 19.422134 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_011"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -38.56665, -27.989229, -35.622269 ]
+								hitbox_maxs = [ 127.141098, 12.130766, 33.203262 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_body_05"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -103.731644, -74.718246, -67.787697 ]
+								hitbox_maxs = [ 42.660603, 74.718063, 67.787682 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -41.561798, -35.309357, -20.375839 ]
+								hitbox_maxs = [ 83.903992, 15.434555, 36.96167 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -41.667084, -16.526428, -37.337662 ]
+								hitbox_maxs = [ 83.798889, 36.025436, 18.618835 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.183311, -10.706075, -33.497326 ]
+								hitbox_maxs = [ 84.602905, 28.081127, 29.223034 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.267792, -17.908157, -16.787018 ]
+								hitbox_maxs = [ 86.846771, 37.332291, 36.589584 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -41.283081, -35.993042, -37.977936 ]
+								hitbox_maxs = [ 84.182678, 17.974457, 16.78949 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.223206, -28.079311, -32.704582 ]
+								hitbox_maxs = [ 84.563049, 10.707919, 30.015816 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_jaw_r_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -36.816345, -11.594738, -53.832504 ]
+								hitbox_maxs = [ 85.627304, 26.119137, 46.042038 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_jaw_r_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -37.07576, -24.952507, -48.591476 ]
+								hitbox_maxs = [ 85.582642, 13.874741, 51.152802 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_jaw_m_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -34.277817, -9.217843, -51.8452 ]
+								hitbox_maxs = [ 84.684113, 28.659035, 47.977509 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_jaw_m_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -34.173386, -27.483906, -50.615639 ]
+								hitbox_maxs = [ 84.691849, 9.034248, 49.207085 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_jaw_f_l"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -33.988388, -9.924934, -50.765675 ]
+								hitbox_maxs = [ 85.064545, 27.786034, 48.060749 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_jaw_f_r"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -34.325241, -27.587627, -47.244835 ]
+								hitbox_maxs = [ 85.003281, 10.126247, 52.583473 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_l_013"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.318237, -34.467102, -16.096252 ]
+								hitbox_maxs = [ 41.568848, 11.158035, 33.580307 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_f_r_013"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.42334, -12.382492, -34.726639 ]
+								hitbox_maxs = [ 41.463745, 34.954971, 14.666199 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_r_013"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -41.619667, -9.374357, -25.471138 ]
+								hitbox_maxs = [ 42.267426, 28.009779, 26.244873 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_r_013"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.299194, -14.184586, -12.652405 ]
+								hitbox_maxs = [ 44.510956, 35.117981, 35.338104 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_r_l_013"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -42.039703, -34.551407, -36.483887 ]
+								hitbox_maxs = [ 41.847382, 14.242844, 12.612915 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "tyranopode_tentacle_m_l_013"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -41.659355, -28.007824, -29.726255 ]
+								hitbox_maxs = [ 42.22776, 9.376256, 21.989641 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "feet"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_R_R_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_R_L_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_M_R_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_M_L_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_F_R_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_F_L_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "head"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_F_L"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_F_R"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_M_L"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_R_L"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_R_R"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "hands"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_F_L_013"
+								surface_property = ""
+								translation_only = false
+								group_id = 1
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_F_R_013"
+								surface_property = ""
+								translation_only = false
+								group_id = 1
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_F_L_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.0, -2.0, -2.0 ]
+								hitbox_maxs = [ 2.0, 2.0, 2.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_F_R_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.0, -2.0, -2.0 ]
+								hitbox_maxs = [ 2.0, 2.0, 2.0 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "effect"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_R_L"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.0, -2.0, -2.0 ]
+								hitbox_maxs = [ 2.0, 2.0, 2.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_R_R"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.0, -2.0, -2.0 ]
+								hitbox_maxs = [ 2.0, 2.0, 2.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_F_L"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.0, -2.0, -2.0 ]
+								hitbox_maxs = [ 2.0, 2.0, 2.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_F_R"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.0, -2.0, -2.0 ]
+								hitbox_maxs = [ 2.0, 2.0, 2.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_JAW_M_R"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -2.0, -2.0, -2.0 ]
+								hitbox_maxs = [ 2.0, 2.0, 2.0 ]
+							},
+						]
+					},
+					{
+						_class = "HitboxSet"
+						name = "effect_feet"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_R_R_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_R_L_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_M_R_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_M_L_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_F_R_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "TYRANOPODE_TENTACLE_F_L_012"
+								surface_property = ""
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -4440580.0, -4440580.0, -4440580.0 ]
+								hitbox_maxs = [ -4440580.0, -4440580.0, -4440580.0 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "monster_001"
+						filename = "models/monster/monster_1/monster_001.smd"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "monster_001_attack"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_CAST_ABILITY_1"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_attack.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 40
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_CrawlBackwards"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_CrawlBackwards.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_CrawlForward"
+						children = 
+						[
+							{
+								_class = "AnimSmoothLoop"
+								frames_from_start = 0
+								frames_from_end = 0
+							},
+						]
+						activity_name = "ACT_DOTA_RUN"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_CrawlForward.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_CrawlLeft"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_CrawlLeft.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_CrawlRight"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_CrawlRight.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_Death"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 3
+								event_keys = 
+								{
+									name = soundevent:"n_creep_Skeleton.Death"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 24
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Medium"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 15
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Medium"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 19
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Medium"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 24
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Medium"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 30
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Medium"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 26
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Light"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 30
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Light"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 28
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Light"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 36
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Light"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 40
+								event_keys = 
+								{
+									name = soundevent:"BodyImpact_Common.Light"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+						]
+						activity_name = "ACT_DOTA_DIE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_Death.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 110
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_Idle"
+						activity_name = "ACT_DOTA_IDLE"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = true
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_Idle.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 60
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_JumpBackwards"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_CHANNEL_ABILITY_2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_JumpBackwards.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 40
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_JumpBite"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_JumpBite.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 45
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_JumpForward"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_CHANNEL_ABILITY_1"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_JumpForward.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 40
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_JumpLeft"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_CHANNEL_ABILITY_3"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_JumpLeft.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 40
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_JumpRight"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = "ACT_DOTA_CHANNEL_ABILITY_4"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_JumpRight.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 40
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_JumpTentaclesSmashAttack"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_JumpTentaclesSmashAttack.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 60
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_RoarExhaleGas"
+						activity_name = "ACT_DOTA_CAST_ABILITY_5"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_RoarExhaleGas.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 75
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_Spit"
+						activity_name = "ACT_DOTA_CAST_ABILITY_6"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_Spit.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 30
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_TentacleAttackLeft"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 0
+								event_keys = 
+								{
+									name = soundevent:"Hero_Slardar.PreAttack"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 20
+								event_keys = 
+								{
+									name = soundevent:"CNY_Beast.Attack"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_TentacleAttackLeft.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 45
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_TentacleAttackRight"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 20
+								event_keys = 
+								{
+									name = soundevent:"CNY_Beast.Attack"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+							{
+								_class = "AnimEvent"
+								event_class = "AE_CL_PLAYSOUND"
+								event_frame = 0
+								event_keys = 
+								{
+									name = soundevent:"Hero_Slardar.PreAttack"
+									stop_on_seq_change = false
+									use_layer_sequence = false
+									tags = null
+								}
+							},
+						]
+						activity_name = "ACT_DOTA_ATTACK2"
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_TentacleAttackRight.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 45
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_Tentacles2HitCombo"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_Tentacles2HitCombo.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 80
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_Tentacles3HitCombo"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_Tentacles3HitCombo.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 110
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "monster_001_TentaclesSmashAttack"
+						children = 
+						[
+							{
+								_class = "ExtractMotion"
+								extract_tx = true
+								extract_ty = true
+								extract_tz = false
+								extract_rz = false
+								linear = false
+								quadratic = false
+								root_bone_name = ""
+								motion_type = "Single"
+							},
+						]
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/monster/monster_1/monster_001_TentaclesSmashAttack.smd"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 40
+						framerate = 30.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		importer_notes = """
+Imported from VMDL
+"""
+	}
+}

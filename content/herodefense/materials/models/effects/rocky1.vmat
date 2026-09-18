@@ -1,0 +1,13 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"TextureColor"	"materials/models/effects/rocky1_color.png"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/models/effects/rocky1_color_psd_ad7dea87.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"default"
+	}
+}

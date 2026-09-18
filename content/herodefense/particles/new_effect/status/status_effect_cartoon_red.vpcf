@@ -1,0 +1,54 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf36:version{d15c9157-10e0-47bc-9333-1ac81da07b8d} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 1
+	m_nInitialParticles = 1
+	m_flConstantRadius = 0.0
+	m_ConstantColor = [ 0, 0, 0, 255 ]
+	m_nConstantSequenceNumber = 1
+	m_nBehaviorVersion = 12
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_StatusEffect"
+			m_flDetail2Scale = 1.5
+			m_flColorWarpIntensity = 0.5
+			m_flDetail2BlendFactor = 0.0
+			m_flEnvMapIntensity = 2.0
+			m_flAmbientScale = 0.0
+			m_flRimLightScale = 2.0
+			m_flSpecularScale = 50.0
+			m_flSpecularExponent = 2.0
+			m_flReflectionsTintByBaseBlendToNone = 0.25
+			m_flMetalnessBlendToFull = 0.9
+			m_specularColor = [ 255, 0, 50 ]
+			m_rimLightColor = [ 255, 0, 0 ]
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_RampScalarLinearSimple"
+			m_Rate = 70.0
+			m_flEndTime = 340282346638528859811704183484516925440.0
+			m_nField = 5
+		},
+		{
+			_class = "C_OP_EndCapTimedDecay"
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderStatusEffect"
+			m_pTextureColorWarp = resource:"materials/models/heroes/statuseffects/colorwarp_lotus_orb.vtex"
+		},
+	]
+}

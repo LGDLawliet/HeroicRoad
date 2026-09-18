@@ -1,0 +1,98 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc32:version{c5dcef98-b629-46ab-88e3-a17c005c935e} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/custom/hd_props/legendary_forge/kit/sm_arch_03.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = 
+							[
+								"SM_Large_Spike_Rock_B3",
+								"SM_Large_Spike_Rock_B2",
+								"SM_Large_Spike_Rock_B1",
+								"SM_Large_Spike_Rock_C3",
+								"SM_Large_Spike_Rock_C2",
+								"SM_Large_Spike_Rock_C1",
+								"SM_Large_Spike_Rock_E3",
+								"SM_Large_Spike_Rock_E2",
+								"SM_Large_Spike_Rock_E1",
+								"SM_Background_Cliff_A3",
+								"SM_Background_Cliff_A2",
+								"SM_Background_Cliff_A1",
+								"SM_Background_Cliff_B3",
+								"SM_Background_Cliff_B2",
+								"SM_Background_Cliff_B1",
+								"SM_Plataeu_B2",
+								"SM_Plataeu_B1",
+								"SM_Plataeu_B3",
+								"SM_Plataeu_C3",
+								"SM_Plataeu_C2",
+								"SM_Plataeu_C1",
+								"SM_Plateau_A3",
+								"SM_Plateau_A2",
+								"SM_Plateau_A1",
+								"UCX_SM__stairs",
+								"SM__stairs3",
+								"SM__stairs2",
+								"SM__stairs1",
+								"SM_stairs_05",
+								"SM_stairs_04",
+								"SM_stairs_03",
+								"SM__stairs_06",
+								"SM__stairs_05",
+								"SM__stairs_04",
+								"SM_arch3",
+								"SM_arch2",
+								"SM_arch1",
+								"SM_arch_06",
+								"SM_arch_04",
+								"SM_arch_05",
+							]
+						}
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "mi_bricks.vmat"
+								to = "models/custom/hd_props/legendary_forge/kit/bricks.vmat"
+							},
+							{
+								from = "mi_ground.vmat"
+								to = "models/custom/hd_props/legendary_forge/kit/ground.vmat"
+							},
+							{
+								from = "mi_trim_gold.vmat"
+								to = "models/custom/hd_props/legendary_forge/kit/trim_gold.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		importer_notes = "Imported from VMDL"
+	}
+}

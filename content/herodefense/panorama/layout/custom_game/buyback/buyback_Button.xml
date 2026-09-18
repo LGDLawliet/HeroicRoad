@@ -1,0 +1,26 @@
+<root>
+    <styles>
+        <include src="s2r://panorama/layout/custom_game/buyback/buyback.css"/>
+    </styles>
+
+    <scripts>
+
+    </scripts>
+
+
+
+
+    <Panel hittest="false" class="BuyBackRoot">
+		<Panel id="buyBackButtonRoot" hittest = "true">
+            <Button class="BuyBackButton_class" id = "singleBuyBackButton" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_BuyBackInfo')" onmouseout="DOTAHideTextTooltip()" >  
+
+            </Button> 
+
+    
+
+		</Panel>
+
+
+    </Panel>
+
+</root>

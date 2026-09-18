@@ -1,0 +1,1396 @@
+
+"DOTA_Tooltip_modifier_ChallengeInfo_001_1"       "能量抑制难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_2"       "能量抑制难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_3"       "能量抑制难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_4"       "能量抑制难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_001_5"       "能量抑制难度5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_002_1"       "心脏枯竭难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_2"       "心脏枯竭难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_3"       "心脏枯竭难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_4"       "心脏枯竭难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_002_5"       "心脏枯竭难度5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_003_1"       "疑虑难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_2"       "疑虑难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_3"       "疑虑难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_4"       "疑虑难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_003_5"       "疑虑难度5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_004_1"       "生命探寻难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_2"       "生命探寻难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_3"       "生命探寻难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_4"       "生命探寻难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_004_5"       "生命探寻难度5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_005_1"       "法力枯竭难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_2"       "法力枯竭难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_3"       "法力枯竭难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_4"       "法力枯竭难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_005_5"       "法力枯竭难度5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_006_1"       "梦境难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_2"       "梦境难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_3"       "梦境难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_4"       "梦境难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_006_5"       "梦境难度5"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_007_1"       "妙手回春难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_2"       "妙手回春难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_3"       "妙手回春难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_4"       "妙手回春难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_007_5"       "妙手回春难度5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_008_1"       "灵魂困局难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_2"       "灵魂困局难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_3"       "灵魂困局难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_4"       "灵魂困局难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_008_5"       "灵魂困局难度5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_009_1"       "全属性抑制难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_2"       "全属性抑制难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_3"       "全属性抑制难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_4"       "全属性抑制难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_009_5"       "全属性抑制难度5"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_010_1"       "脑虫难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_2"       "脑虫难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_3"       "脑虫难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_4"       "脑虫难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_010_5"       "脑虫难度5" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_011_1"       "尖牙利齿难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_2"       "尖牙利齿难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_3"       "尖牙利齿难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_4"       "尖牙利齿难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_011_5"       "尖牙利齿难度5"   
+
+"DOTA_Tooltip_modifier_ChallengeInfo_012_1"       "化学狂暴难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_2"       "化学狂暴难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_3"       "化学狂暴难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_4"       "化学狂暴难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_012_5"       "化学狂暴难度5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_013_1"       "自爆军团难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_2"       "自爆军团难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_3"       "自爆军团难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_4"       "自爆军团难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_013_5"       "自爆军团难度5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_014_1"       "死神凝视难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_2"       "死神凝视难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_3"       "死神凝视难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_4"       "死神凝视难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_014_5"       "死神凝视难度5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_015_1"       "魔王降临难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_2"       "魔王降临难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_3"       "魔王降临难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_4"       "魔王降临难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_015_5"       "魔王降临难度5" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_016_1"       "秘而不宣的第十三个逃犯难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_2"       "秘而不宣的第十三个逃犯难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_3"       "秘而不宣的第十三个逃犯难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_4"       "秘而不宣的第十三个逃犯难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_016_5"       "秘而不宣的第十三个逃犯难度5"    
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_017_1"       "天体坍缩难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_2"       "天体坍缩难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_3"       "天体坍缩难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_4"       "天体坍缩难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_017_5"       "天体坍缩难度5"    
+
+"DOTA_Tooltip_modifier_ChallengeInfo_018_1"       "颅犬信条难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_2"       "颅犬信条难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_3"       "颅犬信条难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_4"       "颅犬信条难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_018_5"       "颅犬信条难度5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_019_1"       "迎霜节难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_2"       "迎霜节难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_3"       "迎霜节难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_4"       "迎霜节难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_019_5"       "迎霜节难度5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_020_1"       "生命真谛难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_2"       "生命真谛难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_3"       "生命真谛难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_4"       "生命真谛难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_5"       "生命真谛难度5"  
+"DOTA_Tooltip_modifier_ChallengeInfo_020_effect"       "生命真谛"   
+"DOTA_Tooltip_modifier_ChallengeInfo_020_effect_Description"       "赋予大幅度生命值上限增加" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_021_1"       "电解质紊乱难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_2"       "电解质紊乱难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_3"       "电解质紊乱难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_4"       "电解质紊乱难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_021_5"       "电解质紊乱难度5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_022_1"       "腰椎间盘突出难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_2"       "腰椎间盘突出难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_3"       "腰椎间盘突出难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_4"       "腰椎间盘突出难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_022_5"       "腰椎间盘突出难度5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_023_1"       "时间之锁难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_2"       "时间之锁难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_3"       "时间之锁难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_4"       "时间之锁难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_023_5"       "时间之锁难度5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_024_1"       "强直性脊柱炎难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_2"       "强直性脊柱炎难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_3"       "强直性脊柱炎难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_4"       "强直性脊柱炎难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_5"       "强直性脊柱炎难度5"  
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_1"       "井底之蛙难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_2"       "井底之蛙难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_3"       "井底之蛙难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_4"       "井底之蛙难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_5"       "井底之蛙难度5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_026_1"       "天降陨石难度1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_2"       "天降陨石难度2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_3"       "天降陨石难度3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_4"       "天降陨石难度4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_5"       "天降陨石难度5"  
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_027_1"       "艾滋尤格的烈焰1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_2"       "艾滋尤格的烈焰2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_3"       "艾滋尤格的烈焰3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_4"       "艾滋尤格的烈焰4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_027_5"       "艾滋尤格的烈焰5"   
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_028_1"       "平原之灾1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_2"       "平原之灾2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_3"       "平原之灾3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_4"       "平原之灾4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_028_5"       "平原之灾5" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_1"       "法术反制1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_2"       "法术反制2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_3"       "法术反制3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_4"       "法术反制4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_5"       "法术反制5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_1"       "缓慢觉醒1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_2"       "缓慢觉醒2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_3"       "缓慢觉醒3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_4"       "缓慢觉醒4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_5"       "缓慢觉醒5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_1"       "西汉中山靖王之后1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_2"       "西汉中山靖王之后2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_3"       "西汉中山靖王之后3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_4"       "西汉中山靖王之后4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_5"       "西汉中山靖王之后5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_032_1"       "直视气场1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_2"       "直视气场2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_3"       "直视气场3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_4"       "直视气场4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_5"       "直视气场5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_033_1"       "法力虚空1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_2"       "法力虚空2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_3"       "法力虚空3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_4"       "法力虚空4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_5"       "法力虚空5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_034_1"       "消力1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_2"       "消力2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_3"       "消力3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_4"       "消力4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_5"       "消力5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_035_1"       "通灵抑制1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_2"       "通灵抑制2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_3"       "通灵抑制3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_4"       "通灵抑制4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_5"       "通灵抑制5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_036_1"       "次元封锁1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_036_2"       "次元封锁2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_036_3"       "次元封锁3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_036_4"       "次元封锁4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_036_5"       "次元封锁5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_037_1"       "拒绝扎堆1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_2"       "拒绝扎堆2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_3"       "拒绝扎堆3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_4"       "拒绝扎堆4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_5"       "拒绝扎堆5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_038_1"       "盗贼的极致1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_2"       "盗贼的极致2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_3"       "盗贼的极致3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_4"       "盗贼的极致4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_5"       "盗贼的极致5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_039_1"       "永劫之墟的幽魂1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_2"       "永劫之墟的幽魂2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_3"       "永劫之墟的幽魂3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_4"       "永劫之墟的幽魂4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_5"       "永劫之墟的幽魂5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_040_1"       "贪婪的化身1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_2"       "贪婪的化身2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_3"       "贪婪的化身3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_4"       "贪婪的化身4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_5"       "贪婪的化身5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_041_1"       "命令拒绝1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_2"       "命令拒绝2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_3"       "命令拒绝3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_4"       "命令拒绝4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_5"       "命令拒绝5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_042_1"       "大地的试炼1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_2"       "大地的试炼2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_3"       "大地的试炼3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_4"       "大地的试炼4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_5"       "大地的试炼5"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_043_1"       "死咒1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_2"       "死咒2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_3"       "死咒3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_4"       "死咒4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_5"       "死咒5"
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_044_1"       "不死之病佐巴埃1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_2"       "不死之病佐巴埃2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_3"       "不死之病佐巴埃3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_4"       "不死之病佐巴埃4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_5"       "不死之病佐巴埃5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_1"       "凋零钟声1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_2"       "凋零钟声2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_3"       "凋零钟声3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_4"       "凋零钟声4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_5"       "凋零钟声5"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_1_Description"       "全额攻击力减少%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_2_Description"       "全额攻击力减少%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_3_Description"       "全额攻击力减少%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_4_Description"       "全额攻击力减少%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+"DOTA_Tooltip_modifier_ChallengeInfo_045_5_Description"       "全额攻击力减少%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_046_1"       "传奇的追忆1"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_2"       "传奇的追忆2"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_3"       "传奇的追忆3"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_4"       "传奇的追忆4"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_5"       "传奇的追忆5"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_effect"       "井底之蛙"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_effect_Description"       "赋予妖术之力" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_026_effect"       "天降陨石"   
+"DOTA_Tooltip_modifier_ChallengeInfo_026_effect_Description"       "赋予魔法抗性提升" 
+
+"DOTA_Tooltip_modifier_generic_stunned_cant_purge"       "眩晕"   
+"DOTA_Tooltip_modifier_generic_stunned_cant_purge_Description"       "无法被驱散" 
+"DOTA_Tooltip_modifier_ChallengeInfo_024_debuff"       "眩晕"   
+"DOTA_Tooltip_modifier_ChallengeInfo_024_debuff_Description"       "无法被驱散" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff"       "妖术"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff_Description"       "弱小无力" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff2"       "妖术"   
+"DOTA_Tooltip_modifier_ChallengeInfo_025_debuff2_Description"       "弱小无力" 
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_effect"       "法术反制"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_effect_Description"       "赋予抵挡技能伤害的能力" 
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_029_buff"       "法术反制"   
+"DOTA_Tooltip_modifier_ChallengeInfo_029_buff_Description"       "赋予抵挡技能伤害的能力" 
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_self_buff"       "觉醒"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_self_buff_Description"       "赋予全属性提升" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_enemy_buff"       "觉醒"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_enemy_buff_Description"       "赋予状态抗性加成" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_bonus"       "缓慢觉醒"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_bonus_Description"       "每回合赋予属性增长" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_030_effect"       "缓慢觉醒"   
+"DOTA_Tooltip_modifier_ChallengeInfo_030_effect_Description"       "每回合使敌人获得状态抗性" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_buff"       "孔明的赏识"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_buff_Description"       "孔明使有仁义之心的你提升了主属性" 
+
+"DOTA_Tooltip_modifier_ChallengeInfo_031_debuff"       "愚仁"   
+"DOTA_Tooltip_modifier_ChallengeInfo_031_debuff_Description"       "减少全属性" 
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_032_effect"       "直视气场"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_effect_Description"       "攻击有几率嘲讽目标" 
+"DOTA_Tooltip_modifier_ChallengeInfo_032_debuff"       "直视"   
+"DOTA_Tooltip_modifier_ChallengeInfo_032_debuff_Description"       "被嘲讽" 
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_ChallengeInfo"	"背负更多的苦难"
+"DOTA_Tooltip_ability_ChallengeInfo_Description"	"<font color=\"#5cb85c\">仅不可能难度以后开启。</font><br><span style=\"color: rgb(91, 192, 222); line-height: 1.42857143;\">通过在接下来的一回合强化敌人，亦或削弱自身，添加特殊精英怪物等挑战，获得额外的奖励。<br><font color=\"#5bc0de\">每回合结束后给出5个随机的苦难挑选，共五个难度等级，难度从左到右递增。<br></font><br><font color=\"#db4e21\">注意:</font><font color=\"#db4e21\"><br>1.苦难只会持续一回合；</font><br><font color=\"#db4e21\"><br>2.某些苦难挑战失败不会导致游戏失败，除非是因为所有玩家死亡；</font><br><font color=\"#db4e21\"><br>4.苦难必须回合开始前进行选择；</font><br><font color=\"#db4e21\"><br>5.每名玩家的苦难可以不同，相同的苦难可以叠加；</font><font color=\"#db4e21\"><br></font><br><font color=\"#db4e21\">6.请提前与队友进行沟通，防止内讧；</font><font color=\"#db4e21\"><br></font><br><font color=\"#db4e21\">7.难度额外奖励是固定值，不受到加成，部分小额度额外奖励是全体加成；<br></font><br><font color=\"#db4e21\">8.重点:一旦选择了某个苦难便不可取消，但可以变更难度。</font><font color=\"#db4e21\"><br></font><br><font color=\"#db4e21\">"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_1"	"<font color=\"#f0ad4e\">能量抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的造成伤害降低<font color=\"#d9534f\">15%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后金币奖励增加<font color=\"#d9534f\">15%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_2"	"<font color=\"#f0ad4e\">能量抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的造成伤害降低<font color=\"#d9534f\">23%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后金币奖励增加<font color=\"#d9534f\">25%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_3"	"<font color=\"#f0ad4e\">能量抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的造成伤害降低<font color=\"#d9534f\">35%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后金币奖励增加<font color=\"#d9534f\">40%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_4"	"<font color=\"#f0ad4e\">能量抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的造成伤害降低<font color=\"#d9534f\">55%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后金币奖励增加<font color=\"#d9534f\">70%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_5"	"<font color=\"#f0ad4e\">能量抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_001_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的造成伤害降低<font color=\"#d9534f\">80%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后金币奖励增加<font color=\"#d9534f\">120%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+
+// "DOTA_Tooltip_ability_ChallengeInfo_002_1"	"<font color=\"#f0ad4e\">心脏枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_002_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的最大生命值减少<font color=\"#d9534f\">10%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后最大生命值永久增加<font color=\"#d9534f\">1%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_002_2"	"<font color=\"#f0ad4e\">心脏枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_002_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的最大生命值减少<font color=\"#d9534f\">17%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后最大生命值永久增加<font color=\"#d9534f\">2%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_002_3"	"<font color=\"#f0ad4e\">心脏枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_002_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的最大生命值减少<font color=\"#d9534f\">35%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后个人最大生命值永久增加<font color=\"#d9534f\">3%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_002_4"	"<font color=\"#f0ad4e\">心脏枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_002_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的最大生命值减少<font color=\"#d9534f\">50%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后个人最大生命值永久增加<font color=\"#d9534f\">4%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_002_5"	"<font color=\"#f0ad4e\">心脏枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_002_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合自身的最大生命值减少<font color=\"#d9534f\">90%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后个人最大生命值永久增加<font color=\"#d9534f\">6%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_1"	"<font color=\"#f0ad4e\">疑虑</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合移动速度下降<font color=\"#d9534f\">15%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后移动速度永久加<font color=\"#d9534f\">5</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_2"	"<font color=\"#f0ad4e\">疑虑</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合移动速度下降<font color=\"#d9534f\">25%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后移动速度永久加<font color=\"#d9534f\">8</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_3"	"<font color=\"#f0ad4e\">疑虑</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合移动速度下降<font color=\"#d9534f\">50%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后移动速度永久加<font color=\"#d9534f\">11</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_4"	"<font color=\"#f0ad4e\">疑虑</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合移动速度下降<font color=\"#d9534f\">70%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后移动速度永久加<font color=\"#d9534f\">15</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_5"	"<font color=\"#f0ad4e\">疑虑</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_003_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合移动速度下降<font color=\"#d9534f\">999%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后移动速度永久加<font color=\"#d9534f\">20</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_1"	"<font color=\"#f0ad4e\">生命探寻</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强降低<font color=\"#d9534f\">10%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强增加<font color=\"#d9534f\">1%</font>。<br><br>2.回合结算后<font color=\"#f0ad4e\">每有一名玩家</font>增加游戏结算的可靠经验奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_2"	"<font color=\"#f0ad4e\">生命探寻</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强降低<font color=\"#d9534f\">20%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强增加<font color=\"#d9534f\">2%</font>。<br>2.回合结算后<font color=\"#f0ad4e\">每有一名玩家</font>增加游戏结算的可靠经验奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>3.难度金币奖励对全体玩家有效。"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_3"	"<font color=\"#f0ad4e\">生命探寻</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强降低<font color=\"#d9534f\">30%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强增加<font color=\"#d9534f\">3%</font>。<br><br>2.回合结算后<font color=\"#f0ad4e\">每有一名玩家</font>增加游戏结算的可靠经验奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>3.难度金币奖励对全体玩家有效。"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_4"	"<font color=\"#f0ad4e\">生命探寻</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强降低<font color=\"#d9534f\">50%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强增加<font color=\"#d9534f\">5%</font>。<br>2.回合结算后<font color=\"#f0ad4e\">每有一名玩家</font>增加游戏结算的可靠经验奖励<font color=\"#d9534f\">7点</font>。（可被试炼难度增加）<br><br>3.难度金币奖励对全体玩家有效。"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_5"	"<font color=\"#f0ad4e\">生命探寻</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_004_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强降低<font color=\"#d9534f\">90%</font>，生命恢复速率降低<font color=\"#d9534f\">20%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强增加<font color=\"#d9534f\">8%</font>。<br>2.回合结算后<font color=\"#f0ad4e\">每有一名玩家</font>增加游戏结算的可靠经验奖励<font color=\"#d9534f\">12点</font>。（可被试炼难度增加）<br>3.难度金币奖励对全体玩家有效。"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_1"	"<font color=\"#f0ad4e\">法力枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合初始魔法值只有<font color=\"#d9534f\">85%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后最大魔法值永久增加<font color=\"#d9534f\">100</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_2"	"<font color=\"#f0ad4e\">法力枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合初始魔法值只有<font color=\"#d9534f\">60%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后最大魔法值永久增加<font color=\"#d9534f\">200</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_3"	"<font color=\"#f0ad4e\">法力枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合初始魔法值只有<font color=\"#d9534f\">35%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后最大魔法值永久增加<font color=\"#d9534f\">300</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_4"	"<font color=\"#f0ad4e\">法力枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合初始魔法值只有<font color=\"#d9534f\">10%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后最大魔法值永久增加<font color=\"#d9534f\">400</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_5"	"<font color=\"#f0ad4e\">法力枯竭</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_005_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合初始魔法值只有<font color=\"#d9534f\">0%</font>，且魔法恢复速率降低<font color=\"#d9534f\">90%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后最大魔法值永久增加<font color=\"#d9534f\">600</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_1"	"<font color=\"#f0ad4e\">梦境</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合技能伤害减少<font color=\"#d9534f\">15%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后技能伤害永久增加<font color=\"#d9534f\">1%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_2"	"<font color=\"#f0ad4e\">梦境</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合技能伤害减少<font color=\"#d9534f\">35%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后技能伤害永久增加<font color=\"#d9534f\">2%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_3"	"<font color=\"#f0ad4e\">梦境</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合技能伤害减少<font color=\"#d9534f\">65%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后技能伤害永久增加<font color=\"#d9534f\">3%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_4"	"<font color=\"#f0ad4e\">梦境</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合技能伤害减少<font color=\"#d9534f\">90%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后技能伤害永久增加<font color=\"#d9534f\">4%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_5"	"<font color=\"#f0ad4e\">梦境</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_006_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合技能伤害减少<font color=\"#d9534f\">200%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后技能伤害永久增加<font color=\"#d9534f\">7%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_1"	"<font color=\"#f0ad4e\">妙手回春</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合治疗效果降低<font color=\"#d9534f\">15%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后治疗增强永久增加<font color=\"#d9534f\">2%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_2"	"<font color=\"#f0ad4e\">妙手回春</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合治疗效果降低<font color=\"#d9534f\">35%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后治疗增强永久增加<font color=\"#d9534f\">3%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_3"	"<font color=\"#f0ad4e\">妙手回春</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合治疗效果降低<font color=\"#d9534f\">60%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后治疗增强永久增加<font color=\"#d9534f\">5%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_4"	"<font color=\"#f0ad4e\">妙手回春</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合治疗效果降低<font color=\"#d9534f\">85%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后治疗增强永久增加<font color=\"#d9534f\">7%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_5"	"<font color=\"#f0ad4e\">妙手回春</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_007_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合治疗效果降低<font color=\"#d9534f\">200%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后治疗增强永久增加<font color=\"#d9534f\">10%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_1"	"<font color=\"#f0ad4e\">灵魂困局</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>额外受到<font color=\"#d9534f\">15%</font>的伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>接下来的回合结算金币奖励永久增加<font color=\"#d9534f\">30</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br><br>3.难度金币奖励对全体玩家有效。"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_2"	"<font color=\"#f0ad4e\">灵魂困局</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>额外受到<font color=\"#d9534f\">35%</font>的伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>接下来的回合结算金币奖励永久增加<font color=\"#d9534f\">60</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br><br>3.难度金币奖励对全体玩家有效。"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_3"	"<font color=\"#f0ad4e\">灵魂困局</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>额外受到<font color=\"#d9534f\">60%</font>的伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>接下来的回合结算金币奖励永久增加<font color=\"#d9534f\">100</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br><br>3.难度金币奖励对全体玩家有效。"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_4"	"<font color=\"#f0ad4e\">灵魂困局</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>额外受到<font color=\"#d9534f\">90%</font>的伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>接下来的回合结算金币奖励永久增加<font color=\"#d9534f\">150</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br><br>3.难度金币奖励对全体玩家有效。"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_5"	"<font color=\"#f0ad4e\">灵魂困局</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_008_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合<font color=\"#f0ad4e\">所有玩家</font>额外受到<font color=\"#d9534f\">150%</font>的伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>接下来的回合结算金币奖励永久增加<font color=\"#d9534f\">250</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br><br>3.难度金币奖励对全体玩家有效。"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_1"	"<font color=\"#f0ad4e\">全属性抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合全属性降低开始时的<font color=\"#d9534f\">10%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后全属性永久增加<font color=\"#d9534f\">2</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br><br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_2"	"<font color=\"#f0ad4e\">全属性抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合全属性降低开始时的<font color=\"#d9534f\">20%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后全属性永久增加<font color=\"#d9534f\">3</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br><br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_3"	"<font color=\"#f0ad4e\">全属性抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合全属性降低开始时的<font color=\"#d9534f\">40%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后全属性永久增加<font color=\"#d9534f\">5</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励3<font color=\"#d9534f\">0点</font>。（可被试炼难度增加）<br><br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_4"	"<font color=\"#f0ad4e\">全属性抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合全属性降低开始时的<font color=\"#d9534f\">60%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后全属性永久增加<font color=\"#d9534f\">7</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_5"	"<font color=\"#f0ad4e\">全属性抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_009_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合全属性降低开始时的<font color=\"#d9534f\">80%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后全属性永久增加<font color=\"#d9534f\">10</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br><br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_1"	"<font color=\"#f0ad4e\">脑虫</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合每隔<font color=\"#d9534f\">10秒</font>会被沉默<font color=\"#d9534f\">2秒</font>且破坏被动技能。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后正面状态持续时间增强与负面状态持续时间增强提升<font color=\"#d9534f\">2%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_2"	"<font color=\"#f0ad4e\">脑虫</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合每隔<font color=\"#d9534f\">10秒</font>会被沉默<font color=\"#d9534f\">3秒</font>且破坏被动技能。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后正面状态持续时间增强与负面状态持续时间增强提升<font color=\"#d9534f\">3%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_3"	"<font color=\"#f0ad4e\">脑虫</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合每隔<font color=\"#d9534f\">10秒</font>会被沉默<font color=\"#d9534f\">4秒</font>且破坏被动技能。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后正面状态持续时间增强与负面状态持续时间增强提升<font color=\"#d9534f\">5%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_4"	"<font color=\"#f0ad4e\">脑虫</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合每隔<font color=\"#d9534f\">10秒</font>会被沉默<font color=\"#d9534f\">7秒</font>且破坏被动技能。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后正面状态持续时间增强与负面状态持续时间增强提升<font color=\"#d9534f\">7%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_5"	"<font color=\"#f0ad4e\">脑虫</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_010_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合会<font color=\"#d9534f\">一直</font>被沉默且破坏被动技能。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后正面状态持续时间增强与负面状态持续时间增强提升<font color=\"#d9534f\">10%</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_1"	"<font color=\"#f0ad4e\">尖牙利齿</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">10%</font>基础攻击力。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">4点</font>基础攻击力。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_2"	"<font color=\"#f0ad4e\">尖牙利齿</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">25%</font>基础攻击力。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">7点</font>基础攻击力。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_3"	"<font color=\"#f0ad4e\">尖牙利齿</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">45%</font>基础攻击力。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">10点</font>基础攻击力。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_4"	"<font color=\"#f0ad4e\">尖牙利齿</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">80%</font>基础攻击力。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">15点</font>基础攻击力。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_5"	"<font color=\"#f0ad4e\">尖牙利齿</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_011_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">150%</font>基础攻击力。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">21点</font>基础攻击力。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_1"	"<font color=\"#f0ad4e\">化学狂暴</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">10%</font>攻击速度。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">7点</font>攻击速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_2"	"<font color=\"#f0ad4e\">化学狂暴</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">20%</font>攻击速度。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">12点</font>攻击速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_3"	"<font color=\"#f0ad4e\">化学狂暴</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">40%</font>攻击速度。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">15点</font>攻击速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_4"	"<font color=\"#f0ad4e\">化学狂暴</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">70%</font>攻击速度。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">22点</font>攻击速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_5"	"<font color=\"#f0ad4e\">化学狂暴</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_012_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">120%</font>攻击速度。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">30点</font>攻击速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_1"	"<font color=\"#f0ad4e\">自爆军团</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物死亡<font color=\"#d9534f\">3秒</font>后自爆，对周围420范围的敌人造成自身最大生命值<font color=\"#d9534f\">10%</font>的魔法伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得一个宝箱，<font color=\"#d9534f\">100%</font>几率为低级宝箱，装备生成级别为1。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br><br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_2"	"<font color=\"#f0ad4e\">自爆军团</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物死亡<font color=\"#d9534f\">3秒</font>后自爆，对周围420范围的敌人造成自身最大生命值<font color=\"#d9534f\">20%</font>的魔法伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得一个宝箱，<font color=\"#d9534f\">50%</font>几率为低级宝箱，装备生成级别为1，<font color=\"#d9534f\">50%</font>为中级宝箱，装备生成级别为2。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_3"	"<font color=\"#f0ad4e\">自爆军团</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物死亡<font color=\"#d9534f\">3秒</font>后自爆，对周围420范围的敌人造成自身最大生命值<font color=\"#d9534f\">50%</font>的魔法伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得一个宝箱，<font color=\"#d9534f\">50%</font>几率为中级宝箱，装备生成级别为2，<font color=\"#d9534f\">50%</font>为高级宝箱，装备生成级别为3。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_4"	"<font color=\"#f0ad4e\">自爆军团</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物死亡<font color=\"#d9534f\">3秒</font>后自爆，对周围420范围的敌人造成自身最大生命值<font color=\"#d9534f\">80%</font>的魔法伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得一个宝箱，<font color=\"#d9534f\">100%</font>几率为高级宝箱，装备生成级别为3。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_5"	"<font color=\"#f0ad4e\">自爆军团</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_013_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物死亡<font color=\"#d9534f\">3秒</font>后自爆，对周围420范围的敌人造成自身最大生命值<font color=\"#d9534f\">120%</font>的魔法伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得一个宝箱，<font color=\"#d9534f\">100%</font>几率为超级宝箱，装备生成级别为当前回合结算生成级别。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+
+// "DOTA_Tooltip_ability_ChallengeInfo_014_1"	"<font color=\"#f0ad4e\">死神凝视</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_014_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合英雄击杀敌方单位时会死神降罪，<font color=\"#d9534f\">1.5秒</font>后受到当前损失生命值*<font color=\"#d9534f\">0.1</font>的物理伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">2点</font>防御。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_014_2"	"<font color=\"#f0ad4e\">死神凝视</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_014_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合英雄击杀敌方单位时会死神降罪,<font color=\"#d9534f\">1.5秒</font>后受到当前损失生命值*<font color=\"#d9534f\">0.2</font>的物理伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">3点</font>防御。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_014_3"	"<font color=\"#f0ad4e\">死神凝视</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_014_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合英雄击杀敌方单位时会死神降罪，<font color=\"#d9534f\">1.5秒</font>后受到当前损失生命值*<font color=\"#d9534f\">0.3</font>的物理伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">4点</font>防御。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_014_4"	"<font color=\"#f0ad4e\">死神凝视</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_014_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合英雄击杀敌方单位时会死神降罪，<font color=\"#d9534f\">1.5秒</font>后受到当前损失生命值*<font color=\"#d9534f\">0.4</font>的物理伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">5点</font>防御。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_014_5"	"<font color=\"#f0ad4e\">死神凝视</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_014_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合英雄击杀敌方单位时会死神降罪，<font color=\"#d9534f\">1.5秒</font>后受到当前损失生命值*<font color=\"#d9534f\">0.6</font>的物理伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">8点</font>防御。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_1"	"<font color=\"#f0ad4e\">魔王降临</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[奈文摩尔的化身]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">500</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.1</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_2"	"<font color=\"#f0ad4e\">魔王降临</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[奈文摩尔的化身]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">800</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1.5点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.15</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_3"	"<font color=\"#f0ad4e\">魔王降临</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[奈文摩尔的化身]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1200</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">30点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.2</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_4"	"<font color=\"#f0ad4e\">魔王降临</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[奈文摩尔的化身]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1600</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">50点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.25</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_5"	"<font color=\"#f0ad4e\">魔王降临</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_015_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[奈文摩尔的化身]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">2000</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">70点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.3</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_1"	"<font color=\"#f0ad4e\">秘而不宣的第十三个逃犯</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[斯拉克之影]来袭。<br>属性:<br>攻击力:80+7*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">500</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.1</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_2"	"<font color=\"#f0ad4e\">秘而不宣的第十三个逃犯</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[斯拉克之影]来袭。<br>属性:<br>攻击力:80+7*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">800</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1.5点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.15</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_3"	"<font color=\"#f0ad4e\">秘而不宣的第十三个逃犯</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[斯拉克之影]来袭。<br>属性:<br>攻击力:80+7*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1200</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">30点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.2</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_4"	"<font color=\"#f0ad4e\">秘而不宣的第十三个逃犯</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[斯拉克之影]来袭。<br>属性:<br>攻击力:80+7*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1600</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">50点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.25</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_5"	"<font color=\"#f0ad4e\">秘而不宣的第十三个逃犯</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_016_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[斯拉克之影]来袭。<br>属性:<br>攻击力:80+7*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">2000</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">70点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.3</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_1"	"<font color=\"#f0ad4e\">天体坍缩</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[谜团的碎片]来袭。<br>属性:<br>攻击力:100+10*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">500</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.1</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_2"	"<font color=\"#f0ad4e\">天体坍缩</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[谜团的碎片]来袭。<br>属性:<br>攻击力:100+10*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">800</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1.5点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.15</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_3"	"<font color=\"#f0ad4e\">天体坍缩</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[谜团的碎片]来袭。<br>属性:<br>攻击力:100+10*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1200</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">30点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.2</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_4"	"<font color=\"#f0ad4e\">天体坍缩</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[谜团的碎片]来袭。<br>属性:<br>攻击力:100+10*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1600</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">50点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.25</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_5"	"<font color=\"#f0ad4e\">天体坍缩</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_017_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[谜团的碎片]来袭。<br>属性:<br>攻击力:100+10*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">2000</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">70点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.3</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+
+// "DOTA_Tooltip_ability_ChallengeInfo_018_1"	"<font color=\"#f0ad4e\">颅犬信条</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_018_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[狼王之心]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1200+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">500</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.1</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_018_2"	"<font color=\"#f0ad4e\">颅犬信条</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_018_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[狼王之心]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1200+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">800</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1.5点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.15</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_018_3"	"<font color=\"#f0ad4e\">颅犬信条</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_018_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[狼王之心]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1200+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1200</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">30点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.2</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_018_4"	"<font color=\"#f0ad4e\">颅犬信条</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_018_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[狼王之心]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1200+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1600</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">50点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.25</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_018_5"	"<font color=\"#f0ad4e\">颅犬信条</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_018_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[狼王之心]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1200+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">2000</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">70点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.3</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+
+// "DOTA_Tooltip_ability_ChallengeInfo_019_1"	"<font color=\"#f0ad4e\">迎霜节</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_019_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[冰霜巨人]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:15+6*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">500</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.1</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_019_2"	"<font color=\"#f0ad4e\">迎霜节</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_019_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[冰霜巨人]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:15+6*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">800</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1.5点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.15</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_019_3"	"<font color=\"#f0ad4e\">迎霜节</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_019_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[冰霜巨人]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:15+6*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1200</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">30点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font><font color=\"\">的</font><font color=\"#d9534f\">0.2</font><font color=\"\">的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_019_4"	"<font color=\"#f0ad4e\">迎霜节</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_019_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[冰霜巨人]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:15+6*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1600</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">50点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.25</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_019_5"	"<font color=\"#f0ad4e\">迎霜节</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_019_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[冰霜巨人]来袭。<br>属性:<br>攻击力:150+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:15+6*苦难难度<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">2000</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">70点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.3</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+
+// "DOTA_Tooltip_ability_ChallengeInfo_020_1"	"<font color=\"#f0ad4e\">生命真谛</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_020_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">15%</font>最大生命值。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>永久增加<font color=\"#d9534f\">20点</font>生命值上限。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_020_2"	"<font color=\"#f0ad4e\">生命真谛</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_020_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">25%</font>最大生命值。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>永久增加<font color=\"#d9534f\">40点</font>生命值上限。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_020_3"	"<font color=\"#f0ad4e\">生命真谛</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_020_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">45%</font>最大生命值。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>永久增加<font color=\"#d9534f\">100点</font>生命值上限。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_020_4"	"<font color=\"#f0ad4e\">生命真谛</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_020_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">70%</font>最大生命值。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>永久增加<font color=\"#d9534f\">170点</font>生命值上限。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_020_5"	"<font color=\"#f0ad4e\">生命真谛</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_020_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合出现的怪物将增加<font color=\"#d9534f\">100%</font>最大生命值。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>永久增加<font color=\"#d9534f\">300点</font>生命值上限。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_1"	"<font color=\"#f0ad4e\">电解质紊乱</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合降低自身<font color=\"#d9534f\">15%</font>状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">1%</font>状态抗性。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_2"	"<font color=\"#f0ad4e\">电解质紊乱</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合降低自身<font color=\"#d9534f\">25%</font>状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">2%</font>状态抗性。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_3"	"<font color=\"#f0ad4e\">电解质紊乱</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合降低自身<font color=\"#d9534f\">45%</font>状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">3%</font>状态抗性。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_4"	"<font color=\"#f0ad4e\">电解质紊乱</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合降低自身<font color=\"#d9534f\">80%</font>状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">4%</font>状态抗性。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_5"	"<font color=\"#f0ad4e\">电解质紊乱</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_021_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合降低自身<font color=\"#d9534f\">200%</font>状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">6%</font>状态抗性。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_1"	"<font color=\"#f0ad4e\">腰椎间盘突出</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于非移动状态时每秒降低当前生命值<font color=\"#d9534f\">2%</font>的生命。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">2</font>点生命恢复速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_2"	"<font color=\"#f0ad4e\">腰椎间盘突出</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于非移动状态时每秒降低当前生命值<font color=\"#d9534f\">4%</font>的生命。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">4</font>点生命恢复速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_3"	"<font color=\"#f0ad4e\">腰椎间盘突出</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于非移动状态时每秒降低当前生命值<font color=\"#d9534f\">6%</font>的生命。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">7</font>点生命恢复速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_4"	"<font color=\"#f0ad4e\">腰椎间盘突出</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于非移动状态时每秒降低当前生命值<font color=\"#d9534f\">10%</font>的生命。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">14</font>点生命恢复速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_5"	"<font color=\"#f0ad4e\">腰椎间盘突出</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_022_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于非移动状态时每秒降低当前生命值<font color=\"#d9534f\">18%</font>的生命。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">25</font>点生命恢复速度。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_1"	"<font color=\"#f0ad4e\">时间之锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合释放技能后，如果这个技能冷却时间大于<font color=\"#d9534f\">1</font>秒，那么这个技能冷却将延长<font color=\"#d9534f\">10%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得增益:释放技能完成<font color=\"#d9534f\">1</font>秒后，如果该技能冷却时间仍然大于<font color=\"#d9534f\">1</font>秒，那么该技能冷却时间减少<font color=\"#d9534f\">0.5%</font>，最多生效到<font color=\"#d9534f\">50%</font>。无法作用于不可刷新的技能。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_2"	"<font color=\"#f0ad4e\">时间之锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合释放技能后，如果这个技能冷却时间大于<font color=\"#d9534f\">1</font>秒，那么这个技能冷却将延长<font color=\"#d9534f\">20%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得增益:释放技能完成<font color=\"#d9534f\">1</font>秒后，如果该技能冷却时间仍然大于<font color=\"#d9534f\">1</font>秒，那么该技能冷却时间减少<font color=\"#d9534f\">0.8%</font>，最多生效到<font color=\"#d9534f\">50%</font>。无法作用于不可刷新的技能。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_3"	"<font color=\"#f0ad4e\">时间之锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合释放技能后，如果这个技能冷却时间大于<font color=\"#d9534f\">1</font>秒，那么这个技能冷却将延长<font color=\"#d9534f\">50%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得增益:释放技能完成<font color=\"#d9534f\">1</font>秒后，如果该技能冷却时间仍然大于<font color=\"#d9534f\">1</font>秒，那么该技能冷却时间减少<font color=\"#d9534f\">1.3%</font>，最多生效到<font color=\"#d9534f\">50%</font>。无法作用于不可刷新的技能。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_4"	"<font color=\"#f0ad4e\">时间之锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合释放技能后，如果这个技能冷却时间大于<font color=\"#d9534f\">1</font>秒，那么这个技能冷却将延长<font color=\"#d9534f\">80%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得增益:释放技能完成<font color=\"#d9534f\">1</font>秒后，如果该技能冷却时间仍然大于<font color=\"#d9534f\">1</font>秒，那么该技能冷却时间减少<font color=\"#d9534f\">1.8%</font>，最多生效到<font color=\"#d9534f\">50%</font>。无法作用于不可刷新的技能。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_5"	"<font color=\"#f0ad4e\">时间之锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_023_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合释放技能后，如果这个技能冷却时间大于<font color=\"#d9534f\">1</font>秒，那么这个技能冷却将延长<font color=\"#d9534f\">150%</font>。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得增益:释放技能完成<font color=\"#d9534f\">1</font>秒后，如果该技能冷却时间仍然大于<font color=\"#d9534f\">1</font>秒，那么该技能冷却时间减少<font color=\"#d9534f\">2.5%</font>，最多生效到<font color=\"#d9534f\">50%</font>。无法作用于不可刷新的技能。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_1"	"<font color=\"#f0ad4e\">强直性脊柱炎</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于每隔<font color=\"#d9534f\">20秒</font>将陷入<font color=\"#d9534f\">1秒</font>的眩晕。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">3%</font>负面状态持续时间增强。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_2"	"<font color=\"#f0ad4e\">强直性脊柱炎</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于每隔<font color=\"#d9534f\">18秒</font>将陷入<font color=\"#d9534f\">2秒</font>的眩晕。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">5%</font>负面状态持续时间增强。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_3"	"<font color=\"#f0ad4e\">强直性脊柱炎</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于每隔<font color=\"#d9534f\">15秒</font>将陷入<font color=\"#d9534f\">3秒</font>的眩晕。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">7%</font>负面状态持续时间增强。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_4"	"<font color=\"#f0ad4e\">强直性脊柱炎</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于每隔<font color=\"#d9534f\">10秒</font>将陷入<font color=\"#d9534f\">3秒</font>的眩晕。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">10%</font>负面状态持续时间增强。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_5"	"<font color=\"#f0ad4e\">强直性脊柱炎</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_024_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合处于每隔<font color=\"#d9534f\">9秒</font>将陷入<font color=\"#d9534f\">4秒</font>的眩晕。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久增加<font color=\"#d9534f\">15%</font>负面状态持续时间增强。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_1"	"<font color=\"#f0ad4e\">井底之蛙</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合击杀敌人时将变为青蛙<font color=\"#d9534f\">1秒</font>，在此期间无法使用技能与道具。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得能力:每次主动施法有<font color=\"#d9534f\">1%</font>几率使周围<font color=\"#d9534f\">1000范围</font>内随机一个敌人变成人畜无害的小动物，持续<font color=\"#d9534f\">3秒</font>。（被状态抗性与负面状态增强影响，可被驱散）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_2"	"<font color=\"#f0ad4e\">井底之蛙</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合击杀敌人时将变为青蛙<font color=\"#d9534f\">1.5秒</font>，在此期间无法使用技能与道具。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得能力:每次主动施法有<font color=\"#d9534f\">1.5%</font>几率使周围<font color=\"#d9534f\">1000范围</font>内随机一个敌人变成人畜无害的小动物，持续<font color=\"#d9534f\">3秒</font>。（被状态抗性与负面状态增强影响，可被驱散）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_3"	"<font color=\"#f0ad4e\">井底之蛙</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合击杀敌人时将变为青蛙<font color=\"#d9534f\">3秒</font>，在此期间无法使用技能与道具。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得能力:每次主动施法有<font color=\"#d9534f\">2%</font>几率使周围<font color=\"#d9534f\">1000范围</font>内随机一个敌人变成人畜无害的小动物，持续<font color=\"#d9534f\">3秒</font>。（被状态抗性与负面状态增强影响，可被驱散）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_4"	"<font color=\"#f0ad4e\">井底之蛙</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合击杀敌人时将变为青蛙<font color=\"#d9534f\">5秒</font>，在此期间无法使用技能与道具。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得能力:每次主动施法有<font color=\"#d9534f\">3%</font>几率使周围<font color=\"#d9534f\">1000范围</font>内随机一个敌人变成人畜无害的小动物，持续<font color=\"#d9534f\">3秒</font>。（被状态抗性与负面状态增强影响，可被驱散）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_5"	"<font color=\"#f0ad4e\">井底之蛙</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_025_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合击杀敌人时将变为青蛙<font color=\"#d9534f\">8秒</font>，在此期间无法使用技能与道具。（不被削减，不可驱散）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后获得能力:每次主动施法有<font color=\"#d9534f\">5%</font>几率使周围<font color=\"#d9534f\">1000范围</font>内随机一个敌人变成人畜无害的小动物，持续<font color=\"#d9534f\">3秒</font>。（被状态抗性与负面状态增强影响，可被驱散）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_1"	"<font color=\"#f0ad4e\">天降陨石</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我惩罚</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合每隔<font color=\"#d9534f\">20秒</font>将从<font color=\"#d9534f\">500距离外</font>随机一个点向受苦者方向坠落一颗陨石，如果被命中将受到最大生命值<font color=\"#d9534f\">10%</font>的魔法伤害。（可以影响到友军）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久提升<font color=\"#d9534f\">2%</font>魔法抗性（与自身线性叠加，与其他乘法叠加，最多叠加至<font color=\"#d9534f\">60%</font>）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_2"	"<font color=\"#f0ad4e\">天降陨石</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我惩罚</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合每隔<font color=\"#d9534f\">17秒</font>将从<font color=\"#d9534f\">500距离外</font>随机一个点向受苦者方向坠落一颗陨石，如果被命中将受到最大生命值<font color=\"#d9534f\">20%</font>的魔法伤害。（可以影响到友军）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久提升<font color=\"#d9534f\">4%</font>魔法抗性（与自身线性叠加，与其他乘法叠加，最多叠加至<font color=\"#d9534f\">60%</font>）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_3"	"<font color=\"#f0ad4e\">天降陨石</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我惩罚</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合每隔<font color=\"#d9534f\">14秒</font>将从<font color=\"#d9534f\">500距离外</font>随机一个点向受苦者方向坠落一颗陨石，如果被命中将受到最大生命值<font color=\"#d9534f\">30%</font>的魔法伤害。（可以影响到友军）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久提升<font color=\"#d9534f\">6%</font>魔法抗性（与自身线性叠加，与其他乘法叠加，最多叠加至<font color=\"#d9534f\">60%</font>）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_4"	"<font color=\"#f0ad4e\">天降陨石</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我惩罚</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合每隔<font color=\"#d9534f\">10秒</font>将从<font color=\"#d9534f\">500距离外</font>随机一个点向受苦者方向坠落一颗陨石，如果被命中将受到最大生命值<font color=\"#d9534f\">50%</font>的魔法伤害。（可以影响到友军）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久提升<font color=\"#d9534f\">8%</font>魔法抗性（与自身线性叠加，与其他乘法叠加，最多叠加至<font color=\"#d9534f\">60%</font>）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_5"	"<font color=\"#f0ad4e\">天降陨石</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_026_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我惩罚</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合每隔<font color=\"#d9534f\">7秒</font>将从<font color=\"#d9534f\">500距离外</font>随机一个点向受苦者方向坠落一颗陨石，如果被命中将受到最大生命值<font color=\"#d9534f\">70%</font>的魔法伤害。（可以影响到友军）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后永久提升<font color=\"#d9534f\">10%</font>魔法抗性（与自身线性叠加，与其他乘法叠加，最多叠加至<font color=\"#d9534f\">60%</font>）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+
+
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_027_1"	"<font color=\"#f0ad4e\">艾滋尤格的烈焰</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_027_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[深渊领主]来袭。<br>属性:<br>攻击力:100+15*波数*苦难难度<br>生命值:1500+500*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">500</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.1</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_027_2"	"<font color=\"#f0ad4e\">艾滋尤格的烈焰</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_027_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[深渊领主]来袭。<br>属性:<br>攻击力:100+15*波数*苦难难度<br>生命值:1500+500*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">800</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1.5点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.15</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_027_3"	"<font color=\"#f0ad4e\">艾滋尤格的烈焰</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_027_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[深渊领主]来袭。<br>属性:<br>攻击力:100+15*波数*苦难难度<br>生命值:1500+500*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1200</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">30点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.2</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_027_4"	"<font color=\"#f0ad4e\">艾滋尤格的烈焰</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_027_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[深渊领主]来袭。<br>属性:<br>攻击力:100+15*波数*苦难难度<br>生命值:1500+500*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1600</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">50点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.25</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_027_5"	"<font color=\"#f0ad4e\">艾滋尤格的烈焰</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_027_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[深渊领主]来袭。<br>属性:<br>攻击力:100+15*波数*苦难难度<br>生命值:1500+500*波数*苦难难度<br>防御力:10+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">2000</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">70点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.3</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+
+
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_028_1"	"<font color=\"#f0ad4e\">平原之灾</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_028_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[暗月骑士军团长]来袭。<br>属性:<br>攻击力:200+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">500</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.1</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_028_2"	"<font color=\"#f0ad4e\">平原之灾</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_028_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[暗月骑士军团长]来袭。<br>属性:<br>攻击力:200+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">800</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1.5点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.15</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_028_3"	"<font color=\"#f0ad4e\">平原之灾</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_028_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[暗月骑士军团长]来袭。<br>属性:<br>攻击力:200+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1200</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">30点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.2</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_028_4"	"<font color=\"#f0ad4e\">平原之灾</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_028_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[暗月骑士军团长]来袭。<br>属性:<br>攻击力:200+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1600</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">50点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.25</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_028_5"	"<font color=\"#f0ad4e\">平原之灾</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_028_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">精英挑战</font><br><br><font color=\"#5bc0de\">说明</font>:<br>下一回合会有[暗月骑士军团长]来袭。<br>属性:<br>攻击力:200+20*波数*苦难难度<br>生命值:1500+300*波数*苦难难度<br>防御力:5+5*苦难难度<br><br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">2000</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">70点</font>。（可被试炼难度增加）<br>3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.3</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。<br>"
+
+
+
+
+
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_029_1"	"<font color=\"#f0ad4e\">法术反制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_029_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合敌方单位可以免疫<font color=\"#d9534f\">2</font>次技能伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后法术反制能力叠加增加<font color=\"#d9534f\">1</font>层。可以使得自己每回合忽略<font color=\"#d9534f\">1</font>次技能伤害，每额外的<font color=\"#d9534f\">2</font>层加一次机会。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_029_2"	"<font color=\"#f0ad4e\">法术反制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_029_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合敌方单位可以免疫<font color=\"#d9534f\">4</font>次技能伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后法术反制能力叠加增加<font color=\"#d9534f\">2</font>层。可以使得自己每回合忽略<font color=\"#d9534f\">1</font>次技能伤害，每额外的<font color=\"#d9534f\">2</font>层加一次机会。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_029_3"	"<font color=\"#f0ad4e\">法术反制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_029_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合敌方单位可以免疫<font color=\"#d9534f\">7</font>次技能伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后法术反制能力叠加增加<font color=\"#d9534f\">3</font>层。可以使得自己每回合忽略<font color=\"#d9534f\">1</font>次技能伤害，每额外的<font color=\"#d9534f\">2</font>层加一次机会。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_029_4"	"<font color=\"#f0ad4e\">法术反制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_029_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合敌方单位可以免疫<font color=\"#d9534f\">12</font>次技能伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后法术反制能力叠加增加<font color=\"#d9534f\">4</font>层。可以使得自己每回合忽略<font color=\"#d9534f\">1</font>次技能伤害，每额外的<font color=\"#d9534f\">2</font>层加一次机会。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_029_5"	"<font color=\"#f0ad4e\">法术反制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_029_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合敌方单位可以免疫<font color=\"#d9534f\">18</font>次技能伤害。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后法术反制能力叠加增加<font color=\"#d9534f\">6</font>层。可以使得自己每回合忽略<font color=\"#d9534f\">1</font>次技能伤害，每额外的<font color=\"#d9534f\">2</font>层加一次机会。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_030_1"	"<font color=\"#f0ad4e\">缓慢觉醒</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_030_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:接下来到<font color=\"#d9534f\">最终BOSS前</font>的所有关卡的怪物获得<font color=\"#d9534f\">5%</font>的状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.<font color=\"#d9534f\">每次</font>回合结算后增加全属性<font color=\"#d9534f\">0.4</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_030_2"	"<font color=\"#f0ad4e\">缓慢觉醒</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_030_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:接下来到<font color=\"#d9534f\">最终BOSS前</font>的所有关卡的怪物获得<font color=\"#d9534f\">10%</font>的状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.<font color=\"#d9534f\">每次</font>回合结算后增加全属性<font color=\"#d9534f\">0.6</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_030_3"	"<font color=\"#f0ad4e\">缓慢觉醒</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_030_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:接下来到<font color=\"#d9534f\">最终BOSS前</font>的所有关卡的怪物获得<font color=\"#d9534f\">15%</font>的状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.<font color=\"#d9534f\">每次</font>回合结算后增加全属性<font color=\"#d9534f\">0.8</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_030_4"	"<font color=\"#f0ad4e\">缓慢觉醒</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_030_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:接下来到<font color=\"#d9534f\">最终BOSS前</font>的所有关卡的怪物获得<font color=\"#d9534f\">25%</font>的状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.<font color=\"#d9534f\">每次</font>回合结算后增加全属性<font color=\"#d9534f\">1</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_030_5"	"<font color=\"#f0ad4e\">缓慢觉醒</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_030_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:接下来到<font color=\"#d9534f\">最终BOSS前</font>的所有关卡的怪物获得<font color=\"#d9534f\">40%</font>的状态抗性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.<font color=\"#d9534f\">每次</font>回合结算后增加全属性<font color=\"#d9534f\">1.3</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_031_1"	"<font color=\"#f0ad4e\">西汉中山靖王之后</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_031_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合需要不击杀任何单位，否则试炼失败且扣除<font color=\"#d9534f\">5</font>点全属性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后主属性加<font color=\"#d9534f\">5</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_031_2"	"<font color=\"#f0ad4e\">西汉中山靖王之后</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_031_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合需要不击杀任何单位，否则试炼失败且扣除<font color=\"#d9534f\">10</font>点全属性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后主属性加<font color=\"#d9534f\">8</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_031_3"	"<font color=\"#f0ad4e\">西汉中山靖王之后</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_031_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合需要不击杀任何单位，否则试炼失败且扣除<font color=\"#d9534f\">15</font>点全属性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后主属性加<font color=\"#d9534f\">11</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_031_4"	"<font color=\"#f0ad4e\">西汉中山靖王之后</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_031_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合需要不击杀任何单位，否则试炼失败且扣除<font color=\"#d9534f\">20</font>点全属性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后主属性加<font color=\"#d9534f\">15</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_031_5"	"<font color=\"#f0ad4e\">西汉中山靖王之后</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_031_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">自我抑制</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合不能<font color=\"#d9534f\">对敌人</font>造成<font color=\"#d9534f\">任何伤害</font>，否则试炼失败且扣除<font color=\"#d9534f\">20</font>点全属性。<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后主属性加<font color=\"#d9534f\">22</font>。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_032_1"	"<font color=\"#f0ad4e\">直视气场</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_032_1_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合的怪的攻击有<font color=\"#d9534f\">5%</font>几率迫使目标强制攻击自己<font color=\"#d9534f\">2</font>秒，且对怪物的伤害减少<font color=\"#d9534f\">50%</font>。每只怪物拥有<font color=\"#d9534f\">3</font>次触发机会，不会对已被嘲讽的单位触发。（每个重复苦难增加一次触发机会，取最高触发几率）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">4</font>点力量。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_032_2"	"<font color=\"#f0ad4e\">直视气场</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_032_2_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合的怪的攻击有<font color=\"#d9534f\">8%</font>几率迫使目标强制攻击自己<font color=\"#d9534f\">2</font>秒，且对怪物的伤害减少<font color=\"#d9534f\">50%</font>。每只怪物拥有<font color=\"#d9534f\">3</font>次触发机会，不会对已被嘲讽的单位触发。（每个重复苦难增加一次触发机会，取最高触发几率）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">6</font>点力量。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_032_3"	"<font color=\"#f0ad4e\">直视气场</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_032_3_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合的怪的攻击有<font color=\"#d9534f\">14%</font>几率迫使目标强制攻击自己<font color=\"#d9534f\">2</font>秒，且对怪物的伤害减少<font color=\"#d9534f\">50%</font>。每只怪物拥有<font color=\"#d9534f\">3</font>次触发机会，不会对已被嘲讽的单位触发。（每个重复苦难增加一次触发机会，取最高触发几率）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">8</font>点力量。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_032_4"	"<font color=\"#f0ad4e\">直视气场</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_032_4_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合的怪的攻击有<font color=\"#d9534f\">20%</font>几率迫使目标强制攻击自己<font color=\"#d9534f\">2</font>秒，且对怪物的伤害减少<font color=\"#d9534f\">50%</font>。每只怪物拥有<font color=\"#d9534f\">3</font>次触发机会，不会对已被嘲讽的单位触发。（每个重复苦难增加一次触发机会，取最高触发几率）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">11</font>点力量。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_032_5"	"<font color=\"#f0ad4e\">直视气场</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_032_5_Description"	"<font color=\"#5bc0de\">类型</font>:<font color=\"#d9534f\">敌方增幅</font><br><br><font color=\"#5bc0de\">说明</font>:下一回合的怪的攻击有<font color=\"#d9534f\">30%</font>几率迫使目标强制攻击自己<font color=\"#d9534f\">2</font>秒，且对怪物的伤害减少<font color=\"#d9534f\">50%</font>。每只怪物拥有<font color=\"#d9534f\">3</font>次触发机会，不会对已被嘲讽的单位触发。（每个重复苦难增加一次触发机会，取最高触发几率）<br><br><font color=\"#5bc0de\">奖励</font>:<br>1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">15</font>点力量。<br>2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）<br>"
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_033_name"	"<font color=\"#f0ad4e\">法力虚空</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_1_Description"	"下一回合出现的怪物死亡<font color=\"#d9534f\">4秒</font>在原地产生一个法力虚空效果，对周围420范围的敌方英雄造成其最大魔法<font color=\"#d9534f\">10%</font>的消除，且造成与消除魔法等量魔法伤害。如果魔法值不足10%，会被沉默且破坏被动<font color=\"#d9534f\">4秒</font>，总和超过100则会提升伤害与负面状态持续时间，每1%提升2%。"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_2_Description"	"下一回合出现的怪物死亡<font color=\"#d9534f\">4秒</font>在原地产生一个法力虚空效果，对周围420范围的敌方英雄造成其最大魔法<font color=\"#d9534f\">20%</font>的消除，且造成与消除魔法等量魔法伤害。如果魔法值不足10%，会被沉默且破坏被动<font color=\"#d9534f\">4秒</font>，总和超过100则会提升伤害与负面状态持续时间，每1%提升2%。"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_3_Description"	"下一回合出现的怪物死亡<font color=\"#d9534f\">4秒</font>在原地产生一个法力虚空效果，对周围420范围的敌方英雄造成其最大魔法<font color=\"#d9534f\">30%</font>的消除，且造成与消除魔法等量魔法伤害。如果魔法值不足10%，会被沉默且破坏被动<font color=\"#d9534f\">4秒</font>，总和超过100则会提升伤害与负面状态持续时间，每1%提升%%。"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_4_Description"	"下一回合出现的怪物死亡<font color=\"#d9534f\">4秒</font>在原地产生一个法力虚空效果，对周围420范围的敌方英雄造成其最大魔法<font color=\"#d9534f\">50%</font>的消除，且造成与消除魔法等量魔法伤害。如果魔法值不足10%，会被沉默且破坏被动<font color=\"#d9534f\">4秒</font>，总和超过100则会提升伤害与负面状态持续时间，每1%提升2%。"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_5_Description"	"下一回合出现的怪物死亡<font color=\"#d9534f\">4秒</font>在原地产生一个法力虚空效果，对周围420范围的敌方英雄造成其最大魔法<font color=\"#d9534f\">70%</font>的消除，且造成与消除魔法等量魔法伤害。如果魔法值不足10%，会被沉默且破坏被动<font color=\"#d9534f\">4秒</font>，总和超过100则会提升伤害与负面状态持续时间，每1%提升2%。"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_033_type"  "1"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_bonus"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_1_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">4</font>点智力。(最大有效300)<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_2_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">6</font>点智力。(最大有效300)<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_3_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">8</font>点智力。(最大有效300)<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_4_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">11</font>点智力。(最大有效300)<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_5_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\">15</font>点智力。(最大有效300)<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_033_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_modifier_ChallengeInfo_033_debuff"                   "法力虚空"
+// "DOTA_Tooltip_modifier_ChallengeInfo_033_debuff_Description"       "被沉默与破坏被动" 
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_034_name"	"<font color=\"#f0ad4e\">消力</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_1_Description"	"下回合你的物理伤害降低<font color=\"#d9534f\">20%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_2_Description"	"下回合你的物理伤害降低<font color=\"#d9534f\">40%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_3_Description"	"下回合你的物理伤害降低<font color=\"#d9534f\">70%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_4_Description"	"下回合你的物理伤害降低<font color=\"#d9534f\">95%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_5_Description"	"下回合你的物理伤害降低<font color=\"#d9534f\">200%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_034_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_bonus"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_1_bonus_1"  "1.回合结算后你的物理伤害提升<font color=\"#d9534f\">1%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_2_bonus_1"  "1.回合结算后你的物理伤害提升<font color=\"#d9534f\">1.3%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_3_bonus_1"  "1.回合结算后你的物理伤害提升<font color=\"#d9534f\">1.6%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_4_bonus_1"  "1.回合结算后你的物理伤害提升<font color=\"#d9534f\">2%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_5_bonus_1"  "1.回合结算后你的物理伤害提升<font color=\"#d9534f\">3%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_034_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_035_name"	"<font color=\"#f0ad4e\">通灵抑制</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_1_Description"	"下回合你的召唤增强降低<font color=\"#d9534f\">15%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_2_Description"	"下回合你的召唤增强降低<font color=\"#d9534f\">25%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_3_Description"	"下回合你的召唤增强降低<font color=\"#d9534f\">45%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_4_Description"	"下回合你的召唤增强降低<font color=\"#d9534f\">85%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_5_Description"	"下回合你的召唤增强降低<font color=\"#d9534f\">200%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_035_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_bonus"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_1_bonus_1"  "1.回合结算后你的召唤增强提升<font color=\"#d9534f\">1%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_2_bonus_1"  "1.回合结算后你的召唤增强提升<font color=\"#d9534f\">2%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_3_bonus_1"  "1.回合结算后你的召唤增强提升<font color=\"#d9534f\">3%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_4_bonus_1"  "1.回合结算后你的召唤增强提升<font color=\"#d9534f\">4%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_5_bonus_1"  "1.回合结算后你的召唤增强提升<font color=\"#d9534f\">6%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_035_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+
+
+
+
+// 废弃
+// "DOTA_Tooltip_ability_ChallengeInfo_036_1"	"<font color=\"#f0ad4e\">次元封锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_1_Description"	"你的施法距离降低<font color=\"#d9534f\">200</font>，同时如果你在0.03秒内移动的距离超过300，你会被传送回原来的位置。释放急行1.2秒后冷却时间将变为<font color=\"#d9534f\">150%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_2"	"<font color=\"#f0ad4e\">次元封锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_2_Description"	"你的施法距离降低<font color=\"#d9534f\">500</font>，同时如果你在0.03秒内移动的距离超过300，你会被传送回原来的位置。释放急行1.2秒后冷却时间将变为<font color=\"#d9534f\">250%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_3"	"<font color=\"#f0ad4e\">次元封锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_3_Description"	"你的施法距离降低<font color=\"#d9534f\">1000</font>，同时如果你在0.03秒内移动的距离超过300，你会被传送回原来的位置。释放急行1.2秒后冷却时间将变为<font color=\"#d9534f\">350%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_4"	"<font color=\"#f0ad4e\">次元封锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_4_Description"	"你的施法距离降低<font color=\"#d9534f\">1500</font>，同时如果你在0.03秒内移动的距离超过300，你会被传送回原来的位置。释放急行1.2秒后冷却时间将变为<font color=\"#d9534f\">500%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_5"	"<font color=\"#f0ad4e\">次元封锁</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_5_Description"	"你的施法距离降低<font color=\"#d9534f\">3000</font>，同时如果你在0.03秒内移动的距离超过300，你会被传送回原来的位置。释放急行1.2秒后冷却时间将变为<font color=\"#d9534f\">1000%</font>。"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_036_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_bonus"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_1_bonus_1"  "1.回合结算后你的施法距离提升<font color=\"#d9534f\">20</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_2_bonus_1"  "1.回合结算后你的施法距离提升<font color=\"#d9534f\">30</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_3_bonus_1"  "1.回合结算后你的施法距离提升<font color=\"#d9534f\">50</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_4_bonus_1"  "1.回合结算后你的施法距离提升<font color=\"#d9534f\">70</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_5_bonus_1"  "1.回合结算后你的施法距离提升<font color=\"#d9534f\">100</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_036_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_037_name"	"<font color=\"#f0ad4e\">拒绝扎堆</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_1_Description"	"如果你的<font color=\"#d9534f\">800</font>范围内有其他友方英雄，你将无法对敌人造成伤害。"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_2_Description"	"如果你的<font color=\"#d9534f\">1500</font>范围内有其他友方英雄，你将无法对敌人造成伤害。"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_3_Description"	"如果你的<font color=\"#d9534f\">2500</font>范围内有其他友方英雄，你将无法对敌人造成伤害。"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_4_Description"	"如果你的<font color=\"#d9534f\">3500</font>范围内有其他友方英雄，你将无法对敌人造成伤害。"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_5_Description"	"如果你的<font color=\"#d9534f\">5000</font>范围内有其他友方单位，你将无法对敌人造成伤害。"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_037_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_bonus"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_1_bonus_1"  "1.回合结算后你的获得能力：如果你1000范围内有其他友方英雄，全属性增加<font color=\"#d9534f\">2</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_2_bonus_1"  "1.回合结算后你的获得能力：如果你1000范围内有其他友方英雄，全属性增加<font color=\"#d9534f\">3</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_3_bonus_1"  "1.回合结算后你的获得能力：如果你1000范围内有其他友方英雄，全属性增加<font color=\"#d9534f\">5</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_4_bonus_1"  "1.回合结算后你的获得能力：如果你1000范围内有其他友方英雄，全属性增加<font color=\"#d9534f\">7</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_5_bonus_1"  "1.回合结算后你的获得能力：如果你1000范围内有其他友方英雄，全属性增加<font color=\"#d9534f\">10</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_037_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+
+
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_038_name"	"<font color=\"#f0ad4e\">盗贼的极致</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_1_Description"	"下回合你需要不死亡，如果被敌人击杀将失去<font color=\"#d9534f\">10%</font>的金币，最少会失去<font color=\"#d9534f\">300</font>，如果不足则会延缓扣除。"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_2_Description"	"下回合你需要不死亡，如果被敌人击杀将失去<font color=\"#d9534f\">20%</font>的金币，最少会失去<font color=\"#d9534f\">600</font>，如果不足则会延缓扣除。"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_3_Description"	"下回合你需要不死亡，如果被敌人击杀将失去<font color=\"#d9534f\">30%</font>的金币，最少会失去<font color=\"#d9534f\">900</font>，如果不足则会延缓扣除。"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_4_Description"	"下回合你需要不死亡，如果被敌人击杀将失去<font color=\"#d9534f\">50%</font>的金币，最少会失去<font color=\"#d9534f\">1200</font>，如果不足则会延缓扣除。"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_5_Description"	"下回合你需要不死亡，如果被敌人击杀将失去<font color=\"#d9534f\">70%</font>的金币，最少会失去<font color=\"#d9534f\">2000</font>，如果不足则会延缓扣除。"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_038_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_bonus"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_1_bonus_1"  "1.你接下来回合结算中获得的金币奖励提升<font color=\"#d9534f\">1%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_2_bonus_1"  "1.你接下来回合结算中获得的金币奖励提升<font color=\"#d9534f\">1.5%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_3_bonus_1"  "1.你接下来回合结算中获得的金币奖励提升<font color=\"#d9534f\">2%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_4_bonus_1"  "1.你接下来回合结算中获得的金币奖励提升<font color=\"#d9534f\">3%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_5_bonus_1"  "1.你接下来回合结算中获得的金币奖励提升<font color=\"#d9534f\">4%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_038_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_039_name"	"<font color=\"#f0ad4e\">永劫之墟的幽魂</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_1_Description"	"下一回合会有[闪电幽魂]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1700+500*波数*苦难难度<br>防御力:5+5*苦难难度"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_2_Description"	"下一回合会有[闪电幽魂]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1700+500*波数*苦难难度<br>防御力:5+5*苦难难度"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_3_Description"	"下一回合会有[闪电幽魂]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1700+500*波数*苦难难度<br>防御力:5+5*苦难难度"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_4_Description"	"下一回合会有[闪电幽魂]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1700+500*波数*苦难难度<br>防御力:5+5*苦难难度"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_5_Description"	"下一回合会有[闪电幽魂]来袭。<br>属性:<br>攻击力:120+15*波数*苦难难度<br>生命值:1700+500*波数*苦难难度<br>防御力:5+5*苦难难度"
+
+// "DOTA_Tooltip_ability_ChallengeInfo_039_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_039_type"  "3"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_bonus"  "4"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_1_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">500</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_2_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">800</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_3_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1200</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_4_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1600</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_5_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">2000</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">30点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">50点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">70点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_1_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_2_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1.5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_3_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_4_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_5_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_1_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.1</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_2_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.15</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_3_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.2</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_4_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.25</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+// "DOTA_Tooltip_ability_ChallengeInfo_039_5_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.3</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_040_name"	"<font color=\"#f0ad4e\">贪婪的化身</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_1_Description"	"你接下来的<font color=\"#d9534f\">1</font>个回合金币将被锁定到储钱罐。在13回合后选择将没有利息，会直接完成苦难结算第二个奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_2_Description"	"你接下来的<font color=\"#d9534f\">2</font>个回合金币将被锁定到储钱罐。在13回合后选择将没有利息，会直接完成苦难结算第二个奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_3_Description"	"你接下来的<font color=\"#d9534f\">3</font>个回合金币将被锁定到储钱罐。在13回合后选择将没有利息，会直接完成苦难结算第二个奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_4_Description"	"你接下来的<font color=\"#d9534f\">4</font>个回合金币将被锁定到储钱罐。在13回合后选择将没有利息，会直接完成苦难结算第二个奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_5_Description"	"你接下来的<font color=\"#d9534f\">5</font>个回合金币将被锁定到储钱罐。在13回合后选择将没有利息，会直接完成苦难结算第二个奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_1_bonus_1"  "1.返还本金+<font color=\"#d9534f\">5%</font>的利息<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_2_bonus_1"  "1.返还本金+<font color=\"#d9534f\">7%</font>的利息<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_3_bonus_1"  "1.返还本金+<font color=\"#d9534f\">10%</font>的利息<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_4_bonus_1"  "1.返还本金+<font color=\"#d9534f\">13%</font>的利息<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_5_bonus_1"  "1.返还本金+<font color=\"#d9534f\">16%</font>的利息<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_040_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_040_bonus"  "2"
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_041_name"	"<font color=\"#f0ad4e\">命令拒绝</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_1_Description"	"下回合你对英雄下达的命令有<font color=\"#d9534f\">20%</font>几率会被拒绝。"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_2_Description"	"下回合你对英雄下达的命令有<font color=\"#d9534f\">50%</font>几率会被拒绝。"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_3_Description"	"下回合你对英雄下达的命令有<font color=\"#d9534f\">85%</font>几率会被拒绝。"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_4_Description"	"下回合你对英雄下达的命令有<font color=\"#d9534f\">90%</font>几率会被拒绝。"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_5_Description"	"下回合你对英雄下达的命令有<font color=\"#d9534f\">95%</font>几率会被拒绝。"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_1_bonus_1"  "1.回合结束后，你的施法速度提升<font color=\"#d9534f\">3%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_2_bonus_1"  "1.回合结束后，你的施法速度提升<font color=\"#d9534f\">5%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_3_bonus_1"  "1.回合结束后，你的施法速度提升<font color=\"#d9534f\">8%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_4_bonus_1"  "1.回合结束后，你的施法速度提升<font color=\"#d9534f\">12%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_5_bonus_1"  "1.回合结束后，你的施法速度提升<font color=\"#d9534f\">18%</font>。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_041_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_041_bonus"  "2"
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_042_name"	"<font color=\"#f0ad4e\">大地的试炼</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_1_Description"	"下回合敌人出生时会附带护盾效果，可以抵挡任意伤害值，等同于你最大生命值的或最大魔法值的<font color=\"#d9534f\">15%</font>（取决于哪项高）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_2_Description"	"下回合敌人出生时会附带护盾效果，可以抵挡任意伤害值，等同于你最大生命值的或最大魔法值的<font color=\"#d9534f\">35%</font>（取决于哪项高）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_3_Description"	"下回合敌人出生时会附带护盾效果，可以抵挡任意伤害值，等同于你最大生命值的或最大魔法值的<font color=\"#d9534f\">60%</font>（取决于哪项高）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_4_Description"	"下回合敌人出生时会附带护盾效果，可以抵挡任意伤害值，等同于你最大生命值的或最大魔法值的<font color=\"#d9534f\">100%</font>（取决于哪项高）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_5_Description"	"下回合敌人出生时会附带护盾效果，可以抵挡任意伤害值，等同于你最大生命值的或最大魔法值的<font color=\"#d9534f\">200%</font>（取决于哪项高）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_1_bonus_1"  "1.回合结束后将获得能力：每隔18秒获得一个护盾效果，可以抵挡你的最大生命值或最大魔法值<font color=\"#d9534f\">3%</font>的伤害，最少可以抵挡300伤害。（取决于哪项高）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_2_bonus_1"  "1.回合结束后将获得能力：每隔18秒获得一个护盾效果，可以抵挡你的最大生命值或最大魔法值<font color=\"#d9534f\">5%</font>的伤害，最少可以抵挡300伤害。（取决于哪项高）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_3_bonus_1"  "1.回合结束后将获得能力：每隔18秒获得一个护盾效果，可以抵挡你的最大生命值或最大魔法值<font color=\"#d9534f\">7%</font>的伤害，最少可以抵挡300伤害。（取决于哪项高）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_4_bonus_1"  "1.回合结束后将获得能力：每隔18秒获得一个护盾效果，可以抵挡你的最大生命值或最大魔法值<font color=\"#d9534f\">10%</font>的伤害，最少可以抵挡300伤害。（取决于哪项高）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_5_bonus_1"  "1.回合结束后将获得能力：每隔18秒获得一个护盾效果，可以抵挡你的最大生命值或最大魔法值<font color=\"#d9534f\">15%</font>的伤害，最少可以抵挡300伤害。（取决于哪项高）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_042_type"  "1"
+// "DOTA_Tooltip_ability_ChallengeInfo_042_bonus"  "2"
+
+
+
+// "DOTA_Tooltip_modifier_ChallengeInfo_042_effect"                   "大地护盾"
+// "DOTA_Tooltip_modifier_ChallengeInfo_042_shield"                   "大地护盾"
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_043_name"	"<font color=\"#f0ad4e\">死咒</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_1_Description"	"同时永久诅咒你自己与敌人，敌人将永久减少<font color=\"#d9534f\">5%</font>受到治疗效果，你自己会享受2.5倍诅咒效果。不可逆，苦难会直接完成，如果你的受到治疗效果已到达-100%，那么将没有任何效果，苦难结算不会有奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_2_Description"	"同时永久诅咒你自己与敌人，敌人将永久减少<font color=\"#d9534f\">8%</font>受到治疗效果，你自己会享受2.5倍诅咒效果。不可逆，苦难会直接完成，如果你的受到治疗效果已到达-100%，那么将没有任何效果，苦难结算不会有奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_3_Description"	"同时永久诅咒你自己与敌人，敌人将永久减少<font color=\"#d9534f\">12%</font>受到治疗效果，你自己会享受2.5倍诅咒效果。不可逆，苦难会直接完成，如果你的受到治疗效果已到达-100%，那么将没有任何效果，苦难结算不会有奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_4_Description"	"同时永久诅咒你自己与敌人，敌人将永久减少<font color=\"#d9534f\">16%</font>受到治疗效果，你自己会享受2.5倍诅咒效果。不可逆，苦难会直接完成，如果你的受到治疗效果已到达-100%，那么将没有任何效果，苦难结算不会有奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_5_Description"	"同时永久诅咒你自己与敌人，敌人将永久减少<font color=\"#d9534f\">25%</font>受到治疗效果，你自己会享受2.5倍诅咒效果。不可逆，苦难会直接完成，如果你的受到治疗效果已到达-100%，那么将没有任何效果，苦难结算不会有奖励。"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_1_bonus_1"  "1.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_2_bonus_1"  "1.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_3_bonus_1"  "1.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_4_bonus_1"  "1.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_5_bonus_1"  "1.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_043_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_043_bonus"  "2"
+// "DOTA_Tooltip_modifier_ChallengeInfo_043_buff"                   "死咒"
+// "DOTA_Tooltip_modifier_ChallengeInfo_043_effect"                   "死咒"
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_044_name"	"<font color=\"#f0ad4e\">不死之病佐巴埃</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_1_Description"	"下回合敌人生命值低于15%后会进入<font color=\"#d9534f\">3</font>秒的免疫所有伤害效果。（线性叠加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_2_Description"	"下回合敌人生命值低于15%后会进入<font color=\"#d9534f\">5</font>秒的免疫所有伤害效果。（线性叠加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_3_Description"	"下回合敌人生命值低于15%后会进入<font color=\"#d9534f\">7</font>秒的免疫所有伤害效果。（线性叠加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_4_Description"	"下回合敌人生命值低于15%后会进入<font color=\"#d9534f\">10</font>秒的免疫所有伤害效果。（线性叠加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_5_Description"	"下回合敌人生命值低于15%后会进入<font color=\"#d9534f\">15</font>秒的免疫所有伤害效果。（线性叠加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_1_bonus_1"  "1.回合结束后将获得能力：生命值低于<font color=\"#d9534f\">30%</font>时进入免疫伤害状态1+奖励值x秒，x=<font color=\"#d9534f\">0.5</font>可叠加，有80秒冷却，最多持续15秒。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_2_bonus_1"  "1.回合结束后将获得能力：生命值低于<font color=\"#d9534f\">30%</font>时进入免疫伤害状态1+奖励值x秒，x=<font color=\"#d9534f\">0.9</font>可叠加，有80秒冷却，最多持续15秒。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_3_bonus_1"  "1.回合结束后将获得能力：生命值低于<font color=\"#d9534f\">30%</font>时进入免疫伤害状态1+奖励值x秒，x=<font color=\"#d9534f\">1.3</font>可叠加，有80秒冷却，最多持续15秒。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_4_bonus_1"  "1.回合结束后将获得能力：生命值低于<font color=\"#d9534f\">30%</font>时进入免疫伤害状态1+奖励值x秒，x=<font color=\"#d9534f\">2</font>可叠加，有80秒冷却，最多持续15秒。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_5_bonus_1"  "1.回合结束后将获得能力：生命值低于<font color=\"#d9534f\">30%</font>时进入免疫伤害状态1+奖励值x秒，x=<font color=\"#d9534f\">2.5</font>可叠加，有80秒冷却，最多持续15秒。<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_044_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_044_bonus"  "2"
+// "DOTA_Tooltip_modifier_ChallengeInfo_044_buff"                   "不死之病佐巴埃"
+// "DOTA_Tooltip_modifier_ChallengeInfo_044_active"                   "不死之病"
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_045_name"	"<font color=\"#f0ad4e\">凋零钟声</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_1_Description"	"下回合你的全额攻击会每秒减少1%，直到扣除<font color=\"#f0ad4e\">20%</font>后转变为增加，最少也会扣除<font color=\"#f0ad4e\">10%</font>。（钟摆循环）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_2_Description"	"下回合你的全额攻击会每秒减少1.5%，直到扣除<font color=\"#f0ad4e\">30%</font>后转变为增加，最少也会扣除<font color=\"#f0ad4e\">15%</font>。（钟摆循环）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_3_Description"	"下回合你的全额攻击会每秒减少2%，直到扣除<font color=\"#f0ad4e\">45%</font>后转变为增加，最少也会扣除<font color=\"#f0ad4e\">23%</font>。（钟摆循环）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_4_Description"	"下回合你的全额攻击会每秒减少2.5%，直到扣除<font color=\"#f0ad4e\">65%</font>后转变为增加，最少也会扣除<font color=\"#f0ad4e\">30%</font>。（钟摆循环）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_5_Description"	"下回合你的全额攻击会每秒减少3%，直到扣除<font color=\"#f0ad4e\">90%</font>后转变为增加，最少也会扣除<font color=\"#f0ad4e\">50%</font>。（钟摆循环）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_1_bonus_1"  "1.回合结束后将获得能力：你的全额攻击每秒提升1%，最大值为3%+奖励值x，x=<font color=\"#d9534f\">0.5%</font>可叠加，最多叠加到30%。到达最大值后会往0%下降<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_2_bonus_1"  "1.回合结束后将获得能力：你的全额攻击每秒提升1%，最大值为3%+奖励值x，x=<font color=\"#d9534f\">0.7%</font>可叠加，最多叠加到30%。到达最大值后会往0%下降<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_3_bonus_1"  "1.回合结束后将获得能力：你的全额攻击每秒提升1%，最大值为3%+奖励值x，x=<font color=\"#d9534f\">1%</font>可叠加，最多叠加到30%。到达最大值后会往0%下降<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_4_bonus_1"  "1.回合结束后将获得能力：你的全额攻击每秒提升1%，最大值为3%+奖励值x，x=<font color=\"#d9534f\">1.4%</font>可叠加，最多叠加到30%。到达最大值后会往0%下降<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_5_bonus_1"  "1.回合结束后将获得能力：你的全额攻击每秒提升1%，最大值为3%+奖励值x，x=<font color=\"#d9534f\">2%</font>可叠加，最多叠加到30%。到达最大值后会往0%下降<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">5点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">25点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">40点</font>。（可被试炼难度增加）"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_045_type"  "2"
+// "DOTA_Tooltip_ability_ChallengeInfo_045_bonus"  "2"
+// "DOTA_Tooltip_modifier_ChallengeInfo_045_buff"                   "凋零钟声"
+// "DOTA_Tooltip_modifier_ChallengeInfo_045_buff_Description"       "全额攻击力提升%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+
+
+// "DOTA_Tooltip_ability_ChallengeInfo_046_name"	"<font color=\"#f0ad4e\">传奇的追忆</font>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_1_Description"	"下一回合会有[Somnus丶M的化身]来袭。<br>属性:<br>攻击力:100+12*波数*苦难难度<br>生命值:2500+900*波数*苦难难度<br>防御力:5+5*苦难难度"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_2_Description"	"下一回合会有[Somnus丶M的化身]来袭。<br>属性:<br>攻击力:100+12*波数*苦难难度<br>生命值:2500+900*波数*苦难难度<br>防御力:5+5*苦难难度"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_3_Description"	"下一回合会有[Somnus丶M的化身]来袭。<br>属性:<br>攻击力:100+12*波数*苦难难度<br>生命值:2500+900*波数*苦难难度<br>防御力:5+5*苦难难度"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_4_Description"	"下一回合会有[Somnus丶M的化身]来袭。<br>属性:<br>攻击力:100+12*波数*苦难难度<br>生命值:2500+900*波数*苦难难度<br>防御力:5+5*苦难难度"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_5_Description"	"下一回合会有[Somnus丶M的化身]来袭。<br>属性:<br>攻击力:100+12*波数*苦难难度<br>生命值:2500+900*波数*苦难难度<br>防御力:5+5*苦难难度"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_USE_KEYVALUE"  "1"  
+// "DOTA_Tooltip_ability_ChallengeInfo_046_type"  "3"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_bonus"  "4"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_1_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">500</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_2_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">800</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_3_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1200</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_4_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">1600</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_5_bonus_1"  "1.回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\">2000</font>金币奖励。（但每多一名玩家奖励减少10%，即5名玩家时仅为60%奖励）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_1_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">10点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_2_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">15点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_3_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">30点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_4_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">50点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_5_bonus_2"  "2.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的可靠经验奖励<font color=\"#d9534f\">70点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_1_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_2_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">1.5点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_3_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">2点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_4_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">3点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_5_bonus_3"  "3.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>游戏结算的金币奖励<font color=\"#d9534f\">4点</font>。（可被试炼难度增加）<br>"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_1_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.1</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_2_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.15</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_3_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.2</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_4_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.25</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+// "DOTA_Tooltip_ability_ChallengeInfo_046_5_bonus_4"  "4.回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\">0.3</font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+
+
+
+
+// 泥人的诅咒   你将被巨大化，减少移动速度与攻击速度
+// 增加一小部分体积，体积到达3时将免疫移速减缓，每1体积转变为2%的最大生命值加成
+
+
+// 凤凰涅槃   敌人的生命值低于一半时会治疗自己10%%的最大生命，可以触发2次
+// 每隔数秒治疗自己
+
+
+
+"DOTA_HUD_Challenge_level_1"                   "<font color=\"#0abce9\">简单</font>"
+"DOTA_HUD_Challenge_level_2"                   "<font color=\"#62d316\">普通</font>"
+"DOTA_HUD_Challenge_level_3"                   "<font color=\"#d49d05\">精英</font>"
+"DOTA_HUD_Challenge_level_4"                   "<font color=\"#d49d05\">困难</font>"
+"DOTA_HUD_Challenge_level_5"                   "<font color=\"#ff0000\">不可能</font>"
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_info_1" "<font color=\"#5bc0de\">类型</font>：{s:value1}"
+"DOTA_Tooltip_ChallengeInfo_info_2" "<font color=\"#5bc0de\">说明</font>："
+"DOTA_Tooltip_ChallengeInfo_info_3" "<font color=\"#5bc0de\">奖励</font>："
+
+"DOTA_Tooltip_ChallengeInfo_type_Enemy_Capability_Increase" "<font color=\"#d9534f\">敌方增幅</font><br><br>"
+"DOTA_Tooltip_ChallengeInfo_type_Self_Inhibition" "<font color=\"#d9534f\">自我抑制</font><br><br>"
+"DOTA_Tooltip_ChallengeInfo_type_Elite_Challenge" "<font color=\"#d9534f\">精英挑战</font><br><br>"
+"DOTA_Tooltip_ChallengeInfo_type_Self_Punishment" "<font color=\"#d9534f\">自我惩罚</font><br><br>"
+
+
+"DOTA_Tooltip_Bonus_Target" "<font color=\"#ffffff\">局外奖励</font>-{s:bonus_target}"
+"DOTA_Tooltip_Bonus_Exp" "<font color=\"#f0ad4e\">可靠经验</font>：{s:exp_bonus}"
+"DOTA_Tooltip_Bonus_Aurum" "<font color=\"#f0ad4e\">黄金</font>：{s:aurum_bonus}"
+
+
+"DOTA_Tooltip_Bonus_Boss_1"	"回合结算后<font color=\"#f0ad4e\">所有玩家</font>获得额外的<font color=\"#d9534f\"><boss_bonus_gold></font>金币奖励。"
+"DOTA_Tooltip_Bonus_Boss_2"	"回合结算后增加<font color=\"#f0ad4e\">所有玩家</font>的<font color=\"#d9534f\"><boss_spell_index></font>的技能领悟系数，游戏结算时每0.1点有10%几率获得额外的技能书，每满1点必定获得一本技能书。"
+
+
+
+"DOTA_Tooltip_Boss_health"  "生命值："
+"DOTA_Tooltip_Boss_atk"  "攻击力："
+"DOTA_Tooltip_Boss_armor"  "防御力："
+
+
+"DOTA_Tooltip_ALL_PLAYER" "所有玩家"
+"DOTA_Tooltip_EACH_PLAYER" "每有一名玩家"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_001_Name"	"能量抑制"
+"DOTA_Tooltip_ChallengeInfo_001_Description"	"下一回合自身的造成伤害降低<font color=\"#d9534f\"><damage_redection>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_001_Bonus_1"	"回合结算后金币奖励增加<font color=\"#d9534f\"><gold_bonus>%</font>。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_002_Name"	"心脏枯竭"
+"DOTA_Tooltip_ChallengeInfo_002_Description"	"下一回合将以<font color=\"#d9534f\"><start_health>%</font>生命值开始战斗，并在击杀敌人时损失<font color=\"#d9534f\"><lose_health>%</font>当前生命值。"
+"DOTA_Tooltip_ChallengeInfo_002_Bonus_1"	"回合结算后最大生命值永久增加<font color=\"#d9534f\"><health_bonus>%</font>。"
+
+
+"DOTA_Tooltip_ChallengeInfo_003_Name"	"疑虑"
+"DOTA_Tooltip_ChallengeInfo_003_Description"	"下一回合移动速度下降<font color=\"#d9534f\"><move_slow>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_003_Bonus_1"	"回合结算后移动速度永久加<font color=\"#d9534f\"><bonus_move></font>。"
+
+"DOTA_Tooltip_ChallengeInfo_004_Name"	"生命探寻"
+"DOTA_Tooltip_ChallengeInfo_004_Description"	"下一回合<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强降低<font color=\"#d9534f\"><health_effect_reduction>%</font>，生命恢复速率降低<font color=\"#d9534f\"><health_regen_reduction>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_004_Bonus_1"	"回合结算后<font color=\"#f0ad4e\">所有玩家</font>受到治疗效果与吸血增强增加<font color=\"#d9534f\"><bonus_health_effect>%</font>。"
+
+"DOTA_Tooltip_ChallengeInfo_005_Name"	"法力枯竭"
+"DOTA_Tooltip_ChallengeInfo_005_Description"	"下一回合初始魔法值只有<font color=\"#d9534f\"><init_mana>%</font>，且魔法恢复速率降低<font color=\"#d9534f\"><mana_regen_reduction>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_005_Bonus_1"	"回合结算后最大魔法值永久增加<font color=\"#d9534f\"><bonus_mana></font>。"
+
+"DOTA_Tooltip_ChallengeInfo_006_Name"	"梦境"
+"DOTA_Tooltip_ChallengeInfo_006_Description"	"下一回合技能伤害减少<font color=\"#d9534f\"><spell_damage_reduction>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_006_Bonus_1"	"回合结算后技能伤害永久增加<font color=\"#d9534f\"><spell_damage_bonus>%</font>。"
+
+"DOTA_Tooltip_ChallengeInfo_007_Name"	"妙手回春"
+"DOTA_Tooltip_ChallengeInfo_007_Description"	"下一回合治疗效果降低<font color=\"#d9534f\"><heal_reduction>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_007_Bonus_1"	"回合结算后治疗增强永久增加<font color=\"#d9534f\"><heal_bonus>%</font>。"
+
+"DOTA_Tooltip_ChallengeInfo_008_Name"	"灵魂困局"
+"DOTA_Tooltip_ChallengeInfo_008_Description"	"下一回合<font color=\"#f0ad4e\">所有玩家</font>额外受到<font color=\"#d9534f\"><bonus_damage>%</font>的伤害。"
+"DOTA_Tooltip_ChallengeInfo_008_Bonus_1"	"回合结算后<font color=\"#f0ad4e\">所有玩家</font>接下来的回合结算金币奖励永久增加<font color=\"#d9534f\"><bonus_gold></font>。"
+
+
+"DOTA_Tooltip_ChallengeInfo_009_Name"	"全属性抑制"
+"DOTA_Tooltip_ChallengeInfo_009_Description"	"下一回合全属性降低开始时的<font color=\"#d9534f\"><all_attribute_reduction>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_009_Bonus_1"	"回合结算后全属性永久增加<font color=\"#d9534f\"><all_attribute_bonus></font>"
+
+"DOTA_Tooltip_ChallengeInfo_010_Name"	"脑虫"
+"DOTA_Tooltip_ChallengeInfo_010_Description"	"下一回合每隔<font color=\"#d9534f\"><interval>秒</font>会被沉默<font color=\"#d9534f\"><duration>秒</font>且破坏被动技能。"
+"DOTA_Tooltip_ChallengeInfo_010_Bonus_1"	"回合结算后正面状态持续时间增强与负面状态持续时间增强提升<font color=\"#d9534f\"><bonus_buff_gain>%</font>。"
+
+"DOTA_Tooltip_ChallengeInfo_011_Name"	"尖牙利齿"
+"DOTA_Tooltip_ChallengeInfo_011_Description"	"下一回合出现的怪物将增加<font color=\"#d9534f\"><bonus_base_damage_creep>%</font>基础攻击力。"
+"DOTA_Tooltip_ChallengeInfo_011_Bonus_1"	"回合结算后永久增加<font color=\"#d9534f\"><bonus_attack_damage_self>点</font>基础攻击力。"
+
+
+"DOTA_Tooltip_ChallengeInfo_012_Name"	"化学狂暴"
+"DOTA_Tooltip_ChallengeInfo_012_Description"	"下一回合出现的怪物将增加<font color=\"#d9534f\"><bonus_atk_speed_creep>%</font>攻击速度。"
+"DOTA_Tooltip_ChallengeInfo_012_Bonus_1"	"回合结算后永久增加<font color=\"#d9534f\"><bonus_atk_speed_self>点</font>攻击速度。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_013_Name"	"自爆军团"
+"DOTA_Tooltip_ChallengeInfo_013_Description"	"下一回合出现的怪物死亡<font color=\"#d9534f\"><delay>秒</font>后自爆，对周围<radius>范围的敌人造成自身最大生命值<font color=\"#d9534f\"><damage_index>%</font>的魔法伤害。"
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_1"	"回合结算后获得一个宝箱，<font color=\"#d9534f\">100%</font>几率为低级宝箱，装备生成级别为1"
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_2"	"回合结算后获得一个宝箱，<font color=\"#d9534f\">50%</font>几率为低级宝箱，装备生成级别为1，<font color=\"#d9534f\">50%</font>为中级宝箱，装备生成级别为2。"
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_3"	"回合结算后获得一个宝箱，<font color=\"#d9534f\">50%</font>几率为中级宝箱，装备生成级别为2，<font color=\"#d9534f\">50%</font>为高级宝箱，装备生成级别为3。"
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_4"	"回合结算后获得一个宝箱，<font color=\"#d9534f\">100%</font>几率为高级宝箱，装备生成级别为3。"
+"DOTA_Tooltip_ChallengeInfo_013_Bonus_1_5"	".回合结算后获得一个宝箱，<font color=\"#d9534f\">100%</font>几率为超级宝箱，装备生成级别为当前回合结算生成级别。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_014_Name"	"死神凝视"
+"DOTA_Tooltip_ChallengeInfo_014_Description"	"下一回合英雄击杀敌方单位时会死神降罪，<font color=\"#d9534f\"><delay>秒</font>后受到当前损失生命值x<font color=\"#d9534f\"><damage_index></font>的物理伤害。"
+"DOTA_Tooltip_ChallengeInfo_014_Bonus_1"	"回合结算后永久增加<font color=\"#d9534f\"><bonus_armor>点</font>防御。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_015_Name"	"魔王降临"
+"DOTA_Tooltip_ChallengeInfo_015_Description"	"下一回合会有[奈文摩尔的化身]来袭。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_016_Name"	"秘而不宣的第十三个逃犯"
+"DOTA_Tooltip_ChallengeInfo_016_Description"	"下一回合会有[斯拉克之影]来袭。"
+
+"DOTA_Tooltip_ChallengeInfo_017_Name"	"天体坍缩"
+"DOTA_Tooltip_ChallengeInfo_017_Description"	"下一回合会有[谜团的碎片]来袭。"
+
+"DOTA_Tooltip_ChallengeInfo_018_Name"	"颅犬信条"
+"DOTA_Tooltip_ChallengeInfo_018_Description"	"下一回合会有[狼王之心]来袭。"
+
+"DOTA_Tooltip_ChallengeInfo_019_Name"	"迎霜节"
+"DOTA_Tooltip_ChallengeInfo_019_Description"	"下一回合会有[冰霜巨人]来袭。"
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_020_Name"	"生命真谛"
+"DOTA_Tooltip_ChallengeInfo_020_Description"	"下一回合出现的怪物将增加<font color=\"#d9534f\"><bonur_health_creep>%</font>最大生命值。"
+"DOTA_Tooltip_ChallengeInfo_020_Bonus_1"	"回合结算后<font color=\"#f0ad4e\">所有玩家</font>永久增加<font color=\"#d9534f\"><bonur_health>点</font>生命值上限。"
+
+
+"DOTA_Tooltip_ChallengeInfo_021_Name"	"电解质紊乱"
+"DOTA_Tooltip_ChallengeInfo_021_Description"	"下一回合降低自身<font color=\"#d9534f\"><value1>%</font>状态抗性。"
+"DOTA_Tooltip_ChallengeInfo_021_Bonus_1"	"回合结算后永久增加<font color=\"#d9534f\"><value2>%</font>状态抗性。"
+
+
+"DOTA_Tooltip_ChallengeInfo_022_Name"	"腰椎间盘突出"
+"DOTA_Tooltip_ChallengeInfo_022_Description"	"下一回合处于非移动状态时每秒降低当前生命值<font color=\"#d9534f\"><value1>%</font>的生命。"
+"DOTA_Tooltip_ChallengeInfo_022_Bonus_1"	"回合结算后永久增加<font color=\"#d9534f\"><value2></font>点生命恢复速度。"
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_023_Name"	"时间之锁"
+"DOTA_Tooltip_ChallengeInfo_023_Description"	"下一回合释放技能后，如果这个技能冷却时间大于<font color=\"#d9534f\"><cooldown_require></font>秒，那么这个技能冷却将延长<font color=\"#d9534f\"><cooldown_increase>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_023_Bonus_1"	"回合结算后获得增益:释放技能完成<font color=\"#d9534f\"><delay></font>秒后，如果该技能冷却时间仍然大于<font color=\"#d9534f\"><cooldown_require></font>秒，那么该技能冷却时间减少<font color=\"#d9534f\"><cooldown_reduction>%</font>，最多生效到<font color=\"#d9534f\"><max_bonus>%</font>。无法作用于不可刷新的技能。"
+
+
+"DOTA_Tooltip_ChallengeInfo_024_Name"	"强直性脊柱炎"
+"DOTA_Tooltip_ChallengeInfo_024_Description"	"下一回合处于每隔<font color=\"#d9534f\"><interval>秒</font>将陷入<font color=\"#d9534f\"><duration>秒</font>的眩晕。（不被削减，不可驱散）"
+"DOTA_Tooltip_ChallengeInfo_024_Bonus_1"	"回合结算后永久增加<font color=\"#d9534f\"><bonus_value>%</font>负面状态持续时间增强。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_025_Name"	"井底之蛙"
+"DOTA_Tooltip_ChallengeInfo_025_Description"	"下一回合击杀敌人时将变为青蛙<font color=\"#d9534f\"><duration>秒</font>，在此期间无法使用技能与道具。（不被削减，不可驱散）"
+"DOTA_Tooltip_ChallengeInfo_025_Bonus_1"	"回合结算后获得能力:每次主动施法有<font color=\"#d9534f\"><chance_stack>%</font>几率使周围<font color=\"#d9534f\"><radius>范围</font>内随机一个敌人变成人畜无害的小动物，持续<font color=\"#d9534f\"><debuff_duration>秒</font>。（被状态抗性与负面状态增强影响，可被驱散）"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_026_Name"	"天降陨石"
+"DOTA_Tooltip_ChallengeInfo_026_Description"	"下一回合每隔<font color=\"#d9534f\"><interval>秒</font>将从<font color=\"#d9534f\"><radius>距离外</font>随机一个点向受苦者方向坠落一颗陨石，如果被命中将受到最大生命值<font color=\"#d9534f\"><damage_index>%</font>的魔法伤害。（可以影响到友军）"
+"DOTA_Tooltip_ChallengeInfo_026_Bonus_1"	"回合结算后永久提升<font color=\"#d9534f\"><bonus_value>%</font>魔法抗性（与自身线性叠加，与其他乘法叠加，最多叠加至<font color=\"#d9534f\"><max_bonus>%</font>）"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_027_Name"	"艾滋尤格的烈焰"
+"DOTA_Tooltip_ChallengeInfo_027_Description"	"下一回合会有[深渊领主]来袭。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_028_Name"	"平原之灾"
+"DOTA_Tooltip_ChallengeInfo_028_Description"	"下一回合会有[暗月骑士军团长]来袭。"
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_029_Name"	"法术反制"
+"DOTA_Tooltip_ChallengeInfo_029_Description"	"下一回合敌方单位可以免疫<font color=\"#d9534f\"><count></font>次技能伤害。"
+"DOTA_Tooltip_ChallengeInfo_029_Bonus_1"	"回合结算后法术反制能力叠加增加<font color=\"#d9534f\"><bonus_stack></font>层。可以使得自己每回合忽略<font color=\"#d9534f\">1</font>次技能伤害，每额外的<font color=\"#d9534f\"><stack_require></font>层加一次机会。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_030_Name"	"缓慢觉醒"
+"DOTA_Tooltip_ChallengeInfo_030_Description"	"接下来到<font color=\"#d9534f\">最终BOSS前</font>的所有关卡的怪物获得<font color=\"#d9534f\"><value1>%</font>的状态抗性。"
+"DOTA_Tooltip_ChallengeInfo_030_Bonus_1"	"<font color=\"#d9534f\">每次</font>回合结算后增加全属性<font color=\"#d9534f\"><bonus_attribute></font>。"
+
+"DOTA_Tooltip_ChallengeInfo_031_Name"	"西汉中山靖王之后"
+"DOTA_Tooltip_ChallengeInfo_031_Description"	"下一回合需要不击杀任何单位，否则试炼失败且扣除<font color=\"#d9534f\"><value1></font>点全属性。"
+"DOTA_Tooltip_ChallengeInfo_031_Description_5"	"下一回合不能<font color=\"#d9534f\">对敌人</font>造成<font color=\"#d9534f\">任何伤害</font>，否则试炼失败且扣除<font color=\"#d9534f\"><value1></font>点全属性。"
+"DOTA_Tooltip_ChallengeInfo_031_Bonus_1"	"回合结算后主属性加<font color=\"#d9534f\"><bonus_value></font>。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_032_Name"	"直视气场"
+"DOTA_Tooltip_ChallengeInfo_032_Description"	"下一回合的怪的攻击有<font color=\"#d9534f\"><proc_chance>%</font>几率迫使目标强制攻击自己<font color=\"#d9534f\"><duration></font>秒，且对怪物的伤害减少<font color=\"#d9534f\"><damage_reduction>%</font>。每只怪物拥有<font color=\"#d9534f\"><chance></font>次触发机会，不会对已被嘲讽的单位触发。（每个重复苦难增加一次触发机会，取最高触发几率）"
+"DOTA_Tooltip_ChallengeInfo_032_Bonus_1"	"回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\"><bonus_value></font>点力量。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_033_Name"	"法力虚空"
+"DOTA_Tooltip_ChallengeInfo_033_Description"	"下一回合出现的怪物死亡<font color=\"#d9534f\"><delay>秒</font>在原地产生一个法力虚空效果，对周围<radius>范围的敌方英雄造成其最大魔法<font color=\"#d9534f\"><mana_del>%</font>的消除，且造成与消除魔法等量魔法伤害。如果魔法值不足10%，会被沉默且破坏被动<font color=\"#d9534f\"><debuff_duration>秒</font>，总和超过100则会提升伤害与负面状态持续时间，每1%提升2%。"
+"DOTA_Tooltip_ChallengeInfo_033_Bonus_1"	"回合结算后<font color=\"#f0ad4e\">所有玩家</font>提升<font color=\"#d9534f\"><bonus_int></font>点智力。(最大有效<bonus_max>)<br>"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_033_debuff"                   "法力虚空"
+"DOTA_Tooltip_modifier_ChallengeInfo_033_debuff_Description"       "被沉默与破坏被动" 
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_034_Name"	"消力"
+"DOTA_Tooltip_ChallengeInfo_034_Description"	"下回合你的物理伤害降低<font color=\"#d9534f\"><damage_reduction>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_034_Bonus_1"	"回合结算后你的物理伤害提升<font color=\"#d9534f\"><bonus_damage>%</font>。"
+
+
+"DOTA_Tooltip_ChallengeInfo_035_Name"	"通灵抑制"
+"DOTA_Tooltip_ChallengeInfo_035_Description"	"下回合你的召唤增强降低<font color=\"#d9534f\"><value1>%</font>。"
+"DOTA_Tooltip_ChallengeInfo_035_Bonus_1"	"回合结算后你的召唤增强提升<font color=\"#d9534f\"><value2>%</font>。"
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_037_Name"	"拒绝扎堆"
+"DOTA_Tooltip_ChallengeInfo_037_Description"	"如果你的<font color=\"#d9534f\"><radius></font>范围内有其他友方英雄，你将无法对敌人造成伤害。"
+"DOTA_Tooltip_ChallengeInfo_037_Bonus_1"	"回合结算后你的获得能力：如果你<radius_require>范围内有其他友方英雄，全属性增加<font color=\"#d9534f\"><bonus_value></font>。"
+
+"DOTA_Tooltip_ChallengeInfo_037_Description_5"	"如果你的<font color=\"#d9534f\"><radius></font>范围内有其他友方单位，你将无法对敌人造成伤害。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_038_Name"	"盗贼的极致"
+"DOTA_Tooltip_ChallengeInfo_038_Description"	"下回合你需要不死亡，如果被敌人击杀将失去<font color=\"#d9534f\"><gold_lose>%</font>的金币，最少会失去<font color=\"#d9534f\"><min_lose></font>，如果不足则会延缓扣除。"
+"DOTA_Tooltip_ChallengeInfo_038_Bonus_1"	"你接下来回合结算中获得的金币奖励提升<font color=\"#d9534f\"><bonus>%</font>。"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_039_Name"	"永劫之墟的幽魂"
+"DOTA_Tooltip_ChallengeInfo_039_Description"	"下一回合会有[闪电幽魂]来袭。"
+
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_040_Name"	"贪婪的化身"
+"DOTA_Tooltip_ChallengeInfo_040_Description"	"你接下来的<font color=\"#d9534f\"><wave></font>个回合金币将被锁定到储钱罐。在13回合后选择将没有利息，会直接完成苦难结算局外奖励。"
+"DOTA_Tooltip_ChallengeInfo_040_Bonus_1"	"返还本金+<font color=\"#d9534f\"><gold_return>%</font>的利息<br>"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_041_Name"	"命令拒绝"
+"DOTA_Tooltip_ChallengeInfo_041_Description"	"下回合你对英雄下达的命令有<font color=\"#d9534f\"><value1>%</font>几率会被拒绝。"
+"DOTA_Tooltip_ChallengeInfo_041_Bonus_1"	"回合结束后，你的施法速度提升<font color=\"#d9534f\"><value2>%</font>。"
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_042_Name"	"大地的试炼"
+"DOTA_Tooltip_ChallengeInfo_042_Description"	"下回合敌人出生时会附带护盾效果，可以抵挡任意伤害值，等同于你最大生命值的或最大魔法值的<font color=\"#d9534f\"><value1>%</font>（取决于哪项高）"
+"DOTA_Tooltip_ChallengeInfo_042_Bonus_1"	"回合结束后将获得能力：每隔<interval>秒获得一个护盾效果，可以抵挡你的最大生命值或最大魔法值<font color=\"#d9534f\"><value2>%</font>的伤害，最少可以抵挡300伤害。（取决于哪项高）"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_042_effect"                   "大地护盾"
+"DOTA_Tooltip_modifier_ChallengeInfo_042_shield"                   "大地护盾"
+
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_043_Name"	"死咒"
+"DOTA_Tooltip_ChallengeInfo_043_Description"	"同时永久诅咒你自己与敌人，敌人将永久减少<font color=\"#d9534f\"><value1>%</font>受到治疗效果，你自己会享受2.5倍诅咒效果。不可逆，苦难会直接完成，如果你的受到治疗效果已到达-100%，那么将没有任何效果，苦难结算不会有奖励。"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_043_buff"                   "死咒"
+"DOTA_Tooltip_modifier_ChallengeInfo_043_effect"                   "死咒"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_044_Name"	"不死之病佐巴埃"
+"DOTA_Tooltip_ChallengeInfo_044_Description"	"下回合敌人生命值低于<health_require>%后会进入<font color=\"#d9534f\"><duration></font>秒的免疫所有伤害效果。（线性叠加）"
+"DOTA_Tooltip_ChallengeInfo_044_Bonus_1"	"回合结束后将获得能力：生命值低于<font color=\"#d9534f\"><buff_health_require>%</font>时进入免疫伤害状态1+奖励值x秒，x=<font color=\"#d9534f\"><stack></font>可叠加，有<cooldown>秒冷却，最多持续<max_duration>秒。"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_044_buff"                   "不死之病佐巴埃"
+"DOTA_Tooltip_modifier_ChallengeInfo_044_active"                   "不死之病"
+
+
+
+"DOTA_Tooltip_ChallengeInfo_045_Name"	"凋零钟声"
+"DOTA_Tooltip_ChallengeInfo_045_Description"	"下回合你的全额攻击会每秒减少<damage_reduce>%，直到扣除<font color=\"#f0ad4e\"><max_chance>%</font>后转变为增加，最少也会扣除<font color=\"#f0ad4e\"><min_reduce>%</font>。（钟摆循环）"
+"DOTA_Tooltip_ChallengeInfo_045_Bonus_1"	"回合结束后将获得能力：你的全额攻击每秒提升1%，最大值为3%+奖励值x，x=<font color=\"#d9534f\"><bonus_stack>%</font>可叠加，最多叠加到30%。到达最大值后会往0%下降。"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_buff"                   "凋零钟声"
+"DOTA_Tooltip_modifier_ChallengeInfo_045_buff_Description"       "全额攻击力提升%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%" 
+
+
+
+
+"DOTA_Tooltip_ChallengeInfo_046_Name"	"传奇的追忆"
+"DOTA_Tooltip_ChallengeInfo_046_Description"	"下一回合会有[Somnus丶M的化身]来袭。"
+
+

@@ -1,0 +1,441 @@
+"DOTAAbilities"
+{
+    "sound_wheel_bobo_index_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_6"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_7"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_8"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_9"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_10"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_11"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_11"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_12"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_13"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_14"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_15"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_16"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_17"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_18"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_19"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_20"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_21"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_22"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_23"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_24"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_25"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_26"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_27"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_28"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_29"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_30"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_31"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_32"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_33"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_34"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_35"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_bobo_index_36"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/bobo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_chinese_index_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture1"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_chinese_index_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture1"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_chinese_index_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture1"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_chinese_index_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture1"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_chinese_index_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture1"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_chinese_index_6"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture1"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_chinese_index_7"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture1"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_chinese_index_8"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture1"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_chinese_index_9"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture1"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_japanese_index_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture2"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_japanese_index_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "myPicture2"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_xisuo_index_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/xisuo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_xisuo_index_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/xisuo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_xisuo_index_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/xisuo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_xisuo_index_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/xisuo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_xisuo_index_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/xisuo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_xisuo_index_6"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/xisuo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_xisuo_index_7"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/xisuo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_xisuo_index_8"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/xisuo"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_6"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_7"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_8"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_9"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_zhaoyun_index_10"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/zhaoyun"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_tiejia_index_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/tiejia"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_tiejia_index_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/tiejia"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_tiejia_index_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/tiejia"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_tiejia_index_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/tiejia"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_tiejia_index_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/tiejia"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_tiejia_index_6"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/tiejia"
+        "MaxLevel"              "1"
+    }
+    "sound_wheel_tiejia_index_7"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "wheel/tiejia"
+        "MaxLevel"              "1"
+    }
+}

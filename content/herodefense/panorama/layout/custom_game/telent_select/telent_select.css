@@ -1,0 +1,155 @@
+
+
+
+.telentRoot {
+    width: 100%;
+    height: 100%;
+}
+#telent_SelectRoot{
+    height: 800px;
+    width: 0px;
+    margin-bottom: 70px;
+    background-image: url("s2r://panorama/images/splash_ads/ti7_reminder_bg_psd.vtex");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    align: left center;
+    margin-top: 30px;
+    background-blur: gaussian(5);
+    transition-property: width, pre-transform-scale2d, opacity;
+    /* transition-property: transform, opacity; */
+    transition-duration: 0.4s;
+    transition-timing-function: ease-in-out;
+    box-shadow: rgb(0, 0, 0) 0px 0px 10px 0px;
+
+}
+
+#telent_SelectRoot.Visible {
+    width: 570px;
+}
+
+
+
+#SelectTitle{
+    color: #ffffffff;
+    font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 44px;
+    height: 35px;
+    width: 100%;
+    text-shadow: 2px 2px 4px 2 rgba(85, 85, 85, 0.565);
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: 8px;
+
+    text-align: center;
+    padding-top: 6px;
+    background-color: rgba(0, 0, 0, 0.3);
+
+    /* background-image: url("s2r://panorama/images/splash_ads/compendium_bg_psd.vtex");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat; */
+
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/draft_results_bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    wash-color: rgb(204, 186, 255);
+
+
+
+    border-bottom:2px solid rgb(17, 17, 17);
+    z-index: 5;
+}
+
+
+#SelectWindowContest{
+    
+    height: 755px;
+    width: 100%;
+    align: center bottom;
+    margin-top: 50px;
+    margin-left: 20px;
+    /* box-shadow: rgb(81, 81, 81) 0px 0px 5px 0px; */
+    overflow:squish scroll;  
+    flow-children: right-wrap;
+    /* background-image: url("s2r://panorama/images/custom_game/ability_selection/panel_bg_clean.png"); */
+
+    
+}
+
+.SingleSpellPanel_Root{
+    height: 160px;
+    width: 160px;
+    /* box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 25px 0px; */
+    /* border:2px solid rgba(90, 90, 90, 0.7); */
+    /* border-radius: 10px; */
+    margin: 10px;
+    /* margin-top: 20px; */
+}
+
+.SingleSpellPanel{
+    height: 160px;
+    width: 160px;
+    box-shadow:   inset -4px -4px -5px 4px rgba(0, 0, 0, 0.8);
+    /* margin: 5px; */
+    /* padding: 50px; */
+    border: 1.5px solid rgb(21, 21, 21);
+    border-radius: 10px;
+    transition-property: box-shadow;
+    transition-duration: .1s;
+    transition-timing-function: ease-in;
+
+}
+.SingleSpellPanel:hover{
+   
+    /* box-shadow: 0 0 0 rgba(0, 0, 0,.7),
+    -0 -0 0 rgba(255, 255, 255, 0.9),
+    inset -7px -7px 12px rgba(255,255,255,.9),
+    inset 7px 7px 12px rgba(0, 0, 0, 0.7); */
+    box-shadow:   inset 3px 3px 8px 1px rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+
+}
+
+#SingleSpellPanelButton{
+    height: 100%;
+    width: 100%;
+    /* align: center center; */
+    /* box-shadow: rgba(0, 0, 0,0.8) 0px 0px 20px 0px; */
+    /* border:2px solid rgb(48, 48, 48); */
+    transition-property: height,width,box-shadow,transform;
+    transition-duration: .1s;
+    transition-timing-function: ease-in;
+    /* opacity-mask: url("s2r://panorama/images/masks/scratched_box_psd.vtex"); */
+    opacity-mask: url("s2r://panorama/images/masks/sequence/flamereveal/128_png.vtex");
+    perspective: 1000;
+    background-color: rgba(0,0,0,.1);
+   
+}
+
+#SingleSpellPanelButton:hover {
+    /* height: 130px; */
+    /* width: 130px; */
+    /* box-shadow: rgb(40, 40, 40) 0px 0px 20px 0px; */
+    transform: translateX( 7px )  translateY( 7px ) ;
+
+
+}
+
+#SingleSpellPictureImage{
+    height: 140px;
+    width: 140px;
+    height: 160px;
+    width: 160px;
+    /* margin-left: 5px; */
+    /* margin-top: 5px; */
+    align: center center;
+    box-shadow: rgba(0, 3, 33, 0.8) 0px 0px 20px 0px;
+    border:1.5px solid rgb(17, 17, 17);
+    /* opacity-mask: url("s2r://panorama/images/masks/scratched_box_psd.vtex"); */
+    perspective: 1000;
+    background-color: rgba(0,0,0,.1);
+}

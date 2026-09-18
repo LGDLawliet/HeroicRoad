@@ -1,0 +1,115 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf58:version{9bada39c-a931-42d0-abdd-e5c1b13d37a6} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_flConstantRadius = 1.0
+	m_nMaxParticles = 1
+	m_nBehaviorVersion = 12
+	m_flConstantLifespan = 3.0
+	m_controlPointConfigurations = 
+	[
+		{
+			m_name = "preview"
+		},
+		{
+			m_name = "ae_normal_punch"
+			m_drivers = 
+			[
+				{
+					m_entityName = "self_with_wearables"
+				},
+				{
+					m_iControlPoint = 7
+					m_iAttachType = "PATTACH_WORLDORIGIN"
+					m_vecOffset = [ 0.74, 0.74, 0.74 ]
+					m_entityName = "self"
+				},
+			]
+			m_previewState = 
+			{
+				m_previewModel = "models/heroes/dark_seer/dark_seer.vmdl"
+				m_nModSpecificData = 348
+				m_sequenceName = "attack_normal_punch"
+				m_hitboxSetName = "default"
+				m_bAnimationNonLooping = true
+			}
+		},
+	]
+	m_PreEmissionOperators = 
+	[
+		{
+			_class = "C_OP_SetControlPointFromObjectScale"
+			m_nCPOutput = 7
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.0
+			}
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_InitFloat"
+			m_InputValue = 
+			{
+				m_nType = "PF_TYPE_LITERAL"
+				m_flLiteralValue = 1.1
+			}
+			m_nOutputField = 1
+		},
+		{
+			_class = "C_INIT_CreateWithinSphereTransform"
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_BasicMovement"
+		},
+		{
+			_class = "C_OP_RemapTransformOrientationToRotations"
+		},
+		{
+			_class = "C_OP_SetToCP"
+		},
+		{
+			_class = "C_OP_RemapCPtoScalar"
+			m_nCPInput = 7
+			m_nSetMethod = "PARTICLE_SET_SCALE_INITIAL_VALUE"
+		},
+	]
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderModels"
+			m_ModelList = 
+			[
+				{
+					m_model = resource:"models/heroes/dark_seer/dark_seer_gloves_fx_02.vmdl"
+				},
+			]
+			m_bIgnoreNormal = true
+			m_bAnimated = true
+			m_ActivityName = "ACT_DOTA_ATTACK"
+			m_flAnimationRate = 50.0
+			m_modelInput = 
+			{
+			}
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/rebuild/spell/chaotic_era_super_boxing/effect_main/effectattack_normal_punch_glove_blur.vpcf"
+		},
+	]
+}

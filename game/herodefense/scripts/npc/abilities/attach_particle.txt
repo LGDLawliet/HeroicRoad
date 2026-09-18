@@ -1,0 +1,566 @@
+"DOTAAbilities"
+{
+    "ability_particle_0"
+    {
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "attribute_bonus"
+        "ScriptFile"               "creeps_spell/creeps_spell_fellomen_bad_21"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityCastPoint"         "0.1"
+        "AbilityCastAnimation"     "ACT_DOTA_CAST_ABILITY_6"
+        "AnimationPlaybackRate"    "3"
+        "AbilityCooldown"          "0"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "0"
+        "AbilityChannelTime"       "0"
+        "AOERadius"                "275"
+    }
+    "ability_particle_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "test_particle"
+    }
+    "ability_particle_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "abyssal_underlord_dark_rift"
+    }
+    "attach_particle_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/rank_effect_1_1"
+    }
+    "attach_particle_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/rank_effect_3_1"
+    }
+    "attach_particle_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/rank_effect_10_1"
+    }
+    "attach_particle_4"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ice_path_lv1"
+    }
+    "attach_particle_5"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ice_path_lv2"
+    }
+    "attach_particle_6"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ice_path_lv3"
+    }
+    "attach_particle_7"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/evil_hand"
+    }
+    "attach_particle_8"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/death_hand"
+    }
+    "attach_particle_9"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/multiple_dimensions"
+    }
+    "attach_particle_10"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ice_therapy"
+    }
+    "attach_particle_11"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/nature_love"
+    }
+    "attach_particle_12"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/doom"
+    }
+    "attach_particle_13"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/sand"
+    }
+    "attach_particle_14"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/rooted"
+    }
+    "attach_particle_15"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/holly"
+    }
+    "attach_particle_16"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/Light_of_Insight"
+    }
+    "attach_particle_17"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/misfortune"
+    }
+    "attach_particle_18"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/spirit"
+    }
+    "attach_particle_19"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/platinum"
+    }
+    "attach_particle_20"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/desperation_aura"
+    }
+    "attach_particle_21"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/midas"
+    }
+    "attach_particle_22"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ruby"
+    }
+    "attach_particle_23"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/emerald"
+    }
+    "attach_particle_24"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/diretide"
+    }
+    "attach_particle_25"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ember"
+    }
+    "attach_particle_26"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/fog"
+    }
+    "attach_particle_27"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/flower_wedding"
+    }
+    "attach_particle_28"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/void"
+    }
+    "attach_particle_29"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/void"
+    }
+    "attach_particle_30"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/void"
+    }
+    "attach_particle_31"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/void"
+    }
+    "attach_particle_32"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/snow"
+    }
+    "attach_particle_33"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/scorched_earth"
+    }
+    "attach_particle_34"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/ice_touch"
+    }
+    "attach_particle_35"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/diretide2"
+    }
+    "attach_particle_36"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/wind1"
+    }
+    "attach_particle_37"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/wind2"
+    }
+    "attach_particle_38"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/aew1"
+    }
+    "attach_particle_39"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/aew2"
+    }
+    "attach_particle_40"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/aew3"
+    }
+    "attach_particle_41"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/aew4"
+    }
+    "attach_particle_42"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/falling_feather"
+    }
+    "attach_particle_43"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/violet"
+    }
+    "attach_particle_44"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/overgrown_emblem"
+    }
+    "attach_particle_45"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/crystal_emblem"
+    }
+    "attach_particle_46"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/nemestice_emblem"
+    }
+    "attach_particle_47"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/magnetized stone_wall"
+    }
+    "attach_particle_48"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/foul"
+    }
+    "attach_particle_49"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/aghanim1"
+    }
+    "attach_particle_50"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/aghanim2"
+    }
+    "attach_particle_51"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/aghanim3"
+    }
+    "attach_particle_52"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/star_cloud"
+    }
+    "attach_particle_53"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gold_king2"
+    }
+    "attach_particle_54"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gold_king"
+    }
+    "attach_particle_55"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gold_king3"
+    }
+    "attach_particle_56"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/candy_store"
+    }
+    "attach_particle_57"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gold_pocket"
+    }
+    "attach_particle_58"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gold_pocket"
+    }
+    "attach_particle_59"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/dead_man"
+    }
+    "attach_particle_60"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/frozen_sky"
+    }
+    "attach_particle_61"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/black_stick"
+    }
+    "attach_particle_62"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/cheeseman"
+    }
+    "attach_particle_63"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gemstone_crystal_worm"
+    }
+    "attach_particle_64"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/cat1"
+    }
+    "attach_particle_65"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/cat1"
+    }
+    "attach_particle_66"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/cat1"
+    }
+    "attach_particle_67"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/cat1"
+    }
+    "attach_particle_68"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/cat1"
+    }
+    "attach_particle_69"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/cat1"
+    }
+    "attach_particle_70"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/cat1"
+    }
+    "attach_particle_71"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/spirit_of_the_moon"
+    }
+    "attach_particle_72"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/spirit_of_the_moon"
+    }
+    "attach_particle_73"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/3dprint"
+    }
+    "attach_particle_74"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/shabi1"
+    }
+    "attach_particle_75"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/shabi2"
+    }
+    "attach_particle_76"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/wooden_man"
+    }
+    "attach_particle_77"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/truth_lasso"
+    }
+    "attach_particle_78"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/truth_lasso2"
+    }
+    "attach_particle_79"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/truth_lasso2"
+    }
+    "attach_particle_79"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/truth_lasso2"
+    }
+    "attach_particle_80"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/spectre_shadow"
+    }
+    "attach_particle_81"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/hamon"
+    }
+    "attach_particle_82"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/brain_worm"
+    }
+    "attach_particle_83"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/monkey_king_cloud"
+    }
+    "attach_particle_84"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/secret_of_the_rubik_cube"
+    }
+    "attach_particle_85"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/secret_of_the_rubik_cube2"
+    }
+    "attach_particle_86"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/batman"
+    }
+    "attach_particle_87"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/jewelry_collector"
+    }
+    "attach_particle_88"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/jewelry_collector2"
+    }
+    "attach_particle_89"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/golden_legend"
+    }
+    "attach_particle_90"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/frozen_throne"
+    }
+    "attach_particle_91"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/nova"
+    }
+    "attach_particle_92"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/praise_the_sun1"
+    }
+    "attach_particle_93"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/praise_the_sun2"
+    }
+    "attach_particle_94"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/praise_the_sun3"
+    }
+    "attach_particle_95"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/nova2"
+    }
+    "attach_particle_96"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gravity"
+    }
+    "attach_particle_98"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gudodama"
+    }
+    "attach_particle_99"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gold_oop_ring"
+    }
+    "attach_particle_101"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gudodama2"
+    }
+    "attach_particle_102"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gudodama3"
+    }
+    "attach_particle_103"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/gudodama4"
+    }
+    "attach_particle_104"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/nether_moth"
+    }
+    "attach_particle_105"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/emblem_ti11"
+    }
+    "melee_attack_1"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/melee_attack/melee_attack_1"
+    }
+    "melee_attack_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/melee_attack/melee_attack_2"
+    }
+    "melee_attack_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "particle_set/melee_attack/melee_attack_3"
+    }
+}

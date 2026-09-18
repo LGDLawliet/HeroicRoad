@@ -1,0 +1,500 @@
+#CheckFellOmenBuff {
+    align: right top;
+	margin-left: 80%;
+    /* margin-top: -5px; */
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/arrow_top_png.vtex");
+    /*background-image: url("s2r://panorama/images/control_icons/arrow_double_psd.vtex");*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    z-index: 5;
+
+    horizontal-align: left;
+    margin-right: 28px;
+    wash-color:  rgb(132, 150, 173);
+    /* transform: scaleY(-1); */
+    /* transform: rotate(0.5px); */
+    pre-transform-scale2d: -1, -1;
+    z-index: 0;
+    padding: 25px;
+    border-radius: 50%;
+    opacity:0.7;
+}
+
+
+#CheckFellOmenBuff:hover {
+    brightness: 2.4;
+}
+
+#CheckFellOmenBuff {
+    visibility: collapse;
+}
+#CheckFellOmenBuff.Visible {
+    visibility: visible;
+}
+
+
+#FellOmenPanelRoot{
+    width: 100%;
+    height: 100%;
+    opacity: 1.0;
+
+}
+
+
+
+
+
+
+#FellOmenPanelWindow{
+
+     width: 60%;
+     height:50%;
+     z-index: 0;
+     background-color: rgba(0, 0, 0, 0.8);
+     margin-top: 150px;
+     /* margin-left: 22%; */
+     align: center top;
+     /* blur: gaussian(1px); */
+     box-shadow: rgb(0, 13, 28) 0px 0px 80px 10px;
+
+     background-image: url("s2r://panorama/images/battlepass/spring2021/weeklyquests/hiddenbg_week05_psd.vtex");
+     /* background-image: url("s2r://panorama/images/conduct/ovw_keyart_png.vtex"); */
+     /* background-blur: 5px; */
+     /* blur: gaussian(30px); */
+     /* background-position:center top; */
+     background-size: 100%;
+     /* background-position:center top; */
+     background-repeat: no-repeat;
+     /* transition-property: width; */
+     /* transition-duration: 0.6s, 0.4s, 0.5s; */
+     /* transition-timing-function: ease-in-out; */
+     flow-children: down-wrap;
+     z-index: 5;
+     /* wash-color:  rgb(132, 150, 173); */
+     transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+     transition-duration: 0.6s, 0.4s, 0.3s;
+     transition-timing-function: ease-in-out;
+ }
+ 
+ 
+#FellOmenPanelWindow.Hidden{
+     opacity: 0.0;
+     transform: translateX( 120px ) translateY( -100px );
+     pre-transform-scale2d:0.95;
+     /* wash-color: #33cccc; */
+ }
+ 
+
+
+#FellOmenPanelWindow_Bad{
+    width: 100%;
+    height:50%;
+    align: center top;
+    /* blur: gaussian(1px); */
+    /* box-shadow: rgb(111, 147, 189) 0px 0px 1px 00px; */
+    background-image: url("s2r://panorama/images/hud/pa_gravestone_bg_png.vtex");
+    /* background-position:50% 50%;
+         background-repeat: no-repeat; */
+    background-size: 100%;
+    transition-property: width;
+    transition-duration: 0.6s, 0.4s, 0.5s;
+    transition-timing-function: ease-in-out;
+    flow-children: right-wrap;
+    z-index: 5;
+    overflow:squish scroll;  
+    /* opacity:0.5; */
+}
+
+
+#FellOmenPanelWindow_Good{
+    width: 100%;
+    height:50%;
+    align: center top;
+    blur: gaussian(0px);
+    background-image: url("s2r://panorama/images/conduct/ovw_keyart_png.vtex");
+    /* background-image: url("s2r://panorama/images/battlepass/spring2021/weeklyquests/hiddenbg_week05_psd.vtex"); */
+    /* background-position:50% 50%; */
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition-property: width;
+    transition-duration: 0.6s, 0.4s, 0.5s;
+    transition-timing-function: ease-in-out;
+    flow-children: right-wrap;
+    z-index: 5;
+    /* opacity:0.5; */
+}
+
+
+
+#SingleSpellPanelButton:hover {
+    box-shadow: rgb(154, 173, 173)0px 0px 10px 0px;
+    brightness: 2.4;
+}
+
+
+/* 技能图标 */
+.SingleSpellPanel {
+    width: 64px;
+    height:64px;
+    /* flow-children: down; */
+    margin-left: 15px; 
+    margin-right: 5px;
+    margin-top: 15px;
+    /* padding: 6px; */
+    box-shadow: rgb(100, 133, 143)0px 0px 5px 0px;
+    transition-property: opacity, transform, pre-transform-scale2d, wash-color,box-shadow;
+    transition-duration: 0.6s, 0.4s, 0.3s;
+    transition-timing-function: ease-in-out;
+    /* pre-transform-scale2d:0.5; */
+
+}
+.SpellHidden{
+    opacity: 0.0;
+    transform: translateX( 1500px ) translateY( 1500px );
+    box-shadow: rgb(0, 0, 0)0px 0px 5px 0px;
+    pre-transform-scale2d:0.95;
+    /* wash-color: #33cccc; */
+}
+
+
+
+
+/* 图标下的说明 */
+.CpCostIndicator {
+    align: left bottom;
+    font-size: 18px;
+    /* width: 20%; */
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+    color: rgb(255, 255, 255);
+    box-shadow: rgb(0, 0, 0)0px 0px 5px 0px;
+}
+
+
+
+#FellOmenBan_Panel_Root{
+    width: 30%;
+    height:35%;
+    z-index: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-top: 150px;
+    align: center top;
+    box-shadow: rgb(0, 13, 28) 0px 0px 8000px 0px;
+    background-image: url("s2r://panorama/images/hud/reborn/ability_bg_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    z-index: 5;
+    transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+    transition-duration: 0.6s, 0.4s, 0.3s;
+    transition-timing-function: ease-in-out;
+}
+
+
+#FellOmenBan_Panel_Root.Hidden{
+    opacity: 0.0;
+    transform: translateX( 120px ) translateY( -100px );
+    pre-transform-scale2d:0.95;
+    /* wash-color: #33cccc; */
+}
+
+
+
+#FellOmenBan_confirm{
+    color: #ffffffff;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 34px;
+    height: 46px;
+    width: 100%;
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; /* 雕刻 */
+    text-overflow: shrink;
+    align: center top;
+    margin-bottom: 0px;
+    box-shadow: rgb(0, 0, 0)0px 0px 15px 0px;
+    text-align: center;
+    /* padding-top: 6px; */
+    background-color:gradient( linear, 0% 50%, 80% 50%, from( #000000 ), color-stop( 0.8, #4b4b4b ),  to( #111111 ));
+    color: gradient(linear, 0% 0%, 0% 90%, from(#878b8b), to(#aabec4));
+    z-index: 5;
+    brightness: 0.9;
+    background-image: url("s2r://panorama/images/hud/reborn/bg_scoreboard_psd.vtex");
+    /* background-blur: 5px; */
+    /* blur: gaussian(30px); */
+    /* background-position:center top; */
+    background-size: 100%;
+    /* background-position:center top; */
+    background-repeat: no-repeat;
+}
+
+
+
+
+#FellOmen_Confirm_panel{
+    /* z-index: 2; */
+    margin-top: 40%;
+    margin-left: 10%;
+    /* margin: 300px; */
+    /* align: center; */
+    align: left top;
+    height: 70px;
+    width: 200px;
+    background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    box-shadow: rgb(0, 0, 0)0px 0px 10px 0px;
+    padding: 15px;
+    border-radius: 5px;
+    wash-color: #acacac; 
+    transition-property: brightnessr,box-shadow;
+    transition-duration: 0.4s, 0.3s, 0.1s;
+    transition-timing-function: ease-in-out;
+    brightness: 0.9;
+}
+
+#FellOmen_Confirm_panel:hover{
+    brightness: 2.2;
+    box-shadow: rgb(69, 100, 102)0px 0px 10px 0px;
+}
+
+#FellOmen_Cancle_panel{
+
+    align: right top;
+    margin-top: 40%;
+    margin-right: 10%;
+    height: 70px;
+    width: 200px;
+    background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    box-shadow: rgb(0, 0, 0)0px 0px 10px 0px;
+    padding: 15px;
+    border-radius: 5px;
+    wash-color: #acacac; 
+    transition-property: brightnessr,box-shadow;
+    transition-duration: 0.4s, 0.3s, 0.1s;
+    transition-timing-function: ease-in-out;
+    brightness: 0.9;
+}
+#FellOmen_Cancle_panel:hover{
+    brightness: 2.2;
+    box-shadow: rgb(69, 100, 102)0px 0px 10px 0px;
+}
+.FellOmen_Confirm_Label{
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 30px;
+    width: 100%;
+    text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; /* 雕刻 */
+    text-overflow: shrink;
+    align: center top;
+    /* margin-bottom: -3px; */
+    text-align: center;
+    /* z-index: 0; */
+    color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+
+
+
+
+#FellOmenBan_Bonus_Attributes_Panel_Root{
+    width: 800px;
+    height: 100%;
+    horizontal-align: right;
+    #FellOmenBan_Bonus_Attributes_PanelWindow{
+        width: 1150px;
+        height:800px;
+        z-index: 0;
+        // background-color: rgba(0, 0, 0, 0.8);
+        margin-top: 150px;
+        align: right top;
+        // box-shadow: rgb(0, 13, 28) 0px 0px 80px 10px;
+        z-index: 5;
+        transition-property: opacity, transform, pre-transform-scale2d, wash-color,box-shadow;
+        transition-duration: 0.6s, 0.4s, 0.3s;
+        transition-timing-function: ease-in-out;
+        pre-transform-scale2d:1;
+        &.FellOmenHidden{
+            opacity: 0.0;
+            transform: translateX( 1200px ) translateY( 0px );
+            box-shadow: rgb(0, 0, 0)0px 0px 5px 0px;
+            pre-transform-scale2d:0.95;
+        }
+        #FellOmenBonus_title{
+            color: #ffffffff;
+            font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+            font-size: 34px;
+            height: 46px;
+            width: 100%;
+            text-shadow: 2px 2px 4px 2 #00000090;
+            text-overflow: shrink;
+            align: center top;
+            margin-bottom: 11px;
+        
+            text-align: center;
+            padding-top: 6px;
+            background-color: rgba(0, 0, 0, 0.3);
+            color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+        }
+        #FellOmenBan_Bonus_Attributes_BackGround{
+            width: 1100px;
+            height:750px;
+            z-index: 0;
+            // background-color: rgba(0, 0, 0, 0.8);
+            blur: gaussian(5px);
+            box-shadow: rgb(0, 0, 0) 0px 0px 10px 0px;
+            background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+            background-size: 100%;
+            background-repeat: no-repeat;
+            background-position: center;
+            z-index: 0;
+            brightness: 0.5;
+        }
+        #FellOmenBan_Bonus_Attributes{
+            width: 1100px;
+            height:750px;
+            z-index: 0;
+            z-index: 0;
+            brightness: 0.5;
+            flow-children: right-wrap;
+            padding: 5px;
+            #FellOmenBan_Bonus_Attributes_0{
+                width: 100%;
+                height:50px;
+                align: center top;
+                margin-top: 50px;
+                flow-children: right-wrap;
+                box-shadow: rgba(0, 13, 28,0.8) 0px 0px 20px 0px;
+            }
+            .FellOmenBan_Bonus_Attributes_detail_Panel{
+                width: 350px;
+                height:40px;
+                margin: 5px;
+                flow-children: right-wrap;
+                
+                .Bonus_Attribues_Label{
+                    height:36px;
+                    width: 120px;
+                    text-align: center;
+                    font-family:TH Sarabun New, YDYGO 540;
+                    font-size: 20px;
+                    background-color: rgba(0, 13, 28,0.5);
+                    border:0.5px solid baseBorder;
+                    margin-left: 2px;
+                    color:#ACD4DF;
+                }
+
+                .Bonus_Attribues_Label_2{
+                    height:36px;
+                    width: 120px;
+                    text-align: left;
+                    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+                    font-size: 23px;
+                    background-color: rgba(0, 13, 28,0.5);
+                    border:0.5px solid baseBorder;
+                    margin-left: 2px;
+                    color:#ACD4DF;
+                }
+
+                #Bonus_Attribues_NumberEntry{
+                    height:36px;
+                }
+            }
+        }
+        
+    }
+}
+
+
+
+
+
+
+
+/* 展开按钮 */
+#SetBonusAttributesButton {
+
+    align: right center;
+    margin-right: 800px;
+    /* background-image: url("s2r://panorama/images/control_icons/arrow_double_psd.vtex"); */
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/arrow_top_png.vtex");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    z-index: 5;
+    horizontal-align: right;
+    wash-color: #8496ad;
+    /* transform: translateX( 0px ) translateY( 0px ); */
+    /* pre-transform-scale2d: 1, -1; */
+    /* transform: rotateZ(0deg); */
+    transform: rotateZ(90deg) translateX(0px) translateY(0px);
+    z-index: 10;
+    padding: 45px;
+    border-radius: 50%;
+    opacity: 0.7;
+    transition-property: transform, wash-color, margin-right;
+    transition-duration: 0.5s, 0.4s, 0.1s;
+    transition-timing-function: ease-in-out;
+    /* pre-transform-scale2d:1; */
+    &.FellOmenHidden {
+      /* transform: rotateZ( 180deg ); */
+      /* margin-right: 0px; */
+      transform: rotateZ(-90deg) translateX(800px) translateY(0px);
+    }
+
+}
+
+#SetBonusAttributesButton:hover {
+    brightness: 2.4;
+}
+
+#SetBonusAttributesButton {
+    visibility: collapse;
+}
+#SetBonusAttributesButton.Visible {
+    visibility: visible;
+}
+
+
+
+
+.Bonus_Attribues_Label_base{
+    height:36px;
+    width: 400px;
+    text-align: center;
+    align: center top;
+    font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 25px;
+    /* background-color: black; */
+    border:1px solid baseBorder;
+    margin-left: 2px;
+    color:#ACD4DF;
+}
+
+
+#SendBonusAttributes{
+    horizontal-align: left;
+    vertical-align: bottom;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    z-index: 10;
+    &.generalHDButton{
+       
+        > Label{
+            font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+            font-size: 20px;
+            /* width: 100%; */
+            horizontal-align: center;
+            text-shadow: -1px -1px -1px #000, 2px 2px 2px #fff; /* 雕刻 */
+            text-overflow: shrink;
+            align: center top;
+            margin-bottom: -3px;
+            text-align: center;
+            /* z-index: 0; */
+            color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#a8a8a8));
+        }
+        &:hover{
+            box-shadow: rgb(22, 0, 41) 0px 0px 10px 0px;
+        }
+    }
+}
+
+

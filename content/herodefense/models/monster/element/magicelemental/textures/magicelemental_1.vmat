@@ -1,0 +1,119 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "hero_fluid.vfx"
+
+	//---- Morph ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Normal Maps ----
+	F_NORMAL_MAP 1
+
+	//---- Reflection cube map ----
+	F_REFLECT_CUBE_MAP 1
+
+	//---- Refraction cube map ----
+	F_REFRACT_CUBE_MAP 1
+
+	//---- Tint Mask ----
+	F_TINT_MASK 1
+
+	//---- Base Settings ----
+	g_flEdgeErosion "0.000"
+	g_flEdgeSharpness "3.3531"
+	g_flRimLightSharpness "19.281"
+	g_flRimLightStrength "65.868"
+	g_flTintMaskContrast "52.096"
+	g_flTintMaskCutOff "1.000"
+	g_vColorTint "[0.196078 0.000000 0.000000 0.000000]"
+	g_vColorTint2 "[0.000000 0.431373 0.062745 0.000000]"
+	g_vMinLightColor "[0.713726 0.074510 0.074510 0.000000]"
+	g_vRimLightColor "[0.000000 0.015686 0.101961 0.000000]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	TextureColor "[0.000000 0.000000 0.000000 1.000000]"
+	TextureTintMask "[0.590000 0.590000 0.590000 0.000000]"
+	TextureTranslucency "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Displacement ----
+	g_flInflateStrength "-6.145"
+	TextureDisplacementMask "[0.623000 0.623000 0.623000 0.000000]"
+
+	//---- Masks ----
+	g_flSpecularBloom "10.000"
+	g_flSpecularIntensity "7.000"
+	TextureBloom "[1.000000 1.000000 1.000000 0.000000]"
+	TextureReflectance "[0.410000 0.410000 0.410000 0.000000]"
+	TextureSelfIllumMask "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Normal Map ----
+	g_flBumpStrength "0.000"
+	TextureNormal "[0.501961 0.501961 1.000000 0.000000]"
+
+	//---- Reflection ----
+	g_flCubeMapPowerReflect "1.000"
+	g_flCubeMapScalarReflect "7.413"
+	g_flReflectBumpStrength "1.000"
+	g_flReflectRimPower "3.000"
+	g_flReflectRimStrength "3.000"
+	TextureCubeMapReflect "materials/models/cubemaps/glossy_blue_cube.tga"
+
+	//---- Refraction ----
+	g_flCubeMapPowerRefract "1.000"
+	g_flCubeMapScalarRefract "3.000"
+	g_flCubeRefractTransparency "1.000"
+	g_flRefractBumpStrength "1.000"
+	g_flRefractInnerGlow "1.000"
+	g_flRefractionIndex "1.400"
+	TextureCubeMapRefract "materials/models/cubemaps/cube_metal_grey_cube.tga"
+
+	//---- Spiral Effect ----
+	g_flSpiralAlphaMax "0.729"
+	g_flSpiralAlphaMin "0.327"
+	g_flSpiralBumpStrength "1.421"
+	g_flSpiralDisplacementStrength "2.804"
+	g_flSpiralInflateScale "0.000"
+	g_flSpiralInflateSpeed "0.000"
+	g_flSpiralInflateVariance "40.000"
+	g_flSpiralOverlaySpeedMultiple "0.700"
+	g_vSpiralDisplacementOffset "[-0.006 -0.006 0.027]"
+	g_vSpiralDisplacementSpeed "-2.500"
+	g_vSpiralUVScale "[1.000 0.500]"
+	g_vSpiralUVSpeed "[-1.500 -0.350]"
+	TextureSpiralAlpha "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSpiralNormal "materials/fluid_test/fluid_test_normal.png"
+	TextureSpiralOverlayAlpha "[0.322000 0.322000 0.322000 0.000000]"
+	TextureSpiralOverlayColor "materials/models/heroes/keeper_of_the_light/keeper_electric_detail.psd"
+
+	Attributes
+	{
+		PreviewModel "models/monster/element/magicelemental/magicelemental.vmdl"
+	}
+
+
+	VariableState
+	{
+		"Base Settings"
+		{
+		}
+		"Displacement"
+		{
+		}
+		"Masks"
+		{
+		}
+		"Normal Map"
+		{
+		}
+		"Reflection"
+		{
+		}
+		"Refraction"
+		{
+		}
+		"Spiral Effect"
+		{
+		}
+	}
+}

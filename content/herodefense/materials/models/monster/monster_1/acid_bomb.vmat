@@ -1,0 +1,36 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "global_lit_simple.vfx"
+
+	//---- Enable wind ----
+	F_ENABLE_WIND 1
+
+	//---- Wind that follows object Z ----
+	F_TRAVELLING_WIND_OBJECT_Z 1
+
+	//---- Color ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[0.205 0.904]"
+	g_vTexCoordScale "[3.000 3.000]"
+	TextureColor "materials/models/heroes/undying/undying_tower_glow_detail.psd"
+
+	//---- Wind ----
+	g_flTravellingWindMagnitude "100.885"
+	g_flTravellingWindSpeed "29.915"
+	g_flTravellingWindWavelength "130.876"
+	g_flWindFlexibility "1.000"
+	g_flWindHighFrequencyEffects "5.000"
+	g_flWindLinearity "0.615"
+	g_flWindLowFrequencyEffects "5.000"
+	g_flWindSpeedMultiplier "2.000"
+	TextureWindMaskHigh "materials/default/default_mask.tga"
+	TextureWindMaskLow "materials/default/default_mask.tga"
+	TextureWindRandomNoise "materials/models/heroes/jakiro/jakiro_diffusewarp.psd"
+
+	DynamicParams
+	{
+		g_vTexCoordOffset "frac(float2(0.7,.5)*time())"
+	}
+}

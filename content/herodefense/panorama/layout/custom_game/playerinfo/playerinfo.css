@@ -1,0 +1,2789 @@
+.playerinfoMenuRoot {
+  width: 100%;
+  height: 100%;
+  /* wash-color: #9ea044; */
+}
+#playerButtonManagerMenuOpen {
+  z-index: 55;
+  height: 10%;
+  width: 500px;
+  margin-left: 150px;
+  margin-top: 10px;
+  flow-children: right-wrap;
+}
+/* 
+
+panorama/images/hud/gold_graph_icon_png 金币图标
+goldamount_bg_png  金币背景
+panorama/images/hud/icon_gold_psd.png 金币
+*/
+/* 技能图鉴按钮 */
+#playerSpellslibraryMenuOpenButton {
+  align: left top;
+  margin-left: 5px;
+  background-image: url("s2r://panorama/images/hud/reborn/aghsstatus_scepter_on_psd.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  padding: 20px;
+  border-radius: 50%;
+}
+#playerChaoticEraSpellslibraryMenuOpenButton {
+  align: left top;
+  margin-left: 5px;
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/chaotic_era_library_icon.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  padding: 20px;
+  border-radius: 50%;
+}
+#playerArtifactMenuOpenButton {
+  align: left top;
+  margin-left: 5px;
+  background-image: url("s2r://panorama/images/leaf_pages/debut_arcana_windranger/windranger_side_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  padding: 20px;
+  border-radius: 50%;
+}
+#playerArtifactMenuOpenButton:hover {
+  brightness: 3;
+}
+/* 玩家商城按钮 */
+#playerShopMenuOpenButton {
+  align: left top;
+  /* margin-left: 50%; */
+  margin-left: 5px;
+  background-image: url("s2r://panorama/images/hud/neutral_item_stash_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  padding: 20px;
+  border-radius: 50%;
+}
+/* 玩家特效按钮 */
+#playerParticleMenuOpenButton {
+  align: left top;
+  margin-left: 8px;
+  background-image: url("s2r://panorama/images/hud/icon_outpost_psd.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  padding: 20px;
+  border-radius: 50%;
+}
+/* 玩家信息按钮 */
+#playerinfoMenuOpenButton {
+  align: left top;
+  margin-left: 5px;
+  background-image: url("s2r://panorama/images/hud/heroview_icon_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  padding: 20px;
+  border-radius: 50%;
+}
+/* 扩展设置 */
+#playerSettingMenuOpenButton {
+  align: left top;
+  /* width: 60px; */
+  margin-left: 5px;
+  background-image: url("s2r://panorama/images/control_icons/gear_return_png.vtex");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  z-index: 5;
+  horizontal-align: left;
+  /* margin-right: 28px; */
+  wash-color: #575d5f;
+  pre-transform-scale2d: -1, -1;
+  z-index: 0;
+  padding: 20px;
+  border-radius: 50%;
+}
+/* 成就 */
+#playerAchievementMenuOpenButton {
+  align: left top;
+  width: 40px;
+  height: 60px;
+  margin-top: -15px;
+  /* margin-left: -10px; */
+  background-image: url("s2r://panorama/images/trophies/fall_majors_2015_trophy_compendium_level_5_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+  z-index: 5;
+  horizontal-align: left;
+  /* margin-right: 28px; */
+  /* wash-color: #575d5f; */
+  /* pre-transform-scale2d: -1, -1; */
+  z-index: 0;
+  padding: 20px;
+  border-radius: 50%;
+}
+/* 按钮悬浮 */
+#playerSpellslibraryMenuOpenButton:hover {
+  /* border: 2px solid #888888; */
+  brightness: 2.4;
+}
+#playerShopMenuOpenButton:hover {
+  /* border: 2px solid #888888; */
+  brightness: 2.4;
+}
+#playerAchievementMenuOpenButton:hover {
+  brightness: 2.4;
+}
+#playerinfoMenuOpenButton:hover {
+  brightness: 2.4;
+}
+#playerChaoticEraSpellslibraryMenuOpenButton:hover,
+#playerSettingMenuOpenButton:hover {
+  brightness: 3.4;
+}
+/* 技能图鉴窗口 */
+#playerSpellslibraryMenuwindowROOT {
+  width: 100%;
+  height: 100%;
+  align: right bottom;
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+  background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+/* 关闭技能图鉴按钮 */
+#CloseplayerSpellslibraryMenuwindowButton {
+  align: right bottom;
+  margin-right: 40px;
+  margin-bottom: 1035px;
+  /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+  background-image: url("s2r://panorama/images/hud/reborn/disconnect_x_psd.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  padding: 20px;
+  border-radius: 50%;
+}
+#CloseplayerSpellslibraryMenuwindowButton:hover {
+  /* border: 2px solid #888888; */
+  brightness: 10;
+}
+.playerInfoTitle {
+  color: #ffffffff;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 34px;
+  height: 46px;
+  width: 100%;
+  text-shadow: 2px 2px 4px 2 #00000090;
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 11px;
+  text-align: center;
+  padding-top: 6px;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+}
+/* 技能类型按钮位置设置 */
+#OtherSpellsButton,
+#AssistSpellsButton,
+#DefenseSpellsButton,
+#SummonSpellsButton,
+#MagicalSpellsButton,
+#PhysicalSpellsButton {
+  align: left top;
+  /* width: 200px; */
+  /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+  /* z-index: 0;
+    padding: 15px;
+    border-radius: 5px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+    margin-top: 70px;
+    brightness: 1.5;
+    border:1px solid rgba(99, 99, 99,0.3); */
+}
+#PhysicalSpellsButton {
+  margin-left: 10px;
+}
+#MagicalSpellsButton {
+  margin-left: 260px;
+}
+#SummonSpellsButton {
+  margin-left: 510px;
+}
+#DefenseSpellsButton {
+  margin-left: 760px;
+}
+#AssistSpellsButton {
+  margin-left: 1010px;
+}
+#OtherSpellsButton {
+  margin-left: 1260px;
+}
+/* 技能类型选择按钮悬浮 */
+#PhysicalSpellsButton:hover {
+  box-shadow: #8f4d4d 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#MagicalSpellsButton:hover {
+  box-shadow: #038d8d 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#SummonSpellsButton:hover {
+  box-shadow: #816a01 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#DefenseSpellsButton:hover {
+  box-shadow: #200f9e 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#AssistSpellsButton:hover {
+  box-shadow: #02830d 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#OtherSpellsButton:hover {
+  box-shadow: #9aadad 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+/* 技能类型选择按钮字体设置 */
+#OtherSpellsButtonLabel,
+#AssistSpellsButtonLabel,
+#DefenseSpellsButtonLabel,
+#SummonSpellsButtonLabel,
+#MagicalSpellsButtonLabel,
+#PhysicalSpellsButtonLabel {
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 23px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: -3px;
+  text-align: center;
+  /* z-index: 0; */
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+/* 位于左边的技能选择窗口 */
+#SpellsWindowPanel {
+  /* 加入滚动 */
+  overflow: squish scroll;
+  /* overflow-y:hidden; */
+  flow-children: right-wrap;
+  /* 标记位置  */
+  width: 60%;
+  height: 80%;
+  /* z-index: 1; */
+  /* color: rarity_color_arcana; */
+  /* background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123)); */
+  /* box-shadow: rgb(88, 88, 88) 0px 0px 5px 0px; */
+  background-color: gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d33), to(#00112333));
+  /* box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 0px 0px; */
+  border: 2px solid rgba(63, 63, 63, 0.5);
+  margin-top: 150px;
+  margin-left: 10px;
+  /* box-shadow: rgb(0, 0, 0) 0px 0px 30px 5px; */
+  /* border:2px solid rgb(95, 95, 95); */
+}
+#SingleSpellPanelButton {
+  /* box-shadow: rgb(0, 0, 0) 0px 0px 30px 0px; */
+  /* brightness: 2.4; */
+}
+.SingleSpellPanel_root:hover {
+  brightness: 3.4;
+  z-index: 5;
+  pre-transform-scale2d: 1.2;
+  sound: "ui_custom_lobby_drawer_slide_out";
+}
+.SingleSpellPanel_root {
+  /* flow-children: down;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 10px;
+    padding: 6px;
+    background-color: rgba(69, 69, 69, 0.99); */
+  flow-children: down;
+  margin-left: 4px;
+  margin-top: 10px;
+  padding: 6px;
+  transition-property: pre-transform-scale2d;
+  /* transition-property: transform, opacity; */
+  transition-duration: 0.1s;
+  transition-timing-function: ease-in-out;
+}
+/* 技能图标 */
+.SingleSpellPanel {
+  flow-children: down;
+  padding: 5px;
+  /* background-color: rgba(0, 0, 0, 0.1) ; */
+}
+#SingleSpellPictureImage {
+  border: 2px solid #303030;
+  box-shadow: #646464 0px 0px 3px 0px;
+  border-bottom: 0px solid #303030;
+}
+/* 图标下的说明 */
+.CpCostIndicator {
+  align: center center;
+  /* margin-top: 2px; */
+  /* text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;  */
+  color: #e1e1e1;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  font-family: titleFont;
+  /* width: fill-parent-flow(1.0); */
+  text-overflow: shrink;
+  letter-spacing: 0.5px;
+  text-shadow: 2px 2px 0px 1 #00000090;
+  text-transform: uppercase;
+  font-weight: semi-bold;
+  box-shadow: #141414 0px 0px 3px 0px;
+}
+#leveltext {
+  margin-top: 2px;
+  border-left: 2px solid #303030;
+  border-right: 2px solid #303030;
+  /* text-shadow: 2px 2px 0px 1.0 #00000090; */
+}
+#SpellLevel {
+  font-size: 12px;
+  color: #d3d2b9;
+  border-left: 2px solid #303030;
+  border-right: 2px solid #303030;
+  border-bottom: 2px solid #303030;
+  /* text-shadow: 2px 2px 0px 1.0 #00000090; */
+}
+/* 右边的技能详细说明 */
+#SpellsinfoWindowPanel {
+  width: 43%;
+  height: 80%;
+  z-index: 0;
+  /* background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123)); */
+  /* box-shadow: rgb(0, 0, 0) 0px 0px 50px 0px; */
+  background-color: gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d33), to(#00112333));
+  border: 2px solid rgba(63, 63, 63, 0.5);
+  margin-top: 150px;
+  margin-left: 61%;
+  /* border:2px solid rgb(34, 34, 34); */
+}
+#Spellsinfo_exp_WindowPanel {
+  /* flow-children: right; */
+  height: 100%;
+  width: 100%;
+}
+/* 存放可靠经验 */
+#exp_window {
+  flow-children: right-wrap;
+  width: 100%;
+  height: 20%;
+  z-index: 0;
+}
+/* 可靠经验图标 */
+#Spellsinfo_exp_icon {
+  align: left top;
+  /* background-image: url("s2r://panorama/images/hud/reborn/shared_content_rest_png.vtex"); */
+  background-image: url("s2r://panorama/images/battle_report/silver_medal_small_psd.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 0;
+  padding: 20px;
+}
+/* 可靠经验文本 */
+#Spellsinfo_exp {
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 44px;
+  height: 46px;
+  width: 20%;
+  /* margin-left: 20px; */
+  /* text-shadow: 2px 2px 4px 2 #00000090; */
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  text-overflow: shrink;
+  /* align: left top; */
+  /* margin-bottom: 0px; */
+  /* margin-left: 0px; */
+  /* text-align: center; */
+  /* padding-top: 6px; */
+  /* padding-left:0px; */
+  background-color: rgba(0, 0, 0, 0.3);
+  /* color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461)); */
+  color: #ffffff90;
+}
+/* 可靠经验文本-数字 */
+#Spellsinfo_exp_number {
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 35px;
+  /* height: 46px; */
+  width: 55%;
+  /* text-shadow: 2px 2px 4px 2 #00000090; */
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  text-overflow: shrink;
+  /* align: left top; */
+  /* margin-bottom: 11px; */
+  /* margin-left: 31px; */
+  /* text-align: center; */
+  /* padding-top: 6px; */
+  /* padding-left: 6px; */
+  background-color: rgba(0, 0, 0, 0.3);
+  /* color: gradient(linear, 0% 0%, 0% 90%, from(#acaf00), to(#aa4d00)); */
+  /* color: gradient(linear, 0% 0%, 90% 90%, from(#4992ff), to(#05fff2)); */
+  color: #ffffff90;
+}
+/* --------------------------- */
+/* 存放技能细节 */
+/* 技能名 */
+#Spellsinfo_detail {
+  width: 100%;
+  height: 100%;
+}
+/* 技能等级数据画板 */
+#Spellsinfo_levelInfo {
+  width: 100%;
+  height: 100%;
+  visibility: collapse;
+}
+#Spellsinfo_levelInfo.Visible {
+  visibility: visible;
+}
+#Spellsinfo_levelInfo_inside {
+  width: 100%;
+  height: 100%;
+  margin-top: 50px;
+  flow-children: right-wrap;
+}
+/* 技能名 */
+#spell_info_name {
+  padding-left: 8px;
+  /* height: 30px; */
+  font-family: defaultFont;
+  font-size: 20px;
+  color: #ffffff;
+  width: fill-parent-flow(1);
+  vertical-align: top;
+  horizontal-align: left;
+  /* text-align: center; */
+  text-overflow: shrink;
+  letter-spacing: 0.5px;
+  text-shadow: 2px 2px 0px 1 #00000090;
+  margin-top: 2px;
+  text-transform: uppercase;
+  font-weight: semi-bold;
+  z-index: 5;
+}
+/* 技能等级文本 */
+#spell_info_level {
+  /* font-family: FZKai-Z03, TH Sarabun New, YDYGO 540; */
+  /* font-size: 24px; */
+  /* height: 46px; */
+  /* width: 40%; */
+  /* margin-top: 30px; */
+  padding-left: 8px;
+  /* height: 20px; */
+  font-family: defaultFont;
+  font-size: 13px;
+  color: #ffffff;
+  /* width: fill-parent-flow( 1.0 ); */
+  vertical-align: top;
+  horizontal-align: left;
+  /* text-align: center; */
+  text-overflow: shrink;
+  letter-spacing: 0.5px;
+  text-shadow: 2px 2px 0px 1 #00000090;
+  margin-top: 30px;
+  text-transform: uppercase;
+  font-weight: semi-bold;
+  z-index: 5;
+}
+#Spellsinfo_Header {
+  height: 100px;
+  border: 2px solid black;
+  border-bottom-color: rgba(0, 0, 0, 0.8);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  /* box-shadow: rgb(31, 31, 31) 0px 0px 20px 0px; */
+}
+#Spellsinfo_Header_BG {
+  width: 100%;
+  height: 100%;
+  /* border-bottom-color:rgba(0, 0, 0, 1); */
+  background-image: url("s2r://panorama/images/hud/reborn/bg_scoreboard_psd.vtex");
+  /* background-color: #10171c; */
+  /* background-size: cover; */
+  /* background-size: ; */
+  /* background-repeat: repeat; */
+  wash-color: rgba(0, 0, 0, 0.9);
+  color: #7f8da8;
+  /* hue-rotation:250deg; */
+}
+/* 技能经验条 */
+#Spells_info_ExpBar_Progress {
+  margin-top: 60px;
+  width: 50%;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgba(85, 85, 85, 0.2);
+  border: 2px solid #000000;
+  /* align: left top; */
+  vertical-align: top;
+  horizontal-align: left;
+  box-shadow: #000000 0px 0px 10px 0px;
+  z-index: 10;
+}
+#Spells_info_ExpBar_Progress:hover {
+  brightness: 2;
+}
+#Spells_info_ExpBar_Progress_Right {
+  background-color: gradient(linear, 0% 0%, 0% 100%, from(#101932), color-stop(0.2, #172447), color-stop(0.5, #162244), to(#101932));
+  width: 400px;
+  height: 100%;
+  border-radius: 0px;
+  brightness: 1;
+}
+#Spells_info_ExpBar_Progress_Left {
+  background-color: gradient(linear, 0% 50%, 80% 50%, color-stop(0, #000E3DFF), color-stop(0.8, #003983FF), color-stop(0.9, #0431A3FF), color-stop(1, #0199C7CC));
+  width: 80%;
+  height: 100%;
+  border-radius: 10px;
+  brightness: 1;
+  opacity: 0.5;
+  z-index: 1;
+}
+#PostGameBGExp {
+  width: 100%;
+  height: 100%;
+  background-color: gradient(linear, 0% 0%, 0% 100%, from(#1A3D1A), color-stop(0.2, #67A163), color-stop(0.5, #187019), to(#175D17));
+  /* border-radius: 4px; */
+  hue-rotation: 50deg;
+}
+/* 经验条文本 */
+#spell_info_level_progress_text {
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 28px;
+  height: 46px;
+  z-index: 2;
+  /* align: center top; */
+  /* width: 20%; */
+  /* margin-top: 40px; */
+  margin-left: 150px;
+  /* text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff; */
+  text-overflow: shrink;
+  /* color: gradient(linear, 50% 0%, 0% 90%, from(#41506b), to(#6c797c)); */
+  color: #01bbfe;
+}
+#Spells_info_inside {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0);
+  border: 2px solid black;
+  border-bottom-color: rgba(0, 0, 0, 0.8);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+#Spells_info_BG {
+  width: 100%;
+  height: 100%;
+  /* background-image: url("s2r://panorama/images/hud/reborn/ability_bg_psd.vtex"); */
+  /* background-color: #10171c; */
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_profile.png");
+  background-size: 150% 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-img-opacity: 0.9;
+}
+/* 技能详细信息 */
+#spell_info_inside_text {
+  align: center center;
+  width: 100%;
+  height: 100%;
+  font-family: title;
+  font-size: 17px;
+  z-index: 2;
+  margin-top: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  text-overflow: clip;
+  /* box-shadow: rgba(20, 20, 20, 0.5) 0px 0px 30px 0px; */
+  border: 1px solid #1f1f1f;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 100px 0px;
+}
+#spell_info_inside_text_2 {
+  align: center center;
+  width: 100%;
+  height: 100%;
+  font-family: title;
+  font-size: 17px;
+  z-index: 2;
+  margin-top: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  text-overflow: clip;
+  box-shadow: rgba(20, 20, 20, 0.5) 0px 0px 30px 0px;
+  border: 1px solid #1f1f1f;
+  box-shadow: rgba(0, 0, 0, 0.7) 0px 0px 100px 0px;
+}
+/* 分配经验值 */
+#GetexpButton {
+  /* align: right top; */
+  vertical-align: top;
+  horizontal-align: right;
+  margin-right: 50px;
+  margin-top: 40px;
+  width: 200px;
+  height: 50px;
+  z-index: 0;
+  visibility: collapse;
+}
+#GetexpButton_BG {
+  width: 100%;
+  height: 100%;
+  background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 15px;
+  border-radius: 5px;
+  wash-color: rgba(58, 58, 58, 0.5);
+}
+/* 按钮悬浮 */
+#GetexpButton:hover {
+  box-shadow: #ffffff 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+/* 字体 */
+#GetexpButtonLabel {
+  font-family: TH Sarabun New, YDYGO 540;
+  font-size: 20px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: -3px;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+  horizontal-align: center;
+  vertical-align: middle;
+}
+#GetexpButton.Visible {
+  visibility: visible;
+}
+/* 预载入销毁 */
+.playerinfoMenuPrecache {
+  visibility: collapse;
+}
+#playerSpellslibraryMenuwindowROOT {
+  visibility: collapse;
+}
+#playerSpellslibraryMenuwindowROOT.Visible {
+  visibility: visible;
+}
+#playerinfo_detail {
+  visibility: collapse;
+}
+#playerinfo_detail.Visible {
+  visibility: visible;
+}
+#playerinfo_vip {
+  visibility: collapse;
+}
+#playerinfo_vip.Visible {
+  visibility: visible;
+}
+/* 技能特效切换 */
+/* 技能等级数据画板 */
+#Spellsinfo_ParticleInfo {
+  width: 100%;
+  height: 100%;
+  /* overflow-y:hidden; */
+  overflow: squish scroll;
+  flow-children: right-wrap;
+  /* 标记位置  */
+  /* z-index: 1; */
+  /* background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123)); */
+  /* box-shadow: rgb(88, 88, 88) 0px 0px 5px 0px; */
+  /* margin-top: 150px; */
+  /* margin-left: 10px; */
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_profile.png");
+  background-size: 150% 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-img-opacity: 0.9;
+  /* box-shadow: rgba(0, 0, 0,0.8) 0px 0px 100px 0px; */
+  visibility: collapse;
+}
+#Spellsinfo_ParticleInfo.Visible {
+  visibility: visible;
+}
+/* 技能图标悬浮提升 */
+#SingleSpellParticleImage {
+  box-shadow: #000000 0px 0px 10px 0px;
+  /* brightness: 2.4; */
+  width: 256px;
+  height: 256px;
+  opacity-mask: url("s2r://panorama/images/masks/scratched_box_psd.vtex");
+  perspective: 1000;
+}
+#ParticleButton2,
+#ParticleButton {
+  /* align: center bottom; */
+  width: 256px;
+  /* background-image: url("s2r://panorama/images/hud/reborn/hud_custom_aghs2/ability_bg_psd.vtex"); */
+  /* background-image: url("s2r://panorama/images/hud/reborn/ability_bg_dead_psd.vtex"); */
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 10px;
+  z-index: 0;
+  padding: 15px;
+  border-radius: 5px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+}
+#ParticleButton2 {
+  padding: 10px;
+}
+#ParticleButton:hover {
+  box-shadow: #9aadad 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#ParticleButtonLabel {
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 23px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: -3px;
+  text-align: center;
+  /* z-index: 0; */
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+#ParticleButtonLabel2 {
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  /* font-size: 23px; */
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: -3px;
+  text-align: center;
+  /* z-index: 0; */
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+  /* margin-bottom: 0px; */
+}
+.SingleSpellParticlePanel {
+  flow-children: down;
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-top: 10px;
+  padding: 6px;
+  /* color: #8bb6ff; */
+  /* background-color: rgba(0, 0, 0, 0.29); */
+  box-shadow: #000000 0px 0px 10px 0px;
+  border: 1px solid rgba(99, 99, 99, 0.3);
+}
+#SingleSpellParticlePanelButton {
+  box-shadow: #00072d 0px 0px 10px 0px;
+}
+.particleOff {
+  background-image: url("s2r://panorama/images/hud/reborn/hud_custom_aghs2/ability_bg_psd.vtex");
+}
+.particleOn {
+  background-image: url("s2r://panorama/images/hud/reborn/ability_bg_dead_psd.vtex");
+}
+#playerParticleMenuwindowROOT {
+  width: 100%;
+  height: 100%;
+  align: right bottom;
+  /* margin-right: 190px; */
+  /* margin-bottom: 38px; */
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+  background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  visibility: collapse;
+}
+#playerParticleMenuwindowROOT.Visible {
+  visibility: visible;
+}
+#AttachParticlButton,
+#MeleeAttackParticlButton,
+#RangeAttackParticlButton {
+  align: left top;
+  margin-top: 70px;
+  /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+  transition: box-shadow 0.2s ease-in-out 0s;
+}
+#AttachParticlButton {
+  margin-left: 10px;
+}
+#MeleeAttackParticlButton {
+  margin-left: 260px;
+}
+#RangeAttackParticlButton {
+  margin-left: 510px;
+}
+#AttachParticlButton:hover {
+  box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#MeleeAttackParticlButton:hover {
+  box-shadow: rgba(42, 175, 241, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#RangeAttackParticlButton:hover {
+  box-shadow: rgba(226, 255, 4, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.AttachParticlButton_on {
+  box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.MeleeAttackParticlButton_on {
+  box-shadow: rgba(42, 175, 241, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.RangeAttackParticlButton_on {
+  box-shadow: rgba(226, 255, 4, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+/* 特效陈列柜 */
+#ParticleWindowPanel {
+  overflow: squish scroll;
+  flow-children: right-wrap;
+  width: 99%;
+  height: 80%;
+  z-index: 0;
+  /* background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123)); */
+  /* box-shadow: rgb(88, 88, 88) 0px 0px 5px 0px; */
+  background-color: gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d33), to(#00112333));
+  /* box-shadow: rgba(88, 88, 88,0.1) 0px 0px 5px 0px; */
+  border: 2px solid rgba(63, 63, 63, 0.5);
+  margin-top: 150px;
+  margin-left: 10px;
+}
+#playerParticleMenuwindowROOTPostGameBG1 {
+  width: 100%;
+  height: 100%;
+  pre-transform-scale2d: 2.2;
+  /* blur: gaussian(3px); */
+  horizontal-align: center;
+  vertical-align: middle;
+  /* opacity: 0; */
+  z-index: 100;
+  /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+  border-radius: 4px;
+  hue-rotation: 0deg;
+  wash-color: #000000;
+  transition-property: hue-rotation, opacity, wash-color, pre-transform-scale2d;
+  transition-duration: 3.32s, 1.5s, 3.9s;
+  transition-timing-function: ease-in;
+  /* visibility: collapse; */
+  pre-transform-scale2d: 1;
+  /* visibility: collapse; */
+}
+/* #playerParticleMenuwindowROOTPostGameBG1.Visible{
+    visibility: visible;
+} */
+#playerParticleMenuwindowROOTPostGameBG1.SceneLoaded {
+  wash-color: #ffffff;
+}
+/* ------------------下面为商城界面----------------------------- */
+/* ------------------下面为商城界面----------------------------- */
+/* ------------------下面为商城界面----------------------------- */
+/* ------------------下面为商城界面----------------------------- */
+/* ------------------下面为商城界面----------------------------- */
+/* ------------------下面为商城界面----------------------------- */
+/* ------------------下面为商城界面----------------------------- */
+/* 技能图鉴窗口 */
+#playerGameShopMenuwindowROOT {
+  width: 100%;
+  height: 100%;
+  align: right bottom;
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+  background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+/* 商城窗口标题 */
+#playerGameShopMenuwindowTitle {
+  color: #ffffffff;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 34px;
+  height: 46px;
+  width: 100%;
+  text-shadow: 2px 2px 4px 2 #00000090;
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 11px;
+  text-align: center;
+  padding-top: 6px;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+}
+#OtherGoodsButton,
+#BlackMarketButton,
+#SpecialSpellGoodsButton,
+#VIPGoodsButton,
+#GeneralGoodsButton {
+  align: left top;
+  border-radius: 5px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  margin-top: 70px;
+}
+#GeneralGoodsButton {
+  margin-left: 10px;
+}
+#VIPGoodsButton {
+  margin-left: 260px;
+}
+#OtherGoodsButton {
+  margin-left: 510px;
+}
+#BlackMarketButton {
+  margin-left: 760px;
+}
+#SpecialSpellGoodsButton {
+  margin-left: 1010px;
+}
+/* 商店物品展示窗口 */
+#GoodsWindowPanel {
+  overflow: squish scroll;
+  flow-children: right-wrap;
+  width: 99%;
+  height: 80%;
+  z-index: 0;
+  /* background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123)); */
+  /* box-shadow: rgb(88, 88, 88) 0px 0px 5px 0px; */
+  background-color: gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d33), to(#00112333));
+  /* box-shadow: rgba(88, 88, 88,0.1) 0px 0px 5px 0px; */
+  border: 2px solid rgba(63, 63, 63, 0.5);
+  margin-top: 150px;
+  margin-left: 10px;
+}
+/* 字体设置 */
+#CheckItemButtonLabel,
+#CheckTalentButtonLabel,
+#CheckBonusButtonLabel,
+#GeneralGoodsButtonLabel,
+#VIPGoodsButtonLabel,
+#SpecialSpellGoodsButtonLabel,
+#BlackMarketButtonLabel,
+#OtherGoodsButtonLabel {
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 20px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  text-overflow: shrink;
+  text-align: center;
+  vertical-align: middle;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+/* 按钮悬浮 */
+#OtherGoodsButton:hover {
+  box-shadow: #18a306 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#BlackMarketButton:hover {
+  box-shadow: #6f7ed4 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#SpecialSpellGoodsButton:hover {
+  box-shadow: #00ffff 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#VIPGoodsButton:hover {
+  box-shadow: #ff9900 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#GeneralGoodsButton:hover {
+  box-shadow: #ffffff 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+/* 货币数据窗口 */
+#CurrencyWindowPanel {
+  /* overflow:squish scroll;   */
+  align: right top;
+  flow-children: right-wrap;
+  width: 500px;
+  height: 60px;
+  z-index: 0;
+  background-color: gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123));
+  /* box-shadow: rgb(88, 88, 88) 0px 0px 5px 0px; */
+  margin-top: 90px;
+  margin-right: 5px;
+  border: 3px solid #1f1f1f;
+  border-bottom: 0px solid #1f1f1f;
+}
+#ReliableExperienceCurrencyPanel {
+  /* overflow:squish scroll;   */
+  flow-children: right-wrap;
+  width: 33%;
+  height: 100%;
+  /* z-index: 1; */
+  /* background-color:  gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d), to(#001123)); */
+  /* box-shadow: rgb(59, 53, 53) 0px 0px 5px 0px; */
+  /* margin-top: 80px; */
+  /* margin-left: 0px; */
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-left: 3px solid #6d6d6d;
+  border-top: 1px solid #6d6d6d;
+  /* panorama/images/hud/icon_gold_psd.png 金币 */
+  /* border:1px solid rgb(109, 109, 109); */
+}
+#ReliableExperienceCurrencyIcon {
+  width: 33%;
+  height: 100%;
+  /* background-image: url("s2r://panorama/images/hud/reborn/shared_content_rest_png.vtex"); */
+  background-image: url("s2r://panorama/images/battle_report/silver_medal_small_psd.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.9);
+  box-shadow: #3b3b3b 0px 0px 3px 0px;
+}
+#ReliableExperienceCurrency_number {
+  font-family: defaultFont;
+  font-size: 23px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  text-overflow: shrink;
+  align: center center;
+  /* margin-top: 15px; */
+  margin-left: 0px;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#4992ff), to(#05fff2));
+}
+/* 金币 */
+#GoldCurrencyPanel {
+  /* overflow:squish scroll;   */
+  flow-children: right-wrap;
+  width: 33%;
+  height: 100%;
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-left: 3px solid #6d6d6d;
+  border-top: 1px solid #6d6d6d;
+  /* border:1px solid rgb(109, 109, 109); */
+  /* panorama/images/hud/icon_gold_psd.png 金币 */
+}
+#GoldCurrencyIcon {
+  width: 33%;
+  height: 100%;
+  /* background-image: url("s2r://panorama/images/hud/icon_gold_psd.vtex"); */
+  background-image: url("s2r://panorama/images/compendium/compendiumcoins_ti5_png.vtex");
+  background-size: 110%;
+  background-repeat: no-repeat;
+  box-shadow: #3b3b3b 0px 0px 3px 0px;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+#GoldCurrency_number {
+  font-family: defaultFont;
+  font-size: 23px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  text-overflow: shrink;
+  align: center center;
+  /* margin-top: 15px; */
+  margin-left: 0px;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f87509), to(#dac400));
+}
+/* 白金 */
+#PlatinumCurrencyPanel {
+  flow-children: right-wrap;
+  width: 34%;
+  height: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-left: 3px solid #6d6d6d;
+  border-top: 1px solid #6d6d6d;
+}
+#PlatinumCurrencyPanel #PlatinumCurrencyIcon {
+  width: 33%;
+  height: 100%;
+  background-image: url("s2r://panorama/images/spells_menu/platinum.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  box-shadow: #3b3b3b 0px 0px 3px 0px;
+  background-color: rgba(0, 0, 0, 0.9);
+  /* context-menu-arrow-position: 25% 50%; */
+  /* border:1px solid rgb(10, 10, 10); */
+}
+#PlatinumCurrencyPanel #PlatinumCurrency_number {
+  /* font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540; */
+  font-family: defaultFont;
+  font-size: 23px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  text-overflow: shrink;
+  align: center center;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#a09f9e), to(#dac400));
+}
+/* 三种货币的悬浮提示 */
+/* 悬浮提示用--可靠经验 */
+#ReliableExperienceCurrencyhover {
+  align: right bottom;
+  width: 130px;
+  background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+  padding: 15px;
+  border-radius: 5px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  margin-right: 530px;
+  margin-bottom: 1000px;
+  background-img-opacity: 0.55;
+}
+#ReliableExperienceCurrencyhoverLabel {
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 23px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: -3px;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+/* 悬浮提示用--金币 */
+#GoldCurrencyhover {
+  align: right bottom;
+  width: 130px;
+  background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+  padding: 15px;
+  border-radius: 5px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  margin-right: 330px;
+  margin-bottom: 1000px;
+  background-img-opacity: 0.55;
+}
+#GoldCurrencyhoverLabel {
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 23px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: -3px;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+/* 悬浮提示用--白金 */
+#PlatinumCurrencyhover {
+  align: right bottom;
+  width: 130px;
+  background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+  padding: 15px;
+  border-radius: 5px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  margin-right: 115px;
+  margin-bottom: 1000px;
+  background-img-opacity: 0.55;
+}
+#PlatinumCurrencyhoverLabel {
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 23px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: -3px;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+/* 玩家信息按钮 */
+#ShowinfoButton {
+  align: right bottom;
+  margin-right: 630px;
+  margin-bottom: 950px;
+  /* background-image: url("s2r://panorama/images/custom_game/icon_options.png"); */
+  background-image: url("s2r://panorama/images/hud/reborn/ping_icon_default_psd.vtex");
+  /* background-image: url("s2r://panorama/images/hud/heroview_icon_png.vtex"); */
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 5;
+  padding: 20px;
+  border-radius: 50%;
+  background-img-opacity: 0.3;
+}
+/* 技能图标悬浮提升 */
+.SingleShopGoodPanel_root:hover {
+  /* box-shadow: rgb(0, 0, 0) 0px 0px 500px 0px; */
+  brightness: 2.4;
+  z-index: 5;
+}
+.SingleShopGoodPanel_root {
+  /* flow-children: down; */
+  /* width: 185px; */
+  /* height: 220px; */
+  /* margin-left: 10px; */
+  /* margin-right: 5px; */
+  /* margin-top: 10px; */
+  /* background-color: rgba(69, 69, 69, 0.99); */
+  /* flow-children: down; */
+  transition-property: box-shadow;
+  transition-duration: 1s;
+  transition-timing-function: ease-in;
+}
+/* 技能图标 */
+.SingleShopGoodPanel {
+  width: 180px;
+  height: 220px;
+  margin-left: 4px;
+  margin-top: 10px;
+  padding: 6px;
+  flow-children: down;
+  /* padding: 5px; */
+  /* background-color: rgba(0, 0, 0, 0.99) ; */
+}
+#SingleShopGoodPictureImage {
+  width: 180px;
+  height: 170px;
+  /* box-shadow: rgb(0, 0, 0) 0px 0px 15px 0px; */
+  border: 2px solid #303030;
+  box-shadow: #646464 0px 0px 3px 0px;
+  border-bottom: 0px solid #303030;
+}
+#ShopGoodCostTypoe {
+  /* font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+    font-size: 30px;
+    width: 100%;
+    text-overflow: shrink;
+    align: center top;
+    text-align: center;
+    color: gradient(linear, 0% 0%, 90% 90%, from(#434443), to(#ffffff));
+    background-color: rgba(0, 0, 0, 0.3); */
+  align: center center;
+  color: #e1e1e1;
+  width: 100%;
+  min-height: 32px;
+  text-align: center;
+  font-size: 20px;
+  font-family: titleFont;
+  /* width: fill-parent-flow(1.0); */
+  text-overflow: shrink;
+  letter-spacing: 0.5px;
+  text-shadow: 2px 2px 0px 1 #00000090;
+  text-transform: uppercase;
+  font-weight: semi-bold;
+  box-shadow: #141414 0px 0px 3px 0px;
+  /* margin-top: 2px; */
+  border-top: 2px solid #303030;
+  border-left: 2px solid #303030;
+  border-right: 2px solid #303030;
+  border-bottom: 2px solid #303030;
+}
+#ShopGoodCostTypoe2 {
+  color: #30e123;
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 30px;
+  width: 100%;
+  /* text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;  */
+  text-overflow: shrink;
+  align: center top;
+  /* margin-bottom: -3px; */
+  text-align: center;
+  /* color: gradient(linear, 0% 0%, 90% 90%, from(#434443), to(#ffffff)); */
+  background-color: #033900;
+  box-shadow: #000000 0px 0px 10px 0px;
+  z-index: 5;
+  visibility: collapse;
+}
+.CpCostIndicator {
+  align: center center;
+  color: #e1e1e1;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  font-family: titleFont;
+  /* width: fill-parent-flow(1.0); */
+  text-overflow: shrink;
+  letter-spacing: 0.5px;
+  text-shadow: 2px 2px 0px 1 #00000090;
+  text-transform: uppercase;
+  font-weight: semi-bold;
+  box-shadow: #141414 0px 0px 3px 0px;
+}
+#ShopGoodCostTypoe2.Visible {
+  visibility: visible;
+}
+#GoldCurrencyhover {
+  visibility: collapse;
+}
+#GoldCurrencyhover.Visible {
+  visibility: visible;
+}
+#PlatinumCurrencyhover {
+  visibility: collapse;
+}
+#PlatinumCurrencyhover.Visible {
+  visibility: visible;
+}
+#ReliableExperienceCurrencyhover {
+  visibility: collapse;
+}
+#ReliableExperienceCurrencyhover.Visible {
+  visibility: visible;
+}
+#playerGameShopMenuwindowROOT {
+  visibility: collapse;
+}
+#playerGameShopMenuwindowROOT.Visible {
+  visibility: visible;
+}
+#Buy_GOODS_Confirm_Panel {
+  visibility: collapse;
+}
+#Buy_GOODS_Confirm_Panel.Visible {
+  visibility: visible;
+}
+#playerInfowindowROOT {
+  visibility: collapse;
+}
+#playerInfowindowROOT.Visible {
+  visibility: visible;
+}
+#spell_info_inside_text {
+  visibility: collapse;
+}
+#spell_info_inside_text.Visible {
+  visibility: visible;
+}
+#spell_info_inside_text_2 {
+  visibility: collapse;
+}
+#spell_info_inside_text_2.Visible {
+  visibility: visible;
+}
+#PostGameBGBONUS {
+  width: 100%;
+  height: 100%;
+  pre-transform-scale2d: 2.2;
+  /* blur: gaussian(3px); */
+  horizontal-align: center;
+  vertical-align: middle;
+  opacity: 0.1;
+  /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+  border-radius: 4px;
+  hue-rotation: 50deg;
+  wash-color: #05090a;
+  transition-property: opacity, wash-color, pre-transform-scale2d;
+  transition-duration: 0.32s, 1.5s, 1.9s;
+  transition-timing-function: ease-in;
+  z-index: 5;
+}
+.SingleBonusSpellBookPanel {
+  width: 100%;
+  height: 30px;
+  margin-top: 10px;
+  flow-children: right-wrap;
+  transition-property: opacity, transform, pre-transform-scale2d, wash-color, box-shadow;
+  transition-duration: 0.6s, 0.4s, 0.3s;
+  transition-timing-function: ease-in-out;
+  /* pre-transform-scale2d:0.5; */
+}
+.SpellHidden {
+  opacity: 0;
+  transform: translateX(1500px) translateY(1500px);
+  /* box-shadow: rgb(0, 0, 0) 0px 0px 5px 0px; */
+  pre-transform-scale2d: 0.95;
+  /* wash-color: #33cccc; */
+}
+#playerGameBonus_inside_text {
+  width: 17%;
+  height: 100%;
+  font-family: "sans-serif";
+  font-size: 23px;
+  z-index: 2;
+  text-shadow: #2399ad 0px 0px 1px;
+  text-overflow: clip;
+  text-align: center;
+}
+#playerGameBonus_inside_text2 {
+  width: 25%;
+  height: 100%;
+  font-family: Titlefont;
+  z-index: 2;
+  /* text-shadow: -3px -3px -3px #000, 3px 3px 3px #fff;  */
+  text-overflow: clip;
+  /* color: gradient(linear, 50% 0%, 0% 90%, from(#c05656), to(#cdcece)); */
+  color: #ffffff;
+  /* box-shadow: rgb(19, 77, 68) 0px 0px 5px; */
+  box-shadow: #000000 0px 0px 5px 0px;
+  text-align: center;
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center; */
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/player_panel_active.png");
+  background-size: 120% 120%;
+  background-position: 50% 50%;
+  wash-color: rgba(71, 46, 133, 0.502);
+  background-img-opacity: 0.4;
+  border-left: 5px solid #707070;
+  border-radius: 5px;
+}
+#playerGameBonus_inside_text3 {
+  width: 15%;
+  height: 100%;
+  font-family: "sans-serif";
+  font-size: 23px;
+  z-index: 2;
+  margin-left: 20px;
+  text-shadow: #2399ad 0px 0px 1px;
+  text-overflow: clip;
+  text-align: center;
+}
+#playerGameBonus_inside_text4 {
+  width: 20%;
+  height: 100%;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 23px;
+  z-index: 2;
+  text-align: center;
+  text-shadow: 2px 2px 2px #000, -2px -2px 2px #ffffff;
+  text-overflow: clip;
+  color: #7eb2d4;
+  /* box-shadow: rgb(0, 0, 0) 0px 0px 10px 0px; */
+  /*     
+    background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center; */
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_long.png");
+  background-size: 120% 120%;
+  background-position: 50% 50%;
+  /* wash-color:rgba(71, 46, 133, 0.502);  */
+  border-radius: 5px;
+  border: 1px solid rgba(63, 63, 63, 0.5);
+}
+#playerGameBonus_inside_Ability_picture {
+  height: 80px;
+  border: 2px solid #1f1f1f;
+  z-index: 5;
+}
+#Buy_GOODS_Confirm_Panel {
+  z-index: 100;
+  height: 30%;
+  width: 40%;
+  background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex");
+  /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+  /* background-color: gradient(linear, 50% 0%, 0% 90%, from(#272d2eee), to(#131617ee)); */
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: 550px;
+  margin-top: 300px;
+  box-shadow: #000000 0px 0px 5000px 5px;
+  visibility: collapse;
+}
+#Buy_GOODS_Confirm_Panel.Visible {
+  visibility: visible;
+}
+#Buy_GOODS_Confirm_Panel #content {
+  width: 100%;
+  height: 100%;
+  flow-children: right-wrap;
+}
+#Buy_GOODS_Confirm_Panel #content #Confirm_text_1 {
+  color: #ffffffff;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 34px;
+  height: 46px;
+  width: 100%;
+  text-shadow: 2px 2px 4px 2 #00000090;
+  text-overflow: shrink;
+  align: center top;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+}
+#Buy_GOODS_Confirm_Panel #content #Confirm_text_2 {
+  width: 100%;
+  height: 70px;
+  font-family: title_form;
+  font-size: 30px;
+  /* height: 46px; */
+  z-index: 2;
+  color: #fff091;
+  text-align: center;
+  padding: 5px;
+  border-top: 1px solid #ffffff11;
+}
+#Buy_GOODS_Confirm_Button_yes {
+  align: right bottom;
+  height: 75px;
+  width: 200px;
+  /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+  /* background-size: 100%; */
+  /* background-repeat: no-repeat; */
+  /* background-position: center; */
+  background-color: gradient(linear, 50% 0%, 0% 90%, from(#5a6c75), to(#3d4a50));
+  margin: 8px;
+  padding: 5px 10px 5px 10px;
+  z-index: 0;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: #000000 0px 0px 30px 0px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  margin-left: 100px;
+  margin-bottom: 60px;
+}
+#Buy_GOODS_Confirm_Button_yes:hover {
+  box-shadow: #dbdcdb 0px 0px 5px 0px;
+  brightness: 2.4;
+}
+#Buy_GOODS_Confirm_Button_no {
+  align: right bottom;
+  height: 75px;
+  width: 200px;
+  /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+  /* background-size: 100%; */
+  /* background-repeat: no-repeat; */
+  /* background-position: center; */
+  background-color: gradient(linear, 50% 0%, 0% 90%, from(#5a6c75), to(#3d4a50));
+  margin: 8px;
+  padding: 5px 10px 5px 10px;
+  z-index: 0;
+  padding: 15px;
+  box-shadow: #000000 0px 0px 30px 0px;
+  border-radius: 5px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  margin-right: 100px;
+  margin-bottom: 60px;
+  /* box-shadow: rgb(143, 77, 77) 0px 0px 5px 0px; */
+}
+#Buy_GOODS_Confirm_Button_no:hover {
+  box-shadow: #dfdede 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#Buy_GOODS_Confirm_ButtonLabel_yes {
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 30px;
+  /* height: 46px; */
+  z-index: 10;
+  horizontal-align: center;
+  vertical-align: center;
+  /* align: center top; */
+  /* width: 20%; */
+  /* margin-top: 75px; */
+  /* text-shadow: 0px -0px 10px rgb(60, 143, 88), 2px 2px 2px rgb(110, 109, 109); */
+  /* text-overflow: clip; */
+  color: gradient(linear, 50% 0%, 0% 90%, from(#808080), to(#cdcece));
+  color: #eeeeee;
+  /* box-shadow: rgb(243, 243, 243) 0px 0px 5px 0px; */
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+  /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+  /* background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center; */
+  text-align: center;
+}
+#Buy_GOODS_Confirm_ButtonLabel_no {
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 30px;
+  /* margin-top: 5px; */
+  /* height: 46px; */
+  z-index: 10;
+  horizontal-align: center;
+  vertical-align: center;
+  /* align: center top; */
+  /* width: 20%; */
+  /* margin-top: 75px; */
+  /* text-shadow: 0px -0px 10px rgb(141, 49, 46), 2px 2px 2px rgb(110, 109, 109); */
+  /* text-overflow: clip; */
+  color: gradient(linear, 50% 0%, 0% 90%, from(#808080), to(#cdcece));
+  color: #eeeeee;
+  /* box-shadow: rgb(243, 243, 243) 0px 0px 5px 0px; */
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+  /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+  /* background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center; */
+  text-align: center;
+}
+/* 按钮按下的提示 */
+.PhysicalSpellsButton_on {
+  box-shadow: #8f4d4d 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.MagicalSpellsButton_on {
+  box-shadow: #038d8d 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.SummonSpellsButton_on {
+  box-shadow: #816a01 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.DefenseSpellsButton_on {
+  box-shadow: #200f9e 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.AssistSpellsButton_on {
+  box-shadow: #02830d 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.OtherSpellsButton_on {
+  box-shadow: #9aadad 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.OtherGoodsButton_on {
+  box-shadow: #18a306 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.BlackMarketButton_on {
+  box-shadow: #6f7ed4 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.SpecialSpellGoodsButton_on {
+  box-shadow: #00ffff 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.VIPGoodsButton_on {
+  box-shadow: #ff9900 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.GeneralGoodsButton_on {
+  box-shadow: #ffffff 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#playerSpellslibraryMenuwindowPostGameBG1 {
+  width: 100%;
+  height: 100%;
+  pre-transform-scale2d: 2.2;
+  /* blur: gaussian(3px); */
+  horizontal-align: center;
+  vertical-align: middle;
+  /* opacity: 0; */
+  z-index: 100;
+  /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+  border-radius: 4px;
+  hue-rotation: 0deg;
+  wash-color: #000000;
+  transition-property: hue-rotation, opacity, wash-color, pre-transform-scale2d;
+  transition-duration: 3.32s, 1.5s, 3.9s;
+  transition-timing-function: ease-in;
+  /* visibility: collapse; */
+  pre-transform-scale2d: 1;
+  visibility: collapse;
+}
+#playerSpellslibraryMenuwindowPostGameBG1.Visible {
+  visibility: visible;
+}
+#playerSpellslibraryMenuwindowPostGameBG1.SceneLoaded {
+  wash-color: #ffffff;
+}
+#playerGameShopMenuwindowPostGameBG1 {
+  width: 100%;
+  height: 100%;
+  pre-transform-scale2d: 2.2;
+  /* blur: gaussian(3px); */
+  horizontal-align: center;
+  vertical-align: middle;
+  /* opacity: 0; */
+  z-index: 100;
+  /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+  border-radius: 4px;
+  hue-rotation: 0deg;
+  wash-color: #000000;
+  transition-property: hue-rotation, opacity, wash-color, pre-transform-scale2d;
+  transition-duration: 3.32s, 1.5s, 3.9s;
+  transition-timing-function: ease-in;
+  /* visibility: collapse; */
+  pre-transform-scale2d: 1;
+  visibility: collapse;
+}
+#playerGameShopMenuwindowPostGameBG1.Visible {
+  visibility: visible;
+}
+#playerGameShopMenuwindowPostGameBG1.SceneLoaded {
+  wash-color: #ffffff;
+}
+/* 个人信息 */
+/* 个人信息窗口 */
+#playerInfowindowROOT {
+  width: 100%;
+  height: 100%;
+  align: right bottom;
+  /* margin-right: 190px; */
+  /* margin-bottom: 38px; */
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex"); */
+  background-image: url("s2r://panorama/images/compendium/international2018/underhollow_postgame_bg_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* z-index: 0; */
+  /* padding: 20px; */
+  /* border-radius: 50%; */
+}
+/* 窗口标题 */
+#playerInfowindowTitle {
+  color: #ffffffff;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 34px;
+  height: 46px;
+  width: 100%;
+  text-shadow: 2px 2px 4px 2 #00000090;
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 11px;
+  text-align: center;
+  padding-top: 6px;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+}
+/* 物品展示窗口 */
+#playerInfoGoodsWindowPanel {
+  width: 99%;
+  height: 80%;
+  z-index: 0;
+  background-color: gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d33), to(#00112333));
+  margin-top: 150px;
+  margin-right: 5px;
+}
+#playerInfoGoodsWindowPanel #playerinfo_item {
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  visibility: collapse;
+}
+#playerInfoGoodsWindowPanel #playerinfo_item .item_list_root {
+  flow-children: right-wrap;
+  overflow: squish scroll;
+  height: 100%;
+  width: 100%;
+  box-shadow: #0c0c0c 0px 0px 5px 0px;
+}
+#playerInfoGoodsWindowPanel #playerinfo_item .item_list_root .item_list_level {
+  flow-children: down;
+  width: 100%;
+  height: fit-children;
+}
+#playerInfoGoodsWindowPanel #playerinfo_item .item_list_root .item_list_level #itemList {
+  flow-children: right-wrap;
+  width: 100%;
+  height: fit-children;
+  overflow: clip clip;
+  /* box-shadow:  rgb(12, 12, 12) 0px 0px 5px 0px; */
+}
+#playerInfoGoodsWindowPanel #playerinfo_item .item_list_root .item_list_level #itemList #special,
+#playerInfoGoodsWindowPanel #playerinfo_item .item_list_root .item_list_level #itemList #subsidiarity,
+#playerInfoGoodsWindowPanel #playerinfo_item .item_list_root .item_list_level #itemList #armor,
+#playerInfoGoodsWindowPanel #playerinfo_item .item_list_root .item_list_level #itemList #magical_weapon,
+#playerInfoGoodsWindowPanel #playerinfo_item .item_list_root .item_list_level #itemList #physical_weapon {
+  width: 100%;
+  height: fit-children;
+  flow-children: right-wrap;
+}
+#playerInfoGoodsWindowPanel #playerinfo_item.Visible {
+  visibility: visible;
+}
+#playerinfo_detail {
+  width: 100%;
+  height: 100%;
+  overflow: squish scroll;
+  flow-children: right-wrap;
+}
+#CheckItemButton,
+#CheckTalentButton,
+#CheckHDGameInfoButton,
+#CheckBonusButton,
+#VIPPlayerInfoButton,
+#GeneralPlayerInfoButton {
+  align: left top;
+  margin-top: 70px;
+  height: 57px;
+}
+#CheckHDGameInfoButton {
+  align: left top;
+  margin-top: 70px;
+  height: 57px;
+  margin-left: 1510px;
+}
+#CheckHDGameInfoButton:hover {
+  box-shadow: rgba(115, 130, 130, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#CheckHDGameInfoButton.CheckItemButton_on {
+  box-shadow: rgba(115, 130, 130, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#CheckTalentMarketButton {
+  background-image: url("s2r://panorama/images/icon_info_png.vtex");
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+  align: left center;
+}
+#CheckTalentMarketButton.show {
+  opacity: 1;
+}
+#CheckItemButton {
+  opacity: 0;
+}
+#CheckItemButton.show {
+  opacity: 1;
+}
+#GeneralPlayerInfoButton {
+  margin-left: 10px;
+  /* margin-bottom: 960px; */
+}
+#VIPPlayerInfoButton {
+  margin-left: 260px;
+  /* margin-bottom: 960px; */
+}
+#CheckBonusButton {
+  margin-left: 510px;
+}
+#CheckGameInfoButton {
+  margin-left: 760px;
+}
+#CheckItemButton {
+  margin-left: 1260px;
+  /* margin-bottom: 960px; */
+}
+#CheckItemButton:hover {
+  box-shadow: rgba(88, 255, 10, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.CheckItemButton_on {
+  box-shadow: rgba(88, 255, 10, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#CheckTalentButton {
+  margin-left: 1010px;
+  /* margin-bottom: 960px; */
+}
+#CheckTalentButton:hover {
+  box-shadow: rgba(255, 230, 10, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.CheckTalentButton_on {
+  box-shadow: rgba(255, 230, 10, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#CheckGameInfoButton:hover {
+  box-shadow: rgba(230, 3, 3, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.CheckGameInfoButton_on {
+  box-shadow: rgba(230, 3, 3, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#CheckBonusButton:hover {
+  box-shadow: rgba(0, 225, 255, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#VIPPlayerInfoButton:hover {
+  box-shadow: rgba(255, 153, 0, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+#GeneralPlayerInfoButton:hover {
+  box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.GeneralPlayerInfoButton_on {
+  box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.VIPPlayerInfoButton_on {
+  box-shadow: rgba(255, 153, 0, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.CheckBonusButton_on {
+  box-shadow: rgba(0, 225, 255, 0.2) 0px 0px 10px 0px;
+  brightness: 2.4;
+}
+.playerInfoLabel {
+  color: #ffffffff;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 34px;
+  height: 46px;
+  width: 100%;
+  /* text-shadow: 2px 2px 4px 2 #00000090; */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 0px;
+  /* box-shadow: rgb(14, 57, 77) 0px 0px 5px 0px; */
+  text-align: center ;
+  /* padding-top: 6px; */
+  /* background-color:gradient( linear, 0% 50%, 80% 50%, from( #0f565f ), color-stop( 0.8, #0e3d5c ), color-stop( .9, #0b1d5a), to( #111111 )); */
+  /* color: gradient(linear, 0% 0%, 0% 90%, from(#21f3d0), to(#aabec4)); */
+  color: #a2e5ff;
+  z-index: 5;
+  brightness: 0.9;
+}
+#playerInfoLabelPostGameBG1 {
+  width: 100%;
+  height: 100%;
+  /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+  /* border-radius: 4px; */
+  blur: gaussian(30px);
+  hue-rotation: 230deg;
+  z-index: 4;
+  margin-left: 0%;
+  pre-transform-scale2d: 2;
+}
+#playerInfoLabelPostGameBG1,
+#playerInfoLabelPostGameBG2,
+#playerInfoLabelPostGameBG3,
+#playerInfoLabelPostGameBG4 {
+  width: 100%;
+  height: 100%;
+  /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+  /* border-radius: 4px; */
+  blur: gaussian(0px);
+  z-index: 0;
+  margin-left: -5%;
+  pre-transform-scale2d: 1.1;
+  transition-property: opacity, wash-color, pre-transform-scale2d;
+  transition-duration: 0.32s, 1.5s, 1.9s;
+  transition-timing-function: ease-in;
+  brightness: 1.4;
+}
+#playerInfoLabelPostGameBG1 {
+  hue-rotation: 60deg;
+}
+#playerInfoLabelPostGameBG2 {
+  hue-rotation: 70deg;
+}
+#playerInfoLabelPostGameBG3 {
+  hue-rotation: 80deg;
+}
+#playerInfoLabelPostGameBG4 {
+  hue-rotation: 90deg;
+}
+/* 位于左边的技能选择窗口 */
+#playerinfo_vip {
+  /* 加入滚动 */
+  overflow: squish scroll;
+  /* overflow-y:hidden; */
+  flow-children: right-wrap;
+  /* 标记位置  */
+  height: 100%;
+  z-index: 0;
+}
+.SinglevipinfoPanel_root {
+  flow-children: down;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  ui-scale: 80%;
+}
+.SinglevipinfoPanel_root:hover {
+  box-shadow: rgba(58, 0, 99, 0.15) 0px 0px 30px 0px;
+  brightness: 2.4;
+}
+/* 技能图标悬浮提升 */
+#SinglevipinfoPanel:hover {
+  box-shadow: rgba(58, 0, 99, 0.15) 0px 0px 30px 0px;
+  brightness: 2.4;
+}
+/* 技能图标 */
+.SinglevipinfoPanel {
+  flow-children: down;
+  /* width: 300px; */
+  /* height: 300px; */
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow: rgba(9, 9, 9, 0.872) 0px 0px 10px 0px;
+  border: 2px solid #1f1f1f;
+}
+#SinglevipinfoPictureImage {
+  width: 200px;
+  height: 200px;
+  /* box-shadow: rgb(0, 0, 0) 0px 0px 10px 0px; */
+  /* border:2px solid rgb(58, 58, 58); */
+  border: 2px solid #1f1f1f;
+  border-bottom: 1px solid #1f1f1f;
+  padding: 2px;
+}
+.VIPinfoIndicator {
+  color: #ffffffff;
+  font-family: TitleFont;
+  /* font-size: 25px; */
+  /* text-shadow: 2px 2px 4px 2 #00000090; */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 0px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 30px;
+  z-index: 5;
+  opacity: 0.5;
+  width: 100%;
+  border: 1px solid #333333;
+}
+#VIPINFOLabelPanel {
+  height: 20%;
+  width: 20%;
+}
+#VIPinfoPostGameBG {
+  width: 100%;
+  height: 100%;
+  /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+  /* border-radius: 4px; */
+  blur: gaussian(0px);
+  z-index: 4;
+  margin-left: -7%;
+  hue-rotation: 60deg;
+  pre-transform-scale2d: 1;
+  transition-property: opacity, wash-color, pre-transform-scale2d;
+  transition-duration: 0.32s, 1.5s, 1.9s;
+  transition-timing-function: ease-in;
+}
+#SinglevipinfoPanelButton {
+  z-index: 5;
+}
+.VIPinfoIndicator {
+  z-index: 5;
+}
+#playerInfoGoodsWindowPanelPostGameBG {
+  width: 100%;
+  height: 100%;
+  pre-transform-scale2d: 2.2;
+  /* blur: gaussian(3px); */
+  horizontal-align: center;
+  vertical-align: middle;
+  /* opacity: 0; */
+  z-index: 100;
+  /* background-color: gradient( linear, 0% 0%, 0% 100%, from( #1A3D1A  ), color-stop( 0.2, #67A163 ), color-stop( .5, #187019), to( #175D17 ) ); */
+  border-radius: 4px;
+  hue-rotation: 0deg;
+  wash-color: #000000;
+  transition-property: hue-rotation, opacity, wash-color, pre-transform-scale2d;
+  transition-duration: 2.32s, 1.5s, 2.9s;
+  transition-timing-function: ease-in;
+  /* visibility: collapse; */
+  pre-transform-scale2d: 1;
+}
+#playerInfoGoodsWindowPanelPostGameBG.SceneLoaded {
+  wash-color: #ffffff;
+}
+.SingleBonusinfoPanel_root {
+  flow-children: down;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 25px;
+  ui-scale: 80%;
+}
+.SingleBonusinfoPanel_root:hover {
+  box-shadow: rgba(123, 0, 189, 0.03) 0px 0px 20px 0px;
+  brightness: 1.8;
+}
+/* 奖励图标 */
+.SingleBonusinfoPanel {
+  flow-children: down;
+  box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 10px 0px;
+  border: 2px solid #1f1f1f;
+}
+#SingleBonusInfoPanelButton {
+  z-index: 7;
+}
+#SingleBonusinfoPictureImage {
+  width: 200px;
+  height: 200px;
+  /* box-shadow: rgb(0, 0, 0) 0px 0px 10px 0px; */
+  border: 2px solid #1f1f1f;
+  border-bottom: 1px solid #1f1f1f;
+  padding: 2px;
+}
+#BonusinfoIndicator_platinum,
+#BonusinfoIndicator_reliableExp,
+#BonusinfoIndicator_gold {
+  color: #ffffffff;
+  font-family: TitleFont;
+  font-size: 18px;
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 0px;
+  text-align: center;
+  color: #ffffff;
+  z-index: 5;
+  opacity: 0.5;
+  width: 100%;
+  border: 1px solid #1f1f1f;
+  text-shadow: 0px 0px 8px rgba(231, 231, 231, 0.3);
+}
+#SpellNextPage {
+  align: right bottom;
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/right_arrow_double_active.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 10;
+  width: 50px;
+  height: 46px;
+  transform: scaleX(1);
+  wash-color: #4e5152;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  transition-property: wash-color, transform, margin-left;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in-out;
+  saturation: 0.5;
+}
+#SpellNextPage:hover {
+  wash-color: #9db1b7;
+}
+#SpellNextPage:active {
+  brightness: 0.5;
+}
+#SettingWindowRoot {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transform: translateX(-120px) translateY(-60px);
+  pre-transform-scale2d: 0.95;
+  wash-color: #33cccc;
+  transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+  transition-duration: 0.6s, 0.4s, 0.5s;
+  transition-timing-function: ease-in-out;
+  z-index: 5;
+}
+#SettingWindowRoot.show {
+  opacity: 1;
+  transform: translateX(0px) translateY(0px);
+  pre-transform-scale2d: 1;
+  wash-color: #ffffff;
+}
+.SettingWindowRoot {
+  visibility: collapse;
+}
+.SettingWindowRoot.Visible {
+  visibility: visible;
+}
+#SettingWindowPanel {
+  /* flow-children: down-wrap; */
+  width: 40%;
+  height: 80%;
+  z-index: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+  /* margin-left: 22%; */
+  align: center top;
+  /* wash-color:  #ffffff; */
+  border: 1px solid #030303;
+  box-shadow: #000d1c 0px 0px 80px 1px;
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/play_panel_bg_2.png");
+  background-size: 200% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition-property: width;
+  transition-duration: 0.6s, 0.4s, 0.5s;
+  transition-timing-function: ease-in-out;
+  /* flow-children: down-wrap; */
+  z-index: 5;
+}
+#SettingWindowLabel {
+  padding: 10px;
+  color: #a9a9a9;
+  font-size: 40px;
+  width: 100%;
+  height: 8%;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  text-shadow: 1px 1px 2px 2 #1a1a1a90;
+  text-overflow: shrink;
+  text-align: center;
+  /* background-image: url("s2r://panorama/images/battlepass/fall2021/purple_blue_bg_jpg.vtex"); */
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_long2.png");
+  background-size: 100%;
+  background-position: center top;
+  background-repeat: no-repeat;
+  wash-color: rgba(28, 0, 61, 0.406);
+  background-img-opacity: 0.8;
+  /* box-shadow: rgba(0, 0, 0, 0.62) 0px 0px 20px 1px; */
+  /* color: gradient(linear, 0% 0%, 0% 90%, from(#ffffff), to(#5782df)); */
+}
+#SettingWindow {
+  width: 100%;
+  flow-children: down-wrap;
+  height: 100%;
+  margin-top: 100px;
+}
+#SettingWindow_new {
+  width: 100%;
+  flow-children: down-wrap;
+  height: 100%;
+}
+#cameraSliderPanel {
+  width: 60%;
+  height: 10%;
+  align: center top;
+  flow-children: down-wrap;
+}
+#timeScaleSliderPanel {
+  width: 60%;
+  height: 10%;
+  align: center top;
+  flow-children: down-wrap;
+}
+#SettingWindowBack1 {
+  width: 30%;
+  height: 100%;
+  align: left top;
+  /* background-color: #555555; */
+  /* blur: gaussian(30px); */
+  z-index: 0;
+}
+#SettingWindowBack2 {
+  width: 30%;
+  height: 100%;
+  align: right top;
+  /* background-color: #555555; */
+  /* blur: gaussian(30px); */
+  z-index: 0;
+}
+#SettingWindowBack3 {
+  width: 100%;
+  height: 100%;
+  align: left bottom;
+  /* background-color: #555555; */
+  /* blur: gaussian(30px); */
+  z-index: 0;
+}
+#SettingWindowBack3 {
+  visibility: collapse;
+}
+#SettingWindowBack3.Visible {
+  visibility: visible;
+}
+#CloseSettingWindowButton {
+  background-image: url("s2r://panorama/images/control_icons/gear_return_png.vtex");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  z-index: 5;
+  margin-left: 6px;
+  margin-top: 6px;
+  width: 32px;
+  height: 32px;
+  horizontal-align: left;
+  margin-right: 28px;
+  wash-color: #575d5f;
+}
+#CloseSettingWindowButton:hover {
+  brightness: 3.2;
+}
+/* 阿哈利姆原石 */
+.CorePaenlRoot {
+  margin-left: 40px;
+  margin-top: 20px;
+  width: 200px;
+  height: 230px;
+  flow-children: down-wrap;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 10px 1px;
+}
+.CorePaenlRoot:hover {
+  brightness: 1.8;
+  box-shadow: rgba(90, 0, 159, 0.1) 0px 0px 20px 0px;
+}
+.GetCoreButton_root {
+  /* box-shadow: rgb(75, 75, 75) 0px 0px 0px 1px; */
+  flow-children: down-wrap;
+}
+#GetCoreButton {
+  box-shadow: #0a0a0a 0px 0px 5px 1px;
+  flow-children: down-wrap;
+}
+.corePanel {
+  /* box-shadow: rgba(0, 0, 0, 1) 0px 0px 30px 0px; */
+  border: 1px solid #1f1f1f;
+}
+.corePanel {
+  width: 200px;
+  height: 200px;
+  /* box-shadow: rgba(0, 0, 0, 1) 0px 0px 20px 0px; */
+  /* margin-left: 5px; */
+}
+.CoreInfo {
+  /* padding: 10px; */
+  color: #ffffff;
+  font-size: 20px;
+  width: 100%;
+  height: 30px;
+  border: 2px solid #1f1f1f;
+  border-top: 0px solid #1f1f1f;
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  color: gradient(linear, 0% 0%, 0% 90%, from(#777777), to(#aabec4));
+  text-align: center;
+}
+#SendTimeScaleChange {
+  /* align: center bottom; */
+  margin-right: 20%;
+  horizontal-align: right;
+  width: 100px;
+  height: 25px;
+  /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+  /* background-image: url("s2r://panorama/images/hud/reborn/hud_custom_ti11/ability_bg_psd.vtex"); */
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/bg_deck_info.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  brightness: 1.2;
+  border: 1px solid rgba(99, 99, 99, 0.3);
+  z-index: 0;
+  /* padding: 15px; */
+  border-radius: 5px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  box-shadow: rgba(0, 0, 0, 0.62) 0px 0px 20px 1px;
+}
+#SendTimeScaleChange:hover {
+  box-shadow: rgba(212, 211, 211, 0.2) 0px 0px 5px 0px;
+  brightness: 1.5;
+}
+#SendTimeScaleChangeButtonLabel {
+  font-family: titleFont;
+  vertical-align: middle;
+  horizontal-align: center;
+  text-overflow: shrink;
+  letter-spacing: 0.5px;
+  text-shadow: 2px 2px 0px 1 #00000090;
+  text-transform: uppercase;
+  font-weight: semi-bold;
+  /* box-shadow: rgb(20, 20, 20)  0px 0px 3px 0px;  */
+}
+#TimeScale_Panel_Root {
+  width: 25%;
+  height: 25%;
+  margin-top: 20%;
+  /* margin-left: 50%; */
+  horizontal-align: right;
+  background-image: url("s2r://panorama/images/battlepass/spring2021/weeklyquests/hiddenbg_week08_psd.vtex");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+  box-shadow: #000000 0px 0px 10px 0px;
+  opacity: 0;
+  transform: translateX(120px) translateY(-100px);
+  pre-transform-scale2d: 0.95;
+  z-index: 5;
+  transition-property: opacity, transform, pre-transform-scale2d, wash-color;
+  transition-duration: 0.6s, 0.4s, 0.3s;
+  transition-timing-function: ease-in-out;
+}
+#TimeScale_Panel_Root.show {
+  opacity: 1;
+  transform: translateX(0px) translateY(0px);
+  pre-transform-scale2d: 1;
+  /* wash-color: #33cccc; */
+}
+#SendData_confirm_title {
+  color: #919191;
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 20px;
+  height: 25px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 0px;
+  box-shadow: #000000 0px 0px 15px 0px;
+  text-align: center;
+  /* padding-top: 6px; */
+  background-color: gradient(linear, 0% 50%, 80% 50%, from(#000000), color-stop(0.8, #000000), to(#111111));
+  color: gradient(linear, 0% 0%, 0% 90%, from(#878b8b), to(#5d696d));
+  z-index: 5;
+  brightness: 1.9;
+  background-image: url("s2r://panorama/images/hud/reborn/bg_scoreboard_psd.vtex");
+  /* background-blur: 5px; */
+  /* blur: gaussian(30px); */
+  /* background-position:center top; */
+  background-size: 100%;
+  /* background-position:center top; */
+  background-repeat: no-repeat;
+}
+#SendData_Confirm_panel {
+  /* z-index: 2; */
+  margin-top: 40%;
+  margin-left: 5%;
+  /* margin: 300px; */
+  /* align: center; */
+  align: left top;
+  height: 70px;
+  width: 200px;
+  background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  box-shadow: #000000 0px 0px 10px 0px;
+  padding: 15px;
+  border-radius: 5px;
+  wash-color: #acacac;
+  transition-property: brightnessr, box-shadow;
+  transition-duration: 0.4s, 0.3s, 0.1s;
+  transition-timing-function: ease-in-out;
+  brightness: 0.9;
+}
+#SendData_Confirm_panel:hover {
+  brightness: 2.2;
+  box-shadow: #456466 0px 0px 10px 0px;
+}
+#SendData_Cancle_panel {
+  align: right top;
+  margin-top: 40%;
+  margin-right: 5%;
+  height: 70px;
+  width: 200px;
+  background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  box-shadow: #000000 0px 0px 10px 0px;
+  padding: 15px;
+  border-radius: 5px;
+  wash-color: #acacac;
+  transition-property: brightnessr, box-shadow;
+  transition-duration: 0.4s, 0.3s, 0.1s;
+  transition-timing-function: ease-in-out;
+  brightness: 0.9;
+}
+#SendData_Cancle_panel:hover {
+  brightness: 2.2;
+  box-shadow: #456466 0px 0px 10px 0px;
+}
+.SendData_Confirm_Label {
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 30px;
+  width: 100%;
+  text-shadow: -2px -2px -2px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  /* margin-bottom: -3px; */
+  text-align: center;
+  /* z-index: 0; */
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#3d3d3d));
+}
+#playerinfo_header {
+  width: 100%;
+  flow-children: down-wrap;
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/draft_results_bg.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-img-opacity: 0.5;
+}
+.PlayerInfo_text {
+  width: 100%;
+  font-size: 20px;
+  font-family: title_form;
+  /* horizontal-align: center; */
+  text-transform: uppercase;
+  vertical-align: top;
+  /* margin-top: 50px; */
+  color: #ffffff;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 3px;
+  /* text-shadow: 0px 0px 8px 1.0 #62FFFF44; */
+  border-radius: 6px;
+  opacity: 0;
+  transition-property: opacity;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  border-bottom: 2px solid #5f5f5f;
+  z-index: 10;
+  /* background-image: url("s2r://panorama/images/hud/reborn/bg_hud_inspect_psd.vtex");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    box-shadow: rgb(0, 0, 0) 0px 0px 5px 0px; */
+}
+.PlayerInfo_text.show {
+  opacity: 1;
+}
+#SettingWindow_HELP {
+  /* align: center bottom; */
+  margin-top: 20%;
+  horizontal-align: right;
+  width: 100%;
+  height: 125px;
+  /* background-image: url("s2r://panorama/images/hud/reborn/inventory_panel_png.vtex"); */
+  background-image: url("s2r://panorama/images/hud/reborn/hud_custom_ti11/ability_bg_psd.vtex");
+  brightness: 1.5;
+  border: 1px solid rgba(99, 99, 99, 0.3);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  /* padding: 15px; */
+  border-radius: 5px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  box-shadow: rgba(0, 0, 0, 0.62) 0px 0px 20px 1px;
+}
+#bonus_info {
+  width: 200px;
+  flow-children: right-wrap;
+  margin-left: 0px;
+  align: center bottom;
+  margin-bottom: 35px;
+  /* background-color: rgb(64, 91, 119); */
+  /* opacity-mask: url("s2r://panorama/images/masks/scratched_box_psd.vtex"); */
+  /* background-image: url("s2r://panorama/images/glows/soft_blue_glow_psd.vtex"); */
+  background-image: url("s2r://panorama/images/hud/reborn/hud_custom_ti11/ability_bg_psd.vtex");
+  opacity-mask: url("s2r://panorama/images/masks/brush_horizontal_psd.vtex");
+  background-img-opacity: 0.7;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  visibility: collapse;
+}
+#bonus_info.Visible {
+  visibility: visible;
+}
+#bonus_info_icon {
+  width: 50px;
+  height: 50px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  /* box-shadow: rgb(59, 59, 59) 0px 0px 3px 0px; */
+  /* background-color: rgba(0, 0, 0, .9); */
+}
+#bonus_info_icon.icon_1 {
+  background-image: url("s2r://panorama/images/spells_menu/platinum.png");
+}
+#bonus_info_icon.icon_2 {
+  background-image: url("s2r://panorama/images/battle_report/silver_medal_small_psd.vtex");
+}
+#bonus_info_icon.icon_3 {
+  background-image: url("s2r://panorama/images/compendium/compendiumcoins_ti5_png.vtex");
+}
+#bonus_info_icon.icon_4 {
+  background-image: url("s2r://panorama/images/hud/reborn/aghsstatus_scepter_on_psd.vtex");
+}
+#bonus_info_icon.icon_5 {
+  background-image: url("s2r://panorama/images/received_gift_png.vtex");
+  margin-left: 10px;
+}
+#bonus_info_icon.icon_6 {
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/rune/level5.png");
+  margin-left: 10px;
+}
+#ShopGoodCostTypoe3 {
+  color: #b3ddff;
+  font-family: defaultFont;
+  font-size: 28px;
+  /* width: 55px; */
+  text-overflow: shrink;
+  align: left center;
+  text-align: left center;
+  /* text-shadow: 0.5px 0.5px 1px 3.5 #0c4d7290; */
+  z-index: 5;
+  /* visibility: collapse; */
+}
+#ShopGoodCostTypoe4 {
+  color: #b8c042;
+  font-family: defaultFont;
+  font-size: 25px;
+  width: 55px;
+  text-overflow: shrink;
+  margin-left: 3px;
+  align: left center;
+  text-align: left center;
+  /* text-shadow: 0.5px 0.5px 1px 3.5 #6c6e0090; */
+  z-index: 5;
+}
+/* 技能 */
+.single_general_spell {
+  flow-children: down;
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-top: 10px;
+  padding: 2px;
+  background-color: rgba(28, 28, 28, 0.99);
+  border-radius: 5px;
+  /* border:2px solid rgb(87, 87, 87); */
+  border: 2px solid #61604f;
+  border-brush: gradient(linear, 0% 0%, 0% 100%, from(#C2CED4), to(#727D81));
+}
+#single_general_spellButton {
+  border-radius: 5px;
+  border: 2px solid #313131;
+}
+.single_general_spell:hover {
+  brightness: 3.4;
+  z-index: 5;
+  pre-transform-scale2d: 1.1;
+  sound: "ui_custom_lobby_drawer_slide_out";
+}
+.spell_info_label {
+  align: center center;
+  color: #e1e1e1;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  height: 17px;
+  font-family: titleFont;
+  /* width: fill-parent-flow(1.0); */
+  text-overflow: shrink;
+  letter-spacing: 0.5px;
+  text-shadow: 2px 2px 0px 1 #00000090;
+  /* text-transform: uppercase; */
+  font-weight: semi-bold;
+  box-shadow: #141414 0px 0px 3px 0px;
+}
+.gray {
+  brightness: 0.1;
+}
+#GetCDKBonus {
+  width: 500px;
+  height: 60px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  flow-children: right;
+  /* box-shadow: #000000A8 0px 0px 6px 2px; */
+  border: 1px solid #99999955;
+  background-image: url("s2r://panorama/images/custom_game/chaotic_era/hud/draft_results_bg.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-img-opacity: 0.5;
+}
+.GetCDKText {
+  /* width: fill-parent-flow(1); */
+  height: 40px;
+  width: 200px;
+  margin-left: 20px;
+  vertical-align: center;
+}
+#GetCDKBonusButton {
+  width: 180px;
+  height: 70px;
+  margin: 2px 0px 2px 0px;
+  padding: 1px;
+  horizontal-align: right;
+  vertical-align: center;
+  margin-right: 50px;
+}
+#GetCDKBonusButton:hover {
+  brightness: 5.3;
+}
+#GetCDKBonusButton > Label {
+  color: #FFFFFF;
+  align: center center;
+  font-size: 21px;
+  text-align: center;
+  text-overflow: shrink;
+}
+#cdkBonusLabel {
+  color: #ffffffff;
+  font-family: FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 14px;
+}
+/* 物品展示窗口 */
+#GameInfoWindowPanel {
+  width: 99%;
+  height: 80%;
+  z-index: 0;
+  background-color: gradient(linear, 0% 0%, 90% 90%, from(#1d1d1d33), to(#00112333));
+  margin-top: 150px;
+  margin-right: 5px;
+  opacity: 0;
+}
+#GameInfoWindowPanel.Visible {
+  opacity: 1;
+}
+#GameInfoWindowPanel #page_1 {
+  width: 100%;
+  height: 100%;
+  flow-children: down;
+}
+#GameInfoWindowPanel #page_1 #title_info {
+  width: 100%;
+  height: 150px;
+  flow-children: down;
+}
+#GameInfoWindowPanel #page_1 #title_info #title {
+  horizontal-align: center;
+  color: #ffffffff;
+  font-family: TitleFont;
+  font-size: 30px;
+  height: 46px;
+  width: 100%;
+  text-shadow: 2px 2px 4px 2 #00000090;
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 11px;
+  text-align: center;
+  padding-top: 6px;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+}
+#GameInfoWindowPanel #page_1 #title_info #info {
+  horizontal-align: center;
+  color: #ffffffff;
+  font-family: defaultFont;
+  font-size: 22px;
+  text-shadow: 2px 2px 4px 2 #00000090;
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: 11px;
+  text-align: center;
+  color: gradient(linear, 0% 0%, 0% 90%, from(#f8f8f8), to(#3e6461));
+}
+#GameInfoWindowPanel #page_1 #buttonList {
+  width: 100%;
+  height: 100%;
+  overflow: squish scroll;
+  flow-children: right-wrap;
+}
+#GameInfoWindowPanel #page_1 #buttonList .generalHDButton {
+  margin: 10px;
+}
+#GameInfoWindowPanel #page_1 #buttonList .generalHDButton > Label {
+  font-family: Goudy Trajan Medium, FZKai-Z03, TH Sarabun New, YDYGO 540;
+  font-size: 20px;
+  /* width: 100%; */
+  horizontal-align: center;
+  text-shadow: -1px -1px -1px #000, 2px 2px 2px #fff;
+  /* 雕刻 */
+  text-overflow: shrink;
+  align: center top;
+  margin-bottom: -3px;
+  text-align: center;
+  /* z-index: 0; */
+  color: gradient(linear, 0% 0%, 90% 90%, from(#f8f8f8), to(#a8a8a8));
+}
+#GameInfoWindowPanel #page_1 #buttonList .generalHDButton:hover {
+  box-shadow: #038d8d 0px 0px 10px 0px;
+}

@@ -1,0 +1,1440 @@
+"DOTAAbilities"
+{
+    "game_info_Contest_rule"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "attribute_bonus"
+        "MaxLevel"              "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "unit_state"
+    {
+        "BaseClass"             "ability_lua"
+        "ScriptFile"            "ability/unit_state"
+        "AbilityTextureName"    ""
+        "MaxLevel"              "1"
+        "AbilityBehavior"       "DOTA_ABILITY_BEHAVIOR_PASSIVE | DOTA_ABILITY_BEHAVIOR_NOT_LEARNABLE | DOTA_ABILITY_BEHAVIOR_HIDDEN"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_Refresh_Chaoticera_spell"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "shop/shop_refresh_chaoticera_spell"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_artifact_bonus_exp"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "shop/vip_artifact_1"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_artifact_bonus_exp_2"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "shop/vip_artifact_2"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_artifact_bonus_exp_3"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "shop/vip_artifact_3"
+        "AbilityValues"
+        {
+        }
+    }
+    "templar_assassin_refraction_holdout"
+    {
+        // General
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PHYSICAL"
+        // Casting
+        "AbilityCastPoint"         "0.0 0.0 0.0 0.0"
+        // Time
+        "AbilityCooldown"          "17.0 17.0 17.0 17.0"
+        // Cost
+        "AbilityManaCost"          "100"
+        "AbilityValues"
+        {
+            "damage_absorb"    "200 300 400 500"
+            "bonus_damage"     "20 40 60 80"
+            "duration"         "17.0 17.0 17.0 17.0"
+        }
+    }
+    "none_spell_001"
+    {
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earth_spirit_stone_caller"
+        "ScriptFile"               "creeps_spell/creeps_spell_Stone_Remnant"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_POINT"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PHYSICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityCastPoint"         "0.25"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "0.5"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "700"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_earth_spirit/earthspirit_petrify_debuff_stoned.vpcf"
+            "particle"    "particles/units/heroes/hero_earth_spirit/espirit_stoneremnant.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"    "60"
+        }
+    }
+    "none_spell_002"
+    {
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earth_spirit_stone_caller"
+        "ScriptFile"               "creeps_spell/creeps_spell_Stone_Remnant"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_POINT"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_PHYSICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "SpellDispellableType"     "SPELL_DISPELLABLE_NO"
+        "AbilityCastPoint"         "0.25"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "0.5"
+        "AbilityManaCost"          "0"
+        "AbilityCastRange"         "700"
+        "precache"
+        {
+            "particle"    "particles/units/heroes/hero_earth_spirit/earthspirit_petrify_debuff_stoned.vpcf"
+            "particle"    "particles/units/heroes/hero_earth_spirit/espirit_stoneremnant.vpcf"
+        }
+        "AbilityValues"
+        {
+            "duration"    "60"
+        }
+    }
+    // 一个测试技能
+    "first_test"
+    {
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "skeleton_king_hellfire_blast"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "4"
+        "AbilityCastPoint"         "0.35"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "14 12 10 10"
+        "AbilityManaCost"          "95 110 125 140"
+        "AbilityCastRange"         "600"
+        "precache"
+        {
+            "particle"     "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast.vpcf"
+            "soundfile"    "soundevents/game_sounds_heroes/game_sounds_skeletonking.vsndevts"
+            "particle"     "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast_explosion.vpcf"
+        }
+        "OnSpellStart"
+        {
+            "TrackingProjectile"
+            {
+                "Target"              "TARGET"
+                "EffectName"          "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast.vpcf"
+                "Dodgeable"           "1"
+                "MoveSpeed"           "1000"
+                "SourceAttachment"    "DOTA_PROJECTILE_ATTACHMENT_ATTACK_1"
+            }
+            "FireSound"
+            {
+                "Target"        "CASTER"
+                "EffectName"    "Hero_SkeletonKing.Hellfire_Blast"
+            }
+            "RunScript"
+            {
+            }
+        }
+        "OnProjectileHitUnit"
+        {
+            "FireSound"
+            {
+                "Target"        "CASTER"
+                "EffectName"    "Hero.SkeletonKing.Hellfire_Blastimpact"
+            }
+            "Damage"
+            {
+                "Target"    "TARGET"
+                "Type"      "DAMAGE_TYPE_MAGICAL"
+                "Damage"    "100"
+            }
+            "ApplyModifier"
+            {
+                "Target"          "TARGET"
+                "ModifierName"    "modifier_skeleton_stun_speedslow"
+            }
+            "ApplyModifier"
+            {
+                "Target"          "TARGET"
+                "ModifierName"    "modifier_skeleton_stun"
+            }
+            "DelayedAction"
+            {
+                "Action"
+                {
+                    "ApplyModifier"
+                    {
+                        "Target"          "TARGET"
+                        "ModifierName"    "modifier_skeleton_stun_blast_dot"
+                    }
+                }
+                "Delay"     "%stun_time"
+            }
+            "FireEffect"
+            {
+                "Target"              "TARGET"
+                "EffectName"          "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast_explosion.vpcf"
+                "EffectAttachType"    "follow_origin"
+            }
+        }
+        "Modifiers"
+        {
+            "modifier_skeleton_stun_speedslow"
+            {
+                "Duration"            "%slow_time"
+                "TextureName"         "skeleton_king_hellfire_blast"
+                "IsDebuff"            "1"
+                "Properties"
+                {
+                    "MODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE"    "-20"
+                }
+                "StatusEffectName"    "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast_debuff.vpcf"
+            }
+            "modifier_skeleton_stun"
+            {
+                "Duration"             "1.1 1.4 1.7 2"
+                "IsHidden"             "1"
+                "EffectAttachType"     "follow_overhead"
+                "StatusEffectName"     "particles/generic_gameplay/generic_stunned.vpcf"
+                "OverrideAnimation"    "ACT_DOTA_DISABLED"
+                "States"
+                {
+                    "MODIFIER_STATE_STUNNED"    "MODIFIER_STATE_VALUE_ENABLED"
+                }
+            }
+            "modifier_skeleton_stun_blast_dot"
+            {
+                "Duration"           "2"
+                "IsDebuff"           "1"
+                "IsHidden"           "1"
+                "OnIntervalThink"
+                {
+                    "Damage"
+                    {
+                        "Target"    "TARGET"
+                        "Type"      "DAMAGE_TYPE_MAGICAL"
+                        "Damage"    "%con_damage"
+                    }
+                }
+                "ThinkInterval"      "1"
+            }
+        }
+        "AbilityValues"
+        {
+            "stun_time"     "1.1 1.4 1.7 2"
+            "slow_time"     "3.1 3.4 3.7 4"
+            "con_damage"    "10 30 50 70"
+        }
+    }
+    // 一个测试技能
+    "first_test_clone"
+    {
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "skeleton_king_hellfire_blast"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitDamageType"    "DAMAGE_TYPE_MAGICAL"
+        "SpellImmunityType"        "SPELL_IMMUNITY_ENEMIES_NO"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "4"
+        "AbilityCastPoint"         "0.35"
+        "AbilityCastAnimation"     "ACT_DOTA_ATTACK"
+        "AbilityCooldown"          "14 12 10 10"
+        "AbilityManaCost"          "95 110 125 140"
+        "AbilityCastRange"         "600"
+        "precache"
+        {
+            "particle"     "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast.vpcf"
+            "soundfile"    "soundevents/game_sounds_heroes/game_sounds_skeletonking.vsndevts"
+            "particle"     "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast_explosion.vpcf"
+        }
+        "OnSpellStart"
+        {
+            "TrackingProjectile"
+            {
+                "Target"              "TARGET"
+                "EffectName"          "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast.vpcf"
+                "Dodgeable"           "1"
+                "MoveSpeed"           "1000"
+                "SourceAttachment"    "DOTA_PROJECTILE_ATTACHMENT_ATTACK_1"
+            }
+            "FireSound"
+            {
+                "Target"        "CASTER"
+                "EffectName"    "Hero_SkeletonKing.Hellfire_Blast"
+            }
+            "RunScript"
+            {
+            }
+            "RunScript"
+            {
+                "Target"        "CASTER"
+                "ScriptFile"    "scripts/vscripts/Portable_state_creation_script.lua"
+                "Function"      "normal_damage"
+            }
+        }
+        "OnProjectileHitUnit"
+        {
+            "FireSound"
+            {
+                "Target"        "CASTER"
+                "EffectName"    "Hero.SkeletonKing.Hellfire_Blastimpact"
+            }
+            "Damage"
+            {
+                "Target"    "TARGET"
+                "Type"      "DAMAGE_TYPE_MAGICAL"
+                "Damage"    "100"
+            }
+            "ApplyModifier"
+            {
+                "Target"          "TARGET"
+                "ModifierName"    "modifier_skeleton_stun_speedslow"
+            }
+            "ApplyModifier"
+            {
+                "Target"          "TARGET"
+                "ModifierName"    "modifier_skeleton_stun"
+            }
+            "DelayedAction"
+            {
+                "Action"
+                {
+                    "ApplyModifier"
+                    {
+                        "Target"          "TARGET"
+                        "ModifierName"    "modifier_skeleton_stun_blast_dot"
+                    }
+                }
+                "Delay"     "%stun_time"
+            }
+            "FireEffect"
+            {
+                "Target"              "TARGET"
+                "EffectName"          "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast_explosion.vpcf"
+                "EffectAttachType"    "follow_origin"
+            }
+        }
+        "Modifiers"
+        {
+            "modifier_skeleton_stun_speedslow"
+            {
+                "Duration"            "%slow_time"
+                "TextureName"         "skeleton_king_hellfire_blast"
+                "IsDebuff"            "1"
+                "Properties"
+                {
+                    "MODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE"    "-20"
+                }
+                "StatusEffectName"    "particles/units/heroes/hero_skeletonking/skeletonking_hellfireblast_debuff.vpcf"
+            }
+            "modifier_skeleton_stun"
+            {
+                "Duration"             "1.1 1.4 1.7 2"
+                "IsHidden"             "1"
+                "EffectAttachType"     "follow_overhead"
+                "StatusEffectName"     "particles/generic_gameplay/generic_stunned.vpcf"
+                "OverrideAnimation"    "ACT_DOTA_DISABLED"
+                "States"
+                {
+                    "MODIFIER_STATE_STUNNED"    "MODIFIER_STATE_VALUE_ENABLED"
+                }
+            }
+            "modifier_skeleton_stun_blast_dot"
+            {
+                "Duration"           "2"
+                "IsDebuff"           "1"
+                "IsHidden"           "1"
+                "OnIntervalThink"
+                {
+                    "Damage"
+                    {
+                        "Target"    "TARGET"
+                        "Type"      "DAMAGE_TYPE_MAGICAL"
+                        "Damage"    "%con_damage"
+                    }
+                }
+                "ThinkInterval"      "1"
+            }
+        }
+        "AbilityValues"
+        {
+            "stun_time"             "1.1 1.4 1.7 2"
+            "slow_time"             "3.1 3.4 3.7 4"
+            "con_damage"            "10 30 50 70"
+            "intelligence_index"    "5"
+        }
+    }
+    "NothingHero"
+    {
+        "BaseClass"                "ability_lua"
+        "AbilityTextureName"       "zuus_static_field_alt1"
+        "ScriptFile"               "normal/Arcane_bolt"
+        "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetTeam"    "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityCooldown"          "5 4 3 2"
+        "AbilityManaCost"          "50"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_king_of_translation"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "tiny/ti9_immortal/tiny_grow_prestige"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_Metallurgy"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage/the_basher_blades/antimage_mana_break"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_Metallurgy_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "antimage/golden_basher_blades/antimage_mana_break"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_fool"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "snapfire_gobble_up"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_old_player"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "zuus_static_field_alt1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_Novice_tutor"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "keeper_of_the_light_recall"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_Publicity_Ambassador"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "meepo_divided_we_stand"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_noob"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "meepo_poof"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_Dove_of_peace"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "beastmaster_hawk_invisibility"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "modifier_Shop_Great_Teacher"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "void_spirit_aether_remnant"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_tool"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "tusk_walrus_punch"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_adviser"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "tusk_walrus_punch"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_endless"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "abyssal_underlord_atrophy_aura"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_The_blessing_of_good_luck"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "pangolier_lucky_shot"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_noob2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "invoker_exort_persona1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_Athenas_blessing"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "mirana/mirana_2021_immortal_ability_icon/mirana_2021_immortal_moonlight_shadow"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_water"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "naga_siren/naga_2021_immortal_ability_icon/naga_2021_immortal_song_of_the_siren"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_Bullshit"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "naga_siren_song_of_the_siren"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_sendBug_man"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "beastmaster_primal_roar"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_sendBug_man_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "beastmaster_primal_roar"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_sendBug_man_3"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "beastmaster_primal_roar"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_sendBug_man_4"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "beastmaster_primal_roar"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_sendBug_man_5"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "beastmaster_primal_roar"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_1"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "myPicture1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "myPicture2"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_3"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "myPicture3"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_4"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "myPicture4"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_5"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "myPicture5"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contest_1"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "contest_1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_6"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "myPicture6"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contestBonus_1"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "bounty_hunter_twinblade_track"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contestBonus_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "sven/fiend_cleaver_icons/sven_warcry"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contestBonus_3"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_dragon_blood_persona1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contestBonus_4"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_dragon_blood_helm_persona1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contestBonus_5"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_elder_dragon_form_persona1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contestBonus_6"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "sven/fiend_cleaver_icons/sven_gods_strength"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contestBonus_7"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "zuus_static_field"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contestBonus_8"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "sven/sven_ti10_immortal_ability_icon/sven_ti10_immortal_gods_strength"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_contestBonus_9"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "skeleton_king/arcana/skeleton_king_bone_guard_arcana_alt"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_bonus_info_none"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "doom_bringer_empty2"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "player_spell_info_none"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "doom_bringer_empty2"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_first_N8"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "monkey_king/great_sages_reckoning/monkey_king_tree_jump"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_king_of_sleeping"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "bane/slumbering_terror/bane_nightmare"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_king_of_challenge"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "queen_of_pain/arcana/queenofpain_scream_of_pain_alt1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_king_of_bug"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "backdoor_protection_in_base"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_1"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_dragon_blood_persona1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_dragon_blood_persona1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_3"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_dragon_blood_persona1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_4"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_dragon_blood_persona1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_5"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "dragon_knight/dk_persona/dragon_knight_dragon_blood_persona1"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_by_gold_1"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_gold_by_platinum_1"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "bounty_hunter_jinada_ti9"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_gold_by_platinum_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "bounty_hunter_jinada_ti9"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_gold_by_platinum_3"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "bounty_hunter_jinada_ti9"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_gold_by_platinum_4"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "bounty_hunter_jinada_ti9"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_gold_by_platinum_5"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "bounty_hunter_jinada_ti9"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_spell_by_platinum"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "zeus/zeus_2021_immortal_back_ability_icon/zeus_2021_immortal_static_field"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_spell_by_platinum2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "zeus/zeus_2021_immortal_back_ability_icon/zeus_2021_immortal_static_field_gold"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "ChallengeInfo"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "core_number_1"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "first2"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "core_number_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "second"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "core_number_3"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "third2"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_core_5"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earthshaker/earthshaker_arcana/earthshaker_fissure"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_core_5_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earthshaker/earthshaker_arcana/earthshaker_fissure_alt2"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_core_20_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earthshaker/earthshaker_arcana/earthshaker_fissure_alt2"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_core_20"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "earthshaker/earthshaker_arcana/earthshaker_fissure"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_by_gold_2"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_by_gold_3"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_by_gold_4"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Shop_buy_exp_by_gold_5"
+    {
+        // General
+        "BaseClass"                "ability_datadriven"
+        "AbilityTextureName"       "modifier_illusion"
+        "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityType"              "DOTA_ABILITY_TYPE_BASIC"
+        "MaxLevel"                 "1"
+        "LevelsBetweenUpgrades"    "0"
+        "AbilityValues"
+        {
+        }
+    }
+    "Exchange_for_platinum_01"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "platinum/platinum1"
+        "MaxLevel"              "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "Exchange_for_platinum_02"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "platinum/platinum2"
+        "MaxLevel"              "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "Exchange_for_platinum_03"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "platinum/platinum3"
+        "MaxLevel"              "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "Exchange_for_platinum_04"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "platinum/platinum4"
+        "MaxLevel"              "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "Exchange_for_platinum_05"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "platinum/platinum5"
+        "MaxLevel"              "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "Exchange_for_platinum_06"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "platinum/platinum6"
+        "MaxLevel"              "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "Exchange_for_platinum_07"
+    {
+        "BaseClass"             "ability_datadriven"
+        "AbilityTextureName"    "platinum/platinum7"
+        "MaxLevel"              "1"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_rune_level1"
+    {
+        // "BaseClass"	"ability_datadriven"
+        "AbilityTextureName"    "shop/buy_rune_level1"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_rune_level2"
+    {
+        "AbilityTextureName"    "shop/buy_rune_level2"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_rune_level3"
+    {
+        "AbilityTextureName"    "shop/buy_rune_level3"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_rune_level4"
+    {
+        "AbilityTextureName"    "shop/buy_rune_level4"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_rune_level5"
+    {
+        "AbilityTextureName"    "shop/buy_rune_level5"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_rune_level6"
+    {
+        "AbilityTextureName"    "shop/buy_rune_level6"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_rune_level7"
+    {
+        "AbilityTextureName"    "shop/buy_rune_level7"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_rune_level8"
+    {
+        "AbilityTextureName"    "shop/buy_rune_level8"
+        "AbilityValues"
+        {
+        }
+    }
+    "buy_rune_level9"
+    {
+        "AbilityTextureName"    "shop/buy_rune_level9"
+        "AbilityValues"
+        {
+        }
+    }
+}

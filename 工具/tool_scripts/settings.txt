@@ -1,0 +1,31 @@
+"ValveResourceFormat"
+{
+	"_VERSION_DO_NOT_MODIFY"	"2"
+	"AntiAliasingSamples"	"8"
+	"BackgroundColor"	"#3C3C3C"
+	"FieldOfView"	"50"
+	"GameSearchPaths"
+	{
+	}
+	"MaxTextureSize"	"1024"
+	"OpenDirectory"	"d:\steam\steamapps\common"
+	"RecentFiles"
+	{
+		"0"	"D:\steam\steamapps\common\dota 2 beta\game\dota\pak01_dir.vpk"
+		"1"	"D:\steam\steamapps\common\dota 2 beta\game\dota\maps\backgrounds\dashboard_background_10th_anniversary.vpk"
+		"2"	"D:\steam\steamapps\common\dota 2 beta\game\dota\maps\backgrounds\spectate_background_default.vpk"
+		"3"	"D:\steam\steamapps\common\dota 2 beta\game\dota\maps\backgrounds\dashboard_background_loadout_treasure_static.vpk"
+		"4"	"D:\steam\steamapps\common\dota 2 beta\game\dota\maps\backgrounds\workshop_vote_treadmil.vpk"
+		"5"	"D:\steam\steamapps\common\dota 2 beta\game\dota_addons\dungeon\maps\ep_2_alt.vpk"
+		"6"	"D:\steam\steamapps\common\dota 2 beta\game\dota_addons\dungeon\maps\gate_test.vpk"
+	}
+	"SavedCameras"
+	{
+	}
+	"SaveDirectory"	"D:\dota2_workshop\hero_road\工具\tool_scripts\save"
+	"WindowHeight"	"642"
+	"WindowLeft"	"3137"
+	"WindowState"	"0"
+	"WindowTop"	"718"
+	"WindowWidth"	"1825"
+}

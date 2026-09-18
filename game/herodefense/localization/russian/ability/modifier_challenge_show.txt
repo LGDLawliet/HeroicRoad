@@ -1,0 +1,329 @@
+
+		"DOTA_Tooltip_modifier_ChallengeInfo_001_1_show"       "Сложность подавления энергии1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_001_2_show"       "Сложность подавления энергии2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_001_3_show"       "Сложность подавления энергии3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_001_4_show"       "Сложность подавления энергии4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_001_5_show"       "Сложность подавления энергии5 готов"    
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_002_1_show"       "Трудность сердечного истощения1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_002_2_show"       "Трудность сердечного истощения2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_002_3_show"       "Трудность сердечного истощения3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_002_4_show"       "Трудность сердечного истощения4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_002_5_show"       "Трудность сердечного истощения5 готов"    
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_003_1_show"       "Трудность сомнения1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_003_2_show"       "Трудность сомнения2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_003_3_show"       "Трудность сомнения3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_003_4_show"       "Трудность сомнения4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_003_5_show"       "Трудность сомнения5 готов"  
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_004_1_show"       "Трудности в жизненном поиске1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_004_2_show"       "Трудности в жизненном поиске2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_004_3_show"       "Трудности в жизненном поиске3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_004_4_show"       "Трудности в жизненном поиске4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_004_5_show"       "Трудности в жизненном поиске5 готов"  
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_005_1_show"       "Сложность вытягивания маны1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_005_2_show"       "Сложность вытягивания маны2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_005_3_show"       "Сложность вытягивания маны3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_005_4_show"       "Сложность вытягивания маны4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_005_5_show"       "Сложность вытягивания маны5 готов"    
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_006_1_show"       "Сложность мечты1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_006_2_show"       "Сложность мечты2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_006_3_show"       "Сложность мечты3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_006_4_show"       "Сложность мечты4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_006_5_show"       "Сложность мечты5 готов"   
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_007_1_show"       "Омоложение1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_007_2_show"       "Омоложение2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_007_3_show"       "Омоложение3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_007_4_show"       "Омоложение4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_007_5_show"       "Омоложение5 готов"   
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_008_1_show"       "Дилемма души1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_008_2_show"       "Дилемма души2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_008_3_show"       "Дилемма души3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_008_4_show"       "Дилемма души4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_008_5_show"       "Дилемма души5 готов"  
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_009_1_show"       "Сложность подавления всех атрибутов1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_009_2_show"       "Сложность подавления всех атрибутов2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_009_3_show"       "Сложность подавления всех атрибутов3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_009_4_show"       "Сложность подавления всех атрибутов4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_009_5_show"       "Сложность подавления всех атрибутов5 готов"   
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_010_1_show"       "Мозговая ошибка Сложность1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_010_2_show"       "Мозговая ошибка Сложность2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_010_3_show"       "Мозговая ошибка Сложность3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_010_4_show"       "Мозговая ошибка Сложность4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_010_5_show"       "Мозговая ошибка Сложность5 готов" 
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_011_1_show"       "Трудности с острыми зубами1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_011_2_show"       "Трудности с острыми зубами2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_011_3_show"       "Трудности с острыми зубами3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_011_4_show"       "Трудности с острыми зубами4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_011_5_show"       "Трудности с острыми зубами5 готов"   
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_012_1_show"       "Уровень сложности «Химическая ярость»1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_012_2_show"       "Уровень сложности «Химическая ярость»2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_012_3_show"       "Уровень сложности «Химическая ярость»3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_012_4_show"       "Уровень сложности «Химическая ярость»4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_012_5_show"       "Уровень сложности «Химическая ярость»5 готов"    
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_013_1_show"       "Взрывной Легион1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_013_2_show"       "Взрывной Легион2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_013_3_show"       "Взрывной Легион3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_013_4_show"       "Взрывной Легион4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_013_5_show"       "Взрывной Легион5 готов"    
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_014_1_show"       "Уровень сложности «Смертельный взгляд»1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_014_2_show"       "Уровень сложности «Смертельный взгляд»2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_014_3_show"       "Уровень сложности «Смертельный взгляд»3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_014_4_show"       "Уровень сложности «Смертельный взгляд»4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_014_5_show"       "Уровень сложности «Смертельный взгляд»5 готов"   
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_015_1_show"       "Грядущие трудности дьявола1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_015_2_show"       "Грядущие трудности дьявола2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_015_3_show"       "Грядущие трудности дьявола3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_015_4_show"       "Грядущие трудности дьявола4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_015_5_show"       "Грядущие трудности дьявола5 готов" 
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_016_1_show"       "Необъявленная тринадцатая сложность «Беглец»1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_016_2_show"       "Необъявленная тринадцатая сложность «Беглец»2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_016_3_show"       "Необъявленная тринадцатая сложность «Беглец»3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_016_4_show"       "Необъявленная тринадцатая сложность «Беглец»4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_016_5_show"       "Необъявленная тринадцатая сложность «Беглец»5 готов"    
+		
+		
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_017_1_show"       "Сложность небесного коллапса1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_017_2_show"       "Сложность небесного коллапса2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_017_3_show"       "Сложность небесного коллапса3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_017_4_show"       "Сложность небесного коллапса4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_017_5_show"       "Сложность небесного коллапса5 готов"    
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_018_1_show"       "Кредо Черепа Собаки Сложность1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_018_2_show"       "Кредо Черепа Собаки Сложность2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_018_3_show"       "Кредо Черепа Собаки Сложность3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_018_4_show"       "Кредо Черепа Собаки Сложность4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_018_5_show"       "Кредо Черепа Собаки Сложность5 готов"   
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_019_1_show"       "Обморожение сложности1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_019_2_show"       "Обморожение сложности2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_019_3_show"       "Обморожение сложности3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_019_4_show"       "Обморожение сложности4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_019_5_show"       "Обморожение сложности5 готов"  
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_020_1_show"       "Трудность истинного смысла жизни1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_020_2_show"       "Трудность истинного смысла жизни2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_020_3_show"       "Трудность истинного смысла жизни3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_020_4_show"       "Трудность истинного смысла жизни4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_020_5_show"       "Трудность истинного смысла жизни5 готов"  
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_021_1_show"       "Электролитные нарушения Сложность1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_021_2_show"       "Электролитные нарушения Сложность2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_021_3_show"       "Электролитные нарушения Сложность3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_021_4_show"       "Электролитные нарушения Сложность4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_021_5_show"       "Электролитные нарушения Сложность5 готов"  
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_022_1_show"       "Грыжа поясничного диска1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_022_2_show"       "Грыжа поясничного диска2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_022_3_show"       "Грыжа поясничного диска3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_022_4_show"       "Грыжа поясничного диска4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_022_5_show"       "Грыжа поясничного диска5 готов"  
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_023_1_show"       "Сложность блокировки времени1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_023_2_show"       "Сложность блокировки времени2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_023_3_show"       "Сложность блокировки времени3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_023_4_show"       "Сложность блокировки времени4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_023_5_show"       "Сложность блокировки времени5 готов"  
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_024_1_show"       "Осложнение анкилозирующего спондилита1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_024_2_show"       "Осложнение анкилозирующего спондилита2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_024_3_show"       "Осложнение анкилозирующего спондилита3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_024_4_show"       "Осложнение анкилозирующего спондилита4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_024_5_show"       "Осложнение анкилозирующего спондилита5 готов"  
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_025_1_show"       "Лягушка в колодце1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_025_2_show"       "Лягушка в колодце2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_025_3_show"       "Лягушка в колодце3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_025_4_show"       "Лягушка в колодце4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_025_5_show"       "Лягушка в колодце5 готов"  
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_026_1_show"       "Метеорит Сложность1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_026_2_show"       "Метеорит Сложность2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_026_3_show"       "Метеорит Сложность3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_026_4_show"       "Метеорит Сложность4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_026_5_show"       "Метеорит Сложность5 готов"  
+		
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_027_1_show"       "Пламя Айзёга1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_027_2_show"       "Пламя Айзёга2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_027_3_show"       "Пламя Айзёга3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_027_4_show"       "Пламя Айзёга4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_027_5_show"       "Пламя Айзёга5 готов"   
+		
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_028_1_show"       "Чума равнин1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_028_2_show"       "Чума равнин2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_028_3_show"       "Чума равнин3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_028_4_show"       "Чума равнин4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_028_5_show"       "Чума равнин5 готов"   
+		
+		
+		
+		
+		
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_029_1_show"       "Контрзаклинание1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_029_2_show"       "Контрзаклинание2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_029_3_show"       "Контрзаклинание3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_029_4_show"       "Контрзаклинание4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_029_5_show"       "Контрзаклинание5 готов"   
+		
+		
+		
+		
+		
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_030_1_show"       "Просыпайся медленно1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_030_2_show"       "Просыпайся медленно2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_030_3_show"       "Просыпайся медленно3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_030_4_show"       "Просыпайся медленно4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_030_5_show"       "Просыпайся медленно5 готов"   
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_031_1_show"       "Западная династия после короля Цзина1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_031_2_show"       "Западная династия после короля Цзина2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_031_3_show"       "Западная династия после короля Цзина3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_031_4_show"       "Западная династия после короля Цзина4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_031_5_show"       "Западная династия после короля Цзина5 готов"   
+		
+		
+		
+		"DOTA_Tooltip_modifier_ChallengeInfo_032_1_show"       "Глядя прямо на ауру1 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_032_2_show"       "Глядя прямо на ауру2 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_032_3_show"       "Глядя прямо на ауру3 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_032_4_show"       "Глядя прямо на ауру4 готов"   
+		"DOTA_Tooltip_modifier_ChallengeInfo_032_5_show"       "Глядя прямо на ауру5 готов"   
+
+
+
+
+
+		
+
+"DOTA_Tooltip_modifier_ChallengeInfo_033_1"       "Mana Void 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_2"       "Mana Void 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_3"       "Mana Void 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_4"       "Mana Void 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_033_5"       "Mana Void 5 готов"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_034_1"       "Force Dissipation 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_2"       "Force Dissipation 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_3"       "Force Dissipation 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_4"       "Force Dissipation 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_034_5"       "Force Dissipation 5 готов"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_035_1"       "Summon Inhibition 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_2"       "Summon Inhibition 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_3"       "Summon Inhibition 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_4"       "Summon Inhibition 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_035_5"       "Summon Inhibition 5 готов"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_037_1"       "Huddle Denie 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_2"       "Huddle Denie 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_3"       "Huddle Denie 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_4"       "Huddle Denie 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_037_5"       "Huddle Denie 5 готов"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_038_1"       "The Acme of Thieves 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_2"       "The Acme of Thieves 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_3"       "The Acme of Thieves 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_4"       "The Acme of Thieves 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_038_5"       "The Acme of Thieves 5 готов"
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_039_1_show"       "Revenant of the Underscape 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_2_show"       "Revenant of the Underscape 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_3_show"       "Revenant of the Underscape 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_4_show"       "Revenant of the Underscape 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_039_5_show"       "Revenant of the Underscape 5 готов"   
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_040_1_show"       "Avatar of Greed 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_2_show"       "Avatar of Greed 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_3_show"       "Avatar of Greed 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_4_show"       "Avatar of Greed 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_040_5_show"       "Avatar of Greed 5 готов"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_041_1_show"       "Command Reject 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_2_show"       "Command Reject 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_3_show"       "Command Reject 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_4_show"       "Command Reject 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_041_5_show"       "Command Reject 5 готов"
+
+"DOTA_Tooltip_modifier_ChallengeInfo_042_1_show"       "The Trial of the Earth 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_2_show"       "The Trial of the Earth 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_3_show"       "The Trial of the Earth 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_4_show"       "The Trial of the Earth 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_042_5_show"       "The Trial of the Earth 5 готов"
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_043_1_show"       "Death Curse 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_2_show"       "Death Curse 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_3_show"       "Death Curse 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_4_show"       "Death Curse 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_043_5_show"       "Death Curse 5 готов"
+
+
+
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_044_1_show"       "Immortal Disease Zobae 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_2_show"       "Immortal Disease Zobae 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_3_show"       "Immortal Disease Zobae 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_4_show"       "Immortal Disease Zobae 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_044_5_show"       "Immortal Disease Zobae 5 готов"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_045_1_show"       "Fading Bell 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_2_show"       "Fading Bell 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_3_show"       "Fading Bell 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_4_show"       "Fading Bell 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_045_5_show"       "Fading Bell 5 готов"
+
+
+"DOTA_Tooltip_modifier_ChallengeInfo_046_1_show"       "Memories of Legends 1 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_2_show"       "Memories of Legends 2 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_3_show"       "Memories of Legends 3 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_4_show"       "Memories of Legends 4 готов"   
+"DOTA_Tooltip_modifier_ChallengeInfo_046_5_show"       "Memories of Legends 5 готов"
+

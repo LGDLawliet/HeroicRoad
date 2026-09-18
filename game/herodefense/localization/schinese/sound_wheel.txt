@@ -1,0 +1,202 @@
+
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_1"	"怎么会这样？？"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">怎么会这样？？</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_2"	"好哥哥们有头绪吗？"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">好哥哥们有头绪吗？</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_3"	"我打死的，真的！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">我打死的，真的！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_4"	"我喜欢变态。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">我喜欢变态。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_5"	"我喜欢变成变态。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_5_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">我喜欢变成变态。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_6"	"要心里有点数。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_6_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">要心里有点数。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_7"	"打起来打起来。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_7_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">打起来打起来。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_8"	"我吃巧克力你吃##！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_8_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">我吃巧克力你吃##！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_9"	"ruaruaruaruarua，是不是傻了你~"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_9_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">ruaruaruaruarua，是不是傻了你~</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_10"	"我是不是挂机就可以了。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_10_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">我是不是挂机就可以了。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_11"	"哎呀点错了。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_11_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">哎呀点错了。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_12"	"oh哟哟哟哟，哎呀呀呀呀。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_12_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">oh哟哟哟哟，哎呀呀呀呀。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_13"	"唔我的天啊，这么帅！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_13_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">唔我的天阿，这么帅！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_14"	"完了你不光麦不好耳朵也不行了。。为你默哀一秒。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_14_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">完了你不光麦不好耳朵也不行了。。为你默哀一秒。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_15"	"别别别，太客气了。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_15_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">别别别，太客气了。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_16"	"欸？啊好绿，啊好绿啊好绿啊！好开心！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_16_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">欸？阿好绿，阿好绿阿好绿阿！好开心！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_17"	"啊这什么玩意儿啊？"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_17_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">呀！这啥呀？</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_18"	"呀！这啥呀？"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_18_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">呀！这啥呀？</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_19"	"oh！啊！我没死~欸！？？"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_19_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">oh！啊！我没死~欸！？？</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_20"	"哎哟！走了走了走了。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_20_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">哎哟！走了走了走了。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_21"	"他这个人，比我傻！我要喷他，很明显！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_21_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">他这个人，比我傻！我要喷他，很明显！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_22"	"啊救我救我救我救我救我救我。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_22_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">啊救我救我救我救我救我救我。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_23"	"啊对对对啊对对对。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_23_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">啊对对对啊对对对。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_24"	"小心我喷你们！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_24_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">小心我喷你们！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_25"	"喷他！趁他不在，喷他！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_25_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">喷他！趁他不在，喷他！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_26"	"给爷看乐了。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_26_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">给爷看乐了。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_27"	"我是想说，我不是看不起你，而是在座的各位都是辣鸡！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_27_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">我是想说，我不是看不起你，而是在座的各位都是辣鸡！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_28"	"信我，得永生！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_28_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">信我，得永生！</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_29"	"3q!"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_29_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">3q!</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_30"	"慢点慢点慢点，小声点别说话。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_30_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">慢点慢点慢点，小声点别说话。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_31"	"欸？你们已经走了？等等我我来啦。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_31_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">欸？你们已经走了？等等我我来啦。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_32"	"这个是个好人这哥们，对我这么好。"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_32_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">这个是个好人这哥们，对我这么好。</font>"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_33"	"干啥？我要是再过分点我就不让他跟你们玩，哼！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_33_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">干啥？我要是再过分点我就不让他跟你们玩，哼！</font>"
+
+
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_34"	"我说我说，我就说我不知道叫什么我跟着你们叫的，嘻嘻嘻嘻嘻！"
+"DOTA_Tooltip_ability_sound_wheel_bobo_index_34_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">我说我说，我就说我不知道叫什么我跟着你们叫的，嘻嘻嘻嘻嘻！</font>"
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_bobo_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_bobo_hero"	"波波"
+
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_1"	"嗯？这里有个尸体。--哦，是我的尸体。"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">嗯？这里有个尸体。--哦，是我的尸体。</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_2"	"开玩笑，你不知道我昨天躲了多少支箭。欸？欸！"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">开玩笑，你不知道我昨天躲了多少支箭。欸？欸！</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_3"	"欸！舒服！"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">欸！舒服！</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_4"	"欸！我的！"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">欸！我的！</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_5"	"看不到看不到看不到。"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_5_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">看不到看不到看不到。</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_6"	"别选这个求求了。"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_6_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">别选这个求求了。</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_7"	"这波真不怪我。"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_7_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">这波真不怪我。</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_8"	"谢谢兄弟们一起坐牢。"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_8_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">谢谢兄弟们一起坐牢。</font>"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_9"	"小谜团都比你有用。"
+"DOTA_Tooltip_ability_sound_wheel_chinese_index_9_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">小谜团都比你有用。</font>"
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_chinese_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_chinese_hero"	"中文区群星"
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_japanese_index_1"	"如果你不行就我来！"
+"DOTA_Tooltip_ability_sound_wheel_japanese_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">如果你不行就我来！</font>"
+"DOTA_Tooltip_ability_sound_wheel_japanese_index_2"	"就让你见识一下，我会用我的真正力量斩断你！"
+"DOTA_Tooltip_ability_sound_wheel_japanese_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">就让你见识一下，我会用我的真正力量斩断你！</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_japanese_language_type"	"#DOTA_HUD_Wheel_language_4"
+"DOTA_Tooltip_ability_sound_wheel_japanese_hero"	"二次元"
+
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_1"	"一边去！我来！"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">一边去！我来！</font>"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_2"	"长江长江，我是黄河。洞幺洞幺，我是洞拐。赵云赵云，我是阿斗！！！！！！"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">长江长江，我是黄河。洞幺洞幺，我是洞拐。赵云赵云，我是阿斗！！！！！！</font>"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_3"	"别，大哥！别！！！"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">别，大哥！别！！！</font>"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_4"	"硫磺苏不是你想，就能成为滴人。"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">硫磺苏不是你想，就能成为滴人。</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_xisuo_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_xisuo_hero"	"西索酱"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_1"	"别别别！大哥别！"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">别别别！大哥别！</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_2"	"好哥哥你救救我嘛~"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">好哥哥你救救我嘛~</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_3"	"都闪开让我来~"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">都闪开让我来~</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_4"	"要不你去洗把脸，我心安点。"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">要不你去洗把脸，我心安点。</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_5"	"怎么全是阿斗啊？赵云何在？"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_5_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">怎么全是阿斗啊？赵云何在？</font>"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_6"	"谁是赵云谁是赵云？我是阿斗。"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_index_6_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">谁是赵云谁是赵云？我是阿斗。</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_zhaoyun_hero"	"赵云"
+
+
+
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_1"	"车门已焊死，谁也别想跑！"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_1_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">车门已焊死，谁也别想跑！</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_2"	"哈哈小菜比，又死了吧！"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_2_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">哈哈小菜比，又死了吧！</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_3"	"汝等小丑如插标卖首尔！"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_3_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">汝等小丑如插标卖首尔！</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_4"	"捏麻麻地，会不会玩？让老子来！"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_4_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">捏麻麻地，会不会玩？让老子来！</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_5"	"我要杀了你们为我兄弟报仇！"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_5_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">我要杀了你们为我兄弟报仇！</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_6"	"小菜比闪开让我来！"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_6_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">小菜比闪开让我来！</font>"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_7"	"爷爷们快救救我！"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_index_7_play"                   "{s:player_name}<img class='DotaPlusSmallIcon' src='file://{images}/hud/reborn/icon_scoreboard_mute_sound.psd' />：<font color=\"#f0ad4e\">爷爷们快救救我！</font>"
+
+"DOTA_Tooltip_ability_sound_wheel_tiejia_language_type"	"#DOTA_HUD_Wheel_language_1"
+"DOTA_Tooltip_ability_sound_wheel_tiejia_hero"	"铁甲依然在"
+
+
+
+
+
+
+
+
+
+
+
+"DOTA_HUD_Wheel_info_1"                   "语音轮盘"
+"DOTA_HUD_Wheel_info_2"                   "声音来源："
+"DOTA_HUD_Wheel_info_3"                   "语言："
+
+"DOTA_HUD_Wheel_info_4"                   "预览：右键可以播放声音"
+
+"DOTA_HUD_Wheel_language_1"                   "中文"
+"DOTA_HUD_Wheel_language_2"                   "俄语"
+"DOTA_HUD_Wheel_language_3"                   "英语"
+"DOTA_HUD_Wheel_language_4"                   "日语"
+
+"DOTA_HUD_Wheel_info_5"                   "打开语音轮盘界面(F5)"
+"DOTA_HUD_Wheel_info_6"                   "10秒内只能播放两次"

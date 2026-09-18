@@ -1,0 +1,472 @@
+#Contents {
+    /* padding: 0; */
+    /* background-color: rgba(0, 0, 0, 0.2); */
+    /* border-radius: 6px; */
+    /* border:0 none none; */
+    min-width: 400px;
+    max-width: 600px;
+    box-shadow: fill 0.0px 0.0px 0.0px 0.0px #000000FF;
+    background-color: #000000FF;
+    /* border */
+    #tooltipRoot{
+        flow-children: down;
+    }
+}
+
+
+
+.hidden {
+    visibility: collapse;
+}
+
+#Header {
+    flow-children: right;
+    box-shadow: fill 0.0px 0.0px 50.0px 5.0px #000000FF;
+}
+
+.DescriptionOnly #Header {
+    visibility: collapse;
+}
+
+#HeaderLabels {
+    flow-children: down;
+    >Label {
+        horizontal-align: right;
+        margin-top: 6px;
+        color: #2f3946;
+        font-size: 16px;
+        height: 20px;
+    }
+}
+
+#AbilityHeader {
+    flow-children: right;
+    #AbilityName {
+        font-size: 18px;
+        color: #e1e1e1;
+        width: fill-parent-flow( 1.0 );
+        vertical-align: middle;
+        padding-left: 4px;
+        text-overflow: shrink;
+        letter-spacing: 0.5px;
+        text-shadow: 2px 2px 0px 1.0 #00000090;
+        margin-top: 2px;
+        text-transform: uppercase;
+        font-weight: semi-bold;
+    }
+    #AbilityLevel {
+        horizontal-align: right;
+        margin-left: 8px;
+        vertical-align: middle;
+        color: white;
+        font-size: 15px;
+    }
+}
+
+
+
+.IsAbility #AbilityName {
+    padding-left: 8px;
+}
+
+
+
+
+/* 技能行为 */
+
+#AbilityTarget {
+
+    border-top-color: #29353b;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-color: #29353b;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    width: 100%;
+    padding: 5px 0px 2px 8px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    flow-children: down;
+    #artifactLevelRoot{
+        width: 100%;
+        // height: 20px;
+        flow-children: down-wrap;
+        >Label {
+            horizontal-align: right;
+            // margin-top: 6px;
+            color: #2f3946;
+            font-size: 16px;
+            height: 20px;
+        }
+        #SubTitle2{
+            horizontal-align: right;
+            // margin-top: 3px;
+            color: #324148;
+            font-size: 13px;
+            height: 20px;
+        }
+        #artifactLevelProgress{
+            margin-top: 5px;
+            width: 100%;
+            border-radius: 4px;
+            height: 8px;
+            background-color:#000000ff;
+            overflow: noclip;
+            margin-bottom: 5px;
+            .ProgressBarLeft{
+                background-color:gradient( linear, 0% 10%, 0% 100%, from( #67e8ff ), to( #2860ef ) );
+               
+            }
+            &.maxLevel{
+                .ProgressBarLeft{
+                    background-color:gradient( linear, 0% 10%, 0% 100%, from( #7f632e ), to( #614313 ) );
+                }
+                
+            }
+            .ProgressBarRight{
+                background-color:gradient( linear, 0% 10%, 0% 100%, from( #2b2b2b ), to( #3f3d31 ) );
+            }
+        }
+    }
+   
+}
+
+
+
+
+
+
+/* 技能描述 */
+
+
+#AbilityCoreDetails {
+
+    flow-children: down;
+    width: 100%;
+    margin-top: 15px;
+}
+
+
+#AbilityAttributes {
+
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 4px;
+    font-size: 17px;
+    width: 400px;
+}
+
+.ShowScepterOnly #AbilityAttributes {
+
+    visibility: collapse;
+}
+#AbilityDescriptionOuterContainer{
+
+    flow-children: down;
+    width: 100%;
+    margin-left: 2px;
+}
+  
+
+#AbilityDescriptionContainer{
+    flow-children: down;
+    horizontal-align: center;
+    margin-bottom: 8px;
+    /* padding: 4px; */
+    width: 100%;
+    background-color: rgba(5, 5, 5, 0.9);
+    border-left:3px solid rgba(80, 80, 80,0.5);
+}
+
+
+
+.single_DescriptionBlock_bous{
+    width: 100%;
+    flow-children: down;
+
+    background-color:rgba(20, 20,20, 0.4);
+    /* background-image:unset; */
+    color :#9ab0cd;
+    font-size:16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+    margin-top: -12px;
+    font-weight: normal;
+    font-family: defaultFont;
+
+    border-left:5px solid rgba(80, 80, 80,0.2);
+}
+#bonus_block_aurum,
+#bonus_block_exp{
+    flow-children: right;
+}
+
+
+.bonus_icon{
+    width: 35px;
+    height: 35px;
+}
+.single_bonus_label_title{
+    color :rgb(239, 239, 239);
+    font-size:12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: normal;
+    font-family: defaultFont;
+    text-align: center;
+    vertical-align: center;
+}
+.single_bonus_label{
+    color :#9ab0cd;
+    font-size:15px;
+    /* padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+    margin-top: 5px; */
+    font-weight: normal;
+    font-family: defaultFont;
+    text-align: center;
+    vertical-align: center;
+}
+
+
+#bonusInfo_Block{
+    width: 100%;
+    flow-children: down;
+    box-shadow: #0e0e0e 0px 0px 10px 00px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    border-top:1px solid rgba(63, 63, 63,0.5);
+    /* color: #21d3ff; */
+    /* visibility : collapse; */
+}
+
+#SpecialBonus_TitleLabel{
+    padding-top: 4px;
+    height: 23px;
+    color: #c9e0ff;
+    font-size: 18px;
+    width:100%;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: normal;
+    letter-spacing: 0px;
+	font-family: FZLanTingHei-R-GBK, TH Sarabun New, YDYGO 540, Gulim, MingLiU;
+	font-weight: semi-bold;
+    margin-bottom: 2px;
+}
+
+.single_specialBonus_root{
+    width: 100%;
+    height: 20px;
+    margin-bottom: 2px;
+    flow-children: right-wrap;
+    border-left:2px solid rgba(63, 63, 63,0.5);
+    /* box-shadow: #282828 0px 0px 3px 00px; */
+}
+
+.left_note{
+    font-family: FZLanTingHei-R-GBK, TH Sarabun New, YDYGO 540, Gulim, MingLiU;
+    background-color:#191b1c;
+    /* width:fill-parent-flow( 0.1 ); */
+    width:20%;
+    horizontal-align: middle;
+    text-align: right;
+    
+    color: #f9b837;
+}
+
+.middle_note{
+    letter-spacing: 1px;
+    background-color: #14161632;
+    width:35%;
+    margin-right: 8px;
+    height: 100%;
+    padding-top: 3px;
+    padding-left: 8px;
+    font-size: 15px;
+    color: #7d8688;
+    text-align: left;
+    text-overflow: shrink;
+
+}
+
+.right_note{
+    font-family: FZLanTingHei-R-GBK, TH Sarabun New, YDYGO 540, Gulim, MingLiU;
+    background-color:#191b1c;
+    width:42.5%;
+    height:100%;
+    horizontal-align: right;
+    text-align: left;
+    font-weight:semi-bold;
+    font-size: 15px;
+    color: #6c6c6c;
+}
+
+.single_DescriptionBlock2{
+    width: 100%;
+    flow-children: down;
+    margin-top: 20px;
+    background-color:rgba(20, 20,20, 0.4);
+    border-left:5px solid rgba(80, 80, 80,0.2);
+}
+
+.single_additionalBlock{
+    width: 100%;
+    flow-children: down;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    // background-color:rgba(20, 20,20, 0.4);
+    // border-left:5px solid rgba(80, 80, 80,0.2);
+    #single_additionalLabelLeft{
+        width: 100%;
+        font-size:15px;
+        color :#777777;
+        padding-left: 8px;
+        padding-right: 8px;
+        // padding-top: 6px;
+        // padding-bottom: 8px;
+        // margin-bottom: 4px;
+        // margin-top: 1px;
+        font-weight: normal;
+        font-family: defaultFont;
+        // background-color:gradient( linear, 0% 0%, 100% 100%, from( #252830c8 ), to( #25283000 ) );
+        background-color: gradient( linear, 0% 0%, 100% 100%, from( #252830c8  ), color-stop( 0.5, #25283000 ), color-stop( .8, #25283000), to( #25283000 ) );
+          
+    }
+    #single_additionalLabel{
+        width: 100%;
+        // background-color:rgba(20, 20,20, 0.4);
+        /* background-image:unset; */
+        color :#777777;
+        font-size:13px;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 6px;
+        padding-bottom: 8px;
+        // margin-bottom: 4px;
+        // margin-top: 5px;
+        font-weight: normal;
+        font-family: defaultFont;
+        background-color:gradient( linear, 0% 0%, 50% 100%, from( #25283017 ), to( #25283011 ) );
+        // border-left:5px solid rgba(80, 80, 80,0.2);
+        min-height: 30px;
+    }
+    &.unlock{
+        #single_additionalLabelLeft{
+            color :#b18748;
+            background-color: gradient( linear, 0% 0%, 100% 100%, from( #2d3025c8  ), color-stop( 0.5, #25283000 ), color-stop( .8, #25283000), to( #25283000 ) );
+          
+            
+        }
+        #single_additionalLabel{
+            color :#798fcc;
+        }
+        
+    }
+
+
+}
+
+.single_DescriptionBlock{
+    width: 100%;
+    flow-children: down;
+    margin-top: 20px;
+    background-color:rgba(20, 20,20, 0.4);
+    border-left:5px solid rgba(80, 80, 80,0.2);
+    
+    #single_DescriptionLabel_left{
+        width: 100%;
+        font-size:18px;
+        color :#a69b8e;
+        padding-left: 8px;
+        padding-right: 8px;
+        // padding-top: 6px;
+        // padding-bottom: 8px;
+        // margin-bottom: 4px;
+        // margin-top: 1px;
+        font-weight: normal;
+        font-family: defaultFont;
+        // background-color:gradient( linear, 0% 0%, 100% 100%, from( #252830c8 ), to( #25283000 ) );
+        background-color: gradient( linear, 0% 0%, 100% 100%, from( #2e2c24c8  ), color-stop( 0.5, #171e3100 ), color-stop( .8, #25283000), to( #25283000 ) );
+          
+    }
+    #single_DescriptionLabel{
+        width: 100%;
+        // background-color:rgba(20, 20,20, 0.4);
+        /* background-image:unset; */
+        color :#7b97d2;
+        font-size:16px;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 6px;
+        padding-bottom: 8px;
+        // margin-bottom: 4px;
+        // margin-top: 5px;
+        font-weight: normal;
+        font-family: defaultFont;
+        background-color:gradient( linear, 0% 0%, 50% 100%, from( #2f302517 ), to( #25283011 ) );
+        // border-left:5px solid rgba(80, 80, 80,0.2);
+        min-height: 30px;
+    }
+
+
+   
+}
+#AbilityLevelRequire{
+    padding-top: 4px;
+    height: 28px;
+    color: #c9e0ff;
+    font-size: 14px;
+    width:100%;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: normal;
+    letter-spacing: 0px;
+	font-family: FZLanTingHei-R-GBK, TH Sarabun New, YDYGO 540, Gulim, MingLiU;
+	font-weight: semi-bold;
+    margin-bottom: 2px;
+    box-shadow: #0e0e0e 0px 0px 10px 00px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    border-top:1px solid rgba(63, 63, 63,0.5);
+    
+}
+
+#AbilityLore{
+    width: 100%;
+    // margin-top: 20px;
+    background-color:rgba(20, 20,20, 0.4);
+    border-left:2px solid rgba(80, 80, 80,0.2);
+    color :#9fb4e24c;
+    font-size:13px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    // margin-bottom: 4px;
+    // margin-top: 5px;
+    font-weight: normal;
+    font-family: defaultFont;
+    background-color:gradient( linear, 0% 0%, 50% 100%, from( #2f302517 ), to( #25283011 ) );
+    
+}
+
+#artifact_bg{
+    width: 100%;
+    height: 100%;
+    background-image: url("s2r://panorama/images/custom_game/chaotic_era/PlayerArtifact/Verity_Transparent_Effects.png");
+    background-size: 100% 100%;
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+    // opacity: 0.2;
+    brightness: 0.05;
+    blur: gaussian(80px);
+    z-index: -10;
+
+}

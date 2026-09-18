@@ -1,0 +1,285 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+
+{
+
+		wind_run_sonic_boom = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/sonic_boom.vsnd",
+		]
+		volume = "8.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 3.780181
+	}
+
+
+
+		windrun_move = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/windrun_move.vsnd",
+		]
+		volume = "15.00000"
+		pitch_rand_min = "-0.250000"
+		pitch_rand_max = "0.250000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 0.780181
+	}
+
+
+		killer_queen = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/killer_queen.vsnd",
+		]
+		volume = "10.00000"
+		pitch_rand_min = "-0.250000"
+		pitch_rand_max = "0.250000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 0.780181
+	}
+		dio_world = 
+	{
+		type = "dota_src1_3d"
+		vsnd_files = 
+		[
+			"sounds/spell/dio_world.vsnd",
+		]
+		volume = "10.00000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.050000"
+		pitch = "1.000000"
+		soundlevel = "81.000000"
+		mixgroup = "Weapons"
+		spread_radius = "600.000000"
+		vsnd_duration = 2.780181
+	}
+
+	OverPower_Great = 
+	{
+		type = "dota_src1_2d"
+		volume = 1.000000
+		pitch_rand_min = -0.050000
+		pitch_rand_max = 0.050000
+		pitch = 1.000000
+		soundlevel = 84.000000
+		mixgroup = "Weapons"
+		spread_radius = 600.000000
+		soundevent_layer2 = "overpower_for_mix"
+		soundevent_layer2_on = 1.000000
+		vsnd_files = 
+		[
+			"sounds/weapons/hero/ursa/ursa_earthshock.vsnd",
+		]
+		vsnd_duration = 2.479932
+	}
+
+	overpower_for_mix = 
+	{
+		type = "dota_src1_2d"
+		volume = 0.699707
+		pitch_rand_min = -0.050000
+		pitch_rand_max = 0.050000
+		pitch = 1.000000
+		soundlevel = 81.000000
+		mixgroup = "Weapons"
+		spread_radius = 300.000000
+		vsnd_files = 
+		[
+			"sounds/weapons/hero/ursa/ursa_overpower.vsnd",
+		]
+		vsnd_duration = 3.146168
+	}
+
+
+	unrivaled.saiyazin_Start = 
+	{
+		type = "dota_update_default"
+		volume = 20.200000
+		pitch_rand_min = -0.050000
+		pitch_rand_max = 0.050000
+		pitch = 1.000000
+		soundlevel = 84.000000
+		mixgroup = "Weapons"
+		spread_radius = 1000.000000
+		volume_fade_out = 0.800000
+		vsnd_files = 
+		[
+			"sounds/spell/saiyazin_start.vsnd",
+		]
+		vsnd_duration = 5.039977
+	}
+
+
+	HeroTime = 
+	{
+		type = "dota_update_default"
+		volume = 2.200000
+		pitch_rand_min = -0.050000
+		pitch_rand_max = 0.050000
+		pitch = 1.000000
+		soundlevel = 84.000000
+		mixgroup = "Weapons"
+		spread_radius = 1000.000000
+		volume_fade_out = 0.800000
+		vsnd_files = 
+		[
+			"sounds/music/valve_ti10/music/roshan_end.vsnd",
+		]
+		vsnd_duration = 10.039977
+	}
+
+
+
+	fire_ball.hit = 
+	{
+		type = "dota_update_default"
+		volume = 5.200000
+		pitch_rand_min = -0.050000
+		pitch_rand_max = 0.050000
+		pitch = 1.000000
+		soundlevel = 84.000000
+		mixgroup = "Weapons"
+		spread_radius = 1000.000000
+		volume_fade_out = 0.800000
+		vsnd_files = 
+		[
+			"sounds/spell/fire/flame_apply.vsnd",
+		]
+		vsnd_duration = 5.039977
+	}
+
+
+	fire_ball.explosion = 
+	{
+		type = "dota_update_default"
+		volume = 5.200000
+		pitch_rand_min = -0.050000
+		pitch_rand_max = 0.050000
+		pitch = 1.000000
+		soundlevel = 84.000000
+		mixgroup = "Weapons"
+		spread_radius = 1000.000000
+		volume_fade_out = 0.800000
+		vsnd_files = 
+		[
+			"sounds/spell/fire/flame_explosion.vsnd",
+		]
+		vsnd_duration = 5.039977
+	}
+	fire_ball.laungh = 
+	{
+		type = "dota_update_default"
+		volume = 5.200000
+		pitch_rand_min = -0.050000
+		pitch_rand_max = 0.050000
+		pitch = 1.000000
+		soundlevel = 84.000000
+		mixgroup = "Weapons"
+		spread_radius = 1000.000000
+		volume_fade_out = 0.800000
+		vsnd_files = 
+		[
+			"sounds/spell/fire/flame_laungh.vsnd",
+		]
+		vsnd_duration = 5.039977
+	}
+	
+
+	hd_electric.hit = 
+	{
+		type = "dota_update_default"
+		volume = 0.600000
+		pitch_rand_min = -0.050000
+		pitch_rand_max = 0.050000
+		pitch = 1.000000
+		soundlevel = 84.000000
+		mixgroup = "Weapons"
+		spread_radius = 1000.000000
+		volume_fade_out = 0.800000
+		vsnd_files = 
+		[
+			"sounds/spell/lightning/hit/lighting_hit_1.vsnd",
+			"sounds/spell/lightning/hit/lighting_hit_2.vsnd",
+			"sounds/spell/lightning/hit/lighting_hit_3.vsnd",
+			"sounds/spell/lightning/hit/lighting_hit_4.vsnd",
+		]
+		vsnd_duration = 5.039977
+	}
+
+
+
+	lighting_sword_active = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.700000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		vsnd_files = 
+		[
+            
+			 "sounds/weapons/hero/razor/razor_lightning_strike_05.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+
+	lighting_sword_move = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.700000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.350000"
+		vsnd_files = 
+		[
+            "sounds/weapons/hero/leshrac/lightning_storm01.vsnd",
+			"sounds/weapons/hero/leshrac/lightning_storm02.vsnd",
+			"sounds/weapons/hero/leshrac/lightning_storm03.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+
+	lighting_sword_damage = 
+	{
+
+		type = "dota_src1_2d"
+		volume = "0.700000"
+		pitch = "1.000000"
+		// limiter_on = "0.000000"
+		pitch_rand_min = "-0.050000"
+		pitch_rand_max = "0.350000"
+		vsnd_files = 
+		[
+            "sounds/weapons/hero/razor/razor_lightning_strike_01.vsnd",
+			"sounds/weapons/hero/razor/razor_lightning_strike_02.vsnd",
+			"sounds/weapons/hero/razor/razor_lightning_strike_03.vsnd",
+		]
+		vsnd_duration ="1.000000"
+
+
+	}
+}

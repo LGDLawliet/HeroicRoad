@@ -1,0 +1,159 @@
+<root>
+
+	<styles>
+		<include src="s2r://panorama/layout/custom_game/challenge/challenge.css"/>
+	
+        <include src="s2r://panorama/styles/custom_game/common_hd.css"/>
+	</styles>
+	
+	<scripts>
+        <include src="file://{resources}/scripts/custom_game/common.js" />
+		<include src="s2r://panorama/layout/custom_game/challenge/challenge.js"/>
+        
+	</scripts>
+	
+
+	
+    <Panel hittest="false" class="challengeRoot">
+
+
+
+
+
+        <!-- 打开挑战面板 -->
+        <!-- <Panel id="challengePanel" hittest="false" class="Visible">
+            <Button id="challengeMenuOpenButton" onactivate="OpenchallengeMenu();"  onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Challenge_button')" onmouseout="DOTAHideTextTooltip()">  </Button>
+        </Panel> -->
+        
+
+        <Button id="challengePanel" onactivate="OpenchallengeMenu()" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_Challenge_button')" onmouseout="DOTAHideTextTooltip()" >
+			<DOTAScenePanel id="challengeMenuOpenButtonBG" map="scenes/challenge_icon" camera="camera_2" light="global_light" deferredalpha="false" renderdeferred="false" rotateonmousemove="true" yawmin="0" yawmax="0" pitchmin="0" pitchmax="0" antialias="false" particleonly="false" />
+		</Button>
+
+        <!-- 显示英雄选择苦难 -->
+        <Panel id="herochallengePanel" hittest="false">
+            <Panel class="ChallengeBackGround"  >
+                <DOTAAbilityImage class="HerochallengeImage"   />
+            </Panel>
+            <Panel class="ChallengeBackGround"  >
+                <DOTAAbilityImage class="HerochallengeImage"   />
+            </Panel>
+            <Panel class="ChallengeBackGround"  >
+                <DOTAAbilityImage class="HerochallengeImage"   />
+            </Panel>
+            <Panel class="ChallengeBackGround"  >
+                <DOTAAbilityImage class="HerochallengeImage"   />
+            </Panel>
+            <Panel class="ChallengeBackGround"  >
+                <DOTAAbilityImage class="HerochallengeImage"   />
+            </Panel>
+
+        </Panel>
+
+        <Panel id="challengeMenuwindowROOT" hittest="false" class="Visible mainMenuDesign">
+
+
+
+            <Panel id="challengeMenuwindow_icon" hittest="false" class="Visible">
+                <DOTAScenePanel hittest="false"  id="PostGameBG1" map="scenes/battlepass_ti10/queen_of_pain_arcana" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+            </Panel>
+            <Panel id="challengeMenuwindow_icon2" hittest="false" class="Visible">
+                <DOTAScenePanel hittest="false"  id="PostGameBG3" map="scenes/battlepass_fall2021/drow_arcana" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+            </Panel>
+            <Panel id="challengeMenuwindow_icon3" hittest="false" class="Visible"></Panel>
+            <Panel id="challengeMenuwindow_icon4" hittest="false" class="Visible"></Panel>
+            <Panel id="challengeMenuwindow_icon5" hittest="false" class="Visible">
+                <DOTAScenePanel hittest="false"  id="PostGameBG2" map="scenes/dota_ui_mystery_box_reward" camera="camera_1" light="light_hero" renderdeferred="false" antialias="true" particleonly="false" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat"/>
+            </Panel>
+
+            <Button id="ShowinfoButton" onmouseover="showCurrencyhover();" onmouseout="closeCurrencyhover();"  >    </Button>
+            <Panel id="SettingWindowBack" hittest="true" onactivate="CloseSetting();" ></Panel>
+            <Panel id="challengeMenuwindow" hittest="true" class="Visible"  onactivate="DoNothing();">
+                <Panel class="hd_genaral_Background">
+                    <Panel class="hd_genaral_Background_layer2">
+                        <Panel class="hd_genaral_Background_layer3">
+                        </Panel>
+                    </Panel>
+                
+                </Panel>
+                <Label id="playerChallengeMenuwindowTitle" text="#DOTA_HUD_playerChallengeMenuwindowTitle" />
+                <Panel id="challengeInfoRoot"  >
+                    
+                    <Label class="Challenge_info" id="Challenge_info_1"  text="玩家一"/>
+                    <Label class="Challenge_info" id="Challenge_info_2"  text="玩家二"/>
+                    <Label class="Challenge_info" id="Challenge_info_3"  text="玩家三"/>
+                    <Label class="Challenge_info" id="Challenge_info_4"  text="玩家四"/>
+                    <Label class="Challenge_info" id="Challenge_info_5"  text="玩家五"/>
+                </Panel>
+                <Button id="RerollButton" onactivate="ReRollChallenge();" onmouseover="DOTAShowTextTooltip('#DOTA_HUD_ReRollChallenge')" onmouseout="DOTAHideTextTooltip()" />
+                <Panel id="challengewindow" hittest="false" class="Visible">
+                    <Panel class="challengeSelectItemImageBackGround" id="challengeSelectContainer1" >
+                        <DOTAAbilityImage class="challengeSelectItemImage" id="challengeSelectItemImage1"  />
+                        <!-- <Label class="CpCostIndicator" id="Challenge_Level" text="#DOTA_HUD_Challenge_level"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_Level1"  text="#DOTA_HUD_Challenge_level1"/>
+                        <!-- <Label class="CpCostIndicator" id="Challenge_COST"  text="#DOTA_HUD_Challenge_level1"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_BONUS"  text="#DOTA_HUD_Challenge_level1"/>
+                    </Panel>
+                    
+                    <Panel class="challengeSelectItemImageBackGround" id="challengeSelectContainer2" >
+                        <DOTAAbilityImage class="challengeSelectItemImage" id="challengeSelectItemImage2"  />
+                        <!-- <Label class="CpCostIndicator" id="Challenge_Level" text="#DOTA_HUD_Challenge_level"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_Level2"  text="#DOTA_HUD_Challenge_level2"/>
+                        <!-- <Label class="CpCostIndicator" id="Challenge_COST"  text="#DOTA_HUD_Challenge_level1"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_BONUS"  text="#DOTA_HUD_Challenge_level1"/>
+                    </Panel>
+                    <Panel class="challengeSelectItemImageBackGround" id="challengeSelectContainer3" >
+                        <DOTAAbilityImage class="challengeSelectItemImage" id="challengeSelectItemImage3"  />
+                        <!-- <Label class="CpCostIndicator" id="Challenge_Level" text="#DOTA_HUD_Challenge_level"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_Level3"  text="#DOTA_HUD_Challenge_level3"/>
+                        <!-- <Label class="CpCostIndicator" id="Challenge_COST"  text="#DOTA_HUD_Challenge_level1"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_BONUS"  text="#DOTA_HUD_Challenge_level1"/>
+                    </Panel>
+                    <Panel class="challengeSelectItemImageBackGround" id="challengeSelectContainer4" >
+                        <DOTAAbilityImage class="challengeSelectItemImage" id="challengeSelectItemImage4"  />
+                        <!-- <Label class="CpCostIndicator" id="Challenge_Level" text="#DOTA_HUD_Challenge_level"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_Level4"  text="#DOTA_HUD_Challenge_level4"/>
+                        <!-- <Label class="CpCostIndicator" id="Challenge_COST"  text="#DOTA_HUD_Challenge_level1"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_BONUS"  text="#DOTA_HUD_Challenge_level1"/>
+                    </Panel>
+                    <Panel class="challengeSelectItemImageBackGround" id="challengeSelectContainer5" >
+                        <DOTAAbilityImage class="challengeSelectItemImage" id="challengeSelectItemImage5"  />
+                        <!-- <Label class="CpCostIndicator" id="Challenge_Level" text="#DOTA_HUD_Challenge_level"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_Level5"  text="#DOTA_HUD_Challenge_level5"/>
+                        <!-- <Label class="CpCostIndicator" id="Challenge_COST"  text="#DOTA_HUD_Challenge_level1"/> -->
+                        <Label class="CpCostIndicator" id="Challenge_BONUS"  text="#DOTA_HUD_Challenge_level1"/>
+                    </Panel>
+
+ 
+                </Panel>
+
+				<DOTAScenePanel id="scene" map="background_panorama" renderdeferred="true" light="light1" camera="camera1" particleonly="false" antialias="true" post-process-material="materials/dev/deferred_post_process_graphic_ui.vmat" />
+
+
+            </Panel>
+        </Panel>
+ 
+
+
+
+
+
+
+
+
+
+
+
+        <!-- 图片预载入 -->
+        <!-- <Panel class="playerinfoMenuPrecache" hittest="true">
+            <Image src="file://{images}/custom_game/singletreasure_icon.png"/>
+            <Image src="file://{images}/spells_menu/platinum.png"/>
+            <Image src="file://{images}/interface/room_difficulty_6.png"/>
+        </Panel> -->
+
+
+
+    </Panel>
+
+
+</root>

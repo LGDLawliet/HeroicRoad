@@ -1,0 +1,18 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"F_RENDER_BACKFACES"	"1"
+	"F_ALLOW_LIGHTING_ON_TRANSLUCENT"	"1"
+	"F_ADDITIVE_BLEND"	"1"
+	"F_TRANSLUCENT"	"1"
+	"g_flOpacityScale"	"1"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"TextureColor"	"[0.294118 0.000000 0.509804 1.000000]"
+	"TextureTranslucency"	"[0.136000 0.136000 0.136000 0.000000]"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/models/effects/effects_cube_trans4_vmat_g_tcolor_c577854b.vtex"
+	}
+}

@@ -1,8 +1,18 @@
 # HeroicRoad
 
+简体中文 | [English](README.en.md)
+
 Dota 2 自定义游戏工程，Addon 名称为 `herodefense`，默认地图为 `camp_defense`。
 
 此版本使用 Lua 本地存档适配器运行原有业务接口。登录、结算、符石等操作在局内处理，无需原作者的在线业务服务器。
+
+## 项目愿景
+
+我（Lawliet）从大三时开始开发本项目，并于 2023 年交由玩家“长尾”继续维护，前后持续了五年。虽然项目并未取得多大成绩，但我认为，这些年的开发与维护经历能为后来的开发者提供许多可供参考的经验。
+
+项目在 Dota 2 游廊中的[主版本](https://steamcommunity.com/sharedfiles/filedetails/?id=2867620517)已开通全存档。
+
+欢迎其他开发者自由使用本项目，开发自己的分支版本。使用时请注明[原项目地址](https://github.com/LGDLawliet/HeroicRoad)与原作者及所有者 **Lawliet**，并保留原有版权与许可声明。
 
 ## 目录
 

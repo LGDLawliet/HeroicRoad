@@ -108,6 +108,8 @@ Some audio, images, and other assets in this project lack clear copyright author
 
 Some assets were purchased from **Fab, the Unity Asset Store, ArtStation**, and other marketplaces. **If you wish to use these assets, purchase the relevant assets or licenses yourself and comply with their license terms.** These assets are not covered by this project's MIT License.
 
+For model, audio, and image sources and licensing notes, see the [asset source inventory](THIRD_PARTY_NOTICES.en.md#asset-source-inventory).
+
 ## License
 
 Original project code and documentation are released under the [MIT License](LICENSE). Dota 2 / Valve content and other third-party code and assets retain their respective rights and license terms. See the [third-party notices](THIRD_PARTY_NOTICES.en.md).

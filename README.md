@@ -109,6 +109,8 @@ git lfs pull
 
 部分素材购自 **Fab 商城、Unity Asset Store、ArtStation** 等平台。**如需使用这些素材，请自行购买相应资源或授权，并遵守其许可条款。** 这些素材不随本项目的 MIT 开源许可一并授权。
 
+具体模型、音效和图片的来源及授权说明，见[素材来源与版权清单](THIRD_PARTY_NOTICES.md#素材来源清单)。
+
 ## 许可证
 
 项目原创代码与文档使用 [MIT License](LICENSE)。Dota 2 / Valve 内容及其他第三方代码和素材保留各自权利与授权条件，详见 [第三方说明](THIRD_PARTY_NOTICES.md)。

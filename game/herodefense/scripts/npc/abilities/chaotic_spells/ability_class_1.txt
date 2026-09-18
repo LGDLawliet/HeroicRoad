@@ -550,7 +550,7 @@
     "chaotic_summon_the_beast_king_guard"
     {
         "BaseClass"                "ability_lua"
-        "AbilityTextureName"       "beastmaster_call_of_the_wild_boar"
+        "AbilityTextureName"       "beastmaster_summon_razorback"
         "ScriptFile"               "chaotic_spell/class_1/chaotic_summon_the_beast_king_guard"
         "AbilityBehavior"          "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
         "AbilityUnitTargetType"    "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"

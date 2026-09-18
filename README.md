@@ -28,29 +28,32 @@ git lfs pull
 
 贴图、模型、音频等资源由 Git LFS 管理。请使用上述 Git 方式获取完整资源，避免将 LFS 指针文件当作实际素材。
 
-## 准备本地存档
+## 本地存档
 
-真实作者存档不纳入版本控制。首次使用时，在仓库根目录执行：
+仓库已包含作者存档，克隆后无需额外生成或复制存档文件：
 
-```powershell
-$archiveDir = "game/herodefense/scripts/vscripts/internal"
-if (-not (Test-Path "$archiveDir/local_archive_data.lua")) {
-    Copy-Item "$archiveDir/local_archive_data.example.lua" "$archiveDir/local_archive_data.lua"
-}
-```
+- `game/herodefense/scripts/vscripts/internal/local_archive_data.lua`：游戏启动时直接加载的存档模板。
+- `game/herodefense/resource/作者存档.json`：对应的原始 JSON 存档。
 
-公开示例已替换玩家身份、移除排行榜和待领奖励记录，并使用固定示例日期；保留了技能、符石、外观、特权和自定义玩法进度。它是用于离线体验的预置模板，不代表新玩家的初始平衡配置。
-
-`local_archive_data.lua` 与 `resource/作者存档.json` 已被 Git 忽略。已有个人存档时，上面的命令会保留原件。
+模板保留作者的技能、符石、外观、特权和自定义玩法进度。每位玩家在运行时获取独立的局内副本；它不代表新玩家的初始平衡配置。
 
 ## 在 Workshop Tools 中使用
 
-1. 将仓库的 `content/herodefense` 放到 Dota 2 安装目录下的 `content/dota_addons/herodefense`。
-2. 将仓库的 `game/herodefense` 放到 Dota 2 安装目录下的 `game/dota_addons/herodefense`，包含上一步准备的本地存档文件。如果安装目录已有同名工程，先备份。
-3. 启动 Dota 2 Workshop Tools，选择 `herodefense`。默认地图是 `camp_defense`，地图源文件位于 `content/herodefense/maps/camp_defense.vmap`。
-4. 修改地图或资源后，使用 Workshop Tools 编译并运行地图。
+推荐使用目录链接工具创建 Windows 目录联接（Junction），将工程保存在独立的 Git 仓库目录中，让 Dota 2 Workshop Tools 直接读取同一份文件。修改代码或资源后，在仓库目录正常执行 Git 提交和同步即可。
 
-仓库以普通目录保存工程内容；本机开发可以自行使用目录链接连接到 Dota 2 的 Addon 目录，不需要沿用作者机器上的绝对路径。
+1. 在目录链接工具中选择“目录联接 / Junction”，按下表创建链接。链接创建在 Dota 2 安装目录内，指向克隆下来的仓库目录。
+
+   | 链接创建位置（Dota 2 安装目录下） | 指向的实际目录（仓库根目录下） |
+   | --- | --- |
+   | `content/dota_addons/herodefense` | `content/herodefense` |
+   | `game/dota_addons/herodefense` | `game/herodefense` |
+
+   如果链接创建位置已有同名目录，请先备份并移走该目录，再创建链接。
+
+2. 启动 Dota 2 Workshop Tools，选择 `herodefense`。默认地图是 `camp_defense`，地图源文件位于仓库的 `content/herodefense/maps/camp_defense.vmap`。
+3. 修改地图或资源后，使用 Workshop Tools 编译并运行地图；在仓库中查看变更并提交。
+
+仓库中的 `content/herodefense` 和 `game/herodefense` 保持为实际工程目录；Dota 2 安装目录中的 Junction 仅用于本机连接，不需要提交到 Git。
 
 ## 本地业务接口
 
@@ -72,7 +75,7 @@ Lua 逻辑由 Dota 2 加载。Panorama 源码入口为 `content/herodefense/pano
 
 根目录 `package.json` 和锁文件保留了历史 Node.js 工具依赖。目前唯一的 `wearables` 脚本指向缺失的 `scripts/wearables.js`，也没有可用的统一 `npm run build` 配置；运行 Addon 不以该命令为前提。
 
-本机编辑器配置、凭证、个人存档和工具缓存已被忽略。不要强制提交这些文件。
+本机编辑器配置、凭证和工具缓存已被忽略。不要强制提交这些文件。
 
 ## 许可证
 

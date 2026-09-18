@@ -14,10 +14,6 @@ node_modules/
 *.p12
 *.pfx
 
-# Personal archives (use the public example described in README.md)
-/game/herodefense/resource/作者存档.json
-/game/herodefense/scripts/vscripts/internal/local_archive_data.lua
-
 # Dota 2 Workshop Tools generated caches
 tools_asset_info.bin
 tools_thumbnail_cache.bin

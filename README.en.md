@@ -1,4 +1,4 @@
-# HeroicRoad
+# Heroic Road:Chaotic Era.2.1G
 
 [简体中文](README.md) | English
 
@@ -8,7 +8,7 @@ This version uses a local Lua save adapter for the existing backend interfaces. 
 
 ## Project version
 
-- **Version: 英雄之路:乱纪元 V 2.1G**
+- **Version: Heroic Road:Chaotic Era.2.1G**
 - **Development began: December 2021**
 - **First published: September 2022**
 
@@ -85,6 +85,12 @@ Game logic → LocalArchive.CreateRequest → Local save logic → Original call
 - Settlement, purchases, and other changes remain in session memory and are not written back to the save files. A new session reloads the template.
 - Unsupported online operations return a failure. There is no fallback to the original backend.
 
+
+## Reporting issues
+
+If you encounter a problem while developing or using the project, please report it through [GitHub Issues](https://github.com/LGDLawliet/HeroicRoad/issues). Search existing issues before opening a new one to avoid duplicate reports.
+
+Please include the version or commit you are using, steps to reproduce the problem, the expected and actual behavior, and any relevant error logs or screenshots to help with investigation and discussion.
 
 ## License
 

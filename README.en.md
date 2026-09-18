@@ -102,6 +102,12 @@ If you encounter a problem while developing or using the project, please report 
 
 Please include the version or commit you are using, steps to reproduce the problem, the expected and actual behavior, and any relevant error logs or screenshots to help with investigation and discussion.
 
+## Asset copyright notice
+
+Some audio, images, and other assets in this project lack clear copyright authorization and may pose copyright risks. **Please replace non-Dota 2 assets with assets you are licensed to use.**
+
+Some assets were purchased from **Fab, the Unity Asset Store, ArtStation**, and other marketplaces. **If you wish to use these assets, purchase the relevant assets or licenses yourself and comply with their license terms.** These assets are not covered by this project's MIT License.
+
 ## License
 
 Original project code and documentation are released under the [MIT License](LICENSE). Dota 2 / Valve content and other third-party code and assets retain their respective rights and license terms. See the [third-party notices](THIRD_PARTY_NOTICES.en.md).

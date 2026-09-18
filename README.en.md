@@ -87,6 +87,15 @@ Game logic → LocalArchive.CreateRequest → Local save logic → Original call
 - Unsupported online operations return a failure. There is no fallback to the original backend.
 
 
+## QQ community (China)
+
+Players and developers in China can also join the QQ discussion groups below. Group 1 is primarily for players; **developers are encouraged to join Group 2**.
+
+| Group | QQ group number | Focus | Join |
+| --- | --- | --- | --- |
+| 内卷之路一号群 (Group 1) | `260615782` | Player community and gameplay discussion | [Join group](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5Q8bOeNQJrFqCD-8ZBe3acVXVMttH2QZ&authKey=kbHjKdnrT0PDxRTn4Kz9jlL3opsD6QFCyTYAwhTxaCXx61eGUbcRafUl9dfuvEae&noverify=0&group_code=260615782) |
+| 内卷之路二号群 (Group 2) | `758836738` | Development discussion; **recommended for developers** | [Join group](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=OvyIC3zGMYkEwIwx2Tu6YQnjL82I2tU_&authKey=EnHIcKeeuiLlMNQwUZ8ULlw6fesFB1DzbhJuuAbIoKefYJtUrmbV0YL2lxOejyCh&noverify=0&group_code=758836738) |
+
 ## Reporting issues
 
 If you encounter a problem while developing or using the project, please report it through [GitHub Issues](https://github.com/LGDLawliet/HeroicRoad/issues). Search existing issues before opening a new one to avoid duplicate reports.

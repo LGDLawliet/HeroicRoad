@@ -88,6 +88,15 @@ git lfs pull
 - 本地模式不支持的在线操作会返回失败；没有原服务器回退。
 
 
+## 社区交流（中国区）
+
+中国区的玩家和开发者也可以加入 QQ 讨论群。一号群以玩家交流为主，**开发者建议加入二号群**。
+
+| 群聊 | 群号 | 交流方向 | 加入方式 |
+| --- | --- | --- | --- |
+| 内卷之路一号群 | `260615782` | 玩家交流、玩法讨论 | [点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5Q8bOeNQJrFqCD-8ZBe3acVXVMttH2QZ&authKey=kbHjKdnrT0PDxRTn4Kz9jlL3opsD6QFCyTYAwhTxaCXx61eGUbcRafUl9dfuvEae&noverify=0&group_code=260615782) |
+| 内卷之路二号群 | `758836738` | 开发交流与讨论，**开发者推荐** | [点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=OvyIC3zGMYkEwIwx2Tu6YQnjL82I2tU_&authKey=EnHIcKeeuiLlMNQwUZ8ULlw6fesFB1DzbhJuuAbIoKefYJtUrmbV0YL2lxOejyCh&noverify=0&group_code=758836738) |
+
 ## 问题反馈
 
 开发或使用过程中遇到问题，请通过 [GitHub Issues](https://github.com/LGDLawliet/HeroicRoad/issues) 反馈。提交前请先搜索已有 Issue，避免重复报告。

@@ -11,6 +11,7 @@ This version uses a local Lua save adapter for the existing backend interfaces. 
 - **Version: Heroic Road:Chaotic Era.2.1G**
 - **Development began: December 2021**
 - **First published: September 2022**
+- **Official open-source release: September 2026**
 
 ## Project vision
 

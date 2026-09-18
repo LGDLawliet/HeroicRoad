@@ -79,13 +79,6 @@ Game logic → LocalArchive.CreateRequest → Local save logic → Original call
 - Settlement, purchases, and other changes remain in session memory and are not written back to the save files. A new session reloads the template.
 - Unsupported online operations return a failure. There is no fallback to the original backend.
 
-## Development notes
-
-Dota 2 loads the Lua game logic. The Panorama source entry point is `content/herodefense/panorama/layout/custom_game/custom_ui_manifest.xml`, and Workshop Tools compiles the resources.
-
-The root `package.json` and lockfiles preserve historical Node.js tooling dependencies. The only script, `wearables`, currently points to the missing `scripts/wearables.js`; there is also no working unified `npm run build` configuration. Running the addon does not depend on that command.
-
-Local editor settings, credentials, and tool caches are ignored by Git. Do not force-add those files.
 
 ## License
 

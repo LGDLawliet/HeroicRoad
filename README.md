@@ -79,13 +79,6 @@ git lfs pull
 - 结算、购买等更改仅保存在本局内存中，不会写回存档文件；新一局重新加载模板。
 - 本地模式不支持的在线操作会返回失败；没有原服务器回退。
 
-## 开发说明
-
-Lua 逻辑由 Dota 2 加载。Panorama 源码入口为 `content/herodefense/panorama/layout/custom_game/custom_ui_manifest.xml`，资源编译由 Workshop Tools 完成。
-
-根目录 `package.json` 和锁文件保留了历史 Node.js 工具依赖。目前唯一的 `wearables` 脚本指向缺失的 `scripts/wearables.js`，也没有可用的统一 `npm run build` 配置；运行 Addon 不以该命令为前提。
-
-本机编辑器配置、凭证和工具缓存已被忽略。不要强制提交这些文件。
 
 ## 许可证
 

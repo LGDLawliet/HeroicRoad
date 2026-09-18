@@ -6,6 +6,12 @@ A Dota 2 custom game project. The addon is named `herodefense`, and its default 
 
 This version uses a local Lua save adapter for the existing backend interfaces. Login, settlement, runes, and other supported operations are handled within the game session, without the original online backend.
 
+## Project version
+
+- **Version: 英雄之路:乱纪元 V 2.1G**
+- **Development began: December 2021**
+- **First published: September 2022**
+
 ## Project vision
 
 I (Lawliet) started developing this project during my junior year at university. In 2023, I handed its maintenance over to a player known as 长尾 (Changwei). Development and maintenance spanned five years in total. Although the project never achieved much success, I believe the experience gained along the way can offer useful lessons for future developers.

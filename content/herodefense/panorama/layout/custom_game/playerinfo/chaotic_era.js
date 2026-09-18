@@ -158,7 +158,7 @@ function CreateRuneList(spellName,bShowFadein){
                 if (bShowFadein) {
                     runePanel.SetHasClass("hasFade",true);
                 }
-                SetUpRuneInfo(runePanel,data,false);
+                SetUpRuneInfo(runePanel,data,false,i);
             }
         }
     }
@@ -166,7 +166,7 @@ function CreateRuneList(spellName,bShowFadein){
 
 
 
-function SetUpRuneInfo(runePanel,data,bOnlyShow) {
+function SetUpRuneInfo(runePanel,data,bOnlyShow,i) {
   
 
  
